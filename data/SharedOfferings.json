@@ -1,412 +1,415 @@
 [
-  {
-    "id": 1,
-    "index": "BLOODY_PARTY_STREAMERS",
-    "name": "Bloody Party Streamers",
-    "rarity": "RARE",
-    "description":
-      "Grants %b100%/b% bonus Bloodpoints in all Categories for all Players.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A reminder of a bloody good time when people came together, but left screaming.\"",
-    "image": "bloodyPartyStreamers"
-  },
-  {
-    "id": 2,
-    "index": "CLEAR_REAGENT",
-    "name": "Clear Reagent",
-    "rarity": "COMMON",
-    "description": "%bSlightly lessens%/b the Dark Mist.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"The Mist rolls in, traps all in its deep madness. There is no running, no escape, no asylum, except for the clear waters of the pond lost in the forest.\" — Unknown, Notebook",
-    "image": "clearReagent"
-  },
-  {
-    "id": 3,
-    "index": "FAINT_REAGENT",
-    "name": "Faint Reagent",
-    "rarity": "COMMON",
-    "description": "%bSlightly thickens%/b the Dark Mist.",
-    "abilities": ["Stacks"],
-    "flavor": "\"Paralysed, I stand in the cold as death lingers.\"",
-    "image": "faintReagent"
-  },
-  {
-    "id": 4,
-    "index": "HAZY_REAGENT",
-    "name": "Hazy Reagent",
-    "rarity": "UNCOMMON",
-    "description": "%bModerately thickens%/b the Dark Mist.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"The Mist is alluring, hypnotising. I love it and fear it at the same time.\" — Donna's Sketchbook",
-    "image": "hazyReagent"
-  },
-  {
-    "id": 5,
-    "index": "MURKY_REAGENT",
-    "name": "Murky Reagent",
-    "rarity": "VERY_RARE",
-    "description": "%bConsiderably thickens%/b the Dark Mist.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"The Mist seems to protect us from the beast, but it is a poison, a cancer, filling us with darkness and insanity.\" — Unknown, Notebook",
-    "image": "murkyReagent"
-  },
-  {
-    "id": 6,
-    "index": "NEW_MOON_BOUQUET",
-    "name": "New Moon Bouquet",
-    "rarity": "ULTRA_RARE",
-    "description": "Calls upon The Entity for the %bdarkest Moonlight%/b.",
-    "flavor": "\"Better go back to sleep, there is no moon this night.\"",
-    "image": "newMoonBouquet"
-  },
-  {
-    "id": 7,
-    "index": "CRESCENT_MOON_BOUQUET",
-    "name": "Crescent Moon Bouquet",
-    "rarity": "UNCOMMON",
-    "description": "Calls upon the Entity for a %bdimmed Moonlight%/b.",
-    "flavor":
-      "\"The moon slowly fades into a smile: \"Don't worry, your secret is safe with me.\" Or is it a grin?\"",
-    "image": "crecentMoonBouquet"
-  },
-  {
-    "id": 8,
-    "index": "QUARTER_MOON_BOUQUET",
-    "name": "Quarter Moon Bouquet",
-    "rarity": "UNCOMMON",
-    "description": "Calls upon the Entity for a %bbrighter Moonlight%/b.",
-    "flavor": "\"The old moon shows her face, looking down on the preys.\"",
-    "image": "quarterMoonBouquet"
-  },
-  {
-    "id": 9,
-    "index": "FULL_MOON_BOUQUET",
-    "name": "Full Moon Bouquet",
-    "rarity": "VERY_RARE",
-    "description": "Calls upon the Entity for the %bbrightest Moonlight%/b.",
-    "flavor":
-      "\"As the moon rises, the wolves howl, marking the beginning of the hunt.\"",
-    "image": "fullMoonBouquet"
-  },
-  {
-    "id": 10,
-    "index": "MACMILLAN_LEDGER_PAGE",
-    "name": "MacMillan Ledger Page",
-    "rarity": "COMMON",
-    "description":
-      "%bSlightly increases%/b the chance to be sent to MacMillan Estate when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A torn and faded-out ledger page with unreadable information except for the MacMillan stamp.\"",
-    "image": "macmillianLedgerPage"
-  },
-  {
-    "id": 11,
-    "index": "SIGNED_LEDGER_PAGE",
-    "name": "Signed Ledger Page",
-    "rarity": "UNCOMMON",
-    "description":
-      "%bConsiderably%/b increases the chance to be sent to MacMillan Estate when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A faded-out ledger page referring to mining related equipment and other transactions. Signed by Archie MacMillan.\"",
-    "image": "signedLedgerPage"
-  },
-  {
-    "id": 12,
-    "index": "MACMILLANS_PHALANX_BONE",
-    "name": "MacMillan's Phalanx Bone",
-    "rarity": "RARE",
-    "description":
-      "%bTremendously increases%/b the chance to be sent to MacMillan Estate when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"MacMillan's skeletal remains were found in the basement of the mine's storehouse. His leg bones shattered into pieces and a mining hammer lying in his lap.\"",
-    "image": "macmilliansPhalanxBone"
-  },
-  {
-    "id": 13,
-    "index": "SHREDDED_PLATE",
-    "name": "Shredded Plate",
-    "rarity": "COMMON",
-    "description":
-      "%bSlightly increases%/b the chance to be sent to Autohaven Wreckers when burnt.",
-    "abilities": ["Stacks"],
-    "flavor": "\"A heavily rusted, bent and torn metal sheet.\"",
-    "image": "plateShredded"
-  },
-  {
-    "id": 14,
-    "index": "VIRGINIA_PLATE",
-    "name": "Virginia Plate",
-    "rarity": "UNCOMMON",
-    "description":
-      "%bConsiderably increases%/b the chance to be sent to Autohaven Wreckers when burnt.",
-    "flavor": "\"A rusted and bent license plate from the state of Virginia.\"",
-    "abilities": ["Stacks"],
-    "image": "plateVirginia"
-  },
-  {
-    "id": 15,
-    "index": "AZAROVS_KEY",
-    "name": "Azarov's Key",
-    "rarity": "RARE",
-    "description":
-      "%bTremendously increases%/b the chance to be sent to Autohaven Wreckers when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A broken key pertaining to a vehicle of unknown brand. A key-chain attached to it identifies the owner as a certain A. Azarov\"",
-    "image": "azarovsKey"
-  },
-  {
-    "id": 16,
-    "index": "CATTLE_TAG_TWENTY_EIGHT",
-    "name": "Cattle Tag 28",
-    "rarity": "COMMON",
-    "description":
-      "%bSlightly increases%/b the chance to be sent to Coldwind Farm when burnt.",
-    "abilities": ["Stacks"],
-    "flavor": "\"A blood stained cattle tag identified with the number '28'.\"",
-    "image": "cattleTag28"
-  },
-  {
-    "id": 17,
-    "index": "CATTLE_TAG_EIGHTY_ONE",
-    "name": "Cattle Tag 81",
-    "rarity": "UNCOMMON",
-    "description":
-      "%bConsiderably increases%/b the chance to be sent to Coldwind Farm when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A blood stained cattle tag identified with 'Coldwind Farm' and the number '81'.\"",
-    "image": "cattleTag81"
-  },
-  {
-    "id": 18,
-    "index": "HEART_LOCKET",
-    "name": "Heart Locket",
-    "rarity": "RARE",
-    "description":
-      "%bTremendously increases%/b the chance to be sent to Coldwind Farm when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A silver heart locket necklace. The simple interior is engraved with the following: 'E+M'.\"",
-    "image": "heartLocket"
-  },
-  {
-    "id": 19,
-    "index": "LUNACY_TICKET",
-    "name": "Lunacy Ticket",
-    "rarity": "COMMON",
-    "description":
-      "%bSlightly increases%/b the chance to be sent to Crotus Prenn Asylum when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A worn and faded-out ticket of paper with unreadable information.\"",
-    "image": "lunacyTicket"
-  },
-  {
-    "id": 20,
-    "index": "P_ELLIOT_LUNACY_TICKET",
-    "name": "P. Elliott Lunacy Ticket",
-    "rarity": "UNCOMMON",
-    "description":
-      "%bConsiderably increases%/b the chance to be sent to Crotus Prenn Asylum when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A pink paper ticket identifying Philip Elliott as to be transferred to Crotus Prenn Asylum.\"",
-    "image": "pElliottLunacyTicket"
-  },
-  {
-    "id": 21,
-    "index": "CHARRED_WEDDING_PHOTOGRAPH",
-    "name": "Charred Wedding Photograph",
-    "rarity": "RARE",
-    "description":
-      "%bTremendously increases%/b the chance to be sent to Crotus Prenn Asylum when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A burned portrait of a couple on their wedding day, the faces are completely charred and unidentifiable.\"",
-    "image": "charredWeddingPhotograph"
-  },
-  {
-    "id": 22,
-    "index": "HARVEST_FESTIVAL_LEAFLET",
-    "name": "Harvest Festival Leaflet",
-    "rarity": "COMMON",
-    "description":
-      "%bSlightly increases%/b the chance to be sent to Haddonfield when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A washed out informational leaflet for the '78 Haddonfield Harvest Festival. A large cartoon pumpkin is depicted on the front.\"",
-    "image": "harvestFestivalLeaflet"
-  },
-  {
-    "id": 23,
-    "index": "DECREPIT_CLAPBOARD",
-    "name": "Decrepit Clapboard",
-    "rarity": "UNCOMMON",
-    "description":
-      "%bConsiderably increases%/b the chance to be sent to Haddonfield when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A moldy and rotten beaded oak clapboard like the ones found on most houses of Haddonfield.\"",
-    "image": "decrepitClapboard"
-  },
-  {
-    "id": 24,
-    "index": "STRODE_REALTY_KEY",
-    "name": "Strode Realty Key",
-    "rarity": "RARE",
-    "description":
-      "%bTremendously increases%/b the chance to be sent to Haddonfield when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "A house key, mundane in appearance. A cardboard key-tag attached to it reads 'Strode Real Estate', followed by a handwritten address: \"45 Lampkin Lane'.\"",
-    "image": "strodeRealtyKey"
-  },
-  {
-    "id": 25,
-    "index": "FUMING_CORDAGE",
-    "name": "Fuming Cordage",
-    "rarity": "COMMON",
-    "description":
-      "%bSlightly increases%/b the chance to be sent to Backwater Swamp when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A burnt piece of marine rope still emitting a warm black smoke.\"",
-    "image": "fumingCordage"
-  },
-  {
-    "id": 26,
-    "index": "FUMING_WELCOME_SIGN",
-    "name": "Fuming Welcome Sign",
-    "rarity": "UNCOMMON",
-    "description":
-      "%bConsiderably increases%/b the chance to be sent to Backwater Swamp when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A welcome sign made from a coarse piece of water polished cypress board. The sign is charred and still fuming.\"",
-    "image": "fumingWelcomeSign"
-  },
-  {
-    "id": 27,
-    "index": "GRANMAS_COOKBOOK",
-    "name": "Granma's Cookbook",
-    "rarity": "RARE",
-    "description":
-      "%bTremendously increases%/b the chance to be sent to Backwater Swamp when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A leather-bound book containing horrible human meat recipes such as the granny-slapping good chilli.\"",
-    "image": "granmasCookbook"
-  },
-  {
-    "id": 28,
-    "index": "EMERGENCY_CERTIFICATE",
-    "name": "Emergency Certificate",
-    "rarity": "COMMON",
-    "description":
-      "%bSlightly increases%/b the chance to be sent to Léry's Memorial Institute when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A yellow carbon-copy certificate which admits a patient into immediate detention for emergency treatment. Copied information smudged and unreadable.\"",
-    "image": "emergencyCertificate"
-  },
-  {
-    "id": 29,
-    "index": "PSYCHIATRIC_ASSESSMENT_REPORT",
-    "name": "Psychiatric Assessment Report",
-    "rarity": "UNCOMMON",
-    "description":
-      "%bConsiderably increases%/b the chance to be sent to Léry's Memorial Institute when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A Psychiatric report signed by Herman Carter. It describes the memory deterioration of a patient and suggestions for next steps in the procedure.\"",
-    "image": "psychiatricAssessmentReport"
-  },
-  {
-    "id": 30,
-    "index": "SHATTERED_GLASSES",
-    "name": "Shattered Glasses",
-    "rarity": "RARE",
-    "description":
-      "%bTremendously increases%/b the chance to be sent to Léry's Memorial Institute when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"Bent reading glasses. Speckles of dried blood can be seen on the shattered lenses.\"",
-    "image": "shatteredGlasses"
-  },
-  {
-    "id": 31,
-    "index": "PAINTED_RIVER_ROCK",
-    "name": "Painted River Rock",
-    "rarity": "COMMON",
-    "description":
-      "%bSlightly increases%/b the chance to be sent to Red Forest when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A slick and soft rock, polished by a stream. Decorated with red, black and white paint to depict a serious looking bear.\"",
-    "image": "paintedRiverRock"
-  },
-  {
-    "id": 32,
-    "index": "CHILDRENS_BOOK",
-    "name": "Children's Book",
-    "rarity": "UNCOMMON",
-    "description":
-      "%bConsiderably increases%/b the chance to be sent to Red Forest when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"An ancient and decrepit story book which pages have been lost to the elements.\"",
-    "image": "childrensBook"
-  },
-  {
-    "id": 33,
-    "index": "THE_LAST_MASK",
-    "name": "The Last Mask",
-    "rarity": "RARE",
-    "description":
-      "%bTremendously increases%/b the chance to be sent to Red Forest when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"A beautifully crafted tiger mask that would fit snug on a child's face. A faded note in the Cyrillic alphabet can be found scripted on the back.\"",
-    "image": "theLastMask"
-  },
-  {
-    "id": 34,
-    "index": "THE_PIED_PIPER",
-    "name": "The Pied Piper",
-    "rarity": "RARE",
-    "description":
-      "%bTremendously increases%/b the chance to be sent to Springwood when burnt.",
-    "abilities": ["Stacks"],
-    "flavor":
-      "\"Betrayed by the town, he exact his revenge by taking all their children.\"",
-    "image": "thePiedPiper"
-  },
-  {
-    "id": 36,
-    "index": "BLACK_WARD",
-    "name": "Black Ward",
-    "rarity": "VERY_RARE",
-    "description":
-      "Burning this offering grants you protection against the loss of your Add-ons at the end of the trial.",
-    "flavor": "\"Hear my voice, spare my ways, protect me from the void.\"",
-    "image": "wardBlack"
-  },
-  {
-    "id": 37,
-    "index": "WHITE_WARD",
-    "name": "White Ward",
-    "rarity": "VERY_RARE",
-    "description":
-      "Burning this offering grants you protection against the loss of your Item and Add-ons in the event you die.",
-    "flavor": "\"Keep me from evil, defend me, and pass away.\"",
-    "image": "wardWhite"
-  }
+    {
+        "id": 1,
+        "index": "BLOODY_PARTY_STREAMERS",
+        "name": "Bloody Party Streamers",
+        "rarity": "RARE",
+        "description":
+            "Grants %b100%/b% bonus Bloodpoints in all Categories for all Players.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A reminder of a bloody good time when people came together, but left screaming.\"",
+        "image": "bloodyPartyStreamers"
+    },
+    {
+        "id": 2,
+        "index": "CLEAR_REAGENT",
+        "name": "Clear Reagent",
+        "rarity": "COMMON",
+        "description": "%bSlightly lessens%/b the Dark Mist.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"The Mist rolls in, traps all in its deep madness. There is no running, no escape, no asylum, except for the clear waters of the pond lost in the forest.\" — Unknown, Notebook",
+        "image": "clearReagent"
+    },
+    {
+        "id": 3,
+        "index": "FAINT_REAGENT",
+        "name": "Faint Reagent",
+        "rarity": "COMMON",
+        "description": "%bSlightly thickens%/b the Dark Mist.",
+        "abilities": ["Stacks"],
+        "flavor": "\"Paralysed, I stand in the cold as death lingers.\"",
+        "image": "faintReagent"
+    },
+    {
+        "id": 4,
+        "index": "HAZY_REAGENT",
+        "name": "Hazy Reagent",
+        "rarity": "UNCOMMON",
+        "description": "%bModerately thickens%/b the Dark Mist.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"The Mist is alluring, hypnotising. I love it and fear it at the same time.\" — Donna's Sketchbook",
+        "image": "hazyReagent"
+    },
+    {
+        "id": 5,
+        "index": "MURKY_REAGENT",
+        "name": "Murky Reagent",
+        "rarity": "VERY_RARE",
+        "description": "%bConsiderably thickens%/b the Dark Mist.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"The Mist seems to protect us from the beast, but it is a poison, a cancer, filling us with darkness and insanity.\" — Unknown, Notebook",
+        "image": "murkyReagent"
+    },
+    {
+        "id": 6,
+        "index": "NEW_MOON_BOUQUET",
+        "name": "New Moon Bouquet",
+        "rarity": "ULTRA_RARE",
+        "description": "Calls upon The Entity for the %bdarkest Moonlight%/b.",
+        "flavor": "\"Better go back to sleep, there is no moon this night.\"",
+        "image": "newMoonBouquet"
+    },
+    {
+        "id": 7,
+        "index": "CRESCENT_MOON_BOUQUET",
+        "name": "Crescent Moon Bouquet",
+        "rarity": "UNCOMMON",
+        "description": "Calls upon the Entity for a %bdimmed Moonlight%/b.",
+        "flavor":
+            "\"The moon slowly fades into a smile: \"Don't worry, your secret is safe with me.\" Or is it a grin?\"",
+        "image": "crecentMoonBouquet"
+    },
+    {
+        "id": 8,
+        "index": "QUARTER_MOON_BOUQUET",
+        "name": "Quarter Moon Bouquet",
+        "rarity": "UNCOMMON",
+        "description": "Calls upon the Entity for a %bbrighter Moonlight%/b.",
+        "flavor": "\"The old moon shows her face, looking down on the preys.\"",
+        "image": "quarterMoonBouquet"
+    },
+    {
+        "id": 9,
+        "index": "FULL_MOON_BOUQUET",
+        "name": "Full Moon Bouquet",
+        "rarity": "VERY_RARE",
+        "description":
+            "Calls upon the Entity for the %bbrightest Moonlight%/b.",
+        "flavor":
+            "\"As the moon rises, the wolves howl, marking the beginning of the hunt.\"",
+        "image": "fullMoonBouquet"
+    },
+    {
+        "id": 10,
+        "index": "MACMILLAN_LEDGER_PAGE",
+        "name": "MacMillan Ledger Page",
+        "rarity": "COMMON",
+        "description":
+            "%bSlightly increases%/b the chance to be sent to MacMillan Estate when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A torn and faded-out ledger page with unreadable information except for the MacMillan stamp.\"",
+        "image": "macmillianLedgerPage"
+    },
+    {
+        "id": 11,
+        "index": "SIGNED_LEDGER_PAGE",
+        "name": "Signed Ledger Page",
+        "rarity": "UNCOMMON",
+        "description":
+            "%bConsiderably%/b increases the chance to be sent to MacMillan Estate when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A faded-out ledger page referring to mining related equipment and other transactions. Signed by Archie MacMillan.\"",
+        "image": "signedLedgerPage"
+    },
+    {
+        "id": 12,
+        "index": "MACMILLANS_PHALANX_BONE",
+        "name": "MacMillan's Phalanx Bone",
+        "rarity": "RARE",
+        "description":
+            "%bTremendously increases%/b the chance to be sent to MacMillan Estate when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"MacMillan's skeletal remains were found in the basement of the mine's storehouse. His leg bones shattered into pieces and a mining hammer lying in his lap.\"",
+        "image": "macmilliansPhalanxBone"
+    },
+    {
+        "id": 13,
+        "index": "SHREDDED_PLATE",
+        "name": "Shredded Plate",
+        "rarity": "COMMON",
+        "description":
+            "%bSlightly increases%/b the chance to be sent to Autohaven Wreckers when burnt.",
+        "abilities": ["Stacks"],
+        "flavor": "\"A heavily rusted, bent and torn metal sheet.\"",
+        "image": "plateShredded"
+    },
+    {
+        "id": 14,
+        "index": "VIRGINIA_PLATE",
+        "name": "Virginia Plate",
+        "rarity": "UNCOMMON",
+        "description":
+            "%bConsiderably increases%/b the chance to be sent to Autohaven Wreckers when burnt.",
+        "flavor":
+            "\"A rusted and bent license plate from the state of Virginia.\"",
+        "abilities": ["Stacks"],
+        "image": "plateVirginia"
+    },
+    {
+        "id": 15,
+        "index": "AZAROVS_KEY",
+        "name": "Azarov's Key",
+        "rarity": "RARE",
+        "description":
+            "%bTremendously increases%/b the chance to be sent to Autohaven Wreckers when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A broken key pertaining to a vehicle of unknown brand. A key-chain attached to it identifies the owner as a certain A. Azarov\"",
+        "image": "azarovsKey"
+    },
+    {
+        "id": 16,
+        "index": "CATTLE_TAG_TWENTY_EIGHT",
+        "name": "Cattle Tag 28",
+        "rarity": "COMMON",
+        "description":
+            "%bSlightly increases%/b the chance to be sent to Coldwind Farm when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A blood stained cattle tag identified with the number '28'.\"",
+        "image": "cattleTag28"
+    },
+    {
+        "id": 17,
+        "index": "CATTLE_TAG_EIGHTY_ONE",
+        "name": "Cattle Tag 81",
+        "rarity": "UNCOMMON",
+        "description":
+            "%bConsiderably increases%/b the chance to be sent to Coldwind Farm when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A blood stained cattle tag identified with 'Coldwind Farm' and the number '81'.\"",
+        "image": "cattleTag81"
+    },
+    {
+        "id": 18,
+        "index": "HEART_LOCKET",
+        "name": "Heart Locket",
+        "rarity": "RARE",
+        "description":
+            "%bTremendously increases%/b the chance to be sent to Coldwind Farm when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A silver heart locket necklace. The simple interior is engraved with the following: 'E+M'.\"",
+        "image": "heartLocket"
+    },
+    {
+        "id": 19,
+        "index": "LUNACY_TICKET",
+        "name": "Lunacy Ticket",
+        "rarity": "COMMON",
+        "description":
+            "%bSlightly increases%/b the chance to be sent to Crotus Prenn Asylum when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A worn and faded-out ticket of paper with unreadable information.\"",
+        "image": "lunacyTicket"
+    },
+    {
+        "id": 20,
+        "index": "P_ELLIOT_LUNACY_TICKET",
+        "name": "P. Elliott Lunacy Ticket",
+        "rarity": "UNCOMMON",
+        "description":
+            "%bConsiderably increases%/b the chance to be sent to Crotus Prenn Asylum when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A pink paper ticket identifying Philip Elliott as to be transferred to Crotus Prenn Asylum.\"",
+        "image": "pElliottLunacyTicket"
+    },
+    {
+        "id": 21,
+        "index": "CHARRED_WEDDING_PHOTOGRAPH",
+        "name": "Charred Wedding Photograph",
+        "rarity": "RARE",
+        "description":
+            "%bTremendously increases%/b the chance to be sent to Crotus Prenn Asylum when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A burned portrait of a couple on their wedding day, the faces are completely charred and unidentifiable.\"",
+        "image": "charredWeddingPhotograph"
+    },
+    {
+        "id": 22,
+        "index": "HARVEST_FESTIVAL_LEAFLET",
+        "name": "Harvest Festival Leaflet",
+        "rarity": "COMMON",
+        "description":
+            "%bSlightly increases%/b the chance to be sent to Haddonfield when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A washed out informational leaflet for the '78 Haddonfield Harvest Festival. A large cartoon pumpkin is depicted on the front.\"",
+        "image": "harvestFestivalLeaflet"
+    },
+    {
+        "id": 23,
+        "index": "DECREPIT_CLAPBOARD",
+        "name": "Decrepit Clapboard",
+        "rarity": "UNCOMMON",
+        "description":
+            "%bConsiderably increases%/b the chance to be sent to Haddonfield when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A moldy and rotten beaded oak clapboard like the ones found on most houses of Haddonfield.\"",
+        "image": "decrepitClapboard"
+    },
+    {
+        "id": 24,
+        "index": "STRODE_REALTY_KEY",
+        "name": "Strode Realty Key",
+        "rarity": "RARE",
+        "description":
+            "%bTremendously increases%/b the chance to be sent to Haddonfield when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "A house key, mundane in appearance. A cardboard key-tag attached to it reads 'Strode Real Estate', followed by a handwritten address: \"45 Lampkin Lane'.\"",
+        "image": "strodeRealtyKey"
+    },
+    {
+        "id": 25,
+        "index": "FUMING_CORDAGE",
+        "name": "Fuming Cordage",
+        "rarity": "COMMON",
+        "description":
+            "%bSlightly increases%/b the chance to be sent to Backwater Swamp when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A burnt piece of marine rope still emitting a warm black smoke.\"",
+        "image": "fumingCordage"
+    },
+    {
+        "id": 26,
+        "index": "FUMING_WELCOME_SIGN",
+        "name": "Fuming Welcome Sign",
+        "rarity": "UNCOMMON",
+        "description":
+            "%bConsiderably increases%/b the chance to be sent to Backwater Swamp when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A welcome sign made from a coarse piece of water polished cypress board. The sign is charred and still fuming.\"",
+        "image": "fumingWelcomeSign"
+    },
+    {
+        "id": 27,
+        "index": "GRANMAS_COOKBOOK",
+        "name": "Granma's Cookbook",
+        "rarity": "RARE",
+        "description":
+            "%bTremendously increases%/b the chance to be sent to Backwater Swamp when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A leather-bound book containing horrible human meat recipes such as the granny-slapping good chilli.\"",
+        "image": "granmasCookbook"
+    },
+    {
+        "id": 28,
+        "index": "EMERGENCY_CERTIFICATE",
+        "name": "Emergency Certificate",
+        "rarity": "COMMON",
+        "description":
+            "%bSlightly increases%/b the chance to be sent to Léry's Memorial Institute when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A yellow carbon-copy certificate which admits a patient into immediate detention for emergency treatment. Copied information smudged and unreadable.\"",
+        "image": "emergencyCertificate"
+    },
+    {
+        "id": 29,
+        "index": "PSYCHIATRIC_ASSESSMENT_REPORT",
+        "name": "Psychiatric Assessment Report",
+        "rarity": "UNCOMMON",
+        "description":
+            "%bConsiderably increases%/b the chance to be sent to Léry's Memorial Institute when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A Psychiatric report signed by Herman Carter. It describes the memory deterioration of a patient and suggestions for next steps in the procedure.\"",
+        "image": "psychiatricAssessmentReport"
+    },
+    {
+        "id": 30,
+        "index": "SHATTERED_GLASSES",
+        "name": "Shattered Glasses",
+        "rarity": "RARE",
+        "description":
+            "%bTremendously increases%/b the chance to be sent to Léry's Memorial Institute when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"Bent reading glasses. Speckles of dried blood can be seen on the shattered lenses.\"",
+        "image": "shatteredGlasses"
+    },
+    {
+        "id": 31,
+        "index": "PAINTED_RIVER_ROCK",
+        "name": "Painted River Rock",
+        "rarity": "COMMON",
+        "description":
+            "%bSlightly increases%/b the chance to be sent to Red Forest when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A slick and soft rock, polished by a stream. Decorated with red, black and white paint to depict a serious looking bear.\"",
+        "image": "paintedRiverRock"
+    },
+    {
+        "id": 32,
+        "index": "CHILDRENS_BOOK",
+        "name": "Children's Book",
+        "rarity": "UNCOMMON",
+        "description":
+            "%bConsiderably increases%/b the chance to be sent to Red Forest when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"An ancient and decrepit story book which pages have been lost to the elements.\"",
+        "image": "childrensBook"
+    },
+    {
+        "id": 33,
+        "index": "THE_LAST_MASK",
+        "name": "The Last Mask",
+        "rarity": "RARE",
+        "description":
+            "%bTremendously increases%/b the chance to be sent to Red Forest when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"A beautifully crafted tiger mask that would fit snug on a child's face. A faded note in the Cyrillic alphabet can be found scripted on the back.\"",
+        "image": "theLastMask"
+    },
+    {
+        "id": 34,
+        "index": "THE_PIED_PIPER",
+        "name": "The Pied Piper",
+        "rarity": "RARE",
+        "description":
+            "%bTremendously increases%/b the chance to be sent to Springwood when burnt.",
+        "abilities": ["Stacks"],
+        "flavor":
+            "\"Betrayed by the town, he exact his revenge by taking all their children.\"",
+        "image": "thePiedPiper"
+    },
+    {
+        "id": 36,
+        "index": "BLACK_WARD",
+        "name": "Black Ward",
+        "rarity": "VERY_RARE",
+        "description":
+            "Burning this offering grants you protection against the loss of your Add-ons at the end of the trial.",
+        "flavor": "\"Hear my voice, spare my ways, protect me from the void.\"",
+        "image": "wardBlack"
+    },
+    {
+        "id": 37,
+        "index": "WHITE_WARD",
+        "name": "White Ward",
+        "rarity": "VERY_RARE",
+        "description":
+            "Burning this offering grants you protection against the loss of your Item and Add-ons in the event you die.",
+        "flavor": "\"Keep me from evil, defend me, and pass away.\"",
+        "image": "wardWhite"
+    }
 ]
