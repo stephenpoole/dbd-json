@@ -380,8 +380,8 @@
         "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "NEA_KARLSSON",
         "description":
-            "When Balanced Landing is active, stagger effects from long falls are reduced by %s.\nTier III only: Upon landing, start sprinting at %s your normal running speed for a maximum of %s if not exhausted.\nCauses Exhaustion for %s.",
-        "flavor": "\"I've jumped from higher places.\" — Nea Karlsson",
+            "Your agility is incomparable. Cat-like reflexes reduce your stagger duration from falls by %s.\nUpon landing start sprinting at %s your normal running speed for a maximum of %s if not exhausted.\nCauses %bExhaustion%/b for %s.",
+        "flavor": "\"I've jumped from higher places.\" -Nea",
         "image": "balancedLanding",
         "tiers": [
             ["50%", "150%", "3 seconds", "40 seconds"],
@@ -701,9 +701,9 @@
         "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "DAVID_TAPP",
         "description":
-            "Getting close to the Killer fills you with determination. For each %s you are standing within the Killer's Terror Radius and are not in a Chase, you gain a Token up to a maximum of %s.\nWhen Stake Out has at least %b1 Token%/b, Good Skill Checks are considered Great Skill Checks and consume %b1 Token%/b.",
+            "Getting close to the Killer fills you with determination. For each %s you are standing within the Killer Terror Radius and not in a Chase, you gain a Token up to a maximum of %s.\nWhen %iStake Out%/i has at least %b1 Token%/b, Good Skill Checks are considered Great Skill Checks and consume %b1 Token%/b.",
         "flavor":
-            "\"I had you, I had you on your knees. You're runnin' scared because we had you. We're gonna close this case!\" — Detective David Tapp",
+            "\"I had you, I had you on your knees. You're runnin' scared because we had you. We're gonna close this case!\" -Detective David Tapp",
         "image": "stakeOut",
         "tiers": [
             ["15 seconds", "2 Tokens"],
