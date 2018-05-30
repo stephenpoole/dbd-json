@@ -615,7 +615,7 @@
         "owner": "CLOWN",
         "description":
             "Your presence alone instills great fear. Survivors within your terror radius have a %s penalty to healing progression speed.",
-        "image": "",
+        "image": "coulrophobia",
         "tiers": [["30%"], ["40%"], ["50%"]]
     },
     {
@@ -625,8 +625,8 @@
         "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "CLOWN",
         "description":
-            "A deep bond with The Entity unlocks great strength. After Hooking a Survivor, the next Generator you break is instantly regressed by %s of its total progression. Normal generator regression applies after the damage is done. %iPop Goes the Weasel%/i is active for %s after the Survivors is hooked.",
-        "image": "",
+            "A deep bond with The Entity unlocks great strength. After Hooking a Survivor, the next Generator you break is instantly regressed by %s of its total progression. Normal generator regression applies after the damage is done. %iPop Goes the Weasel%/i is active for %s after the Survivor is hooked.",
+        "image": "popGoesTheWeasel",
         "tiers": [
             ["15%", "30 seconds"],
             ["20%", "30 seconds"],
@@ -641,7 +641,7 @@
         "owner": "CLOWN",
         "description":
             "Your Vault speed is %s faster.\nPerforming a vault action calls upon The Entity to block that vault location for %s.\nOnly 1 vault location may be blocked in this way at any time. The vault location is blocked only for Survivors.",
-        "image": "",
+        "image": "bamboozle",
         "tiers": [
             ["5%", "8 seconds"],
             ["10%", "12 seconds"],
