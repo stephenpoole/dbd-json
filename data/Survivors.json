@@ -108,8 +108,8 @@
         "id": 13,
         "index": "KATE_DENSON",
         "name": "Kate Denson",
-        "description": "",
+        "description": "A hopeful songbird, able to make the most of her surroundings.",
         "perks": ["WINDOWS_OF_OPPORTUNITY", "BOIL_OVER", "DANCE_WITH_ME"],
-        "image": "KD"
+        "image": "GS"
     }
 ]

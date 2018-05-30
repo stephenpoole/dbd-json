@@ -2937,5 +2937,290 @@
         "flavor":
             "\"Amanda, you were with Cecil the night Jill lost Gideon. You killed their child. You know it and I know it.\" — Amanda's Letter",
         "image": "amandasLetter"
+    },
+    {
+        "id": 550,
+        "index": "SMELLY_INNER_SOLES",
+        "name": "Smelly Inner Soles",
+        "owner": "CLOWN",
+        "rarity": "COMMON",
+        "description":
+            "A moldy inner sole which gives much comfort to tired feet.",
+        "abilities": [
+            "%bSlightly%/b increases Movement Speed while reloading.",
+            "Stacks."
+        ],
+        "image": "smellyInnerSoles"
+    },
+    {
+        "id": 551,
+        "index": "ROBIN_FEATHER",
+        "name": "Robin Feather",
+        "owner": "CLOWN",
+        "rarity": "COMMON",
+        "description":
+            "A warm orange feather, soft to the touch",
+        "abilities": [
+            "%bSlightly%/b decreases cooldown time between The Afterpiece Tonic throws.",
+            "Stacks."
+        ],
+        "image": "robinFeather"
+    },
+    {
+        "id": 552,
+        "index": "FINGERLESS_PARADE_GLOVES",
+        "name": "Fingerless Parade Gloves",
+        "owner": "CLOWN",
+        "rarity": "COMMON",
+        "description":
+            "Part of the standard Clown apparel, the cut fingers allow for dextrous manipulations.",
+        "abilities": [
+            "%bSlightly%/b decreases Reload Time.",
+            "Stacks."
+        ],
+        "image": "fingerlessParadeGloves"
+    },
+    {
+        "id": 553,
+        "index": "ETHER_5_VOL",
+        "name": "Ether 5 Vol%",
+        "owner": "CLOWN",
+        "rarity": "COMMON",
+        "description":
+            "An organic compound used for anesthetic purposes.",
+        "abilities": [
+            "%bSlightly%/b increases intoxicatd Effect duration.",
+            "Stacks."
+        ],
+        "image": "ether5"
+    },
+    {
+        "id": 554,
+        "index": "THICK_CORK_STOPPER",
+        "name": "Thick Cork Stopper",
+        "owner": "CLOWN",
+        "rarity": "UNCOMMON",
+        "description":
+            "A cork sturdy fitting The Afterpirce Tonic bottles marvelously.",
+        "abilities": [
+            "%bModerately%/b decreases Reload Time.",
+            "Stacks."
+        ],
+        "image": "thickCorkStopper"
+    },
+    {
+        "id": 555,
+        "index": "STICKY_SODA_BOTTLE",
+        "name": "Sticky Soda Bottle",
+        "owner": "CLOWN",
+        "rarity": "UNCOMMON",
+        "description":
+            "An empty bottle, sticky with dried sugar and blood.",
+        "abilities": [
+            "Starts with %b1 extra%/b bottle of The Afterpiece Tonic.",
+            "Increases maximum carried bottles by %b1%/b.",
+            "Stacks."
+        ],
+        "image": "stickySodaBottle"
+    },
+    {
+        "id": 556,
+        "index": "STARLING_FEATHER",
+        "name": "Starling Feather",
+        "owner": "CLOWN",
+        "rarity": "UNCOMMON",
+        "description":
+            "A black feather with an emerald gloss, very soft to the touch.",
+        "abilities": [
+            "%bModerately%/b decreases cooldown time between The Afterpiece Tonic throws.",
+            "Stacks."
+        ],
+        "image": "starlingFeather"
+    },
+    {
+        "id": 557,
+        "index": "SOLVENT_JUG",
+        "name": "Solvent Jug",
+        "owner": "CLOWN",
+        "rarity": "UNCOMMON",
+        "description":
+            "A chemical bottle compund that irritates the respiratory tract.",
+        "abilities": [
+            "Intoxicated target suffers from the %Exhaustion%/b status effect for %b30 seconds%/b.",
+            "Stacks."
+        ],
+        "image": "solventJug"
+    },
+    {
+        "id": 558,
+        "index": "KEROZENE_CAN",
+        "name": "Kerozene Can",
+        "owner": "CLOWN",
+        "rarity": "UNCOMMON",
+        "description":
+            "A thin and clear combustible liquid which numbs the mind when inhaled.",
+        "abilities": [
+            "Intoxicated target suffers from the %Blindness%/b status effect for %b30 seconds%/b.",
+            "Stacks."
+        ],
+        "image": "keroseneCan"
+    },
+    {
+        "id": 559,
+        "index": "VHS_PORN",
+        "name": "VHS Porn",
+        "owner": "CLOWN",
+        "rarity": "RARE",
+        "description":
+            "An all time classic.",
+        "abilities": [
+            "%bModerately%/b increases movement Speed while reloading The Afterpiece Tonic.",
+            "Stacks."
+        ],
+        "image": "vhsPorn"
+    },
+    {
+        "id": 560,
+        "index": "SULFURIC_ACID_VIAL",
+        "name": "Sulfuric Acid Vial",
+        "owner": "CLOWN",
+        "rarity": "RARE",
+        "description":
+            "An odorless syrupy liquid with high corrosiveness.",
+        "abilities": [
+            "Intoxicated target suffers %bConsiderably%/b from the %bMangled%/b status effect for %b120 seconds%/b.",
+            "Stacks."
+        ],
+        "image": "sulfuricAcidVial"
+    },
+    {
+        "id": 561,
+        "index": "FLASK_OF_BLEACH",
+        "name": "Flask of Bleach",
+        "owner": "CLOWN",
+        "rarity": "RARE",
+        "description":
+            "A potent chemical which cases irritation, burning and lung damage.",
+        "abilities": [
+            "Intoxicated target suffers %bModerately%/b from an extra %bHindered%/b Penalty.",
+            "Intoxicated Effect duration is %bSlightly%/b reduced.",
+            "Stacks."
+        ],
+        "image": "flaskOfBleach"
+    },
+    {
+        "id": 562,
+        "index": "ETHER_10_VOL",
+        "name": "Ether 10 Vol%",
+        "owner": "CLOWN",
+        "rarity": "RARE",
+        "description":
+            "A volatile organic compound used for anesthetic purposes.",
+        "abilities": [
+            "%bModerately%/b increases Intoxicated Effect duration.",
+            "Stacks."
+        ],
+        "image": "ether10"
+    },
+    {
+        "id": 563,
+        "index": "BOTTLE_OF_CHLOROFORM",
+        "name": "Bottle of Chloroform",
+        "owner": "CLOWN",
+        "rarity": "RARE",
+        "description":
+            "A sweet-smelling organic compound with strong anesthetic capabilities.",
+        "abilities": [
+            "%Considerably%/b increases Intoxicated Effect duration.",
+            "Stacks."
+        ],
+        "image": "bottleOfChloroform"
+    },
+    {
+        "id": 564,
+        "index": "GARISH_MAKEUP_KIT",
+        "name": "Garish Makeup Kit",
+        "owner": "CLOWN",
+        "rarity": "VERY_RARE",
+        "description":
+            "Some for the face and some for the Tonic. The diluted makeup sticks to the lungs.",
+        "abilities": [
+            "%Moderately%/b expands The Afterpiece Tonic Gas Effect area.",
+            "The Afterpiece Tonic Gas Effect duration lasts %bModerately%/b longer.",
+            "Stacks."
+        ],
+        "image": "garishMakeupKit"
+    },
+    {
+        "id": 565,
+        "index": "CHEAP_GIN_BOTTLE",
+        "name": "Cheap Gin Bottle",
+        "owner": "CLOWN",
+        "rarity": "VERY_RARE",
+        "description":
+            "The only remnant of a cheap good time and one hell of a headache.",
+        "abilities": [
+            "Start with %2 extra%/b bottles of The Afterpiece Tonic.",
+            "Increases maximum carried bottles by %b2%/b.",
+            "Stacks."
+        ],
+        "image": "cheapGinBottle"
+    },
+    {
+        "id": 566,
+        "index": "ETHER_15_VOL",
+        "name": "Ether 15 Vol%",
+        "owner": "CLOWN",
+        "rarity": "VERY_RARE",
+        "description":
+            "A highly volatile organic compound, toxic at this concentration.",
+        "abilities": [
+            "%bConsiderably%/b increases Intoxicated Effect duration.",
+            "Stacks."
+        ],
+        "image": "ether15"
+    },
+    {
+        "id": 567,
+        "index": "CIGAR_BOX",
+        "name": "Cigar Box",
+        "owner": "CLOWN",
+        "rarity": "VERY_RARE",
+        "description":
+            "A grim and incomplete collection of fingers. Fills The Clown with longing and focus on his anesthetic abilities.",
+        "abilities": [
+            "%bSlightly%/b expands The Afterpiece Tonic Gas Effect area.",
+            "%bSlightly%/b increases the intoxicated target's blurred vision.",
+            "Stacks."
+        ],
+        "image": "cigarBox"
+    },
+    {
+        "id": 568,
+        "index": "TATTOOS_MIDDLE_FINGER",
+        "name": "Tattoo's Middle Finger",
+        "owner": "CLOWN",
+        "rarity": "ULTRA_RARE",
+        "description":
+            "The prized middle finger of a large tattooed man. Has a faint taste of machinery oil.",
+        "abilities": [
+            "Auras of Intoxicated survivors are revealed to you for %b6 seconds%/b"
+        ],
+        "image": "tattoosMiddleFinger"
+    },
+    {
+        "id": 569,
+        "index": "REDHEADS_PINKY_FINGER",
+        "name": "Redhead's Pinky Finger",
+        "owner": "CLOWN",
+        "rarity": "ULTRA_RARE",
+        "description":
+            "The prized pinky of a redhead. Faintly fragrant. Tastes of potpourri and varnish.",
+        "abilities": [
+            "Survivors hit directly by a bottle of The Afterpiece Tonic suffer from the %bExposed%/b status effect.",
+            "%bSlightly%/b reduces the Intoxication Effect duration.",
+            "Stacks."
+        ],
+        "image": "redheadsPinkyFinger"
     }
 ]

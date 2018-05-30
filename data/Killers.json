@@ -5,7 +5,7 @@
         "name": "The Trapper",
         "power": "BEAR_TRAP",
         "description":
-            "An area-control Killer, able to apply pressure across the map by placing %bBear Traps%/b for Survivors to step in.",
+            "An area-control Killer, able to apply pressure across the map by placing deadly %bBear Traps%/b for Survivors to step in.",
         "perks": ["UNNERVING_PRESENCE", "BRUTAL_STRENGTH", "AGITATION"],
         "image": "TR"
     },
@@ -93,7 +93,7 @@
         "name": "The Doctor",
         "power": "CARTERS_SPARK",
         "description":
-            "A madness-inducing Killer, able to use his power, %bCarter's Spark%/b, to create a static field incapacitating Survivors and eventually causing them to hallucinate and scream in terror revealing their position.",
+            "A madness-inducing Killer, able to use his power, %bCarter's Spark%/b, to create a static field incapacitating Survivors and eventually causing them to hallucinate and scream in terror, revealing their position.",
         "perks": ["OVERWHELMING_PRESENCE", "MONITOR_AND_ABUSE", "OVERCHARGE"],
         "image": "DO"
     },
@@ -125,6 +125,6 @@
         "description":
             "A strategic Killer, able to control and corral survivors by throwing bottles of %bThe Afterpiece Tonic%/b to create clouds of noxious gas that cover large areas for a short amount of time. Survivors intoxicated by the gas are infliced with impaired vision and movement speed, and give away their location by coughing loudly.",
         "perks": ["BAMBOOZLE", "COULROPHOBIA", "POP_GOES_THE_WEASEL"],
-        "image": ""
+        "image": "GK"
     }
 ]

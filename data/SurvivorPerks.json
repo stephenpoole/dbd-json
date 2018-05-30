@@ -718,10 +718,10 @@
         "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "KATE_DENSON",
         "description":
-            "Unlocked potential in one's aura reading ability. Auras of pallets and vaults are revealed to you when within a %s range.\n%iWindows of Opportunity%/i has a cooldown of %s when vaulting or dropping a pallet during a chase.",
+            "Unlocks potential in one's aura reading ability. Auras of pallets and vaults are revealed to you when within a %s range.\n%iWindows of Opportunity%/i has a cooldown of %s when vaulting or dropping a pallet during a chase.",
         "flavor":
             "\"Rise and shine, work hard, carve out your name,\nTake aim, pull the trigger, hit the bulls eye for fame,\nKnow the value of faith, an' family, and don't you complain,\nOpen wide, your windows of opportunity\"\n-Kate Denson's \"Windows of Opportunity\"",
-        "image": "stakeOut",
+        "image": "windowsOfOpportunity",
         "tiers": [
             ["20 meters", "60 seconds"],
             ["20 meters", "50 seconds"],
@@ -738,7 +738,7 @@
             "You are a battler and do everything to escape a foe's grasp.\nYour struggling effect on The Killer are increased by %s.\nYou obscure The Killer's ability to see hook auras within %s.",
         "flavor":
             "\"Buck and Wild,\nSwing to be free,\nYour hands just can't keep ahold of me.\"\n-Kate Denson's \"Boil Over\"",
-        "image": "stakeOut",
+        "image": "boilOver",
         "tiers": [
             ["25%", "10 meters"],
             ["50%", "12 meters"],
@@ -746,7 +746,7 @@
         ]
     },
     {
-        "id": 151,
+        "id": 152,
         "index": "DANCE_WITH_ME",
         "name": "Dance With Me",
         "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
@@ -755,11 +755,11 @@
             "When performing a fast vault or leaving a locker in a sprint,\nyou leave no scratch marks for %s.\n%iDance With Me%/ihas a cooldown of %s.",
         "flavor":
             "\"Another show's off and runnin',\nDance with me, cuz there's a storm a commin',\nFollow my boots, try to keep up,\nDance with me, until sun up.\"\n-Kate Denson's \"Dance with me\"",
-        "image": "stakeOut",
+        "image": "danceWithMe",
         "tiers": [
-            ["25%", "10 meters"],
-            ["50%", "12 meters"],
-            ["75%", "14 meters"]
+            ["3 seconds", "40 seconds"],
+            ["3 seconds", "50 seconds"],
+            ["3 seconds", "60 seconds"]
         ]
     }
 ]
