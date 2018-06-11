@@ -180,7 +180,7 @@
             "Throughout his years experimenting with anesthetics and muscle relaxants, The Clown developed several effective concoctions and formulas. His favourite, The Afterpiece Tonic, he has used to great effect, intoxicating and capturing many unwilling victims.",
         "abilities": [
             "Tap or hold and release the Power button to launch a bottle of The Afterpiece Tonic. On contact, the bottle will break, emitting a gas cloud that will intoxicate any survivors within the area of effect.",
-            "Intoxicated Survivors will suffer from impaired vision, reduced movement speed, and involuntary coughing for 1.5 seconds.",
+            "Intoxicated Survivors will suffer from impaired vision, reduced movement speed, and involuntary coughing for 2 seconds.",
             "Press and hold the %iActive Ability%/i to replenish your bottles of The Afterpiece Tonic."
         ],
         "image": "gasBomb"
