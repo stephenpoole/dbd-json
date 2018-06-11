@@ -2958,8 +2958,7 @@
         "name": "Robin Feather",
         "owner": "CLOWN",
         "rarity": "COMMON",
-        "description":
-            "A warm orange feather, soft to the touch",
+        "description": "A warm orange feather, soft to the touch",
         "abilities": [
             "%bSlightly%/b decreases cooldown time between The Afterpiece Tonic throws.",
             "Stacks."
@@ -2974,10 +2973,7 @@
         "rarity": "COMMON",
         "description":
             "Part of the standard Clown apparel, the cut fingers allow for dextrous manipulations.",
-        "abilities": [
-            "%bSlightly%/b decreases Reload Time.",
-            "Stacks."
-        ],
+        "abilities": ["%bSlightly%/b decreases Reload Time.", "Stacks."],
         "image": "fingerlessParadeGloves"
     },
     {
@@ -2986,8 +2982,7 @@
         "name": "Ether 5 Vol%",
         "owner": "CLOWN",
         "rarity": "COMMON",
-        "description":
-            "An organic compound used for anesthetic purposes.",
+        "description": "An organic compound used for anesthetic purposes.",
         "abilities": [
             "%bSlightly%/b increases intoxicatd Effect duration.",
             "Stacks."
@@ -3002,10 +2997,7 @@
         "rarity": "UNCOMMON",
         "description":
             "A cork sturdy fitting The Afterpirce Tonic bottles marvelously.",
-        "abilities": [
-            "%bModerately%/b decreases Reload Time.",
-            "Stacks."
-        ],
+        "abilities": ["%bModerately%/b decreases Reload Time.", "Stacks."],
         "image": "thickCorkStopper"
     },
     {
@@ -3014,8 +3006,7 @@
         "name": "Sticky Soda Bottle",
         "owner": "CLOWN",
         "rarity": "UNCOMMON",
-        "description":
-            "An empty bottle, sticky with dried sugar and blood.",
+        "description": "An empty bottle, sticky with dried sugar and blood.",
         "abilities": [
             "Starts with %b1 extra%/b bottle of The Afterpiece Tonic.",
             "Increases maximum carried bottles by %b1%/b.",
@@ -3071,8 +3062,7 @@
         "name": "VHS Porn",
         "owner": "CLOWN",
         "rarity": "RARE",
-        "description":
-            "An all time classic.",
+        "description": "An all time classic.",
         "abilities": [
             "%bModerately%/b increases movement Speed while reloading The Afterpiece Tonic.",
             "Stacks."
@@ -3085,8 +3075,7 @@
         "name": "Sulfuric Acid Vial",
         "owner": "CLOWN",
         "rarity": "RARE",
-        "description":
-            "An odorless syrupy liquid with high corrosiveness.",
+        "description": "An odorless syrupy liquid with high corrosiveness.",
         "abilities": [
             "Intoxicated target suffers %bConsiderably%/b from the %bMangled%/b status effect for %b120 seconds%/b.",
             "Stacks."
@@ -3103,7 +3092,6 @@
             "A potent chemical which cases irritation, burning and lung damage.",
         "abilities": [
             "Intoxicated target suffers %bModerately%/b from an extra %bHindered%/b Penalty.",
-            "Intoxicated Effect duration is %bSlightly%/b reduced.",
             "Stacks."
         ],
         "image": "flaskOfBleach"
