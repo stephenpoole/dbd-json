@@ -4,11 +4,12 @@
         "index": "BOG_LAUREL_SACHET",
         "name": "Bog Laurel Sachet",
         "rarity": "COMMON",
-        "description":
-            "Grants %b50%/b% bonus Bloodpoints in the Objective Category.",
-        "abilities": ["Personal", "Stacks"],
-        "flavor":
-            "\"A palm-sized hand sewn sachet filled with dry leaves. Releases a faint tea-like aroma.\"",
+        "description": "Grants %b50%/b% bonus Bloodpoints in the Objective Category.",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
+        "flavor": "\"A palm-sized hand sewn sachet filled with dry leaves. Releases a faint tea-like aroma.\"",
         "image": "bogLaurelSachet"
     },
     {
@@ -16,11 +17,12 @@
         "index": "FRESH_BOG_LAUREL",
         "name": "Fresh Bog Laurel",
         "rarity": "UNCOMMON",
-        "description":
-            "Grants %b75%/b% bonus Bloodpoints in the Objective Category.",
-        "abilities": ["Personal", "Stacks"],
-        "flavor":
-            "\"A beautiful purple flower that grows in the midst of the tainted swamp. Releases a mild tea-like aroma.\"",
+        "description": "Grants %b75%/b% bonus Bloodpoints in the Objective Category.",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
+        "flavor": "\"A beautiful purple flower that grows in the midst of the tainted swamp. Releases a mild tea-like aroma.\"",
         "image": "freshBogLaurel"
     },
     {
@@ -28,11 +30,12 @@
         "index": "FRAGRANT_BOG_LAUREL",
         "name": "Fragrant Bog Laurel",
         "rarity": "RARE",
-        "description":
-            "Grants %b100%/b% bonus Bloodpoints in the Objective Category.",
-        "abilities": ["Personal", "Stacks"],
-        "flavor":
-            "\"A beautiful purple flower that grows in the midst of the tainted swamp. Releases a strong tea-like aroma.\"",
+        "description": "Grants %b100%/b% bonus Bloodpoints in the Objective Category.",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
+        "flavor": "\"A beautiful purple flower that grows in the midst of the tainted swamp. Releases a strong tea-like aroma.\"",
         "image": "fragrantBogLaurel"
     },
     {
@@ -40,9 +43,11 @@
         "index": "CRISPLEAF_AMARANTH_SACHET",
         "name": "Crispleaf Amaranth Sachet",
         "rarity": "COMMON",
-        "description":
-            "Grants %b50%/b% bonus Bloodpoints in the Survival Category.",
-        "abilities": ["Personal", "Stacks"],
+        "description": "Grants %b50%/b% bonus Bloodpoints in the Survival Category.",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
         "image": "crispleafAmaranthSachet"
     },
     {
@@ -50,9 +55,11 @@
         "index": "FRESH_CRISPLEAF_AMARANTH",
         "name": "Fresh Crispleaf Amaranth",
         "rarity": "UNCOMMON",
-        "description":
-            "Grants %b75%/b% bonus Bloodpoints in the Survival Category.",
-        "abilities": ["Personal", "Stacks"],
+        "description": "Grants %b75%/b% bonus Bloodpoints in the Survival Category.",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
         "image": "freshCrispleafAmaranth"
     },
     {
@@ -60,9 +67,11 @@
         "index": "FRAGRANT_CRISPLEAF_AMARANTH",
         "name": "Fragrant Crispleaf Amaranth",
         "rarity": "RARE",
-        "description":
-            "Grants %b100%/b% bonus Bloodpoints in the Survival Category.",
-        "abilities": ["Personal", "Stacks"],
+        "description": "Grants %b100%/b% bonus Bloodpoints in the Survival Category.",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
         "image": "fragrantCrispleafAmaranth"
     },
     {
@@ -70,11 +79,12 @@
         "index": "PRIMROSE_BLOSSOM_SACHET",
         "name": "Primrose Blossom Sachet",
         "rarity": "COMMON",
-        "description":
-            "Grants %b50%/b% bonus Bloodpoints in the Altruism Category.",
-        "abilities": ["Personal", "Stacks"],
-        "flavor":
-            "\"A palm-sized hand-sewn sachet containing 4 gold pultetals. The primrose opens at the very last moment before the sun gives place to the night.\"",
+        "description": "Grants %b50%/b% bonus Bloodpoints in the Altruism Category.",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
+        "flavor": "\"A palm-sized hand-sewn sachet containing 4 gold pultetals. The primrose opens at the very last moment before the sun gives place to the night.\"",
         "image": "primroseBlossomSachet"
     },
     {
@@ -82,11 +92,12 @@
         "index": "FRESH_PRIMROSE_BLOSSOM",
         "name": "Fresh Primrose Blossom",
         "rarity": "UNCOMMON",
-        "description":
-            "Grants %b75%/b% bonus Bloodpoints in the Altruism Category.",
-        "abilities": ["Personal", "Stacks"],
-        "flavor":
-            "\"Golden flowers harvested at their peak. The primrose opens at the very last moment before the sun gives place to the night.\"",
+        "description": "Grants %b75%/b% bonus Bloodpoints in the Altruism Category.",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
+        "flavor": "\"Golden flowers harvested at their peak. The primrose opens at the very last moment before the sun gives place to the night.\"",
         "image": "freshPrimroseBlossom"
     },
     {
@@ -94,9 +105,11 @@
         "index": "FRAGRANT_PRIMROSE_BLOSSOM",
         "name": "Fragrant Primrose Blossom",
         "rarity": "RARE",
-        "description":
-            "Grants %b100%/b% bonus Bloodpoints in the Altruism Category.",
-        "abilities": ["Personal", "Stacks"],
+        "description": "Grants %b100%/b% bonus Bloodpoints in the Altruism Category.",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
         "image": "fragrantPrimroseBlossom"
     },
     {
@@ -104,11 +117,12 @@
         "index": "SWEET_WILLIAM_SACHET",
         "name": "Sweet William Sachet",
         "rarity": "COMMON",
-        "description":
-            "Grants %b50%/b% bonus Bloodpoints in the Boldness Category.",
-        "abilities": ["Personal", "Stacks"],
-        "flavor":
-            "\"A palm-sized hand-swen sachet containing a mix of pale petals and glaucous bluish leaves. Releases a strong spicy, cove-like scent.\"",
+        "description": "Grants %b50%/b% bonus Bloodpoints in the Boldness Category.",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
+        "flavor": "\"A palm-sized hand-swen sachet containing a mix of pale petals and glaucous bluish leaves. Releases a strong spicy, cove-like scent.\"",
         "image": "sweetWilliamSachet"
     },
     {
@@ -116,11 +130,12 @@
         "index": "FRESH_SWEET_WILLIAM",
         "name": "Fresh Sweet William",
         "rarity": "UNCOMMON",
-        "description":
-            "Grants %b75%/b% bonus Bloodpoints in the Boldness Category.",
-        "abilities": ["Personal", "Stacks"],
-        "flavor":
-            "\"A bunch of flowers with pink petals and a blood red core. Releases a spicy, clove-like scent.\"",
+        "description": "Grants %b75%/b% bonus Bloodpoints in the Boldness Category.",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
+        "flavor": "\"A bunch of flowers with pink petals and a blood red core. Releases a spicy, clove-like scent.\"",
         "image": "freshSweetWilliam"
     },
     {
@@ -128,11 +143,12 @@
         "index": "FRAGRANT_SWEET_WILLIAM",
         "name": "Fresh Sweet William",
         "rarity": "RARE",
-        "description":
-            "Grants %b100%/b% bonus Bloodpoints in the Boldness Category.",
-        "abilities": ["Personal", "Stacks"],
-        "flavor":
-            "\"A bunch of flowers with pink petals and a blood red core. Releases a strong spicy, clove-lick scent.\"",
+        "description": "Grants %b100%/b% bonus Bloodpoints in the Boldness Category.",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
+        "flavor": "\"A bunch of flowers with pink petals and a blood red core. Releases a strong spicy, clove-lick scent.\"",
         "image": "fragrantSweetWilliam"
     },
     {
@@ -140,11 +156,12 @@
         "index": "BOUND_ENVELOPE",
         "name": "Bound Envelope",
         "rarity": "RARE",
-        "description":
-            "Grants %b25%/b% bonus bloodpoints in all Categories to all survivors.",
-        "abilities": ["Personal", "Stacks"],
-        "flavor":
-            "\"An opened envelope re-sealed and bound with 4 coloured ribbons.\"",
+        "description": "Grants %b25%/b% bonus bloodpoints in all Categories to all survivors.",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
+        "flavor": "\"An opened envelope re-sealed and bound with 4 coloured ribbons.\"",
         "image": "boundEnvelope"
     },
     {
@@ -153,9 +170,11 @@
         "name": "Sealed Envelope",
         "rarity": "UNCOMMON",
         "description": "Grants %b25%/b% bonus Bloodpoints in all Categories.",
-        "abilities": ["Personal", "Stacks"],
-        "flavor":
-            "\"An unaddressed and unopened envelope yellowed by its time. Its message will never be known.\"",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
+        "flavor": "\"An unaddressed and unopened envelope yellowed by its time. Its message will never be known.\"",
         "image": "sealedEnvelope"
     },
     {
@@ -164,7 +183,10 @@
         "name": "Escape Cake",
         "rarity": "UNCOMMON",
         "description": "Grants %b100%/b% bonus Bloodpoints in all Categories.",
-        "abilities": ["Personal", "Stacks"],
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
         "flavor": "\"This picture of a cake sure is real.\"",
         "image": "escapeCake"
     },
@@ -174,9 +196,11 @@
         "name": "Chalk Pouch",
         "rarity": "COMMON",
         "description": "%bSlightly increases%/b Luck.",
-        "abilities": ["Personal", "Stacks"],
-        "flavor":
-            "\"A small cotton pouch filled with white chalky powder of unknown origin. Some believe it brings good fortune.\"",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
+        "flavor": "\"A small cotton pouch filled with white chalky powder of unknown origin. Some believe it brings good fortune.\"",
         "image": "chalkPouch"
     },
     {
@@ -185,9 +209,11 @@
         "name": "Cream Chalk Pouch",
         "rarity": "UNCOMMON",
         "description": "%bModerately increases%/b Luck.",
-        "abilities": ["Personal", "Stacks"],
-        "flavor":
-            "\"A small cotton pouch half-filled with a cream coloured chalky powder of unknown origin. Releases a faint herbal aroma. Some believe it brings good fortune.\"",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
+        "flavor": "\"A small cotton pouch half-filled with a cream coloured chalky powder of unknown origin. Releases a faint herbal aroma. Some believe it brings good fortune.\"",
         "image": "creamChalkPouch"
     },
     {
@@ -196,9 +222,11 @@
         "name": "Ivory Chalk Pouch",
         "rarity": "RARE",
         "description": "%bConsiderably increases%/b Luck.",
-        "abilities": ["Personal", "Stacks"],
-        "flavor":
-            "\"A small leather pouch displaying a straight white line hand-sewn on one of its sides. The bag is filled with an ivory chalky powder that shines under the moonlight. Some believe it brings good fortune.\"",
+        "abilities": [
+            "Personal",
+            "Stacks"
+        ],
+        "flavor": "\"A small leather pouch displaying a straight white line hand-sewn on one of its sides. The bag is filled with an ivory chalky powder that shines under the moonlight. Some believe it brings good fortune.\"",
         "image": "ivoryChalkPouch"
     },
     {
@@ -207,9 +235,10 @@
         "name": "Salt Pouch",
         "rarity": "UNCOMMON",
         "description": "%bSlightly increases%/b Luck of all Survivors.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"A small cotton pouch filled with black salt crystals. Some believe it brings good fortune. Don't spill it.\"",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"A small cotton pouch filled with black salt crystals. Some believe it brings good fortune. Don't spill it.\"",
         "image": "saltPouch"
     },
     {
@@ -218,9 +247,10 @@
         "name": "Vigo's Jar of Salty Lips",
         "rarity": "VERY_RARE",
         "description": "%bConsiderably increases%/b Luck of all Survivors.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"A tightly sealed glass jar containing torn human lips floating in a murky brine. Some believe it brings good fortune.\"",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"A tightly sealed glass jar containing torn human lips floating in a murky brine. Some believe it brings good fortune.\"",
         "image": "jarOfSaltyLips"
     },
     {
@@ -229,7 +259,9 @@
         "name": "Tarnished Coin",
         "rarity": "UNCOMMON",
         "description": "Calls on the Entity to create %b1%/b more Chest.",
-        "abilities": ["Stacks"],
+        "abilities": [
+            "Stacks"
+        ],
         "flavor": "\"A round piece of metal which has lost all sheen.\"",
         "image": "tarnishedCoin"
     },
@@ -239,7 +271,9 @@
         "name": "Shiny Coin",
         "rarity": "VERY_RARE",
         "description": "Calls on the Entity to create %b2%/b more Chests.",
-        "abilities": ["Stacks"],
+        "abilities": [
+            "Stacks"
+        ],
         "flavor": "\"A clean and polished piece of gold.\"",
         "image": "shinyCoin"
     },
@@ -248,9 +282,10 @@
         "index": "PETRIFIED_OAK",
         "name": "Petrified Oak",
         "rarity": "VERY_RARE",
-        "description":
-            "Calms The Entity and prevents %b1%/b Hook from appearing.",
-        "abilities": ["Stacks"],
+        "description": "Calms The Entity and prevents %b1%/b Hook from appearing.",
+        "abilities": [
+            "Stacks"
+        ],
         "flavor": "\"A deteriorating piece of petrified wood.\"",
         "image": "petrifiedOak"
     },
@@ -260,7 +295,9 @@
         "name": "Shroud of Union",
         "rarity": "UNCOMMON",
         "description": "You start the trial with someone else.",
-        "abilities": ["Secret"],
+        "abilities": [
+            "Secret"
+        ],
         "flavor": "\"A knotted piece of fabric.\"",
         "image": "shroudOfUnion"
     },
@@ -270,9 +307,10 @@
         "name": "Shroud of Binding",
         "rarity": "VERY_RARE",
         "description": "All Survivors start the trial together.",
-        "abilities": ["Secret"],
-        "flavor":
-            "\"A square and washed out piece of fabric with small knots on each end.\"",
+        "abilities": [
+            "Secret"
+        ],
+        "flavor": "\"A square and washed out piece of fabric with small knots on each end.\"",
         "image": "shroudOfBinding"
     },
     {
@@ -280,11 +318,11 @@
         "index": "VIGOS_SHROUD",
         "name": "Vigo's Shroud",
         "rarity": "UNCOMMON",
-        "description":
-            "You start the trial as far away as possible from the Killer.",
-        "abilities": ["Secret"],
-        "flavor":
-            "\"I found marvels through the years in the fog, but only now do I understand how to bend the fog's irrefragable rules.\" -Vigo's Journal",
+        "description": "You start the trial as far away as possible from the Killer.",
+        "abilities": [
+            "Secret"
+        ],
+        "flavor": "\"I found marvels through the years in the fog, but only now do I understand how to bend the fog's irrefragable rules.\" -Vigo's Journal",
         "image": "vigosShroud"
     }
 ]
