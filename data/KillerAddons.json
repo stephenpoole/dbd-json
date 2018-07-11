@@ -3037,7 +3037,7 @@
         "description":
             "A chemical bottle compund that irritates the respiratory tract.",
         "abilities": [
-            "Intoxicated target suffers from the %Exhaustion%/b status effect for %b30 seconds%/b.",
+            "Intoxicated target suffers from the %bExhaustion%/b status effect for %b30 seconds%/b.",
             "Stacks."
         ],
         "image": "solventJug"
@@ -3051,7 +3051,7 @@
         "description":
             "A thin and clear combustible liquid which numbs the mind when inhaled.",
         "abilities": [
-            "Intoxicated target suffers from the %Blindness%/b status effect for %b30 seconds%/b.",
+            "Intoxicated target suffers from the %bBlindness%/b status effect for %b30 seconds%/b.",
             "Stacks."
         ],
         "image": "keroseneCan"
@@ -3119,7 +3119,7 @@
         "description":
             "A sweet-smelling organic compound with strong anesthetic capabilities.",
         "abilities": [
-            "%Considerably%/b increases Intoxicated Effect duration.",
+            "%bConsiderably%/b increases Intoxicated Effect duration.",
             "Stacks."
         ],
         "image": "bottleOfChloroform"
@@ -3133,7 +3133,7 @@
         "description":
             "Some for the face and some for the Tonic. The diluted makeup sticks to the lungs.",
         "abilities": [
-            "%Moderately%/b expands The Afterpiece Tonic Gas Effect area.",
+            "%bModerately%/b expands The Afterpiece Tonic Gas Effect area.",
             "The Afterpiece Tonic Gas Effect duration lasts %bModerately%/b longer.",
             "Stacks."
         ],
@@ -3148,7 +3148,7 @@
         "description":
             "The only remnant of a cheap good time and one hell of a headache.",
         "abilities": [
-            "Start with %2 extra%/b bottles of The Afterpiece Tonic.",
+            "Start with %b2 extra%/b bottles of The Afterpiece Tonic.",
             "Increases maximum carried bottles by %b2%/b.",
             "Stacks."
         ],

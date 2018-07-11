@@ -80,8 +80,15 @@ describe('#KillerAddons', function() {
                     it('should not be empty', function(done) {
                         Helpers.isNotEmpty(done, item.abilities);
                     });
+
                     item.abilities.map((ability, index) =>
-                        PropertyValidate.ability(ability, killerAddons, index)
+                        describe(`#ability[${index}]`, function() {
+                            PropertyValidate.ability(
+                                ability,
+                                killerAddons,
+                                index
+                            );
+                        })
                     );
                 });
 

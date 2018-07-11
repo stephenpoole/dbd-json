@@ -33,7 +33,9 @@ describe('#Items', function() {
                         Helpers.isNotEmpty(done, item.abilities);
                     });
                     item.abilities.map((ability, index) =>
-                        PropertyValidate.ability(ability, items, index)
+                        describe(`#ability[${index}]`, function() {
+                            PropertyValidate.ability(ability, items, index);
+                        })
                     );
                 });
 

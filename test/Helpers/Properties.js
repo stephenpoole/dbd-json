@@ -119,6 +119,9 @@ export class PropertyValidate {
             it('should not be empty', function(done) {
                 Helpers.isNotEmpty(done, value.description);
             });
+            it('should have matching opening/closing tags', function(done) {
+                Helpers.tagsMatch(done, value.description, ['i', 'b']);
+            });
         });
     }
 
@@ -174,6 +177,9 @@ export class PropertyValidate {
             });
             it('should not be empty', function(done) {
                 Helpers.isNotEmpty(done, property, value);
+            });
+            it('should have matching opening/closing tags', function(done) {
+                Helpers.tagsMatch(done, value, ['i', 'b']);
             });
         });
     }
