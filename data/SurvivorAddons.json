@@ -5,8 +5,7 @@
     "name": "Wide Lens",
     "type": "FLASHLIGHT",
     "rarity": "COMMON",
-    "description":
-      "A thing wide lens in perfect condition. Designed to spread the Flashlight beam at the cost of reducing its range of effectiveness.",
+    "description": "A thing wide lens in perfect condition. Designed to spread the Flashlight beam at the cost of reducing its range of effectiveness.",
     "abilities": [
       "%bModerately widens%/b the Flashlight beam.",
       "%bSlightly decreases%/b the range of the Flashlight beam."
@@ -19,15 +18,13 @@
     "name": "Power Bulb",
     "type": "FLASHLIGHT",
     "rarity": "COMMON",
-    "description":
-      "A tiny Flashlight bulb that packs more wattage for a brighter, more powerful light beam.",
+    "description": "A tiny Flashlight bulb that packs more wattage for a brighter, more powerful light beam.",
     "abilities": [
       "%bSlightly tightens%/b the radius of the Flashlight beam.",
       "%bSlightly increases%/b the beam's visual brightness.",
       "%bSlightly increases%/b the Blindness duration"
     ],
-    "flavor":
-      "Even the most powerful light cannot pierce through the Black Fog's darkness.",
+    "flavor": "Even the most powerful light cannot pierce through the Black Fog's darkness.",
     "image": "powerBulb"
   },
   {
@@ -36,9 +33,10 @@
     "name": "Leather Grip",
     "type": "FLASHLIGHT",
     "rarity": "COMMON",
-    "description":
-      "A leather strip wrapped around the Flashlight for more grip.",
-    "abilities": ["%bSlightly increases%/b the Flashlight's accuracy."],
+    "description": "A leather strip wrapped around the Flashlight for more grip.",
+    "abilities": [
+      "%bSlightly increases%/b the Flashlight's accuracy."
+    ],
     "flavor": "Too many have fallen due to sweaty hands.",
     "image": "leatherGrip"
   },
@@ -49,7 +47,9 @@
     "type": "FLASHLIGHT",
     "rarity": "COMMON",
     "description": "A standard battery of unknown brand.",
-    "abilities": ["Adds %b2 seconds%/b of use to a standard Flashlight."],
+    "abilities": [
+      "Adds %b2 seconds%/b of use to a standard Flashlight."
+    ],
     "flavor": "Another nearly empty battery.",
     "image": "battery"
   },
@@ -59,8 +59,7 @@
     "name": "Tir Optic",
     "type": "FLASHLIGHT",
     "rarity": "UNCOMMON",
-    "description":
-      "A lens and reflector combo which can magnify a Flashlight's beam.",
+    "description": "A lens and reflector combo which can magnify a Flashlight's beam.",
     "abilities": [
       "%bModerately increases%/b the beam's visual brightness.",
       "%bModerately increases%/b the Blindness duration."
@@ -74,9 +73,10 @@
     "name": "Rubber Grip",
     "type": "FLASHLIGHT",
     "rarity": "UNCOMMON",
-    "description":
-      "A rubber grip specifically fitting Flashlights for more grip.",
-    "abilities": ["%bModerately increases%/b the Flashlight's accuracy."],
+    "description": "A rubber grip specifically fitting Flashlights for more grip.",
+    "abilities": [
+      "%bModerately increases%/b the Flashlight's accuracy."
+    ],
     "image": "rubberGrip"
   },
   {
@@ -85,9 +85,10 @@
     "name": "Low Amp Filament",
     "type": "FLASHLIGHT",
     "rarity": "UNCOMMON",
-    "description":
-      "A filament bulb designed to extend a Flashlight battery's life.",
-    "abilities": ["%bModerately decreases%/b Flashlight battery consumption."],
+    "description": "A filament bulb designed to extend a Flashlight battery's life.",
+    "abilities": [
+      "%bModerately decreases%/b Flashlight battery consumption."
+    ],
     "image": "threadedFilament"
   },
   {
@@ -97,9 +98,10 @@
     "type": "FLASHLIGHT",
     "rarity": "UNCOMMON",
     "description": "A battery marked as \"industrial strength\".",
-    "abilities": ["Adds %b4 seconds%/b of use to a standard Flashlight."],
-    "flavor":
-      "A battery advertised as lasting 8 hours lasts only a couple of seconds in the Black Fog.",
+    "abilities": [
+      "Adds %b4 seconds%/b of use to a standard Flashlight."
+    ],
+    "flavor": "A battery advertised as lasting 8 hours lasts only a couple of seconds in the Black Fog.",
     "image": "heavyDutyBattery"
   },
   {
@@ -108,8 +110,7 @@
     "name": "Focus Lens",
     "type": "FLASHLIGHT",
     "rarity": "UNCOMMON",
-    "description":
-      "A thick glass lens that focuses the Flashlight beam to increase its intensity.",
+    "description": "A thick glass lens that focuses the Flashlight beam to increase its intensity.",
     "abilities": [
       "%bSlightly increases%/b the range of the Flashlight beam.",
       "%bSlightly tightens%/b the radius of the Flashlight beam.",
@@ -125,7 +126,9 @@
     "type": "FLASHLIGHT",
     "rarity": "RARE",
     "description": "A recent model of battery that lasts longer.",
-    "abilities": ["Adds %b6 seconds%/b of use to a standard Flashlight."],
+    "abilities": [
+      "Adds %b6 seconds%/b of use to a standard Flashlight."
+    ],
     "image": "longLifeBattery"
   },
   {
@@ -147,8 +150,7 @@
     "name": "High-End Sapphire Lens",
     "type": "FLASHLIGHT",
     "rarity": "VERY_RARE",
-    "description":
-      "A wide lens made of unscratchable sapphire that optimises the power and range of the light beam.",
+    "description": "A wide lens made of unscratchable sapphire that optimises the power and range of the light beam.",
     "abilities": [
       "%bModerately widens%/b the Flashlight beam.",
       "%bSlightly increases%/b the Flashlight beam.",
@@ -163,8 +165,7 @@
     "name": "Odd Bulb",
     "type": "FLASHLIGHT",
     "rarity": "ULTRA_RARE",
-    "description":
-      "A heavy and completely opaque bulb of unknown origin which emits a faint light even when turned off.",
+    "description": "A heavy and completely opaque bulb of unknown origin which emits a faint light even when turned off.",
     "abilities": [
       "%bTremendously increases%/b the beam's visual brightness.",
       "%bTremendously increases%/b increases the Blindness duration.",
@@ -178,11 +179,11 @@
     "name": "Prayer Rope",
     "type": "KEY",
     "rarity": "COMMON",
-    "description":
-      "Tightly knitted rope used in praying rituals. Can be attached to the Key.",
-    "abilities": ["Adds %b10 seconds%/b of use to the Key."],
-    "flavor":
-      "Pray all you want, your words are getting lost somewhere up there, in the Fog.",
+    "description": "Tightly knitted rope used in praying rituals. Can be attached to the Key.",
+    "abilities": [
+      "Adds %b10 seconds%/b of use to the Key."
+    ],
+    "flavor": "Pray all you want, your words are getting lost somewhere up there, in the Fog.",
     "image": "prayerRope"
   },
   {
@@ -191,8 +192,7 @@
     "name": "Scratched Pearl",
     "type": "KEY",
     "rarity": "UNCOMMON",
-    "description":
-      "A porous and scratched white pearl. A minuscule jump ring allows the pearl to be attached to the Key.",
+    "description": "A porous and scratched white pearl. A minuscule jump ring allows the pearl to be attached to the Key.",
     "abilities": [
       "%bModerately increases%/b the range of the Key's Aura reading ability."
     ],
@@ -204,9 +204,10 @@
     "name": "Prayer Beads",
     "type": "KEY",
     "rarity": "UNCOMMON",
-    "description":
-      "A chain of matte beads of various sizes used in praying ritual. Can be attached to the Key.",
-    "abilities": ["Adds %b15 seconds%/b of use to the Key."],
+    "description": "A chain of matte beads of various sizes used in praying ritual. Can be attached to the Key.",
+    "abilities": [
+      "Adds %b15 seconds%/b of use to the Key."
+    ],
     "image": "prayerBeads"
   },
   {
@@ -215,10 +216,9 @@
     "name": "Eroded Token",
     "type": "KEY",
     "rarity": "UNCOMMON",
-    "description":
-      "A heavily worn out token made of brass. If an inscription or drawing was once engraved in it, it has today completely disappeared. Can be attached to the Key using its jump ring to channel the Key's Aura reading ability.",
+    "description": "A heavily worn out token made of brass. If an inscription or drawing was once engraved in it, it has today completely disappeared. Can be attached to the Key using its jump ring to channel the Key's Aura reading ability.",
     "abilities": [
-      "Reveals %bSurvivors' Auras%/b when within %b24 metres%/b of range."
+      "Reveals %bSurvivors' Auras%/b when within %b24 meters%/b of range."
     ],
     "image": "tokenErroded"
   },
@@ -228,10 +228,9 @@
     "name": "Gold Token",
     "type": "KEY",
     "rarity": "RARE",
-    "description":
-      "A gold token with a dull appearance. Both faces are smooth and void of any inscriptions. Can be attached to the Key using its jump ring to channel the Key's Aura reading ability.",
+    "description": "A gold token with a dull appearance. Both faces are smooth and void of any inscriptions. Can be attached to the Key using its jump ring to channel the Key's Aura reading ability.",
     "abilities": [
-      "Reveals %bSurvivors' Auras%/b when within %b48 metres%/b of range."
+      "Reveals %bSurvivors' Auras%/b when within %b48 meters%/b of range."
     ],
     "image": "tokenGold"
   },
@@ -241,9 +240,10 @@
     "name": "Weaved Ring",
     "type": "KEY",
     "rarity": "VERY_RARE",
-    "description":
-      "A mundane key ring in appearance with an unusual bluish dark sheen. The ring binds the Key to the user, preventing its loss even in the darkest of times.",
-    "abilities": ["Do not lose the Key on death, lose this Add-on instead."],
+    "description": "A mundane key ring in appearance with an unusual bluish dark sheen. The ring binds the Key to the user, preventing its loss even in the darkest of times.",
+    "abilities": [
+      "Do not lose the Key on death, lose this Add-on instead."
+    ],
     "image": "weavedRing"
   },
   {
@@ -252,8 +252,7 @@
     "name": "Milky Glass",
     "type": "KEY",
     "rarity": "VERY_RARE",
-    "description":
-      "This opaque piece of glass emits a dull vibrating noise. When the Skeleton or Dull Key is used to unlock a Black Lock, the glass token protects the Key from breaking, channelling the Black Fog's energy into the glass.",
+    "description": "This opaque piece of glass emits a dull vibrating noise. When the Skeleton or Dull Key is used to unlock a Black Lock, the glass token protects the Key from breaking, channelling the Black Fog's energy into the glass.",
     "abilities": [
       "Do not lose the Key when unlocking a Black Lock, lose this Add-on instead."
     ],
@@ -265,10 +264,9 @@
     "name": "Blood Amber",
     "type": "KEY",
     "rarity": "VERY_RARE",
-    "description":
-      "A blood-red amber striped with black veins. The amber is warm to the touch. Can be attached to the Key using its jump ring to channel the Key's Aura reading ability.",
+    "description": "A blood-red amber striped with black veins. The amber is warm to the touch. Can be attached to the Key using its jump ring to channel the Key's Aura reading ability.",
     "abilities": [
-      "Reveals the %bKiller's Aura%/b when within %b32 metres%/b of range at the %bgreat expense%/b of the Key's energy."
+      "Reveals the %bKiller's Aura%/b when within %b32 meters%/b of range at the %bgreat expense%/b of the Key's energy."
     ],
     "image": "bloodAmber"
   },
@@ -278,9 +276,10 @@
     "name": "Map Addendum",
     "type": "MAP",
     "rarity": "COMMON",
-    "description":
-      "A fragmented piece of a thick fibrous material. A partial and faded map is drawn on it which by itself is useless.",
-    "abilities": ["Adds a %b5 second charge%/b to any Map."],
+    "description": "A fragmented piece of a thick fibrous material. A partial and faded map is drawn on it which by itself is useless.",
+    "abilities": [
+      "Adds a %b5 second charge%/b to any Map."
+    ],
     "image": "mapAddendum"
   },
   {
@@ -289,9 +288,10 @@
     "name": "Yellow Wire",
     "type": "MAP",
     "rarity": "UNCOMMON",
-    "description":
-      "A small electrical wire. Both ends are heavily damaged like it has been forcefully torn out of its intended location. Can be tied around a map to enhance its Aura reading ability.",
-    "abilities": ["Unlocks the ability to track %bExit Gates%/b."],
+    "description": "A small electrical wire. Both ends are heavily damaged like it has been forcefully torn out of its intended location. Can be tied around a map to enhance its Aura reading ability.",
+    "abilities": [
+      "Unlocks the ability to track %bExit Gates%/b."
+    ],
     "image": "ropeYellow"
   },
   {
@@ -300,8 +300,7 @@
     "name": "Unusual Stamp",
     "type": "MAP",
     "rarity": "UNCOMMON",
-    "description":
-      "A wooden stamp with a crosshatched rubber pad used to mark documents. It is unclear as to how or by whom this stamp was originally used. Can be used with a map.",
+    "description": "A wooden stamp with a crosshatched rubber pad used to mark documents. It is unclear as to how or by whom this stamp was originally used. Can be used with a map.",
     "abilities": [
       "%bModerately increases%/b the range of the map tracking ability."
     ],
@@ -313,9 +312,10 @@
     "name": "Retardant Jelly",
     "type": "MAP",
     "rarity": "UNCOMMON",
-    "description":
-      "A slimy, translucent substance with a ghastly lavender shade. This jelly from unknown origin is highly resistant to heat.",
-    "abilities": ["%bModerately slows down%/b the burning rate of the map."],
+    "description": "A slimy, translucent substance with a ghastly lavender shade. This jelly from unknown origin is highly resistant to heat.",
+    "abilities": [
+      "%bModerately slows down%/b the burning rate of the map."
+    ],
     "image": "retardantJelly"
   },
   {
@@ -324,9 +324,10 @@
     "name": "Red Twine",
     "type": "MAP",
     "rarity": "UNCOMMON",
-    "description":
-      "A bristly and rough piece of twine of a deep red colour. Can be tied around a map to enhance its Aura reading ability.",
-    "abilities": ["Unlocks the ability to track the %bKiller's belongings%/b."],
+    "description": "A bristly and rough piece of twine of a deep red colour. Can be tied around a map to enhance its Aura reading ability.",
+    "abilities": [
+      "Unlocks the ability to track the %bKiller's belongings%/b."
+    ],
     "image": "ropeRed"
   },
   {
@@ -335,8 +336,7 @@
     "name": "Glass Bead",
     "type": "MAP",
     "rarity": "UNCOMMON",
-    "description":
-      "A strange bead circled with gold that can be used to magnify the map and mark a specific position. The bead emits an energy which can be felt and seen by Survivors.",
+    "description": "A strange bead circled with gold that can be used to magnify the map and mark a specific position. The bead emits an energy which can be felt and seen by Survivors.",
     "abilities": [
       "Unlocks the Marker Ability on secondary action.",
       "Creating a marker that can be seen by all the Survivors."
@@ -349,8 +349,7 @@
     "name": "Odd Stamp",
     "type": "MAP",
     "rarity": "RARE",
-    "description":
-      "A stamp carved out of sturdy blonde wood. The text found at the base is incomprehensible: \"kw'zvre'od\". Can be used with a map.",
+    "description": "A stamp carved out of sturdy blonde wood. The text found at the base is incomprehensible: \"kw'zvre'od\". Can be used with a map.",
     "abilities": [
       "%bConsiderably increases%/b the range of the map tracking ability."
     ],
@@ -362,9 +361,10 @@
     "name": "Black Silk Cord",
     "type": "MAP",
     "rarity": "RARE",
-    "description":
-      "A smooth black cord with a soft appearance. Can be tied around a map to enhance its Aura reading ability.",
-    "abilities": ["Unlocks the ability to track the %bBlack Lock%/b."],
+    "description": "A smooth black cord with a soft appearance. Can be tied around a map to enhance its Aura reading ability.",
+    "abilities": [
+      "Unlocks the ability to track the %bBlack Lock%/b."
+    ],
     "image": "ropeBlack"
   },
   {
@@ -373,8 +373,7 @@
     "name": "Crystal Bead",
     "type": "MAP",
     "rarity": "VERY_RARE",
-    "description":
-      "An intricate set of lenses wrapped up in an astonishingly complex apparatus. The gears controlling the lenses' focus move by themselves as to focus on something invisible to humans.",
+    "description": "An intricate set of lenses wrapped up in an astonishingly complex apparatus. The gears controlling the lenses' focus move by themselves as to focus on something invisible to humans.",
     "abilities": [
       "Every Survivor sees the Aura generated by the map when the owner activates it."
     ],
@@ -399,7 +398,9 @@
     "type": "AID_KIT",
     "rarity": "COMMON",
     "description": "Medical quality tape used to close small wounds.",
-    "abilities": ["%bSlightly increases%/b healing speed."],
+    "abilities": [
+      "%bSlightly increases%/b healing speed."
+    ],
     "image": "butterflyTape"
   },
   {
@@ -409,7 +410,9 @@
     "type": "AID_KIT",
     "rarity": "COMMON",
     "description": "A pack of bandages usually found in First Aid Kits.",
-    "abilities": ["Adds %b6 charges%/b to the Med-Kit."],
+    "abilities": [
+      "Adds %b6 charges%/b to the Med-Kit."
+    ],
     "image": "bandages"
   },
   {
@@ -418,8 +421,7 @@
     "name": "Sponge",
     "type": "AID_KIT",
     "rarity": "UNCOMMON",
-    "description":
-      "A mundane sponge used to soak up extra blood, providing easier access to wounds.\nModerately decreases the healing Skill Check difficulty.",
+    "description": "A mundane sponge used to soak up extra blood, providing easier access to wounds.\nModerately decreases the healing Skill Check difficulty.",
     "abilities": [
       "%bModerately decreases%/b the healing Skill Check difficulty."
     ],
@@ -431,8 +433,7 @@
     "name": "Self Adherent Wrap",
     "type": "AID_KIT",
     "rarity": "UNCOMMON",
-    "description":
-      "A pack of bandages that stick to themselves without the need of clips for a faster patch-up that requires less readjustments.",
+    "description": "A pack of bandages that stick to themselves without the need of clips for a faster patch-up that requires less readjustments.",
     "abilities": [
       "Adds %b6 charges%/b to the Med-Kit.",
       "%bSlightly increases%/b the healing speed."
@@ -445,8 +446,7 @@
     "name": "Needle & Thread",
     "type": "AID_KIT",
     "rarity": "UNCOMMON",
-    "description":
-      "Not exactly a medical device, however it can be used to quickly and painfully close up a wound.",
+    "description": "Not exactly a medical device, however it can be used to quickly and painfully close up a wound.",
     "abilities": [
       "%bSlightly increases%/b the chance to trigger a Skill Check.",
       "%bConsiderably reduces%/b the Skill Check success zones.",
@@ -461,7 +461,9 @@
     "type": "AID_KIT",
     "rarity": "UNCOMMON",
     "description": "Scissors designed to easily cut through textiles.",
-    "abilities": ["%bModerately increases%/b healing speed."],
+    "abilities": [
+      "%bModerately increases%/b healing speed."
+    ],
     "image": "scissors"
   },
   {
@@ -470,9 +472,10 @@
     "name": "Gauze Roll",
     "type": "AID_KIT",
     "rarity": "UNCOMMON",
-    "description":
-      "A sterile gauze used for a variety of wounds. Part of a total wound care system.",
-    "abilities": ["Adds %b8 charges%/b to the Med-Kit."],
+    "description": "A sterile gauze used for a variety of wounds. Part of a total wound care system.",
+    "abilities": [
+      "Adds %b8 charges%/b to the Med-Kit."
+    ],
     "image": "gauseRoll"
   },
   {
@@ -481,8 +484,7 @@
     "name": "Surgical Suture",
     "type": "AID_KIT",
     "rarity": "RARE",
-    "description":
-      "A medical device used to close and hold body tissue. Even though it's very effective, the surgical suture is challenging to use.",
+    "description": "A medical device used to close and hold body tissue. Even though it's very effective, the surgical suture is challenging to use.",
     "abilities": [
       "%bModerately increases%/b the chance to trigger a Skill Check.",
       "%bModerately reduces%/b the Skill Check success zones.",
@@ -496,9 +498,10 @@
     "name": "Gel Dressings",
     "type": "AID_KIT",
     "rarity": "RARE",
-    "description":
-      "A pack of gel forming pads used to patch up heavily exudating wounds.",
-    "abilities": ["Adds %b10 charges%/b to the Med-Kit."],
+    "description": "A pack of gel forming pads used to patch up heavily exudating wounds.",
+    "abilities": [
+      "Adds %b10 charges%/b to the Med-Kit."
+    ],
     "image": "gelDressings"
   },
   {
@@ -507,8 +510,7 @@
     "name": "Abdominal Dressing",
     "type": "AID_KIT",
     "rarity": "RARE",
-    "description":
-      "A highly absorbent pad that prevents bodily fluid leakage when applied to large abdominal wounds.",
+    "description": "A highly absorbent pad that prevents bodily fluid leakage when applied to large abdominal wounds.",
     "abilities": [
       "%bConsiderably increases%/b healing speed.",
       "Reduces charges by %b25%/b%."
@@ -521,8 +523,7 @@
     "name": "Styptic Agent",
     "type": "AID_KIT",
     "rarity": "VERY_RARE",
-    "description":
-      "A white powder with coagulant properties. Apply the agent to a wound to stop it from hemorrhaging.",
+    "description": "A white powder with coagulant properties. Apply the agent to a wound to stop it from hemorrhaging.",
     "abilities": [
       "Reduces charges by %b25%/b%.",
       "%bInstantly%/b heal one %bHealth State%/b on secondary action.",
@@ -536,8 +537,7 @@
     "name": "Anti-Hemorrhagic Syringe",
     "type": "AID_KIT",
     "rarity": "ULTRA_RARE",
-    "description":
-      "An anti-hemorrhagic substance that stops the bleeding in a matter of seconds.",
+    "description": "An anti-hemorrhagic substance that stops the bleeding in a matter of seconds.",
     "abilities": [
       "Reduces charges by %b50%/b%.",
       "%bInstantly%/b and %bcompletely%/b heal on secondary action.",
@@ -551,9 +551,10 @@
     "name": "Spring Clamp",
     "type": "TOOLBOX",
     "rarity": "COMMON",
-    "description":
-      "Useful tool to clamp hoses or hold wires in place and prevent damage or injury.",
-    "abilities": ["%bSlightly increases%/b repair Skill Check success zones."],
+    "description": "Useful tool to clamp hoses or hold wires in place and prevent damage or injury.",
+    "abilities": [
+      "%bSlightly increases%/b repair Skill Check success zones."
+    ],
     "image": "springClamp"
   },
   {
@@ -563,7 +564,9 @@
     "type": "TOOLBOX",
     "rarity": "COMMON",
     "description": "Springs, screws and gears. Mostly unusable junk..",
-    "abilities": ["Adds %b15 charges%/b to the Toolbox."],
+    "abilities": [
+      "Adds %b15 charges%/b to the Toolbox."
+    ],
     "image": "scraps"
   },
   {
@@ -573,7 +576,9 @@
     "type": "TOOLBOX",
     "rarity": "COMMON",
     "description": "A mundane rag. Suspiciously clean.",
-    "abilities": ["%bSlightly increases%/b the Toolbox's repair speed."],
+    "abilities": [
+      "%bSlightly increases%/b the Toolbox's repair speed."
+    ],
     "image": "cleanRag"
   },
   {
@@ -583,7 +588,9 @@
     "type": "TOOLBOX",
     "rarity": "UNCOMMON",
     "description": "A portable but heavy spool of copper wire.",
-    "abilities": ["Adds %b30 charges%/b to the Toolbox."],
+    "abilities": [
+      "Adds %b30 charges%/b to the Toolbox."
+    ],
     "image": "spoolOfWire"
   },
   {
@@ -592,9 +599,10 @@
     "name": "Socket Swivels",
     "type": "TOOLBOX",
     "rarity": "UNCOMMON",
-    "description":
-      "Swivels provide bend and flexibility for bolts that are out of reach, deep within mechanical devices.",
-    "abilities": ["%bModerately increases%/b the Toolbox repair speed."],
+    "description": "Swivels provide bend and flexibility for bolts that are out of reach, deep within mechanical devices.",
+    "abilities": [
+      "%bModerately increases%/b the Toolbox repair speed."
+    ],
     "image": "socketSwivels"
   },
   {
@@ -603,8 +611,7 @@
     "name": "Protective Gloves",
     "type": "TOOLBOX",
     "rarity": "UNCOMMON",
-    "description":
-      "Thick gloves, which reduce menial dexterity but protect hands from injury.",
+    "description": "Thick gloves, which reduce menial dexterity but protect hands from injury.",
     "abilities": [
       "%bSlightly increases%/b the chances to trigger a sabotage Skill Check.",
       "%bSlightly increases%/b sabotage Skill Check success zones.",
@@ -618,9 +625,10 @@
     "name": "Instructions",
     "type": "TOOLBOX",
     "rarity": "UNCOMMON",
-    "description":
-      "Someone quickly painted what seems to be repair instructions on this piece of bark.",
-    "abilities": ["%bModerately increases%/b the Toolbox's repair efficiency."],
+    "description": "Someone quickly painted what seems to be repair instructions on this piece of bark.",
+    "abilities": [
+      "%bModerately increases%/b the Toolbox's repair efficiency."
+    ],
     "image": "instructions"
   },
   {
@@ -629,8 +637,7 @@
     "name": "Grip Wrench",
     "type": "TOOLBOX",
     "rarity": "UNCOMMON",
-    "description":
-      "An adjustable wrench with a tough grip. Essential in any Toolbox.",
+    "description": "An adjustable wrench with a tough grip. Essential in any Toolbox.",
     "abilities": [
       "%bModerately increases%/b repair Skill Check success zones."
     ],
@@ -642,9 +649,10 @@
     "name": "Cutting Wire",
     "type": "TOOLBOX",
     "rarity": "UNCOMMON",
-    "description":
-      "A rudimentary cutting tool made from a jagged metal wire and two wooden handles..",
-    "abilities": ["%bSlightly increases%/b the Toolbox's sabotage speed."],
+    "description": "A rudimentary cutting tool made from a jagged metal wire and two wooden handles..",
+    "abilities": [
+      "%bSlightly increases%/b the Toolbox's sabotage speed."
+    ],
     "image": "cuttingWire"
   },
   {
@@ -654,7 +662,9 @@
     "type": "TOOLBOX",
     "rarity": "RARE",
     "description": "A small hand saw mounted with a metal cutting blade.",
-    "abilities": ["%bModerately increases%/b the Toolbox's sabotage speed."],
+    "abilities": [
+      "%bModerately increases%/b the Toolbox's sabotage speed."
+    ],
     "image": "metalSaw"
   },
   {
@@ -663,14 +673,13 @@
     "name": "Brand New Part",
     "type": "TOOLBOX",
     "rarity": "ULTRA_RARE",
-    "description":
-      "This intricate mechanical part feels oddly out of place. It is clean and shiny as if straight out of the factory.",
+    "description": "This intricate mechanical part feels oddly out of place. It is clean and shiny as if straight out of the factory.",
     "abilities": [
       "%bToolbox Repair%/b action is replaced with %bInstall Brand New Part%/b.",
-      "%bInstall Brand New Part%/b will trigger a Skill Check every %b2 seconds%/b until the Generator is repaired or the interaction ends.",
-      "%bGood%/b Skill Checks grant %b5%/b% total Generator progression.",
-      "%bGreat%/b Skill Checks grant %b10%/b% total Generator progression.",
-      "Completing the repair, interrupting the action or failing a Skill Check will consume the Toolbox and all its Add-ons."
+      "Installing the %iBrand New Part%/i% will complete 15% of a generator over 5 seconds.",
+      "During the install, you will be faced with 2 difficult skill checks.",
+      "Hitting each skill check will result in 5% progression each for a maximum of 25% added progression.",
+      "This add-on is consumed on use."
     ],
     "image": "brandNewPart"
   }
