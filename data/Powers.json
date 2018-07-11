@@ -117,12 +117,12 @@
         "description":
             "Is it a gift, or a curse? The Entity has ignited a corrupted and inexhaustible spark in The Doctor's heart which allows him to generate electroconvulsive power at will. His insidious treatment corrupts the minds of those it touches. Victims shocked by the corrupt spark begin to lose their grip on reality and, with repeated exposure, inevitably succumb to madness.",
         "abilities": [
-            "%bSwitch Stance%b: Punishment mode is used to injure survivors. Treatment mode grants the abilities %bStatic Field%/b and %bShock Therapy%/b.",
-            "%bStatic Field%b: While in %bTreatment%/b generate a %bStatic Field%/b equal to your terror radius which increases survivors %bMadness%/b based on proximity to The Doctor.",
-            "%bShock Therapy%b: %bTreatment%/b mode grants the ability to charge and release a %bShock Therapy%/b attack that greatly increases survivors' %bMadness%/b.",
-            "%bMadness Tier I%b: Causes survivors to scream revealing their position to The Doctor.",
-            "%bMadness Tier II%b: All effects of %bTier I%/b. Causes survivors to experience %bShared Hallucinations%/b.",
-            "%bMadness Tier III%b: All effect of %bTier II%/b. %bShared Hallucinations%/b intensify allowing The Doctor to read their %bAuras%/b. Survivors regularly scream revealing their position to The Doctor. Survivors cannot heal, repair, sabotage or cleanse until they %bSnap Out Of It%/b.",
+            "%bSwitch Stance%/b: Punishment mode is used to injure survivors. Treatment mode grants the abilities %bStatic Field%/b and %bShock Therapy%/b.",
+            "%bStatic Field%/b: While in %bTreatment%/b generate a %bStatic Field%/b equal to your terror radius which increases survivors %bMadness%/b based on proximity to The Doctor.",
+            "%bShock Therapy%/b: %bTreatment%/b mode grants the ability to charge and release a %bShock Therapy%/b attack that greatly increases survivors' %bMadness%/b.",
+            "%bMadness Tier I%/b: Causes survivors to scream revealing their position to The Doctor.",
+            "%bMadness Tier II%/b: All effects of %bTier I%/b. Causes survivors to experience %bShared Hallucinations%/b.",
+            "%bMadness Tier III%/b: All effect of %bTier II%/b. %bShared Hallucinations%/b intensify allowing The Doctor to read their %bAuras%/b. Survivors regularly scream revealing their position to The Doctor. Survivors cannot heal, repair, sabotage or cleanse until they %bSnap Out Of It%/b.",
             "More %bAfflications%/b are available with add-ons."
         ],
         "image": "cartersSpark"
@@ -139,7 +139,7 @@
             "Once targeted by %bThe Nightmare's%/b power, Survivors enter the %bDream Transition%/b for a very short time.",
             "During the %bDream Transition%/b they can see %bThe Nightmare%/b.",
             "When the %bDream Transition%/b lapses, the Survivor is pulled into the %bDream World%/b.",
-            "Once in the %bDream World%b:",
+            "Once in the %bDream World%/b:",
             "Survivors' auras are revealed to %bThe Nightmare%/b when they are outside of his Terror Radius.",
             "Survivors suffer an action speed penalty of %b50%%/b.",
             "To exit the Dream World, Survivors can find non-sleeping Survivors to perform a wake up action.",

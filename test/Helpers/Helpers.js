@@ -20,6 +20,7 @@ export class Helpers {
             !!value ? done() : done(new Error());
         }
     }
+
     static isJSON(done, value) {
         try {
             const j = JSON.stringify(value);
@@ -30,34 +31,41 @@ export class Helpers {
             this.resolve(done, false);
         }
     }
+
     static exists(done, value, property) {
         this.resolve(done, property in value);
     }
+
     static isNumber(done, value) {
         const passed = typeof value === 'number';
         this.resolve(done, passed);
         return passed;
     }
+
     static isString(done, value) {
         const passed = typeof value === 'string';
         this.resolve(done, passed);
         return passed;
     }
+
     static isStringOrNumber(done, value) {
         this.resolve(
             done,
             this.isString(undefined, value) || this.isNumber(undefined, value)
         );
     }
+
     static unique(done, value, property, arr) {
         this.resolve(
             done,
             !arr.filter(item => value[property] === value).length
         );
     }
+
     static occurrences(done, value, needle, count = 1) {
         this.resolve(done, value.split(needle).length - 1 === count);
     }
+
     static isNotEmpty(done, value) {
         switch (typeof value) {
             case 'object':
@@ -78,18 +86,23 @@ export class Helpers {
                 break;
         }
     }
+
     static isLength(done, value, length) {
         this.resolve(done, value.length === length);
     }
+
     static isArray(done, value) {
         this.resolve(done, Array.isArray(value));
     }
+
     static isRarity(done, value) {
         this.resolve(done, value in Enum.Rarities);
     }
+
     static isItem(done, value) {
         this.resolve(done, value in Enum.ItemTypes);
     }
+
     static isKiller(done, value, allowGeneric = false) {
         for (let { index } of killers) {
             if (value === index) {
@@ -99,6 +112,7 @@ export class Helpers {
         }
         this.resolve(done, allowGeneric ? value === 'ALL' : false);
     }
+
     static isSurvivor(done, value, allowGeneric = false) {
         for (let { index } of survivors) {
             if (value === index) {
@@ -108,6 +122,7 @@ export class Helpers {
         }
         this.resolve(done, allowGeneric ? value === 'ALL' : false);
     }
+
     static walkFilesSync(path) {
         var fs = fs || require('fs'),
             files = fs.readdirSync(path);
@@ -121,6 +136,7 @@ export class Helpers {
         });
         return filelist;
     }
+
     static imageExists(done, value, type) {
         if (!images.length) {
             this.resolve(done, true);
@@ -154,5 +170,18 @@ export class Helpers {
         }
 
         this.resolve(done, images.indexOf(name) > -1);
+    }
+
+    static tagsMatch(done, value, tags) {
+        for (let tag of tags) {
+            if (
+                value.split(`%${tag}`).length !== value.split(`%/${tag}`).length
+            ) {
+                this.resolve(done, false);
+                return;
+            }
+        }
+
+        this.resolve(done, true);
     }
 }
