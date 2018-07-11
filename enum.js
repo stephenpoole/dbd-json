@@ -1,38 +1,39 @@
-export const Amounts = {
+var Amounts = {
     SLIGHTLY: 1,
     MODERATELY: 2,
     CONSIDERABLY: 3,
     TREMENDOUSLY: 4
-}
+};
 
-export const PlayerTypes = {
+var PlayerTypes = {
     SURVIVOR: 1,
     KILLER: 2
-}
+};
 
-export const TypeNames = {
+var TypeNames = {
     1: 'SURVIVOR',
     2: 'KILLER'
-}
+};
 
-export const Rarities = {
+var Rarities = {
     COMMON: 1,
     UNCOMMON: 2,
     RARE: 3,
     VERY_RARE: 4,
     ULTRA_RARE: 5
-}
+};
 
-export const ItemTypes = {
+var ItemTypes = {
     EMPTY: 'EMPTY',
     FLASHLIGHT: 'FLASHLIGHT',
     KEY: 'KEY',
     MAP: 'MAP',
     AID_KIT: 'AID_KIT',
-    TOOLBOX: 'TOOLBOX'
-}
+    TOOLBOX: 'TOOLBOX',
+    FIRECRACKER: 'FIRECRACKER'
+};
 
-export const ModifierTypes = {
+var ModifierTypes = {
     NONE: -1,
     POWER: 1,
     ITEM: 2,
@@ -41,4 +42,13 @@ export const ModifierTypes = {
     PERK: 5,
     PLAYER: 6,
     PLAYER_TYPE: 7
-}
+};
+
+module.exports = {
+    Amounts: Amounts,
+    PlayerTypes: PlayerTypes,
+    TypeNames: TypeNames,
+    Rarities: Rarities,
+    ItemTypes: ItemTypes,
+    ModifierTypes: ModifierTypes
+};
