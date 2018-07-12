@@ -1,3 +1,5 @@
+![build](https://travis-ci.org/stephenpoole/dbd-json.svg?branch=master)
+
 # dbd-json
 
 A complete Dead by Daylight dataset in JSON.
