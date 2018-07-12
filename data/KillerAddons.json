@@ -6,9 +6,7 @@
         "owner": "TRAPPER",
         "rarity": "COMMON",
         "description": "Protective padded leather gloves.",
-        "abilities": [
-            "%bSlightly increases%/b Bear-Trap setting speed."
-        ],
+        "abilities": ["%bSlightly increases%/b Bear-Trap setting speed."],
         "image": "trapperGloves"
     },
     {
@@ -17,7 +15,8 @@
         "name": "Strong Coil Spring",
         "owner": "TRAPPER",
         "rarity": "COMMON",
-        "description": "A large and heavy coil spring which add a good amount of strength to the Bear-Trap hold.",
+        "description":
+            "A large and heavy coil spring which add a good amount of strength to the Bear-Trap hold.",
         "abilities": [
             "%bSlightly increases%/b Bear-Trap sabotage time.",
             "%bSlightly increases%/b Bear-Trap disarm time."
@@ -30,7 +29,8 @@
         "name": "4-Coil Spring Kit",
         "owner": "TRAPPER",
         "rarity": "UNCOMMON",
-        "description": "A replacement kit for Bear-Traps which changes the usual dual spring system with 4 coil springs adding a great amount of strength to the traps' hold.",
+        "description":
+            "A replacement kit for Bear-Traps which changes the usual dual spring system with 4 coil springs adding a great amount of strength to the traps' hold.",
         "abilities": [
             "%bModerately increases%/b the Bear-Trap sabotage time.",
             "%bModerately increases%/b the Bear-Trap disarm time."
@@ -43,10 +43,9 @@
         "name": "Logwood Dye",
         "owner": "TRAPPER",
         "rarity": "UNCOMMON",
-        "description": "Wood ashes. When boiled, can be used to dye Bear-Traps and make them less noticeable.",
-        "abilities": [
-            "%bModerately darkens%/b all Bear-Traps."
-        ],
+        "description":
+            "Wood ashes. When boiled, can be used to dye Bear-Traps and make them less noticeable.",
+        "abilities": ["%bModerately darkens%/b all Bear-Traps."],
         "image": "logwoodDye"
     },
     {
@@ -55,7 +54,8 @@
         "name": "Serrated Jaws",
         "owner": "TRAPPER",
         "rarity": "COMMON",
-        "description": "These replacement Bear-Trap jaws have saw like blades which cause awful open wounds when they snap.",
+        "description":
+            "These replacement Bear-Trap jaws have saw like blades which cause awful open wounds when they snap.",
         "abilities": [
             "Survivors injured by a Bear-Trap suffer from the %bHemorrhage%/b Status Effect until healed."
         ],
@@ -68,10 +68,9 @@
         "name": "Trap Setters",
         "owner": "TRAPPER",
         "rarity": "UNCOMMON",
-        "description": "Simple tools designed to quickly and safely set Bear-Traps.",
-        "abilities": [
-            "%bModerately increases%/b Bear-Trap setting speed."
-        ],
+        "description":
+            "Simple tools designed to quickly and safely set Bear-Traps.",
+        "abilities": ["%bModerately increases%/b Bear-Trap setting speed."],
         "image": "tapSetters"
     },
     {
@@ -80,7 +79,8 @@
         "name": "Trapper Bag",
         "owner": "TRAPPER",
         "rarity": "UNCOMMON",
-        "description": "A cured leather waist bag. Large and sturdy to transport hunting equipment.",
+        "description":
+            "A cured leather waist bag. Large and sturdy to transport hunting equipment.",
         "abilities": [
             "Start with %b1%/b extra Bear Trap.",
             "Allows the transportation of %b2%/b extra Bear-Traps."
@@ -93,7 +93,8 @@
         "name": "Rusted Jaws",
         "owner": "TRAPPER",
         "rarity": "RARE",
-        "description": "These Bear Trap jaws are covered with crusty and volatile rust spots that make injuries particularly difficult to heal.",
+        "description":
+            "These Bear Trap jaws are covered with crusty and volatile rust spots that make injuries particularly difficult to heal.",
         "abilities": [
             "%bModerately increases%/b the healing time of Survivors injured by the Bear Trap.",
             "%bSlightly decreases%/b the Bear Trap's sabotage time.",
@@ -107,10 +108,11 @@
         "name": "Secondary Coil",
         "owner": "TRAPPER",
         "rarity": "RARE",
-        "description": "A secondary coil which keeps a Bear-Trap functional in times when the primary coil becomes unusable.",
+        "description":
+            "A secondary coil which keeps a Bear-Trap functional in times when the primary coil becomes unusable.",
         "abilities": [
-            "%Considerably increases%/b the Bear-Trap's sabotage time.",
-            "%Considerably increases%/b the Bear-Trap's disarm time."
+            "%bConsiderably increases%/b the Bear-Trap's sabotage time.",
+            "%bConsiderably increases%/b the Bear-Trap's disarm time."
         ],
         "image": "secondaryCoil"
     },
@@ -120,10 +122,9 @@
         "name": "Tar Bottle",
         "owner": "TRAPPER",
         "rarity": "RARE",
-        "description": "A black, matte and sticky substance similar to tar. When applied to Bear-Traps, makes them far less noticeable.",
-        "abilities": [
-            "%bConsiderably darkens%/b all Bear-Traps."
-        ],
+        "description":
+            "A black, matte and sticky substance similar to tar. When applied to Bear-Traps, makes them far less noticeable.",
+        "abilities": ["%bConsiderably darkens%/b all Bear-Traps."],
         "image": "tarBottle"
     },
     {
@@ -132,9 +133,10 @@
         "name": "Wax Brick",
         "owner": "TRAPPER",
         "rarity": "RARE",
-        "description": "A block of wax to lower friction and facilitate movement in mechanical parts.",
+        "description":
+            "A block of wax to lower friction and facilitate movement in mechanical parts.",
         "abilities": [
-            "%Moderately reduces%/b the chance to escape a Bear-Trap."
+            "%bModerately reduces%/b the chance to escape a Bear-Trap."
         ],
         "image": "waxBrick"
     },
@@ -144,7 +146,8 @@
         "name": "Oily Coil",
         "owner": "TRAPPER",
         "rarity": "VERY_RARE",
-        "description": "A clear oil that makes handling the Trap's spring more hazardous.",
+        "description":
+            "A clear oil that makes handling the Trap's spring more hazardous.",
         "abilities": [
             "%bModerately increases%/b the Bear Trap's sabotage time.",
             "%bSlightly decreases%/b the Bear Trap's sabotage Skill Check success zone.",
@@ -158,9 +161,10 @@
         "name": "Fastening Tools",
         "owner": "TRAPPER",
         "rarity": "VERY_RARE",
-        "description": "A specialised set of tools used to fasten Bear Traps to ensure their effectiveness.",
+        "description":
+            "A specialised set of tools used to fasten Bear Traps to ensure their effectiveness.",
         "abilities": [
-            "%Tremendously increases%/b the Bear-Trap setting speed.",
+            "%bTremendously increases%/b the Bear-Trap setting speed.",
             "%bConsiderably increases%/b the rescue and escape time from Bear-Traps.",
             "%bModerately reduces%/b the chance to escape a Bear-Trap."
         ],
@@ -172,7 +176,8 @@
         "name": "Stitched Bag",
         "owner": "TRAPPER",
         "rarity": "VERY_RARE",
-        "description": "Skin pieces of all sorts crudely stitched together making for a very large bag.",
+        "description":
+            "Skin pieces of all sorts crudely stitched together making for a very large bag.",
         "abilities": [
             "Start with %b2%/b extra Bear Traps.",
             "Allows the transportation of %b2%/b extra Bear Traps."
@@ -185,7 +190,8 @@
         "name": "Bloody Coil",
         "owner": "TRAPPER",
         "rarity": "ULTRA_RARE",
-        "description": "Part sticky, part slippery, this grim liquid makes handling the traps' spring more dangerous.",
+        "description":
+            "Part sticky, part slippery, this grim liquid makes handling the traps' spring more dangerous.",
         "abilities": [
             "When a trap is sabotaged or disarmed by a %bhealthy%/b survivor, the bloody coils exact their price and that survivor becomes %binjured%/b"
         ],
@@ -197,7 +203,8 @@
         "name": "Iridescent Stone",
         "owner": "TRAPPER",
         "rarity": "ULTRA_RARE",
-        "description": "Traps sharpened with this sickly gleaming stone seem to gain a life of their own.",
+        "description":
+            "Traps sharpened with this sickly gleaming stone seem to gain a life of their own.",
         "abilities": [
             "Every %b30 seconds%/b, one closed Bear-Trap chosen at random becomes set."
         ],
@@ -209,7 +216,8 @@
         "name": "Bone Clapper",
         "owner": "WRAITH",
         "rarity": "COMMON",
-        "description": "A Bell clapper made from a highly polished piece of bone.",
+        "description":
+            "A Bell clapper made from a highly polished piece of bone.",
         "abilities": [
             "%bSlightly reduces%/b the range at which Survivors hear The Wraith's successful cloak/uncloak audio."
         ],
@@ -221,10 +229,9 @@
         "name": "\"Swift Hunt\" - Soot",
         "owner": "WRAITH",
         "rarity": "COMMON",
-        "description": "The Kuntin-Takko symbol, representing a rapid descent on a prey, is finger-drawn in soot on the body of the Bell.",
-        "abilities": [
-            "%bSlightly reduces%/b the Wraith's reappearance time."
-        ],
+        "description":
+            "The Kuntin-Takko symbol, representing a rapid descent on a prey, is finger-drawn in soot on the body of the Bell.",
+        "abilities": ["%bSlightly reduces%/b the Wraith's reappearance time."],
         "image": "sootKuntinTakkho"
     },
     {
@@ -233,10 +240,9 @@
         "name": "\"Blink\" - Soot",
         "owner": "WRAITH",
         "rarity": "COMMON",
-        "description": "The Kratin symbol, represting quick passing, is finger-drawn in soot on the body of the Bell.",
-        "abilities": [
-            "%bSlightly reduces%/b the Wraith's disappearance time."
-        ],
+        "description":
+            "The Kratin symbol, represting quick passing, is finger-drawn in soot on the body of the Bell.",
+        "abilities": ["%bSlightly reduces%/b the Wraith's disappearance time."],
         "image": "sootKratin"
     },
     {
@@ -245,10 +251,9 @@
         "name": "\"Blink\" - Soot",
         "owner": "WRAITH",
         "rarity": "COMMON",
-        "description": "The Baikra-Kaeug symbol, representing imperviousness, is finger-drawn in soot on the body of the Bell.",
-        "abilities": [
-            "%bSlightly increases%/b Lightburn resistance."
-        ],
+        "description":
+            "The Baikra-Kaeug symbol, representing imperviousness, is finger-drawn in soot on the body of the Bell.",
+        "abilities": ["%bSlightly increases%/b Lightburn resistance."],
         "image": "sootBaikraKaeug"
     },
     {
@@ -257,7 +262,8 @@
         "name": "Coxcombed Clapper",
         "owner": "WRAITH",
         "rarity": "UNCOMMON",
-        "description": "A coxcombed rope knotted around the Bell clapper to create a softer sound.",
+        "description":
+            "A coxcombed rope knotted around the Bell clapper to create a softer sound.",
         "abilities": [
             "%bModerately reduces%/b the range at which Survivors hear The Wraith's successful cloak/uncloak audio."
         ],
@@ -269,7 +275,8 @@
         "name": "\"Windstorm\" - Mud",
         "owner": "WRAITH",
         "rarity": "UNCOMMON",
-        "description": "The Ohuwe-Onmnea symbol, representing a violent storm, is finger-drawn in soot on the body of the Bell.",
+        "description":
+            "The Ohuwe-Onmnea symbol, representing a violent storm, is finger-drawn in soot on the body of the Bell.",
         "abilities": [
             "Grants a boost to movement speed for %b0.5 second%/b after reappearing."
         ],
@@ -281,7 +288,8 @@
         "name": "\"Swift Hunt\" - Mud",
         "owner": "WRAITH",
         "rarity": "UNCOMMON",
-        "description": "The Kuntin-Takko symbol, representing a rapid descent on a prey, is finger-drawn in mud on the body of the Bell.",
+        "description":
+            "The Kuntin-Takko symbol, representing a rapid descent on a prey, is finger-drawn in mud on the body of the Bell.",
         "abilities": [
             "%bModerately reduces%/b the Wraith's reappearance time."
         ],
@@ -293,10 +301,9 @@
         "name": "\"Blind Warrior\" - Mud",
         "owner": "WRAITH",
         "rarity": "UNCOMMON",
-        "description": "The Baikra-Kaeug symbol, representing imperviousness, is finger-drawn in mud on the body of the Bell.",
-        "abilities": [
-            "%bModerately increases%/b Lightburn resistance."
-        ],
+        "description":
+            "The Baikra-Kaeug symbol, representing imperviousness, is finger-drawn in mud on the body of the Bell.",
+        "abilities": ["%bModerately increases%/b Lightburn resistance."],
         "image": "mudBaikraKaeug"
     },
     {
@@ -305,7 +312,8 @@
         "name": "\"All Seeing\" - Mud",
         "owner": "WRAITH",
         "rarity": "UNCOMMON",
-        "description": "The Kra-Frabai symbol, representing the Entity watching over us, is finger-drawn in mud on the head of the Bell.",
+        "description":
+            "The Kra-Frabai symbol, representing the Entity watching over us, is finger-drawn in mud on the head of the Bell.",
         "abilities": [
             "While invisible, see the Survivors' Auras within %b6%/b meters of range."
         ],
@@ -317,7 +325,8 @@
         "name": "\"Windstorm\" - White",
         "owner": "WRAITH",
         "rarity": "RARE",
-        "description": "The Ohuwe-Onmnea symbol, representing a violent storm, is finger-drawn in white ink on the body of the Bell.",
+        "description":
+            "The Ohuwe-Onmnea symbol, representing a violent storm, is finger-drawn in white ink on the body of the Bell.",
         "abilities": [
             "Grants a boost to movement speed for %b1 second%/b after reappearing.",
             "%bSlightly increases%/b The Wraith's reappearance time."
@@ -330,7 +339,8 @@
         "name": "\"The Ghost\" - White",
         "owner": "WRAITH",
         "rarity": "RARE",
-        "description": "The Khugwemuu symbol, representing the spirit world, is finger-drawn in soot on the body of the Bell.",
+        "description":
+            "The Khugwemuu symbol, representing the spirit world, is finger-drawn in soot on the body of the Bell.",
         "abilities": [
             "%bGrants stealth%/b when uncloaking while motionless.",
             "Stealth reduces your terror radius to %b0 meters%/b until you move or act again."
@@ -343,7 +353,8 @@
         "name": "\"Swift Hunt\" - White",
         "owner": "WRAITH",
         "rarity": "RARE",
-        "description": "The Kuntin-Takkho symbol, representing a rapid descent on a prey, is stamped in white ink on the body of the Bell.",
+        "description":
+            "The Kuntin-Takkho symbol, representing a rapid descent on a prey, is stamped in white ink on the body of the Bell.",
         "abilities": [
             "%bConsiderably reduces%/b The Wraith's reappearance time."
         ],
@@ -355,10 +366,9 @@
         "name": "\"Blind Warrior\" - White",
         "owner": "WRAITH",
         "rarity": "RARE",
-        "description": "The Baikra-Kaeug symbol, representing imperviousness, is stamped out of white ink on the body of the Bell.",
-        "abilities": [
-            "%bConsiderably increases%/b Lightburn resistance."
-        ],
+        "description":
+            "The Baikra-Kaeug symbol, representing imperviousness, is stamped out of white ink on the body of the Bell.",
+        "abilities": ["%bConsiderably increases%/b Lightburn resistance."],
         "image": "whiteBlindWarrior"
     },
     {
@@ -367,7 +377,8 @@
         "name": "\"All Seeing\" - White",
         "owner": "WRAITH",
         "rarity": "RARE",
-        "description": "The Kra-Frabai symbol, representing the Entity watching over us, is stamped out of white ink on the head of the Bell.",
+        "description":
+            "The Kra-Frabai symbol, representing the Entity watching over us, is stamped out of white ink on the head of the Bell.",
         "abilities": [
             "While invisible, see the Survivors' Auras within %b8 meters%/b of range."
         ],
@@ -379,7 +390,8 @@
         "name": "\"Windstorm\" - Blood",
         "owner": "WRAITH",
         "rarity": "VERY_RARE",
-        "description": "The Ohuwee-Onmnea smybol, representing a violent storm, is stamped out of blood on the body of the Bell.",
+        "description":
+            "The Ohuwee-Onmnea smybol, representing a violent storm, is stamped out of blood on the body of the Bell.",
         "abilities": [
             "Grants a boost to movement speed for %b1.5 seconds%/b after reappearing.",
             "%bModerately increases%/b The Wraith's reappearance time."
@@ -392,10 +404,9 @@
         "name": "\"Blind Warrior\" - Blood",
         "owner": "WRAITH",
         "rarity": "VERY_RARE",
-        "description": "The Baikra-Kaeug symbol, representing imperviousness, is stamped out of blood on the body of the Bell.",
-        "abilities": [
-            "%bTremendously increases%/b Lightburn resistance."
-        ],
+        "description":
+            "The Baikra-Kaeug symbol, representing imperviousness, is stamped out of blood on the body of the Bell.",
+        "abilities": ["%bTremendously increases%/b Lightburn resistance."],
         "image": "bloodBlindWarrior"
     },
     {
@@ -404,7 +415,8 @@
         "name": "\"All Seeing\" - Blood",
         "owner": "WRAITH",
         "rarity": "VERY_RARE",
-        "description": "The Kra-Frabai symbol. representing the Entity watching over us, is stamped in blood on the head of the Bell.",
+        "description":
+            "The Kra-Frabai symbol. representing the Entity watching over us, is stamped in blood on the head of the Bell.",
         "abilities": [
             "While invisible, see the Survivors' Auras within %b10 meters%/b of range."
         ],
@@ -416,10 +428,9 @@
         "name": "\"Blind Warrior\" - Spirit",
         "owner": "WRAITH",
         "rarity": "ULTRA_RARE",
-        "description": "The Baikra-Kaeug symbol, representing imperviousness, ominously glows on the body of the Bell.",
-        "abilities": [
-            "%bGrants immunity%/b to Lightburn."
-        ],
+        "description":
+            "The Baikra-Kaeug symbol, representing imperviousness, ominously glows on the body of the Bell.",
+        "abilities": ["%bGrants immunity%/b to Lightburn."],
         "image": "spiritBlindWarrior"
     },
     {
@@ -428,7 +439,8 @@
         "name": "\"All Seeing\" - Spirit",
         "owner": "WRAITH",
         "rarity": "ULTRA_RARE",
-        "description": "The Kra-Frabai symbol, representing the Entity watching over us, ominously glows on the head of the Bell.",
+        "description":
+            "The Kra-Frabai symbol, representing the Entity watching over us, ominously glows on the head of the Bell.",
         "abilities": [
             "While invisible, see the Survivors' Auras within %b12 meters%/b of range."
         ],
@@ -441,9 +453,7 @@
         "owner": "HILLBILLY",
         "rarity": "COMMON",
         "description": "A rancid oil used as a poor quality lubricant.",
-        "abilities": [
-            "%bSlightly decrease%/b the Chainsaw's cooldown."
-        ],
+        "abilities": ["%bSlightly decrease%/b the Chainsaw's cooldown."],
         "image": "vegetableOil"
     },
     {
@@ -453,9 +463,7 @@
         "owner": "HILLBILLY",
         "rarity": "COMMON",
         "description": "A clean spark plug fitted for a Chainsaw.",
-        "abilities": [
-            "%bSlightly decreases%/b the Chainsaw's charge time."
-        ],
+        "abilities": ["%bSlightly decreases%/b the Chainsaw's charge time."],
         "image": "sparkPlug"
     },
     {
@@ -465,9 +473,7 @@
         "owner": "HILLBILLY",
         "rarity": "COMMON",
         "description": "A file whose purpose is to hone Chainsaw chains.",
-        "abilities": [
-            "%bSlightly reduces%/b the noise made by the Chainsaw."
-        ],
+        "abilities": ["%bSlightly reduces%/b the noise made by the Chainsaw."],
         "image": "chainsawFile"
     },
     {
@@ -476,7 +482,8 @@
         "name": "Spiked Boots",
         "owner": "HILLBILLY",
         "rarity": "UNCOMMON",
-        "description": "Boots with metal spikes protruding from the soles, which provide more stability and control when walking on slippery soil.",
+        "description":
+            "Boots with metal spikes protruding from the soles, which provide more stability and control when walking on slippery soil.",
         "abilities": [
             "%bModerately increases%/b steering while using the Chainsaw."
         ],
@@ -488,7 +495,8 @@
         "name": "Speed Limiter",
         "owner": "HILLBILLY",
         "rarity": "UNCOMMON",
-        "description": "A mechanical device that limits the amount of fuel small engines can intake at one time, forcing a constant and safe speed.",
+        "description":
+            "A mechanical device that limits the amount of fuel small engines can intake at one time, forcing a constant and safe speed.",
         "abilities": [
             "Chainsaw does not automatically trigger dying state.",
             "Get %b50%%/b more Bloodpoints for Chainsaw score events in the %bDeviousness%/b category."
@@ -501,10 +509,9 @@
         "name": "Shop Lubricant",
         "owner": "HILLBILLY",
         "rarity": "UNCOMMON",
-        "description": "An oil specifically formulated for Chainsaws. A special additive prevents oil throw off.",
-        "abilities": [
-            "%bModerately decreases%/b the Chainsaw's cooldown."
-        ],
+        "description":
+            "An oil specifically formulated for Chainsaws. A special additive prevents oil throw off.",
+        "abilities": ["%bModerately decreases%/b the Chainsaw's cooldown."],
         "image": "shopLubricant"
     },
     {
@@ -513,10 +520,9 @@
         "name": "Primer Bulb",
         "owner": "HILLBILLY",
         "rarity": "UNCOMMON",
-        "description": "Pumps more gas in the ignition system to ensure a quick and powerful start.",
-        "abilities": [
-            "%bModerately decreases%/b the Chainsaw's charge time."
-        ],
+        "description":
+            "Pumps more gas in the ignition system to ensure a quick and powerful start.",
+        "abilities": ["%bModerately decreases%/b the Chainsaw's charge time."],
         "image": "primerBulb"
     },
     {
@@ -549,7 +555,8 @@
         "name": "Grisly Chains",
         "owner": "HILLBILLY",
         "rarity": "UNCOMMON",
-        "description": "A chain with unusually hefty cutter teeth that leaves victims crippled even after being healed.",
+        "description":
+            "A chain with unusually hefty cutter teeth that leaves victims crippled even after being healed.",
         "abilities": [
             "%bModerately decreases%/b the repair speed of survivors injured by the Chainsaw for %b90 seconds%/b."
         ],
@@ -561,7 +568,8 @@
         "name": "Depth Gauge Rake",
         "owner": "HILLBILLY",
         "rarity": "UNCOMMON",
-        "description": "Tool that increases the angle of the depth gauge, making the chain eat more \"wood\".",
+        "description":
+            "Tool that increases the angle of the depth gauge, making the chain eat more \"wood\".",
         "abilities": [
             "%bModerately reduces%/b the time penalty when bumping into objects."
         ],
@@ -573,7 +581,8 @@
         "name": "Death Engravings",
         "owner": "HILLBILLY",
         "rarity": "UNCOMMON",
-        "description": "Engravings found on the Chainsaw body counting the amount of lives it took. Fills the user with determination.",
+        "description":
+            "Engravings found on the Chainsaw body counting the amount of lives it took. Fills the user with determination.",
         "abilities": [
             "%bSlightly increases%/b the Chainsaw's movement speed.",
             "%bSlightly increases%/b charge time."
@@ -586,7 +595,8 @@
         "name": "The Thompson's Mix",
         "owner": "HILLBILLY",
         "rarity": "RARE",
-        "description": "A special oily substance used in the lubrication of all machinery concocted by the Thompson's themselves.",
+        "description":
+            "A special oily substance used in the lubrication of all machinery concocted by the Thompson's themselves.",
         "abilities": [
             "%bConsiderably decreases%/b the Chainsaw's cooldown.",
             "%bSlightly decreases%/b the Chainsaw's charge time."
@@ -599,7 +609,8 @@
         "name": "Rusted Chains",
         "owner": "HILLBILLY",
         "rarity": "RARE",
-        "description": "This chain is covered with crusty and volatile rust spots that make injuries particularly difficult to heal.\nConsiderably increases the healing time of survivors injured by the Chainsaw.",
+        "description":
+            "This chain is covered with crusty and volatile rust spots that make injuries particularly difficult to heal.\nConsiderably increases the healing time of survivors injured by the Chainsaw.",
         "abilities": [
             "Hit target suffers %bconsiderably%/b from the %bMangled%/b Status Effect for %b120 seconds.%/b"
         ],
@@ -611,7 +622,8 @@
         "name": "Light Chassis",
         "owner": "HILLBILLY",
         "rarity": "RARE",
-        "description": "A light and durable Chainsaw chassis with a shorter guide bar. Makes the Chainsaw easier to handle.",
+        "description":
+            "A light and durable Chainsaw chassis with a shorter guide bar. Makes the Chainsaw easier to handle.",
         "abilities": [
             "%bSlightly reduces%/b the reach of the Chainsaw attack.",
             "%bConsiderably reduces%/b the time penalty when bumping into objects."
@@ -624,7 +636,8 @@
         "name": "Doom Engravings",
         "owner": "HILLBILLY",
         "rarity": "RARE",
-        "description": "Engravings found on the Chainsaw body representing the dark beast that lives in the Fog. Fills the user with determination.",
+        "description":
+            "Engravings found on the Chainsaw body representing the dark beast that lives in the Fog. Fills the user with determination.",
         "abilities": [
             "%bModerately increases%/b the Chainsaw's movement speed.",
             "%bSlightly increases%/b charge time."
@@ -637,7 +650,8 @@
         "name": "Carburetor Tuning Guide",
         "owner": "HILLBILLY",
         "rarity": "RARE",
-        "description": "A crudely drawn guide to properly adjust and tune a Chainsaw carburetor.",
+        "description":
+            "A crudely drawn guide to properly adjust and tune a Chainsaw carburetor.",
         "abilities": [
             "%bModerately decreases%/b the Chainsaw's charge time.",
             "%bSlightly decreases%/b the Chainsaw's cooldown.",
@@ -652,7 +666,8 @@
         "name": "Thompson's Moonshine",
         "owner": "HILLBILLY",
         "rarity": "VERY_RARE",
-        "description": "A strong beverage made from corn and a recipe passed down in the Thompson's family. Instils rage and headache.",
+        "description":
+            "A strong beverage made from corn and a recipe passed down in the Thompson's family. Instils rage and headache.",
         "abilities": [
             "%bTremendously increases%/b steering while using the Chainsaw.",
             "%bConsiderably increases%/b the time penalty when bumping into objects."
@@ -665,7 +680,8 @@
         "name": "Begrimed Chains",
         "owner": "HILLBILLY",
         "rarity": "VERY_RARE",
-        "description": "This chain is stained with a foul substance that afflicts anyone it touches with debilities.",
+        "description":
+            "This chain is stained with a foul substance that afflicts anyone it touches with debilities.",
         "abilities": [
             "%bModerately decreases%/b the repair speed on Survivors injured by the Chainsaw.",
             "Hit target suffers %bconsiderably%/b from the %bMangled%/b Status Effect for %b120 seconds%/b."
@@ -678,7 +694,8 @@
         "name": "Wooden Horse",
         "owner": "NURSE",
         "rarity": "COMMON",
-        "description": "An unpainted toy carved out of cheap wood to resemble a horse. Once the symbol of a deep connection between a catatonic patient and her Nurse.",
+        "description":
+            "An unpainted toy carved out of cheap wood to resemble a horse. Once the symbol of a deep connection between a catatonic patient and her Nurse.",
         "abilities": [
             "%bSlightly decreases%/b the accuracy of the Blink.",
             "%bSlightly increases%/b the maximum range of the Blink."
@@ -691,10 +708,9 @@
         "name": "White Nit Comb",
         "owner": "NURSE",
         "rarity": "COMMON",
-        "description": "A parasitic nit comb taken from the clinic. Once the symbol of a deep connection between an anxious patient and her Nurse.",
-        "abilities": [
-            "%bSlightly increases%/b the Blink movement speed."
-        ],
+        "description":
+            "A parasitic nit comb taken from the clinic. Once the symbol of a deep connection between an anxious patient and her Nurse.",
+        "abilities": ["%bSlightly increases%/b the Blink movement speed."],
         "image": "whiteNitComb"
     },
     {
@@ -703,7 +719,8 @@
         "name": "Torn Bookmark",
         "owner": "NURSE",
         "rarity": "COMMON",
-        "description": "A white and pristine piece of ribbon once attached to a sacred book. Once the symbol of a dispute.",
+        "description":
+            "A white and pristine piece of ribbon once attached to a sacred book. Once the symbol of a dispute.",
         "abilities": [
             "Adds %b1%/b additional chain Blink.",
             "%bSlightly decreases%/b the maximum range of the Blink.",
@@ -717,10 +734,9 @@
         "name": "Metal Spoon",
         "owner": "NURSE",
         "rarity": "COMMON",
-        "description": "A dull, partially rusted and stained metallic spoon. Confiscated from Room 202's patient, the \"Bad Man\".",
-        "abilities": [
-            "%bSlightly increases%/b the charge speed of the Blink."
-        ],
+        "description":
+            "A dull, partially rusted and stained metallic spoon. Confiscated from Room 202's patient, the \"Bad Man\".",
+        "abilities": ["%bSlightly increases%/b the charge speed of the Blink."],
         "image": "metalSpoon"
     },
     {
@@ -729,10 +745,9 @@
         "name": "Matchbox",
         "owner": "NURSE",
         "rarity": "COMMON",
-        "description": "A matchbox containing an odd collection of mismatched buttons.",
-        "abilities": [
-            "%bSlightly increases%/b the chain Blink window."
-        ],
+        "description":
+            "A matchbox containing an odd collection of mismatched buttons.",
+        "abilities": ["%bSlightly increases%/b the chain Blink window."],
         "image": "matchBox"
     },
     {
@@ -741,7 +756,8 @@
         "name": "Bad Man Keepsake",
         "owner": "NURSE",
         "rarity": "COMMON",
-        "description": "A rotten molar ripped from the \"Bad Man's\" cold dead hand.",
+        "description":
+            "A rotten molar ripped from the \"Bad Man's\" cold dead hand.",
         "abilities": [
             "%bModerately increases%/b the charge speed of the Blink."
         ],
@@ -753,7 +769,8 @@
         "name": "Pocket Watch",
         "owner": "NURSE",
         "rarity": "UNCOMMON",
-        "description": "A charred and broken pocket watch with rattling pieces. Taken from Nurse Moris' body.",
+        "description":
+            "A charred and broken pocket watch with rattling pieces. Taken from Nurse Moris' body.",
         "abilities": [
             "%bSlightly decreases%/b the charge speed of the Blink.",
             "%bModerately reduces%/b the fatigue time of the Blink."
@@ -766,7 +783,8 @@
         "name": "Dull Bracelet",
         "owner": "NURSE",
         "rarity": "UNCOMMON",
-        "description": "A worthless piece of jewelry that might have an important significance to someone. Taken from the Anxious Girl's body.",
+        "description":
+            "A worthless piece of jewelry that might have an important significance to someone. Taken from the Anxious Girl's body.",
         "abilities": [
             "%bModerately increases%/b the Blink movement speed.",
             "%bSlightly decreases%/b Blink charge speed."
@@ -779,7 +797,8 @@
         "name": "Dark Cincture",
         "owner": "NURSE",
         "rarity": "UNCOMMON",
-        "description": "A black rope used as a belt in times of mourning. Taken from Father Campbell's body.",
+        "description":
+            "A black rope used as a belt in times of mourning. Taken from Father Campbell's body.",
         "abilities": [
             "Adds %b1%/b additional chain Blink.",
             "%bSlightly reduces%/b the maximum range of the Blink."
@@ -792,7 +811,8 @@
         "name": "Catatonic Boy's Treasure",
         "owner": "NURSE",
         "rarity": "UNCOMMON",
-        "description": "A pine-cone which unexpectedly calmed a patient's repetitive movement. Taken from the Catatonic Boy's body.",
+        "description":
+            "A pine-cone which unexpectedly calmed a patient's repetitive movement. Taken from the Catatonic Boy's body.",
         "abilities": [
             "%bModerately increases%/b the maximum range of the Blink.",
             "%bModerately decreases%/b the accuracy of the Blink."
@@ -805,7 +825,8 @@
         "name": "Spasmodic Breath",
         "owner": "NURSE",
         "rarity": "RARE",
-        "description": "The twitchy and tremulous breath stolen from the \"Bad Man\". Aggressively pulses and jumps at The Nurse's touch.",
+        "description":
+            "The twitchy and tremulous breath stolen from the \"Bad Man\". Aggressively pulses and jumps at The Nurse's touch.",
         "abilities": [
             "%bConsiderably increases%/b the charge speed of the Blink.",
             "%bSlightly increases%/b the fatigue time of the Blink."
@@ -818,7 +839,8 @@
         "name": "Heavy Panting",
         "owner": "NURSE",
         "rarity": "RARE",
-        "description": "The slow and bulging breath stolen from the fat Orderly. Dimly oscillates at The Nurse's touch.",
+        "description":
+            "The slow and bulging breath stolen from the fat Orderly. Dimly oscillates at The Nurse's touch.",
         "abilities": [
             "%bModerately increases%/b the chain Blink window.",
             "%bModerately increases%/b fatigue duration."
@@ -831,10 +853,9 @@
         "name": "Fragile Wheeze",
         "owner": "NURSE",
         "rarity": "RARE",
-        "description": "The whistling and rattling breath stolen from Father Campbell. Silently curves and bends at The Nurse's touch.",
-        "abilities": [
-            "Adds %b1%/b additional chain Blink."
-        ],
+        "description":
+            "The whistling and rattling breath stolen from Father Campbell. Silently curves and bends at The Nurse's touch.",
+        "abilities": ["Adds %b1%/b additional chain Blink."],
         "image": "fragileWheeze"
     },
     {
@@ -843,7 +864,8 @@
         "name": "Ataxic Respiration",
         "owner": "NURSE",
         "rarity": "RARE",
-        "description": "The irregular and deteriorating breath collected from the Catatonic Boy. Normally stable and calm, becomes incredibly agitated at The Nurse's touch.",
+        "description":
+            "The irregular and deteriorating breath collected from the Catatonic Boy. Normally stable and calm, becomes incredibly agitated at The Nurse's touch.",
         "abilities": [
             "%bConsiderably increases%/b the maximum range of the Blink.",
             "%bConsiderably decreases%/b the accuracy of the Blink."
@@ -856,7 +878,8 @@
         "name": "Anxious Gasp",
         "owner": "NURSE",
         "rarity": "RARE",
-        "description": "The gasp of surprise collected from an Anxious Girl which the Nurse was fond of. Twitches vigorously at The Nurse's touch.",
+        "description":
+            "The gasp of surprise collected from an Anxious Girl which the Nurse was fond of. Twitches vigorously at The Nurse's touch.",
         "abilities": [
             "%bConsiderably increases%/b the Blink movement speed.",
             "%bModerately decreases%/b Blink charge speed."
@@ -869,10 +892,9 @@
         "name": "Plaid Flannel",
         "owner": "NURSE",
         "rarity": "VERY_RARE",
-        "description": "A torn piece of red and black plaid flannel. The scrap of fabric imbues The Nurse with devastating focus.",
-        "abilities": [
-            "Allows you to see the landing area of the Blink."
-        ],
+        "description":
+            "A torn piece of red and black plaid flannel. The scrap of fabric imbues The Nurse with devastating focus.",
+        "abilities": ["Allows you to see the landing area of the Blink."],
         "image": "plaidFlannel"
     },
     {
@@ -881,7 +903,8 @@
         "name": "Kavanagh's Last Breath",
         "owner": "NURSE",
         "rarity": "VERY_RARE",
-        "description": "A powerful last breath snatched from Crotus Prenn Asylum Orderly Harvey Kavanagh. In the hands of The Nurse, it wobbles with intensity.",
+        "description":
+            "A powerful last breath snatched from Crotus Prenn Asylum Orderly Harvey Kavanagh. In the hands of The Nurse, it wobbles with intensity.",
         "abilities": [
             "%bModerately increases%/b the chain Blink window.",
             "%bSlightly increases%/b fatigue duration.",
@@ -895,7 +918,8 @@
         "name": "Jenner's Last Breath",
         "owner": "NURSE",
         "rarity": "VERY_RARE",
-        "description": "A powerful last breath snatched from Crotus Prenn Asylum patient Mary Jenner. In the hands of The Nurse, it trembles with intensity.",
+        "description":
+            "A powerful last breath snatched from Crotus Prenn Asylum patient Mary Jenner. In the hands of The Nurse, it trembles with intensity.",
         "abilities": [
             "%bTremendously increases%/b the Blink movement speed.",
             "%bModerately decreases%/b Blink charge speed.",
@@ -909,7 +933,8 @@
         "name": "Campbell's Last Breath",
         "owner": "NURSE",
         "rarity": "VERY_RARE",
-        "description": "A powerful last breath snatched from Crotus Prenn Asylum priest Father Campbell. In the hand of The Nurse, it crackles with intensity.",
+        "description":
+            "A powerful last breath snatched from Crotus Prenn Asylum priest Father Campbell. In the hand of The Nurse, it crackles with intensity.",
         "abilities": [
             "Adds %b2%/b additional chain Blinks.",
             "%bSlightly reduces%/b the maximum range of the Blink."
@@ -922,7 +947,8 @@
         "name": "\"Bad Man's\" Last Breath",
         "owner": "NURSE",
         "rarity": "VERY_RARE",
-        "description": "A powerful last breath snatched from Crotus Prenn Asylum patient the \"Bad Man\". In the hands of The Nurse, it jolts with intensity.",
+        "description":
+            "A powerful last breath snatched from Crotus Prenn Asylum patient the \"Bad Man\". In the hands of The Nurse, it jolts with intensity.",
         "abilities": [
             "%bTremendously increases%/b the charge speed of the Blink.",
             "%bSlightly increases%/b the fatigue time of the Blink.",
@@ -936,10 +962,9 @@
         "name": "Tacky Earrings",
         "owner": "SHAPE",
         "rarity": "COMMON",
-        "description": "A very cheap piece of jewelry made from plastic. Painted to resemble precious material.",
-        "abilities": [
-            "%bSlightly increases%/b movement speed while stalking."
-        ],
+        "description":
+            "A very cheap piece of jewelry made from plastic. Painted to resemble precious material.",
+        "abilities": ["%bSlightly increases%/b movement speed while stalking."],
         "image": "tackyEarrings"
     },
     {
@@ -948,7 +973,8 @@
         "name": "Boyfriend's Memo",
         "owner": "SHAPE",
         "rarity": "COMMON",
-        "description": "A \"romantic\", if slightly sleazy, note left around to draw the attention of a female lover.",
+        "description":
+            "A \"romantic\", if slightly sleazy, note left around to draw the attention of a female lover.",
         "abilities": [
             "%bSlightly increases%/b the lunge of %bEvil Within I%/b."
         ],
@@ -974,7 +1000,8 @@
         "name": "Reflective Fragment",
         "owner": "SHAPE",
         "rarity": "UNCOMMON",
-        "description": "A tiny piece of a highly reflective material most probably from a broken mirror.",
+        "description":
+            "A tiny piece of a highly reflective material most probably from a broken mirror.",
         "abilities": [
             "%bEvil Within II%/b reveals the aura of Survivors who have been stalked for at least %b1 second%/b.",
             "Aura stays visible for a duration of %b2 seconds%/b."
@@ -987,7 +1014,8 @@
         "name": "Memorial Flower",
         "owner": "SHAPE",
         "rarity": "UNCOMMON",
-        "description": "A partially faded and dried pink larkspur picked up from a gravestone.",
+        "description":
+            "A partially faded and dried pink larkspur picked up from a gravestone.",
         "abilities": [
             "%bSlightly increases%/b the rate at which evil is gained when stalking a Survivor."
         ],
@@ -999,7 +1027,8 @@
         "name": "Jewelry",
         "owner": "SHAPE",
         "rarity": "UNCOMMON",
-        "description": "A large necklace made of beads an inexpensive metals. One of Judith's favourites.",
+        "description":
+            "A large necklace made of beads an inexpensive metals. One of Judith's favourites.",
         "abilities": [
             "%bModerately increases%/b movement speed while stalking."
         ],
@@ -1011,7 +1040,8 @@
         "name": "Hair Brush",
         "owner": "SHAPE",
         "rarity": "UNCOMMON",
-        "description": "A nylon bristle brush used to add body and softness to hair.",
+        "description":
+            "A nylon bristle brush used to add body and softness to hair.",
         "abilities": [
             "%bModerately increases%/b the duration of %bEvil Within III%/b.",
             "%bSlightly increases%/b the amount of evil required to reach %bEvil Within III%/b."
@@ -1024,7 +1054,8 @@
         "name": "Glass Fragment",
         "owner": "SHAPE",
         "rarity": "UNCOMMON",
-        "description": "A tiny piece of tinted glass, probably from a broken object. It is impossible to determine its origin.",
+        "description":
+            "A tiny piece of tinted glass, probably from a broken object. It is impossible to determine its origin.",
         "abilities": [
             "%bEvil Within I%/b reveals the aura of Survivors who have been stalked for at least %b1 second%/b.",
             "Aura stays visible for a duration of %b2 seconds%/b."
@@ -1063,7 +1094,8 @@
         "name": "Judith's Journal",
         "owner": "SHAPE",
         "rarity": "RARE",
-        "description": "A journal identified as owned by Judith M. Myers. Most of the pages are defaced with frightening and disturbing drawings.",
+        "description":
+            "A journal identified as owned by Judith M. Myers. Most of the pages are defaced with frightening and disturbing drawings.",
         "abilities": [
             "You become %bobsessed%/b with one Survivor.",
             "%bConsiderably increases%/b the rate at which evil is gained when stalking your Obsession."
@@ -1076,7 +1108,8 @@
         "name": "Jewelry Box",
         "owner": "SHAPE",
         "rarity": "RARE",
-        "description": "A barren wooden box in which vanity items were once stored..",
+        "description":
+            "A barren wooden box in which vanity items were once stored..",
         "abilities": [
             "%bConsiderably increases%/b movement speed while stalking."
         ],
@@ -1088,7 +1121,8 @@
         "name": "J. Myers Memorial",
         "owner": "SHAPE",
         "rarity": "RARE",
-        "description": "A glossy page ripped from the 1965 Haddonfield High School yearbook, one dedicated to the memory of Judith Myers.",
+        "description":
+            "A glossy page ripped from the 1965 Haddonfield High School yearbook, one dedicated to the memory of Judith Myers.",
         "abilities": [
             "%bModerately increases%/b the rate at which evil is gained when stalking a Survivor."
         ],
@@ -1113,7 +1147,8 @@
         "name": "Vanity Mirror",
         "owner": "SHAPE",
         "rarity": "VERY_RARE",
-        "description": "A standing portable vanity mirror in perfect condition except for a fine layer of dust and face powder covering it.",
+        "description":
+            "A standing portable vanity mirror in perfect condition except for a fine layer of dust and face powder covering it.",
         "abilities": [
             "%bEvil Within II%/b reveals Survivors' auras when stalking within a %b16 meter%/b range.",
             "Evil Within cannot progress past %bTIER II%/b.",
@@ -1128,7 +1163,8 @@
         "name": "Tombstone Piece",
         "owner": "SHAPE",
         "rarity": "VERY_RARE",
-        "description": "A fist-sized granite piece taken from a broken tombstone.",
+        "description":
+            "A fist-sized granite piece taken from a broken tombstone.",
         "abilities": [
             "%bKill healthy or injured Survivors%/b with %bEvil Within III%/b.",
             "%bDisables%/b the ability to stalk with %bEvil Within III%/b.",
@@ -1143,7 +1179,8 @@
         "name": "Scratched Mirror",
         "owner": "SHAPE",
         "rarity": "VERY_RARE",
-        "description": "A standing portable vanity mirror which has been violently scratched with a sharp metallic object.",
+        "description":
+            "A standing portable vanity mirror which has been violently scratched with a sharp metallic object.",
         "abilities": [
             "%bEvil Within I%/b reveals Survivors' auras when stalking within a %b32 meter%/b range.",
             "Evil Within cannot progress past %bTIER I%/b.",
@@ -1170,7 +1207,8 @@
         "name": "Judith's Tombstone",
         "owner": "SHAPE",
         "rarity": "ULTRA_RARE",
-        "description": "A large and heavy granite tombstone stolen from Mt. Sinclair cemetery, belonging to Judith Myers.",
+        "description":
+            "A large and heavy granite tombstone stolen from Mt. Sinclair cemetery, belonging to Judith Myers.",
         "abilities": [
             "Unlocks the ability to %bkill healthy or injured Survivors%/b with Evil Within III.",
             "%bDisables%/b the ability to stalk with %bEvil Within III%/b.",
@@ -1186,7 +1224,8 @@
         "name": "Fragrant Tuft of Hair",
         "owner": "SHAPE",
         "rarity": "ULTRA_RARE",
-        "description": "A tuft of blond hair which was forcefully torn off someone's scalp. Releases hints of feminine floral fragrance.",
+        "description":
+            "A tuft of blond hair which was forcefully torn off someone's scalp. Releases hints of feminine floral fragrance.",
         "abilities": [
             "%bUnlimited duration%/b of %bEvil Within III%/b.",
             "%bTremendously increases%/b the amount of evil required to reach %bEvil Within III%/b."
@@ -1199,7 +1238,8 @@
         "name": "Rope Necklet",
         "owner": "HAG",
         "rarity": "COMMON",
-        "description": "A rigid ornament worn around the neck made from dead plants.",
+        "description":
+            "A rigid ornament worn around the neck made from dead plants.",
         "abilities": [
             "%bSlightly reduces%/b the setting time of Phantasm traps."
         ],
@@ -1211,7 +1251,8 @@
         "name": "Powdered Eggshell",
         "owner": "HAG",
         "rarity": "COMMON",
-        "description": "Minuscule eggshell fragments shimmering with a pale golden hue.",
+        "description":
+            "Minuscule eggshell fragments shimmering with a pale golden hue.",
         "abilities": [
             "%bSlightly increases%/b the tripped Phantasm trap duration time.",
             "Stacks."
@@ -1224,7 +1265,8 @@
         "name": "Dead Fly Mud",
         "owner": "HAG",
         "rarity": "COMMON",
-        "description": "A small lump of mud, black with the remains of flies. Devoured to increase stamina.",
+        "description":
+            "A small lump of mud, black with the remains of flies. Devoured to increase stamina.",
         "abilities": [
             "%bSlightly increases%/b the distance from where The Hag can teleport to her traps.",
             "Stacks."
@@ -1237,7 +1279,8 @@
         "name": "Bog Water",
         "owner": "HAG",
         "rarity": "COMMON",
-        "description": "Murky water contained in a glass pill bottle from another time.",
+        "description":
+            "Murky water contained in a glass pill bottle from another time.",
         "abilities": [
             "%bSlightly increases%/b the effective Phantasm trap range."
         ],
@@ -1249,7 +1292,8 @@
         "name": "Pussy Willow Catkins",
         "owner": "HAG",
         "rarity": "UNCOMMON",
-        "description": "A handful of small, pristine flower clusters covered in a fine greyish fur.",
+        "description":
+            "A handful of small, pristine flower clusters covered in a fine greyish fur.",
         "abilities": [
             "Reveals the Survivor's aura for %b3 seconds%/b when they trip the Phantasm trap.",
             "%bSlightly reduces%/b the effective Phantasm trap range."
@@ -1274,7 +1318,8 @@
         "name": "Dragonfly Wings",
         "owner": "HAG",
         "rarity": "UNCOMMON",
-        "description": "A handful of yellowish wings, dry and crisp. Devoured to increase stamina.",
+        "description":
+            "A handful of yellowish wings, dry and crisp. Devoured to increase stamina.",
         "abilities": [
             "%bModerately increases%/b the distance from where The Hag can teleport to her traps."
         ],
@@ -1286,7 +1331,8 @@
         "name": "Cypress Necklet",
         "owner": "HAG",
         "rarity": "UNCOMMON",
-        "description": "A rigid ornament worn around the neck made from dead plants adorned with crudely attached cypress bark and swamp moss.",
+        "description":
+            "A rigid ornament worn around the neck made from dead plants adorned with crudely attached cypress bark and swamp moss.",
         "abilities": [
             "%bModerately reduces%/b the setting time of Phantasm traps."
         ],
@@ -1310,7 +1356,8 @@
         "name": "Willow Wreath",
         "owner": "HAG",
         "rarity": "RARE",
-        "description": "Three frail willow branches attached to form a triangular wreath.",
+        "description":
+            "Three frail willow branches attached to form a triangular wreath.",
         "abilities": [
             "Reveals the Survivor's aura for %b5 seconds%/b when they trip the Phantasm trap."
         ],
@@ -1322,7 +1369,8 @@
         "name": "Swamp Orchid Necklet",
         "owner": "HAG",
         "rarity": "RARE",
-        "description": "A rigid ornament worn around the neck made from dead plants adorned with withered orchid petals and leaves.",
+        "description":
+            "A rigid ornament worn around the neck made from dead plants adorned with withered orchid petals and leaves.",
         "abilities": [
             "%bConsiderably reduces%/b the setting time of Phantasm traps."
         ],
@@ -1334,7 +1382,8 @@
         "name": "Dried Cicada",
         "owner": "HAG",
         "rarity": "RARE",
-        "description": "A large swamp cicada covered in a fine layer of ash. Crispy. Devoured to increase stamina.",
+        "description":
+            "A large swamp cicada covered in a fine layer of ash. Crispy. Devoured to increase stamina.",
         "abilities": [
             "%bConsiderably increases%/b the distance from where The Hag can teleport to her traps."
         ],
@@ -1346,7 +1395,8 @@
         "name": "Cracked Turtle Egg",
         "owner": "HAG",
         "rarity": "RARE",
-        "description": "A pale orange turtle egg, cracked and emptied of its content.",
+        "description":
+            "A pale orange turtle egg, cracked and emptied of its content.",
         "abilities": [
             "%bConsiderably increases%/b the tripped Phantasm trap duration time."
         ],
@@ -1358,7 +1408,8 @@
         "name": "Bloodied Mud",
         "owner": "HAG",
         "rarity": "RARE",
-        "description": "A handful of mud with veins of deep crimson. The bloody layers empower the mud.",
+        "description":
+            "A handful of mud with veins of deep crimson. The bloody layers empower the mud.",
         "abilities": [
             "%bConsiderably increases%/b the effective Phantasm trap range."
         ],
@@ -1370,7 +1421,8 @@
         "name": "Scarred Hand",
         "owner": "HAG",
         "rarity": "VERY_RARE",
-        "description": "The cut up, severed hand of the cannibal village butcher. The trapped life essence within unlocks tremendous potential in The Hag's power.",
+        "description":
+            "The cut up, severed hand of the cannibal village butcher. The trapped life essence within unlocks tremendous potential in The Hag's power.",
         "abilities": [
             "Mud Phantasms have collision.",
             "Removes The Hag's ability to teleport to her traps.",
@@ -1386,7 +1438,8 @@
         "name": "Rusty Shackles",
         "owner": "HAG",
         "rarity": "VERY_RARE",
-        "description": "Shackles once used to hold prisoners and carcasses in the cannibal village cellar. The trapped life essence within unlocks tremendous potential in The Hag's power.",
+        "description":
+            "Shackles once used to hold prisoners and carcasses in the cannibal village cellar. The trapped life essence within unlocks tremendous potential in The Hag's power.",
         "abilities": [
             "Tripped Phantasm traps give no indication of being triggered to the Survivor.",
             "Trap does not spawn a Hag Phantasm."
@@ -1399,7 +1452,8 @@
         "name": "Granma's Heart",
         "owner": "HAG",
         "rarity": "VERY_RARE",
-        "description": "The cold heart of the cannibal village elder. The trapped life essence within unlocks tremendous potential in The Hag's power.",
+        "description":
+            "The cold heart of the cannibal village elder. The trapped life essence within unlocks tremendous potential in The Hag's power.",
         "abilities": [
             "Reduces The Hag's Terror Radius to %b0m%/b when a Survivor triggers a Phantasm trap.",
             "Increases a Mud Phantasm's heartbeat radius to %b16 meters%/b."
@@ -1413,7 +1467,8 @@
         "name": "Disfigured Ear",
         "owner": "HAG",
         "rarity": "VERY_RARE",
-        "description": "The cannibal village deaf boy's ear. Deformed due to several hits to the head. The trapped life essence within unlocks tremendous potential in The Hag's power.",
+        "description":
+            "The cannibal village deaf boy's ear. Deformed due to several hits to the head. The trapped life essence within unlocks tremendous potential in The Hag's power.",
         "abilities": [
             "Survivors who trigger a Phantasm trap are deafened for %b6 seconds%/b."
         ],
@@ -1425,7 +1480,8 @@
         "name": "Waterlogged Shoe",
         "owner": "HAG",
         "rarity": "ULTRA_RARE",
-        "description": "A child's shoe, long lost in the bog's waters. The trapped life essence within unlocks tremendous potential in The Hag's power.",
+        "description":
+            "A child's shoe, long lost in the bog's waters. The trapped life essence within unlocks tremendous potential in The Hag's power.",
         "abilities": [
             "Survivors within the triggered Trap range will suffer from the %iHindered%/i Status Effect.",
             "Increases the Hag's movement speed %bslightly%/b.",
@@ -1439,7 +1495,8 @@
         "name": "Mint Rag",
         "owner": "HAG",
         "rarity": "ULTRA_RARE",
-        "description": "A small piece of cotton torn from the dress worn by Lisa Sherwood on the day she disappeared. The trapped life essence within unlocks tremendous potential in The Hag's power.",
+        "description":
+            "A small piece of cotton torn from the dress worn by Lisa Sherwood on the day she disappeared. The trapped life essence within unlocks tremendous potential in The Hag's power.",
         "abilities": [
             "The Hag can teleport to any Phantasm trap in the level.",
             "Phantasm trap teleport has a cooldown of %b15 seconds%/b."
@@ -1452,7 +1509,8 @@
         "name": "Moldy Electrode",
         "owner": "DOCTOR",
         "rarity": "COMMON",
-        "description": "A moldy electrode which can nevertheless conduct a weak electrical current.",
+        "description":
+            "A moldy electrode which can nevertheless conduct a weak electrical current.",
         "abilities": [
             "%bIncreases%/b Shock Therapy attack range by %b25%/b%.",
             "%bSlightly increases%/b Shock Therapy charge time."
@@ -1465,10 +1523,9 @@
         "name": "Maple Knight",
         "owner": "DOCTOR",
         "rarity": "COMMON",
-        "description": "A white knight chess piece made of maple. This gift from an old man brings back distant memories and imbues The Doctor with devastating focus.",
-        "abilities": [
-            "Reveals Shock Therapy area of effect."
-        ],
+        "description":
+            "A white knight chess piece made of maple. This gift from an old man brings back distant memories and imbues The Doctor with devastating focus.",
+        "abilities": ["Reveals Shock Therapy area of effect."],
         "image": "mapleKnight"
     },
     {
@@ -1477,7 +1534,8 @@
         "name": "\"Order\" - Class I",
         "owner": "DOCTOR",
         "rarity": "COMMON",
-        "description": "A conventional ECT procedure, part of a patient's daily routine at the Léry's Memorial Institute. Can cause a state of mild confusion in the patient.",
+        "description":
+            "A conventional ECT procedure, part of a patient's daily routine at the Léry's Memorial Institute. Can cause a state of mild confusion in the patient.",
         "abilities": [
             "%b10% increase%/b in Madness inflicted by the %bStatic Field%/b.",
             "Survivors with %bMadness II/III%/b have the following affliction:",
@@ -1494,7 +1552,8 @@
         "name": "\"Calm\" - Class I",
         "owner": "DOCTOR",
         "rarity": "COMMON",
-        "description": "An ECT procedure using a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure can cause mild anxiety in the patient.",
+        "description":
+            "An ECT procedure using a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure can cause mild anxiety in the patient.",
         "abilities": [
             "%bSlightly increases%/b Terror Radius in Treatment mode.",
             "%bSlightly decreases%/b Terror Radius in Punishment mode.",
@@ -1510,7 +1569,8 @@
         "name": "Scrapped Tape",
         "owner": "DOCTOR",
         "rarity": "UNCOMMON",
-        "description": "A compact cassette from Project Awakening containing mostly white noise. Opens The Doctor's mind to alternate treatment methods.",
+        "description":
+            "A compact cassette from Project Awakening containing mostly white noise. Opens The Doctor's mind to alternate treatment methods.",
         "abilities": [
             "Shock Therapy area of effect becomes a %bring%/b 8m in front of The Doctor, with an outer radius of 4.2m and an inner radius of 3m. The actual area of effect is in-between those two radii."
         ],
@@ -1522,7 +1582,8 @@
         "name": "Polished Electrode",
         "owner": "DOCTOR",
         "rarity": "UNCOMMON",
-        "description": "A like-new standard electrode equipment to conduct electro-convulsive treatments.",
+        "description":
+            "A like-new standard electrode equipment to conduct electro-convulsive treatments.",
         "abilities": [
             "%bIncreases%/b Shock Therapy attack range %bby 50%%/b.",
             "%bModerately increases%/b Shock Therapy charge time."
@@ -1535,7 +1596,8 @@
         "name": "Interview Tape",
         "owner": "DOCTOR",
         "rarity": "UNCOMMON",
-        "description": "A compact cassette from Project Awakening containing an un-edited interview of a victim. Opens The Doctor's mind to alternate treatment methods.",
+        "description":
+            "A compact cassette from Project Awakening containing an un-edited interview of a victim. Opens The Doctor's mind to alternate treatment methods.",
         "abilities": [
             "Shock Therapy area of effect becomes a beam with a %b20m%/b range and a %b2m%/b width."
         ],
@@ -1547,7 +1609,8 @@
         "name": "\"Restraint\" - Class II",
         "owner": "DOCTOR",
         "rarity": "UNCOMMON",
-        "description": "An experimental ECT procedure developed within the Fog. Uses a wavelength that links the patient's and Doctor's minds. This procedure is known to cause mild cases of hallucination in the patient.",
+        "description":
+            "An experimental ECT procedure developed within the Fog. Uses a wavelength that links the patient's and Doctor's minds. This procedure is known to cause mild cases of hallucination in the patient.",
         "abilities": [
             "Reveals Survivors' auras for %b1 second%/b when Madness increases.",
             "Survivors with %bMadness%/b have the following affliction:",
@@ -1563,7 +1626,8 @@
         "name": "\"Order\" - Class II",
         "owner": "DOCTOR",
         "rarity": "UNCOMMON",
-        "description": "A high stimulus ECT procedure, part of a patient's daily routine at the Léry's Memorial Institute. Can cause a state of moderate confusion in the patient.",
+        "description":
+            "A high stimulus ECT procedure, part of a patient's daily routine at the Léry's Memorial Institute. Can cause a state of moderate confusion in the patient.",
         "abilities": [
             "%b15%%/b increase in Madness inflicted by the %bStatic Field%/b.",
             "Survivors with %bMadness II/III%/b have the following affliction:",
@@ -1581,7 +1645,8 @@
         "name": "\"Order\" - Class II",
         "owner": "DOCTOR",
         "rarity": "UNCOMMON",
-        "description": "Project Awakening ECT procedure for disciplinary action which uses a fixed dose at high voltage. Can cause a state of moderate paranoia in the patient.",
+        "description":
+            "Project Awakening ECT procedure for disciplinary action which uses a fixed dose at high voltage. Can cause a state of moderate paranoia in the patient.",
         "abilities": [
             "%b15% increase%/b in Madness inflicted by %bShock Therapy%/b.",
             "Survivors with %bMadness%/b have the following affliction:",
@@ -1590,7 +1655,8 @@
             "The Doctor shares in his patients' madness in order to see the Illusionary Red Stain.",
             "Afflictions of the same type do not stack."
         ],
-        "flavor": "\"We re-educate our patients with the greatest care.\" — Léry's Memorial Institute",
+        "flavor":
+            "\"We re-educate our patients with the greatest care.\" — Léry's Memorial Institute",
         "image": "diciplineClassII"
     },
     {
@@ -1599,7 +1665,8 @@
         "name": "\"Calm\" - Class II",
         "owner": "DOCTOR",
         "rarity": "UNCOMMON",
-        "description": "A risky ECT procedure using a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure can cause moderate anxiety in the patient.",
+        "description":
+            "A risky ECT procedure using a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure can cause moderate anxiety in the patient.",
         "abilities": [
             "A risky ECT procedure using a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure can cause moderate anxiety in the patient.",
             "%bModerately increases%/b Terror Radius in Treatment mode.",
@@ -1608,7 +1675,8 @@
             "%bTremendous chance%/b to play Terror Radius heartbeat for %b20 seconds%/b.",
             "Afflictions of the same type do not stack."
         ],
-        "flavor": "\"Electro-convulsive therapy is one of the safest medical procedures.\" — Léry's Memorial Institute",
+        "flavor":
+            "\"Electro-convulsive therapy is one of the safest medical procedures.\" — Léry's Memorial Institute",
         "image": "calmClassII"
     },
     {
@@ -1617,7 +1685,8 @@
         "name": "High Stimulus Electrode",
         "owner": "DOCTOR",
         "rarity": "RARE",
-        "description": "An experimental electrode that can withstand very high charges for a longer period of time.",
+        "description":
+            "An experimental electrode that can withstand very high charges for a longer period of time.",
         "abilities": [
             "%bIncreases%/b Shock Therapy attack range %bby 75%/b%.",
             "%bConsiderably increases%/b Shock Therapy charge time."
@@ -1630,7 +1699,8 @@
         "name": "\"Restraint\" - Class III",
         "owner": "DOCTOR",
         "rarity": "RARE",
-        "description": "An experimental ECT procedure developed within the Fog. Uses a high stimulus wavelength to link the patient's and Doctor's minds. This procedure is known to cause serious cases of hallucinations in the patient.",
+        "description":
+            "An experimental ECT procedure developed within the Fog. Uses a high stimulus wavelength to link the patient's and Doctor's minds. This procedure is known to cause serious cases of hallucinations in the patient.",
         "abilities": [
             "An experimental ECT procedure developed within the Fog. Uses a high stimulus wavelength to link the patient's and Doctor's minds. This procedure is known to cause serious cases of hallucinations in the patient.",
             "Reveals Survivors' auras for %b2 seconds%/b when Madness increases.",
@@ -1647,7 +1717,8 @@
         "name": "\"Discipline\" - Class III",
         "owner": "DOCTOR",
         "rarity": "RARE",
-        "description": "Project Awakening ECT procedure for disciplinary action which uses a fixed dose at very high voltage. Can cause a state of serious paranoia in the patient.",
+        "description":
+            "Project Awakening ECT procedure for disciplinary action which uses a fixed dose at very high voltage. Can cause a state of serious paranoia in the patient.",
         "abilities": [
             "%b20% increase%/b in Madness inflicted by %bShock Therapy%/b attack.",
             "Survivors with %bMadness%/b have the following affliction:",
@@ -1656,7 +1727,8 @@
             "The Doctor shares in his patients' madness in order to see the Illusionary Red Stain.",
             "Afflictions of the same type do not stack."
         ],
-        "flavor": "\"Respect of our patients is at the core of our principles.\" — Léry's Memorial Institute",
+        "flavor":
+            "\"Respect of our patients is at the core of our principles.\" — Léry's Memorial Institute",
         "image": "diciplineClassIII"
     },
     {
@@ -1665,7 +1737,8 @@
         "name": "\"Restraint\" - Carter's Notes",
         "owner": "DOCTOR",
         "rarity": "VERY_RARE",
-        "description": "An experimental ECT procedure developed within the Fog, crudely annotated. Uses an unbearable stimulus wavelength to link the patient's and Doctor's minds. This procedure is known to cause severe cases of hallucinations in the patient.",
+        "description":
+            "An experimental ECT procedure developed within the Fog, crudely annotated. Uses an unbearable stimulus wavelength to link the patient's and Doctor's minds. This procedure is known to cause severe cases of hallucinations in the patient.",
         "abilities": [
             "Reveals Survivors' auras for %b3 seconds%/b when %bMadness%/b increases.",
             "Survivors with %bMadness%/b have the following affliction:",
@@ -1673,7 +1746,8 @@
             "Madness III: %bTremendously increased%/b duration for an Illusionary Doctor. Can be seen by The Doctor as an allied %baura%/b.",
             "Afflictions of the same type do not stack."
         ],
-        "flavor": "\"I CAN SEE THEIR DISGUSTING %bILLNESSES%/b.\" — Unsigned Notes (potentially Herman Carter)",
+        "flavor":
+            "\"I CAN SEE THEIR DISGUSTING %bILLNESSES%/b.\" — Unsigned Notes (potentially Herman Carter)",
         "image": "restraintCartersNotes"
     },
     {
@@ -1682,7 +1756,8 @@
         "name": "\"Order\" - Carter's Notes",
         "owner": "DOCTOR",
         "rarity": "VERY_RARE",
-        "description": "An experimental version of the ECT procedure, annotated by Doctor Herman Carter himself The long, constant stimulus leaves the patient in a state of severe confusion.",
+        "description":
+            "An experimental version of the ECT procedure, annotated by Doctor Herman Carter himself The long, constant stimulus leaves the patient in a state of severe confusion.",
         "abilities": [
             "%b25%/b% increase in Madness inflicted by the %bStatic Field%/b.",
             "Survivors with %bMadness%/b have the following affliction:",
@@ -1690,7 +1765,8 @@
             "Illusionary Pallets are generated every 20 seconds at the location of a broken Pallet within an %bunlimited%/b range of The Doctor.",
             "The Doctor shares in his patients' madness in order to read the Auras of Illusionary Pallets."
         ],
-        "flavor": "\"The stimulus must be kept active at a %bconvulsive%/b level.\" — Herman Carter",
+        "flavor":
+            "\"The stimulus must be kept active at a %bconvulsive%/b level.\" — Herman Carter",
         "image": "orderCartersNotes"
     },
     {
@@ -1699,7 +1775,8 @@
         "name": "\"Obedience\" - Carter's Notes",
         "owner": "DOCTOR",
         "rarity": "VERY_RARE",
-        "description": "An experimental ECT procedure developed within the Fog, crudely annotated. The extra surge of power causes extreme muscle tension which depletes the patient's energy.",
+        "description":
+            "An experimental ECT procedure developed within the Fog, crudely annotated. The extra surge of power causes extreme muscle tension which depletes the patient's energy.",
         "abilities": [
             "An experimental ECT procedure developed within the Fog, crudely annotated. The extra surge of power causes extreme muscle tension which depletes the patient's energy.",
             "%b2 second%/b increase to Snap Out of It.",
@@ -1707,7 +1784,8 @@
             "%bExhausted%/b.",
             "Afflictions of the same type do not stack."
         ],
-        "flavor": "\"BREAK THEIR IMPURE BODIES\" — Unsigned Notes (potentially Herman Carter)",
+        "flavor":
+            "\"BREAK THEIR IMPURE BODIES\" — Unsigned Notes (potentially Herman Carter)",
         "image": "obedienceCartersNotes"
     },
     {
@@ -1716,7 +1794,8 @@
         "name": "\"Discipline\" - Carter's Notes",
         "owner": "DOCTOR",
         "rarity": "VERY_RARE",
-        "description": "Project Awakening ECT procedure for disciplinary action, annotated by Doctor Herman Carter himself. The intolerably high voltage leaves the patient in a severe state of paranoia.",
+        "description":
+            "Project Awakening ECT procedure for disciplinary action, annotated by Doctor Herman Carter himself. The intolerably high voltage leaves the patient in a severe state of paranoia.",
         "abilities": [
             "%b25% increase%/b in Madness inflicted by %bShock Therapy%/b attack.",
             "Survivors with %bMadness%/b have the following affliction:",
@@ -1725,7 +1804,8 @@
             "The Doctor shares in his patients' madness in order to see the Illusionary Red Stain.",
             "Afflictions of the same type do not stack."
         ],
-        "flavor": "\"To avoid relapse from our most tenacious subjects, use %bmaximum%/b levels when proceeding with disciplinary actions.\" — Herman Carter",
+        "flavor":
+            "\"To avoid relapse from our most tenacious subjects, use %bmaximum%/b levels when proceeding with disciplinary actions.\" — Herman Carter",
         "image": "diciplineCartersNotes"
     },
     {
@@ -1734,7 +1814,8 @@
         "name": "\"Calm\" - Carter's Notes",
         "owner": "DOCTOR",
         "rarity": "VERY_RARE",
-        "description": "An experimental version of the ECT procedure annotated by Doctor Herman Carter himself. Uses a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure causes uncontrollable fear and anxiety in the patient.",
+        "description":
+            "An experimental version of the ECT procedure annotated by Doctor Herman Carter himself. Uses a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure causes uncontrollable fear and anxiety in the patient.",
         "abilities": [
             "%bConsiderably increases%/b Terror Radius in Treatment mode.",
             "%bConsiderably decreases%/b Terror Radius in Punishment mode.",
@@ -1743,7 +1824,8 @@
             "Madness III: %bConstantly%/b plays Terror Radius heartbeat.",
             "Afflictions of the same type do not stack."
         ],
-        "flavor": "\"Higher quality seizures trigger catatonia. At least it gives me %bpeace%/b for the time it lasts.\" — Herman Carter",
+        "flavor":
+            "\"Higher quality seizures trigger catatonia. At least it gives me %bpeace%/b for the time it lasts.\" — Herman Carter",
         "image": "calmCartersNotes"
     },
     {
@@ -1752,7 +1834,8 @@
         "name": "Iridescent King",
         "owner": "DOCTOR",
         "rarity": "ULTRA_RARE",
-        "description": "A glass-like king chess piece moulded from The Fog itself. The Entity's trace reverberating within can break the most powerful minds.",
+        "description":
+            "A glass-like king chess piece moulded from The Fog itself. The Entity's trace reverberating within can break the most powerful minds.",
         "abilities": [
             "Every time a Survivor receives a %bShock Therapy%/b attack, they gain an affliction chosen at random from the following list:",
             "Iridescent Order: Broken Pallets may appear to be replaced with %bIllusionary Pallets%/b that persist until approached.",
@@ -1762,7 +1845,8 @@
             "Iridescent Obedience: In %bMadness III%/b, Survivors are %bexhausted%/b.",
             "Afflictions of the same type do not stack."
         ],
-        "flavor": "\"Higher quality seizures trigger catatonia. At least it gives me peace for the time it lasts.\" — Herman Carter",
+        "flavor":
+            "\"Higher quality seizures trigger catatonia. At least it gives me peace for the time it lasts.\" — Herman Carter",
         "image": "iridescentKing"
     },
     {
@@ -1771,7 +1855,8 @@
         "name": "Coarse Stone",
         "owner": "HUNTRESS",
         "rarity": "COMMON",
-        "description": "This stone is too coarse to do any good. A blade damaged by it inflicts awful open wounds.",
+        "description":
+            "This stone is too coarse to do any good. A blade damaged by it inflicts awful open wounds.",
         "abilities": [
             "Hit target suffers from the %bHemorrhage%/b Status Effect for %b30 seconds%/b."
         ],
@@ -1783,7 +1868,8 @@
         "name": "Berus Toxin",
         "owner": "HUNTRESS",
         "rarity": "COMMON",
-        "description": "A toxin applied to the Hatchets' blades. The Berus snake toxin causes tiredness in such a small amount.",
+        "description":
+            "A toxin applied to the Hatchets' blades. The Berus snake toxin causes tiredness in such a small amount.",
         "abilities": [
             "Hit target suffers from the %bExhaustion%/b Status Effect for %b30 seconds%/b."
         ],
@@ -1795,7 +1881,8 @@
         "name": "Bandaged Haft",
         "owner": "HUNTRESS",
         "rarity": "COMMON",
-        "description": "First-aid bandages securely rolled and attached to the Hatchets' hafts.",
+        "description":
+            "First-aid bandages securely rolled and attached to the Hatchets' hafts.",
         "abilities": [
             "%bSlightly decreases%/b cool-down time between Hatchet throws."
         ],
@@ -1807,7 +1894,8 @@
         "name": "Amanita Toxin",
         "owner": "HUNTRESS",
         "rarity": "COMMON",
-        "description": "A toxin applied to the Hatchet's blades. The Amanita mushrooms' toxin numbs the mind.",
+        "description":
+            "A toxin applied to the Hatchet's blades. The Amanita mushrooms' toxin numbs the mind.",
         "abilities": [
             "Hit target suffers from the %bBlindness%/b Status Effect for %b30 seconds%/b."
         ],
@@ -1819,7 +1907,8 @@
         "name": "Yew Seed Brew",
         "owner": "HUNTRESS",
         "rarity": "UNCOMMON",
-        "description": "A toxic brew applied to the Hatchets' blades. The thick brew is mainly composed of yew seeds which give it paralytic capabilities.",
+        "description":
+            "A toxic brew applied to the Hatchets' blades. The thick brew is mainly composed of yew seeds which give it paralytic capabilities.",
         "abilities": [
             "Hit target suffers from the %bHindered%/b Status Effect for %b15 seconds%/b."
         ],
@@ -1831,7 +1920,8 @@
         "name": "Shiny Pin",
         "owner": "HUNTRESS",
         "rarity": "UNCOMMON",
-        "description": "A copper pin defaced beyond recognition yet polished to a high sheen. Pillaged from a particularly difficult prey.",
+        "description":
+            "A copper pin defaced beyond recognition yet polished to a high sheen. Pillaged from a particularly difficult prey.",
         "abilities": [
             "%bSlightly increases%/b your movement speed while winding up your throw action."
         ],
@@ -1843,7 +1933,8 @@
         "name": "Oak Haft",
         "owner": "HUNTRESS",
         "rarity": "UNCOMMON",
-        "description": "A polished haft which allows for a quick and sly manipulation of the deadly tool.",
+        "description":
+            "A polished haft which allows for a quick and sly manipulation of the deadly tool.",
         "abilities": [
             "%bModerately decreases%/b cool-down time between Hatchet throws."
         ],
@@ -1855,7 +1946,8 @@
         "name": "Manna Grass Braid",
         "owner": "HUNTRESS",
         "rarity": "UNCOMMON",
-        "description": "A circular decorative braid made from manna grass. This memory of a list little one fills The Huntress with rage and focus.",
+        "description":
+            "A circular decorative braid made from manna grass. This memory of a list little one fills The Huntress with rage and focus.",
         "abilities": [
             "%bModerately decreases%/b Hatchet wind up time.",
             "Stacks."
@@ -1868,7 +1960,8 @@
         "name": "Leather Loop",
         "owner": "HUNTRESS",
         "rarity": "UNCOMMON",
-        "description": "This leather strip tied into a loop can be attached to a belt to allow easy transportation of tools.",
+        "description":
+            "This leather strip tied into a loop can be attached to a belt to allow easy transportation of tools.",
         "abilities": [
             "Start with %b1 extra%/b Hatchet.",
             "Increases maximum carried Hatchet amount by %b1%/b."
@@ -1881,7 +1974,8 @@
         "name": "Fine Stone",
         "owner": "HUNTRESS",
         "rarity": "UNCOMMON",
-        "description": "This puck shaped honing tool can be used to sharpen the Hatchets' blades and inflicts clean wounds.",
+        "description":
+            "This puck shaped honing tool can be used to sharpen the Hatchets' blades and inflicts clean wounds.",
         "abilities": [
             "Hit target suffers from the %bHemorrhage%/b Status Effect for %b60 seconds%/b."
         ],
@@ -1893,7 +1987,8 @@
         "name": "Deerskin Gloves",
         "owner": "HUNTRESS",
         "rarity": "UNCOMMON",
-        "description": "Cured leather gloves that protect the hands and give a sure grip.",
+        "description":
+            "Cured leather gloves that protect the hands and give a sure grip.",
         "abilities": [
             "%bModerately decreases%/b Hatchets reload time at a Locker."
         ],
@@ -1905,7 +2000,8 @@
         "name": "Yew Seed Concoction",
         "owner": "HUNTRESS",
         "rarity": "RARE",
-        "description": "A toxic concoction applied to the Hatchets' blades. The muddy concoction is mainly composed of yew seeds which give it paralytic capabilities.",
+        "description":
+            "A toxic concoction applied to the Hatchets' blades. The muddy concoction is mainly composed of yew seeds which give it paralytic capabilities.",
         "abilities": [
             "Hit target suffers from the %bHindered%/b Status Effect for %b30 seconds%/b."
         ],
@@ -1917,7 +2013,8 @@
         "name": "Venomous Concoction",
         "owner": "HUNTRESS",
         "rarity": "RARE",
-        "description": "A toxic concoction applied to the Hatchets' blades. The murky concoction is mainly composed of Berus snake venom which gives it fatiguing capabilities.",
+        "description":
+            "A toxic concoction applied to the Hatchets' blades. The murky concoction is mainly composed of Berus snake venom which gives it fatiguing capabilities.",
         "abilities": [
             "Hit target suffers from the %bExhaustion%/b Status Effect for %b90 seconds%/b."
         ],
@@ -1929,7 +2026,8 @@
         "name": "Rusty Head",
         "owner": "HUNTRESS",
         "rarity": "RARE",
-        "description": "These Hatchets' heads are covered with crusty and volatile rust spots that make injuries particularly difficult to heal from.",
+        "description":
+            "These Hatchets' heads are covered with crusty and volatile rust spots that make injuries particularly difficult to heal from.",
         "abilities": [
             "Hit target suffers %bconsiderably%/b from the %bMangled%/b Status Effect for %b120 seconds%/b."
         ],
@@ -1941,7 +2039,8 @@
         "name": "Pungent Fiale",
         "owner": "HUNTRESS",
         "rarity": "RARE",
-        "description": "The clear liquid has a very particular stench that can be recognised and tracked by some animals.",
+        "description":
+            "The clear liquid has a very particular stench that can be recognised and tracked by some animals.",
         "abilities": [
             "Lockers' Auras are shown to you when within %b36 meters%/b of range."
         ],
@@ -1953,7 +2052,8 @@
         "name": "Flower Babushka",
         "owner": "HUNTRESS",
         "rarity": "RARE",
-        "description": "A clean and colourful handkerchief adorned with a flower pattern. This memory of a lost little one fills The Huntress with rage and focus.",
+        "description":
+            "A clean and colourful handkerchief adorned with a flower pattern. This memory of a lost little one fills The Huntress with rage and focus.",
         "abilities": [
             "%bConsiderably decreases%/b Hatchets wind up time.",
             "Stacks."
@@ -1966,7 +2066,8 @@
         "name": "Infantry Belt",
         "owner": "HUNTRESS",
         "rarity": "VERY_RARE",
-        "description": "A sturdy utility belt pillaged from a soldier. Its multiple leather loops and holsters are useful to transport tools.",
+        "description":
+            "A sturdy utility belt pillaged from a soldier. Its multiple leather loops and holsters are useful to transport tools.",
         "abilities": [
             "Start with %b2 extra%/b Hatchets.",
             "Increases maximum carried Hatched amount by %b2%/b."
@@ -1979,7 +2080,8 @@
         "name": "Glowing Concoction",
         "owner": "HUNTRESS",
         "rarity": "VERY_RARE",
-        "description": "An otherworldly concoction that faintly glows a foreboding light.",
+        "description":
+            "An otherworldly concoction that faintly glows a foreboding light.",
         "abilities": [
             "Hit victims' Auras are shown to you for %b5 seconds%/b."
         ],
@@ -1991,7 +2093,8 @@
         "name": "Begrimed Head",
         "owner": "HUNTRESS",
         "rarity": "VERY_RARE",
-        "description": "These Hatchets' heads are stained with a foul substance that afflicts anyone who it touches with debilities.",
+        "description":
+            "These Hatchets' heads are stained with a foul substance that afflicts anyone who it touches with debilities.",
         "abilities": [
             "Hit target suffers %bconsiderably%/b from the %bMangled%/b Status Effect for %b120 seconds%/b.",
             "%bModerately decreases%/b the repair speed of Survivors injured by the Hatchet."
@@ -2004,7 +2107,8 @@
         "name": "Iridescent Head",
         "owner": "HUNTRESS",
         "rarity": "ULTRA_RARE",
-        "description": "A glass-like Hatchet head molded from The Fog itself. The blade is warm and reverberating with The Entity's power.",
+        "description":
+            "A glass-like Hatchet head molded from The Fog itself. The blade is warm and reverberating with The Entity's power.",
         "abilities": [
             "Inflicts %bdying%/b upon the victim.",
             "Reduces maximum carried Hatchet amount by %b4%/b."
@@ -2019,9 +2123,7 @@
         "owner": "CANNIBAL",
         "rarity": "COMMON",
         "description": "A rancid oil used as a poor quality lubricant.",
-        "abilities": [
-            "%bSlightly decreases%/b the Chainsaw's cooldown."
-        ],
+        "abilities": ["%bSlightly decreases%/b the Chainsaw's cooldown."],
         "image": "vegetableOil"
     },
     {
@@ -2031,9 +2133,7 @@
         "owner": "CANNIBAL",
         "rarity": "COMMON",
         "description": "A clean spark plug fitted for a Chainsaw.",
-        "abilities": [
-            "%bSlightly decreases%/b the Chainsaw's charge time."
-        ],
+        "abilities": ["%bSlightly decreases%/b the Chainsaw's charge time."],
         "image": "sparkPlug"
     },
     {
@@ -2043,9 +2143,7 @@
         "owner": "CANNIBAL",
         "rarity": "COMMON",
         "description": "A file whose purpose is to hone Chainsaw chains.",
-        "abilities": [
-            "%bSlightly reduces%/b the noise made by the Chainsaw."
-        ],
+        "abilities": ["%bSlightly reduces%/b the noise made by the Chainsaw."],
         "image": "chainsawFile"
     },
     {
@@ -2054,7 +2152,8 @@
         "name": "Speed Limiter",
         "owner": "CANNIBAL",
         "rarity": "UNCOMMON",
-        "description": "A mechanical device that limits the amount of fuel small engines can intake at one time, forcing a constant and safe speed.",
+        "description":
+            "A mechanical device that limits the amount of fuel small engines can intake at one time, forcing a constant and safe speed.",
         "abilities": [
             "Chainsaw does not automatically trigger dying state.",
             "Get %b25%/b% more Bloodpoints for Chainsaw score events in the %bDeviousness%/b category."
@@ -2067,10 +2166,9 @@
         "name": "Shop Lubricant",
         "owner": "CANNIBAL",
         "rarity": "UNCOMMON",
-        "description": "An oil specifically formulated for Chainsaws. A special additive prevents oil throw off.",
-        "abilities": [
-            "%bModerately decreases%/b the Chainsaw's cooldown."
-        ],
+        "description":
+            "An oil specifically formulated for Chainsaws. A special additive prevents oil throw off.",
+        "abilities": ["%bModerately decreases%/b the Chainsaw's cooldown."],
         "image": "shopLubricant"
     },
     {
@@ -2079,10 +2177,9 @@
         "name": "Primer Bulb",
         "owner": "CANNIBAL",
         "rarity": "UNCOMMON",
-        "description": "Pumps more gas in the ignition system to ensure a quick and powerful start.",
-        "abilities": [
-            "%bModerately decreases%/b the Chainsaw's charge time."
-        ],
+        "description":
+            "Pumps more gas in the ignition system to ensure a quick and powerful start.",
+        "abilities": ["%bModerately decreases%/b the Chainsaw's charge time."],
         "image": "primerBulb"
     },
     {
@@ -2103,7 +2200,8 @@
         "name": "Knife Scratches",
         "owner": "CANNIBAL",
         "rarity": "UNCOMMON",
-        "description": "Scratches cover the Chainsaw's body, caused by a searing blade. Memories of reprimands fill its holder with the fear of failure.",
+        "description":
+            "Scratches cover the Chainsaw's body, caused by a searing blade. Memories of reprimands fill its holder with the fear of failure.",
         "abilities": [
             "%bSlightly increases%/b the Chainsaw movement speed.",
             "%bSlightly increases%/b the Chainsaw's charge time."
@@ -2128,7 +2226,8 @@
         "name": "Grisly Chains",
         "owner": "CANNIBAL",
         "rarity": "UNCOMMON",
-        "description": "A chain with unusually hefty cutter teeth that leaves victims crippled even after being healed.",
+        "description":
+            "A chain with unusually hefty cutter teeth that leaves victims crippled even after being healed.",
         "abilities": [
             "%bModerately decreases%/b the repair speed of survivors injured by the Chainsaw for %b90 seconds%/b."
         ],
@@ -2140,7 +2239,8 @@
         "name": "Depth Gauge Rake",
         "owner": "CANNIBAL",
         "rarity": "UNCOMMON",
-        "description": "Tool that increases the angle of the depth gauge, making the chain eat more \"wood\".",
+        "description":
+            "Tool that increases the angle of the depth gauge, making the chain eat more \"wood\".",
         "abilities": [
             "%bModerately reduces%/b the time penalty when bumping into objects."
         ],
@@ -2152,7 +2252,8 @@
         "name": "Chilli",
         "owner": "CANNIBAL",
         "rarity": "UNCOMMON",
-        "description": "A big bowl of steaming Chilli to keep you fresh and strong.",
+        "description":
+            "A big bowl of steaming Chilli to keep you fresh and strong.",
         "abilities": [
             "%bModerately increases%/b acceleration when using the Chainsaw."
         ],
@@ -2165,7 +2266,8 @@
         "name": "The Grease",
         "owner": "CANNIBAL",
         "rarity": "RARE",
-        "description": "A thick yellowish ooze, concocted by the Sawyers. Used for all-purpose lubrication around their house.",
+        "description":
+            "A thick yellowish ooze, concocted by the Sawyers. Used for all-purpose lubrication around their house.",
         "abilities": [
             "%bConsiderably decreases%/b the Chainsaw's cooldown.",
             "%bSlightly decreases%/b the Chainsaw's charge time."
@@ -2178,7 +2280,8 @@
         "name": "The Beast's Marks",
         "owner": "CANNIBAL",
         "rarity": "RARE",
-        "description": "Jagged marks cover the Chainsaw's body, punishment from the dark beast that lives in The Fog. Memories of violent reprimands fill its holder with the fear of failure.",
+        "description":
+            "Jagged marks cover the Chainsaw's body, punishment from the dark beast that lives in The Fog. Memories of violent reprimands fill its holder with the fear of failure.",
         "abilities": [
             "%bModerately increases%/b the Chainsaw movement speed.",
             "%bSlightly increases%/b the Chainsaw's charge time."
@@ -2191,7 +2294,8 @@
         "name": "Rusted Chains",
         "owner": "CANNIBAL",
         "rarity": "RARE",
-        "description": "This chain is covered with crusty and volatile rust spots that make injuries particularly difficult to heal.",
+        "description":
+            "This chain is covered with crusty and volatile rust spots that make injuries particularly difficult to heal.",
         "abilities": [
             "Hit target suffers %bconsiderably%/b from the %bMangled%/b Status Effect for %b120 seconds%/b."
         ],
@@ -2203,7 +2307,8 @@
         "name": "Light Chassis",
         "owner": "CANNIBAL",
         "rarity": "RARE",
-        "description": "A light and durable Chainsaw chassis with a shorter guide bar. Makes the Chainsaw easier to handle.",
+        "description":
+            "A light and durable Chainsaw chassis with a shorter guide bar. Makes the Chainsaw easier to handle.",
         "abilities": [
             "%bSlightly reduces%/b the reach of the Chainsaw attack.",
             "%bConsiderably reduces%/b the time penalty when bumping into objects."
@@ -2216,7 +2321,8 @@
         "name": "Carburetor Tuning Guide",
         "owner": "CANNIBAL",
         "rarity": "RARE",
-        "description": "A crudely drawn guide to properly adjust and tune a Chainsaw carburetor.",
+        "description":
+            "A crudely drawn guide to properly adjust and tune a Chainsaw carburetor.",
         "abilities": [
             "%bModerately decreases%/b the Chainsaw's charge time.",
             "%bSlightly decreases%/b the Chainsaw's cooldown.",
@@ -2231,7 +2337,8 @@
         "name": "Begrimed Chains",
         "owner": "CANNIBAL",
         "rarity": "VERY_RARE",
-        "description": "This chain is stained with a foul substance that afflicts anyone it touches with debilities.",
+        "description":
+            "This chain is stained with a foul substance that afflicts anyone it touches with debilities.",
         "abilities": [
             "%bModerately decreases%/b the repair speed on Survivors injured by the Chainsaw.",
             "Hit target suffers %bconsiderably%/b from the %bMangled%/b Status Effect for %b120 seconds%/b."
@@ -2244,7 +2351,8 @@
         "name": "Award-winning Chilli",
         "owner": "CANNIBAL",
         "rarity": "VERY_RARE",
-        "description": "A big bowl of spicy Chilli made famous thanks to prime meat.",
+        "description":
+            "A big bowl of spicy Chilli made famous thanks to prime meat.",
         "abilities": [
             "%bTremendously increases%/b acceleration when using the Chainsaw.",
             "%bConsiderably increases%/b the time penalty when bumping into objects."
@@ -2258,7 +2366,8 @@
         "name": "Wool Shirt",
         "owner": "NIGHTMARE",
         "rarity": "COMMON",
-        "description": "A small boy's orange and yellow striped shirt. Identified with a sewn name tag to \"Jesse\".",
+        "description":
+            "A small boy's orange and yellow striped shirt. Identified with a sewn name tag to \"Jesse\".",
         "abilities": [
             "%bSlightly decreases%/b Skill Check chances in the %bDream World%/b."
         ],
@@ -2270,7 +2379,8 @@
         "name": "Sheep Block",
         "owner": "NIGHTMARE",
         "rarity": "COMMON",
-        "description": "A white and blue wooden block depicting two woolly Lambs grazing and the letter \"S\".",
+        "description":
+            "A white and blue wooden block depicting two woolly Lambs grazing and the letter \"S\".",
         "abilities": [
             "%bSlightly reduces%/b the Dream Transition. Time to fall asleep reduced by %b0.5 seconds%/b."
         ],
@@ -2282,10 +2392,9 @@
         "name": "Kid's Drawing",
         "owner": "NIGHTMARE",
         "rarity": "COMMON",
-        "description": "An unattributed drawing clearly crafted by a young child.",
-        "abilities": [
-            "%bSlightly increases%/b the Power range."
-        ],
+        "description":
+            "An unattributed drawing clearly crafted by a young child.",
+        "abilities": ["%bSlightly increases%/b the Power range."],
         "image": "kidsDrawing"
     },
     {
@@ -2294,7 +2403,8 @@
         "name": "Garden Rake",
         "owner": "NIGHTMARE",
         "rarity": "COMMON",
-        "description": "A small claw rake, a must have tool for any accomplished gardener.",
+        "description":
+            "A small claw rake, a must have tool for any accomplished gardener.",
         "abilities": [
             "%bSlightly increases%/b movement speed after successfully putting a Survivor into the %bDream World%/b."
         ],
@@ -2330,10 +2440,9 @@
         "name": "Nancy's Sketch",
         "owner": "NIGHTMARE",
         "rarity": "UNCOMMON",
-        "description": "A crude and bold sketch made with Fusain, signed by Nancy H.",
-        "abilities": [
-            "%bModerately increases%/b the Power range."
-        ],
+        "description":
+            "A crude and bold sketch made with Fusain, signed by Nancy H.",
+        "abilities": ["%bModerately increases%/b the Power range."],
         "image": "nancysSketch"
     },
     {
@@ -2355,7 +2464,8 @@
         "name": "Cat Block",
         "owner": "NIGHTMARE",
         "rarity": "UNCOMMON",
-        "description": "A white and purple wooden block depicting a sleeping Cat and the letter \"C\".",
+        "description":
+            "A white and purple wooden block depicting a sleeping Cat and the letter \"C\".",
         "abilities": [
             "%bConsiderably reduces%/b the Dream Transition. Time to fall asleep reduced by %b1.5 seconds%/b.",
             "%bSlightly increases%/b Skill Check chances in the %bDream World%/b."
@@ -2368,7 +2478,8 @@
         "name": "Unicorn Block",
         "owner": "NIGHTMARE",
         "rarity": "RARE",
-        "description": "A white and red wooden block depicting a prancing Unicorn and the letter \"U\".",
+        "description":
+            "A white and red wooden block depicting a prancing Unicorn and the letter \"U\".",
         "abilities": [
             "%bConsiderably reduces%/b the Dream Transition. Time to fall asleep reduced by %b1.5 seconds%/b."
         ],
@@ -2380,7 +2491,8 @@
         "name": "Swing Chains",
         "owner": "NIGHTMARE",
         "rarity": "RARE",
-        "description": "Rusty, but sturdy chains used to securely attach a swing seat.",
+        "description":
+            "Rusty, but sturdy chains used to securely attach a swing seat.",
         "abilities": [
             "Survivors suffer an additional %b25%/b% Action Speed penalty when pulled into the %bDream World%/b for the %bsecond%/b time."
         ],
@@ -2392,10 +2504,9 @@
         "name": "Nancy's Masterpiece",
         "owner": "NIGHTMARE",
         "rarity": "RARE",
-        "description": "A painting of a Character, made by Nancy Holbrook at Badham and kept as a treasure memory.",
-        "abilities": [
-            "%bTremendously increases%/b the Power range."
-        ],
+        "description":
+            "A painting of a Character, made by Nancy Holbrook at Badham and kept as a treasure memory.",
+        "abilities": ["%bTremendously increases%/b the Power range."],
         "image": "nancysMasterpiece"
     },
     {
@@ -2404,7 +2515,8 @@
         "name": "Jump Rope",
         "owner": "NIGHTMARE",
         "rarity": "RARE",
-        "description": "A long Double Dutch jump rope, stained with many years of use.",
+        "description":
+            "A long Double Dutch jump rope, stained with many years of use.",
         "abilities": [
             "%bTremendously decreases%/b Survivors' Action Speed when in the %bDream World%/b."
         ],
@@ -2416,7 +2528,8 @@
         "name": "Blue Dress",
         "owner": "NIGHTMARE",
         "rarity": "RARE",
-        "description": "A little girl's pale blue dress with white lace which's front is ruined by large cuts.",
+        "description":
+            "A little girl's pale blue dress with white lace which's front is ruined by large cuts.",
         "abilities": [
             "%bModerately decreases%/b Skill Check chances in the %bDream World%/b."
         ],
@@ -2428,7 +2541,8 @@
         "name": "Pill Bottle",
         "owner": "NIGHTMARE",
         "rarity": "VERY_RARE",
-        "description": "An empty pill bottle which once contained a medicine called \"Zoneral\".",
+        "description":
+            "An empty pill bottle which once contained a medicine called \"Zoneral\".",
         "abilities": [
             "Survivors do not see glimpses of you during the Dream Transition."
         ],
@@ -2452,7 +2566,8 @@
         "name": "Class Photo",
         "owner": "NIGHTMARE",
         "rarity": "VERY_RARE",
-        "description": "A large photograph taken at Badham Preschool showing the cheerful class of 94-95.",
+        "description":
+            "A large photograph taken at Badham Preschool showing the cheerful class of 94-95.",
         "abilities": [
             "When a Survivors is pulled into the Dream Transition, all other Survivors' Auras are revealed to you for the duration of the Dream Transition.",
             "%bTremendously increases%/b the Dream Transition. Time to fall asleep increased by %b2 seconds%/b."
@@ -2465,7 +2580,8 @@
         "name": "\"Z\" Block",
         "owner": "NIGHTMARE",
         "rarity": "VERY_RARE",
-        "description": "A deeply scratched and burnt wooden block which's only recognisable feature is the letter \"Z\".",
+        "description":
+            "A deeply scratched and burnt wooden block which's only recognisable feature is the letter \"Z\".",
         "abilities": [
             "%bTremendously reduces%/b the Dream Transition. Time to fall asleep reduced by %b2 seconds%/b."
         ],
@@ -2505,7 +2621,8 @@
         "name": "Workshop Grease",
         "owner": "PIG",
         "rarity": "COMMON",
-        "description": "A modification to the Jigsaw Box: the lubricated parts make the search a more delicate exercise.",
+        "description":
+            "A modification to the Jigsaw Box: the lubricated parts make the search a more delicate exercise.",
         "abilities": [
             "%bSlightly increases%/b the Skill Check trigger odds when interacting with a Jigsaw Box."
         ],
@@ -2517,7 +2634,8 @@
         "name": "Shattered Syringe",
         "owner": "PIG",
         "rarity": "COMMON",
-        "description": "Symbol of a broken way of life. Reminiscing about her past-self hardens her determination.",
+        "description":
+            "Symbol of a broken way of life. Reminiscing about her past-self hardens her determination.",
         "abilities": [
             "%bSlightly decreases%/b the Ambush Attack miss cool-down."
         ],
@@ -2529,7 +2647,8 @@
         "name": "John's Medical File",
         "owner": "PIG",
         "rarity": "COMMON",
-        "description": "The medical file of a cancerous man. Fills the reader with dread and recklessness.",
+        "description":
+            "The medical file of a cancerous man. Fills the reader with dread and recklessness.",
         "abilities": [
             "%bSlightly decreases%/b the Ambush Attack charging time."
         ],
@@ -2541,10 +2660,9 @@
         "name": "Combat Straps",
         "owner": "PIG",
         "rarity": "COMMON",
-        "description": "Leather straps that hold fabric in place for nimbler movement.",
-        "abilities": [
-            "%bSlightly decreases%/b time it takes to crouch."
-        ],
+        "description":
+            "Leather straps that hold fabric in place for nimbler movement.",
+        "abilities": ["%bSlightly decreases%/b time it takes to crouch."],
         "image": "combatStraps"
     },
     {
@@ -2553,7 +2671,8 @@
         "name": "Video Tape",
         "owner": "PIG",
         "rarity": "UNCOMMON",
-        "description": "A recording of Jigsaw, explaining the game's rules to Amanda. Reminiscing about her past-self hardens her determination.",
+        "description":
+            "A recording of Jigsaw, explaining the game's rules to Amanda. Reminiscing about her past-self hardens her determination.",
         "abilities": [
             "%bSlightly decreases%/b the Ambush Attack charging time.",
             "%bSlightly decreases%/b the Ambush Attack miss cool-down."
@@ -2566,7 +2685,8 @@
         "name": "Utility Blades",
         "owner": "PIG",
         "rarity": "UNCOMMON",
-        "description": "A modification to the Reverse Bear Trap: sharp blades attached to the Trap's interior lacerate the victim with every movement.",
+        "description":
+            "A modification to the Reverse Bear Trap: sharp blades attached to the Trap's interior lacerate the victim with every movement.",
         "abilities": [
             "Survivors caught in a Reverse Bear Trap suffer from the %bHemorrhage Status Effect%/b."
         ],
@@ -2578,7 +2698,8 @@
         "name": "Razor Wires",
         "owner": "PIG",
         "rarity": "UNCOMMON",
-        "description": "A modification to the Jigsaw Box: the addition of razor sharp wires makes it extra difficult and potentially painful to search them.",
+        "description":
+            "A modification to the Jigsaw Box: the addition of razor sharp wires makes it extra difficult and potentially painful to search them.",
         "abilities": [
             "%bModerately increases%/b the Skill Check trigger odds when interacting with a Jigsaw Box."
         ],
@@ -2590,10 +2711,9 @@
         "name": "Last Will",
         "owner": "PIG",
         "rarity": "UNCOMMON",
-        "description": "A latched wooden box with a satin lining, offered as part of a last will.",
-        "abilities": [
-            "%bIncreases%/b available Reverse Bear Traps by %b1%/b."
-        ],
+        "description":
+            "A latched wooden box with a satin lining, offered as part of a last will.",
+        "abilities": ["%bIncreases%/b available Reverse Bear Traps by %b1%/b."],
         "image": "lastWill"
     },
     {
@@ -2602,7 +2722,8 @@
         "name": "Face Mask",
         "owner": "PIG",
         "rarity": "UNCOMMON",
-        "description": "A modification to the Reverse Bear Trap: the heavy cloth face mask, laced with a sedative, partially suffocates the target, making it hard to concentrate.",
+        "description":
+            "A modification to the Reverse Bear Trap: the heavy cloth face mask, laced with a sedative, partially suffocates the target, making it hard to concentrate.",
         "abilities": [
             "Survivors caught in a Reverse Bear Trap suffer from the %bBlindness Status%/b Effect.",
             "%bDoes not affect the Jigsaw Box highlight%/b."
@@ -2615,7 +2736,8 @@
         "name": "Slow-Release Toxin",
         "owner": "PIG",
         "rarity": "RARE",
-        "description": "A modification to the Reverse Bear Trap: a poison that is not fatal, but weakens the body and makes it nearly impossible to recover fully from any effort.",
+        "description":
+            "A modification to the Reverse Bear Trap: a poison that is not fatal, but weakens the body and makes it nearly impossible to recover fully from any effort.",
         "abilities": [
             "Survivors caught in a Reverse Bear Trap suffer from the %bExhausted Status Effect%/b."
         ],
@@ -2627,7 +2749,8 @@
         "name": "Rusty Attachments",
         "owner": "PIG",
         "rarity": "RARE",
-        "description": "A modification to the Reverse Bear Trap: mouth spikes, covered with crusty and volatile rust spots that make injuries particularly difficult to heal.",
+        "description":
+            "A modification to the Reverse Bear Trap: mouth spikes, covered with crusty and volatile rust spots that make injuries particularly difficult to heal.",
         "abilities": [
             "Survivors caught in a Reverse Bear Trap suffer from the %bMangled Status Effect%/b."
         ],
@@ -2639,7 +2762,8 @@
         "name": "Jigsaw's Sketch",
         "owner": "PIG",
         "rarity": "RARE",
-        "description": "A disturbing, yet brilliant, Trap design sketched in detail on a sheet of paper.",
+        "description":
+            "A disturbing, yet brilliant, Trap design sketched in detail on a sheet of paper.",
         "abilities": [
             "%bIncreases%/b available Jigsaw Boxes by %b1%/b.",
             "%bModerately increases%/b the Reverse Bear Trap death timer."
@@ -2652,7 +2776,8 @@
         "name": "Interlocking Razor",
         "owner": "PIG",
         "rarity": "RARE",
-        "description": "A modification to the Jigsaw Box: the addition of interlocking razor blades makes it impossible to move suddenly in the Jigsaw Box without slitting one's wrists.",
+        "description":
+            "A modification to the Jigsaw Box: the addition of interlocking razor blades makes it impossible to move suddenly in the Jigsaw Box without slitting one's wrists.",
         "abilities": [
             "%bTremendously increases%/b the penalty of failed Skill Checks on Jigsaw Boxes."
         ],
@@ -2664,7 +2789,8 @@
         "name": "Bag Of Gears",
         "owner": "PIG",
         "rarity": "RARE",
-        "description": "A few mechanical parts that allow the creation of challenging Jigsaw Boxes and easier to install Reverse Bear Traps.",
+        "description":
+            "A few mechanical parts that allow the creation of challenging Jigsaw Boxes and easier to install Reverse Bear Traps.",
         "abilities": [
             "%bSlightly increases%/b the time it takes Survivors to search a Jigsaw Box.",
             "%bSlightly decreases%/b the time it takes to put on a Reverse Bear Trap."
@@ -2677,7 +2803,8 @@
         "name": "Tampered Timer",
         "owner": "PIG",
         "rarity": "VERY_RARE",
-        "description": "A timer that has been fiddled with. A spring in the mechanism forces the gears to turn faster.",
+        "description":
+            "A timer that has been fiddled with. A spring in the mechanism forces the gears to turn faster.",
         "abilities": [
             "%bModerately reduces%/b the Reverse Bear Trap death timer."
         ],
@@ -2689,10 +2816,9 @@
         "name": "Jigsaw's Annotated Plan",
         "owner": "PIG",
         "rarity": "VERY_RARE",
-        "description": "A disturbing, yet brilliant, Trap design laid down on paper and annotated by Jigsaw.",
-        "abilities": [
-            "%bIncreases%/b available Jigsaw Boxes by %b1%/b."
-        ],
+        "description":
+            "A disturbing, yet brilliant, Trap design laid down on paper and annotated by Jigsaw.",
+        "abilities": ["%bIncreases%/b available Jigsaw Boxes by %b1%/b."],
         "image": "jigsawsAnnotatedPlan"
     },
     {
@@ -2701,7 +2827,8 @@
         "name": "Crate Of Gears",
         "owner": "PIG",
         "rarity": "VERY_RARE",
-        "description": "This collection of mechanical parts allows the creation of extra-challenging Jigsaw Boxes and Reverse Bear Traps that are easier to install.",
+        "description":
+            "This collection of mechanical parts allows the creation of extra-challenging Jigsaw Boxes and Reverse Bear Traps that are easier to install.",
         "abilities": [
             "%bConsiderably increases%/b the time it takes Survivors to search a Jigsaw Box.",
             "%bModerately decreases%/b the time it takes to put the Reverse Bear Trap on a Survivor."
@@ -2714,7 +2841,8 @@
         "name": "Amanda's Secret",
         "owner": "PIG",
         "rarity": "VERY_RARE",
-        "description": "A black metal box containing a knife and various medical supplies, such as bandages and compresses. Deep cuts reduce stress and awaken the senses.",
+        "description":
+            "A black metal box containing a knife and various medical supplies, such as bandages and compresses. Deep cuts reduce stress and awaken the senses.",
         "abilities": [
             "%bDisables%/b The Pig's ability to see Jigsaw Boxes' Auras.",
             "%bGain a notification%/b when a Survivor removes a Reverse Bear Trap.",
@@ -2741,13 +2869,15 @@
         "name": "Amanda's Letter",
         "owner": "PIG",
         "rarity": "ULTRA_RARE",
-        "description": "A blackmailing Letter for the attention of Amanda. Fills the reader with rage and focus.",
+        "description":
+            "A blackmailing Letter for the attention of Amanda. Fills the reader with rage and focus.",
         "abilities": [
             "While crouched, see outlines of Survivors within %b12 meters%/b of range.",
             "%bReduces%/b available Reverse Bear Traps by %b3%/b.",
             "%bReduces%/b available Jigsaw Boxes by %b2%/b."
         ],
-        "flavor": "\"Amanda, you were with Cecil the night Jill lost Gideon. You killed their child. You know it and I know it.\" — Amanda's Letter",
+        "flavor":
+            "\"Amanda, you were with Cecil the night Jill lost Gideon. You killed their child. You know it and I know it.\" — Amanda's Letter",
         "image": "amandasLetter"
     },
     {
@@ -2756,7 +2886,8 @@
         "name": "Smelly Inner Soles",
         "owner": "CLOWN",
         "rarity": "COMMON",
-        "description": "A moldy inner sole which gives much comfort to tired feet.",
+        "description":
+            "A moldy inner sole which gives much comfort to tired feet.",
         "abilities": [
             "%bSlightly%/b increases Movement Speed while reloading.",
             "Stacks."
@@ -2782,11 +2913,9 @@
         "name": "Fingerless Parade Gloves",
         "owner": "CLOWN",
         "rarity": "COMMON",
-        "description": "Part of the standard Clown apparel, the cut fingers allow for dextrous manipulations.",
-        "abilities": [
-            "%bSlightly%/b decreases Reload Time.",
-            "Stacks."
-        ],
+        "description":
+            "Part of the standard Clown apparel, the cut fingers allow for dextrous manipulations.",
+        "abilities": ["%bSlightly%/b decreases Reload Time.", "Stacks."],
         "image": "fingerlessParadeGloves"
     },
     {
@@ -2808,11 +2937,9 @@
         "name": "Thick Cork Stopper",
         "owner": "CLOWN",
         "rarity": "UNCOMMON",
-        "description": "A cork sturdy fitting The Afterpirce Tonic bottles marvelously.",
-        "abilities": [
-            "%bModerately%/b decreases Reload Time.",
-            "Stacks."
-        ],
+        "description":
+            "A cork sturdy fitting The Afterpirce Tonic bottles marvelously.",
+        "abilities": ["%bModerately%/b decreases Reload Time.", "Stacks."],
         "image": "thickCorkStopper"
     },
     {
@@ -2835,7 +2962,8 @@
         "name": "Starling Feather",
         "owner": "CLOWN",
         "rarity": "UNCOMMON",
-        "description": "A black feather with an emerald gloss, very soft to the touch.",
+        "description":
+            "A black feather with an emerald gloss, very soft to the touch.",
         "abilities": [
             "%bModerately%/b decreases cooldown time between The Afterpiece Tonic throws.",
             "Stacks."
@@ -2848,7 +2976,8 @@
         "name": "Solvent Jug",
         "owner": "CLOWN",
         "rarity": "UNCOMMON",
-        "description": "A chemical bottle compund that irritates the respiratory tract.",
+        "description":
+            "A chemical bottle compund that irritates the respiratory tract.",
         "abilities": [
             "Intoxicated target suffers from the %bExhaustion%/b status effect for %b30 seconds%/b.",
             "Stacks."
@@ -2861,7 +2990,8 @@
         "name": "Kerozene Can",
         "owner": "CLOWN",
         "rarity": "UNCOMMON",
-        "description": "A thin and clear combustible liquid which numbs the mind when inhaled.",
+        "description":
+            "A thin and clear combustible liquid which numbs the mind when inhaled.",
         "abilities": [
             "Intoxicated target suffers from the %bBlindness%/b status effect for %b30 seconds%/b.",
             "Stacks."
@@ -2900,7 +3030,8 @@
         "name": "Flask of Bleach",
         "owner": "CLOWN",
         "rarity": "RARE",
-        "description": "A potent chemical which cases irritation, burning and lung damage.",
+        "description":
+            "A potent chemical which cases irritation, burning and lung damage.",
         "abilities": [
             "Intoxicated target suffers %bModerately%/b from an extra %bHindered%/b Penalty.",
             "Stacks."
@@ -2913,7 +3044,8 @@
         "name": "Ether 10 Vol%",
         "owner": "CLOWN",
         "rarity": "RARE",
-        "description": "A volatile organic compound used for anesthetic purposes.",
+        "description":
+            "A volatile organic compound used for anesthetic purposes.",
         "abilities": [
             "%bModerately%/b increases Intoxicated Effect duration.",
             "Stacks."
@@ -2926,7 +3058,8 @@
         "name": "Bottle of Chloroform",
         "owner": "CLOWN",
         "rarity": "RARE",
-        "description": "A sweet-smelling organic compound with strong anesthetic capabilities.",
+        "description":
+            "A sweet-smelling organic compound with strong anesthetic capabilities.",
         "abilities": [
             "%bConsiderably%/b increases Intoxicated Effect duration.",
             "Stacks."
@@ -2939,7 +3072,8 @@
         "name": "Garish Makeup Kit",
         "owner": "CLOWN",
         "rarity": "VERY_RARE",
-        "description": "Some for the face and some for the Tonic. The diluted makeup sticks to the lungs.",
+        "description":
+            "Some for the face and some for the Tonic. The diluted makeup sticks to the lungs.",
         "abilities": [
             "%bModerately%/b expands The Afterpiece Tonic Gas Effect area.",
             "The Afterpiece Tonic Gas Effect duration lasts %bModerately%/b longer.",
@@ -2953,7 +3087,8 @@
         "name": "Cheap Gin Bottle",
         "owner": "CLOWN",
         "rarity": "VERY_RARE",
-        "description": "The only remnant of a cheap good time and one hell of a headache.",
+        "description":
+            "The only remnant of a cheap good time and one hell of a headache.",
         "abilities": [
             "Start with %b2 extra%/b bottles of The Afterpiece Tonic.",
             "Increases maximum carried bottles by %b2%/b.",
@@ -2967,7 +3102,8 @@
         "name": "Ether 15 Vol%",
         "owner": "CLOWN",
         "rarity": "VERY_RARE",
-        "description": "A highly volatile organic compound, toxic at this concentration.",
+        "description":
+            "A highly volatile organic compound, toxic at this concentration.",
         "abilities": [
             "%bConsiderably%/b increases Intoxicated Effect duration.",
             "Stacks."
@@ -2980,7 +3116,8 @@
         "name": "Cigar Box",
         "owner": "CLOWN",
         "rarity": "VERY_RARE",
-        "description": "A grim and incomplete collection of fingers. Fills The Clown with longing and focus on his anesthetic abilities.",
+        "description":
+            "A grim and incomplete collection of fingers. Fills The Clown with longing and focus on his anesthetic abilities.",
         "abilities": [
             "%bSlightly%/b expands The Afterpiece Tonic Gas Effect area.",
             "%bSlightly%/b increases the intoxicated target's blurred vision.",
@@ -2994,7 +3131,8 @@
         "name": "Tattoo's Middle Finger",
         "owner": "CLOWN",
         "rarity": "ULTRA_RARE",
-        "description": "The prized middle finger of a large tattooed man. Has a faint taste of machinery oil.",
+        "description":
+            "The prized middle finger of a large tattooed man. Has a faint taste of machinery oil.",
         "abilities": [
             "Auras of Intoxicated survivors are revealed to you for %b6 seconds%/b"
         ],
@@ -3006,7 +3144,8 @@
         "name": "Redhead's Pinky Finger",
         "owner": "CLOWN",
         "rarity": "ULTRA_RARE",
-        "description": "The prized pinky of a redhead. Faintly fragrant. Tastes of potpourri and varnish.",
+        "description":
+            "The prized pinky of a redhead. Faintly fragrant. Tastes of potpourri and varnish.",
         "abilities": [
             "Survivors hit directly by a bottle of The Afterpiece Tonic suffer from the %bExposed%/b status effect.",
             "%bSlightly%/b reduces the Intoxication Effect duration.",
