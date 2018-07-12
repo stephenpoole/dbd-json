@@ -2,22 +2,33 @@ const data = require('../../');
 const fs = require('fs');
 const images = (() => {
     const path =
-        'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Dead By Daylight\\DeadByDaylight\\Content\\UI\\Icons';
+        'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Dead By Daylight\\DeadByDaylight\\Content\\UI\\Icons\\';
 
     if (fs.existsSync(path)) {
-        return Helpers.walkFilesSync(path);
+        function walkFilesSync(path, filelist = []) {
+            fs.readdirSync(path).forEach(function (file) {
+                if (fs.statSync(path + file).isDirectory()) {
+                    filelist = walkFilesSync(path + file + '/', filelist);
+                } else {
+                    filelist.push(file);
+                }
+            });
+            return filelist;
+        }
+        return walkFilesSync(path);
     } else {
         return [];
     }
 })();
+
 let Enum = data.Enum;
 let killers = data.Killers;
 let survivors = data.Survivors;
 
 export class Helpers {
-    static resolve(done, value = true) {
+    static resolve(done, value = true, message) {
         if (typeof done === 'function') {
-            !!value ? done() : done(new Error());
+            !!value ? done() : done(new Error(message));
         }
     }
 
@@ -58,7 +69,7 @@ export class Helpers {
     static unique(done, value, property, arr) {
         this.resolve(
             done,
-            !arr.filter(item => value[property] === value).length
+            arr.filter(item => item[property] == value).length === 1
         );
     }
 
@@ -123,20 +134,6 @@ export class Helpers {
         this.resolve(done, allowGeneric ? value === 'ALL' : false);
     }
 
-    static walkFilesSync(path) {
-        var fs = fs || require('fs'),
-            files = fs.readdirSync(path);
-        filelist = filelist || [];
-        files.forEach(function(file) {
-            if (fs.statSync(dir + file).isDirectory()) {
-                filelist = this.walkFilesSync(dir + file + '/', filelist);
-            } else {
-                filelist.push(file.name);
-            }
-        });
-        return filelist;
-    }
-
     static imageExists(done, value, type) {
         if (!images.length) {
             this.resolve(done, true);
@@ -147,29 +144,29 @@ export class Helpers {
 
         switch (type) {
             case Enum.ModifierTypes.ADDON:
-                name = `iconAddon_${value}.jpg`;
+                name = `iconAddon_${value}.png`;
                 break;
             case Enum.ModifierTypes.ITEM:
-                name = `iconItem_${value}.jpg`;
+                name = `iconItems_${value}.png`;
                 break;
             case Enum.ModifierTypes.OFFERING:
-                name = `iconFavors_${value}.jpg`;
+                name = `iconFavors_${value}.png`;
                 break;
             case Enum.ModifierTypes.PERK:
-                name = `iconPerks_${value}.jpg`;
+                name = `iconPerks_${value}.png`;
                 break;
             case Enum.ModifierTypes.PLAYER:
-                name = `${value}_charSelect_portrait.jpg`;
+                name = `${value}_charSelect_portrait.png`;
                 break;
             case Enum.ModifierTypes.POWER:
-                name = `iconPowers_${value}.jpg`;
+                name = `iconPowers_${value}.png`;
                 break;
             default:
                 this.resolve(done, false);
                 return;
         }
 
-        this.resolve(done, images.indexOf(name) > -1);
+        this.resolve(done, images.indexOf(name) > -1, name);
     }
 
     static tagsMatch(done, value, tags) {

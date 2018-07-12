@@ -3,15 +3,15 @@ const Enum = data.Enum;
 import { PropertyValidate, Helpers } from './Helpers';
 
 const survivorOfferings = data.SurvivorOfferings;
-describe('#SurvivorOfferings', function() {
-    describe('#validate', function() {
-        it('should be an array', function(done) {
+describe('#SurvivorOfferings', function () {
+    describe('#validate', function () {
+        it('should be an array', function (done) {
             Helpers.isArray(done, survivorOfferings);
         });
 
         survivorOfferings.map(item => {
-            describe(`#${item.index}`, function() {
-                it('should be json', function(done) {
+            describe(`#${item.index}`, function () {
+                it('should be json', function (done) {
                     Helpers.isJSON(done, item);
                 });
 
@@ -21,19 +21,19 @@ describe('#SurvivorOfferings', function() {
                 PropertyValidate.rarity(item, survivorOfferings);
                 PropertyValidate.description(item, survivorOfferings);
 
-                describe('#abilities', function() {
-                    it('should exist', function(done) {
+                describe('#abilities', function () {
+                    it('should exist', function (done) {
                         Helpers.exists(done, item, 'abilities');
                     });
-                    it('should be an array', function(done) {
+                    it('should be an array', function (done) {
                         Helpers.isArray(done, item.abilities);
                     });
-                    it('should not be empty', function(done) {
+                    it('should not be empty', function (done) {
                         Helpers.isNotEmpty(done, item.abilities);
                     });
 
                     item.abilities.map((ability, index) => {
-                        describe(`#ability[${index}]`, function() {
+                        describe(`#ability[${index}]`, function () {
                             PropertyValidate.ability(
                                 ability,
                                 survivorOfferings
@@ -46,22 +46,22 @@ describe('#SurvivorOfferings', function() {
                     PropertyValidate.flavor(item, survivorOfferings);
                 }
 
-                PropertyValidate.image(item, survivorOfferings);
+                PropertyValidate.image(item, survivorOfferings, Enum.ModifierTypes.OFFERING);
             });
         });
     });
 });
 
 const killerOfferings = data.KillerOfferings;
-describe('#KillerOfferings', function() {
-    describe('#validate', function() {
-        it('should be an array', function(done) {
+describe('#KillerOfferings', function () {
+    describe('#validate', function () {
+        it('should be an array', function (done) {
             Helpers.isArray(done, killerOfferings);
         });
 
         killerOfferings.map(item => {
-            describe(`#${item.index}`, function() {
-                it('should be json', function(done) {
+            describe(`#${item.index}`, function () {
+                it('should be json', function (done) {
                     Helpers.isJSON(done, item);
                 });
 
@@ -71,19 +71,19 @@ describe('#KillerOfferings', function() {
                 PropertyValidate.rarity(item, killerOfferings);
                 PropertyValidate.description(item, killerOfferings);
 
-                describe('#abilities', function() {
-                    it('should exist', function(done) {
+                describe('#abilities', function () {
+                    it('should exist', function (done) {
                         Helpers.exists(done, item, 'abilities');
                     });
-                    it('should be an array', function(done) {
+                    it('should be an array', function (done) {
                         Helpers.isArray(done, item.abilities);
                     });
-                    it('should not be empty', function(done) {
+                    it('should not be empty', function (done) {
                         Helpers.isNotEmpty(done, item.abilities);
                     });
 
                     item.abilities.map((ability, index) => {
-                        describe(`#ability[${index}]`, function() {
+                        describe(`#ability[${index}]`, function () {
                             PropertyValidate.ability(ability, killerOfferings);
                         });
                     });
@@ -93,22 +93,22 @@ describe('#KillerOfferings', function() {
                     PropertyValidate.flavor(item, killerOfferings);
                 }
 
-                PropertyValidate.image(item, killerOfferings);
+                PropertyValidate.image(item, killerOfferings, Enum.ModifierTypes.OFFERING);
             });
         });
     });
 });
 
 const sharedOfferings = data.SharedOfferings;
-describe('#SharedOfferings', function() {
-    describe('#validate', function() {
-        it('should be an array', function(done) {
+describe('#SharedOfferings', function () {
+    describe('#validate', function () {
+        it('should be an array', function (done) {
             Helpers.isArray(done, sharedOfferings);
         });
 
         sharedOfferings.map(item => {
-            describe(`#${item.index}`, function() {
-                it('should be json', function(done) {
+            describe(`#${item.index}`, function () {
+                it('should be json', function (done) {
                     Helpers.isJSON(done, item);
                 });
 
@@ -119,19 +119,19 @@ describe('#SharedOfferings', function() {
                 PropertyValidate.description(item, sharedOfferings);
 
                 if ('abilities' in item) {
-                    describe('#abilities', function() {
-                        it('should exist', function(done) {
+                    describe('#abilities', function () {
+                        it('should exist', function (done) {
                             Helpers.exists(done, item, 'abilities');
                         });
-                        it('should be an array', function(done) {
+                        it('should be an array', function (done) {
                             Helpers.isArray(done, item.abilities);
                         });
-                        it('should not be empty', function(done) {
+                        it('should not be empty', function (done) {
                             Helpers.isNotEmpty(done, item.abilities);
                         });
 
                         item.abilities.map((ability, index) => {
-                            describe(`#ability[${index}]`, function() {
+                            describe(`#ability[${index}]`, function () {
                                 PropertyValidate.ability(
                                     ability,
                                     sharedOfferings
@@ -145,7 +145,7 @@ describe('#SharedOfferings', function() {
                     PropertyValidate.flavor(item, sharedOfferings);
                 }
 
-                PropertyValidate.image(item, sharedOfferings);
+                PropertyValidate.image(item, sharedOfferings, Enum.ModifierTypes.OFFERING);
             });
         });
     });
