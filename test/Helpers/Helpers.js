@@ -6,7 +6,7 @@ const images = (() => {
 
     if (fs.existsSync(path)) {
         function walkFilesSync(path, filelist = []) {
-            fs.readdirSync(path).forEach(function (file) {
+            fs.readdirSync(path).forEach(function(file) {
                 if (fs.statSync(path + file).isDirectory()) {
                     filelist = walkFilesSync(path + file + '/', filelist);
                 } else {
@@ -20,10 +20,6 @@ const images = (() => {
         return [];
     }
 })();
-
-let Enum = data.Enum;
-let killers = data.Killers;
-let survivors = data.Survivors;
 
 export class Helpers {
     static resolve(done, value = true, message) {
@@ -107,15 +103,15 @@ export class Helpers {
     }
 
     static isRarity(done, value) {
-        this.resolve(done, value in Enum.Rarities);
+        this.resolve(done, value in data.Enum.Rarities);
     }
 
     static isItem(done, value) {
-        this.resolve(done, value in Enum.ItemTypes);
+        this.resolve(done, value in data.Enum.ItemTypes);
     }
 
     static isKiller(done, value, allowGeneric = false) {
-        for (let { index } of killers) {
+        for (let { index } of data.Killers) {
             if (value === index) {
                 this.resolve(done);
                 return;
@@ -125,13 +121,29 @@ export class Helpers {
     }
 
     static isSurvivor(done, value, allowGeneric = false) {
-        for (let { index } of survivors) {
+        for (let { index } of data.Survivors) {
             if (value === index) {
                 this.resolve(done);
                 return;
             }
         }
         this.resolve(done, allowGeneric ? value === 'ALL' : false);
+    }
+
+    static isPerk(done, value, type) {
+        if (typeof value === 'object') {
+            value = value.index;
+        }
+        const perks =
+            type === data.Enum.PlayerTypes.KILLER
+                ? data.KillerPerks
+                : data.SurvivorPerks;
+
+        this.resolve(
+            done,
+            perks.filter(perk => perk.index === value).length === 1,
+            value
+        );
     }
 
     static imageExists(done, value, type) {
@@ -143,22 +155,22 @@ export class Helpers {
         let name = '';
 
         switch (type) {
-            case Enum.ModifierTypes.ADDON:
+            case data.Enum.ModifierTypes.ADDON:
                 name = `iconAddon_${value}.png`;
                 break;
-            case Enum.ModifierTypes.ITEM:
+            case data.Enum.ModifierTypes.ITEM:
                 name = `iconItems_${value}.png`;
                 break;
-            case Enum.ModifierTypes.OFFERING:
+            case data.Enum.ModifierTypes.OFFERING:
                 name = `iconFavors_${value}.png`;
                 break;
-            case Enum.ModifierTypes.PERK:
+            case data.Enum.ModifierTypes.PERK:
                 name = `iconPerks_${value}.png`;
                 break;
-            case Enum.ModifierTypes.PLAYER:
+            case data.Enum.ModifierTypes.PLAYER:
                 name = `${value}_charSelect_portrait.png`;
                 break;
-            case Enum.ModifierTypes.POWER:
+            case data.Enum.ModifierTypes.POWER:
                 name = `iconPowers_${value}.png`;
                 break;
             default:
