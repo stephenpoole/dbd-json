@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+  - "iojs"
+  - "7"
+cache:
+  directories:
+    - "node_modules"
+deploy:
+  provider: npm
+  email: "stephenwpoole@gmail.com"
+  api_key: "801dd0e9-e824-4a3d-b850-0c9930d0cae1"
+  on:
+    tags: true
+    branch: master
