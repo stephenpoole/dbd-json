@@ -76,16 +76,16 @@ describe('#SurvivorPerks', function() {
                                     PropertyValidate.tier(str, survivorPerks);
                                 });
                             });
-                        });
-                    });
 
-                    it('should match %s count in description', function(done) {
-                        Helpers.occurrences(
-                            done,
-                            item.description,
-                            '%s',
-                            item.tiers[0].length
-                        );
+                            it('should match %s count in description', function(done) {
+                                Helpers.occurrences(
+                                    done,
+                                    item.description,
+                                    '%s',
+                                    tier.length
+                                );
+                            });
+                        });
                     });
                 });
             });
@@ -168,16 +168,16 @@ describe('#KillerPerks', function() {
                                     PropertyValidate.tier(str, killerPerks);
                                 });
                             });
-                        });
-                    });
 
-                    it('should match %s count in description', function(done) {
-                        Helpers.occurrences(
-                            done,
-                            item.description,
-                            '%s',
-                            item.tiers[0].length
-                        );
+                            it('should match %s count in description', function(done) {
+                                Helpers.occurrences(
+                                    done,
+                                    item.description,
+                                    '%s',
+                                    tier.length
+                                );
+                            });
+                        });
                     });
                 });
             });
