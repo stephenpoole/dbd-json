@@ -611,19 +611,19 @@
         "image": "tinkerer",
         "tiers": [
             [
-                "90%",
-                "0 meters",
-                "4 seconds"
-            ],
-            [
-                "90%",
-                "0 meters",
-                "6 seconds"
-            ],
-            [
-                "90%",
+                "85%",
                 "0 meters",
                 "8 seconds"
+            ],
+            [
+                "85%",
+                "0 meters",
+                "10 seconds"
+            ],
+            [
+                "85%",
+                "0 meters",
+                "12 seconds"
             ]
         ]
     },
