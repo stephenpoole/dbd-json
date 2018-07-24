@@ -4,11 +4,11 @@
         "index": "TANAGER_WREATH",
         "name": "Tanager Wreath",
         "rarity": "COMMON",
-        "description":
-            "Grants %b50%/b% bonus Bloodpoints in the Brutality Category.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"Crafted out of bloody sticks and guts, this wreath calls on the Entity's blessing for more blood.\"",
+        "description": "Grants %b50%/b% bonus Bloodpoints in the Brutality Category.",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"Crafted out of bloody sticks and guts, this wreath calls on the Entity's blessing for more blood.\"",
         "image": "tanagerWreath"
     },
     {
@@ -16,11 +16,11 @@
         "index": "DEVOUT_TANAGER_WREATH",
         "name": "Devout Tanager Wreath",
         "rarity": "UNCOMMON",
-        "description":
-            "Grants %b75%/b% bonus Bloodpoints in the Brutality Category.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"Devoutly crafted out of sticks and guts, this wreath calls on the Entity's blessing for more blood.\"",
+        "description": "Grants %b75%/b% bonus Bloodpoints in the Brutality Category.",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"Devoutly crafted out of sticks and guts, this wreath calls on the Entity's blessing for more blood.\"",
         "image": "devoutTanagerWreath"
     },
     {
@@ -28,11 +28,11 @@
         "index": "ARDENT_TANAGER_WREATH",
         "name": "Ardent Tanager Wreath",
         "rarity": "RARE",
-        "description":
-            "Grants %b100%/b% bonus Bloodpoints in the Brutality Category.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"Crafted with a fiery, undying passion out of bloody sticks and guts, this wreath calls on the Entity's blessing for more blood.\"",
+        "description": "Grants %b100%/b% bonus Bloodpoints in the Brutality Category.",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"Crafted with a fiery, undying passion out of bloody sticks and guts, this wreath calls on the Entity's blessing for more blood.\"",
         "image": "ardentTanagerWreath"
     },
     {
@@ -40,11 +40,11 @@
         "index": "RAVEN_WREATH",
         "name": "Raven Wreath",
         "rarity": "COMMON",
-        "description":
-            "Grants %b50%/b% bonus Bloodpoints in the Deviousness Category.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"Crafted out of blackened branches and coals, this wreath calls on the Entity's blessing for more blood.\"",
+        "description": "Grants %b50%/b% bonus Bloodpoints in the Deviousness Category.",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"Crafted out of blackened branches and coals, this wreath calls on the Entity's blessing for more blood.\"",
         "image": "ravenWreath"
     },
     {
@@ -52,11 +52,11 @@
         "index": "DEVOUT_RAVEN_WREATH",
         "name": "Devout Raven Wreath",
         "rarity": "UNCOMMON",
-        "description":
-            "Grants %b75%/b% bonus Bloodpoints in the Deviousness Category.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"Devoutly crafted out of blackened branches and coals, this wreath calls on the Entity's blessing for more blood.\"",
+        "description": "Grants %b75%/b% bonus Bloodpoints in the Deviousness Category.",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"Devoutly crafted out of blackened branches and coals, this wreath calls on the Entity's blessing for more blood.\"",
         "image": "devoutRavenWreath"
     },
     {
@@ -64,11 +64,11 @@
         "index": "ARDENT_RAVEN_WREATH",
         "name": "Ardent Raven Wreath",
         "rarity": "RARE",
-        "description":
-            "Grants %b100%/b% bonus Bloodpoints in the Deviousness Category.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"Crafted with a fiery, undying passion out of blackened branches and coals, this wreath calls on the Entity's blessing for more blood.\"",
+        "description": "Grants %b100%/b% bonus Bloodpoints in the Deviousness Category.",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"Crafted with a fiery, undying passion out of blackened branches and coals, this wreath calls on the Entity's blessing for more blood.\"",
         "image": "ardentRavenWreath"
     },
     {
@@ -76,11 +76,11 @@
         "index": "SPOTTED_OWL_WREATH",
         "name": "Spotted Owl Wreath",
         "rarity": "COMMON",
-        "description":
-            "Grants %b50%/b% bonus Bloodpoints in the Hunting Category.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"Crafted out of sharp metals, ropes and feathers, this wreath calls on the Entity's blessing for more blood.\"",
+        "description": "Grants %b50%/b% bonus Bloodpoints in the Hunting Category.",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"Crafted out of sharp metals, ropes and feathers, this wreath calls on the Entity's blessing for more blood.\"",
         "image": "spottedOwlWreath"
     },
     {
@@ -88,11 +88,11 @@
         "index": "DEVOUT_SPOTTED_OWL_WREATH",
         "name": "Devout Spotted Owl Wreath",
         "rarity": "UNCOMMON",
-        "description":
-            "Grants %b75%/b% bonus Bloodpoints in the Hunting Category.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"Crafted out of sharp metals, ropes and feathers, this wreath calls on the Entity's blessing for more blood.\"",
+        "description": "Grants %b75%/b% bonus Bloodpoints in the Hunting Category.",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"Crafted out of sharp metals, ropes and feathers, this wreath calls on the Entity's blessing for more blood.\"",
         "image": "devoutSpottedOwlWreath"
     },
     {
@@ -100,11 +100,11 @@
         "index": "ARDENT_SPOTTED_OWL_WREATH",
         "name": "Ardent Spotted Owl Wreath",
         "rarity": "RARE",
-        "description":
-            "Grants %b100%/b% bonus Bloodpoints in the Hunting Category.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"Crafted with a fiery, undying passion out of sharp metals, ropes and feathers, this wreath calls on the Entity's blessing for more blood.\"",
+        "description": "Grants %b100%/b% bonus Bloodpoints in the Hunting Category.",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"Crafted with a fiery, undying passion out of sharp metals, ropes and feathers, this wreath calls on the Entity's blessing for more blood.\"",
         "image": "ardentSpottedOwlWreath"
     },
     {
@@ -112,11 +112,11 @@
         "index": "SHRIKE_WREATH",
         "name": "Shrike Wreath",
         "rarity": "COMMON",
-        "description":
-            "Grants %b50%/b% bonus Bloodpoints in the Sacrifice Category.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"Crafted out of sticks, strings and bones, this wreath calls on the Entity's blessing for more blood.\"",
+        "description": "Grants %b50%/b% bonus Bloodpoints in the Sacrifice Category.",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"Crafted out of sticks, strings and bones, this wreath calls on the Entity's blessing for more blood.\"",
         "image": "shrikeWreath"
     },
     {
@@ -124,11 +124,11 @@
         "index": "DEVOUT_SHRIKE_WREATH",
         "name": "Devout Shrike Wreath",
         "rarity": "UNCOMMON",
-        "description":
-            "Grants %b75%/b% bonus Bloodpoints in the Sacrifice Category.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"Devoutly crafted out of sticks, strings and bones, this wreath calls on the Entity's blessing for more blood.\"",
+        "description": "Grants %b75%/b% bonus Bloodpoints in the Sacrifice Category.",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"Devoutly crafted out of sticks, strings and bones, this wreath calls on the Entity's blessing for more blood.\"",
         "image": "devoutShrikeWreath"
     },
     {
@@ -136,11 +136,11 @@
         "index": "ARDENT_SHRIKE_WREATH",
         "name": "Ardent Shrike Wreath",
         "rarity": "RARE",
-        "description":
-            "Grants %b100%/b% bonus Bloodpoints in the Sacrifice Category.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"Crafted with a fiery, undying passion out of sticks, strings and bones, this wreath calls on the Entity's blessing for more blood.\"",
+        "description": "Grants %b100%/b% bonus Bloodpoints in the Sacrifice Category.",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"Crafted with a fiery, undying passion out of sticks, strings and bones, this wreath calls on the Entity's blessing for more blood.\"",
         "image": "ardentShrikeWreath"
     },
     {
@@ -149,9 +149,10 @@
         "name": "Hollow Shell",
         "rarity": "UNCOMMON",
         "description": "Grants %b25%/b% extra Bloodpoints in all Categories.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"An unidentifiable cocoon which was breached by whatever was inside.\"",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"An unidentifiable cocoon which was breached by whatever was inside.\"",
         "image": "hollowShell"
     },
     {
@@ -160,7 +161,9 @@
         "name": "Survivor Pudding",
         "rarity": "UNCOMMON",
         "description": "Grants %b100%/b% bonus Bloodpoints in all Categories.",
-        "abilities": ["Stacks"],
+        "abilities": [
+            "Stacks"
+        ],
         "flavor": "\"A heavily salted pudding...\"",
         "image": "survivorPudding"
     },
@@ -169,9 +172,10 @@
         "index": "CUT_COIN",
         "name": "Cut Coin",
         "rarity": "VERY_RARE",
-        "description":
-            "Calls on the Entity to prevent the appearance of %b2%/b Chests.",
-        "abilities": ["Stacks"],
+        "description": "Calls on the Entity to prevent the appearance of %b2%/b Chests.",
+        "abilities": [
+            "Stacks"
+        ],
         "flavor": "\"Two halves of a thick metallic coin.\"",
         "image": "cutCoin"
     },
@@ -180,9 +184,10 @@
         "index": "SCRATCHED_COIN",
         "name": "Scratched Coin",
         "rarity": "UNCOMMON",
-        "description":
-            "Calls on the Entity to prevent the appearance of %b1%/b Chest.",
-        "abilities": ["Stacks"],
+        "description": "Calls on the Entity to prevent the appearance of %b1%/b Chest.",
+        "abilities": [
+            "Stacks"
+        ],
         "flavor": "\"A defaced coin of unknown origin.\"",
         "image": "scratchedCoin"
     },
@@ -192,7 +197,9 @@
         "name": "Moldy Oak",
         "rarity": "UNCOMMON",
         "description": "Calls on the Entity to create %b1%/b more Hook.",
-        "abilities": ["Stacks"],
+        "abilities": [
+            "Stacks"
+        ],
         "flavor": "\"A damp and decaying piece of oak replete with mold.\"",
         "image": "moldyOak"
     },
@@ -202,9 +209,10 @@
         "name": "Rotten Oak",
         "rarity": "RARE",
         "description": "Calls on the Entity to create %b2%/b more Hooks.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"A decomposing piece of oak in which strange markings have been etched.\"",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"A decomposing piece of oak in which strange markings have been etched.\"",
         "image": "rottenOak"
     },
     {
@@ -213,9 +221,10 @@
         "name": "Putrid Oak",
         "rarity": "VERY_RARE",
         "description": "Calls on the Entity to create %b3%/b more Hooks.",
-        "abilities": ["Stacks"],
-        "flavor":
-            "\"A ruined piece of oak oozing with a black putrescent liquid.\"",
+        "abilities": [
+            "Stacks"
+        ],
+        "flavor": "\"A ruined piece of oak oozing with a black putrescent liquid.\"",
         "image": "putridOak"
     },
     {
@@ -223,9 +232,10 @@
         "index": "CYPRESS_MEMENTO_MORI",
         "name": "Cypress Memento Mori",
         "rarity": "UNCOMMON",
-        "description":
-            "Grants the ability to %bkill the last Survivor%/b by your hand during the next trial.",
-        "abilities": ["Secret"],
+        "description": "Grants the ability to %bkill the last Survivor%/b by your hand during the next trial.",
+        "abilities": [
+            "Secret"
+        ],
         "flavor": "\"You worked well, the last one is yours.\"",
         "image": "momentoMoriCypress"
     },
@@ -234,9 +244,10 @@
         "index": "IVORY_MEMENTO_MORI",
         "name": "Ivory Memento Mori",
         "rarity": "RARE",
-        "description":
-            "Grants the ability to %bkill one survivor%/b who has been hooked by your hand during the next trial.",
-        "abilities": ["Secret"],
+        "description": "Grants the ability to %bkill one survivor%/b who has been hooked by your hand during the next trial.",
+        "abilities": [
+            "Secret"
+        ],
         "flavor": "\"Grant me the favour of killing one.\"",
         "image": "momentoMoriIvory"
     },
@@ -245,11 +256,11 @@
         "index": "EBONY_MEMENTO_MORI",
         "name": "Ebony Memento Mori",
         "rarity": "ULTRA_RARE",
-        "description":
-            "Grants the ability to %bkill all Survivors%/b who have been hooked by your hand during the next trial.",
-        "abilities": ["Secret"],
-        "flavor":
-            "\"I could swear It spoke to the beast. It came to a halt, as if calmly listening to the leaves rustling, and then... grinned.\"",
+        "description": "Grants the ability to %bkill all Survivors%/b who have been hooked by your hand during the next trial.",
+        "abilities": [
+            "Secret"
+        ],
+        "flavor": "\"I could swear It spoke to the beast. It came to a halt, as if calmly listening to the leaves rustling, and then... grinned.\"",
         "image": "momentoMoriEbony"
     },
     {
@@ -258,7 +269,9 @@
         "name": "Shroud of Separation",
         "rarity": "UNCOMMON",
         "description": "All Survivors start the trial separated.",
-        "abilities": ["Secret"],
+        "abilities": [
+            "Secret"
+        ],
         "flavor": "\"A thin black shroud which is falling apart.\"",
         "image": "shroudOfSeparation"
     }
