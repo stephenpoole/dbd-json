@@ -5,11 +5,7 @@
         "name": "The Trapper",
         "power": "BEAR_TRAP",
         "description": "An area-control Killer, able to apply pressure across the map by placing deadly %bBear Traps%/b for Survivors to step in.",
-        "perks": [
-            "UNNERVING_PRESENCE",
-            "BRUTAL_STRENGTH",
-            "AGITATION"
-        ],
+        "perks": ["UNNERVING_PRESENCE", "BRUTAL_STRENGTH", "AGITATION"],
         "image": "TR"
     },
     {
@@ -18,11 +14,7 @@
         "name": "The Wraith",
         "power": "WAILING_BELL",
         "description": "A stealth Killer, able to cloak and uncloak at the ringing of his %bWailing Bell%/b.",
-        "perks": [
-            "PREDATOR",
-            "BLOODHOUND",
-            "SHADOWBORN"
-        ],
+        "perks": ["PREDATOR", "BLOODHOUND", "SHADOWBORN"],
         "image": "WR"
     },
     {
@@ -31,11 +23,7 @@
         "name": "The Hillbilly",
         "power": "CHAINSAW",
         "description": "A high-mobility Killer, able to cover large distances in a short amount of time and instantly down Survivors using his %bChainsaw%/b.",
-        "perks": [
-            "ENDURING",
-            "LIGHTBORN",
-            "TINKERER"
-        ],
+        "perks": ["ENDURING", "LIGHTBORN", "TINKERER"],
         "image": "HB"
     },
     {
@@ -44,11 +32,7 @@
         "name": "The Nurse",
         "power": "SPENCERS_LAST_BREATH",
         "description": "A warping Killer, able to blink through obstacles and quickly close gaps with her power, %bSpencer's Last Breath%/b.",
-        "perks": [
-            "STRIDOR",
-            "THANATOPHOBIA",
-            "A_NURSES_CALLING"
-        ],
+        "perks": ["STRIDOR", "THANATOPHOBIA", "A_NURSES_CALLING"],
         "image": "NR"
     },
     {
@@ -83,11 +67,7 @@
         "name": "The Hag",
         "power": "BLACKENED_CATALYST",
         "description": "A cursed Killer, able to place traps and then teleport to them when activated, using her %bBlackened Catalyst%/b.",
-        "perks": [
-            "HEX_THE_THIRD_SEAL",
-            "HEX_RUIN",
-            "HEX_DEVOUR_HOPE"
-        ],
+        "perks": ["HEX_THE_THIRD_SEAL", "HEX_RUIN", "HEX_DEVOUR_HOPE"],
         "image": "HA"
     },
     {
@@ -96,11 +76,7 @@
         "name": "The Cannibal",
         "power": "BUBBAS_CHAINSAW",
         "description": "A chainsaw-wielding Killer, able to trigger a deadly frenzy using %bBubba's Chainsaw%/b, immediately downing anyone in its path.",
-        "perks": [
-            "KNOCK_OUT",
-            "BARBECUE_AND_CHILI",
-            "FRANKLINS_DEMISE"
-        ],
+        "perks": ["KNOCK_OUT", "BARBECUE_AND_CHILI", "FRANKLINS_DEMISE"],
         "image": "CA"
     },
     {
@@ -109,11 +85,7 @@
         "name": "The Doctor",
         "power": "CARTERS_SPARK",
         "description": "A madness-inducing Killer, able to use his power, %bCarter's Spark%/b, to create a static field incapacitating Survivors and eventually causing them to hallucinate and scream in terror, revealing their position.",
-        "perks": [
-            "OVERWHELMING_PRESENCE",
-            "MONITOR_AND_ABUSE",
-            "OVERCHARGE"
-        ],
+        "perks": ["OVERWHELMING_PRESENCE", "MONITOR_AND_ABUSE", "OVERCHARGE"],
         "image": "DO"
     },
     {
@@ -122,11 +94,7 @@
         "name": "The Nightmare",
         "power": "DREAM_DEMON",
         "description": "A nightmare Killer, driven to pull Survivors into his dream world using his power, %bDream Demon%/b, in order to be able to maul them and hinder their abilities.",
-        "perks": [
-            "FIRE_UP",
-            "REMEMBER_ME",
-            "BLOOD_WARDEN"
-        ],
+        "perks": ["FIRE_UP", "REMEMBER_ME", "BLOOD_WARDEN"],
         "image": "SD"
     },
     {
@@ -135,11 +103,7 @@
         "name": "The Pig",
         "power": "JIGSAWS_BAPTISM",
         "description": "A tormenting Killer, able to crounch into stealth mode, then ambush Survivors from a short distance. She can also apply %bReverse Bear Traps%/b to downed Survivors, forcing them to remove it before the timer runs out, triggering an instant death.",
-        "perks": [
-            "HANGMANS_TRICK",
-            "SURVEILLANCE",
-            "MAKE_YOUR_CHOICE"
-        ],
+        "perks": ["HANGMANS_TRICK", "SURVEILLANCE", "MAKE_YOUR_CHOICE"],
         "image": "FK"
     },
     {
@@ -148,11 +112,16 @@
         "name": "The Clown",
         "power": "THE_AFTERPIECE_TONIC",
         "description": "A strategic Killer, able to control and corral survivors by throwing bottles of %bThe Afterpiece Tonic%/b to create clouds of noxious gas that cover large areas for a short amount of time. Survivors intoxicated by the gas are infliced with impaired vision and movement speed, and give away their location by coughing loudly.",
-        "perks": [
-            "BAMBOOZLE",
-            "COULROPHOBIA",
-            "POP_GOES_THE_WEASEL"
-        ],
+        "perks": ["BAMBOOZLE", "COULROPHOBIA", "POP_GOES_THE_WEASEL"],
         "image": "GK"
+    },
+    {
+        "id": 13,
+        "index": "SPIRIT",
+        "name": "The Spirit",
+        "power": "YAMAOKAS_HAUNTING",
+        "description": "",
+        "perks": ["SPIRIT_FURY", "HEX_HAUNTED_GROUND", "RANCOR"],
+        "image": "RY"
     }
 ]

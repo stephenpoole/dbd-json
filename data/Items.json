@@ -16,9 +16,7 @@
         "index": "FLASHLIGHT",
         "name": "Flashlight",
         "description": "A standard Flashlight. Can be used to light your way in the darkness.",
-        "abilities": [
-            "%b8 seconds%/b of use."
-        ],
+        "abilities": ["%b8 seconds%/b of use."],
         "flavor": "\"Most of the battery life was wastefully used by the previous owner.\"",
         "type": "FLASHLIGHT",
         "rarity": "UNCOMMON",
@@ -72,9 +70,7 @@
         "index": "BROKEN_KEY",
         "name": "Broken Key",
         "description": "The bow and shank of a key, vibrating with power. The Broken Key's power cannot be triggered by itself. Various objects can be attached to its jump ring, which channels the Broken Key's power into various effects.",
-        "abilities": [
-            "%b10 seconds%/b of use."
-        ],
+        "abilities": ["%b10 seconds%/b of use."],
         "type": "KEY",
         "rarity": "RARE",
         "image": "brokenKey"
@@ -105,6 +101,7 @@
         "rarity": "ULTRA_RARE",
         "image": "key"
     },
+
     {
         "id": 9,
         "index": "MAP",

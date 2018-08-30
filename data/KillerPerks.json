@@ -4,29 +4,13 @@
         "index": "BITTER_MURMUR",
         "name": "Bitter Murmur",
         "owner": "ALL",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "description": "Unlocks potential in one's Aura reading ability. Each time a generator is fully repaired, survivors within %s of the completed generator will be revealed for %s. When the last generator is fully repaired, all the survivors auras are revealed for %s",
         "image": "bitterMurmur",
         "tiers": [
-            [
-                "16 meters",
-                "5 seconds",
-                "5 seconds"
-            ],
-            [
-                "16 meters",
-                "5 seconds",
-                "7 seconds"
-            ],
-            [
-                "16 meters",
-                "5 seconds",
-                "10 seconds"
-            ]
+            ["16 meters", "5 seconds", "5 seconds"],
+            ["16 meters", "5 seconds", "7 seconds"],
+            ["16 meters", "5 seconds", "10 seconds"]
         ]
     },
     {
@@ -34,78 +18,34 @@
         "index": "DEERSTALKER",
         "name": "Deerstalker",
         "owner": "ALL",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "description": "Unlocks potential in one's Aura reading ability. Reveals dying Survivors' Auras when standing within %s.",
         "image": "deerstalker",
-        "tiers": [
-            [
-                "12 meters"
-            ],
-            [
-                "24 meters"
-            ],
-            [
-                "36 meters"
-            ]
-        ]
+        "tiers": [["12 meters"], ["24 meters"], ["36 meters"]]
     },
     {
         "id": 3,
         "index": "DISTRESSING",
         "name": "Distressing",
         "owner": "ALL",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "description": "Your horrifying emanation strikes at a supernaturally long distance. Your Terror Radius is increased by %s. Gain %s more Bloodpoints for actions in the Deviousness category.",
         "flavor": "\"Bask in their fear.\"",
         "image": "distressing",
-        "tiers": [
-            [
-                "22%",
-                "50%"
-            ],
-            [
-                "24%",
-                "75%"
-            ],
-            [
-                "26%",
-                "100%"
-            ]
-        ]
+        "tiers": [["22%", "50%"], ["24%", "75%"], ["26%", "100%"]]
     },
     {
         "id": 4,
         "index": "INSIDIOUS",
         "name": "Insidious",
         "owner": "ALL",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "description": "Unlocks the stealth ability. By standing still for %s, you reduce your Terror Radius to %s and thus become stealthy until you move or act again.",
         "image": "insidious",
         "tiers": [
-            [
-                "4 seconds",
-                "0 meters"
-            ],
-            [
-                "3 seconds",
-                "0 meters"
-            ],
-            [
-                "2 seconds",
-                "0 meters"
-            ]
+            ["4 seconds", "0 meters"],
+            ["3 seconds", "0 meters"],
+            ["2 seconds", "0 meters"]
         ]
     },
     {
@@ -113,112 +53,45 @@
         "index": "HEX_NO_ONE_ESCAPES_DEATH",
         "name": "\"Hex\": No One Escapes Death",
         "owner": "ALL",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "description": "A Hex rooting its power on hope. You are animated by the power of your Hex Totem when the Survivors are on the verge of escaping. Once the Exit Gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, Survivors suffer from the %bExposed%/b Status Effect, cooldowns on successful and missed attacks are decreased by %s and your movement speed is increased by %s.",
         "flavor": "\"And the beast became faster and more powerful as if the Entity's shadowy whips were lashing at its back.\"",
         "image": "noOneEscapesDeath",
-        "tiers": [
-            [
-                "4%",
-                "3%"
-            ],
-            [
-                "8%",
-                "4%"
-            ],
-            [
-                "8%",
-                "4%"
-            ]
-        ]
+        "tiers": [["4%", "3%"], ["8%", "4%"], ["8%", "4%"]]
     },
     {
         "id": 6,
         "index": "HEX_THRILL_OF_THE_HUNT",
         "name": "\"Hex\": Thrill of the Hunt",
         "owner": "ALL",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "description": "A Hex rooting its power on hope. The false hope of Survivors fills you with excitement and strengthens your totems. For each Dull Totem and Hex Totem remaining on the Map gain a Token.\nGain %s more Bloodpoints for actions in the Hunter category for each Token.\nSurvivors' cleansing speed is reduced by %s for each Token.\nGain a notification when someone starts working on a Hex Totem.",
         "image": "thrillOfTheHunt",
-        "tiers": [
-            [
-                "6%",
-                "4%"
-            ],
-            [
-                "8%",
-                "5%"
-            ],
-            [
-                "10%",
-                "6%"
-            ]
-        ]
+        "tiers": [["6%", "4%"], ["8%", "5%"], ["10%", "6%"]]
     },
     {
         "id": 7,
         "index": "MONSTROUS_SHRINE",
         "name": "Monstrous Shrine",
         "owner": "ALL",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "description": "Your fervent care of the hooks found in the Basement has aroused the Entity's interest. The Basement Hooks are granted the following bonuses:\n%s faster Entity progression.\n%s increased difficulty on escape attempts.\n%s increased penalty to escape fails.",
         "image": "monstrousShrine",
-        "tiers": [
-            [
-                "3%",
-                "5%",
-                "3%"
-            ],
-            [
-                "6%",
-                "10%",
-                "6%"
-            ],
-            [
-                "9%",
-                "15%",
-                "9%"
-            ]
-        ]
+        "tiers": [["3%", "5%", "3%"], ["6%", "10%", "6%"], ["9%", "15%", "9%"]]
     },
     {
         "id": 8,
         "index": "SLOPPY_BUTCHER",
         "name": "Sloppy Butcher",
         "owner": "ALL",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "description": "You know where to hit to make them bleed. Wounds inflicted by successful attacks %s increase the survivor's bleeding frequency and causes the %s effect.\nBleeding and Mangled effects caused by %iSloppy Butcher%/i return to normal once the survivor is fully healed.",
         "flavor": "\"It's in its sadistic nature. There is no swift kill as it delights in the obscene spectable of our agonizing suffering.\"",
         "image": "sloppyButcher",
         "tiers": [
-            [
-                "slightly",
-                "Mangled Status"
-            ],
-            [
-                "moderately",
-                "Mangled Status"
-            ],
-            [
-                "considerably",
-                "Mangled Status"
-            ]
+            ["slightly", "Mangled Status"],
+            ["moderately", "Mangled Status"],
+            ["considerably", "Mangled Status"]
         ]
     },
     {
@@ -226,27 +99,14 @@
         "index": "SPIES_FROM_THE_SHADOWS",
         "name": "Spies From The Shadows",
         "owner": "ALL",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "description": "The Crows found in the world can communicate directly with you. %s of the time, cawing Crows give you a visual clue when you are within %s.",
         "flavor": "\"In the shadows they torment, scarring our minds with each scream.\"",
         "image": "spiesFromTheShadows",
         "tiers": [
-            [
-                "50%",
-                "16 meters"
-            ],
-            [
-                "50%",
-                "24 meters"
-            ],
-            [
-                "75%",
-                "36 meters"
-            ]
+            ["50%", "16 meters"],
+            ["50%", "24 meters"],
+            ["75%", "36 meters"]
         ]
     },
     {
@@ -254,1067 +114,519 @@
         "index": "UNRELENTING",
         "name": "Unrelenting",
         "owner": "ALL",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "description": "You recuperate faster from any attack made with your main weapon. The cooldown of missed attacks is reduced by %s.",
         "image": "unrelenting",
-        "tiers": [
-            [
-                "20%"
-            ],
-            [
-                "25%"
-            ],
-            [
-                "30%"
-            ]
-        ]
+        "tiers": [["20%"], ["25%"], ["30%"]]
     },
     {
         "id": 11,
         "index": "WHISPERS",
         "name": "Whispers",
         "owner": "ALL",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "description": "You have a rudimentary understanding of the Entity's voice. Sporadically hear the Entity's Whisper when standing within a %s range of a Survivor.",
         "flavor": "\"It's unclear as to the motivations of the fog, but it is undeniable that it often takes the beast's side.\" — Unknown, Notebook",
         "image": "whispers",
-        "tiers": [
-            [
-                "48 meters"
-            ],
-            [
-                "40 meters"
-            ],
-            [
-                "32 meters"
-            ]
-        ]
+        "tiers": [["48 meters"], ["40 meters"], ["32 meters"]]
     },
     {
         "id": 12,
         "index": "STRIDOR",
         "name": "Stridor",
         "owner": "NURSE",
-        "rarity": [
-            "COMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["COMMON", "UNCOMMON", "RARE"],
         "description": "Breathing of Survivors in pain is %s louder. Regular Survivor breathing is now also %s louder.",
         "flavor": "If you don't stop and catch your breath... she will.",
         "image": "stridor",
-        "tiers": [
-            [
-                "25%",
-                "0%"
-            ],
-            [
-                "50%",
-                "0%"
-            ],
-            [
-                "50%",
-                "25%"
-            ]
-        ]
+        "tiers": [["25%", "0%"], ["50%", "0%"], ["50%", "25%"]]
     },
     {
         "id": 13,
         "index": "THANATOPHOBIA",
         "name": "Thanatophobia",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "NURSE",
         "description": "All Survivors receive penalties to repair, healing and sabotage speeds for each injured, dying or hooked Survivor.\n1 injured, dying or hooked survivor decrease repair, healing and sabotage speed by %s.\n2 injured, dying or hooked survivor decrease repair, healing and sabotage speed by %s.\n3 injured, dying or hooked survivor decrease repair, healing and sabotage speed by %s.\n4 injured, dying or hooked survivor decrease repair, healing and sabotage speed by %s.",
         "flavor": "She plays with us and revels in our pain.",
         "image": "thatanophobia",
         "tiers": [
-            [
-                "4%",
-                "7%",
-                "10%",
-                "13%"
-            ],
-            [
-                "5%",
-                "8%",
-                "11%",
-                "14%"
-            ],
-            [
-                "6%",
-                "9%",
-                "12%",
-                "15%"
-            ]
+            ["4%", "7%", "10%", "13%"],
+            ["5%", "8%", "11%", "14%"],
+            ["6%", "9%", "12%", "15%"]
         ]
     },
     {
         "id": 14,
         "index": "A_NURSES_CALLING",
         "name": "A Nurse's Calling",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "NURSE",
         "description": "Unlocks potential in one's Aura reading ability. The Auras of Survivors who are healing or being healed are revealed to you when they are within a %s range.",
         "flavor": "Still attached to the fragments of her past life, she is drawn to those in need of help.",
         "image": "aNursesCalling",
-        "tiers": [
-            [
-                "20 meter"
-            ],
-            [
-                "24 meter"
-            ],
-            [
-                "28 meter"
-            ]
-        ]
+        "tiers": [["20 meter"], ["24 meter"], ["28 meter"]]
     },
     {
         "id": 15,
         "index": "UNNERVING_PRESENCE",
         "name": "Unnerving Presence",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "TRAPPER",
         "description": "Your presence alone instils great fear. Survivors within your Terror Radius have a %s greater chance of triggering Skill Checks when repairing, healing or sabotaging. Triggered Skill Checks' success zones are reduced by %s.",
         "flavor": "Its presence befalls us.",
         "image": "unnervingPresence",
-        "tiers": [
-            [
-                "6%",
-                "40%"
-            ],
-            [
-                "8%",
-                "50%"
-            ],
-            [
-                "10%",
-                "60%"
-            ]
-        ]
+        "tiers": [["6%", "40%"], ["8%", "50%"], ["10%", "60%"]]
     },
     {
         "id": 16,
         "index": "BRUTAL_STRENGTH",
         "name": "Brutal Strength",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "TRAPPER",
         "description": "Your great strength allows you to shred through your prey's defences. Destroy dropped %bbarricades and generators%/b %s faster.",
         "flavor": "It's more than muscles. A dark power motivates the beast.",
         "image": "brutalStrength",
-        "tiers": [
-            [
-                "10%"
-            ],
-            [
-                "15%"
-            ],
-            [
-                "20%"
-            ]
-        ]
+        "tiers": [["10%"], ["15%"], ["20%"]]
     },
     {
         "id": 17,
         "index": "AGITATION",
         "name": "Agitation",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "TRAPPER",
         "description": "You get excited in anticipation of hooking your prey. Increases your speed while transporting bodies by %s. While transporting a body, your Terror Radius is increased by %s.",
         "flavor": "At some point, the excitement of hooking one of us becomes more important than the desire to kill us.",
         "image": "agitation",
-        "tiers": [
-            [
-                "6%",
-                "6 meters"
-            ],
-            [
-                "8%",
-                "12 meters"
-            ],
-            [
-                "12%",
-                "18 meters"
-            ]
-        ]
+        "tiers": [["6%", "6 meters"], ["8%", "12 meters"], ["12%", "18 meters"]]
     },
     {
         "id": 18,
         "index": "PREDATOR",
         "name": "Predator",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "WRAITH",
         "description": "Your acute tracking ability allows you to hone in on disturbances left by running survivors. Scratch marks left by survivors will spawn %s closer together.",
         "flavor": "Never stop moving and hope you're always two steps ahead of the beast.",
         "image": "predator",
-        "tiers": [
-            [
-                "slightly"
-            ],
-            [
-                "moderately"
-            ],
-            [
-                "considerably"
-            ]
-        ]
+        "tiers": [["slightly"], ["moderately"], ["considerably"]]
     },
     {
         "id": 19,
         "index": "BLOODHOUND",
         "name": "Bloodhound",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "WRAITH",
         "description": "Like a hunting scent hound, you smell traces of blood at a great distance. Fresh blood marks are %s more discernible than normal and can be tracked for %s longer than normal.",
         "flavor": "Pebbles shimmering in the moonlight; my life drips down in a trail so easy to follow.",
         "image": "bloodhound",
         "tiers": [
-            [
-                "slightly",
-                "2 seconds"
-            ],
-            [
-                "moderately",
-                "3 seconds"
-            ],
-            [
-                "considerably",
-                "4 seconds"
-            ]
+            ["slightly", "2 seconds"],
+            ["moderately", "3 seconds"],
+            ["considerably", "4 seconds"]
         ]
     },
     {
         "id": 20,
         "index": "SHADOWBORN",
         "name": "Shadowborn",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "WRAITH",
         "description": "You have a keen vision in the darkness of the night. Your field of view is %s wider than normal.",
         "flavor": "Shining in the darkest dark, his eyes pierce the night and sting your soul.",
         "image": "shadowborn",
-        "tiers": [
-            [
-                "moderately"
-            ],
-            [
-                "considerably"
-            ],
-            [
-                "tremendously"
-            ]
-        ]
+        "tiers": [["moderately"], ["considerably"], ["tremendously"]]
     },
     {
         "id": 21,
         "index": "ENDURING",
         "name": "Enduring",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "HILLBILLY",
         "description": "You are resilient to pain. Your rate of recovery from stuns is increased by %s.",
         "flavor": "He stops at nothing.",
         "image": "enduring",
-        "tiers": [
-            [
-                "50%"
-            ],
-            [
-                "60%"
-            ],
-            [
-                "75%"
-            ]
-        ]
+        "tiers": [["50%"], ["60%"], ["75%"]]
     },
     {
         "id": 22,
         "index": "LIGHTBORN",
         "name": "Lightborn",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "HILLBILLY",
         "description": "Unlike other beasts of the fog, you have adapted to light. Resistance to the flash effect is increased by %s. Recovery from the flash effect is increased by %s.",
         "flavor": "These monsters... they adapt! They emerge with strange new abilities.",
         "image": "lightborn",
-        "tiers": [
-            [
-                "20%",
-                "50%"
-            ],
-            [
-                "40%",
-                "50%"
-            ],
-            [
-                "60%",
-                "50%"
-            ]
-        ]
+        "tiers": [["20%", "50%"], ["40%", "50%"], ["60%", "50%"]]
     },
     {
         "id": 23,
         "index": "TINKERER",
         "name": "Tinkerer",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "HILLBILLY",
         "description": "When a generator is repaired at %s, you receive a %bnoise notification%/b and your %bTerror Radius%/b is reduced to %s for %s.",
         "image": "tinkerer",
         "tiers": [
-            [
-                "85%",
-                "0 meters",
-                "8 seconds"
-            ],
-            [
-                "85%",
-                "0 meters",
-                "10 seconds"
-            ],
-            [
-                "85%",
-                "0 meters",
-                "12 seconds"
-            ]
+            ["85%", "0 meters", "8 seconds"],
+            ["85%", "0 meters", "10 seconds"],
+            ["85%", "0 meters", "12 seconds"]
         ]
     },
     {
         "id": 24,
         "index": "SAVE_THE_BEST_FOR_LAST",
         "name": "Save The Best For Last",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "SHAPE",
         "description": "You become %iobsessed%/i with one Survivor.\nEarn a token for each successful hit that is not dealt to the %iobsession%/i. Each token grants a stackable %s decreased successful attack cooldown, you can earn up to %s tokens. Attacking your %iobsession%/i however will make you lose %s tokens. You can no longer gain tokens if your %iobsession%/i is sacrificed or killed.\nOnly one obsession per match.",
         "flavor": "Death has come to your little town, Sheriff.",
         "image": "saveTheBestForLast",
-        "tiers": [
-            [
-                "5%",
-                "8",
-                "4"
-            ],
-            [
-                "5%",
-                "8",
-                "3"
-            ],
-            [
-                "5%",
-                "8",
-                "2"
-            ]
-        ]
+        "tiers": [["5%", "8", "4"], ["5%", "8", "3"], ["5%", "8", "2"]]
     },
     {
         "id": 25,
         "index": "PLAY_WITH_YOUR_FOOD",
         "name": "Play With Your Food",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "SHAPE",
         "description": "You become obsessed with one Survivor. Every time you chase your Obsession and let them escape, you receive a Token up to a maximum of 3 Tokens. Each Token increases your movement speed by %s. Each offensive action spends one Token.\nOnly one Obsession per match.",
         "flavor": "You've fooled them, haven't you Michael? But not me.",
         "image": "playWithYourFood",
-        "tiers": [
-            [
-                "3%"
-            ],
-            [
-                "4%"
-            ],
-            [
-                "5%"
-            ]
-        ]
+        "tiers": [["3%"], ["4%"], ["5%"]]
     },
     {
         "id": 26,
         "index": "DYING_LIGHT",
         "name": "Dying Light",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "SHAPE",
         "description": "You become obsessed with one Survivor. Your Obsession's altruistic action speed is increased by %s. Once the Obsession is killed or sacrificed, every other Survivor gets a penalty of %s to repair, healing and sabotage speed.",
         "flavor": "This isn't a man...",
         "image": "dyingLight",
-        "tiers": [
-            [
-                "38%",
-                "19%"
-            ],
-            [
-                "44%",
-                "22%"
-            ],
-            [
-                "50%",
-                "25%"
-            ]
-        ]
+        "tiers": [["38%", "19%"], ["44%", "22%"], ["50%", "25%"]]
     },
     {
         "id": 27,
         "index": "HEX_THE_THIRD_SEAL",
         "name": "\"Hex\": The Third Seal",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "HAG",
         "description": "A Hex that hinders one's Aura reading ability. Hitting a Survivor while the Hex Totem is active applies the %bBlindness%/b status effect. This effect applies to the last %s Survivors hit.\nThe Hex effects persist as long as the related Hex Totem is standing.",
         "flavor": "She touched your skin, you bear the witch's mark!",
         "image": "theThirdSeal",
-        "tiers": [
-            [
-                2
-            ],
-            [
-                3
-            ],
-            [
-                4
-            ]
-        ]
+        "tiers": [[2], [3], [4]]
     },
     {
         "id": 28,
         "index": "HEX_RUIN",
         "name": "\"Hex\": Ruin",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "HAG",
         "description": "A Hex that affects the Survivors' skills at repairing Generators. %s are affected by Ruin, which causes Good Skill Checks to result in %s regression on the Generator. Great Skill Checks grant %s bonus progression on the generator.\nThe Hex effects persist as long as the related Hex Totem is standing.",
         "flavor": "A curse is upon you. It will cause your ruin.",
         "image": "ruin",
         "tiers": [
-            [
-                "2 Survivors",
-                "5%",
-                "0%"
-            ],
-            [
-                "3 Survivors",
-                "5%",
-                "0%"
-            ],
-            [
-                "4 Survivors",
-                "5%",
-                "0%"
-            ]
+            ["2 Survivors", "5%", "0%"],
+            ["3 Survivors", "5%", "0%"],
+            ["4 Survivors", "5%", "0%"]
         ]
     },
     {
         "id": 29,
         "index": "HEX_DEVOUR_HOPE",
         "name": "\"Hex\": Devour Hope",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "HAG",
         "description": "A Hex rooting its power on hope. The false hope of Survivors ignites your hunger. When a Survivor is rescued from a hook at least %s away, Devour Hope receives a Token.\n%s: Grants the ability to kill Survivors by your own hand.\nThe hex effects persist as long as the related hex totem is standing.",
         "flavor": "If you do nothing, you have their blood on your hands. If you save them, her hunger grows.",
         "image": "devourHope",
         "tiers": [
-            [
-                "24 meters",
-                "5 tokens"
-            ],
-            [
-                "24 meters",
-                "5 tokens"
-            ],
-            [
-                "24 meters",
-                "5 tokens"
-            ]
+            ["24 meters", "5 tokens"],
+            ["24 meters", "5 tokens"],
+            ["24 meters", "5 tokens"]
         ]
     },
     {
         "id": 30,
         "index": "OVERWHELMING_PRESENCE",
         "name": "Overwhelming Presence",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "DOCTOR",
         "description": "Your presence alone instils great fear. Survivors within your Terror Radius suffer from inefficiency. Affected Survivors' Item consumption rates are increased by %s",
         "flavor": "Shit!! I dropped the gauze!",
         "image": "overwhelmingPresence",
-        "tiers": [
-            [
-                "80%"
-            ],
-            [
-                "90%"
-            ],
-            [
-                "100%"
-            ]
-        ]
+        "tiers": [["80%"], ["90%"], ["100%"]]
     },
     {
         "id": 31,
         "index": "MONITOR_AND_ABUSE",
         "name": "Monitor & Abuse",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "DOCTOR",
         "description": "Meticulous in your approach, terrifying in your application. While in a chase, your Terror Radius is increased by %s. Otherwise your Terror Radius is decreased by %s and your field of view is %s increased. Field of view gains do not stack.",
         "flavor": "It's time for your treatment!",
         "image": "monitorAndAbuse",
         "tiers": [
-            [
-                "6 meters",
-                "6 meters",
-                "slightly"
-            ],
-            [
-                "7 meters",
-                "7 meters",
-                "moderately"
-            ],
-            [
-                "8 meters",
-                "8 meters",
-                "considerably"
-            ]
+            ["6 meters", "6 meters", "slightly"],
+            ["7 meters", "7 meters", "moderately"],
+            ["8 meters", "8 meters", "considerably"]
         ]
     },
     {
         "id": 32,
         "index": "OVERCHARGE",
         "name": "Overcharge",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "DOCTOR",
         "description": "You are fuelled by your hate for progress. Overcharge a Generator by performing the Damage Generator action. The next Survivor interacting with that Generator is faced with a %s difficult Skill Check. Failing the Skill Check results in an additional %s Generator regression.",
         "flavor": "It is a trap. But a trap one must step in...",
         "image": "generatorOvercharge",
         "tiers": [
-            [
-                "moderately",
-                "3%"
-            ],
-            [
-                "considerably",
-                "4%"
-            ],
-            [
-                "tremendously",
-                "5%"
-            ]
+            ["moderately", "3%"],
+            ["considerably", "4%"],
+            ["tremendously", "5%"]
         ]
     },
     {
         "id": 33,
         "index": "BEAST_OF_PREY",
         "name": "Beast Of Prey",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "HUNTRESS",
         "description": "Your lust for a kill is so intense that your connection with the Entity is momentarily lost, making you totally unpredictable. The Red Stain disappears for %s when Bloodlust activates.\nBeast of Prey has a cooldown of %s.",
         "flavor": "Where did she go?",
         "image": "BeastOfPrey",
         "tiers": [
-            [
-                "15 seconds",
-                "120 seconds"
-            ],
-            [
-                "20 seconds",
-                "120 seconds"
-            ],
-            [
-                "25 seconds",
-                "120 seconds"
-            ]
+            ["15 seconds", "120 seconds"],
+            ["20 seconds", "120 seconds"],
+            ["25 seconds", "120 seconds"]
         ]
     },
     {
         "id": 34,
         "index": "TERRITORIAL_IMPERATIVE",
         "name": "Territorial Imperative",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "HUNTRESS",
         "description": "Unlocks potential in one's Aura reading ability. Survivors' Auras are revealed to you for %s when they enter the and you are more than %s away from the Basement entrance.\nTerritorial Imperative can only be triggered once every %s.",
         "flavor": "We're not safe anywhere...",
         "image": "TerritorialImperative",
         "tiers": [
-            [
-                "3 seconds",
-                "32 meters",
-                "60 seconds"
-            ],
-            [
-                "3 seconds",
-                "32 meters",
-                "45 seconds"
-            ],
-            [
-                "3 seconds",
-                "32 meters",
-                "30 seconds"
-            ]
+            ["3 seconds", "32 meters", "60 seconds"],
+            ["3 seconds", "32 meters", "45 seconds"],
+            ["3 seconds", "32 meters", "30 seconds"]
         ]
     },
     {
         "id": 35,
         "index": "HEX_HUNTRESS_LULLABY",
         "name": "\"Hex\": Huntress Lullaby",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "HUNTRESS",
         "description": "A Hex rooting its power in despair. Your hunt is an irresistible song of dread which muddles your prey’s attention. Survivors receive a %s regression penalty when missing any Skill Check.\n\nEach time a Survivor is hooked, Huntress Lullaby grows in power: %b1 to 4 Tokens%/b: Time between the Skill Check warning sound and the Skill Check becomes shorter.\n%b5 Tokens%/b: No Skill Check warning.\nThe Hex effects persist as long as the related Hex Totem Icon is standing.",
         "flavor": "That song, it drives me crazy!",
         "image": "HuntressLullaby",
-        "tiers": [
-            [
-                "2%"
-            ],
-            [
-                "4%"
-            ],
-            [
-                "6%"
-            ]
-        ]
+        "tiers": [["2%"], ["4%"], ["6%"]]
     },
     {
         "id": 36,
         "index": "KNOCK_OUT",
         "name": "Knock Out",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "CANNIBAL",
         "description": "The trauma caused by your brutal attacks makes crying for help painfully difficult. Dying Survivors' Auras are not revealed to other Survivors when they are standing outside of %s of range.",
         "flavor": "Oh, that gun's no good. The old way... with a sledge! You see, that way's better. They die better that way.",
         "image": "knockOut",
-        "tiers": [
-            [
-                "32 meters"
-            ],
-            [
-                "24 meters"
-            ],
-            [
-                "16 meters"
-            ]
-        ]
+        "tiers": [["32 meters"], ["24 meters"], ["16 meters"]]
     },
     {
         "id": 37,
         "index": "BARBECUE_AND_CHILI",
         "name": "Barbecue & Chili",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "CANNIBAL",
         "description": "A deep bond with The Entity unlocks potential in one's Aura reading ability. After hooking a Survivor, all other Survivors' Auras are revealed to you for %s when they are further than %s from the Hook.\nEach time a Survivor is hooked for the first time, gain a %s stackable Bonus to all Bloodpoint gains.",
         "flavor": "I just can't take no pleasure in killing. There's just some things you gotta do. Don't mean you have to like it.",
         "image": "BBQAndChili",
         "tiers": [
-            [
-                "4 seconds",
-                "52 meters",
-                "15%"
-            ],
-            [
-                "4 seconds",
-                "46 meters",
-                "20%"
-            ],
-            [
-                "4 seconds",
-                "40 meters",
-                "25%"
-            ]
+            ["4 seconds", "52 meters", "15%"],
+            ["4 seconds", "46 meters", "20%"],
+            ["4 seconds", "40 meters", "25%"]
         ]
     },
     {
         "id": 38,
         "index": "FRANKLINS_DEMISE",
         "name": "Franklin's Demise",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "CANNIBAL",
         "description": "Your vicious attacks make the Survivors drop their Item on impact. The lost item is damaged in the fall, losing %s of its base amount of Charges.",
         "flavor": "Sally, I hear something. Stop! Stop!",
         "image": "franklinsLoss",
-        "tiers": [
-            [
-                "0%"
-            ],
-            [
-                "5%"
-            ],
-            [
-                "10%"
-            ]
-        ]
+        "tiers": [["0%"], ["5%"], ["10%"]]
     },
     {
         "id": 39,
         "index": "FIRE_UP",
         "name": "Fire Up",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "NIGHTMARE",
         "description": "The increased pressure of losing your preys fills you with anger and gives you unsuspected motivation. Each time the Survivors complete repairs on a Generator, Fire Up grows in power and grants speed bonus to pick up, drop, Pallet break, Generator break and vaults.\n2 Tokens: Receive %s action speed bonus.\n3 Tokens: Receive %s action speed bonus.\n4 Tokens: Receive %s action speed bonus.",
         "image": "fireUp",
         "tiers": [
-            [
-                "6%",
-                "8%",
-                "10%"
-            ],
-            [
-                "8%",
-                "10%",
-                "12%"
-            ],
-            [
-                "10%",
-                "12%",
-                "14%"
-            ]
+            ["6%", "8%", "10%"],
+            ["8%", "10%", "12%"],
+            ["10%", "12%", "14%"]
         ]
     },
     {
         "id": 40,
         "index": "REMEMBER_ME",
         "name": "Remember Me",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "NIGHTMARE",
         "description": "You become %bobsessed%/b with one Survivor. Each time you hit your Obsession, you increase the opening time of the Exit Gates by %s up to a maximum of %s.\nThe Obsession is not affected by Remember Me.\nOnly one Obsession per match.",
         "image": "rememberMe",
         "tiers": [
-            [
-                "5 seconds",
-                "20 additional seconds"
-            ],
-            [
-                "5 seconds",
-                "25 additional seconds"
-            ],
-            [
-                "5 seconds",
-                "30 additional seconds"
-            ]
+            ["5 seconds", "20 additional seconds"],
+            ["5 seconds", "25 additional seconds"],
+            ["5 seconds", "30 additional seconds"]
         ]
     },
     {
         "id": 41,
         "index": "BLOOD_WARDEN",
         "name": "Blood Warden",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "NIGHTMARE",
         "description": "Once per match, once at least one Exit Gate is opened, hooking a Survivor summons The Entity to block the exits for all Survivors for %s. While Blood Warden is active, Auras of Survivors located within the Exit Gates are revealed to you.",
         "image": "bloodWarden",
-        "tiers": [
-            [
-                "30 seconds"
-            ],
-            [
-                "40 seconds"
-            ],
-            [
-                "60 seconds"
-            ]
-        ]
+        "tiers": [["30 seconds"], ["40 seconds"], ["60 seconds"]]
     },
     {
         "id": 42,
         "index": "HANGMANS_TRICK",
         "name": "Hangman's Trick",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "PIG",
         "description": "Your ingenious modifications to Hooks prevent tampering and permanent damage. Hooks destroyed by sabotage or sacrifices repair automatically after %s.\nGain a notification when someone starts sabotaging the Hooks. Sabotaged Bear Traps automatic repair timer is reduced by %s.",
         "flavor": "\"No excuses, no equivocations... No crying.\" - Amanda Young",
         "image": "hangmansTrick",
         "tiers": [
-            [
-                "30 seconds",
-                "60 seconds"
-            ],
-            [
-                "20 seconds",
-                "60 seconds"
-            ],
-            [
-                "10 seconds",
-                "60 seconds"
-            ]
+            ["30 seconds", "60 seconds"],
+            ["20 seconds", "60 seconds"],
+            ["10 seconds", "60 seconds"]
         ]
     },
     {
         "id": 43,
         "index": "SURVEILLANCE",
         "name": "Surveillance",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "PIG",
         "description": "Unlocks potential in one's Aura reading ability. The last %s Aura(s) are indicated in white to you for %s.",
         "flavor": "\"Are you gonna behave?\" — Amanda Young",
         "image": "surveillance",
         "tiers": [
-            [
-                "1 regressing Generator's",
-                "16 seconds"
-            ],
-            [
-                "2 regressing Generator's",
-                "16 seconds"
-            ],
-            [
-                "3 regressing Generator's",
-                "16 seconds"
-            ]
+            ["1 regressing Generator's", "16 seconds"],
+            ["2 regressing Generator's", "16 seconds"],
+            ["3 regressing Generator's", "16 seconds"]
         ]
     },
     {
         "id": 44,
         "index": "MAKE_YOUR_CHOICE",
         "name": "Make Your Choice",
-        "rarity": [
-            "RARE",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "RARE", "VERY_RARE"],
         "owner": "PIG",
         "description": "When a Survivor rescues another from a Hook at least %s away from you, Make Your Choice triggers and applies the Exposed Status Effect on the rescuer for %s.\nMake Your Choice has a cooldown of %s",
         "flavor": "\"You'd be surprised what tools can save a life.\" — Amanda Young",
         "image": "makeYourChoice",
         "tiers": [
-            [
-                "48 meters",
-                "60 seconds",
-                "60 seconds"
-            ],
-            [
-                "40 meters",
-                "60 seconds",
-                "60 seconds"
-            ],
-            [
-                "32 meters",
-                "60 seconds",
-                "60 seconds"
-            ]
+            ["48 meters", "60 seconds", "60 seconds"],
+            ["40 meters", "60 seconds", "60 seconds"],
+            ["32 meters", "60 seconds", "60 seconds"]
         ]
     },
     {
         "id": 45,
         "index": "IRON_GRASP",
         "name": "Iron Grasp",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "ALL",
         "description": "Your powerful hold on the Survivors causes escapes to be nearly impossible. Effects of survivor struggling are reduced by %s. Time to struggle out of your grasp is increased by %s.",
         "image": "ironGrasp",
-        "tiers": [
-            [
-                "25%",
-                "4%"
-            ],
-            [
-                "50%",
-                "8%"
-            ],
-            [
-                "75%",
-                "12%"
-            ]
-        ]
+        "tiers": [["25%", "4%"], ["50%", "8%"], ["75%", "12%"]]
     },
     {
         "id": 46,
         "index": "COULROPHOBIA",
         "name": "Coulrophobia",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "CLOWN",
         "description": "Your presence alone instills great fear. Survivors within your terror radius have a %s penalty to healing progression speed.",
         "image": "coulrophobia",
-        "tiers": [
-            [
-                "30%"
-            ],
-            [
-                "40%"
-            ],
-            [
-                "50%"
-            ]
-        ]
+        "tiers": [["30%"], ["40%"], ["50%"]]
     },
     {
         "id": 47,
         "index": "POP_GOES_THE_WEASEL",
         "name": "Pop Goes The Weasel",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "CLOWN",
         "description": "A deep bond with The Entity unlocks great strength. After Hooking a Survivor, the next Generator you break is instantly regressed by %s of its total progression. Normal generator regression applies after the damage is done. %iPop Goes the Weasel%/i is active for %s after the Survivor is hooked.",
         "image": "popGoesTheWeasel",
         "tiers": [
-            [
-                "15%",
-                "30 seconds"
-            ],
-            [
-                "20%",
-                "30 seconds"
-            ],
-            [
-                "25%",
-                "30 seconds"
-            ]
+            ["15%", "30 seconds"],
+            ["20%", "30 seconds"],
+            ["25%", "30 seconds"]
         ]
     },
     {
         "id": 48,
         "index": "BAMBOOZLE",
         "name": "Bamboozle",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "RARE"],
         "owner": "CLOWN",
         "description": "Your Vault speed is %s faster.\nPerforming a vault action calls upon The Entity to block that vault location for %s.\nOnly 1 vault location may be blocked in this way at any time. The vault location is blocked only for Survivors.",
         "image": "bamboozle",
         "tiers": [
-            [
-                "5%",
-                "8 seconds"
-            ],
-            [
-                "10%",
-                "12 seconds"
-            ],
-            [
-                "15%",
-                "16 seconds"
-            ]
+            ["5%", "8 seconds"],
+            ["10%", "12 seconds"],
+            ["15%", "16 seconds"]
         ]
+    },
+    {
+        "id": 49,
+        "index": "SPIRIT_FURY",
+        "name": "Spirit Fury",
+        "rarity": ["", "", ""],
+        "owner": "SPIRIT",
+        "description": "Each Pallet you break magnifies the wrath of The Entity.\nAfter breaking %s Pallets, the next time you are stunned by a Pallet, The Entity will instantly break it. You still suffer from the stun effect penalty.",
+        "flavor": "\"Fury is her blood.\"",
+        "image": "spiritFury",
+        "tiers": [["4"], ["3"], ["2"]]
+    },
+    {
+        "id": 50,
+        "index": "HEX_HAUNTED_GROUND",
+        "name": "Hex: Haunted Ground",
+        "rarity": ["", "", ""],
+        "owner": "SPIRIT",
+        "description": "Two trapped Hex Totems will spawn in the Trial.\nWhen one of the two trapped Hex Totems is cleansed by a Survivor, all Survivors suffer from the Exposed Status Effect for %s seconds.\nThe remaining trapped Hex Totem immediately becomes a Dull Totem.",
+        "flavor": "\"Her home became profane.\"",
+        "image": "hexHauntedGround",
+        "tiers": [["40"], ["50"], ["60"]]
+    },
+    {
+        "id": 51,
+        "index": "RANCOR",
+        "name": "Rancor",
+        "rarity": ["", "", ""],
+        "owner": "SPIRIT",
+        "description": "You become obsessed with one Survivor.\nEach time a Generator is completed, the Obsession sees your Aura for %s seconds.\nEach time a Generator is completed, all Survivors' locations are revealed to you for 3 seconds.\nOnce all Generators are completed, the Obsession has the Exposed Status Effect and the Killer can kill the Obsession.\nOnly one Obsession per trial.",
+        "image": "rancor",
+        "tiers": [["5"], ["4"], ["3"]]
     }
 ]

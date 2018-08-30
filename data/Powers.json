@@ -173,5 +173,14 @@
             "Press and hold the %iActive Ability%/i to replenish your bottles of The Afterpiece Tonic."
         ],
         "image": "gasBomb"
+    },
+    {
+        "id": 13,
+        "index": "YAMAOKAS_HAUNTING",
+        "name": "Yamaoka's Haunting",
+        "owner": "SPIRIT",
+        "description": "",
+        "abilities": [""],
+        "image": ""
     }
 ]
