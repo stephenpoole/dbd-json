@@ -1,24 +1,24 @@
 {
-  "name": "dbd-json",
-  "version": "2.1.0",
-  "description": "A complete Dead by Daylight dataset in JSON.",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha --reporter min --require babel-register \"./test/*.js\""
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/stephenpoole/dbd-json.git"
-  },
-  "author": "Stephen Poole",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/stephenpoole/dbd-json/issues"
-  },
-  "homepage": "https://github.com/stephenpoole/dbd-json#readme",
-  "devDependencies": {
-    "babel-preset-es2015": "^6.24.1",
-    "babel-register": "^6.26.0",
-    "mocha": "^5.2.0"
-  }
+    "name": "dbd-json",
+    "version": "2.3.0",
+    "description": "A complete Dead by Daylight dataset in JSON.",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha --reporter min --require babel-register \"./test/*.js\""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/stephenpoole/dbd-json.git"
+    },
+    "author": "Stephen Poole",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/stephenpoole/dbd-json/issues"
+    },
+    "homepage": "https://github.com/stephenpoole/dbd-json#readme",
+    "devDependencies": {
+        "babel-preset-es2015": "^6.24.1",
+        "babel-register": "^6.26.0",
+        "mocha": "^5.2.0"
+    }
 }

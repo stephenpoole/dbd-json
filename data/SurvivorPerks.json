@@ -3,545 +3,257 @@
         "id": 100,
         "index": "DARK_SENSE",
         "name": "Dark Sense",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "ALL",
         "description": "Unlocks potential in one's aura reading ability. Each time a generator is completed, the killer's aura is revealed to you for %s.\nWhen the last generator is powered, the killer's aura is revealed to you for %s.",
         "flavor": "\"Take it from an old-timer: Slow down, don't rush and try not to worry so much! The best way to beat him is to know how he thinks.\" - Lost Tapes, Murf",
         "image": "darkSense",
         "tiers": [
-            [
-                "5 seconds",
-                "5 seconds"
-            ],
-            [
-                "5 seconds",
-                "7 seconds"
-            ],
-            [
-                "5 seconds",
-                "10 seconds"
-            ]
+            ["5 seconds", "5 seconds"],
+            ["5 seconds", "7 seconds"],
+            ["5 seconds", "10 seconds"]
         ]
     },
     {
         "id": 101,
         "index": "DEJA_VU",
         "name": "Déjà Vu",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "ALL",
         "description": "Unlocked potential in one's aura reading ability. Paranoia paired with you horro of failure helps prepare you from repeating the same mistakes.\nThe auras of %s generators, which are in close proximity to one another, are revealed to you for %s.\nIf you are holding a map that can track generators, generators revealed by %iDeja Vu%/i are added to the map.",
         "image": "dejaVu",
-        "tiers": [
-            [
-                "3",
-                "30 seconds"
-            ],
-            [
-                "3",
-                "45 seconds"
-            ],
-            [
-                "3",
-                "60 seconds"
-            ]
-        ]
+        "tiers": [["3", "30 seconds"], ["3", "45 seconds"], ["3", "60 seconds"]]
     },
     {
         "id": 102,
         "index": "HOPE",
         "name": "Hope",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "ALL",
         "description": "The growing odds of a successful escape fill you with hope and give you wings. Your movement speed is increased by %s as soon as the Exit Gates are powered.\nThis Perk is only active for %s after the Exit Gates have been powered.",
         "image": "hope",
         "tiers": [
-            [
-                "5%",
-                "120 seconds"
-            ],
-            [
-                "6%",
-                "120 seconds"
-            ],
-            [
-                "7%",
-                "120 seconds"
-            ]
+            ["5%", "120 seconds"],
+            ["6%", "120 seconds"],
+            ["7%", "120 seconds"]
         ]
     },
     {
         "id": 103,
         "index": "KINDRED",
         "name": "Kindred",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "ALL",
         "description": "Unlocks potential in one's Aura reading ability. While you're on the Hook, %s Survivors' auras are revealed to all other Survivors. If the Killer is within an %s range, its aura is revealed to all other Survivors. Kindred trumps any of the Killer's stealth abilities.",
         "flavor": "\"Be kind to one another. We're all in this together.\" — Sujan, The Lost Tapes",
         "image": "kindred",
         "tiers": [
-            [
-                "1 random",
-                "8 meter"
-            ],
-            [
-                "All",
-                "8 meter"
-            ],
-            [
-                "All",
-                "8 meter"
-            ]
+            ["1 random", "8 meter"],
+            ["All", "8 meter"],
+            ["All", "8 meter"]
         ]
     },
     {
         "id": 104,
         "index": "LIGHTWEIGHT",
         "name": "Lightweight",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "ALL",
         "description": "Your running is light and soft, making your tracks harder to follow. Footstep marks stay visible %s less than normal.",
         "flavor": "\"Take it slow, he knows where you've been... just like I've always said: live slow and die old\" — Dylan, The Lost Tapes",
         "image": "lightweight",
-        "tiers": [
-            [
-                "1 seconds"
-            ],
-            [
-                "2 seconds"
-            ],
-            [
-                "3 seconds"
-            ]
-        ]
+        "tiers": [["1 seconds"], ["2 seconds"], ["3 seconds"]]
     },
     {
         "id": 105,
         "index": "NO_ONE_LEFT_BEHIND",
         "name": "No One Left Behind",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "ALL",
         "description": "It is inconceivable to leave someone behind. Once the Exit Gates are powered, gain %s more Bloodpoints for actions in the Altruism category and perform them %s quicker.",
         "flavor": "\"... yeah, no shit. But I believe we can outsmart and overthrow him if we work together. Don't be predictable and selfish!\" — Clyde, The Lost Tapes",
         "image": "noOneLeftBehind",
-        "tiers": [
-            [
-                "50%",
-                "4%"
-            ],
-            [
-                "75%",
-                "8%"
-            ],
-            [
-                "100%",
-                "12%"
-            ]
-        ]
+        "tiers": [["50%", "4%"], ["75%", "8%"], ["100%", "12%"]]
     },
     {
         "id": 106,
         "index": "PLUNDERERS_INSTINCT",
         "name": "Plunderer's Instinct",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "ALL",
         "description": "Unlocks potential in one's Aura reading ability. Chests' Auras are revealed to you when standing within %s. Grants a %s better chance at finding an Item of higher rarity from Chests.",
         "flavor": "\"The pioneers used to loot these babies for hours.\" — Aizeyu, The Lost Tapes",
         "image": "plunderersInstinct",
         "tiers": [
-            [
-                "16 meters",
-                "slightly"
-            ],
-            [
-                "24 meters",
-                "moderately"
-            ],
-            [
-                "32 meters",
-                "considerably"
-            ]
+            ["16 meters", "slightly"],
+            ["24 meters", "moderately"],
+            ["32 meters", "considerably"]
         ]
     },
     {
         "id": 107,
         "index": "PREMONITION",
         "name": "Premonition",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "ALL",
         "description": "You have the undeniable capability to sense danger. Get an auditory warning when looking in the direction of the Killer in a %s cone within a range of %s. Premonition has a cooldown of %s each time it activates. Premonition trumps any of the Killer's stealth abilities.",
         "flavor": "\"I have a bad feeling about this!\"",
         "image": "premonition",
         "tiers": [
-            [
-                "45 degree",
-                "12 meters",
-                "60 seconds"
-            ],
-            [
-                "45 degree",
-                "24 meters",
-                "45 seconds"
-            ],
-            [
-                "45 degree",
-                "36 meters",
-                "30 seconds"
-            ]
+            ["45 degree", "12 meters", "60 seconds"],
+            ["45 degree", "24 meters", "45 seconds"],
+            ["45 degree", "36 meters", "30 seconds"]
         ]
     },
     {
         "id": 108,
         "index": "RESILIENCE",
         "name": "Resilience",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "ALL",
         "description": "You are motivated in dire situations. Grants %s additional speed when interacting with Props while you are Injured.",
         "flavor": "\"Focus, even in these desperate times.\"",
         "image": "resilience",
-        "tiers": [
-            [
-                "3%"
-            ],
-            [
-                "6%"
-            ],
-            [
-                "9%"
-            ]
-        ]
+        "tiers": [["3%"], ["6%"], ["9%"]]
     },
     {
         "id": 109,
         "index": "SLIPPERY_MEAT",
         "name": "Slippery Meat",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "ALL",
         "description": "You have developed an efficient way to get out of Bear Traps and Hooks. Grants up to %s extra escape attempts on the hook. The odds of freeing yourself from Bear Traps are increased by %s.",
         "image": "slipperyMeat",
-        "tiers": [
-            [
-                "1%",
-                "15%"
-            ],
-            [
-                "2%",
-                "20%"
-            ],
-            [
-                "3%",
-                "25%"
-            ]
-        ]
+        "tiers": [["1%", "15%"], ["2%", "20%"], ["3%", "25%"]]
     },
     {
         "id": 110,
         "index": "SMALL_GAME",
         "name": "Small Game",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "ALL",
         "description": "You have the undeniable capability to sense danger. Get an auditory warning when looking in the direction of Killer Traps and Totems in a %s cone within a range of %s. Small Game has a cooldown of %s each time it activates.",
         "flavor": "\"Nope.\" — Andy, The Lost Tapes",
         "image": "smallGame",
         "tiers": [
-            [
-                "45-degree",
-                "8 meters",
-                "15 seconds"
-            ],
-            [
-                "45-degree",
-                "10 meters",
-                "12 seconds"
-            ],
-            [
-                "45-degree",
-                "12 meters",
-                "10 seconds"
-            ]
+            ["45-degree", "8 meters", "15 seconds"],
+            ["45-degree", "10 meters", "12 seconds"],
+            ["45-degree", "12 meters", "10 seconds"]
         ]
     },
     {
         "id": 111,
         "index": "SPINE_CHILL",
         "name": "Spine Chill",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "ALL",
         "description": "An unnatural tingle warns you of impending doom. Get notified when the Killer is looking directly in your direction and standing within %s of range. When Spine Chill is active, Skill Check trigger odds are increased by %s with success zones reduced by %s and your Repair, Heal and Sabotage speeds are increased by %s.",
         "flavor": "\"There is a voice that doesn't use words. Listen..\" — Sassy, The Lost Tapes",
         "image": "spineChill",
         "tiers": [
-            [
-                "12 meters",
-                "10%",
-                "10%",
-                "2%"
-            ],
-            [
-                "24 meters",
-                "10%",
-                "10%",
-                "4%"
-            ],
-            [
-                "36 meters",
-                "10%",
-                "10%",
-                "6%"
-            ]
+            ["12 meters", "10%", "10%", "2%"],
+            ["24 meters", "10%", "10%", "4%"],
+            ["36 meters", "10%", "10%", "6%"]
         ]
     },
     {
         "id": 112,
         "index": "THIS_IS_NOT_HAPPENING",
         "name": "This Is Not Happening",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "ALL",
         "description": "You perform at your best when you are under extreme stress. Great Skill Check success zones when repairing, healing and sabotaging get %s bigger when you are injured.",
         "image": "thisIsNotHappening",
-        "tiers": [
-            [
-                "10%"
-            ],
-            [
-                "20%"
-            ],
-            [
-                "30%"
-            ]
-        ]
+        "tiers": [["10%"], ["20%"], ["30%"]]
     },
     {
         "id": 113,
         "index": "WELL_MAKE_IT",
         "name": "We'll Make It",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "ALL",
         "description": "Helping others heightens your morale. For each Survivor you rescue from a Hook, gain an additional %s speed increase to healing up others to a maximum of 100% for %s.",
         "image": "wellMakeIt",
         "tiers": [
-            [
-                "25%",
-                "30 seconds"
-            ],
-            [
-                "50%",
-                "60 seconds"
-            ],
-            [
-                "100%",
-                "90 seconds"
-            ]
+            ["25%", "30 seconds"],
+            ["50%", "60 seconds"],
+            ["100%", "90 seconds"]
         ]
     },
     {
         "id": 114,
         "index": "BOND",
         "name": "Bond",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "DWIGHT_FAIRFIELD",
-        "description": "Unlocks potential in one's aura reading ability. Allies' Auras are revealed to you when they are within a %s.",
+        "description": "Unlocks potential in one's aura reading ability. Allies' Auras are revealed to you when they are within a %s range.",
         "flavor": "We have to work as a team, I need you to survive so that I can survive!",
         "image": "bond",
-        "tiers": [
-            [
-                "12 meters"
-            ],
-            [
-                "24 meters"
-            ],
-            [
-                "36 meters"
-            ]
-        ]
+        "tiers": [["20 meter"], ["28 meter"], ["36 meter"]]
     },
     {
         "id": 115,
         "index": "PROVE_THYSELF",
         "name": "Prove Thyself",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "DWIGHT_FAIRFIELD",
         "description": "Receive an incremental speed bonus to repair, healing and sabotage actions when other Survivors are within an %s range.\n1 nearby survivor grants %s increased speed.\n2 nearby survivor grants %s increased speed.3 nearby survivor grants %s increased speed.",
         "flavor": "I'll show you what I can do!",
         "image": "proveThyself",
         "tiers": [
-            [
-                "8 meter",
-                "1%",
-                "2%",
-                "3%"
-            ],
-            [
-                "8 meter",
-                "2%",
-                "4%",
-                "6%"
-            ],
-            [
-                "8 meter",
-                "3%",
-                "6%",
-                "9%"
-            ]
+            ["8 meter", "1%", "2%", "3%"],
+            ["8 meter", "2%", "4%", "6%"],
+            ["8 meter", "3%", "6%", "9%"]
         ]
     },
     {
         "id": 116,
         "index": "LEADER",
         "name": "Leader",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "DWIGHT_FAIRFIELD",
-        "description": "You're able to organize a team to cooperate more efficiently. Increases the other Survivors' Repair, Healing and sabotaging, cleansing, opening Exit Gates, and search speeds by %s when they are within an %s range from you.",
+        "description": "You're able to organize a team to cooperate more efficiently. Increases the other Survivors' Repair, Healing and sabotaging, cleansing, opening Exit Gates, and search speeds by %s when they are within an %s range from you. Once out of range, this effect persists for %s.",
         "flavor": "I'll show you what I can do!",
         "image": "leader",
         "tiers": [
-            [
-                "3%",
-                "8 meter"
-            ],
-            [
-                "6%",
-                "8 meter"
-            ],
-            [
-                "9%",
-                "8 meter"
-            ]
+            ["3%", "8 meter", "15 seconds"],
+            ["6%", "8 meter", "15 seconds"],
+            ["9%", "8 meter", "15 seconds"]
         ]
     },
     {
         "id": 117,
         "index": "QUICK_AND_QUIET",
         "name": "Quick & Quiet",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "MEG_THOMAS",
         "description": "You do not make as much noise as others when quickly vaulting over obstacles or hiding in Lockers. The vault and hide actions' noise detection range is reduced by %s. This effect can only be triggered every %s.",
         "image": "quickAndQuiet",
         "tiers": [
-            [
-                "100%",
-                "30 seconds"
-            ],
-            [
-                "100%",
-                "25 seconds"
-            ],
-            [
-                "100%",
-                "20 seconds"
-            ]
+            ["100%", "30 seconds"],
+            ["100%", "25 seconds"],
+            ["100%", "20 seconds"]
         ]
     },
     {
         "id": 118,
         "index": "SPRINT_BURST",
         "name": "Sprint Burst",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "MEG_THOMAS",
         "description": "When starting to run, break into a sprint at %s your normal running speed for a maximum of %s.\nCauses Exhaustion for %s.",
         "image": "sprintBurst",
         "tiers": [
-            [
-                "150%",
-                "3 seconds",
-                "60 seconds"
-            ],
-            [
-                "150%",
-                "3 seconds",
-                "50 seconds"
-            ],
-            [
-                "150%",
-                "3 seconds",
-                "40 seconds"
-            ]
+            ["150%", "3 seconds", "60 seconds"],
+            ["150%", "3 seconds", "50 seconds"],
+            ["150%", "3 seconds", "40 seconds"]
         ]
     },
     {
         "id": 119,
         "index": "ADRENALINE",
         "name": "Adrenaline",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "MEG_THOMAS",
         "description": "You are fuelled by unexpected energy when on the verge of escape. %s and sprint at %s your normal running speed for %s when the Exit Gates are powered.\nAdrenaline is on hold if you are disabled at the moment it should take effect and will activate when freed.\nAdrenaline will wake you up if you are asleep when it triggers.\nAdrenaline ignores Exhaustion.\nCauses Exhaustion for %s.",
         "image": "adrenaline",
@@ -570,901 +282,440 @@
         "id": 120,
         "index": "EMPATHY",
         "name": "Empathy",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "CLAUDETTE_MOREL",
         "description": "Unlocks potential in one's Aura reading ability. Dying or injured allies' Auras are revealed to you when within %s. Empathy does not reveal Auras of allies when they are in the Killer's direct contact.",
         "image": "empathy",
-        "tiers": [
-            [
-                "32 meters"
-            ],
-            [
-                "64 meters"
-            ],
-            [
-                "∞ meters"
-            ]
-        ]
+        "tiers": [["32 meters"], ["64 meters"], ["∞ meters"]]
     },
     {
         "id": 121,
         "index": "BOTANY_KNOWLEDGE",
         "name": "Botany Knowledge",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "CLAUDETTE_MOREL",
-        "description": "You transform plants found around The Campfire into tinctures that slow down bleeding. Healing speed is increased by %s and the efficiency of healing items is increased by %s.",
+        "description": "You transform plants found around The Campfire into tinctures that slow down bleeding. %bHealing speed%/b and %bhealing item efficiency%/b is increased by %s.",
         "flavor": "\"Basic Botany knowledge could save your life someday.\" — Claudette Morel",
         "image": "botanyKnowledge",
-        "tiers": [
-            [
-                "10%",
-                "10%"
-            ],
-            [
-                "15%",
-                "15%"
-            ],
-            [
-                "20%",
-                "20%"
-            ]
-        ]
+        "tiers": [["14%"], ["23%"], ["33%"]]
     },
     {
         "id": 122,
         "index": "SELF_CARE",
         "name": "Self Care",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "CLAUDETTE_MOREL",
         "description": "Unlocks the ability to heal yourself without a healing item at %s the normal healing speed. Increases the efficiency of healing item self-heal by %s.",
         "image": "selfCare",
-        "tiers": [
-            [
-                "50%",
-                "10%"
-            ],
-            [
-                "50%",
-                "15%"
-            ],
-            [
-                "50%",
-                "20%"
-            ]
-        ]
+        "tiers": [["50%", "10%"], ["50%", "15%"], ["50%", "20%"]]
     },
     {
         "id": 123,
         "index": "IRON_WILL",
         "name": "Iron Will",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "JAKE_PARK",
-        "description": "You're able to concentrate and enter a meditative-like state to numb some pain. Grunts of pain caused by injuries are reduced by %s %s.",
+        "description": "You're able to concentrate and enter a meditative-like state to numb some pain. Grunts of pain caused by injuries are reduced by %s.",
         "image": "ironWill",
-        "tiers": [
-            [
-                "50%",
-                "while staying still"
-            ],
-            [
-                "100%",
-                "while staying still"
-            ],
-            [
-                "100%",
-                "at any time"
-            ]
-        ]
+        "tiers": [["50%"], ["75%"], ["100%"]]
     },
     {
         "id": 124,
         "index": "CALM_SPIRIT",
         "name": "Calm Spirit",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "JAKE_PARK",
         "description": "Animals seem to trust you as they often stay calm in your presence. Reduces chances of alerting woodland creatures by %s.\nYour calm spirit can overcome the urge to scream due to madness, intoxication or injury.",
         "image": "calmSpirit",
-        "tiers": [
-            [
-                "80%"
-            ],
-            [
-                "90%"
-            ],
-            [
-                "100%"
-            ]
-        ]
+        "tiers": [["80%"], ["90%"], ["100%"]]
     },
     {
         "id": 125,
         "index": "SABOTEUR",
         "name": "Saboteur",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "JAKE_PARK",
-        "description": "Unlocks the ability to sabotage without a Toolbox at %s the normal sabotage speed. Skill Checks triggered in this situation have success zones reduced by %s. Increases efficiency of Toolbox sabotage by %s.",
+        "description": "Unlocks the ability to sabotage without a Toolbox at %s the normal sabotage speed. Hooks and traps you sabotage stay broken for an extra %s seconds.",
         "image": "saboteur",
-        "tiers": [
-            [
-                "30%",
-                "0%",
-                "50%"
-            ],
-            [
-                "40%",
-                "10%",
-                "75%"
-            ],
-            [
-                "50%",
-                "20%",
-                "100%"
-            ]
-        ]
+        "tiers": [["30%", "10"], ["40%", "20"], ["50%", "30"]]
     },
     {
         "id": 126,
         "index": "BALANCED_LANDING",
         "name": "Balanced Landing",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "NEA_KARLSSON",
         "description": "Your agility is incomparable. Cat-like reflexes reduce your stagger duration from falls by %s.\nUpon landing start sprinting at %s your normal running speed for a maximum of %s if not exhausted.\nCauses %bExhaustion%/b for %s.",
         "flavor": "\"I've jumped from higher places.\" -Nea",
         "image": "balancedLanding",
         "tiers": [
-            [
-                "50%",
-                "150%",
-                "3 seconds",
-                "40 seconds"
-            ],
-            [
-                "75%",
-                "150%",
-                "3 seconds",
-                "40 seconds"
-            ],
-            [
-                "75%",
-                "150%",
-                "3 seconds",
-                "40 seconds"
-            ]
+            ["50%", "150%", "3 seconds", "40 seconds"],
+            ["75%", "150%", "3 seconds", "40 seconds"],
+            ["75%", "150%", "3 seconds", "40 seconds"]
         ]
     },
     {
         "id": 127,
         "index": "URBAN_EVASION",
         "name": "Urban Evasion",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "NEA_KARLSSON",
         "description": "Your movement speed while crouching is increased by %s.",
         "flavor": "\"The paint is still fresh but I'm long gone.\" — Nea Karlsson",
         "image": "urbanEvasion",
-        "tiers": [
-            [
-                "90%"
-            ],
-            [
-                "95%"
-            ],
-            [
-                "100%"
-            ]
-        ]
+        "tiers": [["90%"], ["95%"], ["100%"]]
     },
     {
         "id": 128,
         "index": "STREETWISE",
         "name": "Streetwise",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "NEA_KARLSSON",
-        "description": "Long nights out taught you to do a lot with what you've got. Reduce consumption rate of charge by %s for you and allies within an %s range.",
+        "description": "Long nights out taught you to do a lot with what you've got. Reduce consumption rate of charge by %s for you and allies within an %s range. Once out of range, this effect persists for %s.",
         "flavor": "\"You're doing it wrong! Let me show you how it's done.\" — Nea Karlsson",
         "image": "streetwise",
         "tiers": [
-            [
-                "10%",
-                "8 metre"
-            ],
-            [
-                "12%",
-                "8 metre"
-            ],
-            [
-                "15%",
-                "8 metre"
-            ]
+            ["10%", "8 metre", "15 seconds"],
+            ["12%", "8 metre", "15 seconds"],
+            ["15%", "8 metre", "15 seconds"]
         ]
     },
     {
         "id": 129,
         "index": "LEFT_BEHIND",
         "name": "Left Behind",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "WILLIAM_OVERBECK",
         "description": "You'll get the job done... No matter the cost. If you are the last person remaining in the trial, for each Generator that needs to be repaired, gain a %s bonus to Repair speed.",
         "flavor": "\"I'm not horseshittin' around. I'm doing this alone!\" — Bill Overbeck",
         "image": "leftBehind",
-        "tiers": [
-            [
-                "19%"
-            ],
-            [
-                "22%"
-            ],
-            [
-                "25%"
-            ]
-        ]
+        "tiers": [["19%"], ["22%"], ["25%"]]
     },
     {
         "id": 130,
         "index": "BORROWED_TIME",
         "name": "Borrowed Time",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "WILLIAM_OVERBECK",
         "description": "You are fueled by an unexpected energy when saving an ally from a hook within the Killer's terror radius.\nAfter unhooking a survivor within the killer's terror radius, for %s, any damage taken that would put the unhooked Survivor into the dying state will instad trigger a %s blood out timer.\nIf the unhooked player takes any damage during the bleed out timer or if the bleed out timer ends the unhooked survivor will be put into the dying state.",
         "flavor": "\"Probably stings like hell, but it ain't gonna kill ya. Up and at 'em soldier. Time to move!\" — Bill Overbeck",
         "image": "borrowedTime",
         "tiers": [
-            [
-                "15 seconds",
-                "15 seconds"
-            ],
-            [
-                "15 seconds",
-                "20 seconds"
-            ],
-            [
-                "15 seconds",
-                "25 seconds"
-            ]
+            ["15 seconds", "15 seconds"],
+            ["15 seconds", "20 seconds"],
+            ["15 seconds", "25 seconds"]
         ]
     },
     {
         "id": 131,
         "index": "UNBREAKABLE",
         "name": "Unbreakable",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "WILLIAM_OVERBECK",
         "description": "Past battles have taught you a thing or two about survival. Grants the ability to fully recover from the dying state %bonce per trial%/b. Increases dying recovery by %s.",
         "flavor": "\"Goddammit, I am seriously FUBAR!\" — Bill Overbeck",
         "image": "unbreakable",
-        "tiers": [
-            [
-                "15%"
-            ],
-            [
-                "20%"
-            ],
-            [
-                "25%"
-            ]
-        ]
+        "tiers": [["15%"], ["20%"], ["25%"]]
     },
     {
         "id": 132,
         "index": "WERE_GONNA_LIVE_FOREVER",
         "name": "We're Gonna Live Forever",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "DAVID_KING",
         "description": "Your few friends deserve the best protection. Each time you rescue or take a hit to protect a Survivor, gain %s stackable bonus to all Bloodpoint gains up to a maximum of %s.\nThe Bonus Bloodpoints are only awarded post-trial.",
         "flavor": "\"Come on then, let's 'ave it! I don't give a shit pal.\" — David King",
         "image": "WereGonnaLiveForever",
-        "tiers": [
-            [
-                "25%",
-                "50%"
-            ],
-            [
-                "25%",
-                "75%"
-            ],
-            [
-                "25%",
-                "100%"
-            ]
-        ]
+        "tiers": [["25%", "50%"], ["25%", "75%"], ["25%", "100%"]]
     },
     {
         "id": 133,
         "index": "DEAD_HARD",
         "name": "Dead Hard",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "DAVID_KING",
         "description": "You can take a beating. When injured, tap into your adrenaline bank and dash forward quickly to avoid damage.\nPress the %bactive ability%/b button while running to dash forward.\nDuring the dash, you avoid damage.\nCauses Exhaustion for %s.",
         "flavor": "\"We were walkin' through t'ginnel one night when a beer bottle flew past me, then another, and another. I thought to myself \"Gonna 'ave some fun 'ere lads, let's get stuck in!' \". It were a right dust up, I swear down!\" — David King",
         "image": "DeadHard",
-        "tiers": [
-            [
-                "60 seconds"
-            ],
-            [
-                "50 seconds"
-            ],
-            [
-                "40 seconds"
-            ]
-        ]
+        "tiers": [["60 seconds"], ["50 seconds"], ["40 seconds"]]
     },
     {
         "id": 134,
         "index": "NO_MITHER",
         "name": "No Mither",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "DAVID_KING",
         "description": "Go on kid, it's just a scratch. You start the trial injured and won't let anyone heal you beyond this state. Your thick blood coagulates practically instantly.\nYou cannot be healed to healthy.\nYou don't leave pools of blood.\nGrunts of pain caused by injuries are reduced by %s at any time.\nGrants the ability to fully recover from the dying state.",
         "flavor": "\"I lost it. Just lamped him one.. They went and banned me didn't they.. Went t'pub afterwards, had a few pints and moved on to the next chapter. I couldn't be mithered with it all anyway, you know what I mean? Can't be arsed.\" — David King",
         "image": "NoMither",
-        "tiers": [
-            [
-                "0%"
-            ],
-            [
-                "25%"
-            ],
-            [
-                "50%"
-            ]
-        ]
+        "tiers": [["0%"], ["25%"], ["50%"]]
     },
     {
         "id": 135,
         "index": "SOLE_SURVIVOR",
         "name": "Sole Survivor",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "LAURIE_STRODE",
-        "description": "As more of your friends fall to the killer, you become shrouded in isolation and the killer's %iaura reading abilities%/i towards you are disrupted.\nYour aura cannot be read by the killer within a max range of:\n%s for each %ikilled%/i or %isacrificed%/i survivor.\nIncreases your chance to be the killer's obsession.\nOnly one obsession per match.",
+        "description": "As more of your friends fall to the killer, you become shrouded in isolation and the killer's %baura reading abilities%/b towards you are disrupted.\nYour aura cannot be read by the killer within a max range of:\n%s for each %bkilled%/b or %bsacrificed%/b survivor.\n%iIncreases your chance to be the killer's obsession.%/i\nOnly one obsession per match.",
         "flavor": "\"It was the boogeyman.\" - Laurie Strode",
         "image": "soleSurvivor",
-        "tiers": [
-            [
-                "16 meters"
-            ],
-            [
-                "18 meters"
-            ],
-            [
-                "20 meters"
-            ]
-        ]
+        "tiers": [["16 meters"], ["18 meters"], ["20 meters"]]
     },
     {
         "id": 136,
         "index": "OBJECT_OF_OBSESSION",
         "name": "Object of Obsession",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "LAURIE_STRODE",
         "description": "A supernatural bond links you to the Killer. If you are looking in the Killer's direction, your link will reveal your auras to each other. This effect applies only if you are outside the Killer's terror radius.\nAs the Killer's obsession, this effect applies to a maximum rnage of %s. Otherwise, it applies to a maximum range of %s.\nIncreases your chances to be the Killer's %bobsession%/b. Only one obsession per match.",
         "flavor": "\"He was watching me!\" — Laurie Strode",
         "image": "objectOfObsession",
         "tiers": [
-            [
-                "56 meters",
-                "44 meters"
-            ],
-            [
-                "64 meters",
-                "56 meters"
-            ],
-            [
-                "72 meters",
-                "64 meters"
-            ]
+            ["56 meters", "44 meters"],
+            ["64 meters", "56 meters"],
+            ["72 meters", "64 meters"]
         ]
     },
     {
         "id": 137,
         "index": "DECISIVE_STRIKE",
         "name": "Decisive Strike",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "LAURIE_STRODE",
         "description": "Once per match, when the Killer's Obsession, succeed a Skill Check to automatically escape the Killer's grasp and stun them for %s. When not the Killer's Obsession, when the wiggle meter is at %s succeed in a Skill Check to escape the grasp.",
         "flavor": "\"There's nothing to be scared of.\" — Laurie Strode",
         "image": "decisiveStrike",
         "tiers": [
-            [
-                "3 seconds",
-                "45%"
-            ],
-            [
-                "3.5 seconds",
-                "40%"
-            ],
-            [
-                "4 seconds",
-                "35%"
-            ]
+            ["3 seconds", "45%"],
+            ["3.5 seconds", "40%"],
+            ["4 seconds", "35%"]
         ]
     },
     {
         "id": 138,
         "index": "OPEN_HANDED",
         "name": "Open Handed",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "ACE_VISCONTI",
         "description": "Strengthens the potential of you and your team's Aura reading abilities. Increases Aura reading ranges by %s.",
         "flavor": "\"Paying attention is what kept me alive through the years. That, and my good looks of course.\" — Ace Visconti",
         "image": "openHanded",
-        "tiers": [
-            [
-                "4 meters"
-            ],
-            [
-                "6 meters"
-            ],
-            [
-                "8 meters"
-            ]
-        ]
+        "tiers": [["4 meters"], ["6 meters"], ["8 meters"]]
     },
     {
         "id": 139,
         "index": "UP_THE_ANTE",
         "name": "Up The Ante",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "ACE_VISCONTI",
         "description": "For each other Survivor still alive, grant a %s bonus to Luck to all remaining Survivors.",
         "flavor": "\"What can I say? I'm just a very lucky guy... I'm sure some of it will rub off on you.\" — Ace Visconti",
         "image": "upTheAnte",
-        "tiers": [
-            [
-                "1%"
-            ],
-            [
-                "2%"
-            ],
-            [
-                "3%"
-            ]
-        ]
+        "tiers": [["1%"], ["2%"], ["3%"]]
     },
     {
         "id": 140,
         "index": "ACE_IN_THE_HOLE",
         "name": "Ace in The Hole",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "ACE_VISCONTI",
         "description": "Lady Luck always seems to be throwing something good your way. When retrieving an item from a chest, there is a %s chance that an add-on of %s rarity or lower will be attached to it.\n%s chance to find an add-on of %s raity of lower.",
         "flavor": "\"Everything that glitters isn't gold. But gold isn't worth a damn in this place, so this should come in handy.\" — Ace Visconti",
         "image": "aceInTheHole",
         "tiers": [
-            [
-                "100%",
-                "very rare",
-                "10%",
-                "uncommon"
-            ],
-            [
-                "100%",
-                "very rare",
-                "25%",
-                "uncommon"
-            ],
-            [
-                "100%",
-                "very rare",
-                "50%",
-                "uncommon"
-            ]
+            ["100%", "very rare", "10%", "uncommon"],
+            ["100%", "very rare", "25%", "uncommon"],
+            ["100%", "very rare", "50%", "uncommon"]
         ]
     },
     {
         "id": 141,
         "index": "TECHNICIAN",
         "name": "Technician",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "FENG_MIN",
         "description": "The noises caused by your repairs and their hearing distance are reduced by %s. On a failed repair Skill Checks, there is a %s chance the Generator explosion will be prevented.",
         "flavor": "\"I'm gonna stealth this one.\" — Feng Min",
         "image": "technician",
-        "tiers": [
-            [
-                "0 meters",
-                "30%"
-            ],
-            [
-                "4 meters",
-                "40%"
-            ],
-            [
-                "8 meters",
-                "50%"
-            ]
-        ]
+        "tiers": [["0 meters", "30%"], ["4 meters", "40%"], ["8 meters", "50%"]]
     },
     {
         "id": 142,
         "index": "LITHE",
         "name": "Lithe",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "FENG_MIN",
         "description": "After performing a vault, break into a sprint at %s of your normal running speed for a maximum of %s seconds. Activates in chases only.\nCauses Exhaustion for %s.",
         "flavor": "\"U mad?\" — Feng Min",
         "image": "lithe",
         "tiers": [
-            [
-                "150%",
-                "3 seconds",
-                "60 seconds"
-            ],
-            [
-                "150%",
-                "3 seconds",
-                "50 seconds"
-            ],
-            [
-                "150%",
-                "3 seconds",
-                "40 seconds"
-            ]
+            ["150%", "3 seconds", "60 seconds"],
+            ["150%", "3 seconds", "50 seconds"],
+            ["150%", "3 seconds", "40 seconds"]
         ]
     },
     {
         "id": 143,
         "index": "ALERT",
         "name": "Alert",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "FENG_MIN",
-        "description": "Your acute senses are on high alert. When the Killer performs the break action within %s of range, the Killer's Aura is revealed to you for 6 seconds. This effect can only be triggered once every %s.",
+        "description": "Your acute senses are on high alert. When the Killer performs a break action, the Killer is revealed to you for %s seconds.",
         "flavor": "\"I have true sight.\" — Feng Min",
         "image": "alert",
-        "tiers": [
-            [
-                "12 meters",
-                "60 seconds"
-            ],
-            [
-                "24 meters",
-                "45 seconds"
-            ],
-            [
-                "36 meters",
-                "30 seconds"
-            ]
-        ]
+        "tiers": [["3 seconds"], ["4 seconds"], ["5 seconds"]]
     },
     {
         "id": 144,
         "index": "WAKE_UP",
         "name": "Wake Up!",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "QUENTIN_SMITH",
         "description": "Unlocks potential in one's Aura reading ability. Once all Generators are powered, Exit Gates are revealed to you when within %s of range. While opening the Exit Gates, reveal your Aura to other Survivors within %s of range.\nWhile Wake Up! is active, you open the Exit Gates %s faster.",
         "image": "wakeUp",
         "tiers": [
-            [
-                "24 meters",
-                "24 meters",
-                "5%"
-            ],
-            [
-                "48 meters",
-                "48 meters",
-                "10%"
-            ],
-            [
-                "∞ meters",
-                "∞ meters",
-                "15%"
-            ]
+            ["24 meters", "24 meters", "5%"],
+            ["48 meters", "48 meters", "10%"],
+            ["∞ meters", "∞ meters", "15%"]
         ]
     },
     {
         "id": 145,
         "index": "PHARMACY",
         "name": "Pharmacy",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "QUENTIN_SMITH",
         "description": "You have a knack for finding medicine. Searches through Chests are %s faster.\nTier III only: The noises caused by searches along with their hearing distances are reduced by 8 meters.\nPharmacy guarantees an Emergency Med-Kit on your first completed Chest search.",
         "image": "pharmacy",
-        "tiers": [
-            [
-                "40%"
-            ],
-            [
-                "60%"
-            ],
-            [
-                "80%"
-            ]
-        ]
+        "tiers": [["40%"], ["60%"], ["80%"]]
     },
     {
         "id": 146,
         "index": "VIGIL",
         "name": "Vigil",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "QUENTIN_SMITH",
-        "description": "You look over your friends even in dire situations. You and your allies within an %s range recover from Exhausted, Hemorrhage, Mangled, Hindered and Blindness Status Effects %s faster.",
+        "description": "You look over your friends even in dire situations. You and your allies within an %s range recover from Exhausted, Hemorrhage, Mangled, Hindered and Blindness Status Effects %s faster. Once out of range, this effect persists for %s.",
         "image": "vigil",
         "tiers": [
-            [
-                "8 metre",
-                "10%"
-            ],
-            [
-                "8 metre",
-                "15%"
-            ],
-            [
-                "8 metre",
-                "20%"
-            ]
+            ["8 metre", "10%", "15 seconds"],
+            ["8 metre", "15%", "15 seconds"],
+            ["8 metre", "20%", "15 seconds"]
         ]
     },
     {
         "id": 147,
         "index": "TENACITY",
         "name": "Tenacity",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "DAVID_TAPP",
         "description": "There is nothing stopping you. Your ferocious tenacity in dire situations allows you to crawl %s faster and recover at the same time.",
         "flavor": "\"What the hell is this? I'm taking this bastard down!\" — Detective David Tapp",
         "image": "tenacity",
-        "tiers": [
-            [
-                "30%"
-            ],
-            [
-                "40%"
-            ],
-            [
-                "50%"
-            ]
-        ]
+        "tiers": [["30%"], ["40%"], ["50%"]]
     },
     {
         "id": 148,
         "index": "DETECTIVES_HUNCH",
         "name": "Detective's Hunch",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "DAVID_TAPP",
         "description": "Unlocks potential in one's Aura reading ability. When completing a Generator, the Auras of Generators, Chests and Totems within %s are revealed to you for %s.\nIf you are holding a Map that can track Objectives, Generators revealed by Detective's Hunch are added to the Map.",
         "flavor": "\"Are you able to tell us where you were last night?\" — Detective David Tapp",
         "image": "detectivesHunch",
         "tiers": [
-            [
-                "32 meters",
-                "5 seconds"
-            ],
-            [
-                "48 meters",
-                "5 seconds"
-            ],
-            [
-                "64 meters",
-                "5 seconds"
-            ]
+            ["32 meters", "5 seconds"],
+            ["48 meters", "5 seconds"],
+            ["64 meters", "5 seconds"]
         ]
     },
     {
         "id": 149,
         "index": "STAKE_OUT",
         "name": "Stake Out",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "DAVID_TAPP",
         "description": "Getting close to the Killer fills you with determination. For each %s you are standing within the Killer Terror Radius and not in a Chase, you gain a Token up to a maximum of %s.\nWhen %iStake Out%/i has at least %b1 Token%/b, Good Skill Checks are considered Great Skill Checks and consume %b1 Token%/b.",
         "flavor": "\"I had you, I had you on your knees. You're runnin' scared because we had you. We're gonna close this case!\" -Detective David Tapp",
         "image": "stakeOut",
         "tiers": [
-            [
-                "15 seconds",
-                "2 Tokens"
-            ],
-            [
-                "15 seconds",
-                "3 Tokens"
-            ],
-            [
-                "15 seconds",
-                "4 Tokens"
-            ]
+            ["15 seconds", "2 Tokens"],
+            ["15 seconds", "3 Tokens"],
+            ["15 seconds", "4 Tokens"]
         ]
     },
     {
         "id": 150,
+        "index": "DANCE_WITH_ME",
+        "name": "Dance With Me",
+        "rarity": ["RARE", "VERY_RARE", "ULTRA_RARE"],
+        "owner": "KATE_DENSON",
+        "description": "When performing a fast vault or leaving a Locker in a sprint, you leave no scratch marks for 3 seconds.\nDance With Me has a cool-down of %s seconds.",
+        "flavor": "\"Another show's off and runnin',\nDance with me, cuz there's a storm a commin'\nFollow my boots, try to keep up,\nDance with me, until sun up.\"\n— Kate Denson's \"Dance With Me\"",
+        "image": "danceWithMe",
+        "tiers": [["60 seconds"], ["50 seconds"], ["40 seconds"]]
+    },
+    {
+        "id": 151,
         "index": "WINDOWS_OF_OPPORTUNITY",
         "name": "Windows of Opportunity",
-        "rarity": [
-            "UNCOMMON",
-            "UNCOMMON",
-            "RARE"
-        ],
+        "rarity": ["COMMON", "UNCOMMON", "RARE"],
         "owner": "KATE_DENSON",
         "description": "Unlocks potential in one's aura reading ability. Auras of pallets and vaults are revealed to you when within a %s range.\n%iWindows of Opportunity%/i has a cooldown of %s when vaulting or dropping a pallet during a chase.",
         "flavor": "\"Rise and shine, work hard, carve out your name,\nTake aim, pull the trigger, hit the bulls eye for fame,\nKnow the value of faith, an' family, and don't you complain,\nOpen wide, your windows of opportunity\"\n-Kate Denson's \"Windows of Opportunity\"",
         "image": "windowsOfOpportunity",
         "tiers": [
-            [
-                "20 meters",
-                "60 seconds"
-            ],
-            [
-                "20 meters",
-                "50 seconds"
-            ],
-            [
-                "20 meters",
-                "40 seconds"
-            ]
+            ["20 meters", "60 seconds"],
+            ["20 meters", "50 seconds"],
+            ["20 meters", "40 seconds"]
         ]
     },
     {
-        "id": 151,
+        "id": 152,
         "index": "BOIL_OVER",
         "name": "Boil Over",
-        "rarity": [
-            "UNCOMMON",
-            "RARE",
-            "VERY_RARE"
-        ],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "KATE_DENSON",
         "description": "You are a battler and do everything to escape a foe's grasp.\nYour struggling effect on The Killer are increased by %s.\nYou obscure The Killer's ability to see hook auras within %s.",
         "flavor": "\"Buck and Wild,\nSwing to be free,\nYour hands just can't keep ahold of me.\"\n-Kate Denson's \"Boil Over\"",
         "image": "boilOver",
         "tiers": [
-            [
-                "25%",
-                "10 meters"
-            ],
-            [
-                "50%",
-                "12 meters"
-            ],
-            [
-                "75%",
-                "14 meters"
-            ]
+            ["25%", "10 meters"],
+            ["50%", "12 meters"],
+            ["75%", "14 meters"]
         ]
     },
     {
-        "id": 152,
-        "index": "DANCE_WITH_ME",
-        "name": "Dance With Me",
-        "rarity": [
-            "RARE",
-            "VERY_RARE",
-            "VERY_RARE"
-        ],
-        "owner": "KATE_DENSON",
-        "description": "When performing a fast vault or leaving a locker in a sprint,\nyou leave no scratch marks for %s.\n%iDance With Me%/ihas a cooldown of %s.",
-        "flavor": "\"Another show's off and runnin',\nDance with me, cuz there's a storm a commin',\nFollow my boots, try to keep up,\nDance with me, until sun up.\"\n-Kate Denson's \"Dance with me\"",
-        "image": "danceWithMe",
-        "tiers": [
-            [
-                "3 seconds",
-                "40 seconds"
-            ],
-            [
-                "3 seconds",
-                "50 seconds"
-            ],
-            [
-                "3 seconds",
-                "60 seconds"
-            ]
-        ]
+        "id": 153,
+        "index": "DIVERSION",
+        "name": "Diversion",
+        "rarity": ["COMMON", "UNCOMMON", "RARE"],
+        "owner": "ADAM_FRANCIS",
+        "description": "Activate-able Perk.\nStanding within the Killer's Terror Radius while not in a Chase for 45 seconds activates the Perk.\nOnce the Perk is activated, press the Active Ability button while crouched and motionless to throw a pebble, which creates a loud noise notification for the Killer at a distance of %s.\nThe Perk deactivates once it has been used.",
+        "flavor": "\"There's what is easy and then there's what is right. If you confuse the two, there's no telling what you become.\" — Adam Francis",
+        "image": "diversion",
+        "tiers": [["10 metres"], ["15 metres"], ["20 metres"]]
+    },
+    {
+        "id": 154,
+        "index": "DELIVERANCE",
+        "name": "Deliverance",
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
+        "owner": "ADAM_FRANCIS",
+        "description": "After performing a Safe Hook Rescue on another Survivor, the Perk activates.\nYou now have a 100% chance to unhook yourself during the escape attempt.\nA successful Deliverance from the Hook triggers the Broken Status Effect for %s seconds.",
+        "flavor": "\"I was raised by a strict man who taught me how to make the best of a bad situation.\" — Adam Francis",
+        "image": "deliverance",
+        "tiers": [["100"], ["80"], ["60"]]
+    },
+    {
+        "id": 155,
+        "index": "AUTODIDACT",
+        "name": "Autodidact",
+        "rarity": ["RARE", "VERY_RARE", "ULTRA_RARE"],
+        "owner": "ADAM_FRANCIS",
+        "description": "You start the Trial with a -20% progression penalty for Skill Checks to heal Survivors.\nFor every successful Skill Check completed while healing a Survivor, you receive a Token for a maximum of %s Tokens.\nEach Token grants you a +20% bonus progression for a successful Skill Check while healing Survivors.\nGreat Skill Checks cannot be performed while using Autodidact.\nAutodidact is not active when using a Med-Kit to heal.",
+        "flavor": "\"There's no limit to what you can achieve, as long as you back it up with hard work.\" — Adam Francis",
+        "image": "autodidact",
+        "tiers": [["3"], ["4"], ["5"]]
     }
 ]

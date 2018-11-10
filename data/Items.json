@@ -16,9 +16,7 @@
         "index": "FLASHLIGHT",
         "name": "Flashlight",
         "description": "A standard Flashlight. Can be used to light your way in the darkness.",
-        "abilities": [
-            "%b8 seconds%/b of use."
-        ],
+        "abilities": ["%b8 seconds%/b of use."],
         "flavor": "\"Most of the battery life was wastefully used by the previous owner.\"",
         "type": "FLASHLIGHT",
         "rarity": "UNCOMMON",
@@ -72,9 +70,7 @@
         "index": "BROKEN_KEY",
         "name": "Broken Key",
         "description": "The bow and shank of a key, vibrating with power. The Broken Key's power cannot be triggered by itself. Various objects can be attached to its jump ring, which channels the Broken Key's power into various effects.",
-        "abilities": [
-            "%b10 seconds%/b of use."
-        ],
+        "abilities": ["%b10 seconds%/b of use."],
         "type": "KEY",
         "rarity": "RARE",
         "image": "brokenKey"
@@ -105,6 +101,7 @@
         "rarity": "ULTRA_RARE",
         "image": "key"
     },
+
     {
         "id": 9,
         "index": "MAP",
@@ -143,7 +140,7 @@
         "name": "Camping Aid Kit",
         "description": "A rudimentary aid kit which can save lives in emergencies even if it's lacking some of its supplies.",
         "abilities": [
-            "%b12 Charges%/b.",
+            "%b16 Charges%/b.",
             "%bConsiderably increases%/b the speed that you heal others.",
             "Unlocks the %bself-healing%/b action."
         ],
@@ -158,7 +155,7 @@
         "name": "All Hallows' Eve Lunchbox",
         "description": "A plastic lunchbox with phosphorescent Halloween Stickers that has been packed with first-aid equipment.",
         "abilities": [
-            "%b16 Charges%/b.",
+            "%b24 Charges%/b.",
             "%bConsiderably increases%/b the speed that you heal others.",
             "Unlocks the %bself-healing%/b action.",
             "Makes you %bconsiderably more visible%/b."
@@ -174,7 +171,7 @@
         "name": "First Aid Kit",
         "description": "A standard first aid kit with all the necessary equipment for treating common to more serious injuries.",
         "abilities": [
-            "%b16 Charges%/b.",
+            "%b24 Charges%/b.",
             "%bConsiderably increases%/b the speed that you heal others.",
             "Unlocks the %bself-healing%/b action."
         ],
@@ -188,7 +185,7 @@
         "name": "Emergency Med-Kit",
         "description": "A sturdy and well organized medical kit equipped with top condition emergency supplies.",
         "abilities": [
-            "%b18 Charges%/b.",
+            "%b24 Charges%/b.",
             "%bTremendously increases%/b the speed that you heal others.",
             "%bModerately decreases%/b healing charge consumption.",
             "Unlocks the %bself-healing%/b action."
@@ -204,7 +201,7 @@
         "name": "Ranger Med-Kit",
         "description": "A large metal box containing medical supplies aimed for emergency rescues in hard to reach, often isolated locations.",
         "abilities": [
-            "%b24 Charges%/b.",
+            "%b32 Charges%/b.",
             "%bTremendously increases%/b the speed that you heal others.",
             "%bModerately increases%/b Skill Check success zones.",
             "%bModerately increases%/b Skill Check bonus zones.",

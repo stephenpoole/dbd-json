@@ -173,5 +173,22 @@
             "Press and hold the %iActive Ability%/i to replenish your bottles of The Afterpiece Tonic."
         ],
         "image": "gasBomb"
+    },
+    {
+        "id": 13,
+        "index": "YAMAOKAS_HAUNTING",
+        "name": "Yamaoka's Haunting",
+        "owner": "SPIRIT",
+        "description": "The Spirit can use her power, Yamaoka's Haunting, to enter an ethereal plane and reappear at a new location.",
+        "abilities": [
+            "Tap and Hold the Power button to charge. The Spirit will depart her physical body, leaving behind a stationary 'husk'.",
+            "While Yamaoka's Haunting is active:",
+            "The Spirit may traverse freely to a new location, moving at a faster rate for a short duration. She is still confied to movement within the physical encironments and surroundings.",
+            "The Spirit leaves the physical plane, losing sight of all Survivors. She can, however, still sense the scratch marks they leave in the environment.",
+            "The Spirit will produce an audible cur at her current location.",
+            "Once the power has ended, The Spirit retains her speed boost for a brief period and her husk fades away.",
+            "Using Yamaoka's Haunting depletes The Spirit's power bar. The power bar will automatically replenish over time. The power bar must be fully replenished before it can be triggered again."
+        ],
+        "image": "yamaokasHaunting"
     }
 ]

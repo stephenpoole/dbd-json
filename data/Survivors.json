@@ -4,11 +4,7 @@
         "index": "DWIGHT_FAIRFIELD",
         "name": "Dwight Fairfield",
         "description": "A nervous leader, able to locate his allies and increase their effectiveness.",
-        "perks": [
-            "BOND",
-            "PROVE_THYSELF",
-            "LEADER"
-        ],
+        "perks": ["BOND", "PROVE_THYSELF", "LEADER"],
         "image": "DF"
     },
     {
@@ -16,11 +12,7 @@
         "index": "MEG_THOMAS",
         "name": "Meg Thomas",
         "description": "An energetic athlete, able to outrun most killers.",
-        "perks": [
-            "QUICK_AND_QUIET",
-            "SPRINT_BURST",
-            "ADRENALINE"
-        ],
+        "perks": ["QUICK_AND_QUIET", "SPRINT_BURST", "ADRENALINE"],
         "image": "MT"
     },
     {
@@ -28,11 +20,7 @@
         "index": "CLAUDETTE_MOREL",
         "name": "Claudette Morel",
         "description": "A studious botanist, able to boost her team's survivability as well as her own.",
-        "perks": [
-            "EMPATHY",
-            "BOTANY_KNOWLEDGE",
-            "SELF_CARE"
-        ],
+        "perks": ["EMPATHY", "BOTANY_KNOWLEDGE", "SELF_CARE"],
         "image": "CM"
     },
     {
@@ -40,11 +28,7 @@
         "index": "JAKE_PARK",
         "name": "Jake Park",
         "description": "A solitary survivalist, able to hold his own in most situations.",
-        "perks": [
-            "IRON_WILL",
-            "CALM_SPIRIT",
-            "SABOTEUR"
-        ],
+        "perks": ["IRON_WILL", "CALM_SPIRIT", "SABOTEUR"],
         "image": "JP"
     },
     {
@@ -52,11 +36,7 @@
         "index": "NEA_KARLSSON",
         "name": "Nea Karlsson",
         "description": "An urban artist, able to easily escape and hide.",
-        "perks": [
-            "BALANCED_LANDING",
-            "URBAN_EVASION",
-            "STREETWISE"
-        ],
+        "perks": ["BALANCED_LANDING", "URBAN_EVASION", "STREETWISE"],
         "image": "NK"
     },
     {
@@ -64,11 +44,7 @@
         "index": "WILLIAM_OVERBECK",
         "name": "William \"Bill\" Overbeck",
         "description": "An old soldier, accustomed to dealing with critical situations.",
-        "perks": [
-            "LEFT_BEHIND",
-            "BORROWED_TIME",
-            "UNBREAKABLE"
-        ],
+        "perks": ["LEFT_BEHIND", "BORROWED_TIME", "UNBREAKABLE"],
         "image": "BO"
     },
     {
@@ -76,11 +52,7 @@
         "index": "DAVID_KING",
         "name": "David King",
         "description": "A rugged scrapper, rewarding high-risk play.",
-        "perks": [
-            "WERE_GONNA_LIVE_FOREVER",
-            "DEAD_HARD",
-            "NO_MITHER"
-        ],
+        "perks": ["WERE_GONNA_LIVE_FOREVER", "DEAD_HARD", "NO_MITHER"],
         "image": "DK"
     },
     {
@@ -88,11 +60,7 @@
         "index": "LAURIE_STRODE",
         "name": "Laurie Strode",
         "description": "A determined Survivor, prepared to weather any challenge.",
-        "perks": [
-            "SOLE_SURVIVOR",
-            "OBJECT_OF_OBSESSION",
-            "DECISIVE_STRIKE"
-        ],
+        "perks": ["SOLE_SURVIVOR", "OBJECT_OF_OBSESSION", "DECISIVE_STRIKE"],
         "image": "LS"
     },
     {
@@ -100,11 +68,7 @@
         "index": "ACE_VISCONTI",
         "name": "Ace Visconti",
         "description": "A lucky gambler, improving the odds of the entire team.",
-        "perks": [
-            "OPEN_HANDED",
-            "UP_THE_ANTE",
-            "ACE_IN_THE_HOLE"
-        ],
+        "perks": ["OPEN_HANDED", "UP_THE_ANTE", "ACE_IN_THE_HOLE"],
         "image": "AV"
     },
     {
@@ -112,11 +76,7 @@
         "index": "FENG_MIN",
         "name": "Feng Min",
         "description": "A focused competitor, able to focus on objectives and quickly switch focus.",
-        "perks": [
-            "TECHNICIAN",
-            "LITHE",
-            "ALERT"
-        ],
+        "perks": ["TECHNICIAN", "LITHE", "ALERT"],
         "image": "FM"
     },
     {
@@ -124,11 +84,7 @@
         "index": "QUENTIN_SMITH",
         "name": "Quentin Smith",
         "description": "A resolute dreamwalker, increasing the survivability and recovery of his team.",
-        "perks": [
-            "WAKE_UP",
-            "PHARMACY",
-            "VIGIL"
-        ],
+        "perks": ["WAKE_UP", "PHARMACY", "VIGIL"],
         "image": "QS"
     },
     {
@@ -136,11 +92,7 @@
         "index": "DAVID_TAPP",
         "name": "David Tapp",
         "description": "An obsessed detective, able to locate and complete objectives faster.",
-        "perks": [
-            "TENACITY",
-            "DETECTIVES_HUNCH",
-            "STAKE_OUT"
-        ],
+        "perks": ["TENACITY", "DETECTIVES_HUNCH", "STAKE_OUT"],
         "image": "FS"
     },
     {
@@ -148,11 +100,15 @@
         "index": "KATE_DENSON",
         "name": "Kate Denson",
         "description": "A hopeful songbird, able to make the most of her surroundings.",
-        "perks": [
-            "WINDOWS_OF_OPPORTUNITY",
-            "BOIL_OVER",
-            "DANCE_WITH_ME"
-        ],
+        "perks": ["WINDOWS_OF_OPPORTUNITY", "BOIL_OVER", "DANCE_WITH_ME"],
         "image": "GS"
+    },
+    {
+        "id": 14,
+        "index": "ADAM_FRANCIS",
+        "name": "Adam Francis",
+        "description": "A resourceful Teacher, able to adapt to new circumstances and develop strategies accordingly.",
+        "perks": ["DIVERSION", "DELIVERANCE", "AUTODIDACT"],
+        "image": "AF"
     }
 ]
