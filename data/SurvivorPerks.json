@@ -186,10 +186,10 @@
         "name": "Bond",
         "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "DWIGHT_FAIRFIELD",
-        "description": "Unlocks potential in one's aura reading ability. Allies' Auras are revealed to you when they are within a %s.",
+        "description": "Unlocks potential in one's aura reading ability. Allies' Auras are revealed to you when they are within a %s range.",
         "flavor": "We have to work as a team, I need you to survive so that I can survive!",
         "image": "bond",
-        "tiers": [["12 meters"], ["24 meters"], ["36 meters"]]
+        "tiers": [["20 meter"], ["28 meter"], ["36 meter"]]
     },
     {
         "id": 115,
@@ -212,10 +212,14 @@
         "name": "Leader",
         "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "DWIGHT_FAIRFIELD",
-        "description": "You're able to organize a team to cooperate more efficiently. Increases the other Survivors' Repair, Healing and sabotaging, cleansing, opening Exit Gates, and search speeds by %s when they are within an %s range from you.",
+        "description": "You're able to organize a team to cooperate more efficiently. Increases the other Survivors' Repair, Healing and sabotaging, cleansing, opening Exit Gates, and search speeds by %s when they are within an %s range from you. Once out of range, this effect persists for %s.",
         "flavor": "I'll show you what I can do!",
         "image": "leader",
-        "tiers": [["3%", "8 meter"], ["6%", "8 meter"], ["9%", "8 meter"]]
+        "tiers": [
+            ["3%", "8 meter", "15 seconds"],
+            ["6%", "8 meter", "15 seconds"],
+            ["9%", "8 meter", "15 seconds"]
+        ]
     },
     {
         "id": 117,
@@ -290,10 +294,10 @@
         "name": "Botany Knowledge",
         "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "CLAUDETTE_MOREL",
-        "description": "You transform plants found around The Campfire into tinctures that slow down bleeding. Healing speed is increased by %s and the efficiency of healing items is increased by %s.",
+        "description": "You transform plants found around The Campfire into tinctures that slow down bleeding. %bHealing speed%/b and %bhealing item efficiency%/b is increased by %s.",
         "flavor": "\"Basic Botany knowledge could save your life someday.\" — Claudette Morel",
         "image": "botanyKnowledge",
-        "tiers": [["10%", "10%"], ["15%", "15%"], ["20%", "20%"]]
+        "tiers": [["14%"], ["23%"], ["33%"]]
     },
     {
         "id": 122,
@@ -311,13 +315,9 @@
         "name": "Iron Will",
         "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "JAKE_PARK",
-        "description": "You're able to concentrate and enter a meditative-like state to numb some pain. Grunts of pain caused by injuries are reduced by %s %s.",
+        "description": "You're able to concentrate and enter a meditative-like state to numb some pain. Grunts of pain caused by injuries are reduced by %s.",
         "image": "ironWill",
-        "tiers": [
-            ["50%", "while staying still"],
-            ["100%", "while staying still"],
-            ["100%", "at any time"]
-        ]
+        "tiers": [["50%"], ["75%"], ["100%"]]
     },
     {
         "id": 124,
@@ -335,13 +335,9 @@
         "name": "Saboteur",
         "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "JAKE_PARK",
-        "description": "Unlocks the ability to sabotage without a Toolbox at %s the normal sabotage speed. Skill Checks triggered in this situation have success zones reduced by %s. Increases efficiency of Toolbox sabotage by %s.",
+        "description": "Unlocks the ability to sabotage without a Toolbox at %s the normal sabotage speed. Hooks and traps you sabotage stay broken for an extra %s seconds.",
         "image": "saboteur",
-        "tiers": [
-            ["30%", "0%", "50%"],
-            ["40%", "10%", "75%"],
-            ["50%", "20%", "100%"]
-        ]
+        "tiers": [["30%", "10"], ["40%", "20"], ["50%", "30"]]
     },
     {
         "id": 126,
@@ -375,10 +371,14 @@
         "name": "Streetwise",
         "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "NEA_KARLSSON",
-        "description": "Long nights out taught you to do a lot with what you've got. Reduce consumption rate of charge by %s for you and allies within an %s range.",
+        "description": "Long nights out taught you to do a lot with what you've got. Reduce consumption rate of charge by %s for you and allies within an %s range. Once out of range, this effect persists for %s.",
         "flavor": "\"You're doing it wrong! Let me show you how it's done.\" — Nea Karlsson",
         "image": "streetwise",
-        "tiers": [["10%", "8 metre"], ["12%", "8 metre"], ["15%", "8 metre"]]
+        "tiers": [
+            ["10%", "8 metre", "15 seconds"],
+            ["12%", "8 metre", "15 seconds"],
+            ["15%", "8 metre", "15 seconds"]
+        ]
     },
     {
         "id": 129,
@@ -456,7 +456,7 @@
         "name": "Sole Survivor",
         "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "LAURIE_STRODE",
-        "description": "As more of your friends fall to the killer, you become shrouded in isolation and the killer's %iaura reading abilities%/i towards you are disrupted.\nYour aura cannot be read by the killer within a max range of:\n%s for each %ikilled%/i or %isacrificed%/i survivor.\nIncreases your chance to be the killer's obsession.\nOnly one obsession per match.",
+        "description": "As more of your friends fall to the killer, you become shrouded in isolation and the killer's %baura reading abilities%/b towards you are disrupted.\nYour aura cannot be read by the killer within a max range of:\n%s for each %bkilled%/b or %bsacrificed%/b survivor.\n%iIncreases your chance to be the killer's obsession.%/i\nOnly one obsession per match.",
         "flavor": "\"It was the boogeyman.\" - Laurie Strode",
         "image": "soleSurvivor",
         "tiers": [["16 meters"], ["18 meters"], ["20 meters"]]
@@ -560,14 +560,10 @@
         "name": "Alert",
         "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "FENG_MIN",
-        "description": "Your acute senses are on high alert. When the Killer performs the break action within %s of range, the Killer's Aura is revealed to you for 6 seconds. This effect can only be triggered once every %s.",
+        "description": "Your acute senses are on high alert. When the Killer performs a break action, the Killer is revealed to you for %s seconds.",
         "flavor": "\"I have true sight.\" — Feng Min",
         "image": "alert",
-        "tiers": [
-            ["12 meters", "60 seconds"],
-            ["24 meters", "45 seconds"],
-            ["36 meters", "30 seconds"]
-        ]
+        "tiers": [["3 seconds"], ["4 seconds"], ["5 seconds"]]
     },
     {
         "id": 144,
@@ -599,9 +595,13 @@
         "name": "Vigil",
         "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "QUENTIN_SMITH",
-        "description": "You look over your friends even in dire situations. You and your allies within an %s range recover from Exhausted, Hemorrhage, Mangled, Hindered and Blindness Status Effects %s faster.",
+        "description": "You look over your friends even in dire situations. You and your allies within an %s range recover from Exhausted, Hemorrhage, Mangled, Hindered and Blindness Status Effects %s faster. Once out of range, this effect persists for %s.",
         "image": "vigil",
-        "tiers": [["8 metre", "10%"], ["8 metre", "15%"], ["8 metre", "20%"]]
+        "tiers": [
+            ["8 metre", "10%", "15 seconds"],
+            ["8 metre", "15%", "15 seconds"],
+            ["8 metre", "20%", "15 seconds"]
+        ]
     },
     {
         "id": 147,
@@ -648,7 +648,7 @@
         "id": 150,
         "index": "DANCE_WITH_ME",
         "name": "Dance With Me",
-        "rarity": ["", "", ""],
+        "rarity": ["RARE", "VERY_RARE", "ULTRA_RARE"],
         "owner": "KATE_DENSON",
         "description": "When performing a fast vault or leaving a Locker in a sprint, you leave no scratch marks for 3 seconds.\nDance With Me has a cool-down of %s seconds.",
         "flavor": "\"Another show's off and runnin',\nDance with me, cuz there's a storm a commin'\nFollow my boots, try to keep up,\nDance with me, until sun up.\"\n— Kate Denson's \"Dance With Me\"",
@@ -659,7 +659,7 @@
         "id": 151,
         "index": "WINDOWS_OF_OPPORTUNITY",
         "name": "Windows of Opportunity",
-        "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
+        "rarity": ["COMMON", "UNCOMMON", "RARE"],
         "owner": "KATE_DENSON",
         "description": "Unlocks potential in one's aura reading ability. Auras of pallets and vaults are revealed to you when within a %s range.\n%iWindows of Opportunity%/i has a cooldown of %s when vaulting or dropping a pallet during a chase.",
         "flavor": "\"Rise and shine, work hard, carve out your name,\nTake aim, pull the trigger, hit the bulls eye for fame,\nKnow the value of faith, an' family, and don't you complain,\nOpen wide, your windows of opportunity\"\n-Kate Denson's \"Windows of Opportunity\"",
@@ -689,7 +689,7 @@
         "id": 153,
         "index": "DIVERSION",
         "name": "Diversion",
-        "rarity": ["", "", ""],
+        "rarity": ["COMMON", "UNCOMMON", "RARE"],
         "owner": "ADAM_FRANCIS",
         "description": "Activate-able Perk.\nStanding within the Killer's Terror Radius while not in a Chase for 45 seconds activates the Perk.\nOnce the Perk is activated, press the Active Ability button while crouched and motionless to throw a pebble, which creates a loud noise notification for the Killer at a distance of %s.\nThe Perk deactivates once it has been used.",
         "flavor": "\"There's what is easy and then there's what is right. If you confuse the two, there's no telling what you become.\" — Adam Francis",
@@ -700,7 +700,7 @@
         "id": 154,
         "index": "DELIVERANCE",
         "name": "Deliverance",
-        "rarity": ["", "", ""],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "ADAM_FRANCIS",
         "description": "After performing a Safe Hook Rescue on another Survivor, the Perk activates.\nYou now have a 100% chance to unhook yourself during the escape attempt.\nA successful Deliverance from the Hook triggers the Broken Status Effect for %s seconds.",
         "flavor": "\"I was raised by a strict man who taught me how to make the best of a bad situation.\" — Adam Francis",
@@ -711,7 +711,7 @@
         "id": 155,
         "index": "AUTODIDACT",
         "name": "Autodidact",
-        "rarity": ["", "", ""],
+        "rarity": ["RARE", "VERY_RARE", "ULTRA_RARE"],
         "owner": "ADAM_FRANCIS",
         "description": "You start the Trial with a -20% progression penalty for Skill Checks to heal Survivors.\nFor every successful Skill Check completed while healing a Survivor, you receive a Token for a maximum of %s Tokens.\nEach Token grants you a +20% bonus progression for a successful Skill Check while healing Survivors.\nGreat Skill Checks cannot be performed while using Autodidact.\nAutodidact is not active when using a Med-Kit to heal.",
         "flavor": "\"There's no limit to what you can achieve, as long as you back it up with hard work.\" — Adam Francis",

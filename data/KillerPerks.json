@@ -54,10 +54,10 @@
         "name": "\"Hex\": No One Escapes Death",
         "owner": "ALL",
         "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
-        "description": "A Hex rooting its power on hope. You are animated by the power of your Hex Totem when the Survivors are on the verge of escaping. Once the Exit Gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, Survivors suffer from the %bExposed%/b Status Effect, cooldowns on successful and missed attacks are decreased by %s and your movement speed is increased by %s.",
+        "description": "A Hex rooting its power on hope. You are animated by the power of your Hex Totem when the Survivors are on the verge of escaping. Once the Exit Gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, Survivors suffer from the %bExposed%/b Status Effect, your movement speed is increased by %s.\nThis effect persists as long as the related Hex Totem is standing.",
         "flavor": "\"And the beast became faster and more powerful as if the Entity's shadowy whips were lashing at its back.\"",
         "image": "noOneEscapesDeath",
-        "tiers": [["4%", "3%"], ["8%", "4%"], ["8%", "4%"]]
+        "tiers": [["2%"], ["3%"], ["4%"]]
     },
     {
         "id": 6,
@@ -394,14 +394,10 @@
         "name": "Beast Of Prey",
         "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "HUNTRESS",
-        "description": "Your lust for a kill is so intense that your connection with the Entity is momentarily lost, making you totally unpredictable. The Red Stain disappears for %s when Bloodlust activates.\nBeast of Prey has a cooldown of %s.",
+        "description": "Your lust for a kill is so intense that your connection with the Entity is momentarily lost, making you totally unpredictable. The Red Stain disappears after %bgaining Bloodlust Tier 1%/b, and stays hidden until you lose %bBloodlust%/b.\nGain %s more Bloodpoints for actions in the %bHunter%/b category.",
         "flavor": "Where did she go?",
         "image": "BeastOfPrey",
-        "tiers": [
-            ["15 seconds", "120 seconds"],
-            ["20 seconds", "120 seconds"],
-            ["25 seconds", "120 seconds"]
-        ]
+        "tiers": [["30%"], ["40%"], ["50%"]]
     },
     {
         "id": 34,
@@ -540,12 +536,12 @@
         "name": "Make Your Choice",
         "rarity": ["RARE", "RARE", "VERY_RARE"],
         "owner": "PIG",
-        "description": "When a Survivor rescues another from a Hook at least %s away from you, Make Your Choice triggers and applies the Exposed Status Effect on the rescuer for %s.\nMake Your Choice has a cooldown of %s",
+        "description": "When a Survivor rescues another from a Hook at least %s away from you, %iMake Your Choice%/i triggers and applies the %bExposed%/b Status Effect on the rescuer for %s.\nMake Your Choice has a cooldown of %s",
         "flavor": "\"You'd be surprised what tools can save a life.\" — Amanda Young",
         "image": "makeYourChoice",
         "tiers": [
-            ["48 meters", "60 seconds", "60 seconds"],
-            ["40 meters", "60 seconds", "60 seconds"],
+            ["32 meters", "40 seconds", "60 seconds"],
+            ["32 meters", "50 seconds", "60 seconds"],
             ["32 meters", "60 seconds", "60 seconds"]
         ]
     },
@@ -601,7 +597,7 @@
         "id": 49,
         "index": "SPIRIT_FURY",
         "name": "Spirit Fury",
-        "rarity": ["", "", ""],
+        "rarity": ["COMMON", "UNCOMMON", "RARE"],
         "owner": "SPIRIT",
         "description": "Each Pallet you break magnifies the wrath of The Entity.\nAfter breaking %s Pallets, the next time you are stunned by a Pallet, The Entity will instantly break it. You still suffer from the stun effect penalty.",
         "flavor": "\"Fury is her blood.\"",
@@ -612,21 +608,21 @@
         "id": 50,
         "index": "HEX_HAUNTED_GROUND",
         "name": "Hex: Haunted Ground",
-        "rarity": ["", "", ""],
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "SPIRIT",
         "description": "Two trapped Hex Totems will spawn in the Trial.\nWhen one of the two trapped Hex Totems is cleansed by a Survivor, all Survivors suffer from the Exposed Status Effect for %s seconds.\nThe remaining trapped Hex Totem immediately becomes a Dull Totem.",
         "flavor": "\"Her home became profane.\"",
-        "image": "hexHauntedGround",
+        "image": "hauntedGround",
         "tiers": [["40"], ["50"], ["60"]]
     },
     {
         "id": 51,
         "index": "RANCOR",
         "name": "Rancor",
-        "rarity": ["", "", ""],
+        "rarity": ["RARE", "VERY_RARE", "ULTRA_RARE"],
         "owner": "SPIRIT",
         "description": "You become obsessed with one Survivor.\nEach time a Generator is completed, the Obsession sees your Aura for %s seconds.\nEach time a Generator is completed, all Survivors' locations are revealed to you for 3 seconds.\nOnce all Generators are completed, the Obsession has the Exposed Status Effect and the Killer can kill the Obsession.\nOnly one Obsession per trial.",
-        "image": "rancor",
+        "image": "hatred",
         "tiers": [["5"], ["4"], ["3"]]
     }
 ]

@@ -205,7 +205,7 @@
         "abilities": [
             "The Wraith will %buncloak completely%/b when breaking Pallets or damaging Generators while cloaked."
         ],
-        "image": "theSerpentSoot"
+        "image": "sootTheSerpent"
     },
     {
         "id": 51,
@@ -217,7 +217,7 @@
         "abilities": [
             "Fresh Blood Marks are %bconsiderably%/b more discernible than normal."
         ],
-        "image": "theHoundSoot"
+        "image": "sootTheHound"
     },
     {
         "id": 52,
@@ -229,7 +229,7 @@
         "abilities": [
             "After uncloaking, The Wraith's Terror Radius and Red Stain will remain suppressed for %b6 seconds%/b."
         ],
-        "image": "theGhostSoot"
+        "image": "sootTheGhost"
     },
     {
         "id": 53,
@@ -242,7 +242,7 @@
             "The Wraith's Terror Radius is %bno longer suppressed%/b while cloaked.",
             "Bloodpoints granted for Stalking and Surprise Attacks are increased by %b100%%/b."
         ],
-        "image": "theBeastSoot"
+        "image": "sootTheBeast"
     },
     {
         "id": 54,
@@ -266,7 +266,7 @@
         "abilities": [
             "%bConsiderably reduces%/b The Wraith's disappearance time."
         ],
-        "image": "blinkMud"
+        "image": "mudBlink"
     },
     {
         "id": 56,
@@ -279,7 +279,7 @@
             "%bModerately increases%/b The Wraith's movement speed while cloaked.",
             "%bSlightly decreases%/b The Wraith's movement speed while uncloaking."
         ],
-        "image": "windstormMud"
+        "image": "mudWindstorm"
     },
     {
         "id": 57,
@@ -291,7 +291,7 @@
         "abilities": [
             "%bModerately reduces%/b The Wraith's reappearance time."
         ],
-        "image": "swiftHuntMud"
+        "image": "mudSwiftHunt"
     },
     {
         "id": 58,
@@ -303,7 +303,7 @@
         "abilities": [
             "%bSurprise Attacks%/b afflict Survivors with the %bBlindness%/b Status Effect."
         ],
-        "image": "blindWarriorMud"
+        "image": "mudBaikraKaeug"
     },
     {
         "id": 59,
@@ -316,7 +316,7 @@
             "%bConsiderably increases%/b The Wraith's movement speed while cloaked.",
             "%bSlightly decreases%/b The Wraith's movement speed while uncloaking."
         ],
-        "image": "windstormWhite"
+        "image": "whiteWindstorm"
     },
     {
         "id": 60,
@@ -328,7 +328,7 @@
         "abilities": [
             "%bConsiderably reduces%/b The Wraith's reappearance time."
         ],
-        "image": "swiftHuntWhite"
+        "image": "whiteKuntinTakkho"
     },
     {
         "id": 61,
@@ -340,7 +340,7 @@
         "abilities": [
             "%bConsiderably reduces%/b the time required to vault Windows, break Pallets or damage Generators while cloaked."
         ],
-        "image": "shadowDanceWhite"
+        "image": "whiteShadowDance"
     },
     {
         "id": 62,
@@ -352,7 +352,7 @@
         "abilities": [
             "%bTremendously reduces%/b The Wraith's disappearance time."
         ],
-        "image": "blinkWhite"
+        "image": "whiteBlink"
     },
     {
         "id": 63,
@@ -364,7 +364,7 @@
         "abilities": [
             "%bSurprise Attacks%/b afflict Survivors with the Mangled and Hemorrhage Status Effects until fully healed."
         ],
-        "image": "blindWarriorWhite"
+        "image": "whiteBlindWarrior"
     },
     {
         "id": 64,
@@ -377,7 +377,7 @@
             "%bTremendously increases%/b The Wraith's movement speed while cloaked.",
             "%bSlightly decreases%/b The Wraith's movement speed while uncloaking."
         ],
-        "image": "windstormBlood"
+        "image": "bloodWindstorm"
     },
     {
         "id": 65,
@@ -389,7 +389,7 @@
         "abilities": [
             "%bTremendously reduces%/b The Wraith's reappearance time."
         ],
-        "image": "swiftHuntBlood"
+        "image": "bloodSwiftHunt"
     },
     {
         "id": 66,
@@ -401,7 +401,7 @@
         "abilities": [
             "%bTremendously reduces%/b the time required to vault Windows, break Pallets or damage Generators while cloaked."
         ],
-        "image": "shadowDanceBlood"
+        "image": "bloodShadowDance"
     },
     {
         "id": 67,
@@ -413,7 +413,7 @@
         "abilities": [
             "Unlocks hidden potential in one's Aura-reading ability. While cloaked, the Auras of Survivors within %b12 metres%/b are revealed to you."
         ],
-        "image": "allSeeingBlood"
+        "image": "bloodKraFabai"
     },
     {
         "id": 68,
@@ -435,7 +435,7 @@
         "abilities": [
             "Unlocks awesome potential in one's Aura-reading ability. While cloaked, the %brepair progress of Generators%/b can be determined by the %bintensity of their Auras%/b."
         ],
-        "image": "allSeeingSpirit"
+        "image": "spiritAllSeeing"
     },
     {
         "id": 100,
@@ -2985,7 +2985,7 @@
         "rarity": "COMMON",
         "description": "A Talisman that makes one happy and enthusiastic.",
         "abilities": ["%bSlightly increases%/b Yamaoka's Haunting duration."],
-        "image": "shiawaseAmulet"
+        "image": "ShiawaseAmulet"
     },
     {
         "id": 602,
@@ -3045,7 +3045,7 @@
         "abilities": [
             "%bModerately increases%/b Yamaoka's Haunting movement speed."
         ],
-        "image": "muddySportsDayCap"
+        "image": "muddySportCap"
     },
     {
         "id": 607,
@@ -3067,7 +3067,7 @@
         "abilities": [
             "%bSlightly increases%/b the frequency of the passive phasing."
         ],
-        "image": "juniperBonsai"
+        "image": "juniperBonzai"
     },
     {
         "id": 609,
@@ -3128,7 +3128,7 @@
         "abilities": [
             "%bConsiderably decreases%/b Yamaoka's Haunting activation charge time."
         ],
-        "image": "bloodyHairBrooch"
+        "image": "bloodyHairBroochi"
     },
     {
         "id": 614,
@@ -3167,7 +3167,7 @@
         "abilities": [
             "%bModerately decreases%/b the range of the sound emission radius while using Yamaoka's Haunting."
         ],
-        "image": "prayerBeadsBracelet"
+        "image": "prayersBeads"
     },
     {
         "id": 617,

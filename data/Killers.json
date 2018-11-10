@@ -120,8 +120,8 @@
         "index": "SPIRIT",
         "name": "The Spirit",
         "power": "YAMAOKAS_HAUNTING",
-        "description": "",
+        "description": "The Spirit is a phase-walking Killer, able to catch Survivors off-guard with her traversal Power, %bYamaoka's Haunting%/b. Her Power allows her to teleport from one place to another without being seen.",
         "perks": ["SPIRIT_FURY", "HEX_HAUNTED_GROUND", "RANCOR"],
-        "image": "RY"
+        "image": "HK"
     }
 ]

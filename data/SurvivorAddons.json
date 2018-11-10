@@ -389,7 +389,7 @@
         "type": "AID_KIT",
         "rarity": "COMMON",
         "description": "A pack of bandages usually found in First Aid Kits.",
-        "abilities": ["Adds %b6 charges%/b to the Med-Kit."],
+        "abilities": ["Adds %b8 charges%/b to the Med-Kit."],
         "image": "bandages"
     },
     {
@@ -412,7 +412,7 @@
         "rarity": "UNCOMMON",
         "description": "A pack of bandages that stick to themselves without the need of clips for a faster patch-up that requires less readjustments.",
         "abilities": [
-            "Adds %b6 charges%/b to the Med-Kit.",
+            "Adds %b8 charges%/b to the Med-Kit.",
             "%bSlightly increases%/b the healing speed."
         ],
         "image": "selfAdherentWrap"
@@ -448,7 +448,7 @@
         "type": "AID_KIT",
         "rarity": "UNCOMMON",
         "description": "A sterile gauze used for a variety of wounds. Part of a total wound care system.",
-        "abilities": ["Adds %b8 charges%/b to the Med-Kit."],
+        "abilities": ["Adds %b12 charges%/b to the Med-Kit."],
         "image": "gauseRoll"
     },
     {
@@ -472,7 +472,7 @@
         "type": "AID_KIT",
         "rarity": "RARE",
         "description": "A pack of gel forming pads used to patch up heavily exudating wounds.",
-        "abilities": ["Adds %b10 charges%/b to the Med-Kit."],
+        "abilities": ["Adds %b16 charges%/b to the Med-Kit."],
         "image": "gelDressings"
     },
     {
