@@ -322,7 +322,7 @@
         "description": "A strange bead circled with gold that can be used to magnify the map and mark a specific position. The bead emits an energy which can be felt and seen by Survivors.",
         "abilities": [
             "Unlocks the Marker Ability on secondary action.",
-            "Creating a marker that can be seen by all the Survivors."
+            "Creating a marker that can be seen by all The Survivors."
         ],
         "image": "beadGlass"
     },

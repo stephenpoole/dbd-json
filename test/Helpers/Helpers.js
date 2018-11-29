@@ -106,6 +106,10 @@ export class Helpers {
         this.resolve(done, value in data.Enum.Rarities);
     }
 
+    static isDifficulty(done, value) {
+        this.resolve(done, value in data.Enum.Difficulties);
+    }
+
     static isItem(done, value) {
         this.resolve(done, value in data.Enum.ItemTypes);
     }

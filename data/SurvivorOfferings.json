@@ -251,7 +251,7 @@
         "index": "VIGOS_SHROUD",
         "name": "Vigo's Shroud",
         "rarity": "UNCOMMON",
-        "description": "You start the trial as far away as possible from the Killer.",
+        "description": "You start the trial as far away as possible from The Killer.",
         "abilities": ["Secret"],
         "flavor": "\"I found marvels through the years in the fog, but only now do I understand how to bend the fog's irrefragable rules.\" -Vigo's Journal",
         "image": "vigosShroud"

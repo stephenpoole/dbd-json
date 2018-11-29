@@ -130,7 +130,7 @@
             "Survivors who are not awake do not see %bThe Nightmare%/b.",
             "Once targeted by %bThe Nightmare's%/b power, Survivors enter the %bDream Transition%/b for a very short time.",
             "During the %bDream Transition%/b they can see %bThe Nightmare%/b.",
-            "When the %bDream Transition%/b lapses, the Survivor is pulled into the %bDream World%/b.",
+            "When the %bDream Transition%/b lapses, The Survivor is pulled into the %bDream World%/b.",
             "Once in the %bDream World%/b:",
             "Survivors' auras are revealed to %bThe Nightmare%/b when they are outside of his Terror Radius.",
             "Survivors suffer an action speed penalty of %b50%%/b.",
@@ -153,7 +153,7 @@
             "Activate the attack interaction to dash and perform an ambush attack.",
             "Start the trial with %b4%/b Reverse Bear Traps:",
             "Reverse Bear Traps are put on %bDying%/b survivors",
-            "Reverse Bear Traps automatically Kill the Survivor when they trigger.",
+            "Reverse Bear Traps automatically Kill The Survivor when they trigger.",
             "Reverse Bear Traps trigger automatically beyond the Exit Gates.",
             "Reverse Bear Traps trigger once their timers expire.",
             "Reverse Bear Trap's timer starts when a generator is completed.",
@@ -190,5 +190,19 @@
             "Using Yamaoka's Haunting depletes The Spirit's power bar. The power bar will automatically replenish over time. The power bar must be fully replenished before it can be triggered again."
         ],
         "image": "yamaokasHaunting"
+    },
+    {
+        "id": 14,
+        "index": "FERAL_FRENZY",
+        "name": "Feral Frenzy",
+        "owner": "LEGION",
+        "description": "The Legion has a Frenzy %bpower guage%/b that builds up over time. The power, Feral Frenzy, can be activated by %btapping the Power button%/b. While active, the power guage drains rapidly and the power ends when the guage is empty, triggering an %bextended recovery cooldown%/b.",
+        "abilities": [
+            "When activating Feral Frenzy, The Legion enters a deadly rage. While the power is %bactive%/b:\nthe Legion %bsprints faster%/b than base movement speed.\nThe Legion can %bvault pallets%/b but cannot break them.\nSurvivrs' scratch marks are hidden from The Killer's view.\nMissed attacks have a %breduced cooldown%/b.",
+            "While Feral Frenzy is active, hitting a Survivor who is not currently afflicted with the %bDeep Wound status effect%/b:\nApplies %bDeep Wound status effect%/b.\n%bInjures%/b The Survivor, if they are not already injured.\n%bRefills%/b The Killer's entire power guage.\nTriggers 'Killer Instinct', %brevealing the location%/b of all Survivors who do not have the %bDeep Wound status effect%/b applied and are within The Killer's terror radius.",
+            "While Feral Frenzy is active, hitting a Survivor who is currently afflicted with the %bDeep Wound status effect%/b:\n%bReduces%/b a portion of The Survivors' Deep Wound bleed-out timer.\n%bDepletes%/b The Killer's entire power guage and ends the power immediately.",
+            "Note: Hitting a Survivor with a basic attack while Feral Frenzy is not active will deplete The Killer's entire power guage."
+        ],
+        "image": "feralFrenzy"
     }
 ]

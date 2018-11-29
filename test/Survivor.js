@@ -18,6 +18,7 @@ describe('#Survivors', function() {
                 PropertyValidate.id(item, survivors);
                 PropertyValidate.name(item, survivors);
                 PropertyValidate.description(item, survivors);
+                PropertyValidate.difficulty(item, survivors);
                 PropertyValidate.image(
                     item,
                     survivors,
