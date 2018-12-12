@@ -3,6 +3,7 @@
         "id": 1,
         "index": "DWIGHT_FAIRFIELD",
         "name": "Dwight Fairfield",
+        "difficulty": "EASY",
         "description": "A nervous leader, able to locate his allies and increase their effectiveness.",
         "perks": ["BOND", "PROVE_THYSELF", "LEADER"],
         "image": "DF"
@@ -11,6 +12,7 @@
         "id": 2,
         "index": "MEG_THOMAS",
         "name": "Meg Thomas",
+        "difficulty": "EASY",
         "description": "An energetic athlete, able to outrun most killers.",
         "perks": ["QUICK_AND_QUIET", "SPRINT_BURST", "ADRENALINE"],
         "image": "MT"
@@ -19,6 +21,7 @@
         "id": 3,
         "index": "CLAUDETTE_MOREL",
         "name": "Claudette Morel",
+        "difficulty": "EASY",
         "description": "A studious botanist, able to boost her team's survivability as well as her own.",
         "perks": ["EMPATHY", "BOTANY_KNOWLEDGE", "SELF_CARE"],
         "image": "CM"
@@ -27,6 +30,7 @@
         "id": 4,
         "index": "JAKE_PARK",
         "name": "Jake Park",
+        "difficulty": "INTERMEDIATE",
         "description": "A solitary survivalist, able to hold his own in most situations.",
         "perks": ["IRON_WILL", "CALM_SPIRIT", "SABOTEUR"],
         "image": "JP"
@@ -35,6 +39,7 @@
         "id": 5,
         "index": "NEA_KARLSSON",
         "name": "Nea Karlsson",
+        "difficulty": "INTERMEDIATE",
         "description": "An urban artist, able to easily escape and hide.",
         "perks": ["BALANCED_LANDING", "URBAN_EVASION", "STREETWISE"],
         "image": "NK"
@@ -42,6 +47,7 @@
     {
         "id": 6,
         "index": "WILLIAM_OVERBECK",
+        "difficulty": "HARD",
         "name": "William \"Bill\" Overbeck",
         "description": "An old soldier, accustomed to dealing with critical situations.",
         "perks": ["LEFT_BEHIND", "BORROWED_TIME", "UNBREAKABLE"],
@@ -51,6 +57,7 @@
         "id": 7,
         "index": "DAVID_KING",
         "name": "David King",
+        "difficulty": "INTERMEDIATE",
         "description": "A rugged scrapper, rewarding high-risk play.",
         "perks": ["WERE_GONNA_LIVE_FOREVER", "DEAD_HARD", "NO_MITHER"],
         "image": "DK"
@@ -59,6 +66,7 @@
         "id": 8,
         "index": "LAURIE_STRODE",
         "name": "Laurie Strode",
+        "difficulty": "HARD",
         "description": "A determined Survivor, prepared to weather any challenge.",
         "perks": ["SOLE_SURVIVOR", "OBJECT_OF_OBSESSION", "DECISIVE_STRIKE"],
         "image": "LS"
@@ -67,6 +75,7 @@
         "id": 9,
         "index": "ACE_VISCONTI",
         "name": "Ace Visconti",
+        "difficulty": "EASY",
         "description": "A lucky gambler, improving the odds of the entire team.",
         "perks": ["OPEN_HANDED", "UP_THE_ANTE", "ACE_IN_THE_HOLE"],
         "image": "AV"
@@ -75,6 +84,7 @@
         "id": 10,
         "index": "FENG_MIN",
         "name": "Feng Min",
+        "difficulty": "EASY",
         "description": "A focused competitor, able to focus on objectives and quickly switch focus.",
         "perks": ["TECHNICIAN", "LITHE", "ALERT"],
         "image": "FM"
@@ -83,6 +93,7 @@
         "id": 11,
         "index": "QUENTIN_SMITH",
         "name": "Quentin Smith",
+        "difficulty": "EASY",
         "description": "A resolute dreamwalker, increasing the survivability and recovery of his team.",
         "perks": ["WAKE_UP", "PHARMACY", "VIGIL"],
         "image": "QS"
@@ -91,6 +102,7 @@
         "id": 12,
         "index": "DAVID_TAPP",
         "name": "David Tapp",
+        "difficulty": "INTERMEDIATE",
         "description": "An obsessed detective, able to locate and complete objectives faster.",
         "perks": ["TENACITY", "DETECTIVES_HUNCH", "STAKE_OUT"],
         "image": "FS"
@@ -99,6 +111,7 @@
         "id": 13,
         "index": "KATE_DENSON",
         "name": "Kate Denson",
+        "difficulty": "EASY",
         "description": "A hopeful songbird, able to make the most of her surroundings.",
         "perks": ["WINDOWS_OF_OPPORTUNITY", "BOIL_OVER", "DANCE_WITH_ME"],
         "image": "GS"
@@ -107,8 +120,18 @@
         "id": 14,
         "index": "ADAM_FRANCIS",
         "name": "Adam Francis",
+        "difficulty": "INTERMEDIATE",
         "description": "A resourceful Teacher, able to adapt to new circumstances and develop strategies accordingly.",
         "perks": ["DIVERSION", "DELIVERANCE", "AUTODIDACT"],
         "image": "AF"
+    },
+    {
+        "id": 15,
+        "index": "JEFF_JOHANSEN",
+        "name": "Jeff Johansen",
+        "difficulty": "INTERMEDIATE",
+        "description": "A quiet artist, standing steadfast against impossible odds.",
+        "perks": ["BREAKDOWN", "AFTERCARE", "DISTORTION"],
+        "image": "KS"
     }
 ]

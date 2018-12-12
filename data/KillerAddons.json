@@ -1232,7 +1232,7 @@
         "rarity": "UNCOMMON",
         "description": "A handful of small, pristine flower clusters covered in a fine greyish fur.",
         "abilities": [
-            "Reveals the Survivor's aura for %b3 seconds%/b when they trip the Phantasm trap.",
+            "Reveals The Survivor's aura for %b3 seconds%/b when they trip the Phantasm trap.",
             "%bSlightly reduces%/b the effective Phantasm trap range."
         ],
         "image": "pussyWillowCatkins"
@@ -1293,7 +1293,7 @@
         "rarity": "RARE",
         "description": "Three frail willow branches attached to form a triangular wreath.",
         "abilities": [
-            "Reveals the Survivor's aura for %b5 seconds%/b when they trip the Phantasm trap."
+            "Reveals The Survivor's aura for %b5 seconds%/b when they trip the Phantasm trap."
         ],
         "image": "willowWreath"
     },
@@ -1369,7 +1369,7 @@
         "rarity": "VERY_RARE",
         "description": "Shackles once used to hold prisoners and carcasses in the cannibal village cellar. The trapped life essence within unlocks tremendous potential in The Hag's power.",
         "abilities": [
-            "Tripped Phantasm traps give no indication of being triggered to the Survivor.",
+            "Tripped Phantasm traps give no indication of being triggered to The Survivor.",
             "Trap does not spawn a Hag Phantasm."
         ],
         "image": "rustyShackles"
@@ -2287,7 +2287,7 @@
         "rarity": "UNCOMMON",
         "description": "Sturdy outdoor rope, handy to tie up anything.",
         "abilities": [
-            "%bModerately decreases%/b the Survivors' Action Speed when in the %bDream World%/b."
+            "%bModerately decreases%/b The Survivors' Action Speed when in the %bDream World%/b."
         ],
         "image": "outdoorRope"
     },
@@ -2687,7 +2687,7 @@
         "rarity": "ULTRA_RARE",
         "description": "Not all games need to have the same rules.",
         "abilities": [
-            "%bDisables%/b the Survivors' ability to see Jigsaw Boxes highlighted until their Trap is activated."
+            "%bDisables%/b The Survivors' ability to see Jigsaw Boxes highlighted until their Trap is activated."
         ],
         "flavor": "\"Listen, there are rules.\" — Jigsaw",
         "image": "rulesSetN2"
@@ -3206,5 +3206,237 @@
             "Survivor blood trails are %bvisible%/b while using Yamaoka's Haunting."
         ],
         "image": "fathersGlasses"
+    },
+    {
+        "id": 650,
+        "index": "SMILEY_FACE_PIN",
+        "name": "Smiley Face Pin",
+        "owner": "LEGION",
+        "rarity": "COMMON",
+        "description": "A friendly looking, bright yellow button used as a sarcastic statement.",
+        "abilities": [
+            "%bSlightly decreases%/b the power guage depletion on successful attacks."
+        ],
+        "image": "smileyFaceButton"
+    },
+    {
+        "id": 651,
+        "index": "SCRATCHED_RULER",
+        "name": "Scratched Ruler",
+        "owner": "LEGION",
+        "rarity": "COMMON",
+        "description": "A wooden ruler deeply scratched with hash marks.",
+        "abilities": [
+            "%bSlightly decreases%/b the time required to refill the power guage."
+        ],
+        "image": "scratchedRuler"
+    },
+    {
+        "id": 652,
+        "index": "MISCHIEF_LIST",
+        "name": "Mischief List",
+        "owner": "LEGION",
+        "rarity": "COMMON",
+        "description": "A list of mischievous missions to accomplish, memento of brighter days.",
+        "abilities": ["%bSlightly increases%/b Feral Frenzy duration."],
+        "image": "mischiefList"
+    },
+    {
+        "id": 653,
+        "index": "FRIENDSHIP_BRACELET",
+        "name": "Friendship Bracelet",
+        "owner": "LEGION",
+        "rarity": "COMMON",
+        "description": "A wide gray and red braided rope bracelet. The inscription \"F J S J\" can be seen, crudely written in bold black ink.",
+        "abilities": ["%bSlightly increases%/b Feral Frenzy movement speed."],
+        "image": "friendshipBracelet"
+    },
+    {
+        "id": 654,
+        "index": "NEVERSLEEP_PILLS",
+        "name": "Never-Sleep Pills",
+        "owner": "LEGION",
+        "rarity": "UNCOMMON",
+        "description": "Highly caffeinated tablets to make you extra sharp for exams or draining activites.",
+        "abilities": ["%bModerately increases%/b Feral Frenzy movement speed."],
+        "image": "friendshipBracelet"
+    },
+    {
+        "id": 655,
+        "index": "MURAL_SKETCH",
+        "name": "Mural Sketch",
+        "owner": "LEGION",
+        "rarity": "UNCOMMON",
+        "description": "A rough sketch of The Legion mural torn from a notebook.",
+        "abilities": ["%bModerately increases%/b Feral Frenzy duration."],
+        "image": "muralSketch"
+    },
+    {
+        "id": 656,
+        "index": "JULIES_MIX_TAPE",
+        "name": "Julie's Mix Tape",
+        "owner": "LEGION",
+        "rarity": "UNCOMMON",
+        "description": "A dark and depressing mix tape made out from mainly power ballads and gloomy melodies.",
+        "abilities": [
+            "%bSlightly decreases%/b the cooldown duration of Feral Frenzy."
+        ],
+        "image": "juliesMixtape"
+    },
+    {
+        "id": 657,
+        "index": "ETCHED_RULER",
+        "name": "Etched Ruler",
+        "owner": "LEGION",
+        "rarity": "UNCOMMON",
+        "description": "A wooden ruler deeply etched with the names of enemies.",
+        "abilities": [
+            "%bModerately decreases%/b the time required to refill the power guage."
+        ],
+        "image": "etchedRuler"
+    },
+    {
+        "id": 658,
+        "index": "DEFACED_SMILEY_PIN",
+        "name": "Defaced Smiley Pin",
+        "owner": "LEGION",
+        "rarity": "UNCOMMON",
+        "description": "A once friendly looking, bright yellow button of a defaced smiley. A signature icon of The Legion.",
+        "abilities": [
+            "%bModerately decreases%/b the power guage depletion on successful attacks."
+        ],
+        "image": "defacedSmileyButton"
+    },
+    {
+        "id": 659,
+        "index": "THE_LEGION_PIN",
+        "name": "The Legion Pin",
+        "owner": "LEGION",
+        "rarity": "RARE",
+        "description": "A handmade button with the face of The Legion. To use exclusively on intimidation dares.",
+        "abilities": [
+            "%bConsiderably decreases%/b the power guage depletion on successful attacks."
+        ],
+        "image": "theLegionButton"
+    },
+    {
+        "id": 660,
+        "index": "SUSIES_MIX_TAPE",
+        "name": "Susie's Mix Tape",
+        "owner": "LEGION",
+        "rarity": "RARE",
+        "description": "A fast and thrilling mix tape with energizing songs with break-neck beats.",
+        "abilities": [
+            "%bConsiderably increases%/b Feral Frenzy movement speed."
+        ],
+        "image": "suziesMixtape"
+    },
+    {
+        "id": 661,
+        "index": "STOLEN_SKETCH_BOOK",
+        "name": "Stolen Sketch Book",
+        "owner": "LEGION",
+        "rarity": "RARE",
+        "description": "A sketch book with imaginative and evocative if not slightly bizarre sketches.",
+        "abilities": ["%bConsiderably increases%/b Feral Frenzy duration."],
+        "image": "stolenSketchbook"
+    },
+    {
+        "id": 662,
+        "index": "NASTY_BLADE",
+        "name": "Nasty Blade",
+        "owner": "LEGION",
+        "rarity": "RARE",
+        "description": "The blade is stained with unsanitary spots of grime that make injuries particularly difficult to mend.",
+        "abilities": [
+            "%bModerately increases%/b the amount of time required for Survivors to complete the Mend action."
+        ],
+        "image": "nastyBlade"
+    },
+    {
+        "id": 663,
+        "index": "JOEYS_MIX_TAPE",
+        "name": "Joey's Mix Tape",
+        "owner": "LEGION",
+        "rarity": "RARE",
+        "description": "A mix of bangin' tracks and slammin' bears for chillazin' when life's a bitch.",
+        "abilities": [
+            "%bModerately decreases%/b the cooldown duration of Feral Frenzy."
+        ],
+        "image": "joeysMixtape"
+    },
+    {
+        "id": 664,
+        "index": "STAB_WOUNDS_STUDY",
+        "name": "Stab Wounds Study",
+        "owner": "LEGION",
+        "rarity": "VERY_RARE",
+        "description": "A printed medical article stolen from Ormond's public library vulgarizing a study on lesions and stab wounds.",
+        "abilities": [
+            "%bConsiderably decreases%/b the Deep Wound timer of all Survivors."
+        ],
+        "image": "stabWoundsStudy"
+    },
+    {
+        "id": 665,
+        "index": "FRANKS_MIX_TAPE",
+        "name": "Frank's Mix Tape",
+        "owner": "LEGION",
+        "rarity": "VERY_RARE",
+        "description": "Never go on a kill mission without your tunes. A track list of massive distortions and loud percussion that stabs at your eardrums.",
+        "abilities": [
+            "%bConsiderably increases%/b the amount of damage applied to a Survivor's Deep Wound timer while attacking in Feral Frenzy."
+        ],
+        "image": "franksMixtape"
+    },
+    {
+        "id": 666,
+        "index": "FILTHY_BLADE",
+        "name": "Filthy Blade",
+        "owner": "LEGION",
+        "rarity": "VERY_RARE",
+        "description": "This blade is stained with foul spots of blood and grime that make injuries particularly difficult to mend.",
+        "abilities": [
+            "%bConsiderably increases%/b the amount of time required for Survivors to complete the Mend action."
+        ],
+        "image": "filthyBlade"
+    },
+    {
+        "id": 667,
+        "index": "COLD_DIRT",
+        "name": "Cold Dirt",
+        "owner": "LEGION",
+        "rarity": "VERY_RARE",
+        "description": "A handful of dirt collected from the janitor's final rfesting place. It is unnaturally cold.",
+        "abilities": [
+            "%bConsiderably decreases%/b the cooldown duration of Feral Frenzy."
+        ],
+        "image": "coldDirt"
+    },
+    {
+        "id": 668,
+        "index": "IRIDESCENT_BUTTON",
+        "name": "Iridescent Button",
+        "owner": "LEGION",
+        "rarity": "ULTRA_RARE",
+        "description": "A glass-like button molded from The Fog that captures The Legion's likeness. The surface is warm and reverberating with The Entity's power.",
+        "flavor": "\"The youth consumed by the iridescent glass magnifies and widens the reach of The Entity.\"",
+        "abilities": [
+            "When the Deep Wound status effect has been applied during Feral Frenzy:\nYour terror radius affects %bthe entire map%/b\nAny pallets you vault are %bimmediately broken.%/b",
+            "This effect lasts until the power guage is depleted."
+        ],
+        "image": "iridescentButton"
+    },
+    {
+        "id": 669,
+        "index": "FUMING_MIX_TAPE",
+        "name": "Fuming Mix Tape",
+        "owner": "LEGION",
+        "rarity": "ULTRA_RARE",
+        "description": "Dark beats, violent shreds and unfathomable vocals from another world fill the mind with a vibrating sixth sense.",
+        "abilities": [
+            "While using Final Frenzy, the %brepair progress of generators%/b can be determined by the %bintensity of their auras.%/b"
+        ],
+        "image": "fumingMixtape"
     }
 ]

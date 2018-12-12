@@ -5,7 +5,7 @@
         "name": "Bitter Murmur",
         "owner": "ALL",
         "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
-        "description": "Unlocks potential in one's Aura reading ability. Each time a generator is fully repaired, survivors within %s of the completed generator will be revealed for %s. When the last generator is fully repaired, all the survivors auras are revealed for %s",
+        "description": "Unlocks potential in one's Aura reading ability. Each time a generator is fully repaired, survivors within %s of the completed generator will be revealed for %s. When the last generator is fully repaired, all The Survivors auras are revealed for %s",
         "image": "bitterMurmur",
         "tiers": [
             ["16 meters", "5 seconds", "5 seconds"],
@@ -54,7 +54,7 @@
         "name": "\"Hex\": No One Escapes Death",
         "owner": "ALL",
         "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
-        "description": "A Hex rooting its power on hope. You are animated by the power of your Hex Totem when the Survivors are on the verge of escaping. Once the Exit Gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, Survivors suffer from the %bExposed%/b Status Effect, your movement speed is increased by %s.\nThis effect persists as long as the related Hex Totem is standing.",
+        "description": "A Hex rooting its power on hope. You are animated by the power of your Hex Totem when The Survivors are on the verge of escaping. Once the Exit Gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, Survivors suffer from the %bExposed%/b Status Effect, your movement speed is increased by %s.\nThis effect persists as long as the related Hex Totem is standing.",
         "flavor": "\"And the beast became faster and more powerful as if the Entity's shadowy whips were lashing at its back.\"",
         "image": "noOneEscapesDeath",
         "tiers": [["2%"], ["3%"], ["4%"]]
@@ -85,7 +85,7 @@
         "name": "Sloppy Butcher",
         "owner": "ALL",
         "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
-        "description": "You know where to hit to make them bleed. Wounds inflicted by successful attacks %s increase the survivor's bleeding frequency and causes the %s effect.\nBleeding and Mangled effects caused by %iSloppy Butcher%/i return to normal once the survivor is fully healed.",
+        "description": "You know where to hit to make them bleed. Wounds inflicted by successful attacks %s increase The Survivor's bleeding frequency and causes the %s effect.\nBleeding and Mangled effects caused by %iSloppy Butcher%/i return to normal once The Survivor is fully healed.",
         "flavor": "\"It's in its sadistic nature. There is no swift kill as it delights in the obscene spectable of our agonizing suffering.\"",
         "image": "sloppyButcher",
         "tiers": [
@@ -323,7 +323,7 @@
         "name": "\"Hex\": Ruin",
         "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "HAG",
-        "description": "A Hex that affects the Survivors' skills at repairing Generators. %s are affected by Ruin, which causes Good Skill Checks to result in %s regression on the Generator. Great Skill Checks grant %s bonus progression on the generator.\nThe Hex effects persist as long as the related Hex Totem is standing.",
+        "description": "A Hex that affects The Survivors' skills at repairing Generators. %s are affected by Ruin, which causes Good Skill Checks to result in %s regression on the Generator. Great Skill Checks grant %s bonus progression on the generator.\nThe Hex effects persist as long as the related Hex Totem is standing.",
         "flavor": "A curse is upon you. It will cause your ruin.",
         "image": "ruin",
         "tiers": [
@@ -457,7 +457,7 @@
         "name": "Franklin's Demise",
         "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "CANNIBAL",
-        "description": "Your vicious attacks make the Survivors drop their Item on impact. The lost item is damaged in the fall, losing %s of its base amount of Charges.",
+        "description": "Your vicious attacks make The Survivors drop their Item on impact. The lost item is damaged in the fall, losing %s of its base amount of Charges.",
         "flavor": "Sally, I hear something. Stop! Stop!",
         "image": "franklinsLoss",
         "tiers": [["0%"], ["5%"], ["10%"]]
@@ -468,7 +468,7 @@
         "name": "Fire Up",
         "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "NIGHTMARE",
-        "description": "The increased pressure of losing your preys fills you with anger and gives you unsuspected motivation. Each time the Survivors complete repairs on a Generator, Fire Up grows in power and grants speed bonus to pick up, drop, Pallet break, Generator break and vaults.\n2 Tokens: Receive %s action speed bonus.\n3 Tokens: Receive %s action speed bonus.\n4 Tokens: Receive %s action speed bonus.",
+        "description": "The increased pressure of losing your preys fills you with anger and gives you unsuspected motivation. Each time The Survivors complete repairs on a Generator, Fire Up grows in power and grants speed bonus to pick up, drop, Pallet break, Generator break and vaults.\n2 Tokens: Receive %s action speed bonus.\n3 Tokens: Receive %s action speed bonus.\n4 Tokens: Receive %s action speed bonus.",
         "image": "fireUp",
         "tiers": [
             ["6%", "8%", "10%"],
@@ -551,7 +551,7 @@
         "name": "Iron Grasp",
         "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "ALL",
-        "description": "Your powerful hold on the Survivors causes escapes to be nearly impossible. Effects of survivor struggling are reduced by %s. Time to struggle out of your grasp is increased by %s.",
+        "description": "Your powerful hold on The Survivors causes escapes to be nearly impossible. Effects of survivor struggling are reduced by %s. Time to struggle out of your grasp is increased by %s.",
         "image": "ironGrasp",
         "tiers": [["25%", "4%"], ["50%", "8%"], ["75%", "12%"]]
     },
@@ -571,7 +571,7 @@
         "name": "Pop Goes The Weasel",
         "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "CLOWN",
-        "description": "A deep bond with The Entity unlocks great strength. After Hooking a Survivor, the next Generator you break is instantly regressed by %s of its total progression. Normal generator regression applies after the damage is done. %iPop Goes the Weasel%/i is active for %s after the Survivor is hooked.",
+        "description": "A deep bond with The Entity unlocks great strength. After Hooking a Survivor, the next Generator you break is instantly regressed by %s of its total progression. Normal generator regression applies after the damage is done. %iPop Goes the Weasel%/i is active for %s after The Survivor is hooked.",
         "image": "popGoesTheWeasel",
         "tiers": [
             ["15%", "30 seconds"],
@@ -621,8 +621,45 @@
         "name": "Rancor",
         "rarity": ["RARE", "VERY_RARE", "ULTRA_RARE"],
         "owner": "SPIRIT",
-        "description": "You become obsessed with one Survivor.\nEach time a Generator is completed, the Obsession sees your Aura for %s seconds.\nEach time a Generator is completed, all Survivors' locations are revealed to you for 3 seconds.\nOnce all Generators are completed, the Obsession has the Exposed Status Effect and the Killer can kill the Obsession.\nOnly one Obsession per trial.",
+        "description": "You become obsessed with one Survivor.\nEach time a Generator is completed, the Obsession sees your Aura for %s seconds.\nEach time a Generator is completed, all Survivors' locations are revealed to you for 3 seconds.\nOnce all Generators are completed, the Obsession has the Exposed Status Effect and The Killer can kill the Obsession.\nOnly one Obsession per trial.",
         "image": "hatred",
         "tiers": [["5"], ["4"], ["3"]]
+    },
+    {
+        "id": 52,
+        "index": "DISCORDANCE",
+        "name": "Discordance",
+        "rarity": ["COMMON", "UNCOMMON", "RARE"],
+        "owner": "LEGION",
+        "description": "Any time two or more Survivors are working on the same Generator, that Generator's Aura is highlighted in yellow for %s.",
+        "flavor": "\"Smartasses get killed. We always see to that.\" — The Legion",
+        "image": "discordance",
+        "tiers": [["8 seconds"], ["10 seconds"], ["12 seconds"]]
+    },
+    {
+        "id": 53,
+        "index": "MAD_GRIT",
+        "name": "Mad Grit",
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
+        "owner": "LEGION",
+        "description": "While carrying a Survivor, you suffer no cool-down on missed attacks and successfully hitting another Survivor will pause the carried Survivor's wiggle timer for %s.",
+        "flavor": "\"There's no getting out of this now. We're too good at it.\" — The Legion",
+        "image": "madGrit",
+        "tiers": [["2 seconds"], ["3 seconds"], ["4 seconds"]]
+    },
+    {
+        "id": 54,
+        "index": "IRON_MAIDEN",
+        "name": "Iron Maiden",
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
+        "owner": "LEGION",
+        "description": "You open Lockers %s faster.\nSurvivors who exit Lockers suffer from the Exposed Status Effect for %s and their location is revealed for %s.",
+        "flavor": "\"This is no place for cowards.\" — The Legion",
+        "image": "ironMaiden",
+        "tiers": [
+            ["30%", "15 seconds", "4 seconds"],
+            ["40%", "15 seconds", "4 seconds"],
+            ["50%", "15 seconds", "4 seconds"]
+        ]
     }
 ]

@@ -40,7 +40,8 @@ If you find an error or something is outdated, feel free to submit a pull reques
 {
         "id": 1, (number, required)  
         "index": "SHAPE", (string, required)  
-        "name": "The Shape", (string, required)  
+        "name": "The Shape", (string, required) 
+        "difficulty": "HARD", (string, required, of type Enum.Difficulties)
         "power": "EVIL_WITHIN", (string, required, of type Powers[].index)
         "description":
             "A haunting Killer, intent on monitoring Survivors from a distance to feed his power, %bEvil Within%/b. The more he stalks, the stronger and faster he becomes.", (string, required)
@@ -61,6 +62,7 @@ If you find an error or something is outdated, feel free to submit a pull reques
         "id": 1, (number, required)  
         "index": "NEA_KARLSSON", (string, required)  
         "name": "Nea Karlsson", (string, required)  
+        "difficulty": "INTERMEDIATE", (string, required, of type Enum.Difficulties)
         "description":
             "An urban artist, able to easily escape and hide.", (string, required)
         "perks": [

@@ -5,7 +5,7 @@
         "name": "Dark Sense",
         "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "ALL",
-        "description": "Unlocks potential in one's aura reading ability. Each time a generator is completed, the killer's aura is revealed to you for %s.\nWhen the last generator is powered, the killer's aura is revealed to you for %s.",
+        "description": "Unlocks potential in one's aura reading ability. Each time a generator is completed, The Killer's aura is revealed to you for %s.\nWhen the last generator is powered, The Killer's aura is revealed to you for %s.",
         "flavor": "\"Take it from an old-timer: Slow down, don't rush and try not to worry so much! The best way to beat him is to know how he thinks.\" - Lost Tapes, Murf",
         "image": "darkSense",
         "tiers": [
@@ -44,7 +44,7 @@
         "name": "Kindred",
         "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "ALL",
-        "description": "Unlocks potential in one's Aura reading ability. While you're on the Hook, %s Survivors' auras are revealed to all other Survivors. If the Killer is within an %s range, its aura is revealed to all other Survivors. Kindred trumps any of the Killer's stealth abilities.",
+        "description": "Unlocks potential in one's Aura reading ability. While you're on the Hook, %s Survivors' auras are revealed to all other Survivors. If The Killer is within an %s range, its aura is revealed to all other Survivors. Kindred trumps any of The Killer's stealth abilities.",
         "flavor": "\"Be kind to one another. We're all in this together.\" — Sujan, The Lost Tapes",
         "image": "kindred",
         "tiers": [
@@ -96,7 +96,7 @@
         "name": "Premonition",
         "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "ALL",
-        "description": "You have the undeniable capability to sense danger. Get an auditory warning when looking in the direction of the Killer in a %s cone within a range of %s. Premonition has a cooldown of %s each time it activates. Premonition trumps any of the Killer's stealth abilities.",
+        "description": "You have the undeniable capability to sense danger. Get an auditory warning when looking in the direction of The Killer in a %s cone within a range of %s. Premonition has a cooldown of %s each time it activates. Premonition trumps any of The Killer's stealth abilities.",
         "flavor": "\"I have a bad feeling about this!\"",
         "image": "premonition",
         "tiers": [
@@ -147,7 +147,7 @@
         "name": "Spine Chill",
         "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "ALL",
-        "description": "An unnatural tingle warns you of impending doom. Get notified when the Killer is looking directly in your direction and standing within %s of range. When Spine Chill is active, Skill Check trigger odds are increased by %s with success zones reduced by %s and your Repair, Heal and Sabotage speeds are increased by %s.",
+        "description": "An unnatural tingle warns you of impending doom. Get notified when The Killer is looking directly in your direction and standing within %s of range. When Spine Chill is active, Skill Check trigger odds are increased by %s with success zones reduced by %s and your Repair, Heal and Sabotage speeds are increased by %s.",
         "flavor": "\"There is a voice that doesn't use words. Listen..\" — Sassy, The Lost Tapes",
         "image": "spineChill",
         "tiers": [
@@ -284,7 +284,7 @@
         "name": "Empathy",
         "rarity": ["UNCOMMON", "UNCOMMON", "RARE"],
         "owner": "CLAUDETTE_MOREL",
-        "description": "Unlocks potential in one's Aura reading ability. Dying or injured allies' Auras are revealed to you when within %s. Empathy does not reveal Auras of allies when they are in the Killer's direct contact.",
+        "description": "Unlocks potential in one's Aura reading ability. Dying or injured allies' Auras are revealed to you when within %s. Empathy does not reveal Auras of allies when they are in The Killer's direct contact.",
         "image": "empathy",
         "tiers": [["32 meters"], ["64 meters"], ["∞ meters"]]
     },
@@ -397,13 +397,13 @@
         "name": "Borrowed Time",
         "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "WILLIAM_OVERBECK",
-        "description": "You are fueled by an unexpected energy when saving an ally from a hook within the Killer's terror radius.\nAfter unhooking a survivor within the killer's terror radius, for %s, any damage taken that would put the unhooked Survivor into the dying state will instad trigger a %s blood out timer.\nIf the unhooked player takes any damage during the bleed out timer or if the bleed out timer ends the unhooked survivor will be put into the dying state.",
+        "description": "You are fueled by an unexpected energy when saving an ally from a hook within The Killer's terror radius.\nAfter unhooking a survivor within The Killer's terror radius, for %s, any damage taken that would put the unhooked Survivor into the dying state will instead trigger the Deep Wound status effect. The Survivor has %s to Mend themselves.\nIf the unhooked player takes any damage while affected by Deep Wound, or if the Deep Wound timer ends, the unhooked Survivor is immediately put into the dying state.",
         "flavor": "\"Probably stings like hell, but it ain't gonna kill ya. Up and at 'em soldier. Time to move!\" — Bill Overbeck",
         "image": "borrowedTime",
         "tiers": [
+            ["15 seconds", "10 seconds"],
             ["15 seconds", "15 seconds"],
-            ["15 seconds", "20 seconds"],
-            ["15 seconds", "25 seconds"]
+            ["15 seconds", "20 seconds"]
         ]
     },
     {
@@ -456,7 +456,7 @@
         "name": "Sole Survivor",
         "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "LAURIE_STRODE",
-        "description": "As more of your friends fall to the killer, you become shrouded in isolation and the killer's %baura reading abilities%/b towards you are disrupted.\nYour aura cannot be read by the killer within a max range of:\n%s for each %bkilled%/b or %bsacrificed%/b survivor.\n%iIncreases your chance to be the killer's obsession.%/i\nOnly one obsession per match.",
+        "description": "As more of your friends fall to The Killer, you become shrouded in isolation and The Killer's %baura reading abilities%/b towards you are disrupted.\nYour aura cannot be read by The Killer within a max range of:\n%s for each %bkilled%/b or %bsacrificed%/b survivor.\n%iIncreases your chance to be The Killer's obsession.%/i\nOnly one obsession per match.",
         "flavor": "\"It was the boogeyman.\" - Laurie Strode",
         "image": "soleSurvivor",
         "tiers": [["16 meters"], ["18 meters"], ["20 meters"]]
@@ -467,7 +467,7 @@
         "name": "Object of Obsession",
         "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "LAURIE_STRODE",
-        "description": "A supernatural bond links you to the Killer. If you are looking in the Killer's direction, your link will reveal your auras to each other. This effect applies only if you are outside the Killer's terror radius.\nAs the Killer's obsession, this effect applies to a maximum rnage of %s. Otherwise, it applies to a maximum range of %s.\nIncreases your chances to be the Killer's %bobsession%/b. Only one obsession per match.",
+        "description": "A supernatural bond links you to The Killer. If you are looking in The Killer's direction, your link will reveal your auras to each other. This effect applies only if you are outside The Killer's terror radius.\nAs The Killer's obsession, this effect applies to a maximum rnage of %s. Otherwise, it applies to a maximum range of %s.\nIncreases your chances to be The Killer's %bobsession%/b. Only one obsession per match.",
         "flavor": "\"He was watching me!\" — Laurie Strode",
         "image": "objectOfObsession",
         "tiers": [
@@ -482,7 +482,7 @@
         "name": "Decisive Strike",
         "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "LAURIE_STRODE",
-        "description": "Once per match, when the Killer's Obsession, succeed a Skill Check to automatically escape the Killer's grasp and stun them for %s. When not the Killer's Obsession, when the wiggle meter is at %s succeed in a Skill Check to escape the grasp.",
+        "description": "Once per match, when The Killer's Obsession, succeed a Skill Check to automatically escape The Killer's grasp and stun them for %s. When not The Killer's Obsession, when the wiggle meter is at %s succeed in a Skill Check to escape the grasp.",
         "flavor": "\"There's nothing to be scared of.\" — Laurie Strode",
         "image": "decisiveStrike",
         "tiers": [
@@ -560,7 +560,7 @@
         "name": "Alert",
         "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
         "owner": "FENG_MIN",
-        "description": "Your acute senses are on high alert. When the Killer performs a break action, the Killer is revealed to you for %s seconds.",
+        "description": "Your acute senses are on high alert. When The Killer performs a break action, The Killer is revealed to you for %s seconds.",
         "flavor": "\"I have true sight.\" — Feng Min",
         "image": "alert",
         "tiers": [["3 seconds"], ["4 seconds"], ["5 seconds"]]
@@ -635,7 +635,7 @@
         "name": "Stake Out",
         "rarity": ["RARE", "VERY_RARE", "VERY_RARE"],
         "owner": "DAVID_TAPP",
-        "description": "Getting close to the Killer fills you with determination. For each %s you are standing within the Killer Terror Radius and not in a Chase, you gain a Token up to a maximum of %s.\nWhen %iStake Out%/i has at least %b1 Token%/b, Good Skill Checks are considered Great Skill Checks and consume %b1 Token%/b.",
+        "description": "Getting close to The Killer fills you with determination. For each %s you are standing within The Killer Terror Radius and not in a Chase, you gain a Token up to a maximum of %s.\nWhen %iStake Out%/i has at least %b1 Token%/b, Good Skill Checks are considered Great Skill Checks and consume %b1 Token%/b.",
         "flavor": "\"I had you, I had you on your knees. You're runnin' scared because we had you. We're gonna close this case!\" -Detective David Tapp",
         "image": "stakeOut",
         "tiers": [
@@ -691,10 +691,14 @@
         "name": "Diversion",
         "rarity": ["COMMON", "UNCOMMON", "RARE"],
         "owner": "ADAM_FRANCIS",
-        "description": "Activate-able Perk.\nStanding within the Killer's Terror Radius while not in a Chase for 45 seconds activates the Perk.\nOnce the Perk is activated, press the Active Ability button while crouched and motionless to throw a pebble, which creates a loud noise notification for the Killer at a distance of %s.\nThe Perk deactivates once it has been used.",
+        "description": "Activate-able Perk.\nStanding within The Killer's Terror Radius while not in a Chase for %s activates the Perk.\nOnce the Perk is activated, press the %s button while crouched and motionless to throw a pebble, which creates a loud noise notification for The Killer at a distance of %s.\nThe perk timer resets once the ability has been activated.",
         "flavor": "\"There's what is easy and then there's what is right. If you confuse the two, there's no telling what you become.\" — Adam Francis",
         "image": "diversion",
-        "tiers": [["10 metres"], ["15 metres"], ["20 metres"]]
+        "tiers": [
+            ["45 seconds", "Active Ability", "10 metres"],
+            ["45 seconds", "Active Ability", "15 metres"],
+            ["45 seconds", "Active Ability", "20 metres"]
+        ]
     },
     {
         "id": 154,
@@ -717,5 +721,42 @@
         "flavor": "\"There's no limit to what you can achieve, as long as you back it up with hard work.\" — Adam Francis",
         "image": "autodidact",
         "tiers": [["3"], ["4"], ["5"]]
+    },
+    {
+        "id": 156,
+        "index": "BREAKDOWN",
+        "name": "Breakdown",
+        "rarity": ["COMMON", "UNCOMMON", "RARE"],
+        "owner": "JEFF_JOHANSEN",
+        "description": "Any time you are removed from a Hook (escaped or rescued), the Hook breaks and The Killer's Aura IconHelp auras.png is shown to you for %s.",
+        "flavor": "\"Charge from the Belly of the Beast.'\nHere's a sketch/painting on a piece of wood I saw by the side of this road. I felt like it got a story to tell. And it didn't waste its second chance.\" — Jeff, ink and oil wash on slice of wood, 12x16\"",
+        "image": "breakdown",
+        "tiers": [["4 seconds"], ["5 seconds"], ["6 seconds"]]
+    },
+    {
+        "id": 157,
+        "index": "AFTERCARE",
+        "name": "Aftercare",
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
+        "owner": "JEFF_JOHANSEN",
+        "description": "Unlocks potential in one's Aura-reading ability.\nYou see the Aura of every Survivor that:\nYou rescued from a Hook or who rescued you from one.\nYou completed a Healing action on or who completed one on you. They also see your Aura.\nThis occurs for up to %s. All effects of this Perk are reset when you are hooked by The Killer.",
+        "flavor": "\"'A Mercy that Rips the Storm.'\nOil work to honour my best buddies who happen to be the best musicians I know. Their first album is still my favourite. It got me through a dark time in my life.\" — Jeff, oil on canvas, 16x16",
+        "image": "aftercare",
+        "tiers": [["1 Survivor"], ["2 Survivors"], ["3 Survivors"]]
+    },
+    {
+        "id": 158,
+        "index": "DISTORTION",
+        "name": "Distortion",
+        "rarity": ["UNCOMMON", "RARE", "VERY_RARE"],
+        "owner": "JEFF_JOHANSEN",
+        "description": "You start the Trial with %s.\nWhen your Aura would be shown to The Killer, the Perk activates and a Token is consumed.\nFor the next %s while the Perk is activated, your Aura and Scratch Marks will not be shown to The Killer.",
+        "flavor": "\"'Death Fooled by the Cloak of Falcon Feathers.'\nSketch inspired by a few sleepless nights during winter. Exploration of Norse mythology: bravery can conceal your flaws, even when you are at your most vulnerable.\" — Jeff, pencil on tone paper, 12x12",
+        "image": "distortion",
+        "tiers": [
+            ["3 Tokens", "6 seconds"],
+            ["3 Tokens", "8 seconds"],
+            ["3 Tokens", "10 seconds"]
+        ]
     }
 ]

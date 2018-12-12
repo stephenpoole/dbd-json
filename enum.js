@@ -23,6 +23,12 @@ var Rarities = {
     ULTRA_RARE: 5
 };
 
+var Difficulties = {
+    EASY: 1,
+    INTERMEDIATE: 2,
+    HARD: 3
+};
+
 var ItemTypes = {
     EMPTY: 'EMPTY',
     FLASHLIGHT: 'FLASHLIGHT',
@@ -50,5 +56,6 @@ module.exports = {
     TypeNames: TypeNames,
     Rarities: Rarities,
     ItemTypes: ItemTypes,
-    ModifierTypes: ModifierTypes
+    ModifierTypes: ModifierTypes,
+    Difficulties: Difficulties
 };
