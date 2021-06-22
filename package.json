@@ -1,6 +1,6 @@
 {
     "name": "@stephenpoole/deadbydaylight",
-    "version": "5.0.2",
+    "version": "5.0.3",
     "description": "A complete Dead by Daylight dataset.",
     "main": "dist/index.js",
     "types": "dist/src/index.d.ts",
@@ -19,7 +19,8 @@
         "test": "nyc ts-mocha --reporter min --require babel-register \"./test/**/*.ts\"",
         "docs": "typedoc --excludeExternals --exclude \"**/node_modules/**\"  --name \"Dead By Daylight Database\" --out \"docs\" \"src\"",
         "coverage": "nyc --reporter=lcov yarn test",
-        "snyk": "snyk protect"
+        "snyk": "snyk protect",
+        "deploy": "yarn start && yarn publish"
     },
     "repository": {
         "type": "git",
