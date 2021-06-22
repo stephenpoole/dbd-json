@@ -15,13 +15,13 @@ Install `deadbydaylight` and save to your package.json in one easy step.
 
 With npm:
 
-```
+```bash
 npm install @stephenpoole/deadbydaylight
 ```
 
 With yarn:
 
-```
+```bash
 yarn add @stephenpoole/deadbydaylight
 ```
 
@@ -29,14 +29,14 @@ yarn add @stephenpoole/deadbydaylight
 
 1. Import `deadbydaylight` into your application:
 
-```
-import Dbd from '@stephenpoole/deadbydaylight';
+```javascript
+import Dbd from "@stephenpoole/deadbydaylight";
 ```
 
 2. Instantiate and grab some data:
 
-```
-import Dbd, { Killer } from '@stephenpoole/deadbydaylight';
+```javascript
+import Dbd, { Killer } from "@stephenpoole/deadbydaylight";
 
 const dbd = new Dbd();
 const nurse = dbd.killer(Killer.Nurse);
@@ -56,7 +56,7 @@ You'll find the images referenced by the `image` property on your computer at `C
 
 Throughout the data, html is used to denote styling of the descriptions.
 
-```
+```html
 <span class=\"Highlight1\"></span>
 ```
 
@@ -70,15 +70,15 @@ English, Spanish, German, French, Italian, Japanese, Korean, Polish, Russian, Ta
 
 To set the locale, simply initiate with the `language` option
 
-```
-import Dbd, { Language } from '@stephenpoole/deadbydaylight';
+```javascript
+import Dbd, { Language } from "@stephenpoole/deadbydaylight";
 
 const dbd = new Dbd({ language: Language.Korean });
 ```
 
 or to change the language after instantiation, call `changeLanguage()`
 
-```
+```javascript
 dbd.changeLanguage(language.Korean);
 ```
 
@@ -86,7 +86,7 @@ dbd.changeLanguage(language.Korean);
 
 ### Killers
 
-```
+```javascript
 {
         id: 1, (number, required)
         index: "SHAPE", (string, required)
@@ -105,7 +105,7 @@ dbd.changeLanguage(language.Korean);
 
 ### Survivors
 
-```
+```javascript
 {
         id: 1, (number, required)
         index: "NEA_KARLSSON", (string, required)
@@ -123,7 +123,7 @@ dbd.changeLanguage(language.Korean);
 
 ### Powers
 
-```
+```javascript
 {
     id: 1, (number, required)
     index: "EVIL_WITHIN", (string, required)
@@ -140,7 +140,7 @@ dbd.changeLanguage(language.Korean);
 
 ### Items
 
-```
+```javascript
 {
     id: 1, (number, required)
     index: "ENGINEERS_TOOLBOX", (string, required)
@@ -156,7 +156,7 @@ dbd.changeLanguage(language.Korean);
 
 Killer Perks
 
-```
+```javascript
 {
     id: 1, (number, required)
     index: "IRON_GRASP", (string, required)
@@ -183,7 +183,7 @@ Killer Perks
 
 Survivor Perks
 
-```
+```javascript
 {
     id: 1, (number, required)
     index: "SLIPPERY_MEAT", (string, required)
@@ -211,7 +211,7 @@ Survivor Perks
 
 Killer Addons
 
-```
+```javascript
 {
     id: 1, (number, required)
     index: "VHS_PORN", (string, required)
@@ -226,7 +226,7 @@ Killer Addons
 
 Survivor Addons
 
-```
+```javascript
 {
     id: 1, (number, required)
     index: "CLEAN_RAG", (string, required)
@@ -243,7 +243,7 @@ Survivor Addons
 
 Killer Offerings
 
-```
+```javascript
 {
     id: 1, (number, required)
     index: "HOLLOW_SHELL", (string, required)
@@ -258,7 +258,7 @@ Killer Offerings
 
 Survivor Offerings
 
-```
+```javascript
 {
     id: 1, (number, required)
     index: "PETRIFIED_OAK", (string, required)
@@ -273,7 +273,7 @@ Survivor Offerings
 
 Shared Offerings
 
-```
+```javascript
 {
     id: 1, (number, required)
     index: "BLOODY_PARTY_STREAMERS", (string, required)
