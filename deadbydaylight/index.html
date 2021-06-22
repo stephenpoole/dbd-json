@@ -96,12 +96,12 @@
 				<a href="#documentation" id="documentation" style="color: inherit; text-decoration: none;">
 					<h2>Documentation</h2>
 				</a>
-				<p>You may find the type documentation here:
+				<p>You&#39;ll find the type documentation here:
 				<a href="https://stephenpoole.github.io/deadbydaylight/deadbydaylight/">Documentation</a></p>
 				<a href="#images" id="images" style="color: inherit; text-decoration: none;">
 					<h2>Images</h2>
 				</a>
-				<p>You may find the images used in-game at <code>Steam/common/steamapps/Dead By Daylight/DeadByDaylight/Icons/UI</code>.</p>
+				<p>You&#39;ll find the images referenced by the <code>image</code> property on your computer at <code>C:\Program Files (x86)\Steam\steamapps\common\Dead by Daylight\DeadByDaylight\Icons\UI</code>.</p>
 				<a href="#html" id="html" style="color: inherit; text-decoration: none;">
 					<h2>HTML</h2>
 				</a>
@@ -112,8 +112,16 @@
 				<a href="#locales" id="locales" style="color: inherit; text-decoration: none;">
 					<h2>Locales</h2>
 				</a>
-				<p>Just like in-game, this library currently supports the following languages:</p>
+				<p>Just like in-game, this library supports the following languages:</p>
 				<p>English, Spanish, German, French, Italian, Japanese, Korean, Polish, Russian, Taiwanese, Turkish and Simplified Chinese.</p>
+				<p>To set the locale, simply initiate with the <code>language</code> option</p>
+				<pre><code><span style="color: #AF00DB">import</span><span style="color: #000000"> </span><span style="color: #001080">Dbd</span><span style="color: #000000">, { </span><span style="color: #001080">Language</span><span style="color: #000000"> } </span><span style="color: #AF00DB">from</span><span style="color: #000000"> </span><span style="color: #A31515">&#039;@stephenpoole/deadbydaylight&#039;</span><span style="color: #000000">;</span>
+
+<span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">dbd</span><span style="color: #000000"> = </span><span style="color: #0000FF">new</span><span style="color: #000000"> </span><span style="color: #795E26">Dbd</span><span style="color: #000000">({ </span><span style="color: #001080">language:</span><span style="color: #000000"> </span><span style="color: #001080">Language</span><span style="color: #000000">.</span><span style="color: #001080">Korean</span><span style="color: #000000"> });</span>
+</code></pre>
+				<p>or to change the language after instantiation, call <code>changeLanguage()</code></p>
+				<pre><code><span style="color: #001080">dbd</span><span style="color: #000000">.</span><span style="color: #795E26">changeLanguage</span><span style="color: #000000">(</span><span style="color: #001080">language</span><span style="color: #000000">.</span><span style="color: #001080">Korean</span><span style="color: #000000">);</span>
+</code></pre>
 				<a href="#data" id="data" style="color: inherit; text-decoration: none;">
 					<h2>Data</h2>
 				</a>
