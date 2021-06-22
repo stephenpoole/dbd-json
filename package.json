@@ -1,5 +1,5 @@
 {
-    "name": "deadbydaylight",
+    "name": "@stephenpoole/deadbydaylight",
     "version": "5.0.0",
     "description": "A complete Dead by Daylight dataset.",
     "main": "dist/index.js",
