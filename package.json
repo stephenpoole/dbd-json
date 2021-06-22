@@ -1,5 +1,5 @@
 {
-    "name": "dbd-db",
+    "name": "deadbydaylight",
     "version": "5.0.0",
     "description": "A complete Dead by Daylight dataset.",
     "main": "dist/index.js",
@@ -12,20 +12,20 @@
         "watch": "tsc --watch",
         "build": "node ./localization/build.js",
         "test": "nyc ts-mocha --reporter min --require babel-register \"./test/**/*.ts\"",
-        "docs": "typedoc --excludeExternals --externalPattern \"**/node_modules/**\" --name \"Dead By Daylight Database\" --out \"docs/dbd-db\" \"src\"",
+        "docs": "typedoc --excludeExternals --externalPattern \"**/node_modules/**\" --name \"Dead By Daylight Database\" --out \"docs/deadbydaylight\" \"src\"",
         "coverage": "nyc --reporter=lcov yarn test",
         "snyk": "snyk protect"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/stephenpoole/dbd-db.git"
+        "url": "git+https://github.com/stephenpoole/deadbydaylight.git"
     },
     "author": "Stephen Poole",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/stephenpoole/dbd-db/issues"
+        "url": "https://github.com/stephenpoole/deadbydaylight/issues"
     },
-    "homepage": "https://github.com/stephenpoole/dbd-db#readme",
+    "homepage": "https://github.com/stephenpoole/deadbydaylight#readme",
     "devDependencies": {
         "@istanbuljs/nyc-config-typescript": "^1.0.1",
         "@types/chai": "^4.2.19",

@@ -1,40 +1,40 @@
-[![npm version](https://badge.fury.io/js/dbd-db.svg)](https://badge.fury.io/js/dbd-db)
-[![Known Vulnerabilities](https://snyk.io/test/github/stephenpoole/dbd-db/badge.svg)](https://snyk.io/test/github/stephenpoole/dbd-db)
-[![Build Status](https://travis-ci.com/stephenpoole/dbd-db.svg?branch=master)](https://travis-ci.com/stephenpoole/dbd-db)
-[![codecov](https://codecov.io/gh/stephenpoole/dbd-db/branch/master/graph/badge.svg?token=lTWudhhmb0)](https://codecov.io/gh/stephenpoole/dbd-db)
+[![npm version](https://badge.fury.io/js/deadbydaylight.svg)](https://badge.fury.io/js/deadbydaylight)
+[![Known Vulnerabilities](https://snyk.io/test/github/stephenpoole/deadbydaylight/badge.svg)](https://snyk.io/test/github/stephenpoole/deadbydaylight)
+[![Build Status](https://travis-ci.com/stephenpoole/deadbydaylight.svg?branch=master)](https://travis-ci.com/stephenpoole/deadbydaylight)
+[![codecov](https://codecov.io/gh/stephenpoole/deadbydaylight/branch/master/graph/badge.svg?token=lTWudhhmb0)](https://codecov.io/gh/stephenpoole/deadbydaylight)
 
-# dbd-db
+# deadbydaylight
 
 A complete Dead by Daylight dataset.
 
 ## Getting Started
 
-Install `dbd-db` and save to your package.json in one easy step.
+Install `deadbydaylight` and save to your package.json in one easy step.
 
 With npm:
 
 ```
-npm install dbd-db
+npm install deadbydaylight
 ```
 
 With yarn:
 
 ```
-yarn add dbd-db
+yarn add deadbydaylight
 ```
 
 ## Usage
 
-1. Import `dbd-db` into your application:
+1. Import `deadbydaylight` into your application:
 
 ```
-import Dbd from 'dbd-db';
+import Dbd from 'deadbydaylight';
 ```
 
 2. Instantiate and grab some data:
 
 ```
-import Dbd, { Killer } from 'dbd-db';
+import Dbd, { Killer } from 'deadbydaylight';
 
 const dbd = new Dbd();
 const nurse = dbd.killer(Killer.Nurse);
@@ -44,7 +44,7 @@ console.log(nurse);
 ## Documentation
 
 You may find the type documentation here:
-[Documentation](https://stephenpoole.github.io/dbd-db/)
+[Documentation](https://stephenpoole.github.io/deadbydaylight/)
 
 ## Images
 

@@ -12,7 +12,7 @@ deploy:
       on:
           branch: master
           tags: true
-          repo: stephenpoole/dbd-db
+          repo: stephenpoole/deadbydaylight
     - provider: pages
       skip_cleanup: true
       github_token: $GITHUB_TOKEN

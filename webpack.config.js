@@ -6,7 +6,7 @@ module.exports = {
     output: {
         filename: "index.js",
         libraryTarget: "umd",
-        library: "dbd-db",
+        library: "deadbydaylight",
         umdNamedDefine: true,
     },
     resolve: {
