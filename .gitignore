@@ -4,4 +4,3 @@ DeadByDaylight.locres.json
 localization/locales/*.json
 coverage
 .nyc_output
-docs
