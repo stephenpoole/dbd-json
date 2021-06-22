@@ -9,23 +9,23 @@ A complete Dead by Daylight dataset.
 
 ## Getting Started
 
-Install `@stephenpoole/deadbydaylight` and save to your package.json in one easy step.
+Install `deadbydaylight` and save to your package.json in one easy step.
 
 With npm:
 
 ```
-npm install deadbydaylight
+npm install @stephenpoole/deadbydaylight
 ```
 
 With yarn:
 
 ```
-yarn add deadbydaylight
+yarn add @stephenpoole/deadbydaylight
 ```
 
 ## Usage
 
-1. Import `@stephenpoole/deadbydaylight` into your application:
+1. Import `deadbydaylight` into your application:
 
 ```
 import Dbd from '@stephenpoole/deadbydaylight';
@@ -44,7 +44,7 @@ console.log(nurse);
 ## Documentation
 
 You may find the type documentation here:
-[Documentation](https://stephenpoole.github.io/deadbydaylight/)
+[Documentation](https://stephenpoole.github.io/deadbydaylight/deadbydaylight/)
 
 ## Images
 
