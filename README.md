@@ -28,7 +28,7 @@ yarn add deadbydaylight
 1. Import `@stephenpoole/deadbydaylight` into your application:
 
 ```
-import Dbd from 'deadbydaylight';
+import Dbd from '@stephenpoole/deadbydaylight';
 ```
 
 2. Instantiate and grab some data:
