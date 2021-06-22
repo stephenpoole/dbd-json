@@ -1,0 +1,2555 @@
+[
+    {
+        "description": "오라를 감지하는 잠재력을 끌어낸다. 발전기 수리를 완료할 때마다 살인마의 오라를 <span class=\"Highlight1\">{0}초</span> 동안 볼 수 있다.<br>출구에 전원이 공급되면 살인마의 오라를 <span class=\"Highlight2\">{1}초</span> 동안 볼 수 있다.",
+        "name": "어두운 감각",
+        "flavor": "\"오래된 격언: 침착해라. 굳게 마음을 먹고 서두르지 말라. 적을 이기는 가장 좋은 방법은 적의 생각을 읽는 것이다.\" - 잃어버린 테이프, 머프",
+        "id": 100,
+        "index": "DARK_SENSE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_darkSense",
+        "tiers": [
+            [
+                5,
+                5
+            ],
+            [
+                5,
+                7
+            ],
+            [
+                5,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "오라를 감지하는 잠재력을 끌어낸다. 실패에 대한 당신의 공포로부터 발생한 피해망상이 당신이 같은 실수를 반복하는 것을 막도록 도와준다. 희생제가 시작될 때와 각 발전기가 수리 완료될 때, 서로 가까이에 있는 발전기 <span class=\"Highlight1\">{0}개</span>의 오라를 <span class=\"Highlight2\">{1}초</span> 동안 볼 수 있다.<br>이 때 지도를 가지고 있다면 <i>데자뷰</i>로 찾은 발전기도 지도에 추가된다.",
+        "name": "데자뷰",
+        "id": 101,
+        "index": "DEJA_VU",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_dejaVu",
+        "tiers": [
+            [
+                3,
+                30
+            ],
+            [
+                3,
+                45
+            ],
+            [
+                3,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "점점 커지는 탈출 가능성이 자신의 희망을 채우고 날개를 달아준다. 출구에 전원이 공급되면 <span class=\"Highlight1\">{0}%</span> <b><i>이동 속도 증가</i></b> 상태 효과가 <span class=\"Highlight3\">{1}초</span> 동안 지속한다.<br>",
+        "name": "희망",
+        "flavor": "\"벨트 차, 멍청이들아! 달려보자고!\" - 잃어버린 테이프: 니키",
+        "id": 102,
+        "index": "HOPE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_hope",
+        "tiers": [
+            [
+                5,
+                120
+            ],
+            [
+                6,
+                120
+            ],
+            [
+                7,
+                120
+            ]
+        ]
+    },
+    {
+        "description": "갈고리에 걸려있는 동안 다른 생존자들의 잠재력을 끌어내 오라가 보이도록 한다. 생존자들에게 서로의 오라를 보여주고, 자신이 걸린 갈고리 주변 <span class=\"Highlight1\">{0}미터</span> 내에 있는 살인마의 오라도 보여준다.<br><br>다른 생존자가 갈고리에 걸려 있는 동안 다른 생존자의 오라가 보이며, 다른 생존자가 걸린 갈고리 주변 <span class=\"Highlight1\">{0}미터</span> 내에 있는 살인마의 오라도 보여준다.",
+        "name": "동질감",
+        "flavor": "\\“다른 이들에게 잘해주도록 해, 우린 하나가 되어야 살아남을 수 있어.\\” -잃어버린 테이프: 수잔",
+        "id": 103,
+        "index": "KINDRED",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_kindred",
+        "tiers": [
+            [
+                8,
+                8
+            ],
+            [
+                12,
+                12
+            ],
+            [
+                16,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "가볍고 부드럽게 달려 흔적을 찾기 어렵게 만든다. 발자국이 지속하는 시간이 <span class=\"Highlight1\">{0}초</span> 감소한다.<br>",
+        "name": "경량화",
+        "flavor": "\"천천히 움직여, 그가 네 위치를 알아챌 거야... 항상 말했잖아. 천천히 살고 나이 먹어서 죽자고.\" -잃어버린 테이프. 딜런",
+        "id": 104,
+        "index": "LIGHTWEIGHT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_lightweight",
+        "tiers": [
+            [
+                1
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ]
+        ]
+    },
+    {
+        "description": "누군가를 남겨두고 도망치는 것은 상상도 할 수 없는 일이다. 출구가 열리면, 다음을 획득하게 된다.<br><li>다른 생존자를 치유하거나 갈고리에서 구출 시, <span class=\"Highlight1\">{0}%</span> 추가 블러드포인트 획득.</li><li>다른 생존자를 치유하거나 갈고리에서 구출 시, <span class=\"Highlight2\">{1}%</span> 추가 속도 획득.</li><li>다른 생존자의 오라를 볼 수 있음.</li>",
+        "name": "아무도 버려두지 않아",
+        "flavor": "“…그래. 말도 안 되겠지. 그래도 나는 우리가 함께 한다면 그 괴물들을 뛰어넘고 쓰러뜨릴 수 있다고 믿어. 절대 예측할 수 있거나 이기적으로 움직이지마!” –잃어버린 테이프: 클라이드",
+        "id": 105,
+        "index": "NO_ONE_LEFT_BEHIND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_noOneLeftBehind",
+        "tiers": [
+            [
+                50,
+                30
+            ],
+            [
+                75,
+                40
+            ],
+            [
+                100,
+                50
+            ]
+        ]
+    },
+    {
+        "description": "오라를 감지하는 잠재력을 끌어낸다. 주변 <span class=\"Highlight1\">{0}미터</span> 내에 존재하는 미개봉된 상자와 아이템의 오라를 볼 수 있다. 상자에서 더 높은 등급의 아이템을 획득할 확률이 <b>상당히</b> 증가한다.",
+        "name": "약탈자의 본능",
+        "flavor": "\"먼저 온 이들은 이 상자들을 몇 시간이나 뒤지곤 했었다.\" -잃어버린 테이프: 아제유",
+        "id": 106,
+        "index": "PLUNDERERS_INSTINCT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_plunderersInstinct",
+        "tiers": [
+            [
+                16
+            ],
+            [
+                24
+            ],
+            [
+                32
+            ]
+        ]
+    },
+    {
+        "description": "위험을 감지하는 능력을 습득한다. <span class=\"Highlight3\">{1} 초</span>마다 한 번씩, 자신이 바라보는 전방 <span class=\"Highlight1\">45도</span>, <span class=\"Highlight2\">{0}미터</span> 원뿔형 범위 안에 살인마가 있다면 소리로 알림을 받게 된다. ",
+        "name": "불길한 예감",
+        "flavor": "\"느낌이 좋지 않아, 뭔가 오고 있어!\"",
+        "id": 107,
+        "index": "PREMONITION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_premonition",
+        "tiers": [
+            [
+                36,
+                60
+            ],
+            [
+                36,
+                45
+            ],
+            [
+                36,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "절망적인 상황이 당신에게 힘을 불어넣는다. 부상당한 상태에서 수리, 파괴공작, 치료, 구출, 창틀 넘기, 정화, 출구 열기 및 잠금 해제 속도가 <span class=\"Highlight1\">{0}%</span> 빨라진다.",
+        "name": "회복력",
+        "flavor": "\"상황이 안 좋지만... 지금은 집중해야 돼.\"",
+        "id": 108,
+        "index": "RESILIENCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_resilience",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                6
+            ],
+            [
+                9
+            ]
+        ]
+    },
+    {
+        "description": "갈고리에서 풀려나는 효과적인 방법을 알아냈다.<br><li>갈고리에서 탈출 시도를 할 수 있는 횟수가 <span class=\"Highlight1\">{0}</span>회 증가한다.</li><li>탈출 시도에 성공할 확률은 <span class=\"Highlight2\">{1}%</span> 증가한다.</li>",
+        "name": "미끈한 고기",
+        "id": 109,
+        "index": "SLIPPERY_MEAT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_slipperyMeat",
+        "tiers": [
+            [
+                3,
+                2
+            ],
+            [
+                3,
+                3
+            ],
+            [
+                3,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "위험을 감지하는 능력을 습득한다. <span class=\"Highlight3\">{1}초</span> 마다 한 번씩, 당신이 바라보는 전방 <span class=\"Highlight1\">45도</span>, <span class=\"Highlight2\">{0}미터</span>의 원뿔형 범위 안에 토템이 있다면 소리로 알림을 받는다. 아무 플레이어가 각 일반 토템과 주술 토템은 정화할 때마다 토큰 하나를 획득하게 된다. 작은 사냥감의 탐지 원뿔형 범위는 토큰마다 <span class=\"Highlight4\">5도</span>씩 감소한다.",
+        "name": "작은 사냥감",
+        "flavor": "\"안 될 말이지.\" -잃어버린 테이프: 앤디",
+        "id": 110,
+        "index": "SMALL_GAME",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_smallGame",
+        "tiers": [
+            [
+                8,
+                15
+            ],
+            [
+                10,
+                12
+            ],
+            [
+                12,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "이상한 따끔거림이 당신에게 다가오는 파멸을 경고한다. <span class=\"Highlight1\">{0}미터</span> 내에 존재하는 살인마가 당신이 있는 방향을 직접 바라볼 때 활성화된다. '등골이 오싹해' 활성화 중에는 스킬 체크 발생 빈도가 <span class=\"Highlight2\">{1}%</span> 증가하고, 스킬 체크 성공 구간이 <span class=\"Highlight3\">{2}%</span> 좁아진다. 또한 등골이 오싹해 활성화 중에는 수리, 파괴공작, 치료, 구출, 넘기, 정화, 출구 열기 및 잠금 해제 속도가 <span class=\"Highlight4\">{3}%</span> 증가한다.",
+        "name": "등골이 오싹해",
+        "flavor": "\"여기 문자를 사용하지 않는 괴이한 목소리가 있습니다. 들어보세요.\" -새시의 잃어버린 테이프",
+        "id": 111,
+        "index": "SPINE_CHILL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_spineChill",
+        "tiers": [
+            [
+                36,
+                10,
+                10,
+                2
+            ],
+            [
+                36,
+                10,
+                10,
+                4
+            ],
+            [
+                36,
+                10,
+                10,
+                6
+            ]
+        ]
+    },
+    {
+        "description": "극한의 상황 속에서 놀라운 뒷심을 발휘한다. 부상한 상태에서 치료와 수리를 할 때 스킬 체크의 대성공 구간이 <span class=\"Highlight1\">{0}%</span> 넓어진다.",
+        "name": "이런 일이 일어나다니",
+        "id": 112,
+        "index": "THIS_IS_NOT_HAPPENING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_thisIsNotHappening",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                20
+            ],
+            [
+                30
+            ]
+        ]
+    },
+    {
+        "description": "다른 사람을 도와 의욕을 증진시킨다.<br><br>갈고리에서 생존자를 구출하면 <span class=\"Highlight3\">{1}초</span> 동안 치료 속도가 <span class=\"Highlight1\">{0}%</span> 빨라진다.",
+        "name": "우린 해낼거야",
+        "flavor": "\"우리가 서로 돕는다면 우리 모두 탈출할 수 있을거라고 믿어.\"",
+        "id": 113,
+        "index": "WELL_MAKE_IT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_wellMakeIt",
+        "tiers": [
+            [
+                100,
+                30
+            ],
+            [
+                100,
+                60
+            ],
+            [
+                100,
+                90
+            ]
+        ]
+    },
+    {
+        "description": "오라를 감지하는 잠재력을 끌어낸다. <span class=\"Highlight1\">{0}미터</span> 범위 내에 있는 동료의 오라를 감지할 수 있게 된다.<br>",
+        "name": "유대감",
+        "flavor": "“우리는 똘똘 뭉쳐야 합니다. 당신들이 살아남아야 나도 살 수 있어요!” -드와이트",
+        "id": 114,
+        "index": "BOND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DWIGHT_FAIRFIELD",
+        "image": "iconPerks_bond",
+        "tiers": [
+            [
+                20
+            ],
+            [
+                28
+            ],
+            [
+                36
+            ]
+        ]
+    },
+    {
+        "description": "<span class=\"Highlight2\">{1}미터</span> 내에 모든 다른 생존자는 보너스 수리 속도 <span class=\"Highlight1\">{0}%</span>를 획득하며, 범위 내에 있는 모든 생존자에게 동일한 보너스가 적용된다.<br>협력 행동 시 블러드포인트를 <span class=\"Highlight3\">{2}%</span> 더 얻는다.<br>생존자는 한 번에 하나의 자기 증명 영향만 받을 수 있다.<br>",
+        "name": "자기 증명",
+        "flavor": "\"네가 내게 뭘 할 수 있는지 보여줘 봐!\" -드와이트",
+        "id": 115,
+        "index": "PROVE_THYSELF",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DWIGHT_FAIRFIELD",
+        "image": "iconPerks_proveThyself",
+        "tiers": [
+            [
+                4,
+                15,
+                50
+            ],
+            [
+                4,
+                15,
+                75
+            ],
+            [
+                4,
+                15,
+                100
+            ]
+        ]
+    },
+    {
+        "description": "더 효율적으로 협력할 수 있는 팀을 구성할 수 있다. 당신과 <span class=\"Highlight2\">{1}미터</span> 이내의 거리에 있는 다른 생존자의 치료, 파괴 공작, 정화, 출구 열기, 상자 잠금 해제 속도가 <span class=\"Highlight1\">{0}%</span> 증가한다.<br>생존자는 한 번에 하나의 리더 효과만 받을 수 있다.<br>리더 기술의 유효 범위를 떠나도 기술은 <span class=\"Highlight3\">{2}초</span> 동안 유지된다.",
+        "name": "리더",
+        "id": 116,
+        "index": "LEADER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DWIGHT_FAIRFIELD",
+        "image": "iconPerks_leader",
+        "tiers": [
+            [
+                15,
+                8,
+                15
+            ],
+            [
+                20,
+                8,
+                15
+            ],
+            [
+                25,
+                8,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "창틀을 뛰어넘을 때와 캐비닛에 숨을 때 다른 사람들보다 조용히 움직일 수 있다.<br><br>소음과 발각 범위가 <span class=\"Highlight1\">{0}%</span> 감소한다.<br><br>이 효과는 <span class=\"Highlight2\">{1}초</span>에 한 번씩만 발동된다.",
+        "name": "빠르고 조용하게",
+        "id": 117,
+        "index": "QUICK_AND_QUIET",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "MEG_THOMAS",
+        "image": "iconPerks_quickAndQuiet",
+        "tiers": [
+            [
+                100,
+                30
+            ],
+            [
+                100,
+                60
+            ],
+            [
+                100,
+                90
+            ]
+        ]
+    },
+    {
+        "description": "달리기 시작할 때, 전력을 다한 질주로 달리기 속도가 <span class=\"Highlight2\">{1}초</span> 동안 <span class=\"Highlight1\">{0}%</span>로 상승한다.<br>이동 속도 증가가 끝난 후 <span class=\"Highlight4\">{2}초</span> 동안 <b><i>탈진</i></b> 상태이상에 걸리게 된다.<br><i>전력 질주</i>는 <b><i>탈진</i></b> 상태이상을 겪는 중에는 사용할 수 없다.<br>달리기 중에는 <b><i>탈진</i></b> 상태이상으로부터 회복할 수 없다.",
+        "name": "전력 질주",
+        "id": 118,
+        "index": "SPRINT_BURST",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "MEG_THOMAS",
+        "image": "iconPerks_sprintBurst",
+        "tiers": [
+            [
+                150,
+                3,
+                60
+            ],
+            [
+                150,
+                3,
+                50
+            ],
+            [
+                150,
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "탈출을 눈앞에 두고, 예상치 못한 힘을 얻는다. 출구에 전원이 공급되면, <span class=\"Highlight1\">즉시 <b>한 단계 회복</b></span>하고, <span class=\"Highlight3\">{1}초</span> 동안 달리기 속도가 <span class=\"Highlight2\">{0}%</span>로 상승한다. <br>이동할 수 없는 상황에서 <i>아드레날린</i>이 발동된 경우, 다시 움직일 수 있을 때까지 효과 발동이 지연된다.<br>꿈 속에 있을 때 <i>아드레날린</i>이 발동된 경우, 즉시 <b>꿈에서 깨어난다</b>. <br><i>아드레날린</i>은 <b>탈진</b> 상태이상을 무시한다.<br>이동 속도 증가가 끝난 후 <span class=\"Highlight4\">{2}초</span> 동안 <b><i>탈진</i></b> 상태이상에 걸리게 된다. 달리기 중에는 <b><i>탈진</i></b> 상태이상으로부터 회복할 수 없다.",
+        "name": "아드레날린",
+        "id": 119,
+        "index": "ADRENALINE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "MEG_THOMAS",
+        "image": "iconPerks_adrenaline",
+        "tiers": [
+            [
+                150,
+                5,
+                60
+            ],
+            [
+                150,
+                5,
+                50
+            ],
+            [
+                150,
+                5,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "오라를 감지하는 잠재력을 끌어낸다. <span class=\"Highlight1\">{0}미터</span> 내에 존재하는 부상한 상태나 빈사 상태 생존자의 오라를 볼 수 있다. 대상 생존자가 살인마와 직접 접촉한 동안에는 보이지 않는다.",
+        "name": "공감",
+        "id": 120,
+        "index": "EMPATHY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CLAUDETTE_MOREL",
+        "image": "iconPerks_empathy",
+        "tiers": [
+            [
+                64
+            ],
+            [
+                96
+            ],
+            [
+                128
+            ]
+        ]
+    },
+    {
+        "description": "모닥불 주변에서 발견한 식물로 출혈을 늦추는 약물을 만들어 낸다. <b>치료 속도</b>와 <b>치료 아이템</b> 효율이 <span class=\"Highlight1\">{0}%</span> 증가한다.<br>",
+        "name": "식물학 지식",
+        "flavor": "\"기초적인 식물학 지식만 갖춰도 언젠가 목숨을 구할 수 있지.”",
+        "id": 121,
+        "index": "BOTANY_KNOWLEDGE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CLAUDETTE_MOREL",
+        "image": "iconPerks_botanyKnowledge",
+        "tiers": [
+            [
+                11
+            ],
+            [
+                22
+            ],
+            [
+                33
+            ]
+        ]
+    },
+    {
+        "description": "통상의 <span class=\"Highlight1\">{0}%</span> 속도로 구급상자 없이 자가 치료를 할 수 있다. 자가 치료에 구급상자를 사용할 시 효율이 <span class=\"Highlight3\">{1}%</span> 증가한다.",
+        "name": "자가 치료",
+        "id": 122,
+        "index": "SELF_CARE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CLAUDETTE_MOREL",
+        "image": "iconPerks_selfCare",
+        "tiers": [
+            [
+                50,
+                10
+            ],
+            [
+                50,
+                15
+            ],
+            [
+                50,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "집중하여 명상과 비슷한 상태에 들어가 통증을 어느 정도 완화할 수 있다. 부상으로 인한 신음이 <span class=\"Highlight1\">{0}%</span> 줄어든다.",
+        "name": "굳건한 의지",
+        "id": 123,
+        "index": "IRON_WILL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JAKE_PARK",
+        "image": "iconPerks_ironWill",
+        "tiers": [
+            [
+                50
+            ],
+            [
+                75
+            ],
+            [
+                100
+            ]
+        ]
+    },
+    {
+        "description": "마치 신뢰하는 것처럼, 당신이 가까이에 있어도 동물들이 평온함을 유지한다. 산림 동물들을 놀라게 할 확률이 <span class=\"Highlight1\">{0}%</span> 감소한다.<br>차분한 영혼은 비명을 참아낼 수 있도록 해준다.",
+        "name": "차분한 영혼",
+        "id": 124,
+        "index": "CALM_SPIRIT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JAKE_PARK",
+        "image": "iconPerks_calmSpirit",
+        "tiers": [
+            [
+                80
+            ],
+            [
+                90
+            ],
+            [
+                100
+            ]
+        ]
+    },
+    {
+        "description": "오라를 감지하는 잠재력을 끌어낸다.<br><li>살인마가 생존자를 옮기고 있는 경우, 생존자를 짊어진 장소로부터 <span class=\"Highlight1\">56 미터</span> 범위 내에 갈고리 오라를 볼 수 있게 된다.</li><br>공구상자 없이 갈고리를 파괴할 수 있는 능력이 활성화된다.<br><li>공구상자 없이 갈고리를 파괴하는 것은 <span class=\"Highlight2\">2.5초</span>가 걸린다.</li><li>파괴공작은 <span class=\"Highlight3\">{0}초</span>의 재사용 대기 시간이 걸린다.</li>",
+        "name": "공작원",
+        "id": 125,
+        "index": "SABOTEUR",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JAKE_PARK",
+        "image": "iconPerks_saboteur",
+        "tiers": [
+            [
+                90
+            ],
+            [
+                75
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "당신의 민첩함은 타의 추종을 불허한다.<br><br>마치 고양이를 방불케 하는 반사 신경이 착지 후의 경직을 <span class=\"Highlight1\">{0}%</span> 줄여 주며, 신음 소리를 <span class=\"Highlight1\">100%</span> 줄여준다. 또한 보통 달리기 속도의 <span class=\"Highlight2\">{1}%</span>로 질주하기 시작하며 최대 <span class=\"Highlight3\">{2}초</span> 동안 지속된다.<br><br>이동 속도 증가가 끝난 후 <span class=\"Highlight4\">{3}초</span> 동안 <b>탈진</b> 상태 이상에 걸리게 된다.<br><br><b>탈진</b> 상태 이상을 겪는 중에는 <i>균형 잡힌 착지</i>를 사용할 수 없다.<br><br>달리기 중에는 <b>탈진</b> 상태 이상으로부터 회복할 수 없다.<br>",
+        "name": "균형잡힌 착지",
+        "flavor": "\"더 높은 곳에서도 뛰어내려 봤어. 이 정도쯤이야.\" -니아",
+        "id": 126,
+        "index": "BALANCED_LANDING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEA_KARLSSON",
+        "image": "iconPerks_balancedLanding",
+        "tiers": [
+            [
+                75,
+                150,
+                3,
+                60
+            ],
+            [
+                75,
+                150,
+                3,
+                50
+            ],
+            [
+                75,
+                150,
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "경찰의 눈을 피해 숨어다닌 내공이 있다. 앉아서 움직이는 속도가 <span class=\"Highlight1\">{0}%</span> 빨라진다.<br>",
+        "name": "세련된 회피",
+        "flavor": "\"페인트가 마르기도 전에 빠져나갔지.\" -니아",
+        "id": 127,
+        "index": "URBAN_EVASION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEA_KARLSSON",
+        "image": "iconPerks_urbanEvasion",
+        "tiers": [
+            [
+                90
+            ],
+            [
+                95
+            ],
+            [
+                100
+            ]
+        ]
+    },
+    {
+        "description": "긴 밤을 지새우다 보니 가진 것으로 많은 것을 할 수 있었다. 자신과 <span class=\"Highlight2\">{1}미터</span> 범위 안에 있는 주변 생존자의 아이템 충전 소비율을 <span class=\"Highlight1\">{0}%</span> 감소시킨다. 범위를 벗어나도 이 효과는 <span class=\"Highlight4\">{2}초</span>간 지속한다. <br>",
+        "name": "노련함",
+        "flavor": "\"넌 지금 잘못하고 있어! 어떻게 하는지 제대로 보여주지.\" -니아",
+        "id": 128,
+        "index": "STREETWISE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEA_KARLSSON",
+        "image": "iconPerks_streetwise",
+        "tiers": [
+            [
+                15,
+                8,
+                15
+            ],
+            [
+                20,
+                8,
+                15
+            ],
+            [
+                25,
+                8,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "어떤 대가를 치룬다 해도, 당신은 주어진 일을 끝낼 것이다...<br>당신이 희생제의 마지막 생존자라면, 탈출에 필요한 남은 발전기의 숫자 당 수리 속도가 <span class=\"Highlight1\">{0}미터</span> 빨라진다.",
+        "name": "홀로 남겨진 자",
+        "flavor": "\"저런 허튼소리 듣지 않아. 혼자서라도 해내겠어!\" -빌 오버벡",
+        "id": 129,
+        "index": "LEFT_BEHIND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WILLIAM_OVERBECK",
+        "image": "iconPerks_leftBehind",
+        "tiers": [
+            [
+                24
+            ],
+            [
+                28
+            ],
+            [
+                32
+            ]
+        ]
+    },
+    {
+        "description": "갈고리에서 동료를 구해내면 알 수 없는 힘이 흘러들어온다.<br>갈고리에서 구해낸 생존자는 <span class=\"Highlight1\">{0}초</span> 동안 <b>인내</b> 상태 효과를 얻게 된다.<br>",
+        "name": "빌려온 시간",
+        "flavor": "\"아마 죽을 만큼 아프겠지만 죽지는 않을 거야. 일어서라. 빨리 움직여!” — 빌 오버벡",
+        "id": 130,
+        "index": "BORROWED_TIME",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WILLIAM_OVERBECK",
+        "image": "iconPerks_borrowedTime",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                12
+            ],
+            [
+                15
+            ]
+        ]
+    },
+    {
+        "description": "과거의 전투가 살아남는 법을 알려줬다. <b>희생제에서 한 번 만</b> 빈사 상태에서 스스로 회복할 수 있다. 빈사 상태에서의 회복 속도가 <span class=\"Highlight1\">{0}%</span> 빨라진다.<br>",
+        "name": "불굴",
+        "flavor": "\"이런 젠장, 나 지금 심각하게 엉망인데!\" -빌 오버벡",
+        "id": 131,
+        "index": "UNBREAKABLE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WILLIAM_OVERBECK",
+        "image": "iconPerks_unbreakable",
+        "tiers": [
+            [
+                25
+            ],
+            [
+                30
+            ],
+            [
+                35
+            ]
+        ]
+    },
+    {
+        "description": "당신의 몇몇 친구들은 보호받을 자격이 있다.<br>빈사 상태에 빠진 다른 생존자를 치료하는 동안, 치료 속도가 <span class=\"Highlight1\">100%</span> 증가한다.<br>다음 행동을 실행하면 토큰 1개를 획득한다.<li>갈고리에서 생존자 구출하기</li><li>다른 생존자를 보호하기 위해 살인마의 공격을 대신 맞기</li><li>판자로 살인마를 기절시켜 생존자 구하기</li><li>손전등으로 살인마를 실명시켜 생존자 구하기</li>토큰 당 <span class=\"Highlight2\">25%</span>의 추가 블러드포인트를 획득하며, 최대 <span class=\"Highlight3\">{1}%</span>까지 중첩될 수 있다. 추가 블러드포인트는 희생제가 끝난 후 지급된다.",
+        "name": "우리는 영원히 살거야",
+        "flavor": "“덤벼, 어디 한번 해보자고! 내가 신경이나 쓸 것 같아.” -데이비드 킹",
+        "id": 132,
+        "index": "WERE_GONNA_LIVE_FOREVER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_KING",
+        "image": "iconPerks_WereGonnaLiveForever",
+        "tiers": [
+            [
+                50
+            ],
+            [
+                75
+            ],
+            [
+                100
+            ]
+        ]
+    },
+    {
+        "description": "기술 발동 버튼을 눌러 사용할 수 있다.<br>부상한 상태 일 때, 아드레날린을 분비시켜 순간적으로 빠르게 질주하고 공격을 회피할 수 있다.<br><li>달리는 도중 <i>능력 활성화</i> 버튼을 누르면 짧은 시간 동안 전방으로 질주할 수 있다.</li><li>질주하는 동안 피해를 입지 않는다.</li><li>질주가 끝난 후 <span class=\"Highlight4\">{0}초</span> 동안 <i>탈진</i> 상태 이상에 걸리게 된다.<br>달리기 중에는 <i>탈진</i> 상태 이상으로부터 회복할 수 없다.</li>",
+        "name": "죽기살기",
+        "flavor": "“우리가 어느 날 밤 골목길을 걸어가고 있을 때, 맥주병 한 개, 두 개, 세 개가 날아와 나를 스쳤어. 그때 생각했지, '꼬마들이랑 재미 좀 보자고, 어디 한번 해보자!' 그건 정당방위였다고, 맹세해!\" -데이비드 킹",
+        "id": 133,
+        "index": "DEAD_HARD",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_KING",
+        "image": "iconPerks_DeadHard",
+        "tiers": [
+            [
+                60
+            ],
+            [
+                50
+            ],
+            [
+                40
+            ]
+        ]
+    },
+    {
+        "description": "희생제를 <span class=\"Highlight1\">치료 불능</span> 상태 이상에 걸린 채로 시작한다.<br>당신이 흘린 핏자국은 즉시 응고되어 살인마의 추격을 방해한다.<li>더 이상 핏자국을 남기지 않는다.</li><li>부상으로 인한 신음소리가 영구적으로 <span class=\"Highlight2\">{0}%</span> 감소한다.</li><li>빈사 상태에서 스스로 완전히 회복할 수 있다.</li>",
+        "name": "신경 쓰지 마",
+        "flavor": "“참을 수가 없었어. 결국 그를 한 대 치고 말았지... 그러니까 그들이 와서 날 출입금지 시키더군. 그래서 술집에 가서 몇 잔 걸치고 2차를 갔어. 난 전혀 신경 쓰지 않았어. 무슨 말인지 알아? 그럴 가치가 없었다고.” -데이비드 킹",
+        "id": 134,
+        "index": "NO_MITHER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_KING",
+        "image": "iconPerks_NoMither",
+        "tiers": [
+            [
+                0
+            ],
+            [
+                25
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "더 많은 생존자가 살인마에게 쓰러질수록 고독함이 생존 본능을 이끌어내어 자신에게 향한 <b>살인마의 오라 감지 능력</b>이 방해를 받는다.<br>동료 생존자가 살해 당하거나 희생될 때마다, 1개의 토큰을 획득한다. 각 토큰마다, <b>살해</b>당했거나 <b>희생</b>된 생존자 한 명당 살인마는 최대 <span class=\"Highlight1\">{0}미터</span>까지 당신의 오라를 볼 수 없게 된다.<br><li><i>살인마의 집착 대상으로 지정될 확률이 증가한다.</i></li><li><i>살인마는 한 번에 한 명의 생존자에게만 <b>집착</b>할 수 있다.</i></li>",
+        "name": "유일한 생존자",
+        "flavor": "“그건 부기맨이었어요.” -로리 스트로드",
+        "id": 135,
+        "index": "SOLE_SURVIVOR",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LAURIE_STRODE",
+        "image": "iconPerks_soleSurvivor",
+        "tiers": [
+            [
+                20
+            ],
+            [
+                22
+            ],
+            [
+                24
+            ]
+        ]
+    },
+    {
+        "description": "살인마와 초자연적인 유대감으로 연결된다.<br><br>생존자의 오라가 살인마에게 드러날 때마다, 살인마의 오라 또한 생존자에게 드러나며 치유, 수리 및 정화 속도에 대한 <span class=\"Highlight1\">{0}%</span>의 보너스를 획득한다.<br>생존자가 집착 대상이 되면, 생존자의 오라가 <span class=\"Highlight2\">3초</span>에 한 번씩 <span class=\"Highlight3\">30초</span> 동안 살인마에게 드러난다.<br>집착 대상으로 지정될 확률이 증가한다.<br>",
+        "name": "집착의 대상",
+        "flavor": "“그가 나를 보고 있었어!” – 로리 스트로드",
+        "id": 136,
+        "index": "OBJECT_OF_OBSESSION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LAURIE_STRODE",
+        "image": "iconPerks_objectOfObsession",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                4
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    {
+        "description": "탈출하려는 시도 중 공격자를 찌른다.<br>갈고리에서 풀려났거나 스스로 탈출했을 때 <i>결정적인 일격</i>이 <span class=\"Highlight1\">{0}초</span> 동안 활성화된다.<br>활성화된 동안 살인마에게 붙잡혀 스킬 체크에 성공하면 살인마를 <span class=\"Highlight1\">5초</span> 동안 기절시켜 탈출할 수 있다.<br><li>스킬 체크를 성공하거나 실패하면 <i>결정적인 일격</i>은 비활성화된다.</li><li>살인마를 기절시키면 집착 대상이 된다.</li><br>활성화된 동안, 다음 설명에 따르면 <i>결정적인 일격</i>을 비활성화할 수 있다:<li>발전기 수리</li><li>자신 또는 다른 생존자 치료</li><li>토템 정화</li><li>갈고리 파괴공작</li><li>갈고리에서 다른 생존자 구출</li><br><li><i>자신이 집착대상이 될 확률이 증가한다.</i></li><li><i>살인마는 한 번에 한 명의 생존자에게만 <b>집착</b>할 수 있습니다.</i></li>",
+        "name": "결정적인 일격",
+        "id": 137,
+        "index": "DECISIVE_STRIKE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LAURIE_STRODE",
+        "image": "iconPerks_decisiveStrike",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                50
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "당신과 팀의 오라를 감지하는 잠재력을 끌어낸다.<br><li>오라를 읽는 능력의 범위가 <span class=\"Highlight1\">{0}미터</span> 증가한다.</li><li>생존자는 오직 한 번에 하나의 <i>통찰력</i> 효과의 영향을 받는다.</li>",
+        "name": "통찰력",
+        "flavor": "“항상 주의를 집중하는 것이 나를 오랫동안 살게 해줬지. 물론, 내 외견도 말이야.” -에이스",
+        "id": 138,
+        "index": "OPEN_HANDED",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ACE_VISCONTI",
+        "image": "iconPerks_openHanded",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                12
+            ],
+            [
+                16
+            ]
+        ]
+    },
+    {
+        "description": "결국 다 잘 풀리겠지; 당신은 그냥 그렇게 생각했지만 그 자신감이 주변 사람의 희망도 강하게 만들었다. 각 생존자들은 살아있는 동안 서로에게 <span class=\"Highlight1\">{0}%</span> 의 행운 보너스를 제공한다.<br>",
+        "name": "판돈 올리기",
+        "flavor": "“내가 뭐랬어? 운 하나는 기가 막히다니까... 네게도 이 운이 전해질 거라고 확신하지.” -에이스",
+        "id": 139,
+        "index": "UP_THE_ANTE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ACE_VISCONTI",
+        "image": "iconPerks_upTheAnte",
+        "tiers": [
+            [
+                1
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ]
+        ]
+    },
+    {
+        "description": "행운의 여신이 당신과 함께 하는 것 같다.<br>상자에서 아이템을 얻을 때, <span class=\"Highlight1\">{0}%</span>의 확률로 <span class=\"Highlight2\">극귀</span>(혹은 낮은 등급의) 애드온이 추가될 수 있다.<br><span class=\"Highlight3\">{1}%</span>의 확률로 <span class=\"Highlight4\">평범하지 않은 아이템</span> 희귀도(혹은 낮은 등급의) 애드온을 찾을 수 있다.<br>탈출 시, 아이템과 더불어 애드온까지 가지고 탈출할 수 있다.",
+        "name": "비장의 패",
+        "flavor": "“반짝거리는 것은 모두 금이 아니다. 하지만 이곳에서는 금은 한 푼의 가치도 없으니, 이것이 유용할 것이다.” -에이스",
+        "id": 140,
+        "index": "ACE_IN_THE_HOLE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ACE_VISCONTI",
+        "image": "iconPerks_aceInTheHole",
+        "tiers": [
+            [
+                100,
+                10
+            ],
+            [
+                100,
+                25
+            ],
+            [
+                100,
+                50
+            ]
+        ]
+    },
+    {
+        "description": "당신은 기계를 매우 정교하고 조심히 다루는 데 일가견이 있다.<br>발전기 수리 시 발생하는 소음을 들을 수 있는 거리가 <span class=\"Highlight2\">8미터</span> 감소한다. 스킬 체크 실패 시, <span class=\"Highlight1\">50%</span>의 확률로 발전기가 폭발하지 않는다.<br>",
+        "name": "기술자",
+        "flavor": "“조용히 처리해야겠군.” -펭 민",
+        "id": 141,
+        "index": "TECHNICIAN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FENG_MIN",
+        "image": "iconPerks_technician",
+        "tiers": [
+            [
+                8,
+                5
+            ],
+            [
+                8,
+                4
+            ],
+            [
+                8,
+                3
+            ]
+        ]
+    },
+    {
+        "description": "<b>빠른</b> 뛰어넘기 직후 <span class=\"Highlight2\">{1}초</span> 동안 달리기 속도가 <span class=\"Highlight1\">{0}%</span> 증가한다.<br>이동 속도 증가가 끝난 후 <span class=\"Highlight4\">{2}초</span> 동안 <i>탈진</i>에 걸리게 된다.<br><i>유연함</i>은 <i>탈진</i>을 겪는 중에는 사용할 수 없다.<br>달리기 중에는 <i>탈진</i>으로부터 회복할 수 없다.<br>",
+        "name": "유연함",
+        "flavor": "“야, 화났냐?” -펭 민",
+        "id": 142,
+        "index": "LITHE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FENG_MIN",
+        "image": "iconPerks_lithe",
+        "tiers": [
+            [
+                150,
+                3,
+                60
+            ],
+            [
+                150,
+                3,
+                50
+            ],
+            [
+                150,
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "경계 태세에 돌입한 당신의 예리한 감각. <br>휴식 동작을 취하는 살인마의 모습이 <span class=\"Highlight1\">{0}초</span>간 드러나게 된다.<br>",
+        "name": "기민함",
+        "flavor": "“난 무엇이든 꿰뚫어 보지.” -펭 민",
+        "id": 143,
+        "index": "ALERT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FENG_MIN",
+        "image": "iconPerks_alert",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ]
+    },
+    {
+        "description": "오라를 감지하는 잠재력을 끌어낸다. 모든 발전기에 전원이 공급되면, <span class=\"Highlight1\">{0}미터</span> 내에 있는 출구의 오라가 나타난다. 출구를 여는 동안, <span class=\"Highlight2\">{1}미터</span> 내에 있는 다른 생존자들에게 자신의 오라가 나타난다. <br><i>정신 차려!</i>가 발동되어 있다면, 출구를 여는 속도가 <span class=\"Highlight3\">{2}%</span> 빨라진다.",
+        "name": "정신 차려!",
+        "id": 144,
+        "index": "WAKE_UP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "QUENTIN_SMITH",
+        "image": "iconPerks_wakeUp",
+        "tiers": [
+            [
+                128,
+                128,
+                5
+            ],
+            [
+                128,
+                128,
+                10
+            ],
+            [
+                128,
+                128,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "당신은 약을 찾는 재주가 있다. 상자를 잠금 해제하는 속도가 <span class=\"Highlight1\">{0}%</span> 빨라지고, 소음을 들을 수 있는 범위가 <span class=\"Highlight2\">{1}미터</span> 감소한다.<br><i>약제학</i>은 <b>처음</b>으로 잠금 해제한 상자로부터 희귀한 등급의 아이템인 비상용 구급상자를 획득하는 것을 무조건 보장한다.<br>",
+        "name": "약제학",
+        "id": 145,
+        "index": "PHARMACY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "QUENTIN_SMITH",
+        "image": "iconPerks_pharmacy",
+        "tiers": [
+            [
+                40,
+                8
+            ],
+            [
+                60,
+                8
+            ],
+            [
+                80,
+                8
+            ]
+        ]
+    },
+    {
+        "description": "비참한 상황에서조차 친구들을 챙기는 당신. 당신을 비롯해 <span class=\"Highlight1\">{0}m</span> 범위 내에 있는 당신의 동료들이 <b>탈진, 출혈, 근육 손상</b> 및 <b>실명</b> 상태 이상에서 <span class=\"Highlight2\">{1}%</span> 더 빨리 회복된다. 범위 이탈 시, 이 효과는 <span class=\"Highlight4\">{2}초간</span> 유지된다.<br>",
+        "name": "불침번",
+        "id": 146,
+        "index": "VIGIL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "QUENTIN_SMITH",
+        "image": "iconPerks_vigil",
+        "tiers": [
+            [
+                8,
+                10,
+                15
+            ],
+            [
+                8,
+                15,
+                15
+            ],
+            [
+                8,
+                20,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "당신을 가로막는 것은 아무것도 없다. 이 끔찍한 상황에서도 당신의 지독한 집념은 당신을 빈사 상태에서 <span class=\"Highlight1\">{0}%</span> 더 빠르게 기어갈 수 있게 해주며, 동시에 부상을 치료할 수 있다.<br>",
+        "name": "집념",
+        "flavor": "\"이게 도대체 뭐야? 난 나쁜 놈을 끝장내고 있었다고!\"-데이비드 탭 형사",
+        "id": 147,
+        "index": "TENACITY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_TAPP",
+        "image": "iconPerks_tenacity",
+        "tiers": [
+            [
+                30
+            ],
+            [
+                40
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "오라를 감지하는 잠재력을 끌어낸다. 자신이 직접 발전기 수리를 완료하면, <span class=\"Highlight1\">{0}미터</span> 내의 발전기, 상자, 토템의 오라가 <span class=\"Highlight2\">{1}초</span> 동안 나타난다.<br>만약 지도를 가지고 있다면, <i>형사의 직감</i>으로 나타난 발전기, 상자, 토템이 지도에 추가된다.",
+        "name": "형사의 직감",
+        "flavor": "\"어젯밤 어디 계셨는지 말씀해 주실 수 있으십니까?\" - 형사 데이비드 탭",
+        "id": 148,
+        "index": "DETECTIVES_HUNCH",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_TAPP",
+        "image": "iconPerks_detectivesHunch",
+        "tiers": [
+            [
+                32,
+                10
+            ],
+            [
+                48,
+                10
+            ],
+            [
+                64,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "살인마와 가까워질수록 당신의 투지는 불타오른다. 추격 중이 아닌 상태에서 살인마의 공포 범위 안에 있을 경우, 매 <span class=\"Highlight1\">{0}초</span> 마다 토큰을 얻을 수 있으며, 최대 <span class=\"Highlight2\">{1}토큰</span>을 누적할 수 있다.<br><i>잠복 근무</i> 토큰이 <b>1토큰</b> 이상 있을 때 스킬 체크를 성공하면 스킬 체크 대성공으로 간주하며, </b>1토큰<b>을 소모한다. 또한 발전기 수리 진행도가 <span class=\"Highlight3\">1%</span> 증가한다.",
+        "name": "잠복 근무",
+        "flavor": "\"잡았다, 널 잡아서 내가 굴복시켰다고. 우리가 널 잡았으니 겁먹고 도망치는 거지. 우리가 이 사건을 해결할 거야!\" - 데이비드 탭 형사",
+        "id": 149,
+        "index": "STAKE_OUT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_TAPP",
+        "image": "iconPerks_stakeOut",
+        "tiers": [
+            [
+                15,
+                2
+            ],
+            [
+                15,
+                3
+            ],
+            [
+                15,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "빠르게 창틀을 뛰어넘거나, 캐비닛에서 뛰쳐나온 후  <span class=\"Highlight1\">{0}초</span> 동안 발자국이 남지 않는다. <br><i>'나와 함께 춤을'</i>은 <span class=\"Highlight1\">{1}초</span>의 재사용 대기시간이 있다. <br>",
+        "name": "나와 함께 춤을",
+        "flavor": "\"또 다른 공연이 우릴 기다리고 있어. <br>다가오는 폭풍 속에서, 나와 함께 춤을 추자 .<br>날 보고 따라 해봐, 계속 춤을 춰봐. <br>나와 함께 춤추자, 해가 우릴 밝게 비출 때까지.\"<br>-케이트 덴슨의 \"나와 함께 춤을\" 중",
+        "id": 150,
+        "index": "DANCE_WITH_ME",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "KATE_DENSON",
+        "image": "iconPerks_danceWithMe",
+        "tiers": [
+            [
+                3,
+                60
+            ],
+            [
+                3,
+                50
+            ],
+            [
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "오라를 감지하는 잠재력을 끌어낸다. <span class=\"Highlight1\">{0}미터</span> 내에 있는 판자와 부서지기 쉬운 문, 창틀의 오라를 볼 수 있다. <br><i>기회의 창</i>은 추격당하는 도중에 판자를 사용하거나 창틀을 뛰어넘을 경우 <span class=\"Highlight1\">{1}초</span> 동안 비활성화된다. <br>",
+        "name": "기회의 창",
+        "flavor": "“털고 일어나, 움직여, 세상에 너의 이름을 각인하는 거야.<br>마음을 다잡고, 활시위를 당겨, 명성이란 과녁을 맞혀. <br>믿음의 가치를 알아야 해, 그리고 가족도. 주저앉아 불평할 여유 따윈 없어.<br>활짝 여는 거야, 네 기회의 창을”-케이트 덴슨의 \"기회의 창\" 중",
+        "id": 151,
+        "index": "WINDOWS_OF_OPPORTUNITY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "KATE_DENSON",
+        "image": "iconPerks_windowsOfOpportunity",
+        "tiers": [
+            [
+                20,
+                30
+            ],
+            [
+                20,
+                25
+            ],
+            [
+                20,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "당신은 살인마의 손아귀에서 벗어나기 위해 최선을 다해 투쟁하는 사람이다. 당신의 몸부림이 살인마에게 <span class=\"Highlight1\">{0}%</span> 더 크게 작용한다. <br>또한 살인마가 반경 <span class=\"Highlight1\">{1}미터</span> 내에 있는 갈고리의 오라를 볼 수 없게 한다. <br>",
+        "name": "폭발",
+        "flavor": "<br>\"맞서 싸워, <br>자유를 향해 춤을 춰, <br>언제까지고 날 붙들고 있진 못할 거야.”<br>-케이트 덴슨의 “폭발” 중",
+        "id": 152,
+        "index": "BOIL_OVER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "KATE_DENSON",
+        "image": "iconPerks_boilOver",
+        "tiers": [
+            [
+                25,
+                10
+            ],
+            [
+                50,
+                12
+            ],
+            [
+                75,
+                14
+            ]
+        ]
+    },
+    {
+        "description": "기술 발동 버튼을 눌러 사용할 수 있다.<br>살인마의 공포 범위에서 추격당하지 않은 상태로 <span class=\"Highlight1\">{0}초</span> 동안 있을 경우 <i>교란</i>이 활성화된다.<br><li>가만히 앉아 있는 상태에서 <i>교란</i>이 활성화되며, <i>능력 활성화</i> 버튼을 눌러 돌멩이를 던질 수 있다. 돌멩이는 살인마의 <span class=\"Highlight2\">20미터</span> 범위 내에 방해를 일으킨다.</li><li>이 능력을 발동하면 기술 대기시간이 초기화된다.</li><br>방해의 종류는 다음과 같다: <br><li>큰 소음</li><li>긁힌 자국</li><br>",
+        "name": "교란",
+        "flavor": "“쉬운 길과 옳은 길. 그 두 가지의 차이를 모른다면, 당신이 미래에 어떤 사람이 될지 상상하기 어렵군요.” -아담 프란시스",
+        "id": 153,
+        "index": "DIVERSION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ADAM_FRANCIS",
+        "image": "iconPerks_diversion",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                35
+            ],
+            [
+                30
+            ]
+        ]
+    },
+    {
+        "description": "다른 생존자를 갈고리로부터 안전하게 구출했을 경우, <i>구조</i>를 사용할 수 있게 된다.<br>자신이 갈고리에 걸렸을 때 <span class=\"Highlight1\">100%</span>의 확률로 스스로 탈출할 수 있다.<br><i>구조</i>를 이용하여 갈고리로부터 스스로 탈출한 즉시 <span class=\"Highlight2\">치료 불능</span> 상태 이상에 <span class=\"Highlight3\">{0}초</span> 동안 걸리게 된다.",
+        "name": "구조",
+        "flavor": "“나는 엄격한 삼촌 밑에서 자라오면서, 최악의 상황 속에 내가 할 수 있는 최선의 일이 무엇인지 배웠어.” -아담 프란시스",
+        "id": 154,
+        "index": "DELIVERANCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ADAM_FRANCIS",
+        "image": "iconPerks_deliverance",
+        "tiers": [
+            [
+                100
+            ],
+            [
+                80
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "스킬 체크에 성공할 때, 희생제 시작 시 기본적으로 치료 진척도가 <span class=\"Highlight1\">-{1}%</span> 감소하는 페널티가 생긴다.<br>다른 생존자를 치료하는 도중 나오는 스킬 체크를 성공할 때마다 토큰 한 개를 얻으며, 최대 <span class=\"Highlight2\">{0}토큰</span>을 얻을 수 있다.<br>스킬 체크에 성공할 때, 토큰 하나당 <span class=\"Highlight1\">+{2}%</span>의 진척도를 즉시 회복시켜 준다.<br><i>독학자</i> 사용 중에는 스킬 체크 대성공을 수행할 수 없다.<li><i>독학자</i>는 구급상자를 사용하여 치료할 경우 효력을 발휘하지 않는다.</li>",
+        "name": "독학자",
+        "flavor": "“당신이 무언가에 대해 끊임없이 파고들수록, 배움에는 끝이 없다는 걸 알게 될 것입니다.”-아담 프란시스",
+        "id": 155,
+        "index": "AUTODIDACT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ADAM_FRANCIS",
+        "image": "iconPerks_autodidact",
+        "tiers": [
+            [
+                25,
+                3,
+                15
+            ],
+            [
+                25,
+                4,
+                15
+            ],
+            [
+                25,
+                5,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "탈출이나 구출을 통해 갈고리에서 빠져나가면 갈고리가 부러지면서 살인마의 오라를 <span class=\"Highlight1\">{0}초 동안 볼 수 있다</span>.이 기술로 망가진 갈고리는 <span class=\"Highlight2\">180초</span>가 지나서야 재생성된다.<br>",
+        "name": "부수기",
+        "flavor": "“짐승의 뱃속으로부터 탈출하라.”<br>길가 옆에 있는 평화로워 보이는 나무에서 어떤 흔적을 발견했는데, 무언가를 말해주고 있는 것 같았어. 마치 두 번째 기회는 놓치지 않는다는 것처럼. –제프, 나무에 그려져 있는 그림, 12x16",
+        "id": 156,
+        "index": "BREAKDOWN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JEFF_JOHANSEN",
+        "image": "iconPerks_breakdown",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    {
+        "description": "자신과 <span class=\"Highlight1\">{0}</span> 생존자 사이에 형성되는 쌍방향 연결이다.<br><li>갈고리에서 구해줬던 상대와 이어진다.</li><li>연결된 상대와의 치료 행동을 완료한다.</li><br>다른 생존자들과도 <span class=\"Highlight1\">{0}</span>개까지 연결을 만들 수 있다. 연결은 제거되지 않는 한 바뀌지 않는다.<br><br>살인마에게 당해 갈고리에 걸리면 다른 생존자와의 연결이 모두 사라진다.",
+        "name": "갱생 지도",
+        "id": 157,
+        "index": "AFTERCARE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JEFF_JOHANSEN",
+        "image": "iconPerks_aftercare",
+        "tiers": [
+            [
+                1
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ]
+        ]
+    },
+    {
+        "description": "<span class=\"Highlight1\">토큰 {0}개</span>를 가지고 희생제를 시작한다.<br><br>살인마에게 오라를 감지당하면 <i>뒤틀림</i>이 발동되고 토큰이 한 개 소모된다.<br><br>그 후 <span class=\"Highlight1\">{1}초</span> 동안 <i>뒤틀림</i>이 활성화되는 동안 긁힌 자국을 남기지 않아, 살인마에게 오라가 감지되지 않는다.<br><li><i>뒤틀림</i>은 빈사 상태 또는 함정에 빠지면 활성화되지 않는다. </li><br>",
+        "name": "뒤틀림",
+        "flavor": "“죽음은 작은 깃털 하나로도 면할 수 있어.”<br>잠 못 드는 겨울밤 며칠 동안 스케치 영감을 얻었지. 노르웨이의 신화 탐험 말이야. 용감함은 가장 위험한 순간에도 자신의 약점을 숨길 수 있어. –제프, 스케치가 들어 있는 종이 몇 장, 12x12",
+        "id": 158,
+        "index": "DISTORTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JEFF_JOHANSEN",
+        "image": "iconPerks_distortion",
+        "tiers": [
+            [
+                3,
+                6
+            ],
+            [
+                3,
+                8
+            ],
+            [
+                3,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "고통스러운 경험을 나누는 일도 치료의 힘을 갖고 있다.<br>부상당했을 때, 구급상자를 사용하지 않고 생존자를 치료하면 자기 자신도 <span class=\"Highlight1\">{0}%</span>만큼 치료된다.",
+        "name": "연대",
+        "flavor": "\"상황이 어려울 때 나타나, 고민을 들어주고 필요한 걸 제공해준다. 그렇게 더 강해지고 성장하는 거지.\" -제인 로메로",
+        "id": 159,
+        "index": "SOLIDARITY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JANE_ROMERO",
+        "image": "iconPerks_solidarity",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                45
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "목표를 달성하면 자신감도 올라간다.<br>발전기가 완성되면, <span class=\"Highlight1\"> {0}초</span> 동안 발자국이 남지 않는다.<br>",
+        "name": "침착",
+        "flavor": "\"좋아, 침착하게. 깊이 생각하지 말고 계속 앞으로 나가. 넌 할 수 있어.\" –제인 로메로",
+        "id": 160,
+        "index": "POISED",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JANE_ROMERO",
+        "image": "iconPerks_poised",
+        "tiers": [
+            [
+                6
+            ],
+            [
+                8
+            ],
+            [
+                10
+            ]
+        ]
+    },
+    {
+        "description": "당신이 마음만 먹으면, 아무도 자신을 방해할 수 없다.<br><br>캐비닛에 <span class=\"Highlight1\">{0} 초</span> 동안 서 있으면 <i>정면충돌</i>이 발동된다.<br><i>정면충돌</i>이 발동됐을 때 빠른 행동과 함께 캐비닛을 빠져나온 후 <i>정면충돌</i> 능력을 사용하고 살인마가 <i>정면충돌</i> 효과 범위 안에 있는 경우에 한해 <span class=\"Highlight1\">{1} 초</span> 동안 살인마를 기절시킨다.<br><span class=\"Highlight1\">{2} 초</span> 동안 <span class=\"Highlight3\">탈진</span> 상태에 빠진다. <br><span class=\"Highlight3\">탈진</span>상태에서는 정면충돌을 사용할 수 없다. <br><i>정면충돌</i>은 까마귀가 있을 경우 사용할 수 없다.<br>",
+        "name": "정면충돌",
+        "flavor": "\"사람들은 도전을 이겨내고 기억에 남는다. 자신의 잠재력을 잊고 도망치거나 혹은 자신의 공포와 마주하여 세상에 자신의 진짜 존재를 각인시킬 수 있다.\" -제인 로메로",
+        "id": 161,
+        "index": "HEAD_ON",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JANE_ROMERO",
+        "image": "iconPerks_headOn",
+        "tiers": [
+            [
+                3,
+                3,
+                60
+            ],
+            [
+                3,
+                3,
+                50
+            ],
+            [
+                3,
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "탈출 불가 상황을 빠져나갈 수 있는 초자연 능력을 얻는다.<br><br>빈사 상태에 빠지면 살인마에게 붙잡혔을 때 회복 진행도의 <span class=\"Highlight1\">{0}%</span>가 몸부림 진행도로 전환되어 최대 <span class=\"Highlight2\">{1}%</span>까지 늘어난다.<br>",
+        "name": "슬리퍼",
+        "flavor": "\"슬리퍼를 신고 네 놈을 잡아주지.\" - 애쉬 윌리엄스",
+        "id": 162,
+        "index": "FLIP_FLOP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ASHLEY_J_WILLIAMS",
+        "image": "iconPerks_flipFlop",
+        "tiers": [
+            [
+                50,
+                40
+            ],
+            [
+                50,
+                45
+            ],
+            [
+                50,
+                50
+            ]
+        ]
+    },
+    {
+        "description": "오라를 감지하는 잠재력을 끌어낸다. 빈사 상태에 빠진 생존자의 회복 진행도는 최대 <span class=\"Highlight1\">{0}미터</span>까지 오라가 보인다.<br><br>생존자를 빈사 상태에서 부상 상태로 치료하면, 치료받은 생존자와 자기 자신 모두 <span class=\"Highlight2\">{1}초</span> 동안 살인마의 오라를 볼 수 있다.<br>",
+        "name": "재정비",
+        "flavor": "\"유령 퇴치꾼들은 절대 사람을 그냥 지나치지 않지.\" -애쉬 윌리엄스",
+        "id": 163,
+        "index": "BUCKLE_UP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ASHLEY_J_WILLIAMS",
+        "image": "iconPerks_buckleUp",
+        "tiers": [
+            [
+                48,
+                4
+            ],
+            [
+                48,
+                5
+            ],
+            [
+                48,
+                6
+            ]
+        ]
+    },
+    {
+        "description": "악은 언제나 당신을 찾아낼 수 있다.<br><br>보호 공격 점수 이벤트가 <span class=\"Highlight1\">{0}</span>회 발생하면, <i>남자의 패기</i>가 발동된다. <br><br>기술이 발동되면 <b>빈사 상태</b>에 빠뜨릴 수 있었던 다음 <b>부상 상태</b>는 무시된다.<br><br>이후 체력을 모두 회복하면 살인마와의 거리가 <span class=\"Highlight2\">{1} 미터</span> 이상일 때 오라가 살인마에게 노출된다.<br><br><i>남자의 패기</i>는 다시 한 번 빈사 상태에 빠질 경우 비활성화된다.<br><i><li>살인마의 집착 대상이 될 확률이 증가한다.</li><li>살인마는 한 번에 하나의 생존자에게만 <b>집착</b>할 수 있다.</li></i><br>",
+        "name": "남자의 패기",
+        "flavor": "\"악은 언제나 야구장 크기만한 눈으로 내 뒤를 지켜보고 있어.\" -애쉬 윌리엄스",
+        "id": 164,
+        "index": "METTLE_OF_MAN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ASHLEY_J_WILLIAMS",
+        "image": "iconPerks_mettleOfMan",
+        "tiers": [
+            [
+                3,
+                12
+            ],
+            [
+                3,
+                14
+            ],
+            [
+                3,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "어떤 장애물이 앞을 가로막고 있어도 정의를 추구하고 진실을 밝혀낸다.<br><br>지금 수리하고 있는 발전기의 오라가 <span class=\"Highlight1\">{0}미터</span> 안에 있는 모든 생존자들에게 보인다.<br><br>만약 당신이 발전기를 수리하는 동안 살인마가 한 생존자를 쓰러뜨리면 당신은 <span class=\"Highlight2\">{1} 초</span> 동안 다른 생존자들의 오라를 감지할 수 있게 된다.<br>",
+        "name": "함께라면 더 좋지",
+        "flavor": "“저 연구소를 전부 잿더미로 만들어버리자.” -낸시 윌러",
+        "id": 165,
+        "index": "BETTER_TOGETHER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NANCY_WHEELER",
+        "image": "iconPerks_betterTogether",
+        "tiers": [
+            [
+                32,
+                8
+            ],
+            [
+                32,
+                9
+            ],
+            [
+                32,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "목표를 마음에 두고 있다면 되돌아갈 길은 없다. 허락을 구하기 보다는 용서를 구하는 것이 낫다. <br><br>항상 자신의 다친 흔적을 볼 수 있다.<br><br><span class=\"Highlight1\">{0}%</span>더 빠르게 걸을 수 있다.<br>",
+        "name": "시선 고정",
+        "flavor": "\"우리가 시작한 일을 끝내고 싶어. 그걸 죽여버릴 거야.\" -낸시 윌러",
+        "id": 166,
+        "index": "FIXATED",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NANCY_WHEELER",
+        "image": "iconPerks_fixated",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                15
+            ],
+            [
+                20
+            ]
+        ]
+    },
+    {
+        "description": "길을 잃거나 외롭다고 느낄 때 내면을 들여다 보고 자신의 직감을 믿는다.<br><br>토템을 정화할 때마다 <i>내면의 힘</i>이 활성화된다. 이미 <b>치료 불능</b> 상태인 경우, <i>내면의 힘</i>이 활성화되지 않는다.<br><br><i>내면의 힘</i>이 활성화된 후 <span class=\"Highlight1\">{0}초</span> 동안 캐비닛에 숨어 있으면 부상 상태에서 건강한 상태로 자동 치료된다.<br><br><i>내면의 힘</i>은 성공적으로 발동된 후에 바로 비활성화된다.<br>",
+        "name": "내면의 힘",
+        "flavor": "“그동안 난 모든 게 다 괜찮은 척 하려고 노력했지만, 소용없었어.” -낸시 윌러",
+        "id": 167,
+        "index": "INNER_STRENGTH",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NANCY_WHEELER",
+        "image": "iconPerks_innerStrength",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                9
+            ],
+            [
+                8
+            ]
+        ]
+    },
+    {
+        "description": "자기중심적이라는 평판을 받지만, 도움이 필요한 사람을 위해서라면 모든 위험을 무릅쓴다.<br><br>생존자를 갈고리에서 구출했을 때 풀려난 생존자에게 다친 흔적이나 핏자국이 <span class=\"Highlight1\">{0}초</span> 동안 나타나지 않는다. 살인마의 오라를 감지할 수 있으며, 살인마는 또한 자신의 오라를 <span class=\"Highlight2\">{1}초</span> 동안 감지할 수 있다.<br>",
+        "name": "베이비시터",
+        "flavor": "“멍청한 네 녀석들을 지키기로 약속했었지. 그게 바로 내 계획이야.” -스티브 해링턴",
+        "id": 168,
+        "index": "BABYSITTER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "STEVE_HARRINGTON",
+        "image": "iconPerks_babySitter",
+        "tiers": [
+            [
+                4,
+                4
+            ],
+            [
+                6,
+                4
+            ],
+            [
+                8,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "인생은 당신에게 우정의 중요성을 가르쳐 주었고, 당신은 그것에서 힘을 얻었다.<br><br>갈고리에 걸려 저항 단계에 접어들었을 때 <i>동료애</i>가 활성화된다.<br><br><i>동료애</i>가 활성화되어 있는 동안 다른 생존자가 <span class=\"Highlight1\">{0}미터</span> 안에 있는 경우 갈고리 타이머가 <span class=\"Highlight2\">{1}초</span> 동안 일시 정지한다.<br>",
+        "name": "동료애",
+        "flavor": "\"그러니까, 그 안에 들어가게 되면 이걸 기억해... 신경 쓰지 않는 척 하는 거야. 그래, 친구야. 잘 배우고 있어.” -스티브 해링턴",
+        "id": 169,
+        "index": "CAMARADERIE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "STEVE_HARRINGTON",
+        "image": "iconPerks_camaraderie",
+        "tiers": [
+            [
+                16,
+                26
+            ],
+            [
+                16,
+                30
+            ],
+            [
+                16,
+                34
+            ]
+        ]
+    },
+    {
+        "description": "다른 생존자를 건강한 상태까지 치료하면 <i>새로운 활력</i>이 활성화된다. 이미 <span class=\"Highlight1\">치료 불능</span> 상태인 경우, <i>새로운 활력</i>이 활성화되지 않는다.<br><br><i>새로운 활력</i>이 활성화되어 있는 동안 다음 갈고리에서 구출되거나 스스로 탈출할 때 <span class=\"Highlight1\">치료 불능</span> 상태에 빠진다. 총 <span class=\"Highlight2\">{0}초</span>가 지나면 <i>새로운 활력</i>의 효과로 부상 상태에서 건강한 상태로 자동 치료된다.<br><br><i>새로운 활력</i>은 <i>새로운 활력</i>을 발동하기 전에 빈사 상태에 빠지거나 완전히 치료되면 비활성화된다. 또한 <span class=\"Highlight1\">치료 불능</span> 상태가 사라진다.<br>",
+        "name": "새로운 활력",
+        "flavor": "\"그래, 그건 안 돼.\" -스티브 해링턴",
+        "id": 170,
+        "index": "SECOND_WIND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "STEVE_HARRINGTON",
+        "image": "iconPerks_secondWind",
+        "tiers": [
+            [
+                28
+            ],
+            [
+                24
+            ],
+            [
+                20
+            ]
+        ]
+    },
+    {
+        "description": "적과 싸우면서 상처가 나고 멍도 들었지만, 운이 항상 따른다.<br><br><i>행운</i> 능력은 부상당했을 때 발동된다. <i>행운</i>이 활성화되는 동안 최대 <span class=\"Highlight1\">{0}초</span> 동안 피를 흘리지 않거나 발자국을 남기지 않고, <br><br>능력 활성 시간을 모두 사용하면 희생제가 종료될 때까지 <i>행운</i> 능력은 비활성화된다.<br>",
+        "name": "행운",
+        "flavor": "“그 실력으론 날 이길 수 없다. 근처도 오지 못하겠지.” -유이 키무라 ",
+        "id": 171,
+        "index": "LUCKY_BREAK",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUI_KIMURA",
+        "image": "iconPerks_luckyBreak",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                50
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "다른 누군가에게 의존하지 않으며, 손이 닿는 것 중에 도움이 될 만한 건 뭐든 활용한다.<br><br>떨어진 판자 옆에 서있는 상태에서 <i>능력 활성화 버튼</i>을 <span class=\"Highlight1\">{0}초 동안</span> 길게 눌러 판자를 다시 세울 수 있다.<br><br><i>필요하다면 무엇이든</i>은 <span class=\"Highlight2\">{1}초</span>의 재사용 대기시간을 가진다.<br>",
+        "name": "필요하다면 무엇이든",
+        "flavor": "“내 모든 것을 담아 다시 공격해주지. 그리고 반복할 거다.” -유이 키무라 ",
+        "id": 172,
+        "index": "ANY_MEANS_NECESSARY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUI_KIMURA",
+        "image": "iconPerks_anyMeansNecessary",
+        "tiers": [
+            [
+                4,
+                100
+            ],
+            [
+                4,
+                80
+            ],
+            [
+                4,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "누군가에게 도움이 필요하면 빠르게 움직일 수 있으며, 이 모습을 본 사람들은 장애물을 뛰어넘을 수 있는 힘을 얻는다.<br><br><span class=\"Highlight1\">{0}미터</span> 내에 살인마에게 붙잡힌 생존자가 있는 경우 <span class=\"Highlight2\">이동 속도 증가</span> 효과가 발동되어 <span class=\"Highlight3\">{1}%</span> 더 빨라지고, 붙잡힌 생존자의 몸부림 속도도 <span class=\"Highlight4\">{2}%</span> 더 빨라진다.<br>",
+        "name": "탈출",
+        "flavor": "“어서 와라, 결판을 지을 시간이다.” -유이 키무라 ",
+        "id": 173,
+        "index": "BREAKOUT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUI_KIMURA",
+        "image": "iconPerks_breakout",
+        "tiers": [
+            [
+                6,
+                5,
+                20
+            ],
+            [
+                6,
+                6,
+                20
+            ],
+            [
+                6,
+                7,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "때로는 조용한 접근이 가장 좋은 방법이기도 하다. <br><br>자신이 갈고리에서 구출되거나 탈출하면 <i>비공개 조건</i>이 <span class=\"Highlight1\">{0}초</span> 동안 활성화된다. <br><br><i>비공개 조건</i> 능력이 활성화되어 있는 동안 살인마는 자신의 오라는 볼 수 없게 되며 부상으로 인한 고통이 <span class=\"Highlight2\">{1}%</span> 감소한다.<br>",
+        "name": "비공개 조건",
+        "flavor": "\"절 믿으세요, 누구보다 신중하고 철저하게 조사하는 사람이니까.\" -자리나 카시르",
+        "id": 174,
+        "index": "OFF_THE_RECORD",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ZARINA_KASSIR",
+        "image": "iconPerks_offTheRecord",
+        "tiers": [
+            [
+                60,
+                100
+            ],
+            [
+                70,
+                100
+            ],
+            [
+                80,
+                100
+            ]
+        ]
+    },
+    {
+        "description": "큰소리는 사람들의 이목을 집중시킨다.<br><br>발전기를 최소 <span class=\"Highlight1\">{0}초</span> 이상 수리하면 노란색 오라로 표시되며 자신만 볼 수 있다. 이후 완전히 수리하거나, 새로운 발전기를 수리하거나, 캐비닛에 들어갈 때까지 해당 발전기는 계속 표시된다. <br><br>아무 캐비닛에 들어가면 살인마에게만 보이는 발전기에서 큰 소음이 나게 된다. <br><li><i>오보</i>는 <span class=\"Highlight2\">{1}초</span>마다 사용할 수 있다.</li><br>",
+        "name": "오보",
+        "flavor": "\"뉴스는 부담스럽고 복잡한 것을 잘라내지, 진실을 숨기기 위해 말이야.\" -자리나 카시르",
+        "id": 175,
+        "index": "RED_HERRING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ZARINA_KASSIR",
+        "image": "iconPerks_redHerring",
+        "tiers": [
+            [
+                3,
+                60
+            ],
+            [
+                3,
+                50
+            ],
+            [
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "다른 사람들을 위해 자신을 희생한다.<br><br><i>국민을 위하여</i>는 건강한 상태에서만 활성화할 수 있다.<br><br>구급상자 없이 다른 생존자를 치료할 동안 <i>능력 활성화 버튼</i>을 누르면 빈사 상태에서 부상 상태 또는 부상 상태에서 건강한 상태로 즉시 치료할 수 있다.<br><br>자신은 부상 상태가 되며 <span class=\"Highlight1\">{0}초</span> 동안 <b>치료 불능</b> 상태에 빠지게 된다.<br><br>집착 대상이 된다.<br><br>이 기술을 장착하면 희생제 시작 시 살인마의 집착 대상이 될 확률이 <b>감소한다</b>.<br>",
+        "name": "국민을 위하여",
+        "flavor": "\"우린 모두 자신만의 이야기를 쓰고 그것이 실제로 어떻게 끝날지 결정할 수 있다.\" -자리나 카시르",
+        "id": 176,
+        "index": "FOR_THE_PEOPLE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ZARINA_KASSIR",
+        "image": "iconPerks_forThePeople",
+        "tiers": [
+            [
+                110
+            ],
+            [
+                100
+            ],
+            [
+                90
+            ]
+        ]
+    },
+    {
+        "description": "엄청난 고난을 겪은 후 더 강해졌다.<br><br>치료 후 또는 빈사 상태에서 회복한 후 <span class=\"Highlight1\">{0}초</span> 동안 <b>인내</b> 상태 효과가 발동한다.<br>주술의 저주에 걸린 동안 생존자는 빈사 상태에서 회복한다.<br><br>해당 효과는 <span class=\"Highlight2\">30초</span> 마다 사용 가능하다.",
+        "name": "소울 가드",
+        "id": 177,
+        "index": "SOUL_GUARD",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CHERYL_MASON",
+        "image": "iconPerks_soulGuard",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                6
+            ],
+            [
+                8
+            ]
+        ]
+    },
+    {
+        "description": "내 안에 잠재된 무언가가 깨어나는 것 같다. 예를 들어, 본래의 능력을 뛰어넘을 수 있을 것 같은 느낌이랄까.<br><br>나 또는 집착 대상이 부상을 입었을 때, 서로의 오라를 볼 수 있게 된다.<br><br>집착 대상을 치료하거나 집착 대상에 의해 치료되었을 경우, 둘 사이의 거리가 <span class=\"Highlight2\">16미터</span> 이하일 경우 <span class=\"Highlight1\">{1}%</span>의 <b>이동 속도 증가</b> 상태 효과가 발생한다.<br><br>집착 대상이 될 확률이 감소한다.<br><br>또한 집착 대상이 되면, 해당 기술이 비활성화된다.",
+        "name": "피의 협정",
+        "id": 178,
+        "index": "BLOOD_PACT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CHERYL_MASON",
+        "image": "iconPerks_bloodPact",
+        "tiers": [
+            [
+                5
+            ],
+            [
+                6
+            ],
+            [
+                7
+            ]
+        ]
+    },
+    {
+        "description": "악의적인 세력에 쫓기는 데 익숙해져 있는 당신은 그것을 이제 자신에게 유리하게 이용하기 시작한다.<br><br>발전기 수리 후 총 <span class=\"Highlight1\">{0}초</span> 동안 <i>억압된 동맹</i>이 활성화된다.<br><br>해당 기술이 활성화된 동안 발전기를 수리하면, <i>능력 활성화 버튼</i>을 눌러 엔티티를 소환하여 발전기를 <span class=\"Highlight2\">{1}초</span> 동안 차단하게 할 수 있다. 기술이 비활성화된다.<br><br>영향을 받은 발전기는 모든 생존자들에게 흰 오라를 드러낸다.",
+        "name": "억압된 동맹 ",
+        "id": 179,
+        "index": "REPRESSED_ALLIANCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CHERYL_MASON",
+        "image": "iconPerks_repressedAlliance",
+        "tiers": [
+            [
+                80,
+                30
+            ],
+            [
+                70,
+                30
+            ],
+            [
+                60,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "탈출 수단에 눈에 띄게 집중한다.<br><br><span class=\"Highlight1\">{0}미터</span> 내 발전기의 오라를 볼 수 있다.<br><br>발전기가 완료되면 <span class=\"Highlight2\">{1}초</span> 동안 <i>선견지명</i>을 사용할 수 없다.",
+        "name": "선견지명",
+        "id": 180,
+        "index": "VISIONARY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FELIX_RICHTER",
+        "image": "iconPerks_visionary",
+        "tiers": [
+            [
+                32,
+                20
+            ],
+            [
+                32,
+                18
+            ],
+            [
+                32,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "가장 힘든 시기에도 당신은 실패하려 하지 않는다.<br><br>부상, 빈사 상태나 갈고리에 걸린 생존자 수에 따라 치료 및 구출 속도가 <span class=\"Highlight1\">{0}%</span> 증가한다.<br>",
+        "name": "필사의 조치",
+        "flavor": "\"그들이 레킹볼과 함께 올 때면, 더 견고한 벽을 지어야 한다.” —펠릭스 릭터",
+        "id": 181,
+        "index": "DESPERATE_MEASURES",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FELIX_RICHTER",
+        "image": "iconPerks_desperateMeasures",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                12
+            ],
+            [
+                14
+            ]
+        ]
+    },
+    {
+        "description": "도구를 최대한 활용하는 방법을 알고 있다.<br><br>희생제당 1회에 한해, 고갈된 아이템은 <span class=\"Highlight2\">{1}초</span> 후, 차지의 <span class=\"Highlight1\">{0}%</span>가 리필된다.<br>",
+        "name": "견고함",
+        "flavor": "\"건축은 문명의 영혼이다.” —펠릭스 릭터",
+        "id": 182,
+        "index": "BUILT_TO_LAST",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FELIX_RICHTER",
+        "image": "iconPerks_builtToLast",
+        "tiers": [
+            [
+                30,
+                10
+            ],
+            [
+                40,
+                10
+            ],
+            [
+                50,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "다른 이라면 쉽게 지나쳤을 것이지만 당신에게는 사소한 것을 알아차릴 수 있는 세심한 눈이 있다.<br><br><span class=\"Highlight1\">{0}개의 토큰</span>을 보유한 채 희생제를 시작한다. 상자가 이미 열렸다면 토큰을 하나 소모하여 아이템을 뒤져볼 수 있다. 상자 뒤지기는 상자당 한 번만 실행할 수 있다.<br><br>상자들과 <span class=\"Highlight2\">{1}%</span> 더 빨리 상호작용한다.",
+        "name": "판별",
+        "id": 183,
+        "index": "APPRAISAL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ELODIE_RAKOTO",
+        "image": "iconPerks_appraisal",
+        "tiers": [
+            [
+                3,
+                40
+            ],
+            [
+                3,
+                60
+            ],
+            [
+                3,
+                80
+            ]
+        ]
+    },
+    {
+        "description": "당신의 모험적인 삶에는 교활한 그릇된 방향으로의 순간들이 필요하다.<br><br>전력 질주 동안 캐비닛을 열면 당신의 위치를 알리는 큰 소음이 발생하며 <span class=\"Highlight1\">{0}초</span> 동안 발자국을 남기지 않는다.<br><br>전력 질주 및 해당 기술이 활성화되는 동안 캐비닛에 들어갈 수 없다.<br><br><i>속임수</i>는 <span class=\"Highlight2\">{1}초</span>에 한 번씩만 발동된다.",
+        "name": "속임수",
+        "id": 184,
+        "index": "DECEPTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ELODIE_RAKOTO",
+        "image": "iconPerks_deception",
+        "tiers": [
+            [
+                3,
+                60
+            ],
+            [
+                3,
+                50
+            ],
+            [
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "당신은 포기하지 않는다. 그리고 지금 바로 시작하려고도 하지 않는다.<br><br>살인마에게 붙잡히는 동안 몸부림 진행 상황이 <span class=\"Highlight1\">{0}%</span>에 도달하면 <i>힘찬 발버둥</i>이 활성화된다. <i>힘찬 발버둥</i>이 활성화되면 주변에 서 있는 판자를 떨어뜨려 살인마를 기절시킬 수 있다.<br>",
+        "name": "힘찬 발버둥",
+        "flavor": "“난 나의 안전을 타인에게 의지한 적이 있어. 그리고 모든 것을 잃게 되었지. 두 번 다시 그런 일을 없어.” —엘로디 라코토",
+        "id": 185,
+        "index": "POWER_STRUGGLE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ELODIE_RAKOTO",
+        "image": "iconPerks_powerStruggle",
+        "tiers": [
+            [
+                35
+            ],
+            [
+                30
+            ],
+            [
+                35
+            ]
+        ]
+    },
+    {
+        "description": "앞서나가기 위해서는 때때로 다른 사람들의 희생이 필요하다.<br><br>다른 생존자가 갈고리에 걸릴 때마다, <span class=\"Highlight1\">{0}개의 토큰</span>을 획득한다. 스킬 체크에 대성공한 후 토큰을 모두 소비하게 된다. 발전기를 수리할 때 토큰을 소비하면 토큰 하나마다 스킬 체크 대성공에 대한 <span class=\"Highlight2\">{1}%</span>의 진척도 보너스가 제공된다.<br>",
+        "name": "고속 승진",
+        "flavor": "\"약한 자들이 먼저 희생되지. 자연스러운 거야, 다 하나를 주고 하나를 가지는 거야... 많은 이들이 가장 직면하기 어려워하는 사실이지.\" — 윤진",
+        "id": 186,
+        "index": "FAST_TRACK",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUN_JIN_LEE",
+        "image": "iconPerks_FastTrack",
+        "tiers": [
+            [
+                1,
+                9
+            ],
+            [
+                2,
+                18
+            ],
+            [
+                3,
+                27
+            ]
+        ]
+    },
+    {
+        "description": "라이벌이 실수를 하면 기회를 가로챌 수 있다.<br><br>판자로 살인마를 기절시키면 전력을 다한 질주로 달리기 속도가 <span class=\"Highlight2\">{1}초</span> 동안 <span class=\"Highlight1\">{0}%</span>로 상승한다.<br>이동 속도 증가가 끝난 후<span class=\"Highlight3\">{2}초</span> 동안 <b>탈진</b> 상태 이상에 걸리게 된다.<br>해당 기술은 <b>탈진</b> 상태 동안 사용할 수 없다.<br>",
+        "name": "대 히트",
+        "flavor": "\"내가 양복쟁이 사이코패스들을 상대해온 사람이야. 너 따윈 그저 더 못난 모습에 패션 센스도 더럽게 없는 새끼일 뿐이야.\" —윤진",
+        "id": 187,
+        "index": "SMASH_HIT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUN_JIN_LEE",
+        "image": "iconPerks_SmashHit",
+        "tiers": [
+            [
+                150,
+                4,
+                60
+            ],
+            [
+                150,
+                4,
+                50
+            ],
+            [
+                150,
+                4,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "삶이 지독스럽다. 때로는 자신을 돌보는 것이 최선일 때가 있다.<br><br><span class=\"Highlight1\">{0}미터</span> 내에 있는 다른 생존자가 기본 공격 또는 특수 공격에 의해 타격을 받을 때마다 <i>자기 보호</i>가 활성화된다.<br><span class=\"Highlight2\">{1}초</span> 동안 살인마에게 발자국, 핏자국, 그리고 부상으로 인한 신음이 보이거나 들리지 않게 된다.<br>",
+        "name": "자기 보호",
+        "flavor": "\"이 바닥에서 내가 배운 거라곤, 누군가 도끼를 휘두른다면 그저 머리를 숙이고 숨어라라는 거야.\" — 윤진",
+        "id": 188,
+        "index": "SELF_PRESERVATION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUN_JIN_LEE",
+        "image": "iconPerks_Self-Preservation",
+        "tiers": [
+            [
+                16,
+                6
+            ],
+            [
+                16,
+                8
+            ],
+            [
+                16,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "당신은 당신보다 더 강한 적에 저항하는지 알고 있으며, 이는 그들의 지지 세력을 추적하고 쓰러뜨리는 것부터 시작해야 한다.<br><br>토템을 <b>20%</b> 빠르게 정화한다. 토템 정화 후, <span class=\"Highlight1\">{0}초</span> 동안 가장 멀리 있는 토템의 오라가 보이며, 희생제가 종료될 때까지 토템 정화를 위한 <span class=\"Highlight2\">{1}%</span>의 중첩 가능한 속도 보너스가 추가로 획득한다.<br><br><span class= \"FlavorText\">\"조금의 탐정은 괜찮아.\" —질 발렌타인</span>",
+        "name": "저항력",
+        "id": 189,
+        "index": "COUNTERFORCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JILL_VALENTINE",
+        "image": "iconPerks_Counterforce",
+        "tiers": [
+            [
+                2,
+                20
+            ],
+            [
+                3,
+                20
+            ],
+            [
+                4,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "불가능한 역경에서 돌아온 당신은... 다시 그것을 반복할 것이다.<br><br>갈고리에서 구출되거나 혼자서 탈출한 후 <span class=\"Highlight1\">{0}%</span>의 치료 속도를 즉시 획득한다.<br><br><span class= \"FlavorText\">\"내 차례야, 새끼야.\" —질 발렌타인</span>",
+        "name": "부활",
+        "id": 190,
+        "index": "RESURGENCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JILL_VALENTINE",
+        "image": "iconPerks_Resurgence",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                45
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "직접 전투가 옵션이 아니라면 반격을 가할 방법을 찾아야 한다.<br><br><i>폭풍형 지뢰</i>는 총 <span class=\"Highlight1\">{0}%</span> 가치의 발전기 수리 진행 상황이 완료된 후 활성화된다.<br>최소 <span class=\"Highlight2\">{1}초</span> 이상 발전기를 수리한 후, <i>어빌리티 버튼</i>을 눌러 <span class=\"Highlight3\">{2}초</span> 동안 활성화되는 덫을 설치할 수 있다. 영향을 받은 발전기의 오라는 모든 생존자에게 노랗게 나타난다. 덫은 발전기 한 대에 한 개만 활성화할 수 있다.<br><li>덫이 설치된 발전기를 살인마가 손상시키면 덫은 폭발하는 동시에 살인마를 기절시키고 주변에 있는 모든 이들을 실명시킨다.그 후, <i>폭풍형 지뢰</i>는 비활성화된다.</li><br><br><span class= \"FlavorText\">\"너 같은 괴물은 사라지는 게 좋아! \" 질 발렌타인</span>",
+        "name": "폭풍형 지뢰",
+        "id": 191,
+        "index": "BLAST_MINE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JILL_VALENTINE",
+        "image": "iconPerks_blastMine",
+        "tiers": [
+            [
+                66,
+                3,
+                35
+            ],
+            [
+                66,
+                3,
+                40
+            ],
+            [
+                66,
+                3,
+                45
+            ]
+        ]
+    },
+    {
+        "description": "고통은 누구 못지않게 당신을 아프게 하지만 당신은 다른 사람들이 이를 몰랐으면 한다.<br><br>치료 중, 부상으로 인한 신음을 포함하여 아무런 소리를 내지 않지 않는다. 치료 스킬 체크에 실패하면 큰 소음이 들리지 않지만 치료 진행도가 <span class=\"Highlight1\">{0}%</span>만큼 줄어든다.<br><br><span class= \"FlavorText\">\"할 수 있어.\" —레온 S. 케네디</span>",
+        "name": "고통 참기",
+        "id": 192,
+        "index": "BITE_THE_BULLET",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEON_SCOTT_KENNEDY",
+        "image": "iconPerks_BiteTheBullet",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                2
+            ],
+            [
+                1
+            ]
+        ]
+    },
+    {
+        "description": "혼란에 빠진 세상에 적응한 자는 잔해 속에서도 무언가를 만들어낸다.<br><br>발전기에 <span class=\"Highlight1\">{0}%</span> 진행도를 완료하면, <i>섬광탄</i>이 활성화된다.<br>빈손으로 캐비닛에 들어가 어빌리티 버튼을 누르면 섬광탄을 제작할 수 있다.<br><li>내구도 1.</li><li>요란한 쾅 소리와 번쩍이는 빛으로 폭발한다.</li><li>큰 소음을 일으킨다.</li><li>교란 또는 실명시키는 데 사용할 수 있다.</li><br>희생제 탈출 시 섬광탄을 두고 떠난다.<br><br><span class= \"FlavorText\">\"내 앞에서 꺼져!\" —레온 S. 케네디</span>",
+        "name": "섬광탄",
+        "id": 193,
+        "index": "FLASHBANG",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEON_SCOTT_KENNEDY",
+        "image": "iconPerks_Flashbang",
+        "tiers": [
+            [
+                70
+            ],
+            [
+                60
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "목표물이 도망가지 않게 주시해야 한다.<br><br>발전기 수리 중 스킬 체크를 <span class=\"Highlight1\">{0}</span>회 성공 또는 대성공하면 남은 희생제 동안 <i>신입의 패기</i>를 활성화할 수 있다.<br>스킬이 활성화되면 손상된 발전기의 오라를 볼 수 있게 된다.<br><br><span class= \"FlavorText\">\"부서장님, 제가 꼭 막겠습니다. 약속드리죠.\" —레온 S. 케네디</span>",
+        "name": "신입의 패기",
+        "id": 194,
+        "index": "ROOKIE_SPIRIT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEON_SCOTT_KENNEDY",
+        "image": "iconPerks_RookieSpirit",
+        "tiers": [
+            [
+                5
+            ],
+            [
+                4
+            ],
+            [
+                3
+            ]
+        ]
+    }
+]

@@ -1,0 +1,503 @@
+[
+    {
+        "description": "薄い広角レンズ。傷一つない状態で、照射距離と引き換えに懐中電灯の光を拡散するように作られている。<br><li>懐中電灯の光が<b>そこそこ拡大する</b></li><li>懐中電灯の照射距離が<b>少し減少する</b></li>",
+        "name": "広角レンズ",
+        "id": 1,
+        "index": "WIDE_LENS",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_wideLens"
+    },
+    {
+        "description": "強い光を発する高ワットの小さな電球。<br><li>懐中電灯の照射半径が<b>少し減少する</b></li><li>光の明るさが<b>少し増加する</b></li><li>目眩ましの効果時間が<b>少し増加する</b></li>",
+        "name": "強力電球",
+        "flavor": "「どんなに強い光であっても黒い霧の闇を照らすことはできない。」",
+        "id": 2,
+        "index": "POWER_BULB",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_powerBulb"
+    },
+    {
+        "description": "グリップを強化するために懐中電灯に巻かれた革の紐。<br><li>懐中電灯の精度が<b>少し上昇する</b></li>",
+        "name": "革のグリップ",
+        "flavor": "「手汗のせいで命を落とした奴は数え切れん。」",
+        "id": 3,
+        "index": "LEATHER_GRIP",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_leatherGrip"
+    },
+    {
+        "description": "ブランド名不明の電池。<br><li>懐中電灯の使用可能時間が<b>2秒</b>増加する</li>",
+        "name": "電池",
+        "flavor": "「また切れかけの乾電池だ。」",
+        "id": 4,
+        "index": "BATTERY",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_battery"
+    },
+    {
+        "description": "懐中電灯の光を増大させる、レンズと反射器のセット。<br><li>光の明るさが<b>そこそこ増加する</b></li><li>目眩ましの効果時間が<b>そこそこ増加する</b></li>",
+        "name": "全反射レンズ",
+        "flavor": "「この光で奴らを闇から引きずり出してやる。」",
+        "id": 5,
+        "index": "TIR_OPTIC",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_tirOptic"
+    },
+    {
+        "description": "懐中電灯にぴったりはまる、ゴム製のグリップ。<br><li>懐中電灯の精度が<b>そこそこ上昇する</b></li>",
+        "name": "懐中電灯にぴったりはまる、ゴム製のグリップ。<br><li>懐中電灯の精度が<b>そこそこ上昇する</b></li>",
+        "id": 6,
+        "index": "RUBBER_GRIP",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_rubberGrip"
+    },
+    {
+        "description": "懐中電灯の電池の寿命を延ばすように設計された白熱電球。<br><li>懐中電灯の電池消費量が<b>そこそこ減少する</b></li>",
+        "name": "低電流フィラメント",
+        "id": 7,
+        "index": "LOW_AMP_FILAMENT",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_threadedFilament"
+    },
+    {
+        "description": "「工業用」と書かれた電池。<br><li>標準の懐中電灯の使用可能時間が<b>4秒</b>増加する</li>",
+        "name": "大容量電池",
+        "flavor": "「8時間保つと謳われていた電池が、黒い霧の中ではほんの数秒で尽きてしまう。」",
+        "id": 8,
+        "index": "HEAVY_DUTY_BATTERY",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_heavyDutyBattery"
+    },
+    {
+        "description": "懐中電灯の光を収束し、強さを増すことができる厚いレンズ。<br><li>懐中電灯の照射距離が<b>少し増加する</b></li><li>懐中電灯の照射半径が<b>少し減少する</b></li><li>光の明るさが<b>少し増加する</b></li><li>目眩ましの効果時間が<b>少し増加する</b></li>",
+        "name": "集光レンズ",
+        "id": 9,
+        "index": "FOCUS_LENS",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_focusLens"
+    },
+    {
+        "description": "長持ちする最近の乾電池。<br><li>懐中電灯の使用可能時間が<b>6秒</b>増加する</li>",
+        "name": "長寿命の電池",
+        "id": 10,
+        "index": "LONG_LIFE_BATTERY",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconAddon_longLifeBattery"
+    },
+    {
+        "description": "強力な光を放つ化学電球。<br><li>光の明るさが<b>かなり増加する</b></li><li>目眩ましの持続時間が<b>かなり増加する</b></li>",
+        "name": "強力なハロゲンランプ",
+        "id": 11,
+        "index": "INTENSE_HALOGEN",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconAddon_intenseHalogen"
+    },
+    {
+        "description": "傷に耐性があるサファイアでできた広角レンズ。光の強さと距離を調整する。<br><li>懐中電灯の光が<b>そこそこ広くなる</b></li><li>懐中電灯の光が<b>少し強くなる</b></li><li>光の明るさが<b>そこそこ増加する</b></li><li>目眩ましの持続時間が<b>そこそこ増加する</b></li>",
+        "name": "高性能サファイアレンズ",
+        "id": 12,
+        "index": "HIGH_END_SAPPHIRE_LENS",
+        "type": 1,
+        "rarity": 3,
+        "image": "iconAddon_highEndSapphireLens"
+    },
+    {
+        "description": "スイッチを切ってもぼんやりと明かりを放つ、製造元不明の重くくすんだ電球。<br><li>光の明るさが<b>とてつもなく増加する</b></li><li>目眩ましの持続時間が<b>とてつもなく増加する</b></li><li>懐中電灯の電池消費量が<b>少し増加する</b></li>",
+        "name": "変わった電球",
+        "id": 13,
+        "index": "ODD_BULB",
+        "type": 1,
+        "rarity": 4,
+        "image": "iconAddon_oddBulb"
+    },
+    {
+        "description": "儀式で祈りを捧げるために使われた、固く結ばれた紐。カギに取り付けることができる。<br><li>カギの使用時間が<b>10秒</b>増加する</li>",
+        "name": "祈祷者のロープ",
+        "flavor": "「好きなだけ祈るがいいさ。あんたの言葉はどこかに消えていくだろう。そう、霧の中に。」",
+        "id": 14,
+        "index": "PRAYER_ROPE",
+        "type": 2,
+        "rarity": 0,
+        "image": "iconAddon_prayerRope"
+    },
+    {
+        "description": "穴が開いて傷がついた真珠。小さな環により、カギに取り付けることができる。<br><li>カギが持つオーラ可視能力の有効距離が<b>そこそこ増加する</b></li>",
+        "name": "傷ついた真珠",
+        "id": 15,
+        "index": "SCRATCHED_PEARL",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_scratchedPearl"
+    },
+    {
+        "description": "儀式用の数珠。様々な大きさの艶がないビーズで作られている。カギに取り付けることができる。<br><li>カギの使用可能時間が<b>15秒</b>増加する</li>",
+        "name": "祈祷者の数珠",
+        "id": 16,
+        "index": "PRAYER_BEADS",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_prayerBeads"
+    },
+    {
+        "description": "かなりすり減った真鍮のコイン。彫刻や模様があったかもしれないが、今や全く読み取れない。カギの環に繋げてオーラ可視能力を伝達できる。<br><li>自分から<b>24メートル</b>以内にいる<b>生存者のオーラ</b>が視えるようになる</li>",
+        "name": "腐食したトークン",
+        "id": 17,
+        "index": "ERODED_TOKEN",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_tokenErroded"
+    },
+    {
+        "description": "鈍く光る金のコイン。両面とも無地で何も彫られていない。カギの環に繋げてオーラ可視能力を伝達できる。<br><li>自分から<b>48メートル</b>以内にいる<b>生存者のオーラ</b>が視えるようになる</li>",
+        "name": "金のトークン",
+        "id": 18,
+        "index": "GOLD_TOKEN",
+        "type": 2,
+        "rarity": 2,
+        "image": "iconAddon_tokenGold"
+    },
+    {
+        "description": "形は普通だが、珍しい青黒い光沢を放つリング。どんなに深い闇の中でも、持ち主とカギを結びつける。<br><li>死亡してもカギを失わず、代わりにこのアドオンを失う</li>",
+        "name": "編み込みリング",
+        "id": 19,
+        "index": "WEAVED_RING",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_weavedRing"
+    },
+    {
+        "description": "鈍い振動音を発する不透明なガラス片。黒い錠前を解除するためにカギが使われたとき、このガラスのトークンはカギが破壊されるのを防ぎ、黒い霧のエネルギーをガラスに伝達する。<br><li>黒い錠前を解除してもカギはなくならないが、代わりにこのアドオンを失う</li>",
+        "name": "白いガラス",
+        "id": 20,
+        "index": "MILKY_GLASS",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_milkyGlass"
+    },
+    {
+        "description": "黒い血管が走っている、血のように赤い琥珀。手で触ると暖かい。カギの環に繋げてオーラ可視能力を伝達できる。<br><li>カギのエネルギーを<b>大きく消費</b>し、<b>32メートル</b>以内の<b>殺人鬼のオーラ</b>を表示する</li>",
+        "name": "真っ赤な琥珀",
+        "id": 21,
+        "index": "BLOOD_AMBER",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_bloodAmber"
+    },
+    {
+        "description": "厚みのある布切れ。色褪せた地図の一部が描かれているが、これだけでは役に立たない。<br><li>マップに<b>5秒チャージ</b>を追加する</li>",
+        "name": "マップの付録",
+        "id": 22,
+        "index": "MAP_ADDENDUM",
+        "type": 3,
+        "rarity": 0,
+        "image": "iconAddon_mapAddendum"
+    },
+    {
+        "description": "細い電線。元あった場所から引きちぎられたように両端が傷ついている。マップに巻き付けるとオーラ可視能力を強化する。<br><li><b>脱出ゲート</b>の場所を追跡できるようになる</li>",
+        "name": "黄色いワイヤー",
+        "id": 23,
+        "index": "YELLOW_WIRE",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_ropeYellow"
+    },
+    {
+        "description": "ゴム版がついた木製の判子。誰が何のために使用していたかは定かでない。マップに使用できる。<br><li>マップの追跡可能距離が<b>そこそこ増加する</b></li>",
+        "name": "珍しいスタンプ",
+        "id": 24,
+        "index": "UNUSUAL_STAMP",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_stampUnusual"
+    },
+    {
+        "description": "薄紫色で薄気味悪い、半透明のどろどろした物体。何でできているかはわからないが、とても熱に強い。<br><li>マップの燃焼速度が<b>そこそこ低下する</b></li>",
+        "name": "抑制剤ゼリー",
+        "id": 25,
+        "index": "RETARDANT_JELLY",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_retardantJelly"
+    },
+    {
+        "description": "固くてざらざらした濃い赤のより糸。マップに巻き付けるとオーラ可視能力を強化する。<br><li><b>殺人鬼の所有物</b>を追跡できるようになる。</li>",
+        "name": "赤いより糸",
+        "id": 26,
+        "index": "RED_TWINE",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_ropeRed"
+    },
+    {
+        "description": "金のリングで囲まれた照星。マップを拡大でき、特定の場所にマーキングすることができる。生存者から見えるエネルギーを放出する。<br><li>セカンダリアクションでマーキングができるようになる</li><li>全ての生存者から見ることができるマーカーを作成する</li>",
+        "name": "ガラスの照星",
+        "id": 27,
+        "index": "GLASS_BEAD",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_beadGlass"
+    },
+    {
+        "description": "頑丈なブロンド色の木材から彫り出された判子。底には「kw'zvre'od」という意味不明な文字が彫られている。マップと一緒に使用できる。<br><li>マップの追跡可能距離が<b>かなり増加する</b></li>",
+        "name": "奇妙なスタンプ",
+        "id": 28,
+        "index": "ODD_STAMP",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconAddon_stampOdd"
+    },
+    {
+        "description": "すべすべとして柔らかそうな黒い紐。マップに巻き付けるとオーラ可視能力を強化する。<br><li><b>黒い錠前</b>の場所を追跡できるようになる。</li>",
+        "name": "黒い絹のより糸",
+        "id": 29,
+        "index": "BLACK_SILK_CORD",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconAddon_ropeBlack"
+    },
+    {
+        "description": "複雑なレンズの組み合わせ。驚くほど入り組んだ部品で囲まれている。ギアがレンズの焦点の動きを自動調整し、人には見えないはずのものが見えるようになる。<br><li>マップを使用したときに表示されるオーラが全ての生存者から見えるようになる</li>",
+        "name": "クリスタルの照星",
+        "id": 30,
+        "index": "CRYSTAL_BEAD",
+        "type": 3,
+        "rarity": 3,
+        "image": "iconAddon_beadCrystal"
+    },
+    {
+        "description": "使い捨ての医療用手袋。二次汚染を予防する。<br><li>スキルチェックでグレイトを出した際に追加される修理進行度が<b>そこそこ増加する</b></li>",
+        "name": "ゴム製手袋",
+        "id": 31,
+        "index": "RUBBER_GLOVES",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_gloves"
+    },
+    {
+        "description": "小さな傷を塞ぐための医療用テープ。<br><li>治療速度が<b>少し上昇する</b></li>",
+        "name": "バタフライテープ",
+        "id": 32,
+        "index": "BUTTERFLY_TAPE",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_butterflyTape"
+    },
+    {
+        "description": "救急箱の中によく入っている包帯セット。<br><li>医療キットに<b>8チャージ</b>追加する。</li>",
+        "name": "包帯",
+        "id": 33,
+        "index": "BANDAGES",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_bandages"
+    },
+    {
+        "description": "あふれた血を吸い取り、傷口を見やすくするスポンジ。<br><li>スキルチェックでグレイトを出した際に追加される修理進行度が<b>かなり増加する</b></li>",
+        "name": "スポンジ",
+        "id": 34,
+        "index": "SPONGE",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_sponge"
+    },
+    {
+        "description": "粘着剤がついた包帯のパック。クリップが無くても貼り付くため、位置がずれることがなく素早い応急手当が可能。<br><li>医療キットに<b>8チャージ</b>追加する</li><li>治療速度が<b>少し上昇する</b></li>",
+        "name": "テーピングテープ",
+        "id": 35,
+        "index": "SELF_ADHERENT_WRAP",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_selfAdherentWrap"
+    },
+    {
+        "description": "厳密には医療器具ではないが、激痛と引き換えに傷口を素早く塞ぐことができる。<br><li>スキルチェックの発生確率が<b>そこそこ上昇する</b></li><li>スキルチェックでグレイトを出すと<b>100%のボーナスブラッドポイント</b>を獲得する</li><li>治療速度が<b>少し上昇する</b></li>",
+        "name": "針と糸",
+        "id": 36,
+        "index": "NEEDLE_AND_THREAD",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_needAndThread"
+    },
+    {
+        "description": "衣服を簡単に切断できるように設計されたハサミ。<br><li>治療速度が<b>そこそこ上昇する</b></li>",
+        "name": "医療用ハサミ",
+        "id": 37,
+        "index": "MEDICAL_SCISSORS",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_scissors"
+    },
+    {
+        "description": "様々な傷に使える、滅菌ガーゼ。外傷用応急処置セットの1つ。<br><li>医療キットに<b>12チャージ</b>追加する</li>",
+        "name": "ガーゼのロール",
+        "id": 38,
+        "index": "GAUZE_ROLL",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_gauseRoll"
+    },
+    {
+        "description": "身体の組織を縫合し、固定するために使われる医療器具。非常に効果が高いが、使用難度は高い。<br><li>スキルチェックの発生確率が<b>かなり上昇する</b>。</li><li>スキルチェックでグレイトを出すと<b>150% の追加ブラッドポイント</b>を獲得する。</li><li>回復速度が<b>少し上昇する</b>。</li>",
+        "name": "外科用縫合糸",
+        "id": 39,
+        "index": "SURGICAL_SUTURE",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_surgicalSuture"
+    },
+    {
+        "description": "出血が激しい傷を手当てするための、ゲル状のパッド。<br><li>医療キットに<b>16チャージ</b>追加する</li>",
+        "name": "ジェルのパッド",
+        "id": 40,
+        "index": "GEL_DRESSINGS",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_gelDressings"
+    },
+    {
+        "description": "腹部に重傷を負ったとき、体液が漏れ出すのを防ぐことができる吸収性のパッド。<br><li>治療速度が<b>かなり上昇する</b></li><li>アイテムのチャージ量が<b>8</b><b>減少する</b></li>",
+        "name": "腹部用パッド",
+        "id": 41,
+        "index": "ABDOMINAL_DRESSING",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_abdominalDressing"
+    },
+    {
+        "description": "凝固性を持つ白い粉。薬品を創傷に使うことにより止血する。<br><li>医療キットで治療中に<i>セカンダリアクション</i>ボタンを押して止血剤を使用する</li><li><i>止血剤</i>を負傷した生存者に使用すると、生存者は<b>我慢</b>の効果を<b>8秒間</b>得る<li>使用すると医療キットを消耗する</li>",
+        "name": "止血剤",
+        "id": 42,
+        "index": "STYPTIC_AGENT",
+        "type": 4,
+        "rarity": 3,
+        "image": "iconAddon_stypticAgent"
+    },
+    {
+        "description": "止血用の薬剤。出血をものの数秒で止めることができる。<br><li>医療キットで治療中に<i>セカンダリアクション</i>ボタンを押して止血用注射器を使用する</li><li>効果を受けた生存者は、使用<b>16</b>秒後に健康状態を受動的に獲得する</li><li>所要時間は<i>治療の速度</i>を左右するパークやアイテム、アドオンによって変化する</li><li>この効果は影響を受けた生存者の健康状態が変わるか、殺人鬼に捕獲されると終了する</li><li>使用すると医療キットを消耗する</li>",
+        "name": "止血用注射器",
+        "id": 43,
+        "index": "ANTI_HEMORRHAGIC_SYRINGE",
+        "type": 4,
+        "rarity": 4,
+        "image": "iconAddon_syringe"
+    },
+    {
+        "description": "管やワイヤーをまとめ、破損や怪我を防ぐことができる便利な道具。<br><li>修理音の聴こえる範囲が8メートル短くなる</li>",
+        "name": "スプリングクランプ",
+        "id": 44,
+        "index": "SPRING_CLAMP",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_springClamp"
+    },
+    {
+        "description": "スプリングやネジ、歯車など、ほとんど使い物にならないガラクタ。<br><li>工具箱に<b>8チャージ</b>追加する</li>",
+        "name": "鉄クズ",
+        "id": 45,
+        "index": "SCRAPS",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_scraps"
+    },
+    {
+        "description": "妙に綺麗なぼろきれ。<br><li> 工具箱の修理速度が<b>少し上昇する</b></li>",
+        "name": "綺麗なぼろきれ",
+        "id": 46,
+        "index": "CLEAN_RAG",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_cleanRag"
+    },
+    {
+        "description": "重いが持ち運び可能な銅線スプール。<br><li>工具箱に<b>12チャージ</b>追加する</li>",
+        "name": "ワイヤーのリール",
+        "id": 47,
+        "index": "WIRE_SPOOL",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_spoolOfWire"
+    },
+    {
+        "description": "機械の内部で、長さが足りないボルトに角度や柔軟性を与える器具。<br><li>工具箱の修理速度が<b>そこそこ上昇する</b></li>",
+        "name": "可動式ジョイント",
+        "id": 48,
+        "index": "SOCKET_SWIVELS",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_socketSwivels"
+    },
+    {
+        "description": "細かい作業はしにくいが、怪我から手を保護する分厚い手袋。<br> <li>工具箱でフックを破壊するときに殺人鬼に知られるのを防ぐ</li>",
+        "name": "保護手袋",
+        "id": 49,
+        "index": "PROTECTIVE_GLOVES",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_protectiveGloves"
+    },
+    {
+        "description": "何者かに修理方法が走り書きされたと思われる木の皮。<br><li>工具箱で修理する間のスキルチェックを排除する</li>",
+        "name": "説明書",
+        "id": 50,
+        "index": "INSTRUCTIONS",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_instructions"
+    },
+    {
+        "description": "丈夫なグリップがついた可動レンチ。工具箱には欠かせない。<br><li>工具箱を使って破壊されたフックが再出現するまでの時間が15秒長くなる</li>",
+        "name": "グリップレンチ",
+        "id": 51,
+        "index": "GRIP_WRENCH",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_gripWrench"
+    },
+    {
+        "description": "基本の切断用道具。木製の取っ手と刃がついた鉄線でできている。<br><li>工具箱の破壊工作の速度が<b>少し上昇する</b></li>",
+        "name": "カッティングワイヤー",
+        "id": 52,
+        "index": "CUTTING_WIRE",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_cuttingWire"
+    },
+    {
+        "description": "鉄製の刃がついた小さなノコギリ。<br><li>工具箱による破壊工作の速度が<b>そこそこ上昇する</b></li>",
+        "name": "弓ノコ",
+        "id": 53,
+        "index": "HACKSAW",
+        "type": 5,
+        "rarity": 2,
+        "image": "iconAddon_metalSaw"
+    },
+    {
+        "description": "場違いで奇妙に思える、機械式の複雑なパーツ。新品のように輝いており、まるで工場から出荷されたばかりのようだ。<br><li><b>「工具箱で修理」</b>アクションが<b>「真新しいパーツを装着」</b>に置き換わる</li><li><i>「真新しいパーツを装着」</i>を実行することで、<b>5秒</b>かけて発電機の修理が<b>15%</b>進行する</li><li>装着中、<b>2回難しいスキルチェックに直面する</li><li>スキルチェックに成功するたびに<b>5%</b>修理が進み、最大<b>25%</b>進行する</li><li><i>使用後このアドオンは消費される</i></li>",
+        "name": "真新しいパーツ",
+        "id": 54,
+        "index": "BRAND_NEW_PART",
+        "type": 5,
+        "rarity": 4,
+        "image": "iconAddon_brandNewPart"
+    },
+    {
+        "description": "霧から現れ、未知の不可解なエネルギーと共鳴する彫刻を施した結婚指輪。<li>オブセッションのオーラが見えるようになる。</li><li>殺人鬼のオブセッションになる確率が減少する。</li><li>効果は重複する</li>",
+        "name": "珍しい結婚指輪",
+        "id": 55,
+        "index": "UNIQUE_WEDDING_RING",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_uniqueRing"
+    }
+]

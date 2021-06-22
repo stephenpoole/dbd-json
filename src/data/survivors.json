@@ -1,0 +1,245 @@
+[
+    {
+        "id": 1,
+        "index": "DWIGHT_FAIRFIELD",
+        "name": "F514E58B4485D5EF4E812082A2F966D4",
+        "difficulty": 0,
+        "description": "60E2A6834110C4B785F57FBC289E696C",
+        "perks": ["BOND", "PROVE_THYSELF", "LEADER"],
+        "image": "DF_charSelect_portrait"
+    },
+    {
+        "id": 2,
+        "index": "MEG_THOMAS",
+        "name": "32D2C5544DE4CA970CD61DAC3D532A2A",
+        "difficulty": 0,
+        "description": "FF78BCCE4DD8DC150D2EAE8F1B8B8EA1",
+        "perks": ["QUICK_AND_QUIET", "SPRINT_BURST", "ADRENALINE"],
+        "image": "MT_charSelect_portrait"
+    },
+    {
+        "id": 3,
+        "index": "CLAUDETTE_MOREL",
+        "name": "4B976BEF4B1D70AFD422A695AFFB5EC5",
+        "difficulty": 0,
+        "description": "0B93C24E428BEA347EE586BC886B41EF",
+        "perks": ["EMPATHY", "BOTANY_KNOWLEDGE", "SELF_CARE"],
+        "image": "CM_charSelect_portrait"
+    },
+    {
+        "id": 4,
+        "index": "JAKE_PARK",
+        "name": "777B74FD44A544B595BEF09761D7728D",
+        "difficulty": 1,
+        "description": "056C567F47974492DEFF0BB59132DF84",
+        "perks": ["IRON_WILL", "CALM_SPIRIT", "SABOTEUR"],
+        "image": "JP_charSelect_portrait"
+    },
+    {
+        "id": 5,
+        "index": "NEA_KARLSSON",
+        "name": "02A48D99455763277E9A48ADACE34F6D",
+        "difficulty": 1,
+        "description": "B4EC663043E4FE41D0922BB24787C3FD",
+        "perks": ["BALANCED_LANDING", "URBAN_EVASION", "STREETWISE"],
+        "image": "NK_charSelect_portrait"
+    },
+    {
+        "id": 6,
+        "index": "WILLIAM_OVERBECK",
+        "difficulty": 2,
+        "name": "A029531E417ECC7B2B135FA541C02815",
+        "description": "7566AA534F5B424BEB6097BEB209759C",
+        "perks": ["LEFT_BEHIND", "BORROWED_TIME", "UNBREAKABLE"],
+        "image": "BO_charSelect_portrait"
+    },
+    {
+        "id": 7,
+        "index": "DAVID_KING",
+        "name": "61203B454D8B5F3D4AA80EA0B4DBE972",
+        "difficulty": 1,
+        "description": "CE26208B4AEEE11A09C3F8BB9C9BB8BE",
+        "perks": ["WERE_GONNA_LIVE_FOREVER", "DEAD_HARD", "NO_MITHER"],
+        "image": "DK_charSelect_portrait"
+    },
+    {
+        "id": 8,
+        "index": "LAURIE_STRODE",
+        "name": "0ADE926848D682B616B54197975C1B08",
+        "difficulty": 2,
+        "description": "B2070F0A4187B0A582679D9527DBA94F",
+        "perks": ["SOLE_SURVIVOR", "OBJECT_OF_OBSESSION", "DECISIVE_STRIKE"],
+        "image": "LS_charSelect_portrait"
+    },
+    {
+        "id": 9,
+        "index": "ACE_VISCONTI",
+        "name": "22F8526545A0E302D97481A039CAFB1E",
+        "difficulty": 0,
+        "description": "4D49B2FF40A4112C8E0340BD6C9671FB",
+        "perks": ["OPEN_HANDED", "UP_THE_ANTE", "ACE_IN_THE_HOLE"],
+        "image": "AV_charSelect_portrait"
+    },
+    {
+        "id": 10,
+        "index": "FENG_MIN",
+        "name": "9F88E2AA40D46476A240CB9222EBADDA",
+        "difficulty": 0,
+        "description": "0D8F9AA74E830D783FCA73A506563F1F",
+        "perks": ["TECHNICIAN", "LITHE", "ALERT"],
+        "image": "FM_charSelect_portrait"
+    },
+    {
+        "id": 11,
+        "index": "QUENTIN_SMITH",
+        "name": "0498B71E490CCA0EE6BAE68682816A0A",
+        "difficulty": 0,
+        "description": "47F6B9D64239A9FBB7F62F8E640BC3E2",
+        "perks": ["WAKE_UP", "PHARMACY", "VIGIL"],
+        "image": "QS_charSelect_portrait"
+    },
+    {
+        "id": 12,
+        "index": "DAVID_TAPP",
+        "name": "DFF909BA4581C13B662977961F87DC14",
+        "difficulty": 1,
+        "description": "D657D22D42B4E390A3028492330EEAE7",
+        "perks": ["TENACITY", "DETECTIVES_HUNCH", "STAKE_OUT"],
+        "image": "FS_charSelect_portrait"
+    },
+    {
+        "id": 13,
+        "index": "KATE_DENSON",
+        "name": "050A2EFF4752C23E6F77F6B1F4A72A7D",
+        "difficulty": 0,
+        "description": "1F1ED23F42B75941E0355AB868928A59",
+        "perks": ["WINDOWS_OF_OPPORTUNITY", "BOIL_OVER", "DANCE_WITH_ME"],
+        "image": "GS_charSelect_portrait"
+    },
+    {
+        "id": 14,
+        "index": "ADAM_FRANCIS",
+        "name": "E4B814FA40BC50539C7396B78FCB093E",
+        "difficulty": 1,
+        "description": "1F1DCEEF46B5EE5D98B88B8D0F11BEFA",
+        "perks": ["DIVERSION", "DELIVERANCE", "AUTODIDACT"],
+        "image": "AF_charSelect_portrait"
+    },
+    {
+        "id": 15,
+        "index": "JEFF_JOHANSEN",
+        "name": "00482151410D93DC3163AB981E429FAC",
+        "difficulty": 1,
+        "description": "3642EBBC46D8E378D9904793799BB1D7",
+        "perks": ["BREAKDOWN", "AFTERCARE", "DISTORTION"],
+        "image": "KS_charSelect_portrait"
+    },
+    {
+        "id": 16,
+        "index": "JANE_ROMERO",
+        "name": "20AF286043DCE892CA7533888F71FB88",
+        "difficulty": 1,
+        "description": "F961911044BCBF23F39D34947DF0ABC2",
+        "perks": ["SOLIDARITY", "POISED", "HEAD_ON"],
+        "image": "MS_charSelect_portrait"
+    },
+    {
+        "id": 17,
+        "index": "ASHLEY_J_WILLIAMS",
+        "name": "CCD7686D4FA1D6918F5D43A97FEB1F71",
+        "difficulty": 0,
+        "description": "9058424242D53F07D0738CB972FFCE0E",
+        "perks": ["FLIP_FLOP", "BUCKLE_UP", "METTLE_OF_MAN"],
+        "image": "MS2_charSelect_portrait"
+    },
+    {
+        "id": 18,
+        "index": "NANCY_WHEELER",
+        "name": "C751A9024CCFB7028B64789D477FF292",
+        "difficulty": 0,
+        "description": "76747903486F14C6CD1C089D608D008C",
+        "perks": ["BETTER_TOGETHER", "FIXATED", "INNER_STRENGTH"],
+        "image": "QF_charSelect_portrait"
+    },
+    {
+        "id": 19,
+        "index": "STEVE_HARRINGTON",
+        "name": "04236F864B38F86124A4878F015F906F",
+        "difficulty": 0,
+        "description": "C683C4F3441DAD802C1E8A9704EA356E",
+        "perks": ["BABYSITTER", "CAMARADERIE", "SECOND_WIND"],
+        "image": "QM_charSelect_portrait"
+    },
+    {
+        "id": 20,
+        "index": "YUI_KIMURA",
+        "name": "A590549A4C27C94B769AC89A032177BB",
+        "difficulty": 1,
+        "description": "7B01B37E40C58C783B7AA097E17A6AEB",
+        "perks": ["LUCKY_BREAK", "ANY_MEANS_NECESSARY", "BREAKOUT"],
+        "image": "SS_charSelect_portrait"
+    },
+    {
+        "id": 21,
+        "index": "ZARINA_KASSIR",
+        "name": "BB0861B449E1BB67A4B2A6BBC69EFE8C",
+        "difficulty": 1,
+        "description": "24113A694DD1C447C36C7FBF9CB02AA0",
+        "perks": ["OFF_THE_RECORD", "RED_HERRING", "FOR_THE_PEOPLE"],
+        "image": "US_charSelect_portrait"
+    },
+    {
+        "id": 22,
+        "index": "CHERYL_MASON",
+        "name": "DB008A864E5EA8DEB7060AB49FE8CC82",
+        "difficulty": 0,
+        "description": "AD0820DC40D6FEF9FDFC59AEA040A776",
+        "perks": ["SOUL_GUARD", "BLOOD_PACT", "REPRESSED_ALLIANCE"],
+        "image": "S22_charSelect_portrait"
+    },
+    {
+        "id": 23,
+        "index": "FELIX_RICHTER",
+        "name": "A7CC2FA945114E13C24A60993325D548",
+        "difficulty": 1,
+        "description": "0C8291394C1B40FD80EE0BB85B636CF1",
+        "perks": ["VISIONARY", "DESPERATE_MEASURES", "BUILT_TO_LAST"],
+        "image": "S23_charSelect_portrait"
+    },
+    {
+        "id": 24,
+        "index": "ELODIE_RAKOTO",
+        "name": "D054F9A74AA3D9BCA4C79BBA814F223C",
+        "difficulty": 1,
+        "description": "781BD78D4206A7C449D3F39EEF8022E4",
+        "perks": ["APPRAISAL", "DECEPTION", "POWER_STRUGGLE"],
+        "image": "S24_charSelect_portrait"
+    },
+    {
+        "id": 25,
+        "index": "YUN_JIN_LEE",
+        "name": "42BF5B5041160754760494974816520B",
+        "difficulty": 0,
+        "description": "4E364C764A8E84813E1915AF80F2F197",
+        "perks": ["FAST_TRACK", "SMASH_HIT", "SELF_PRESERVATION"],
+        "image": "S25_charSelect_portrait"
+    },
+    {
+        "id": 26,
+        "index": "JILL_VALENTINE",
+        "name": "4A4644334F1FDE401D0801B479684AC8",
+        "difficulty": 1,
+        "description": "871FE2654E01B90C40F346805DC561BC",
+        "perks": ["COUNTERFORCE", "RESURGENCE", "BLAST_MINE"],
+        "image": "S26_charSelect_portrait"
+    },
+    {
+        "id": 27,
+        "index": "LEON_SCOTT_KENNEDY",
+        "name": "F85EF74144CBD684ADF9B78E8D4FA7E9",
+        "difficulty": 1,
+        "description": "EC44101742717BF84DABCF867A56F324",
+        "perks": ["BITE_THE_BULLET", "FLASHBANG", "ROOKIE_SPIRIT"],
+        "image": "S27_charSelect_portrait"
+    }
+]

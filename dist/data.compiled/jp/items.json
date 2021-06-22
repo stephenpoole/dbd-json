@@ -1,0 +1,241 @@
+[
+    {
+        "description": "厚紙で包装された小さな爆発物の束。爆発すると大きな爆発音と強い光を放つ。妨害や目眩まし、あるいはお祝いに使える。<br><li><b>基礎チャージ量は1</b></li>",
+        "name": "爆竹",
+        "id": 1,
+        "index": "CHINESE_FIRECRACKER",
+        "type": 6,
+        "rarity": 5,
+        "image": "iconItems_chineseFirecracker"
+    },
+    {
+        "description": "普通の懐中電灯。暗闇で道を照らすことができる。<br><li><b>基礎チャージ量は8秒</b></li>",
+        "name": "懐中電灯",
+        "flavor": "「前の持ち主に電池のほとんどを無駄遣いされたようだ。」",
+        "id": 2,
+        "index": "FLASHLIGHT",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconItems_flashlight"
+    },
+    {
+        "description": "オレンジの光と小さなオバケを追加する特殊なレンズがついた懐中電灯。<br><li><b>基礎チャージ量は8秒</b></li><li>あなたの人生に友好的なオバケが<b>かなり増加する</b></li>",
+        "name": "ウィル・オ・ウィスプ",
+        "flavor": "「ハッピー・トリックオアトリート！」",
+        "id": 3,
+        "index": "WILL_O_WISP",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconItems_flashlightHalloween"
+    },
+    {
+        "description": "握りやすいグリップがついた、とても持ち運びしやすい懐中電灯。効率のよい電力変換で強力な光を発生させることができ、消費電力も抑えられている。<br><li><b>8秒</b>使用できる</li><li>懐中電灯の電池消費量が<b>少し減少する</b></li><li>懐中電灯の精度が<b>少し上昇する</b></li>",
+        "name": "小型懐中電灯",
+        "id": 4,
+        "index": "SPORT_FLASHLIGHT",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconItems_flashlightSport"
+    },
+    {
+        "description": "頑丈で重い大容量の懐中電灯。<br><li><b>12秒</b>使用できる</li><li>精度が<b>少し減少する</b></li><li>光の明るさが<b>そこそこ増加する</b></li><li>目眩ましの持続時間が<b>そこそこ増加する</b></li>",
+        "name": "高性能懐中電灯",
+        "id": 5,
+        "index": "UTILITY_FLASHLIGHT",
+        "type": 1,
+        "rarity": 3,
+        "image": "iconItems_flashlightUtility"
+    },
+    {
+        "description": "カギの頭と軸の部分。何かの力でうち震えている。壊れたカギは単体で力を発揮することはないが、色々なものを環に取り付けることができ、その力を伝達することで様々な効果を得られる。<br><li><b>基礎チャージ量は10秒</b></li>",
+        "name": "壊れたカギ",
+        "id": 6,
+        "index": "BROKEN_KEY",
+        "type": 2,
+        "rarity": 2,
+        "image": "iconItems_brokenKey"
+    },
+    {
+        "description": "すり減って曲がったカギ。かつてはものすごい力を持っていたようだ。壊れたカギは単体で力を発揮することはないが、色々なものを環で取り付けることができ、その力を伝達することで様々な効果を得られる。<br><li><b>基礎チャージ量は5秒</b></li><li>このアイテムを消費してハッチを開くことも可能</li>",
+        "name": "すり減ったカギ",
+        "id": 7,
+        "index": "DULL_KEY",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconItems_dullKey"
+    },
+    {
+        "description": "変色して歪んだカギ。不吉な力で振動している。単体で力を発揮することはないが、色々なものを環に接続することができ、カギの力を伝達して様々な効果を得られる。<br><li><b>基礎チャージ量は30秒</b></li><li>このアイテムを消費してハッチを開くことも可能</li>",
+        "name": "スケルトンキー",
+        "id": 8,
+        "index": "SKELETON_KEY",
+        "type": 2,
+        "rarity": 4,
+        "image": "iconItems_key"
+    },
+    {
+        "description": "何かの皮で作られたらしい羊皮紙。無色の革糸で巻いて封をしてある。マップを持つと持ち主に眠る驚異的なオーラ可視能力を解放するが、マップは少しずつ燃えていく。マップのチャージが残っている間、発見済みの発電機のオーラが視えるようになる。<br><li><b>基礎チャージ量は20秒</b></li><li>発電機を<b>1つ</b>自動的に捕捉した状態で開始する</li><li><b>8メートル</b>以内にある発電機を追跡できるようになる</li>",
+        "name": "マップ",
+        "id": 9,
+        "index": "MAP",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconItems_map"
+    },
+    {
+        "description": "奇妙な生皮で作られた羊皮紙。端に生乾きの血がついている。色とりどりの縄や紐で巻いて封をしてある。マップを持つと持ち主に眠る驚異的なオーラ可視能力を解放するが、マップは少しずつ燃えていく。 マップのチャージが残っている間、発見済みの対象物のオーラが視えるようになる。 <br><li><b>基礎チャージ量は20秒</b></li><li>対象物を<b>3つ</b>自動的に捕捉した状態で開始する</li><li><b>8メートル</b>以内にある<b>対象物を追跡</b>できるようになる</li><li><b>8メートル</b>以内にある<b>黒い錠前を追跡</b>できるようになる</li><li><b>8メートル</b>以内にある<b>殺人鬼の所有物を追跡</b>できるようになる</li><li><b>8メートル</b>以内にある<b>脱出ゲートを追跡</b>できるようになる</li>",
+        "name": "虹色のマップ",
+        "flavor": "「まったくがっかりだ。言葉に出来ないほどの知識や、血のにじむような努力をすべて合わせてもなお、実を結ばない。この悪夢から脱出するための有益な手がかりはまだ何もない。」- ヴィゴの手記",
+        "id": 10,
+        "index": "RAINBOW_MAP",
+        "type": 3,
+        "rarity": 4,
+        "image": "iconItems_rainbowMap"
+    },
+    {
+        "description": "中身がいくつか足りないことがあるものの、緊急時に命を救うための基本的な医療キット。<br><li><b>基礎チャージ量は16</b>。</li><li>他者を治療する速度が<b>そこそこ上昇する</b></li><li><b>自己治療</b>ができるようになる。</li>",
+        "name": "携帯用医療キット",
+        "flavor": "「まともな治療ができるだけの道具が辛うじて揃っている。」",
+        "id": 11,
+        "index": "CAMPING_AID_KIT",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconItems_rundownAidKit"
+    },
+    {
+        "description": "発光するハロウィンのシールが貼られ、救急用の装備が入っているプラスチック製のランチボックス。<br><li><b>基礎チャージ量は24</b></li><li>他者を治療する速度が<b>かなり上昇する</b></li><li><b>自己治療</b>ができるようになる</li><li>自分の姿が<b>かなり見えやすくなる</b></li>",
+        "name": "ハロウィンのランチボックス",
+        "flavor": "「安全第一！イタズラするときもお菓子をあげるときも見つかりやすくしておきましょう。」",
+        "id": 12,
+        "index": "ALL_HALLOWS_EVE_LUNCHBOX",
+        "type": 4,
+        "rarity": 5,
+        "image": "iconItems_medkitHalloween"
+    },
+    {
+        "description": "怪我や深刻な負傷を処置するための道具が入った、一般的な救急箱。<br><li><b>基礎チャージ量は24</b></li><li>他者を治療する速度が<b>かなり上昇する</b></li><li>自分を治療することができるようになる</li>",
+        "name": "救急箱",
+        "id": 13,
+        "index": "FIRST_AID_KIT",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconItems_firstAidKit"
+    },
+    {
+        "description": "きちんと整理されている、しっかりした医療キット。緊急治療用の道具が最良の状態で入っている。<br><li><b>基礎チャージ量は16</b>。</li><li>他者を治療する速度が<b>とてつもなく上昇する。</b></li><li>自己治療の速度が<b>とてつもなく上昇する。</b></li><li><b>自己治療</b>ができるようになる。</li>",
+        "name": "非常用医療キット",
+        "flavor": "「どんな傷でもほぼ治せる……今回のはムリだけど。」",
+        "id": 14,
+        "index": "EMERGENCY_MED_KIT",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconItems_medkit"
+    },
+    {
+        "description": "到達困難な孤立地域などでの使用を目的とした医療器具が詰まっている大きな金属の箱。<br><li><b>基礎チャージ量は24</b>。</li><li>他者を治療する速度が<b>とてつもなく上昇する</b>。</li><li>スキルチェックの成功範囲が<b>そこそこ増加する</b></li><li>スキルチェックのボーナス範囲が<b>そこそこ増加する</b></li><li><b>自己治療</b>ができるようになる。</li>",
+        "name": "救助隊用医療キット",
+        "flavor": "「後ろ側に『VK.ID-3994723』と刻印されたラベルが貼り付いている。」",
+        "id": 15,
+        "index": "RANGER_MED_KIT",
+        "type": 4,
+        "rarity": 3,
+        "image": "iconItems_rangersAidKit"
+    },
+    {
+        "description": "いつ壊れてもおかしくない粗悪な工具が入った金属の箱。特に練習しなくても機械を修理したり破壊したりできる。<br><li><b>基礎チャージ量は16</b></li><li>修理速度が<b>そこそこ上昇する</b></li><li>スキルチェックの成功範囲が<b>少し減少する</b></li><li><b>破壊工作</b>ができるようになる</li>",
+        "name": "ボロボロの工具箱",
+        "flavor": "「これが工具だと？……冗談だよな？」",
+        "id": 16,
+        "index": "WORN_OUT_TOOLS",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconItems_toolboxWornOut"
+    },
+    {
+        "description": "基本的な工具が入った金属の箱。特に練習しなくても機械を修理したり破壊したりできる。<br><li><b>基礎チャージ量は20</b></li><li>修理速度が<b>そこそこ上昇する</b></li><li><b>破壊工作</b>ができるようになる</li><li><b>破壊の速度が</b>少し上昇する</li>",
+        "name": "工具箱",
+        "flavor": "「こういう道具は一体どこから来たのだろう。誰かが持ち込んだのか、それともあの怪物たちの物なのだろうか？」",
+        "id": 17,
+        "index": "TOOLBOX",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconItems_toolbox"
+    },
+    {
+        "description": "整備士用の専門工具が入った金属の箱。特に練習しなくても機械を修理したり破壊したりできる。<br><li><b>基礎チャージ量は16</b></li><li>修理速度が<b>かなり上昇する</b></li><li><b>破壊工作</b>ができるようになる</li><li>破壊の速度が<b>少し低下する</b></li>",
+        "name": "整備士の工具箱",
+        "id": 18,
+        "index": "MECHANICS_TOOLBOX",
+        "type": 5,
+        "rarity": 2,
+        "image": "iconItems_toolboxMechanics"
+    },
+    {
+        "description": "基本的な工具や機械の部品が入った大きな金属の箱。特に練習しなくても機械を修理したり破壊したりできる。<br><li><b>基礎チャージ量は32</b></li><li>修理速度が<b>そこそこ上昇する</b></li><li><b>破壊工作</b>ができるようになる</li>",
+        "name": "大きな工具箱",
+        "id": 19,
+        "index": "COMMODIOUS_TOOLBOX",
+        "type": 5,
+        "rarity": 2,
+        "image": "iconItems_toolboxCommodious"
+    },
+    {
+        "description": "機械工学の専門的な道具が揃った金属の箱。初心者でもほとんどの道具を使用でき、機械を素早く修理したり破壊したりできる。<br><li><b>基礎チャージ量は16</b></li><li>修理速度が<b>とてつもなく上昇する</b></li><li><b>破壊工作</b>ができるようになる</li><li>破壊の速度が<b>そこそこ低下する</b></li>",
+        "name": "機械技師の工具箱",
+        "flavor": "「私は他には比較にならないほど優れた工具を作った。それが盗まれてしまったときは呆然と立ち尽くしたものだ。これは霧から弾き出された粗悪なレプリカだ。」- ヴィゴの手記",
+        "id": 20,
+        "index": "ENGINEERS_TOOLBOX",
+        "type": 5,
+        "rarity": 3,
+        "image": "iconItems_toolboxEngineers"
+    },
+    {
+        "description": "ノコギリや色々なサイズの工具など、色々な道具が入った金属の箱。中の道具は明らかに破壊工作を目的としたものだが、様々な機械を修理するためにも使用できる。<br><li><b>基礎チャージ量は24</b></li><li>修理速度が<b>少し上昇する</b></li><li><b>破壊工作</b>ができるようになる</li><li>破壊の速度が<b>かなり上昇する</b></li>",
+        "name": "アレックスの工具箱",
+        "flavor": "「ほとんどの道具に『アレックス』と名前が書いてある。」",
+        "id": 21,
+        "index": "ALEXS_TOOLBOX",
+        "type": 5,
+        "rarity": 3,
+        "image": "iconItems_toolboxAlexs"
+    },
+    {
+        "description": "小さいが非常に高い爆発力を持つディナーテーブル用のデコレーション。大きな音を出し、激しい光を発しながら起爆する。妨害や目潰し、あるいはお祝いに使える。<br><li><b>1チャージ分</b></li>",
+        "name": "冬のパーティースターター",
+        "id": 22,
+        "index": "WINTER_PARTY_STARTER",
+        "type": 6,
+        "rarity": 5,
+        "image": "iconItems_winterEventFirecracker"
+    },
+    {
+        "description": "小さいが非常に高い爆発力を持つディナーテーブル用のデコレーション。大きな音を出し、激しい光を発しながら起爆する。妨害や目潰し、あるいは3周年を一緒にお祝いするのに使える。<br><li><b>1チャージ分。</b></li>",
+        "name": "3周年のパーティースターター",
+        "flavor": "記念日おめでとう！3周年に一緒に乾杯！<br>– Dead by Daylightチーム",
+        "id": 23,
+        "index": "THIRD_YEAR_PARTY_STARTER",
+        "type": 6,
+        "rarity": 5,
+        "image": "iconItems_partyPopper"
+    },
+    {
+        "description": "お祝い用の医療キット。生存者を治療して完全回復させると紙吹雪を撒き散らしながら爆発する。サプライズ！<br><li><b>基礎チャージ量は24</b></li><li>他の生存者を治療する速度が<b>かなり上昇する</b></li><li><b>自己治療</b>ができるようになる</li>",
+        "name": "周年記念の医療キット",
+        "flavor": "「記念日おめでとう！今後のさらなる発展に幸あれ！」<br>-Dead by Daylight開発チーム",
+        "id": 24,
+        "index": "ANNIVERSARY_MED_KIT",
+        "type": 4,
+        "rarity": 5,
+        "image": "iconItems_medkit_anniversary2020"
+    },
+    {
+        "description": "お祝い用の懐中電灯。殺人鬼に目眩しを食らわすと紙吹雪を撒き散らしながら爆発する。サプライズ！<br><li>使用時間は<b>8秒</b>。</li>",
+        "name": "周年記念の懐中電灯",
+        "flavor": "「記念日おめでとう！今後のさらなる発展に幸あれ！」<br>-Dead by Daylight開発チーム",
+        "id": 25,
+        "index": "ANNIVERSARY_FLASHLIGHT",
+        "type": 1,
+        "rarity": 5,
+        "image": "iconItems_flashlight_anniversary2020"
+    }
+]

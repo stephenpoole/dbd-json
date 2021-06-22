@@ -1,0 +1,2265 @@
+[
+    {
+        "description": "解锁气场解读能力。每当一台发电机被修好时，该发电机周围<span class=\"Highlight1\">{0}米</span>内的逃生者气场会向你暴露<span class=\"Highlight2\">{1}秒</span>。<br>当最后一台发电机被完全修好时，所有逃生者的气场都会暴露<span class=\"Highlight3\">{2}秒</span>。",
+        "name": "苦涩低语",
+        "id": 1,
+        "index": "BITTER_MURMUR",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_bitterMurmur",
+        "tiers": [
+            [
+                16,
+                5,
+                5
+            ],
+            [
+                16,
+                5,
+                7
+            ],
+            [
+                16,
+                5,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "解锁个人气场解读能力的潜力。<span class=\"Highlight1\">{0}米</span>范围内，濒死逃生者的气场会显示出来。",
+        "name": "猎鹿者",
+        "id": 2,
+        "index": "DEERSTALKER",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_deerstalker",
+        "tiers": [
+            [
+                12
+            ],
+            [
+                24
+            ],
+            [
+                36
+            ]
+        ]
+    },
+    {
+        "description": "你拥有超乎寻常的大范围恐惧释放能力。你的恐惧半径增加<span class=\"Highlight1\">{0}%</span>。在“阴险”得分项中额外获得<span class=\"Highlight2\">{1}%</span>的血点奖励。<br>奖励血点将在游戏结算后获得。",
+        "name": "恐惧释放",
+        "flavor": "“他们越恐惧，我就越快乐。”",
+        "id": 3,
+        "index": "DISTRESSING",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_distressing",
+        "tiers": [
+            [
+                22,
+                50
+            ],
+            [
+                24,
+                75
+            ],
+            [
+                26,
+                100
+            ]
+        ]
+    },
+    {
+        "description": "解锁隐身能力。<br><br>静止不动保持<span class=\"Highlight1\">{0}秒</span>，你就将获得<b>无法侦测</b>状态，直至你再次移动或行动时解除。",
+        "name": "静止隐身",
+        "id": 4,
+        "index": "INSIDIOUS",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_insidious",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                3
+            ],
+            [
+                2
+            ]
+        ]
+    },
+    {
+        "description": "将力量植根于希望的厄咒逃生者即将逃离时，厄咒图腾的力量会驱使着你。<br>逃生大门电力一旦启动，如果在地图上仍剩余普通图腾，厄咒就会在图腾上生效。</br><br>厄咒激活时，<li>逃生者就会进入<b><i>危险</i></b>状态（一刀倒）。</li><li>你的移动速度会增加<span class=\"Highlight1\">{0}%</span></li><br>只要相联系的厄咒图腾仍旧存在，那么厄咒力的效果就会持续。<br>",
+        "name": "厄咒：难逃一死",
+        "flavor": "“恶魔变得越发凶猛、迅捷，仿佛恶灵在用一道无形的鞭子抽打其项背。”",
+        "id": 5,
+        "index": "HEX_NO_ONE_ESCAPES_DEATH",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_noOneEscapesDeath",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "厄咒的力量根植于希望。逃生者的痴心妄想会使你兴奋并加强你的图腾。地图中每剩下1个普通和厄咒图腾，会让你获得一个印记。每个印记都会让你在“捕猎”得分项中额外<br><li>获得<span class=\"Highlight1\">{0}%</span>的血点奖励。</li><li>每个印记都会使逃生者清除图腾速度降低<span class=\"Highlight2\">{1}%</span>。</li><li>当有逃生者开始清除图腾时你会获得提示。</li><br><i>只要相关的厄咒图腾存在，厄咒效果就会持续存在。</i>",
+        "name": "厄咒：猎杀戾气",
+        "id": 6,
+        "index": "HEX_THRILL_OF_THE_HUNT",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_thrillOfTheHunt",
+        "tiers": [
+            [
+                6,
+                4
+            ],
+            [
+                8,
+                5
+            ],
+            [
+                10,
+                6
+            ]
+        ]
+    },
+    {
+        "description": "你对地下室里的钩子拥有如此盎然的兴致，以至于勾起了恶灵的垂涎。地下室钩子可以让你获得以下奖励：<br><li>增加<span class=\"Highlight1\">{0}%</span>的恶灵吞噬速度。</li><li>增加<span class=\"Highlight2\">{1}%</span>的试图逃脱难度。</li><li>增加<span class=\"Highlight3\">{2}%</span>的逃脱失败惩罚。</li>",
+        "name": "鬼魔神龛",
+        "flavor": "“这样你就会知道，想逃出生天简直就是痴心妄想。只要被挂上去，就得乖乖伏诛，成为恶灵的佳肴。”",
+        "id": 7,
+        "index": "MONSTROUS_SHRINE",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_monstrousShrine",
+        "tiers": [
+            [
+                3,
+                5,
+                3
+            ],
+            [
+                6,
+                10,
+                6
+            ],
+            [
+                9,
+                15,
+                9
+            ]
+        ]
+    },
+    {
+        "description": "<span class=\"Highlight\">{0}</span>",
+        "name": "辣手屠夫",
+        "tiers": [
+            [
+                "你深谙杀戮之道。<i>普通攻击</i>成功击中后会对该逃生者施加<b>重伤</b>与<b>出血</b>状态效果。<b>出血</b>会<span class=\"Highlight1\">小幅</span>增加逃生者的流血速度。<br><i>辣手屠夫</i>施加的<b>出血</b>状态效果会在逃生者被完全治愈后被移除。<br><span class=\"FlavorText\">“这个恶魔天性残暴不仁。折磨猎物并使其生不如死会带给它莫大的快感，所以它绝对不会给猎物一个爽快的死法。”</span>"
+            ],
+            [
+                "你深谙杀戮之道。<i>普通攻击</i>成功击中后会对该逃生者施加<b>重伤</b>与<b>出血</b>状态效果。<b>出血</b>会<span class=\"Highlight1\">中幅</span>增加逃生者的流血速度。<br><i>辣手屠夫</i>施加的<b>出血</b>状态效果会在逃生者被完全治愈后被移除。<br><span class=\"FlavorText\">“这个恶魔天性残暴不仁。折磨猎物并使其生不如死会带给它莫大的快感，所以它绝对不会给猎物一个爽快的死法。”</span>"
+            ],
+            [
+                "你深谙杀戮之道。<i>普通攻击</i>成功击中后会对该逃生者施加<b>重伤</b>与<b>出血</b>状态效果。<b>出血</b>会<span class=\"Highlight1\">大幅</span>增加逃生者的流血速度。<br><i>辣手屠夫</i>施加的<b>出血</b>状态效果会在逃生者被完全治愈后被移除。<br><span class=\"FlavorText\">“这个恶魔天性残暴不仁。折磨猎物并使其生不如死会带给它莫大的快感，所以它绝对不会给猎物一个爽快的死法。”</span>"
+            ]
+        ],
+        "id": 8,
+        "index": "SLOPPY_BUTCHER",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_sloppyButcher"
+    },
+    {
+        "description": "该区域的乌鸦可以直接和你交流。<span class=\"Highlight1\">{0}%</span>的时间里，当你在<span class=\"Highlight2\">{1}米</span>范围内时，鸣叫的乌鸦会给你一个可视化提示。<br><i>鬼鸦谍影</i>的冷却时间为 <span class=\"Highlight3\">{2}秒。</span> ",
+        "name": "鬼鸦谍影",
+        "flavor": "“它们所盘旋的阴影里，每一声哀嚎都让我们胆颤心惊。”",
+        "id": 9,
+        "index": "SPIES_FROM_THE_SHADOWS",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_spiesFromTheShadows",
+        "tiers": [
+            [
+                100,
+                20,
+                5
+            ],
+            [
+                100,
+                28,
+                5
+            ],
+            [
+                100,
+                36,
+                5
+            ]
+        ]
+    },
+    {
+        "description": "你运用主要武器袭击失手后的恢复速度加快。如果<i>普通攻击</i>未击中目标，冷却时间减少<span class=\"Highlight1\">{0}%</span>。",
+        "name": "不屈不挠",
+        "id": 10,
+        "index": "UNRELENTING",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_unrelenting",
+        "tiers": [
+            [
+                20
+            ],
+            [
+                25
+            ],
+            [
+                30
+            ]
+        ]
+    },
+    {
+        "description": "你基本可以听懂恶灵的声音。当你在距离一个逃生者<span class=\"Highlight1\">{0} 米</span>范围内时，可以零星听到一点恶灵的低语。",
+        "name": "窃窃私语",
+        "flavor": "“迷雾到底作何用，我们不得而知，但毋庸置疑的是，它是恶魔的帮凶。”——笔记",
+        "id": 11,
+        "index": "WHISPERS",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_whispers",
+        "tiers": [
+            [
+                48
+            ],
+            [
+                40
+            ],
+            [
+                32
+            ]
+        ]
+    },
+    {
+        "description": "你对猎物的呼吸极其敏感。痛苦中的逃生者呼吸的响亮度增加<span class=\"Highlight1\">{0}%</span>，并且通常呼吸的响亮度增加<span class=\"Highlight2\">{1}%</span>。",
+        "name": "鸣喘",
+        "flavor": "“如果你不打算停下来并稳住你的呼吸的话……她来帮你。”",
+        "id": 12,
+        "index": "STRIDOR",
+        "owner": "NURSE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_stridor",
+        "tiers": [
+            [
+                25,
+                0
+            ],
+            [
+                50,
+                0
+            ],
+            [
+                50,
+                25
+            ]
+        ]
+    },
+    {
+        "description": "在面临不可避免的死亡时，他们的勇气荡然无存。<br>每个受伤、垂死或被钩住的逃生者会使所有逃生者的修理、破坏和图腾破坏速度降低<span class=\"Highlight1\">{0}%</span>，最多降低<span class=\"Highlight1\">{1}%</span>。",
+        "name": "死亡恐惧",
+        "flavor": "“她将我们玩弄于鼓掌之间，并幸灾乐祸。”",
+        "id": 13,
+        "index": "THANATOPHOBIA",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NURSE",
+        "image": "iconPerks_thatanophobia",
+        "tiers": [
+            [
+                4,
+                16
+            ],
+            [
+                4.5,
+                18
+            ],
+            [
+                5,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "解开前所未有的气场探知潜能。你将可以感知到<span class=\"Highlight1\">{0}米</span>范围内任何逃生者进行治疗或被治疗的气场。",
+        "name": "护士的呼唤",
+        "flavor": "“也许是她的职业病，她总是能找到那些需要帮助的人。”",
+        "id": 14,
+        "index": "A_NURSES_CALLING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NURSE",
+        "image": "iconPerks_aNursesCalling",
+        "tiers": [
+            [
+                20
+            ],
+            [
+                24
+            ],
+            [
+                28
+            ]
+        ]
+    },
+    {
+        "description": "你的存在本身就能引起极大的恐惧。处于你的恐惧范围内的逃生者在修理或治疗时触发技能检验的几率提高<span class=\"Highlight1\">{0}%</span>。触发的技能检验的成功区域缩小<span class=\"Highlight2\">{1}%</span>。",
+        "name": "恐慌降临",
+        "flavor": "\"我们感觉厄运临头。\"",
+        "id": 15,
+        "index": "UNNERVING_PRESENCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRAPPER",
+        "image": "iconPerks_unnervingPresence",
+        "tiers": [
+            [
+                10,
+                40
+            ],
+            [
+                10,
+                50
+            ],
+            [
+                10,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "你的彪悍强壮之力让你可以撕碎所有猎物的防线。破坏板子<b>、可破坏墙壁以及发电机</b>的速度加快<span class=\"Highlight1\">{0}%</span>。",
+        "name": "所向无敌",
+        "flavor": "“这些怪物并非只会使用蛮力，它们身后还有一股黑暗的力量在催动着。”",
+        "id": 16,
+        "index": "BRUTAL_STRENGTH",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRAPPER",
+        "image": "iconPerks_brutalStrength",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                15
+            ],
+            [
+                20
+            ]
+        ]
+    },
+    {
+        "description": "一想到可以拿钩子挂住你的猎物，你就兴奋不已。当你抱着逃生者时，移动速度会增加<span class=\"Highlight1\">{0}%。</span>当你抱着逃生者时，你的恐惧效果半径会增加<span class=\"Highlight2\">{1}米</span>。",
+        "name": "欣喜若狂",
+        "flavor": "“从某种意义上讲，比杀我们的欲望更让杀手兴奋的，是用钩子把我们中的一人挂起来。”",
+        "id": 17,
+        "index": "AGITATION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRAPPER",
+        "image": "iconPerks_agitation",
+        "tiers": [
+            [
+                6,
+                6
+            ],
+            [
+                12,
+                8
+            ],
+            [
+                18,
+                12
+            ]
+        ]
+    },
+    {
+        "description": "<span class=\"Highlight\">{0}</span>",
+        "name": "穷追不舍",
+        "tiers": [
+            [
+                "你的精确追踪能力能够使你更精准的追踪到跑动的逃生者留下的痕迹。<br>逃生者留下的划痕(脚印)会<span class=\"Highlight1\">小幅</span>变得更加紧凑。<br><span class=\"FlavorText\">“永远不要停下脚步，希望你总比野兽快两步。”——笔记</span>"
+            ],
+            [
+                "你的精确追踪能力能够使你更精准的追踪到跑动的逃生者留下的痕迹。<br>逃生者留下的划痕(脚印)会<span class=\"Highlight1\">中幅</span>变得更加紧凑。<br><span class=\"FlavorText\">“永远不要停下脚步，希望你总比野兽快两步。”——笔记</span>"
+            ],
+            [
+                "你的精确追踪能力能够使你更精准的追踪到跑动的逃生者留下的痕迹。<br>逃生者留下的划痕(脚印)会<span class=\"Highlight1\">大幅</span>变得更加紧凑。<br><span class=\"FlavorText\">“永远不要停下脚步，希望你总比野兽快两步。”——笔记</span>"
+            ]
+        ],
+        "id": 18,
+        "index": "PREDATOR",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WRAITH",
+        "image": "iconPerks_predator"
+    },
+    {
+        "description": "就像嗅觉灵敏的猎狗一样，即使百十里范围内的血腥味也逃不过你的追踪。<span class=\"Highlight1\">大幅加强</span>血迹的辨识度，血迹的保留时间将增加<span class=\"Highlight2\">{0}秒</span>。",
+        "name": "血气追踪",
+        "flavor": "\"月明之夜，鹅卵石上闪耀点点腥红之光；我的生命一滴滴流逝，追杀者已然迫近身旁。\"",
+        "id": 19,
+        "index": "BLOODHOUND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WRAITH",
+        "image": "iconPerks_bloodhound",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "你在暗夜里如视白昼。你的视野变宽<span class=\"Highlight2\">{0}度</span>。<br><i>不与其他视野强化效果叠加。</i>",
+        "name": "暗夜之睛",
+        "flavor": "\"他的眼睛如利剑一般穿透无边的黑夜，让你的魂魄在黑暗中不得安宁。\"",
+        "id": 20,
+        "index": "SHADOWBORN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WRAITH",
+        "image": "iconPerks_shadowborn",
+        "tiers": [
+            [
+                9
+            ],
+            [
+                12
+            ],
+            [
+                15
+            ]
+        ]
+    },
+    {
+        "description": "你对疼痛具有抵抗力。你被<b>木板砸晕</b>的持续时间缩短<span class=\"Highlight1\">{0}%</span>。",
+        "name": "耐力持久",
+        "flavor": "He stops at nothing.",
+        "id": 21,
+        "index": "ENDURING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HILLBILLY",
+        "image": "iconPerks_enduring",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                45
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "与迷雾的其他野兽不同，你已经适应了光明。你对手电筒、鞭炮、闪光弹和爆炸地雷的障目状态免疫。试图使你障目的逃生者会暴露其气场<span class=\"Highlight1\">{0}秒。</span>",
+        "name": "光明之眼",
+        "flavor": "“这些怪物……他们适应了！他们有了奇怪的新能力。”——维戈的日记",
+        "id": 22,
+        "index": "LIGHTBORN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HILLBILLY",
+        "image": "iconPerks_lightborn",
+        "tiers": [
+            [
+                6
+            ],
+            [
+                8
+            ],
+            [
+                10
+            ]
+        ]
+    },
+    {
+        "description": "当发电机的修理进度到达<span class=\"Highlight1\">{0}%</span>时将发出声音提示，同时你将获得<b>无法侦测</b>状态，持续<span class=\"Highlight2\">{2}秒</span>。",
+        "name": "工匠",
+        "flavor": "“邪恶的杀手能化腐朽为神奇。制作出的工具用来以新奇的方式凌虐我们……”——笔记本",
+        "id": 23,
+        "index": "TINKERER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HILLBILLY",
+        "image": "iconPerks_tinkerer",
+        "tiers": [
+            [
+                70,
+                12
+            ],
+            [
+                70,
+                14
+            ],
+            [
+                70,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "某个逃生者将成为你的<b>血祭品</b>。<br>每次<i>普通攻击</i>成功击中非血祭品目标时获得一枚印记。<br>每个印记会减少<span class=\"Highlight1\">{0}%</span>成功<i>普通攻击</i>后的冷却时间（可叠加），最多可获得<span class=\"Highlight2\">{1}</span>个印记。<br><i>普通攻击</i>命中血祭品会使你失去<span class=\"Highlight3\">{2}</span>个印记。<br>当你的血祭品死亡或被献祭后，你将无法再获得印记。<br><li><i>杀手一次只能将一名逃生者变为<b>血祭品</b>。</i></li>",
+        "name": "把最好的留在最后",
+        "flavor": "“死神来光临你的小镇了，警官。”——山姆·卢米斯",
+        "id": 24,
+        "index": "SAVE_THE_BEST_FOR_LAST",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SHAPE",
+        "image": "iconPerks_saveTheBestForLast",
+        "tiers": [
+            [
+                5,
+                8,
+                4
+            ],
+            [
+                5,
+                8,
+                3
+            ],
+            [
+                5,
+                8,
+                2
+            ]
+        ]
+    },
+    {
+        "description": "某个逃生者将成为你的<b>血祭品</b>。<br>每当你的血祭品逃跑后，你将获得一个印记，最多{0}个。<br>每个印记将增加你<span class=\"Highlight1\">{1}%</span>的移动速度。<br>每次<i>普通攻击</i>或<i>特殊攻击</i>都将消耗一个印记。<br><li><i>杀手一次只能将一名逃生者变为<b>血祭品</b>。</i></li>",
+        "name": "不要玩儿食物",
+        "flavor": "“你把他们都耍了，对不对麦克？但我可没有。”——山姆·卢米斯博士",
+        "id": 25,
+        "index": "PLAY_WITH_YOUR_FOOD",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SHAPE",
+        "image": "iconPerks_playWithYourFood",
+        "tiers": [
+            [
+                3,
+                3
+            ],
+            [
+                3,
+                4
+            ],
+            [
+                3,
+                5
+            ]
+        ]
+    },
+    {
+        "description": "你将一名逃生者视为<b>血祭品</b>。<br>你的血祭品在解救和治疗其他逃生者时，获得<span class=\"Highlight1\">{0}%</span>行动速度加成。<br>你每次钩住不是血祭品的逃生者时，如果血祭品还活着，则你获得一个印记。<br>如果血祭品还活着，则每个印记使其他所有不是血祭品的逃生者在修理、治疗和破坏时承受<span class=\"Highlight2\">{1}%</span>速度惩罚。<br><li><i>杀手一次只能将一名逃生者变为血祭品。</i></li>",
+        "name": "湮灭之光",
+        "flavor": "This isn't a man...",
+        "id": 26,
+        "index": "DYING_LIGHT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SHAPE",
+        "image": "iconPerks_dyingLight",
+        "tiers": [
+            [
+                33,
+                2
+            ],
+            [
+                33,
+                2.5
+            ],
+            [
+                33,
+                3
+            ]
+        ]
+    },
+    {
+        "description": "一个可以阻碍气场解读能力的厄咒。在厄咒图腾激活时用<i>普通攻击</i>击中逃生者会引起<b>障目</b>状态效果。此效果在命中最后<span class=\"Highlight1\">{0}</span>个逃生者时生效。<br><i>只要相关的厄咒图腾存在，厄咒效果就会持续存在。</i>",
+        "name": "厄咒：第三封印",
+        "flavor": "“她已经碰过你了，你身上有女巫的印记！”",
+        "id": 27,
+        "index": "HEX_THE_THIRD_SEAL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HAG",
+        "image": "iconPerks_theThirdSeal",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "会影响所有逃生者修理发电机进度的厄咒。所有发电机均会受<i>厄咒：毁灭</i>影响。当发电机未被逃生者修理时，其修理进度将会立刻回退，且回退速度为正常速度的<span class=\"Highlight1\">{0}%</span>。<br><br><i>只要厄咒图腾未被摧毁，厄咒效果就将持续。</i><br>",
+        "name": "厄咒：毁灭",
+        "flavor": "“厄咒降于你身。那将是你的毁灭。”",
+        "id": 28,
+        "index": "HEX_RUIN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HAG",
+        "image": "iconPerks_ruin",
+        "tiers": [
+            [
+                100
+            ],
+            [
+                150
+            ],
+            [
+                200
+            ]
+        ]
+    },
+    {
+        "description": "厄咒的力量根植于希望。逃生者的痴心妄想引发了你的饥饿感。当逃生者从至少 <span class=\"Highlight1\">24米</span>外的吊钩中被救出时，吞噬希望会收到1个代币。<br><li><span class=\"Highlight3\"> 2个代币</span>：钩住逃生者10秒后，获得<span class=\"Highlight2\">{0}%</span> <b><i>急速</i></b>状态效果，<span class=\"Highlight3\"></span>持续<span class=\"Highlight3\">10秒</span>。</li><li><span class=\"Highlight3\">3个代币</span>：逃生者遭受<b><i>危险</i></b>状态效果。</li><li><span class=\"Highlight2\">5个代币</span>：赋予你自己杀死逃生者的能力。</li><br><i>只要相关的厄咒图腾存在，厄咒效果就会持续存在。</i><br>",
+        "name": "厄咒：吞噬希望",
+        "flavor": "“如果你什么都不做，那么你手上就沾有他们的鲜血。如果你拯救他们，她的饥饿感就会增长。”",
+        "id": 29,
+        "index": "HEX_DEVOUR_HOPE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HAG",
+        "image": "iconPerks_devourHope",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ]
+    },
+    {
+        "description": "你的存在本身就能引起极大的恐惧。处于你的恐惧范围内的逃生者的效率降低。<br>受影响的逃生者的物品消耗速度增加<span class=\"Highlight1\">{0}%</span>。",
+        "name": "压迫性气场",
+        "flavor": "\"见鬼！我把纱布丢地上了！\"",
+        "id": 30,
+        "index": "OVERWHELMING_PRESENCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DOCTOR",
+        "image": "iconPerks_overwhelmingPresence",
+        "tiers": [
+            [
+                80
+            ],
+            [
+                90
+            ],
+            [
+                100
+            ]
+        ]
+    },
+    {
+        "description": "追猎时心思缜密，杀戮时手法可怕。<br>当你在追猎时，你的恐惧范围会扩大<span class=\"Highlight1\">{0} 米</span>。在其他时候，你的恐惧范围会缩小<span class=\"Highlight2\">{0} 米</span> 而你的视野会拓展<span class=\"Highlight3\">{1} 度</span>。<br><i>视野增益不重叠。</i>",
+        "name": "监控与打击",
+        "flavor": "“治疗时间到了！”——医生",
+        "id": 31,
+        "index": "MONITOR_AND_ABUSE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DOCTOR",
+        "image": "iconPerks_monitorAndAbuse",
+        "tiers": [
+            [
+                8,
+                8,
+                3
+            ],
+            [
+                8,
+                8,
+                5
+            ],
+            [
+                8,
+                8,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "憎恨是你前进的推动力。<br>通过执行<b>破坏发电机</b>动作来使一台发电机电量超载。下一个使用该发电机的逃生者将面临<span class=\"Highlight1\">巨幅</span>难度的技能检验。未通过技能检验会导致额外的<span class=\"Highlight2\">{0}%</span>发电机退化。<br>技能检验成功则将防止发电机爆炸，但不会赋予玩家任何进度。",
+        "name": "电量超载",
+        "flavor": "“这是一个陷阱，但是这个陷阱无法避开……”——医生",
+        "id": 32,
+        "index": "OVERCHARGE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DOCTOR",
+        "image": "iconPerks_generatorOvercharge",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ]
+    },
+    {
+        "description": "你对杀戮的渴求如此强烈，以至于暂时中断了你与恶灵之间的连结，你已完全不受控制。<br><br>你获得1级杀戮欲望后获得<b>无法侦测</b>效果，并持续至你失去杀戮欲望。<br><br><li>在猎人行动项中获得额外<span class=\"Highlight1\">{0}%</span>血点。</li>",
+        "name": "嗜血凶兽",
+        "flavor": "“她去哪儿了？”",
+        "id": 33,
+        "index": "BEAST_OF_PREY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HUNTRESS",
+        "image": "iconPerks_BeastOfPrey",
+        "tiers": [
+            [
+                30
+            ],
+            [
+                40
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "解锁你的气场解读能力。当逃生者进入地下室且你处于地下室<span class=\"Highlight1\">{1}米</span>外的位置时，逃生者的气场会显示给你<span class=\"Highlight2\">{0}秒</span>。<br><i>领地意识</i>每<span class=\"Highlight3\">{2}秒</span>只能触发一次。",
+        "name": "领地意识",
+        "id": 34,
+        "index": "TERRITORIAL_IMPERATIVE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HUNTRESS",
+        "image": "iconPerks_TerritorialImperative",
+        "tiers": [
+            [
+                3,
+                32,
+                30
+            ],
+            [
+                3,
+                32,
+                25
+            ],
+            [
+                3,
+                32,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "厄咒的力量来自绝望。你的狩猎就是一曲令人无法抵抗的恐惧之歌，使猎物的注意力更加混乱。逃生者在治疗或修理的技能检验失败后会导致<span class=\"Highlight1\">{0}%</span>进度倒退惩罚。<br>每次逃生者上钩时，猎手摇篮曲都会获得力量。这会影响治疗与修理技能检验警告：<br><li><b>1至4枚代币：</b>技能检验警告声音与技能检验之间的时间缩短。</li><li><b>5枚代币：</b>没有技能检验警告。</li><br><i>只要厄咒图腾存在，相关的厄咒效果就会持续。</i>",
+        "name": "厄咒：猎手摇篮曲",
+        "id": 35,
+        "index": "HEX_HUNTRESS_LULLABY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HUNTRESS",
+        "image": "iconPerks_HuntressLullaby",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                4
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    {
+        "description": "你的残暴攻击造成的创伤使逃生者痛苦地呼救变得困难。<br>被你的普通攻击命中而陷入濒死状态的逃生者气场不会暴露给<span class=\"Highlight1\">{2}米</span>范围之外的其他逃生者。<br>被你的普通攻击命中而陷入濒死状态的逃生者爬行速度<span class=\"Highlight2\">减慢{1}%</span>，持续<span class=\"Highlight3\">{0}秒</span>。<br>在此期间，逃生者会受到<b>障目</b>状态影响。",
+        "name": "击倒出局",
+        "flavor": "“哦，那枪不怎么样。老办法……用大锤！看到了吧，这种办法更好。那样他们死得更难看。”——纽宾斯·索耶",
+        "id": 36,
+        "index": "KNOCK_OUT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CANNIBAL",
+        "image": "iconPerks_knockOut",
+        "tiers": [
+            [
+                32,
+                50,
+                15
+            ],
+            [
+                24,
+                50,
+                15
+            ],
+            [
+                16,
+                50,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "与恶灵的深层连结解锁了你的气场解读能力。当一名逃生者上钩后，你将能够在 <span class=\"Highlight1\">{0}秒</span>内感受到距离钩子<span class=\"Highlight2\">{1}米</span>以外的其它逃生者的气场。<br><li>每当一名逃生者初次上钩，你都会获得额外<span class=\"Highlight3\">{2}%</span>的血点奖励，最多可叠加至<span class=\"Highlight4\">{3}%</span>。<br>血点奖励将在游戏结束后获得。</li>",
+        "name": "人肉烧烤",
+        "flavor": "“我就是不能不以杀人为乐。有些事是你冥冥之中必须去做的，并不是说你非得喜欢做这件事。”——德雷顿·索耶",
+        "id": 37,
+        "index": "BARBECUE_AND_CHILI",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CANNIBAL",
+        "image": "iconPerks_BBQAndChili",
+        "tiers": [
+            [
+                4,
+                40,
+                25,
+                50
+            ],
+            [
+                4,
+                40,
+                25,
+                75
+            ],
+            [
+                4,
+                40,
+                25,
+                100
+            ]
+        ]
+    },
+    {
+        "description": "你的凶残攻击会使逃生者掉落手中的道具。如果道具掉落后没有被拾起，就会在<span class=\"Highlight1\">{0}秒</span>后被恶灵吞噬。<br><span class=\"Highlight2\">{1}米</span>内的道具显示为白色气场。道具气场会逐渐变为红色直至被恶灵吞噬。",
+        "name": "富兰克林之死",
+        "flavor": "“莎莉，我好像听见了什么动静。停下！停下！”——富兰克林",
+        "id": 38,
+        "index": "FRANKLINS_DEMISE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CANNIBAL",
+        "image": "iconPerks_franklinsLoss",
+        "tiers": [
+            [
+                150,
+                32
+            ],
+            [
+                120,
+                32
+            ],
+            [
+                90,
+                32
+            ]
+        ]
+    },
+    {
+        "description": "跟丢猎物的压力令你怒火中烧，并给你前所未有的动力。每当逃生者修理好1台发电机，怒火中烧的效果就会变强。<br><li>每维修完一台发电机，获得<span class=\"Highlight1\">{0}%</span>的可叠加增益效果，提高拾取、掉落、翻越以及破坏发电机和木板的速度，持续到本局游戏结束。</li>",
+        "name": "怒火中烧",
+        "id": 39,
+        "index": "FIRE_UP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NIGHTMARE",
+        "image": "iconPerks_fireUp",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                3.5
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "你将一名逃生者视为<b>血祭品</b>。每次<i>普通攻击</i>击中你的血祭品时，打开逃生大门所需的时间会额外增加<span class=\"Highlight1\">{0}秒</span>，最高可累计至<span class=\"Highlight2\">{1}秒</span>。<br>血祭品将不受到<i>记忆犹新影响。</i><br><li><i>杀手一次只能将一名逃生者变为<b>血祭品</b>。</i></li>",
+        "name": "记忆犹新",
+        "id": 40,
+        "index": "REMEMBER_ME",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NIGHTMARE",
+        "image": "iconPerks_rememberMe",
+        "tiers": [
+            [
+                4,
+                8
+            ],
+            [
+                4,
+                12
+            ],
+            [
+                4,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "当一扇逃生大门被打开时，血腥狱长就会被激活。所有站在大门内的逃生者都会将气场暴露给你。<br>每场比赛限用一次，当血腥狱长被激活时，将一名逃生者挂上钩子会召唤恶灵将两扇逃生大门封锁<span class=\"Highlight1\">{0}秒</span>。",
+        "name": "血腥狱长",
+        "id": 41,
+        "index": "BLOOD_WARDEN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NIGHTMARE",
+        "image": "iconPerks_bloodWarden",
+        "tiers": [
+            [
+                30
+            ],
+            [
+                40
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "你的精密改装能使钩子在遭到破坏时向你报警。<br><li>当有逃生者开始破坏钩子时，你会收到提示。</li><li>搬运逃生者时，你能看到钩子<span class=\"Highlight1\">{0}米</span>范围内所有逃生者的气场。</li>",
+        "name": "行刑者的技巧",
+        "flavor": "“不要找借口，不要含糊其辞……不要哭。”——阿曼达·杨",
+        "id": 42,
+        "index": "HANGMANS_TRICK",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "PIG",
+        "image": "iconPerks_hangmansTrick",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                4
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    {
+        "description": "解锁个人气场解读能力的潜力。所有进度倒退的发电机都将以白色高亮形式显示其气场。一旦倒退被打断，发电机将以黄色高亮形式显示其气场，持续<span class=\"Highlight1\">{0}秒</span>。<br>发电机维修产生的噪音可在<span class=\"Highlight2\">{1}米</span>外听到。",
+        "name": "了如指掌",
+        "flavor": "“你能老实点吗？”——阿曼达·杨",
+        "id": 43,
+        "index": "SURVEILLANCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "PIG",
+        "image": "iconPerks_surveillance",
+        "tiers": [
+            [
+                8,
+                8
+            ],
+            [
+                12,
+                8
+            ],
+            [
+                16,
+                8
+            ]
+        ]
+    },
+    {
+        "description": "当距离你<span class=\"Highlight1\">{0}米</span>外有逃生者将另一名逃生者救下钩子时，<i>做出你的选择</i>会使逃生者发出尖叫，并对其施加<b><i>危险</i></b>状态，持续<span class=\"Highlight2\">{1}秒</span>。<br><i>做出你的选择</i>有<span class=\"Highlight3\">{2}秒</span>的技能冷却时间。",
+        "name": "做出你的选择",
+        "flavor": "“你会惊讶于到底是何种工具可以拯救一条命。” ——阿曼达·杨",
+        "id": 44,
+        "index": "MAKE_YOUR_CHOICE",
+        "rarity": [
+            2,
+            2,
+            3
+        ],
+        "owner": "PIG",
+        "image": "iconPerks_makeYourChoice",
+        "tiers": [
+            [
+                32,
+                40,
+                40
+            ],
+            [
+                32,
+                50,
+                50
+            ],
+            [
+                32,
+                60,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "你牢牢地抓住逃生者，让其毫无逃脱的机会。逃生者挣扎的效果减少<span class=\"Highlight1\">{0}%</span>。挣脱你的魔爪所需的时间增加<span class=\"Highlight2\">{1}%</span>。",
+        "name": "牢牢紧握",
+        "id": 45,
+        "index": "IRON_GRASP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_ironGrasp",
+        "tiers": [
+            [
+                75,
+                4
+            ],
+            [
+                75,
+                8
+            ],
+            [
+                75,
+                12
+            ]
+        ]
+    },
+    {
+        "description": "你的出现就能给人带来恐惧。处于你的恐惧范围内的逃生者将受到<span class=\"Highlight1\">{0}%</span>的治疗速度惩罚。<br>",
+        "name": "小丑恐惧症",
+        "id": 46,
+        "index": "COULROPHOBIA",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CLOWN",
+        "image": "iconPerks_coulrophobia",
+        "tiers": [
+            [
+                30
+            ],
+            [
+                40
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "与恶灵的深层连结解锁了为你强大的力量。将一名逃生者挂上钩子后，下一台被你破坏的发电机会瞬间倒退<span class=\"Highlight1\">{0}%</span>的进度条。正常的倒退效果会在其之后触发。<br><i>心惊肉跳</i>将在挂完逃生者的<span class=\"Highlight1\">{1}秒</span>内处于激活状态。",
+        "name": "心惊肉跳",
+        "id": 47,
+        "index": "POP_GOES_THE_WEASEL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CLOWN",
+        "image": "iconPerks_popGoesTheWeasel",
+        "tiers": [
+            [
+                25,
+                35
+            ],
+            [
+                25,
+                40
+            ],
+            [
+                25,
+                45
+            ]
+        ]
+    },
+    {
+        "description": "翻越速度增加<span class=\"Highlight1\">{0}%</span>。<br>执行翻越动作时召唤恶灵封住该处翻越点，持续<span class=\"Highlight1\">{1}秒</span>。<br>该技能最多只能同时封锁1处翻越点。封锁效果仅对逃生者有效且不影响板子。",
+        "name": "花言巧语",
+        "id": 48,
+        "index": "BAMBOOZLE",
+        "rarity": [
+            1,
+            2,
+            2
+        ],
+        "owner": "CLOWN",
+        "image": "iconPerks_bamboozle",
+        "tiers": [
+            [
+                5,
+                8
+            ],
+            [
+                10,
+                12
+            ],
+            [
+                15,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "每当你破坏板子时都会激怒恶灵。<br>当你破坏掉<span class=\"Highlight1\">{0}块板子</span>后，下一次被板子砸晕时恶灵会直接破坏掉这块板子。<br>但你仍会受到眩晕效果的影响。<br>",
+        "name": "暴怒怨灵",
+        "flavor": "“怨愤在她血液中流淌。”",
+        "id": 49,
+        "index": "SPIRIT_FURY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SPIRIT",
+        "image": "iconPerks_spiritFury",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                3
+            ],
+            [
+                2
+            ]
+        ]
+    },
+    {
+        "description": "地图中将生成两个陷阱厄咒图腾。<br>当两个陷阱图腾中的一个被逃生者拆除时，所有逃生者都会被施加<span class=\"Highlight3\">危险状态</span>（一刀倒），并持续<span class=\"Highlight1\"> {0}秒</span>。<br>剩下的一个陷阱图腾会立刻变回普通图腾。<br>",
+        "name": "厄咒：闹鬼之地",
+        "flavor": "“她的家成了闹鬼之地。”",
+        "id": 50,
+        "index": "HEX_HAUNTED_GROUND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SPIRIT",
+        "image": "iconPerks_hauntedGround",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                50
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "某个逃生者将成为你的<b>血祭品</b>。<br>每当一台发电机被修好时，你的位置会向你的血祭品暴露<span class=\"Highlight1\"> {0}秒</span>。<br>每当一台发电机被修好时，所有逃生者的位置都会向你暴露<span class=\"Highlight2\"> {1}秒</span>。<br>当所有发电机都被修好后，你的血祭品会被施加<span class=\"Highlight3\">危险状态</span>（一刀倒），并且可以被<span class=\"Highlight3\">处决</span>。<br><li><i>杀手一次只能将一名逃生者变为血祭品。</i></li>",
+        "name": "怨气冲天",
+        "id": 51,
+        "index": "RANCOR",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SPIRIT",
+        "image": "iconPerks_hatred",
+        "tiers": [
+            [
+                5,
+                3
+            ],
+            [
+                4,
+                3
+            ],
+            [
+                3,
+                3
+            ]
+        ]
+    },
+    {
+        "description": "任何在<span class=\"Highlight1\">{0}米</span>内被两名或以上逃生者修理的发电机会用黄色气场标记。当发电机被首次高亮标记时，冲突会使发电机触发一次响亮噪音提示。当发电机离开范围内或不再被两名或以上逃生者修理时，气场会再持续<span class=\"Highlight2\">4秒</span>。<br>",
+        "name": "冲突",
+        "flavor": "“聪明人都死的早。这就是我们的原则。”——军团",
+        "id": 52,
+        "index": "DISCORDANCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEGION",
+        "image": "iconPerks_discordance",
+        "tiers": [
+            [
+                64
+            ],
+            [
+                96
+            ],
+            [
+                128
+            ]
+        ]
+    },
+    {
+        "description": "搬运逃生者时，<i>普通攻击</i>未命中敌人则不会有冷却限制。<i>普通攻击</i>命中其他逃生者则会使当前搬运的逃生者的挣扎计时器暂停<span class=\"Highlight1\">{0}秒</span>。<br>",
+        "name": "疯狂勇气",
+        "flavor": "“别想着逃走了。我们对此很在行的。”——军团",
+        "id": 53,
+        "index": "MAD_GRIT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEGION",
+        "image": "iconPerks_madGrit",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "你的开柜速度增加<span class=\"Highlight1\">{0}%</span>。<br><br>逃生者每次从柜子中出来时进入危险状态<span class=\"Highlight1\">{2}秒</span>，并且尖叫暴露自己的位置<span class=\"Highlight1\">{1}秒</span>。<br>",
+        "name": "铁处女",
+        "flavor": "“这里不是懦夫待的地方。” ——军团",
+        "id": 54,
+        "index": "IRON_MAIDEN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEGION",
+        "image": "iconPerks_ironMaiden",
+        "tiers": [
+            [
+                30,
+                30,
+                4
+            ],
+            [
+                40,
+                30,
+                4
+            ],
+            [
+                50,
+                30,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "你的祈祷召唤出一种黑暗力量，使逃生者活下来的希望更加渺茫。<span class=\"Highlight1\">距离你最远的{0}发电机</span>在游戏开始时被恶灵阻挡<span class=\"Highlight1\">{1}秒</span>。<br>逃生者无法在此期间修理这些发电机。受影响的发电机会显示为白色气场。<br>",
+        "name": "腐烂干预",
+        "flavor": "“这片大地上的所有人必将明白，众神饶不了叛变者。”（阿迪里斯的祈祷文，3.7）",
+        "id": 55,
+        "index": "CORRUPT_INTERVENTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "PLAGUE",
+        "image": "iconPerks_corruptIntervention",
+        "tiers": [
+            [
+                3,
+                80
+            ],
+            [
+                3,
+                100
+            ],
+            [
+                3,
+                120
+            ]
+        ]
+    },
+    {
+        "description": "叛变者的叫喊声让你心脏怦怦直跳。<br>当有逃生者进入濒死状态时，所有处于你的恐惧范围内的逃生者都会发出叫喊声并暴露自己的位置，持续<span class=\"Highlight1\">{0}秒</span>。",
+        "name": "恐惧传染",
+        "flavor": "“异教徒的心中充满了恐惧，他们在倒下的人脚边哭泣。”（赞美之歌，11.4）",
+        "id": 56,
+        "index": "INFECTIOUS_FRIGHT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "PLAGUE",
+        "image": "iconPerks_infectiousFright",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    {
+        "description": "你显露出的力量在整片大陆刮起了一阵恐慌的旋风。<br><br>你将一名逃生者视为血祭品。<i>普通攻击</i>命中血祭品将使目标发出<span class=\"Highlight1\">{0}米</span>的恐惧范围，持续<span class=\"Highlight2\">{1}秒</span>。在此期间，你获得<b>无法侦测</b>状态。<br><br>在此期间血祭品能够听到自己发出的恐惧范围。<br><br><li><i>杀手一次只能将一名逃生者变为<b>血祭品</b>。</i></li><br>",
+        "name": "黑暗奉献",
+        "flavor": "“而恐惧将攫住一位无信仰者的心脏，假借吾之名义降临。”（阿迪里斯的祈祷文，48.9）",
+        "id": 57,
+        "index": "DARK_DEVOTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "PLAGUE",
+        "image": "iconPerks_darkDevotion",
+        "tiers": [
+            [
+                20,
+                32
+            ],
+            [
+                25,
+                32
+            ],
+            [
+                30,
+                32
+            ]
+        ]
+    },
+    {
+        "description": "你敏锐的感官在恶灵的黑暗世界里得到进一步强化。<br><br>解锁个人气场解读能力的潜力。距离你<span class=\"Highlight1\">48米</span>内进行快速动作的逃生者将暴露气场，持续<span class=\"Highlight2\">{0}秒</span>。<br><br><i>洗耳恭听</i>每<span class=\"Highlight3\">{1}秒</span>只能触发一次。<br>",
+        "name": "洗耳恭听",
+        "flavor": "“别担心。这种事我已经策划了一辈子。”——鬼面",
+        "id": 58,
+        "index": "IM_ALL_EARS",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "GHOST",
+        "image": "iconPerks_imAllEars",
+        "tiers": [
+            [
+                6,
+                60
+            ],
+            [
+                6,
+                50
+            ],
+            [
+                6,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "你的黑暗设计与出色的沉着心态会吸引恶灵。<br><br>捡起一名逃生者后，所有未在被逃生者修理的发电机都会被恶灵笼罩，在接下来的<span class=\"Highlight1\">{0}秒</span>内无法被修理。受影响的发电机会显示为白色气场。<br><br><i>亢奋颤栗</i>每<span class=\"Highlight2\">{1}秒</span>仅可触发一次。<br>",
+        "name": "惊险战栗",
+        "flavor": "“暗夜是我的帮手，而这里的夜色永无止境。”——鬼面",
+        "id": 59,
+        "index": "THRILLING_TREMORS",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "GHOST",
+        "image": "iconPerks_thrillingTremors",
+        "tiers": [
+            [
+                16,
+                100
+            ],
+            [
+                16,
+                80
+            ],
+            [
+                16,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "你将一名逃生者视为<b>血祭品</b>。你潜伏在暗影之中，一个接一个地消灭目标。当你的血祭品被钩住时，<i>鬼祟追杀</i>获得一枚印记，最多可获得<span class=\"Highlight1\">{0}枚印记</span>。<br><br>每枚印记可在追杀期间使你的恐惧范围缩小<span class=\"Highlight2\">{1}米</span>。<br><br>当逃生者把血祭品从钩子上救下来时，营救者会变为血祭品。如果血祭品被献祭或击杀，你会失去所有印记。<br><br><li><i>杀手同一时间只能标记一个<b>血祭品</b>。</i></li><br>",
+        "name": "鬼祟追杀",
+        "flavor": "“你绝对想不到我打算如何料理你。这会连续几周成为新闻头条。你就看我的吧。”——鬼面",
+        "id": 60,
+        "index": "FURTIVE_CHASE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "GHOST",
+        "image": "iconPerks_furtiveChase",
+        "tiers": [
+            [
+                2,
+                4
+            ],
+            [
+                3,
+                4
+            ],
+            [
+                4,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "你的诡异气息充斥在空气中并干扰科技产品。<br><br>用<i>普通攻击</i>使逃生者陷入濒死状态会导致<span class=\"Highlight1\">{0}米范围</span>内所有发电机立刻爆炸且进度倒退。受到电涌效果的发电机立刻倒退<span class=\"Highlight2\">{1}%</span>进度。<li><i>电涌</i>每<span class=\"Highlight3\">{2}秒只能触发一次</span>。</li><br>",
+        "name": "电涌",
+        "flavor": "“这个怪物似乎能对电能和附近的电子元器件产生未知的影响。”——霍金斯国家实验室",
+        "id": 61,
+        "index": "SURGE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEMOGORGON",
+        "image": "iconPerks_surge",
+        "tiers": [
+            [
+                32,
+                8,
+                60
+            ],
+            [
+                32,
+                8,
+                50
+            ],
+            [
+                32,
+                8,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "你恐怖的外观使你的猎物虚弱无力。<br><br>逃生者在修理发电机时，会陷入<b>疲劳</b>状态。<br><br>任何<b>疲劳</b>状态将会在逃生者修理发电机时暂停。结束修理后，<b>疲劳</b>状态会继续存在<span class=\"Highlight2\">{1}秒</span>。<br>",
+        "name": "瓦解意志",
+        "flavor": "“该样本明显具有念动能力，它能导致附近的人产生恐惧和疲劳感。”——霍金斯国家实验室",
+        "id": 62,
+        "index": "MINDBREAKER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEMOGORGON",
+        "image": "iconPerks_mindBreaker",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ]
+    },
+    {
+        "description": "当你的猎物试图逃跑时，你与异界的联系就会显现出来。<br><br>每当一台发电机被修好时，在接下来的<span class=\"Highlight2\">{1}秒</span>里，<span class=\"Highlight1\">{0}米半径</span>内的所有窗口和翻越地点将被阻挡，令逃生者无法使用。<br><br>在此期间，你能看到被<i>残酷禁制</i>阻挡的翻越地点的气场。<br>",
+        "name": "残酷禁制",
+        "flavor": "“该样本似乎能影响附近物件，使其仿佛在另一个维度里以别的形式存在一样。”——霍金斯国家实验室",
+        "id": 63,
+        "index": "CRUEL_LIMITS",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEMOGORGON",
+        "image": "iconPerks_cruelConfinement",
+        "tiers": [
+            [
+                32,
+                20
+            ],
+            [
+                32,
+                25
+            ],
+            [
+                32,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "解锁气场解读能力。你精神上保持警惕，能察觉到战场上的重要地点。<br><br>你能看到<span class=\"Highlight1\">{0}米</span>范围内所有木板、可破坏墙壁和翻越地点的气场。<br>",
+        "name": "残心",
+        "flavor": "“敌人的弱点就藏在他们的强项之中。”——连次郎的教义12:5",
+        "id": 64,
+        "index": "ZANSHIN_TACTICS",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ONI",
+        "image": "iconPerks_zanshinTactics",
+        "tiers": [
+            [
+                24
+            ],
+            [
+                28
+            ],
+            [
+                32
+            ]
+        ]
+    },
+    {
+        "description": "其他人也将承受某一个人的痛苦。<br><br>将一名逃生者钩住时，所有受伤的逃生者会受到<span class=\"Highlight1\">出血</span>与<span class=\"Highlight1\">疲劳</span>状态影响，持续<span class=\"Highlight2\">{0}秒</span>。<br><br><i>鲜血回响</i>冷却时间为<span class=\"Highlight3\">{1}秒。</span><br>",
+        "name": "鲜血回响",
+        "flavor": "“精准无误的攻击一名敌人，那他们的同伴也会感觉到杀意。”——连次郎的教义6:3",
+        "id": 65,
+        "index": "BLOOD_ECHO",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ONI",
+        "image": "iconPerks_bloodEcho",
+        "tiers": [
+            [
+                45,
+                80
+            ],
+            [
+                45,
+                70
+            ],
+            [
+                45,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "你想要向让你蒙冤者复仇。用木板或储物柜致盲或击晕你的逃生者会变为你的血祭品。<br><br>新的逃生者变成血祭品时，他们会受到<span class=\"Highlight1\">浑然不觉</span>状态影响，持续<span class=\"Highlight2\">{0}秒</span>，且他们的气场会显示在你的视角中，持续<span class=\"Highlight3\">{1}秒</span>。<br><br><li><i>杀手一次只能将一名逃生者变为<b>血祭品</b>。</i></li><br>",
+        "name": "报应",
+        "flavor": "“只有愚者才会朝恶魔的脸上吐唾沫并宣称自己是胜利者。”——连次郎的教义4:9",
+        "id": 66,
+        "index": "NEMESIS",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ONI",
+        "image": "iconPerks_nemesis",
+        "tiers": [
+            [
+                40,
+                4
+            ],
+            [
+                50,
+                4
+            ],
+            [
+                60,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "你能靠听觉判断出齿轮是否上过油。<br><br>用<i>普通攻击</i>命中逃生者<span class=\"Highlight1\">{0}</span>次后，<i>设备发烧友</i>生效<span class=\"Highlight2\">{1}秒</span>。<br><br>当<i>设备发烧友</i>生效时，逃生者在修理发电机时，每次完成很棒的技能检验，发电机在被修理的同时就会显示出黄色气场。<br>",
+        "name": "设备发烧友",
+        "flavor": "“有时候人会因为做自己最拿手的事而送命。”——狱长",
+        "id": 67,
+        "index": "GEARHEAD",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEATHSLINGER",
+        "image": "iconPerks_gearHead",
+        "tiers": [
+            [
+                2,
+                20
+            ],
+            [
+                2,
+                25
+            ],
+            [
+                2,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "你将一名逃生者视为<b>血祭品</b>。<br><br>钩住血祭品后，<i>失效开关</i>生效<span class=\"Highlight1\">{0}秒</span>。<br><br>生效期间，逃生者若在完全修好一台发电机前停止修理，则恶灵会笼罩该发电机，直到<i>失效开关</i>效果结束。<br><br>受影响的发电机会显示出白色气场。<br><br><i>杀手一次只能将一名逃生者变为<b>血祭品</b>。</i><br>",
+        "name": "失效开关",
+        "flavor": "“我见过意识到自己死期将至的人脸上的表情。”——凯勒布·奎因",
+        "id": 68,
+        "index": "DEAD_MANS_SWITCH",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEATHSLINGER",
+        "image": "iconPerks_deadManSwitch",
+        "tiers": [
+            [
+                35
+            ],
+            [
+                40
+            ],
+            [
+                45
+            ]
+        ]
+    },
+    {
+        "description": "被毁时生效的厄咒。妨碍你的人将得到惩罚。<br><br>净化灰暗图腾的逃生者将受到<b>浑然不觉</b>状态影响，持续<span class=\"Highlight1\">{0}秒</span>。<br><br>若包括此图腾在内的任何厄咒图腾被净化，所有逃生者的气场将暴露<span class=\"Highlight2\">{1}秒</span>。<br>",
+        "name": "厄咒：惩戒",
+        "flavor": "“蠢货，你这是自己寻死。”——凯勒布·奎因",
+        "id": 69,
+        "index": "HEX_RETRIBUTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEATHSLINGER",
+        "image": "iconPerks_hexRetribution",
+        "tiers": [
+            [
+                35,
+                10
+            ],
+            [
+                40,
+                10
+            ],
+            [
+                45,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "那些阻挠职责的人会遭受严厉的审判。<br><br>被保护攻击命中的逃生者会受到<b>不治</b>状态影响，持续<span class=\"Highlight1\">{0}秒。</span>",
+        "name": "强制忏悔",
+        "id": 70,
+        "index": "FORCED_PENANCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "EXECUTIONER",
+        "image": "iconPerks_forcedPenance",
+        "tiers": [
+            [
+                60
+            ],
+            [
+                70
+            ],
+            [
+                80
+            ]
+        ]
+    },
+    {
+        "description": "你引领着受害者们走出一条痛苦与惩罚之路。<br><br>破坏发电机后，你将获得<b>无法侦测</b>状态，直至发电机停止复原或逃生者被任何方式伤害或进入濒死状态。 在此期间，发电机的黄色气场会暴露给逃生者。<br><br>此状态每<span class=\"Highlight1\">{2}秒</span>只能触发一次。",
+        "name": "折磨路径",
+        "id": 71,
+        "index": "TRAIL_OF_TORMENT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "EXECUTIONER",
+        "image": "iconPerks_trailOfTorment",
+        "tiers": [
+            [
+                80
+            ],
+            [
+                70
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "那些在黑暗中纠缠在一起的人注定要一起受苦。<br><br>当有逃生者在距离杀手至少<span class=\"Highlight1\">{0}米</span>范围外治疗另一名逃生者一层健康状态时，进行治疗的逃生者会发出尖叫声，在接下来的<span class=\"Highlight2\">{1}秒</span>内暴露其位置并激活<i>死亡约束</i>。在此期间，该名逃生者距离被治疗的逃生者超过<span class=\"Highlight3\">{2}米</span>时，就会受到<b>浑然不觉</b>状态影响。 ",
+        "name": "死亡约束",
+        "id": 72,
+        "index": "DEATHBOUND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "EXECUTIONER",
+        "image": "iconPerks_deathbound",
+        "tiers": [
+            [
+                32,
+                60,
+                16
+            ],
+            [
+                32,
+                60,
+                12
+            ],
+            [
+                32,
+                60,
+                8
+            ]
+        ]
+    },
+    {
+        "description": "你踢过某台发电机后，接下来<span class=\"Highlight1\">{0}秒</span>内与其互动的逃生者会发出尖叫暴露其位置，持续<span class=\"Highlight2\">{1}秒</span>，同时受到<b>危险</b>状态影响，持续<span class=\"Highlight3\">{2}秒</span>。<br><br><i>巨龙之握</i>的冷却时间为<span class=\"Highlight4\">{3}秒</span>。<br>",
+        "name": "巨龙之握",
+        "flavor": "“如此有潜力的化合物……即便只有一点点都能造成非同寻常的反应。”——塔尔伯特·格莱姆斯的日记",
+        "id": 73,
+        "index": "DRAGONS_GRIP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "BLIGHT",
+        "image": "iconPerks_dragonsGrip",
+        "tiers": [
+            [
+                30,
+                4,
+                60,
+                120
+            ],
+            [
+                30,
+                4,
+                60,
+                100
+            ],
+            [
+                30,
+                4,
+                60,
+                80
+            ]
+        ]
+    },
+    {
+        "description": "此厄咒在鲜血泼洒时能获得恶灵的青睐。<br><br>当一名逃生者被<i>普通攻击</i>命中时，你所在位置附近<span class=\"Highlight1\">{0}米</span>内的一处板子会被恶灵掩藏<span class=\"Highlight2\">{1}秒</span>。被掩藏的板子无法被放下。<br><br><i>厄咒：鲜血恩惠</i>的冷却时间为<span class=\"Highlight3\">{2}秒</span>。<br>",
+        "name": "厄咒：鲜血恩惠",
+        "flavor": "“如果只认为这些实验是某种生物学反应的话也太缺乏想象力了。”——塔尔伯特·格莱姆斯的日记",
+        "id": 74,
+        "index": "HEX_BLOOD_FAVOR",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "BLIGHT",
+        "image": "iconPerks_hexBloodFavor",
+        "tiers": [
+            [
+                16,
+                15,
+                60
+            ],
+            [
+                16,
+                15,
+                50
+            ],
+            [
+                16,
+                15,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "当<i>厄咒：不死</i>生效时，任何图腾周围<span class=\"Highlight1\">{0}米</span>内的逃生者气场将会显示。<br><br>当有另一不同的厄咒图腾被净化时，该厄咒将变为可用的灰暗图腾，并且在此期间积累的代币将被移除。",
+        "name": "厄咒：不死",
+        "id": 75,
+        "index": "HEX_UNDYING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "BLIGHT",
+        "image": "iconPerks_hexUndying",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "你会保护自己所剩无几的所有物，并时刻留意你囤聚到物资的一切风吹草动。<br><br>有逃生者在你<span class=\"Highlight1\">{0}米</span>范围内与箱子互动或拾取道具时，会暴露自身位置。<br><br>比赛开始时环境中可能有最多<span class=\"Highlight1\">{1}</span>个额外箱子。",
+        "name": "囤积者",
+        "id": 76,
+        "index": "HOARDER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TWINS",
+        "image": "iconPerks_Hoarder",
+        "tiers": [
+            [
+                32,
+                2
+            ],
+            [
+                48,
+                2
+            ],
+            [
+                64,
+                2
+            ]
+        ]
+    },
+    {
+        "description": "你的生活十分艰难，于是你要让别人也不好过。<br><br>当你破坏一处发电机时，最多也会随机使<span class=\"Highlight1\">{0}</span>处其他发电机的进度倒退。<br><br>如果其中一处发电机正在被修理，则任何正在修理它的逃生者都会触发一次困难技能检验。<br><br><i>压迫</i>的冷却时间为<span class=\"Highlight2\">{1}</span>秒。<br>",
+        "name": "压迫",
+        "flavor": "“我们有多惨，他们就得有多惨。”——夏洛特·德赛斯",
+        "id": 77,
+        "index": "OPPRESSION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TWINS",
+        "image": "iconPerks_Oppression",
+        "tiers": [
+            [
+                3,
+                120
+            ],
+            [
+                3,
+                100
+            ],
+            [
+                3,
+                80
+            ]
+        ]
+    },
+    {
+        "description": "终结来临之际，你要发动杀戮。<br><br>每当一处发电机完成修理时，恩赐解脱的力量便会增强。获得了一枚印记，<br><br>在使用后可以使你的下次蓄力攻击范围提升<span class=\"Highlight1\">{0}%</span>。",
+        "name": "恩赐解脱",
+        "id": 78,
+        "index": "COUP_DE_GRACE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TWINS",
+        "image": "iconPerks_coupDeGrace",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                50
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "你无与伦比的表演技巧使所有人眼花缭乱。<br><br>在你搬运逃生者时会生效。在你恐惧范围内的逃生者会受到<b>危险</b>状态影响。<br>此效果对于任何离开你恐惧范围的逃生者，或当你钩住或不再搬运逃生者时仍处于你恐惧范围内的逃生者仍会持续<span class=\"Highlight1\">{0}秒</span>。<br><i>追星狂</i>在你不再搬运逃生者后会有<span class=\"Highlight2\">{1}秒</span>冷却时间。<br>",
+        "name": "追星狂",
+        "flavor": "“享受这一刻吧，很少有人能如此靠近。”——河知云",
+        "id": 79,
+        "index": "STARSTRUCK",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRICKSTER",
+        "image": "iconPerks_Starstruck",
+        "tiers": [
+            [
+                26,
+                26
+            ],
+            [
+                28,
+                28
+            ],
+            [
+                30,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "这项厄咒可以确保那些比你弱小的人得到恰当豢养。<br><br>某个逃生者进行<b>匆忙</b>翻越窗户后，恶灵会阻挡这扇窗户<span class=\"Highlight1\">{0}秒</span>。<br><br><i>只要厄咒图腾未被摧毁，厄咒效果就将持续。</i><br>",
+        "name": "厄咒：群体控制",
+        "flavor": "“控制权不在你。像你这样的人从来做不到。”——河知云",
+        "id": 80,
+        "index": "HEX_CROWD_CONTROL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRICKSTER",
+        "image": "iconPerks_HexCrowdControl",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                12
+            ],
+            [
+                14
+            ]
+        ]
+    },
+    {
+        "description": "你不会让任何人进入VIP房间。<br><br>每当你首次钩住一名逃生者，<i>无路可逃</i>将获得一枚印记。<br>最后一处发电机修理完毕后，恶灵就会阻挡两处逃生大门开关<span class=\"Highlight1\">{0}秒</span>，你每拥有1枚印记，就延长<span class=\"Highlight2\">{1}秒</span>。<br>",
+        "name": "无路可逃",
+        "flavor": "“你流血时的声音……让我再听一次吧。”——河知云",
+        "id": 81,
+        "index": "NO_WAY_OUT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRICKSTER",
+        "image": "iconPerks_NoWayOut",
+        "tiers": [
+            [
+                4,
+                26
+            ],
+            [
+                6,
+                34
+            ],
+            [
+                8,
+                42
+            ]
+        ]
+    },
+    {
+        "description": "你被设计用于追踪并消灭目标。<br><br>比赛开始时，全部逃生者的气场将显示<span class=\"Highlight1\">{0}秒。</span><br><br><span class= \"FlavorText\">“……它知道自己想要什么，并且在得到之前绝不会停下。”——卡洛斯·奥利维拉<\\span>",
+        "name": "致命追踪者",
+        "id": 82,
+        "index": "LETHAL_PURSUER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEMESIS",
+        "image": "iconPerks_lethalPursuer",
+        "tiers": [
+            [
+                7
+            ],
+            [
+                8
+            ],
+            [
+                9
+            ]
+        ]
+    },
+    {
+        "description": "你知道如何虐杀小队成员以引起恐慌。<br><br>每当你用普通攻击使一名健康的逃生者陷入受伤状态时，所有受伤的逃生者都会受到<b>浑然不觉</b>状态影响，持续<span class=\"Highlight1\">{0}秒</span>。<br><I>歇斯底里</i>每<span class=\"Highlight2\">{1}秒只能触发一次。</span><br><br><span class= \"FlavorText\">“抱歉我有点一惊一乍了。我也不知道自己会遇到什么。”——罗伯特·肯多",
+        "name": "歇斯底里",
+        "id": 83,
+        "index": "HYSTERIA",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEMESIS",
+        "image": "iconPerks_hysteria",
+        "tiers": [
+            [
+                20,
+                30
+            ],
+            [
+                25,
+                30
+            ],
+            [
+                30,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "Ne-Alpha 寄生虫提升了你的智力与感知力，使你能够铺设陷阱。<br><br>踢过某处发电机后，其气场将以黄色高亮显示。每当你用普通攻击或特殊攻击使一名健康的逃生者陷入濒死状态时，所有受影响的发电机都会爆炸，其进度回退<span class=\"Highlight1\">{0}%</span>随后气场消失。<br>如果有逃生者正在修理爆炸的发电机，其将会发出尖叫并受到无法行动状态影响，持续<span class=\"Highlight2\">{1}秒</span>。<br><i>爆发</i>的冷却时间为<span class=\"Highlight3\">{2}秒。</span><br><br><span class= \"FlavorText\">“它还会用武器？”——吉儿·瓦伦丁",
+        "name": "爆发",
+        "id": 84,
+        "index": "ERUPTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEMESIS",
+        "image": "iconPerks_eruption",
+        "tiers": [
+            [
+                6,
+                12,
+                30
+            ],
+            [
+                6,
+                14,
+                30
+            ],
+            [
+                6,
+                16,
+                30
+            ]
+        ]
+    }
+]

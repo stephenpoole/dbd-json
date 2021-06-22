@@ -1,0 +1,4286 @@
+[
+    {
+        "id": 1,
+        "index": "TRAPPER_GLOVES",
+        "name": "AB2672C34245F584878BF68C9CC26A38",
+        "owner": "TRAPPER",
+        "rarity": 0,
+        "description": "89EC240E401644D8AC869EB52BCC6D91",
+        "image": "iconAddon_trapperGloves"
+    },
+    {
+        "id": 2,
+        "index": "STRONG_COIL_SPRING",
+        "name": "3088151B4BBBF6EE1630C89A32EFCACA",
+        "owner": "TRAPPER",
+        "rarity": 0,
+        "description": "21EB8D1C4A37A3757215B7A9A2DB1DBB",
+        "image": "iconAddon_coilSpring"
+    },
+    {
+        "id": 9,
+        "index": "FOUR_COIL_SPRING_KIT",
+        "name": "BA10FA7D4460C7238EC427867CC1730F",
+        "owner": "TRAPPER",
+        "rarity": 1,
+        "description": "AABE867F4BAE646AA4DE56BAA3FE936B",
+        "image": "iconAddon_coilsKit4"
+    },
+    {
+        "id": 8,
+        "index": "LOGWOOD_DYE",
+        "name": "DB36A60342C2DE394E5F1FAC7B22F559",
+        "owner": "TRAPPER",
+        "rarity": 1,
+        "description": "2BC91102489BB9F4690AC5A5AD662C07",
+        "image": "iconAddon_logwoodDye"
+    },
+    {
+        "id": 3,
+        "index": "SERRATED_JAWS",
+        "name": "748A6EB641C4CF7B0E00CA9217C9C9EF",
+        "owner": "TRAPPER",
+        "rarity": 0,
+        "description": "5C165E1246AC098C018EDEA859BEEE04",
+        "image": "iconAddon_serratedJaws"
+    },
+    {
+        "id": 4,
+        "index": "TRAP_SETTERS",
+        "name": "B593FBF4444AB945187C7A80CC1CE405",
+        "owner": "TRAPPER",
+        "rarity": 1,
+        "description": "3BE40EA640F67B151F7EB2ABE51EF9DA",
+        "image": "iconAddon_tapSetters"
+    },
+    {
+        "id": 5,
+        "index": "TRAPPER_BAG",
+        "name": "2B0C33A04E988553604BCCA79D6A252C",
+        "owner": "TRAPPER",
+        "rarity": 1,
+        "description": "2068C6F5446FC52685F3AB86B79349CD",
+        "image": "iconAddon_trapperBag"
+    },
+    {
+        "id": 12,
+        "index": "RUSTED_JAWS",
+        "name": "BC3D86B848E934671B48399F61A855B8",
+        "owner": "TRAPPER",
+        "rarity": 2,
+        "description": "DF90E0B74F1E66CF5F66D5AB8519FF06",
+        "image": "iconAddon_rustedJaws"
+    },
+    {
+        "id": 7,
+        "index": "SECONDARY_COIL",
+        "name": "4EF0899E44A26DC17935BFBE5A4D03CE",
+        "owner": "TRAPPER",
+        "rarity": 2,
+        "description": "1A8D6EAD4333AD69FA8F1982DA0822F9",
+        "image": "iconAddon_secondaryCoil"
+    },
+    {
+        "id": 10,
+        "index": "TAR_BOTTLE",
+        "name": "6FE4B94642FB85477B4112B7E684D208",
+        "owner": "TRAPPER",
+        "rarity": 2,
+        "description": "4CB2DAC34C3BB45A5AD7D8A135C2804B",
+        "image": "iconAddon_tarBottle"
+    },
+    {
+        "id": 11,
+        "index": "WAX_BRICK",
+        "name": "C42986D54CF84A534802D9B4FE776B08",
+        "owner": "TRAPPER",
+        "rarity": 2,
+        "description": "B74D41C243F10F6ED84B24986AF9F93C",
+        "image": "iconAddon_waxBrick"
+    },
+    {
+        "id": 13,
+        "index": "OILY_COIL",
+        "name": "085C1FD444198F17A44EF3860D852766",
+        "owner": "TRAPPER",
+        "rarity": 3,
+        "description": "D55F8390459D40A5FB7E559D22697534",
+        "image": "iconAddon_oilyCoil"
+    },
+    {
+        "id": 14,
+        "index": "FASTENING_TOOLS",
+        "name": "C55EE2AC42987F5C9CC1EEAB4AB8CDC4",
+        "owner": "TRAPPER",
+        "rarity": 3,
+        "description": "2E6E1BE845D5D773B1897A9274BE9EE2",
+        "image": "iconAddon_fasteningTools"
+    },
+    {
+        "id": 15,
+        "index": "STITCHED_BAG",
+        "name": "9E59AB2C4299D50A71048F9AEE842300",
+        "owner": "TRAPPER",
+        "rarity": 3,
+        "description": "0ECF4542488661819D1261A11374FB38",
+        "image": "iconAddon_stichedBag"
+    },
+    {
+        "id": 17,
+        "index": "BLOODY_COIL",
+        "name": "0FB4B2514137B9C1E0C302B729D26C19",
+        "owner": "TRAPPER",
+        "rarity": 4,
+        "description": "83247ABF4853F81D481327A23B6FAF3C",
+        "image": "iconAddon_bloodyCoil"
+    },
+    {
+        "id": 18,
+        "index": "IRIDESCENT_STONE",
+        "name": "6FF321664CD3D9636C9E6A85ED1897CF",
+        "owner": "TRAPPER",
+        "rarity": 4,
+        "description": "5E29EA0444301F60507C3B8DBA39E273",
+        "image": "iconAddon_diamondStone"
+    },
+    {
+        "id": 50,
+        "index": "THE_SERPENT_SOOT",
+        "name": "3A0A874F4A37EB96EF8662A8C624156C",
+        "owner": "WRAITH",
+        "rarity": 0,
+        "description": "1F87F50D4EAEACA951D38187D3AF89CD",
+        "image": "iconAddon_sootTheSerpent"
+    },
+    {
+        "id": 51,
+        "index": "THE_HOUND_SOOT",
+        "name": "BD448C3F46C7C56AB5D634AEDE42F67E",
+        "owner": "WRAITH",
+        "rarity": 0,
+        "description": "1EC21C92497B4EBB6EAF7CBF84848977",
+        "image": "iconAddon_sootTheHound"
+    },
+    {
+        "id": 52,
+        "index": "THE_GHOST_SOOT",
+        "name": "08A5F88F4335C43B27C7EFA97D91937B",
+        "owner": "WRAITH",
+        "rarity": 0,
+        "description": "7373B88C420B00F02E44D3A65385324D",
+        "image": "iconAddon_sootTheGhost"
+    },
+    {
+        "id": 53,
+        "index": "THE_BEAST_SOOT",
+        "name": "F5C000F3420F3178266A2883C87B97CD",
+        "owner": "WRAITH",
+        "rarity": 0,
+        "description": "51EA0BAF4F36E9B1F906849B3F0DF1F2",
+        "image": "iconAddon_sootTheBeast"
+    },
+    {
+        "id": 54,
+        "index": "BONE_CLAPPER",
+        "name": "6A8CC3134B5E1475FDBE90A4C6FBDD4F",
+        "owner": "WRAITH",
+        "rarity": 1,
+        "description": "159448B54BA3B3E32C876DA1A4AD4132",
+        "image": "iconAddon_boneClapper"
+    },
+    {
+        "id": 55,
+        "index": "BLINK_MUD",
+        "name": "1B498CBC459C8E1EFF947D839900E301",
+        "owner": "WRAITH",
+        "rarity": 1,
+        "description": "DED52A4E43781C33229B2CA6E551050B",
+        "image": "iconAddon_mudBlink"
+    },
+    {
+        "id": 56,
+        "index": "WINDSTORM_MUD",
+        "name": "DE771E274D8603196C64EABB32512089",
+        "owner": "WRAITH",
+        "rarity": 1,
+        "description": "89B96ABF44275C9337C4739E705DA5A1",
+        "image": "iconAddon_mudWindstorm"
+    },
+    {
+        "id": 57,
+        "index": "SWIFT_HUNT_MUD",
+        "name": "1CD7D2634B91672472A00CB96827C622",
+        "owner": "WRAITH",
+        "rarity": 1,
+        "description": "A8E53B024B2720DC9CB9AC9027B5F752",
+        "image": "iconAddon_mudSwiftHunt"
+    },
+    {
+        "id": 58,
+        "index": "BLIND_WARRIOR_MUD",
+        "name": "F9167538437EA91474A9E88E6E11408E",
+        "owner": "WRAITH",
+        "rarity": 1,
+        "description": "5F4C15AA4067A2D4A741F6B986171342",
+        "image": "iconAddon_mudBaikraKaeug"
+    },
+    {
+        "id": 59,
+        "index": "WINDSTORM_WHITE",
+        "name": "8CF4211A4C2A6FC30395BFB1C9851436",
+        "owner": "WRAITH",
+        "rarity": 2,
+        "description": "936212354D05EF231BD34DA3DE19BC0D",
+        "image": "iconAddon_whiteWindstorm"
+    },
+    {
+        "id": 60,
+        "index": "SWIFT_HUNT_WHITE",
+        "name": "11CBC8584240DEADF3D400AF2B33F1A9",
+        "owner": "WRAITH",
+        "rarity": 2,
+        "description": "A8B2DF3B4D7CE497B0B4A887C3E0576B",
+        "image": "iconAddon_whiteKuntinTakkho"
+    },
+    {
+        "id": 61,
+        "index": "SHADOW_DANCE_WHITE",
+        "name": "E6BE0ED14A7E90452AB9D98E06D47006",
+        "owner": "WRAITH",
+        "rarity": 2,
+        "description": "754D064D4DBAED9ACF065080B9C3F305",
+        "image": "iconAddon_whiteShadowDance"
+    },
+    {
+        "id": 62,
+        "index": "BLINK_WHITE",
+        "name": "6E5C2F424B9E2B54051E39A2CFB6F5CC",
+        "owner": "WRAITH",
+        "rarity": 2,
+        "description": "DDA988524C8D64F24F4FF097664AAFD3",
+        "image": "iconAddon_whiteBlink"
+    },
+    {
+        "id": 63,
+        "index": "BLIND_WARRIOR_WHITE",
+        "name": "60E7CDE64454054C8FF89F9FAA375376",
+        "owner": "WRAITH",
+        "rarity": 2,
+        "description": "384344664A362EFFAC4C27B186F9E044",
+        "image": "iconAddon_whiteBlindWarrior"
+    },
+    {
+        "id": 64,
+        "index": "WINDSTORM_BLOOD",
+        "name": "6676292B479C2E94B95780AAB983EB76",
+        "owner": "WRAITH",
+        "rarity": 3,
+        "description": "1F7367F74C0F57B92B98E1802C5C2B54",
+        "image": "iconAddon_bloodWindstorm"
+    },
+    {
+        "id": 65,
+        "index": "SWIFT_HUNT_BLOOD",
+        "name": "4182FBD549E284CB0F7C6B892CA41AE7",
+        "owner": "WRAITH",
+        "rarity": 3,
+        "description": "6D7701E749947C0B2B8F168DB931EA2C",
+        "image": "iconAddon_bloodSwiftHunt"
+    },
+    {
+        "id": 66,
+        "index": "SHADOW_DANCE_BLOOD",
+        "name": "AD3E4C2F4969628A9549008F40A711F4",
+        "owner": "WRAITH",
+        "rarity": 3,
+        "description": "02C3B8E0465747A5B21E98B914F9FDF2",
+        "image": "iconAddon_bloodShadowDance"
+    },
+    {
+        "id": 67,
+        "index": "ALL_SEEING_BLOOD",
+        "name": "4F715D6C402C3E975E82C3BC867AA543",
+        "owner": "WRAITH",
+        "rarity": 3,
+        "description": "611F39D04F6861878771F9A7830A9626",
+        "image": "iconAddon_bloodKraFabai"
+    },
+    {
+        "id": 68,
+        "index": "COXCOMBED_CLAPPER",
+        "name": "8F81FD274F37F8F2AD452FAEFC3441A8",
+        "owner": "WRAITH",
+        "rarity": 4,
+        "description": "445E606F46BFB29DEE8C2387259F151A",
+        "image": "iconAddon_coxcombedClapper"
+    },
+    {
+        "id": 69,
+        "index": "ALL_SEEING_SPIRIT",
+        "name": "5CD2A2854889D222817D8FBA104FDA0C",
+        "owner": "WRAITH",
+        "rarity": 4,
+        "description": "CA841FA1456BF8A78958B1B976A52FCA",
+        "image": "iconAddon_spiritAllSeeing"
+    },
+    {
+        "id": 100,
+        "index": "HEAVY_CLUTCH",
+        "name": "832C3E854ABF17248DD1E0A03F006B46",
+        "owner": "HILLBILLY",
+        "rarity": 0,
+        "description": "6A2189CB48B55AE71B59CBA398B03958",
+        "image": "iconAddon_heavyClutch"
+    },
+    {
+        "id": 101,
+        "index": "SPEED_LIMITER",
+        "name": "FC127CD346AA67E6E4945BBD3C3866E2",
+        "owner": "HILLBILLY",
+        "rarity": 0,
+        "description": "D76C7495440F974684C133886FF63629",
+        "image": "iconAddon_speedLimiter"
+    },
+    {
+        "id": 102,
+        "index": "JUNKYARD_AIR_FILTER",
+        "name": "768892064CEBF05B76B02C8C1D252558",
+        "owner": "HILLBILLY",
+        "rarity": 0,
+        "description": "2A4BFA8F443013309F7FB48BAC9A5900",
+        "image": "iconAddon_junkyardAirFilter"
+    },
+    {
+        "id": 103,
+        "index": "STEEL_TOE_BOOTS",
+        "name": "F1256BC44465FB49E99698BD19DAB6E9",
+        "owner": "HILLBILLY",
+        "rarity": 0,
+        "description": "913A8813417B4DEDD0C1E1BAE6BDCCE4",
+        "image": "iconAddon_steelToeBoots"
+    },
+    {
+        "id": 104,
+        "index": "PUNCTURED_MUFFLER",
+        "name": "BD61F55F4159D098EA33E4B89F580773",
+        "owner": "HILLBILLY",
+        "rarity": 1,
+        "description": "FAFA87E74DF6503C7F6CA097BFAA4FCF",
+        "image": "iconAddon_puncturedMuffler"
+    },
+    {
+        "id": 107,
+        "index": "BIG_BUCKLE",
+        "name": "7EC96B9F4132317BE04C24906652A9AA",
+        "owner": "HILLBILLY",
+        "rarity": 1,
+        "description": "569A88DB4ACF8BBA7AAB599BA3BEB999",
+        "image": "iconAddon_bigBuckle"
+    },
+    {
+        "id": 109,
+        "index": "OFF_BRAND_MOTOR_OIL",
+        "name": "FE28F37845C314D68011639CC12085D3",
+        "owner": "HILLBILLY",
+        "rarity": 1,
+        "description": "E24B7B024B3C0AD26681A9A73D2052B4",
+        "image": "iconAddon_offBrandMotorOil"
+    },
+    {
+        "id": 110,
+        "index": "DADS_BOOTS",
+        "name": "E13CD94043209E7D59679B80693DA8C8",
+        "owner": "HILLBILLY",
+        "rarity": 1,
+        "description": "91B93C8A4EAD02B3C49ECFAFE2FE13C9",
+        "image": "iconAddon_dadsBoots"
+    },
+    {
+        "id": 111,
+        "index": "DEATH_ENGRAVINGS",
+        "name": "CC2C65AF454A1D096916148024D616DC",
+        "owner": "HILLBILLY",
+        "rarity": 1,
+        "description": "99E3B23940841098BEA4A38AA1F9FA56",
+        "image": "iconAddon_deathEngravings"
+    },
+    {
+        "id": 112,
+        "index": "MOTHERS_HELPERS",
+        "name": "300CDA8048F318194ECBB69AEF99AFEF",
+        "owner": "HILLBILLY",
+        "rarity": 2,
+        "description": "E09B26E8440AAD59FA9FB4A7ED47C59B",
+        "image": "iconAddon_mothersHelpers"
+    },
+    {
+        "id": 113,
+        "index": "LOW_KICKBACK_CHAINS",
+        "name": "BD7694554270D468F1FCA69D9247BAD2",
+        "owner": "HILLBILLY",
+        "rarity": 2,
+        "description": "E450DC6F470DC915B4F1A4982B694B22",
+        "image": "iconAddon_lowKickbackChains"
+    },
+    {
+        "id": 114,
+        "index": "LEAFY_MASH",
+        "name": "EBD5886B4F42B8C1E789DF975707CE3F",
+        "owner": "HILLBILLY",
+        "rarity": 2,
+        "description": "DAC3D4AA4A34E4BFDEA9898457723230",
+        "image": "iconAddon_leafyMash"
+    },
+    {
+        "id": 115,
+        "index": "DOOM_ENGRAVINGS",
+        "name": "D28F2D7E42DE1B929BE4308CE5846C60",
+        "owner": "HILLBILLY",
+        "rarity": 2,
+        "description": "D0E97FBE4E6BF0177C8ED1AC8F63C5FC",
+        "image": "iconAddon_doomEngravings"
+    },
+    {
+        "id": 117,
+        "index": "BLACK_GREASE",
+        "name": "6772E1FD47D14AABAF57BB8E9B372972",
+        "owner": "HILLBILLY",
+        "rarity": 2,
+        "description": "9B6180B4408CE04175B6079D5716A7F4",
+        "image": "iconAddon_blackGrease"
+    },
+    {
+        "id": 118,
+        "index": "TUNED_CARBURETOR",
+        "name": "62A7489443573CE3D5566B9E257B7954",
+        "owner": "HILLBILLY",
+        "rarity": 3,
+        "description": "CD6A7BCC4A2332F86FB4D5B410F89BA7",
+        "image": "iconAddon_tunedCarburetor"
+    },
+    {
+        "id": 119,
+        "index": "SPIKED_BOOTS",
+        "name": "DF495A4C4A5D51BC52CA6B8C547FBF71",
+        "owner": "HILLBILLY",
+        "rarity": 3,
+        "description": "873115E94C38A07E4BE5C896BB72D6E7",
+        "image": "iconAddon_spikedBoots"
+    },
+    {
+        "id": 120,
+        "index": "PIGHOUSE_GLOVES",
+        "name": "17FE28BF441B93164963B38C7DF0BF57",
+        "owner": "HILLBILLY",
+        "rarity": 3,
+        "description": "62CDB1994E03B0C62FD5D08CD1DD34A1",
+        "image": "iconAddon_pighouseGloves"
+    },
+    {
+        "id": 121,
+        "index": "LOPRO_CHAINS",
+        "name": "F22A9F9C4BD162B65B9A9C86E29BA046",
+        "owner": "HILLBILLY",
+        "rarity": 3,
+        "description": "C8442AE7494B256D64125A82B3124E8B",
+        "image": "iconAddon_lowProChains"
+    },
+    {
+        "id": 122,
+        "index": "IRIDESCENT_BRICK",
+        "name": "F54CDED942691B5E248EA8B70C1FC4A8",
+        "owner": "HILLBILLY",
+        "rarity": 3,
+        "description": "F0B9E9864A17E73F847A8483D2407A61",
+        "image": "iconAddon_iridescentBrick"
+    },
+    {
+        "id": 123,
+        "index": "APEX_MUFFLER",
+        "name": "026BEDF94369FC5090AEB4B9A3EE471D",
+        "owner": "HILLBILLY",
+        "rarity": 3,
+        "description": "53AAAE224F19AB7CED94B98DC4E4EDC6",
+        "image": "iconAddon_apexMuffler"
+    },
+    {
+        "id": 150,
+        "index": "WOODEN_HORSE",
+        "name": "716A48D741188B05B2781A8468A21D56",
+        "owner": "NURSE",
+        "rarity": 0,
+        "description": "75B262ED41C47DFE752321923AE9FE4C",
+        "image": "iconAddon_woodenHorse"
+    },
+    {
+        "id": 151,
+        "index": "WHITE_NIT_COMB",
+        "name": "5FD10F724A637A9E636B8D9262FB5F30",
+        "owner": "NURSE",
+        "rarity": 0,
+        "description": "FDE7FE1242BBE31275CA8393FD6871DE",
+        "image": "iconAddon_whiteNitComb"
+    },
+    {
+        "id": 153,
+        "index": "METAL_SPOON",
+        "name": "BA8C4BBD405B627E77AA0BAC57D2008B",
+        "owner": "NURSE",
+        "rarity": 0,
+        "description": "6D81135F47C4678B157F68AD25C4A01B",
+        "image": "iconAddon_metalSpoon"
+    },
+    {
+        "id": 155,
+        "index": "BAD_MAN_KEEPSAKE",
+        "name": "7BC9CDEC48DBC0F9B2D60D9924CAA16D",
+        "owner": "NURSE",
+        "rarity": 0,
+        "description": "AE709E2F42446AB3273E6D945DD57004",
+        "image": "iconAddon_badManKeepsake"
+    },
+    {
+        "id": 156,
+        "index": "POCKET_WATCH",
+        "name": "BBB910C9453125123CC5268901961BFA",
+        "owner": "NURSE",
+        "rarity": 1,
+        "description": "B8C4D4C34AF3968A8484D8BBD2804907",
+        "image": "iconAddon_pocketWatch"
+    },
+    {
+        "id": 157,
+        "index": "DULL_BRACELET",
+        "name": "93BDC6E24DE241BDA0AD0C84F2FA73EA",
+        "owner": "NURSE",
+        "rarity": 1,
+        "description": "B135DC0E434EEA597F9029B599DBB194",
+        "image": "iconAddon_dullBracelet"
+    },
+    {
+        "id": 158,
+        "index": "DARK_CINCTURE",
+        "name": "ECA59A2840FDD71A6C6EA798B77C7646",
+        "owner": "NURSE",
+        "rarity": 1,
+        "description": "AC12B78946A882E1F7751397BD5A3189",
+        "image": "iconAddon_darkCincture"
+    },
+    {
+        "id": 159,
+        "index": "CATATONIC_BOYS_TREASURE",
+        "name": "175B20EA422F9FEB69A0A597F4013DFA",
+        "owner": "NURSE",
+        "rarity": 1,
+        "description": "5A24D3E94D88417C24864EA9B4FD039A",
+        "image": "iconAddon_catatonicTreasure"
+    },
+    {
+        "id": 160,
+        "index": "SPASMODIC_BREATH",
+        "name": "A80B18164D61823CD9B02EA73CF3192B",
+        "owner": "NURSE",
+        "rarity": 2,
+        "description": "4F8FB1AF4739CB5D79C269A5A5370C3A",
+        "image": "iconAddon_spasmodicBreath"
+    },
+    {
+        "id": 161,
+        "index": "HEAVY_PANTING",
+        "name": "C684772D40B29A473BC70AA127A9C372",
+        "owner": "NURSE",
+        "rarity": 2,
+        "description": "6B8D52234BEC7FC94202CDBDE4039209",
+        "image": "iconAddon_heavyPanting"
+    },
+    {
+        "id": 162,
+        "index": "FRAGILE_WHEEZE",
+        "name": "DB28D516451142A7163C6FAFA051E42F",
+        "owner": "NURSE",
+        "rarity": 2,
+        "description": "9755342C445886CB8CC52694F86C256C",
+        "image": "iconAddon_fragileWheeze"
+    },
+    {
+        "id": 163,
+        "index": "ATAXIC_RESPIRATION",
+        "name": "DC7EF79746B5D156EA0DB68877146942",
+        "owner": "NURSE",
+        "rarity": 2,
+        "description": "4D989DAC4FF2EE0FE05C58A76928D92C",
+        "image": "iconAddon_ataxicRespiration"
+    },
+    {
+        "id": 164,
+        "index": "ANXIOUS_GASP",
+        "name": "592748544CBCBEB3E9E4639D5525D0BD",
+        "owner": "NURSE",
+        "rarity": 2,
+        "description": "3E4EAEEF4823E66A5353D199F494E625",
+        "image": "iconAddon_anxiousGasp"
+    },
+    {
+        "id": 165,
+        "index": "PLAID_FLANNEL",
+        "name": "C8C2BAB34EA016CE3E3BB2A363D6EA59",
+        "owner": "NURSE",
+        "rarity": 3,
+        "description": "C291F26845D9A69DD707A2BBF8F67997",
+        "image": "iconAddon_plaidFlannel"
+    },
+    {
+        "id": 166,
+        "index": "KAVANAGHS_LAST_BREATH",
+        "name": "FC92E40A44C0F7B60BF577AF0DB8E385",
+        "owner": "NURSE",
+        "rarity": 3,
+        "description": "08F0030F42FF321BC53CAD8E1AA7FA9B",
+        "image": "iconAddon_kavanaghsLastBreath"
+    },
+    {
+        "id": 167,
+        "index": "JENNERS_LAST_BREATH",
+        "name": "B43E7AB140C9FA43BA9AAA88AC8F6897",
+        "owner": "NURSE",
+        "rarity": 3,
+        "description": "C9531B7E47D7DCE1550B97AEE58DB92B",
+        "image": "iconAddon_jennersLastBreath"
+    },
+    {
+        "id": 168,
+        "index": "CAMPBELLS_LAST_BREATH",
+        "name": "31C171CC451E76D90C99418270501660",
+        "owner": "NURSE",
+        "rarity": 3,
+        "description": "6E7B9BC949C78C801F8FA99CBFCA6668",
+        "image": "iconAddon_campbellsLastBreath"
+    },
+    {
+        "id": 169,
+        "index": "BAD_MANS_LAST_BREATH",
+        "name": "DCD422F249AF4E8C64085D96C75E9D54",
+        "owner": "NURSE",
+        "rarity": 3,
+        "description": "C8B03AEE4B00D34AAD3A35A0C9348DC2",
+        "image": "iconAddon_badMansLastBreath"
+    },
+    {
+        "id": 170,
+        "index": "TORN_BOOKMARK",
+        "name": "E352602145014E814639D6A8973DF9C4",
+        "owner": "NURSE",
+        "rarity": 4,
+        "description": "955B78394087E3422D85C19ECFF3E91C",
+        "image": "iconAddon_tornBookmark"
+    },
+    {
+        "id": 171,
+        "index": "MATCHBOX",
+        "name": "E9062DAB46338C2DD6C375A60B70A3FA",
+        "owner": "NURSE",
+        "rarity": 4,
+        "description": "F0AC9F30443120BE3ED123B43BBC8FA5",
+        "image": "iconAddon_matchBox"
+    },
+    {
+        "id": 200,
+        "index": "TACKY_EARRINGS",
+        "name": "0B2D134D43195E02ECEC5F8694D68C67",
+        "owner": "SHAPE",
+        "rarity": 0,
+        "description": "AEF7564047F0BE22F0F7C28D2EC9EB60",
+        "image": "iconAddon_tackyEarrings"
+    },
+    {
+        "id": 201,
+        "index": "BOYFRIENDS_MEMO",
+        "name": "58712C294C28C43F5BA1B684FC3A0F87",
+        "owner": "SHAPE",
+        "rarity": 0,
+        "description": "67D81D6D4F0B485ACF421CB0A28F89B9",
+        "image": "iconAddon_boyfriendsMemo"
+    },
+    {
+        "id": 202,
+        "index": "BLOND_HAIR",
+        "name": "DC34449142DCEC9292D1DDB6E7080532",
+        "owner": "SHAPE",
+        "rarity": 0,
+        "description": "E339AF974A2A3F03B5C74198451D9177",
+        "image": "iconAddon_blondeHair"
+    },
+    {
+        "id": 203,
+        "index": "REFLECTIVE_FRAGMENT",
+        "name": "4E15EAB640486628A1F7439487BC0162",
+        "owner": "SHAPE",
+        "rarity": 1,
+        "description": "3366EE4A4EBD37C6DE8A0BBBA2E6C2F9",
+        "image": "iconAddon_reflectiveFragment"
+    },
+    {
+        "id": 204,
+        "index": "MEMORIAL_FLOWER",
+        "name": "71A4470A46A95D843777ADA90EDA796E",
+        "owner": "SHAPE",
+        "rarity": 1,
+        "description": "FCE0CA4F44B81E7853BBD5BB642B514F",
+        "image": "iconAddon_memorialFlower"
+    },
+    {
+        "id": 205,
+        "index": "JEWELRY",
+        "name": "334770F7427DC4645357389E7BE144C0",
+        "owner": "SHAPE",
+        "rarity": 1,
+        "description": "62827FD845471E10E7D8BB97CEC9E1A9",
+        "image": "iconAddon_jewelry"
+    },
+    {
+        "id": 206,
+        "index": "HAIR_BRUSH",
+        "name": "3C514BEA4125486A856B33BA20CE5275",
+        "owner": "SHAPE",
+        "rarity": 1,
+        "description": "66D85D0E4998E94287FD55B22D0322E2",
+        "image": "iconAddon_hairBrush"
+    },
+    {
+        "id": 207,
+        "index": "GLASS_FRAGMENT",
+        "name": "EC3260344BCAB11113184295D01BC544",
+        "owner": "SHAPE",
+        "rarity": 1,
+        "description": "4ED283E54C351C56E33B4E9E172B4AB9",
+        "image": "iconAddon_glassFragment"
+    },
+    {
+        "id": 208,
+        "index": "DEAD_RABBIT",
+        "name": "3D636972417DB227733D74A8685BDF15",
+        "owner": "SHAPE",
+        "rarity": 1,
+        "description": "BD08192E41D13DC63D1E7A8082F4C2E8",
+        "image": "iconAddon_deadRabbit"
+    },
+    {
+        "id": 209,
+        "index": "MIRROR_SHARD",
+        "name": "42CAFD044E57072F77676E8B628793B2",
+        "owner": "SHAPE",
+        "rarity": 2,
+        "description": "EB2109C24C642E818D04CE9405B4D520",
+        "image": "iconAddon_mirrorShard"
+    },
+    {
+        "id": 210,
+        "index": "JUDITHS_JOURNAL",
+        "name": "6E6E6FE744095DF93C2981A8D01CE969",
+        "owner": "SHAPE",
+        "rarity": 2,
+        "description": "16F78B46486DDCC44BE820BDC331B38F",
+        "image": "iconAddon_judithsJournal"
+    },
+    {
+        "id": 211,
+        "index": "JEWELRY_BOX",
+        "name": "278473994152FB953FC4D19610A8F398",
+        "owner": "SHAPE",
+        "rarity": 2,
+        "description": "C0F8E32D470503C112FEADA571C366DC",
+        "image": "iconAddon_jewelryBox"
+    },
+    {
+        "id": 212,
+        "index": "J_MYERS_MEMORIAL",
+        "name": "A6D18080457B249C37BE43A8E8C8CE3D",
+        "owner": "SHAPE",
+        "rarity": 2,
+        "description": "46E75D3B46219A6CFAF34182361A4D19",
+        "image": "iconAddon_jMyersMemorial"
+    },
+    {
+        "id": 213,
+        "index": "HAIR_BOW",
+        "name": "E221A7D642788B3E992C27A91E298E78",
+        "owner": "SHAPE",
+        "rarity": 2,
+        "description": "97B152A84346D88C15931E9AE6D865E6",
+        "image": "iconAddon_hairBow"
+    },
+    {
+        "id": 214,
+        "index": "VANITY_MIRROR",
+        "name": "CEB5AAC94B055B0279D63097BB8D1B0F",
+        "owner": "SHAPE",
+        "rarity": 3,
+        "description": "3BE2A36C47420A8979CD8888B79AF23C",
+        "image": "iconAddon_vanityMirror"
+    },
+    {
+        "id": 215,
+        "index": "TOMBSTONE_PIECE",
+        "name": "FDD582DE4D31C3AAE6111E98DB44D348",
+        "owner": "SHAPE",
+        "rarity": 3,
+        "description": "A9A82037462065115DA6AE8A8E18905D",
+        "image": "iconAddon_tombstonePiece"
+    },
+    {
+        "id": 216,
+        "index": "SCRATCHED_MIRROR",
+        "name": "606A1A164B8E415740EF128759CC2E18",
+        "owner": "SHAPE",
+        "rarity": 3,
+        "description": "6ECF587F495A153E66A2DFA293AD3149",
+        "image": "iconAddon_scratchedMirror"
+    },
+    {
+        "id": 217,
+        "index": "LOCK_OF_HAIR",
+        "name": "C883B2894234CCE5B15C1191E3DE5F5B",
+        "owner": "SHAPE",
+        "rarity": 3,
+        "description": "D08CE4FC4988A4FF1E82A5B093C9EC85",
+        "image": "iconAddon_lockOfHair"
+    },
+    {
+        "id": 218,
+        "index": "JUDITHS_TOMBSTONE",
+        "name": "9A73D30440BC16F005E8E79E30EEC148",
+        "owner": "SHAPE",
+        "rarity": 4,
+        "description": "5F70EB9545E2A25A494BA5BEFD0D43B5",
+        "image": "iconAddon_judithsTombstone"
+    },
+    {
+        "id": 219,
+        "index": "FRAGRANT_TUFT_OF_HAIR",
+        "name": "02689B944B95A8B2BC4A819B6A7B3953",
+        "owner": "SHAPE",
+        "rarity": 4,
+        "description": "20E6099047CFF119677BE3B447FBB24A",
+        "image": "iconAddon_tuftOfHair"
+    },
+    {
+        "id": 250,
+        "index": "ROPE_NECKLET",
+        "name": "0FF3B4DE4D540FE816AE308664343F9D",
+        "owner": "HAG",
+        "rarity": 0,
+        "description": "D83702304B37FB3771FC8A814543E61C",
+        "image": "iconAddon_ropeNecklet"
+    },
+    {
+        "id": 251,
+        "index": "POWDERED_EGGSHELL",
+        "name": "69213AA44AA5E94502F0879609AA74FF",
+        "owner": "HAG",
+        "rarity": 0,
+        "description": "D8D620274511C355A4CB888983907EED",
+        "image": "iconAddon_powderedEggshell"
+    },
+    {
+        "id": 252,
+        "index": "DEAD_FLY_MUD",
+        "name": "BA9C6CFE471E20BE47A551A0F1FD754F",
+        "owner": "HAG",
+        "rarity": 0,
+        "description": "A1BC772D4045AC70E17D1F950D555BA1",
+        "image": "iconAddon_deadFlyMud"
+    },
+    {
+        "id": 253,
+        "index": "BOG_WATER",
+        "name": "58846C0344DB2182C93E93BCDED48B89",
+        "owner": "HAG",
+        "rarity": 0,
+        "description": "2C41E6294CCBCB516C852C957B39E81C",
+        "image": "iconAddon_bogWater"
+    },
+    {
+        "id": 254,
+        "index": "PUSSY_WILLOW_CATKINS",
+        "name": "7280DF244DDA4419C98F2A9BDD04C5B8",
+        "owner": "HAG",
+        "rarity": 1,
+        "description": "ADDEF3D244B02B5B2659768CF936374C",
+        "image": "iconAddon_pussyWillowCatkins"
+    },
+    {
+        "id": 255,
+        "index": "HALF_EGGSHELL",
+        "name": "10727A7F4592050F4C02DF9FB583E387",
+        "owner": "HAG",
+        "rarity": 1,
+        "description": "5B4BE24D47748A78B2406391B8895ED1",
+        "image": "iconAddon_halfEggshell"
+    },
+    {
+        "id": 256,
+        "index": "DRAGONFLY_WINGS",
+        "name": "2799310C401FDCE96DC65F8E4DB642B2",
+        "owner": "HAG",
+        "rarity": 1,
+        "description": "F61187384CE9E03FB4EBFFA478315336",
+        "image": "iconAddon_dragonflyWings"
+    },
+    {
+        "id": 257,
+        "index": "CYPRESS_NECKLET",
+        "name": "F160C4F046387B4E8D5506A4FC539536",
+        "owner": "HAG",
+        "rarity": 1,
+        "description": "2F411B93427EE0599E630F81272A490B",
+        "image": "iconAddon_cypressNecklet"
+    },
+    {
+        "id": 258,
+        "index": "BLOODIED_WATER",
+        "name": "7C3A42504577FEF269332296714A2B65",
+        "owner": "HAG",
+        "rarity": 1,
+        "description": "EC26C66F4B990F3FF347ACB83C5274A0",
+        "image": "iconAddon_bloodiedWater"
+    },
+    {
+        "id": 259,
+        "index": "WILLOW_WREATH",
+        "name": "A3B9B50F4F104E34D4950F9823838CA0",
+        "owner": "HAG",
+        "rarity": 2,
+        "description": "7581D0C340C3595FB0FC74ACB86082D4",
+        "image": "iconAddon_willowWreath"
+    },
+    {
+        "id": 260,
+        "index": "SWAMP_ORCHID_NECKLET",
+        "name": "42806D274F6C18AF9D1792835310067E",
+        "owner": "HAG",
+        "rarity": 2,
+        "description": "46E3DCE24747DEAF8C6A699AB2667165",
+        "image": "iconAddon_swampOrchidNecklet"
+    },
+    {
+        "id": 261,
+        "index": "DRIED_CICADA",
+        "name": "AF5B22DD41880AA2E1AD2A8FD21E0EE8",
+        "owner": "HAG",
+        "rarity": 2,
+        "description": "F3C605CD413264B99E9C14BD04B2E1FE",
+        "image": "iconAddon_driedCicada"
+    },
+    {
+        "id": 262,
+        "index": "CRACKED_TURTLE_EGG",
+        "name": "CAEA7E034CFA057A9596D3BEEFE9BDE3",
+        "owner": "HAG",
+        "rarity": 2,
+        "description": "803745F043AB75C107E9F1B4643C8FEE",
+        "image": "iconAddon_crackedTurtleEgg"
+    },
+    {
+        "id": 263,
+        "index": "BLOODIED_MUD",
+        "name": "B7BAFAEE4D3EAF57B3E2798F5DDFAFDB",
+        "owner": "HAG",
+        "rarity": 2,
+        "description": "BB3ECB574535B5DFE14FE39182AB7316",
+        "image": "iconAddon_bloodiedMud"
+    },
+    {
+        "id": 264,
+        "index": "SCARRED_HAND",
+        "name": "66D96E784A2B443E948B76A688413845",
+        "owner": "HAG",
+        "rarity": 3,
+        "description": "BB88DA1E477133BE6E0E2FA4F5B4B866",
+        "image": "iconAddon_scarredHand"
+    },
+    {
+        "id": 265,
+        "index": "RUSTY_SHACKLES",
+        "name": "718703C045FF83B0B30CC7AD6BFBF589",
+        "owner": "HAG",
+        "rarity": 3,
+        "description": "EBF74BC248D048FC532CEF9E8DB7D04D",
+        "image": "iconAddon_rustyShackles"
+    },
+    {
+        "id": 266,
+        "index": "GRANMAS_HEART",
+        "name": "6BE7C1A64E5BDD4F7BDD838A731818A5",
+        "owner": "HAG",
+        "rarity": 3,
+        "description": "F03B7012489DDA428A5B34A66C1158E5",
+        "image": "iconAddon_granmasHeart"
+    },
+    {
+        "id": 267,
+        "index": "DISFIGURED_EAR",
+        "name": "F8A6C88443E6E688E7A930B2ABD14301",
+        "owner": "HAG",
+        "rarity": 3,
+        "description": "757B00CC401F2D9258CAFDA173E2BA41",
+        "image": "iconAddon_disfiguredEar"
+    },
+    {
+        "id": 268,
+        "index": "WATERLOGGED_SHOE",
+        "name": "2B6DA9F3405A962AD09C10A179457386",
+        "owner": "HAG",
+        "rarity": 4,
+        "description": "F4C2976741AE501BA4B171ABE2B5D209",
+        "image": "iconAddon_waterloggedShoe"
+    },
+    {
+        "id": 269,
+        "index": "MINT_RAG",
+        "name": "EB877384406CCABB72CFBB8ECCA12DB0",
+        "owner": "HAG",
+        "rarity": 4,
+        "description": "5AAFD1DF4E8EC35EFC37D0A54B4BCE62",
+        "image": "iconAddon_mintRag"
+    },
+    {
+        "id": 300,
+        "index": "MOLDY_ELECTRODE",
+        "name": "66EAEB944241AAA40D50B387C3D1BC32",
+        "owner": "DOCTOR",
+        "rarity": 0,
+        "description": "67384BE24B5A36308200998A97A723D8",
+        "image": "iconAddon_moldyElectrode"
+    },
+    {
+        "id": 301,
+        "index": "MAPLE_KNIGHT",
+        "name": "1CA067E64F2BE6E817B4F5B0AA2D26F8",
+        "owner": "DOCTOR",
+        "rarity": 0,
+        "description": "E859A4264305F7929093CABB6CAF2FD9",
+        "image": "iconAddon_mapleKnight"
+    },
+    {
+        "id": 302,
+        "index": "ORDER_CLASS_I",
+        "name": "E2D07BB74AA3FE186728A39310459825",
+        "owner": "DOCTOR",
+        "rarity": 0,
+        "description": "E726E29D4E42361419C97A8149A07BA5",
+        "image": "iconAddon_orderClassI"
+    },
+    {
+        "id": 303,
+        "index": "CALM_CLASS_I",
+        "name": "9221F9C24DBBD7ED3BE8FD931669A32C",
+        "owner": "DOCTOR",
+        "rarity": 0,
+        "description": "4E40803D4B884EE5B8B5269878E0C8E3",
+        "image": "iconAddon_calmClassI"
+    },
+    {
+        "id": 304,
+        "index": "SCRAPPED_TAPE",
+        "name": "788647794D60F5FAE1CBF593D3528BBC",
+        "owner": "DOCTOR",
+        "rarity": 1,
+        "description": "1B8BD9F64AB818F40078BD99C3CA20B0",
+        "image": "iconAddon_scrappedTape"
+    },
+    {
+        "id": 305,
+        "index": "POLISHED_ELECTRODE",
+        "name": "2DAF514147446EC9ED8A578D90C2C530",
+        "owner": "DOCTOR",
+        "rarity": 1,
+        "description": "8EEB0DC54733FD812C79248CBD74BB61",
+        "image": "iconAddon_polishedElectrode"
+    },
+    {
+        "id": 306,
+        "index": "INTERVIEW_TAPE",
+        "name": "F3C37CF84B4EF301124F338FD365DF9B",
+        "owner": "DOCTOR",
+        "rarity": 1,
+        "description": "3E35AD564667BC160720A2A756049321",
+        "image": "iconAddon_interviewTape"
+    },
+    {
+        "id": 307,
+        "index": "RESTRAINT_CLASS_II",
+        "name": "2004FC724729B41F212FCEA64016BA92",
+        "owner": "DOCTOR",
+        "rarity": 1,
+        "description": "C2A1A8F4469611BA148D729E79609F6D",
+        "image": "iconAddon_restraintClassII"
+    },
+    {
+        "id": 308,
+        "index": "ORDER_CLASS_II",
+        "name": "853183F141DE300A35ADE392B6DE753D",
+        "owner": "DOCTOR",
+        "rarity": 1,
+        "description": "FF5716A84B93A1DBBE4475BE94725858",
+        "image": "iconAddon_orderClassII"
+    },
+    {
+        "id": 309,
+        "index": "DISCIPLINE_CLASS_II",
+        "name": "3E8F0D2D43037C739C9C05844D0F2CC8",
+        "owner": "DOCTOR",
+        "rarity": 1,
+        "description": "49109AF3468663A0A3849CAE3C9C2320",
+        "image": "iconAddon_diciplineClassII"
+    },
+    {
+        "id": 310,
+        "index": "CALM_CLASS_II",
+        "name": "D25EF3144D9795E0279863B9F5B2A4C1",
+        "owner": "DOCTOR",
+        "rarity": 1,
+        "description": "A94CA621476E25CB65268BB15F685628",
+        "image": "iconAddon_calmClassII"
+    },
+    {
+        "id": 311,
+        "index": "HIGH_STIMULUS_ELECTRODE",
+        "name": "8B68809344B7AAF7ACA59C9E0CE71817",
+        "owner": "DOCTOR",
+        "rarity": 2,
+        "description": "8DF2F2E8493EDF798895C882D9DA677F",
+        "image": "iconAddon_highStimulusElectrode"
+    },
+    {
+        "id": 312,
+        "index": "RESTRAINT_CLASS_III",
+        "name": "69E29FD740B8DDB371770EA7DD4F0F36",
+        "owner": "DOCTOR",
+        "rarity": 2,
+        "description": "3612249A4808026AB3751482439F7DA4",
+        "image": "iconAddon_restraintClassIII"
+    },
+    {
+        "id": 313,
+        "index": "DISCIPLINE_CLASS_III",
+        "name": "F78310224D2D47AB9E5CCE998A72B022",
+        "owner": "DOCTOR",
+        "rarity": 2,
+        "description": "6FC8538A470F31B03F5B79B610DBAAC8",
+        "image": "iconAddon_diciplineClassIII"
+    },
+    {
+        "id": 314,
+        "index": "RESTRAINT_CARTERS_NOTES",
+        "name": "1AC97C0D439A67E45B6703AF424AB658",
+        "owner": "DOCTOR",
+        "rarity": 3,
+        "description": "1944704D49C60335E44D2A96C67F93BE",
+        "image": "iconAddon_restraintCartersNotes"
+    },
+    {
+        "id": 315,
+        "index": "ORDER_CARTERS_NOTES",
+        "name": "12E3CFDC4CD79869C16AE3B55326E692",
+        "owner": "DOCTOR",
+        "rarity": 3,
+        "description": "41922F094C59DA385A0DD5BDCC91CA2E",
+        "image": "iconAddon_orderCartersNotes"
+    },
+    {
+        "id": 317,
+        "index": "DISCIPLINE_CARTERS_NOTES",
+        "name": "BCCF5F244984486D99C579B760538B2E",
+        "owner": "DOCTOR",
+        "rarity": 3,
+        "description": "CA8DB9BD41751612F4F5D387C62BB53C",
+        "image": "iconAddon_diciplineCartersNotes"
+    },
+    {
+        "id": 318,
+        "index": "CALM_CARTERS_NOTES",
+        "name": "957F4A1048D7AA6928CEA2B330BDCA58",
+        "owner": "DOCTOR",
+        "rarity": 3,
+        "description": "69FBA24A40DF0A9B78C2599AD74D067E",
+        "image": "iconAddon_calmCartersNotes"
+    },
+    {
+        "id": 319,
+        "index": "IRIDESCENT_KING",
+        "name": "6F7FB1024CE1F3C6C359D485EECDB645",
+        "owner": "DOCTOR",
+        "rarity": 4,
+        "description": "76E31A71418BBFBCCE039A91A7DFCD3D",
+        "image": "iconAddon_iridescentKing"
+    },
+    {
+        "id": 320,
+        "index": "IRIDESCENT_QUEEN",
+        "name": "BD55E50C4C8AD78ADEACF0A6F229253F",
+        "owner": "DOCTOR",
+        "rarity": 4,
+        "description": "C9D981F5455B7DC6F980569D43FF72B3",
+        "image": "iconAddon_iridescentQueen"
+    },
+    {
+        "id": 350,
+        "index": "COARSE_STONE",
+        "name": "9DA7C4AE43845139596ED0A7259FBE2A",
+        "owner": "HUNTRESS",
+        "rarity": 0,
+        "description": "2A7D1AC24F7663FF1FEE278616BC773D",
+        "image": "iconAddon_coarseStone"
+    },
+    {
+        "id": 351,
+        "index": "YELLOWED_CLOTH",
+        "name": "9932BDC84604AFED41A6EC8C5C146866",
+        "owner": "HUNTRESS",
+        "rarity": 0,
+        "description": "537A16064A17D4916487E38B2F227C78",
+        "image": "iconAddon_yellowedCloth"
+    },
+    {
+        "id": 352,
+        "index": "BANDAGED_HAFT",
+        "name": "6A0771C84050760B2C92B280119F8487",
+        "owner": "HUNTRESS",
+        "rarity": 0,
+        "description": "3EFDB19D43DDBDD8D3BA3990F48D7F90",
+        "image": "iconAddon_bandagedHaft"
+    },
+    {
+        "id": 353,
+        "index": "AMANITA_TOXIN",
+        "name": "B778CE11453104D54F9902B65BBEB911",
+        "owner": "HUNTRESS",
+        "rarity": 0,
+        "description": "A60DC96343408F4FC177A5B7AD60FD89",
+        "image": "iconAddon_amanitaToxin"
+    },
+    {
+        "id": 354,
+        "index": "WEIGHTED_HEAD",
+        "name": "F3BC1D4D4544245B9CC2548C382FDC19",
+        "owner": "HUNTRESS",
+        "rarity": 1,
+        "description": "BDA077244DA90476DA2EE295053A30D6",
+        "image": "iconAddon_weightedHead"
+    },
+    {
+        "id": 355,
+        "index": "SHINY_PIN",
+        "name": "5B7FC9064482428E3A089D9026C715B8",
+        "owner": "HUNTRESS",
+        "rarity": 1,
+        "description": "C39A9D79416B8B430BF0F8877C7F6B35",
+        "image": "iconAddon_shinyPin"
+    },
+    {
+        "id": 356,
+        "index": "OAK_HAFT",
+        "name": "0CEB041C4A38542CE73BA98C1EA4E53D",
+        "owner": "HUNTRESS",
+        "rarity": 1,
+        "description": "41A441A44C762F3168356EA791DD2E44",
+        "image": "iconAddon_oakHaft"
+    },
+    {
+        "id": 357,
+        "index": "MANNA_GRASS_BRAID",
+        "name": "A8D6F4BD4821481EDD3E6E9A51E31A99",
+        "owner": "HUNTRESS",
+        "rarity": 1,
+        "description": "65782F1E46D58723FDD6B799BD16DFEB",
+        "image": "iconAddon_mannaGrassBraid"
+    },
+    {
+        "id": 358,
+        "index": "LEATHER_LOOP",
+        "name": "EA0FAD2E44D9377FFBF30B868D63B2C0",
+        "owner": "HUNTRESS",
+        "rarity": 1,
+        "description": "269EB6A04A3FDBCA90CDB4BA76429CB8",
+        "image": "iconAddon_leatherLoop"
+    },
+    {
+        "id": 359,
+        "index": "ROSE_ROOT",
+        "name": "C765D3EB4884241CC832DBB17A25FCA2",
+        "owner": "HUNTRESS",
+        "rarity": 2,
+        "description": "CA2514C24660FFEEC7CCE29DE65E6802",
+        "image": "iconAddon_roseRoot"
+    },
+    {
+        "id": 360,
+        "index": "DEERSKIN_GLOVES",
+        "name": "FE0A08D34B1EFB1E74D1EA9EF6A918D6",
+        "owner": "HUNTRESS",
+        "rarity": 2,
+        "description": "5F9BBB1B4CEC3126DB16F985EA62DB97",
+        "image": "iconAddon_deerskinGloves"
+    },
+    {
+        "id": 362,
+        "index": "VENOMOUS_CONCOCTION",
+        "name": "35FD4F3D44DB47E9973DE0919E846DB1",
+        "owner": "HUNTRESS",
+        "rarity": 2,
+        "description": "50C5040842D3347A0C0848B1A65ED69B",
+        "image": "iconAddon_venomousConcoction"
+    },
+    {
+        "id": 363,
+        "index": "RUSTY_HEAD",
+        "name": "51BECFE94197627DB47BFB92CC39AC47",
+        "owner": "HUNTRESS",
+        "rarity": 2,
+        "description": "26482436408F427FFCC7D4A4958B3424",
+        "image": "iconAddon_rustyHead"
+    },
+    {
+        "id": 365,
+        "index": "FLOWER_BABUSHKA",
+        "name": "70DE50E14AF484760D748CB05E71D103",
+        "owner": "HUNTRESS",
+        "rarity": 2,
+        "description": "2639490540681273209C7A9B11549A59",
+        "image": "iconAddon_flowerBabushka"
+    },
+    {
+        "id": 366,
+        "index": "INFANTRY_BELT",
+        "name": "C2FD763540508B8DFC2B209F8B4497C4",
+        "owner": "HUNTRESS",
+        "rarity": 3,
+        "description": "C2FD9E504673866B5AAC01B7962265C8",
+        "image": "iconAddon_infantryBelt"
+    },
+    {
+        "id": 367,
+        "index": "GLOWING_CONCOCTION",
+        "name": "F9089C7042D68F8BE52E4586E41E67E3",
+        "owner": "HUNTRESS",
+        "rarity": 3,
+        "description": "77AAFDA245F47E5B323A7C9FDE66F939",
+        "image": "iconAddon_glowingConcoction"
+    },
+    {
+        "id": 368,
+        "index": "BEGRIMED_HEAD",
+        "name": "9F88BED643191AA6011361BD8A7AFBF3",
+        "owner": "HUNTRESS",
+        "rarity": 3,
+        "description": "99D68D914AE6AE54BBFA64AACFC04318",
+        "image": "iconAddon_begrimedHead"
+    },
+    {
+        "id": 364,
+        "index": "WOODEN_FOX",
+        "name": "C7FEF06442F72B13974F5BA8F0D1DD71",
+        "owner": "HUNTRESS",
+        "rarity": 3,
+        "description": "99BC49404B10893C4A2E6CABFD3DED52",
+        "image": "iconAddon_woodenFox"
+    },
+    {
+        "id": 369,
+        "index": "IRIDESCENT_HEAD",
+        "name": "F8EA52644CB17FF0A2A305991E6659D0",
+        "owner": "HUNTRESS",
+        "rarity": 4,
+        "description": "B7065BDD4337D9FBAA73B99D5C14F323",
+        "image": "iconAddon_iridescentHead"
+    },
+    {
+        "id": 370,
+        "index": "SOLDIERS_PUTTEE",
+        "name": "415D32C347993F127641FD939728D38E",
+        "owner": "HUNTRESS",
+        "rarity": 4,
+        "description": "E2EB371046050DB3799502A1B0A9C73F",
+        "image": "iconAddon_soldiersPuttee"
+    },
+    {
+        "id": 400,
+        "index": "VEGETABLE_OIL_C",
+        "name": "1A9D66B94AC1239CF7D0E2B0A225614E",
+        "owner": "CANNIBAL",
+        "rarity": 0,
+        "description": "851C19E34DF090AC557473B596911D1C",
+        "image": "iconAddon_vegetableOil"
+    },
+    {
+        "id": 401,
+        "index": "SPARK_PLUG_C",
+        "name": "8FC7165F44BB324C0F93C1BB6E98A047",
+        "owner": "CANNIBAL",
+        "rarity": 0,
+        "description": "B4E35B5E42FC19915673D0B835A94BCC",
+        "image": "iconAddon_sparkPlug"
+    },
+    {
+        "id": 402,
+        "index": "CHAINSAW_FILE_C",
+        "name": "2F7B991A4B061C890A432FA244D92B39",
+        "owner": "CANNIBAL",
+        "rarity": 0,
+        "description": "59FAB6DC41847C26F6850997FA3FA8D8",
+        "image": "iconAddon_chainsawFile"
+    },
+    {
+        "id": 403,
+        "index": "SPEED_LIMITER_C",
+        "name": "66AA1D85436654C20549F8A130027D7E",
+        "owner": "CANNIBAL",
+        "rarity": 0,
+        "description": "8171DD3E49174496FA5A0682379E2968",
+        "image": "iconAddon_speedLimiter"
+    },
+    {
+        "id": 405,
+        "index": "PRIMER_BULB_C",
+        "name": "A1D984E64254CBCD394EC19A3FD93D57",
+        "owner": "CANNIBAL",
+        "rarity": 1,
+        "description": "AF69CE4D400068C17B510DBF48FE6574",
+        "image": "iconAddon_primerBulb"
+    },
+    {
+        "id": 406,
+        "index": "LONG_GUIDE_BAR_C",
+        "name": "BFE622C34032CFDAE28E8392B42503D3",
+        "owner": "CANNIBAL",
+        "rarity": 1,
+        "description": "F687F1764542DFA11F256D83A00EE824",
+        "image": "iconAddon_longGuideBar"
+    },
+    {
+        "id": 407,
+        "index": "KNIFE_SCRATCHES",
+        "name": "AE7678104C9FECDA09ED0A9674404E2B",
+        "owner": "CANNIBAL",
+        "rarity": 1,
+        "description": "26DC813F41E372C446438B97C54068AD",
+        "image": "iconAddon_knifeScratches"
+    },
+    {
+        "id": 408,
+        "index": "HOMEMADE_MUFFLER_C",
+        "name": "A3BE2E7F444216517196F69159CF5EA6",
+        "owner": "CANNIBAL",
+        "rarity": 1,
+        "description": "5AFE265448F6F14CC87CFA90479F6306",
+        "image": "iconAddon_homemadeMuffler"
+    },
+    {
+        "id": 411,
+        "index": "CHILI",
+        "name": "1A3C7B5B4405B204EAE3C68F486830EF",
+        "owner": "CANNIBAL",
+        "rarity": 1,
+        "description": "F705AFB24CDBF7FE7D0A17AEA7DF3AC6",
+        "image": "iconAddon_chili"
+    },
+    {
+        "id": 412,
+        "index": "THE_GREASE",
+        "name": "C4E254FE406016C043E2C5A75335736C",
+        "owner": "CANNIBAL",
+        "rarity": 2,
+        "description": "597ED8FB444FF33A46DAFA858254AAAB",
+        "image": "iconAddon_theGrease"
+    },
+    {
+        "id": 413,
+        "index": "THE_BEASTS_MARKS",
+        "name": "6AF5EA3C43DF38F04A0AC4B55BF75467",
+        "owner": "CANNIBAL",
+        "rarity": 2,
+        "description": "471B63B04C5E210383791EB3AE67E5F9",
+        "image": "iconAddon_theBeastsMark"
+    },
+    {
+        "id": 414,
+        "index": "GRISLY_CHAIN",
+        "name": "D2D29F7040BE852F88F66CBF5A3189FF",
+        "owner": "CANNIBAL",
+        "rarity": 2,
+        "description": "6CBEBF6048700304057EA8AC5F5438F3",
+        "image": "iconAddon_chainsGrisly"
+    },
+    {
+        "id": 415,
+        "index": "SHOP_LUBRICANT_C",
+        "name": "3311F4334485F6AD9F69B59BA1C5F121",
+        "owner": "CANNIBAL",
+        "rarity": 2,
+        "description": "C5E183594C3AF46B03A9DEB57C52C96D",
+        "image": "iconAddon_shopLubricant"
+    },
+    {
+        "id": 417,
+        "index": "BEGRIMED_CHAINS_C",
+        "name": "C35D98034F6F495CEB6F77B38D27BC7F",
+        "owner": "CANNIBAL",
+        "rarity": 2,
+        "description": "F197453C4B5C23012D9197A8E44B08E7",
+        "image": "iconAddon_chainsBloody"
+    },
+    {
+        "id": 419,
+        "index": "DEPTH_GUAGE_RAKE",
+        "name": "CD7AA8BE461FBD2A5984369F35B9AE58",
+        "owner": "CANNIBAL",
+        "rarity": 3,
+        "description": "1833F9A142E1B5CFB3155E8FADF3DF1A",
+        "image": "iconAddon_depthGaugeRake"
+    },
+    {
+        "id": 420,
+        "index": "LIGHT_CHASSIS",
+        "name": "65B26B774714F69CDB8606954D620D0F",
+        "owner": "CANNIBAL",
+        "rarity": 3,
+        "description": "C6505A094FE250FF14F7C08C778DC4CB",
+        "image": "iconAddon_lightChassis"
+    },
+    {
+        "id": 421,
+        "index": "RUSTED_CHAIN",
+        "name": "B8C76AE44843A2C208F865A306A0F8BF",
+        "owner": "CANNIBAL",
+        "rarity": 3,
+        "description": "454BFFF7406D06D34133E2A751837482",
+        "image": "iconAddon_chainsRusted"
+    },
+    {
+        "id": 422,
+        "index": "AWARD_WINNING_CHILI",
+        "name": "26B1F8234C05E210615319B0F7995EC9",
+        "owner": "CANNIBAL",
+        "rarity": 3,
+        "description": "E87B2CBD47944EDC2BFB15B91E107C3B",
+        "image": "iconAddon_awardwinningChili"
+    },
+    {
+        "id": 423,
+        "index": "IRIDESCENT_FLESH",
+        "name": "C83AF42F4448CB16447A72BAB0514445",
+        "owner": "CANNIBAL",
+        "rarity": 4,
+        "description": "B396DC9C44C71954760FF5A5E30F5B8E",
+        "image": "iconAddon_iridescentFlesh"
+    },
+    {
+        "id": 424,
+        "index": "CARBURETOR_TUNING_GUIDE",
+        "name": "145900344A0C19245F958E9DB74804A2",
+        "owner": "CANNIBAL",
+        "rarity": 4,
+        "description": "4680A8C44643A4F3100E8CAE6D191CB8",
+        "image": "iconAddon_carburetorTuningGuide"
+    },
+    {
+        "id": 450,
+        "index": "WOOL_SHIRT",
+        "name": "BED75C36479A29E0C55E1E8517925207",
+        "owner": "NIGHTMARE",
+        "rarity": 0,
+        "description": "E622525E4811BDCFF925D7BBA6265A7D",
+        "image": "iconAddon_woolShirt"
+    },
+    {
+        "id": 451,
+        "index": "SHEEP_BLOCK",
+        "name": "3C1A22294FBA5064B5583C9EA4D44981",
+        "owner": "NIGHTMARE",
+        "rarity": 0,
+        "description": "33756C2A4C7B0AF4ACAE2D9A3D1BCCF6",
+        "image": "iconAddon_sheepBlock"
+    },
+    {
+        "id": 452,
+        "index": "KIDS_DRAWING",
+        "name": "1DEA3AA34EDB74FB44D30CADA9E53E49",
+        "owner": "NIGHTMARE",
+        "rarity": 0,
+        "description": "9A3DE572404C7A9B6E40858FD311DF57",
+        "image": "iconAddon_kidsDrawing"
+    },
+    {
+        "id": 453,
+        "index": "GARDEN_RAKE",
+        "name": "A4211166421A7D1F57B806BC86C70BCC",
+        "owner": "NIGHTMARE",
+        "rarity": 0,
+        "description": "286716144B1F12358CB5BDB98D1FE0A8",
+        "image": "iconAddon_gardenRake"
+    },
+    {
+        "id": 454,
+        "index": "PROTOTYPE_CLAWS",
+        "name": "918B8BA04507D5C0FA6328BB6A88467A",
+        "owner": "NIGHTMARE",
+        "rarity": 1,
+        "description": "1AF446034C8D1074F464B88FF2D089E0",
+        "image": "iconAddon_prototypeClaw"
+    },
+    {
+        "id": 455,
+        "index": "OUTDOOR_ROPE",
+        "name": "8856836D4D7CA92F63082D810707E511",
+        "owner": "NIGHTMARE",
+        "rarity": 1,
+        "description": "B9E6DFE34814B3FB2E4104A0C6A724C4",
+        "image": "iconAddon_outdoorRope"
+    },
+    {
+        "id": 456,
+        "index": "NANCYS_SKETCH",
+        "name": "21DA31D14A40CEEA050C7589C9A294E5",
+        "owner": "NIGHTMARE",
+        "rarity": 1,
+        "description": "EAE050FF4B88931DA45BFBB3AFAF97C5",
+        "image": "iconAddon_nancysSketch"
+    },
+    {
+        "id": 457,
+        "index": "GREEN_DRESS",
+        "name": "491AE0D3496EA4ABBF2C23B9482F09C9",
+        "owner": "NIGHTMARE",
+        "rarity": 1,
+        "description": "1CE3CF1C4892E4766C9051B4AEB7DCFF",
+        "image": "iconAddon_greenDress"
+    },
+    {
+        "id": 458,
+        "index": "CAT_BLOCK",
+        "name": "213E75DD45A56DACE4D2B8B80FA0DC27",
+        "owner": "NIGHTMARE",
+        "rarity": 1,
+        "description": "96F2FDE94AE0256E43B90D9A719D6BE4",
+        "image": "iconAddon_catBlock"
+    },
+    {
+        "id": 459,
+        "index": "UNICORN_BLOCK",
+        "name": "998494E94BA5FD8653A55D86B78CD30A",
+        "owner": "NIGHTMARE",
+        "rarity": 2,
+        "description": "36E7D2974F6BCF55DC5C2193B3B89820",
+        "image": "iconAddon_unicornBlock"
+    },
+    {
+        "id": 460,
+        "index": "SWING_CHAINS",
+        "name": "E4E92CA94F48D2B1E392DCA2A426C1DC",
+        "owner": "NIGHTMARE",
+        "rarity": 3,
+        "description": "F78E8D924BD20BFAE67D358258C7C3F8",
+        "image": "iconAddon_swingChains"
+    },
+    {
+        "id": 461,
+        "index": "NANCYS_MASTERPIECE",
+        "name": "0B2A1E8B4B4C56D161545F99F714EFB3",
+        "owner": "NIGHTMARE",
+        "rarity": 2,
+        "description": "F535BE7044A9D5CE1E6F95AA78216EB9",
+        "image": "iconAddon_nancysMasterpiece"
+    },
+    {
+        "id": 462,
+        "index": "JUMP_ROPE",
+        "name": "AA2284A14844B5069ACFFD82274C4394",
+        "owner": "NIGHTMARE",
+        "rarity": 2,
+        "description": "DFBC31B04C89B675E2FC628240E05B8F",
+        "image": "iconAddon_jumpRope"
+    },
+    {
+        "id": 463,
+        "index": "BLUE_DRESS",
+        "name": "64AC113A4525EF216E389D813F6336A1",
+        "owner": "NIGHTMARE",
+        "rarity": 2,
+        "description": "44B8E64C419B1355708D4F80FB3B699E",
+        "image": "iconAddon_blueDress"
+    },
+    {
+        "id": 464,
+        "index": "PILL_BOTTLE",
+        "name": "599BFDA64EB2CB037D78D1B6762F1DAB",
+        "owner": "NIGHTMARE",
+        "rarity": 3,
+        "description": "3FBF1CB04790786DDD83CE98E5B311AB",
+        "image": "iconAddon_pillBottle"
+    },
+    {
+        "id": 465,
+        "index": "PAINT_THINNER",
+        "name": "B8D2EE9E4A45406FD964058A99B55D47",
+        "owner": "NIGHTMARE",
+        "rarity": 2,
+        "description": "E56635E74B3F2853DCE52BB9110B7647",
+        "image": "iconAddon_paintThinner"
+    },
+    {
+        "id": 466,
+        "index": "CLASS_PHOTO",
+        "name": "2BAF77374AAAD1B03F0A468175DA66BE",
+        "owner": "NIGHTMARE",
+        "rarity": 3,
+        "description": "F900332B4A94D534F82E2480762AF7FB",
+        "image": "iconAddon_classPhoto"
+    },
+    {
+        "id": 467,
+        "index": "Z_BLOCK",
+        "name": "9E3D84184E8946F43F5864A3170A25DF",
+        "owner": "NIGHTMARE",
+        "rarity": 3,
+        "description": "3447FA344D6E73D197580E8290C8D6A2",
+        "image": "iconAddon_zBlock"
+    },
+    {
+        "id": 468,
+        "index": "RED_PAINT_BRUSH",
+        "name": "BBB358C54AA59654B5C272AAE841D97E",
+        "owner": "NIGHTMARE",
+        "rarity": 4,
+        "description": "C1E126B349A7832F1B0E07A4089845D7",
+        "image": "iconAddon_redPaintBrush"
+    },
+    {
+        "id": 469,
+        "index": "BLACK_BOX",
+        "name": "046D3BC94892E180343AE589A925749C",
+        "owner": "NIGHTMARE",
+        "rarity": 4,
+        "description": "AB3B51F0406E003E740913A2DCCF481E",
+        "image": "iconAddon_blackBox"
+    },
+    {
+        "id": 500,
+        "index": "WORKSHOP_GREASE",
+        "name": "78F2940C4EF3B3F8989ABCA1188979D5",
+        "owner": "PIG",
+        "rarity": 0,
+        "description": "F564EBA84CF60E3BE28CE48A45396779",
+        "image": "iconAddon_workshopGrease"
+    },
+    {
+        "id": 501,
+        "index": "SHATTERED_SYRINGE",
+        "name": "10AB64AD4B45EF800388F09D24F1BBE9",
+        "owner": "PIG",
+        "rarity": 0,
+        "description": "AB970FB544F7712432166A93286D1A24",
+        "image": "iconAddon_shatteredSyringe"
+    },
+    {
+        "id": 502,
+        "index": "JOHNS_MEDICAL_FILE",
+        "name": "90565E804315BF6DE77C8AB00C76564A",
+        "owner": "PIG",
+        "rarity": 0,
+        "description": "26C942034F77CAD7F990ACAB8B9F1ADC",
+        "image": "iconAddon_johnsMedicalFile"
+    },
+    {
+        "id": 503,
+        "index": "COMBAT_STRAPS",
+        "name": "593B6AC64B9B593956B80E9F426457D9",
+        "owner": "PIG",
+        "rarity": 0,
+        "description": "AA936E894AFE973037AE3C8390515AF1",
+        "image": "iconAddon_combatStraps"
+    },
+    {
+        "id": 504,
+        "index": "VIDEO_TAPE",
+        "name": "46ED9FE94988558418EB88A935474015",
+        "owner": "PIG",
+        "rarity": 1,
+        "description": "68B9E40F4A667C062DF4218FE7791B30",
+        "image": "iconAddon_videoTape"
+    },
+    {
+        "id": 505,
+        "index": "UTILITY_BLADES",
+        "name": "2D7C8E124F61F0E134DF2CA8371B488E",
+        "owner": "PIG",
+        "rarity": 1,
+        "description": "DDC1F39949C768ADA35CA78483FDC6D4",
+        "image": "iconAddon_utilityBlades"
+    },
+    {
+        "id": 506,
+        "index": "RAZOR_WIRES",
+        "name": "10AC1C1247E924A2EDCAAF849A628681",
+        "owner": "PIG",
+        "rarity": 1,
+        "description": "11E06D4345D34C6CB44479931C3DE3AD",
+        "image": "iconAddon_razerWire"
+    },
+    {
+        "id": 507,
+        "index": "LAST_WILL",
+        "name": "CE85AD064F533F7EC89E61B095267D44",
+        "owner": "PIG",
+        "rarity": 1,
+        "description": "C2177A2C404A95416EC1E591D500F311",
+        "image": "iconAddon_lastWill"
+    },
+    {
+        "id": 508,
+        "index": "FACE_MASK",
+        "name": "2A881C784D87EAEF1682268476E80805",
+        "owner": "PIG",
+        "rarity": 1,
+        "description": "D2088E2F46A018B9C51B31916E2F6A0C",
+        "image": "iconAddon_faceMask"
+    },
+    {
+        "id": 509,
+        "index": "SLOW_RELEASE_TOXIN",
+        "name": "B902323B4F0CE6F95F52428F090677EF",
+        "owner": "PIG",
+        "rarity": 2,
+        "description": "45D6484B418E3660F1DD1784344FC190",
+        "image": "iconAddon_slowReleaseToxin"
+    },
+    {
+        "id": 510,
+        "index": "RUSTY_ATTACHMENTS",
+        "name": "3B65B2ED4AF027C562106792ABD2045B",
+        "owner": "PIG",
+        "rarity": 2,
+        "description": "7D4AE5764417A2C6D7CFC9A19E8BC624",
+        "image": "iconAddon_rustyAttachments"
+    },
+    {
+        "id": 511,
+        "index": "JIGSAWS_SKETCH",
+        "name": "1700A15E48E6571105E32EB24CC344C3",
+        "owner": "PIG",
+        "rarity": 3,
+        "description": "5596A3D44B59D5A344C662AD69F63027",
+        "image": "iconAddon_jigsawsSketch"
+    },
+    {
+        "id": 512,
+        "index": "INTERLOCKING_RAZOR",
+        "name": "DBD12BBA4EDC78D63013509FB5CA74FB",
+        "owner": "PIG",
+        "rarity": 2,
+        "description": "C065AB824CD09E017A74C69583AADFC9",
+        "image": "iconAddon_jigsawsSketch"
+    },
+    {
+        "id": 513,
+        "index": "BAG_OF_GEARS",
+        "name": "866D01DA4EB8E3618D3F47878F654B95",
+        "owner": "PIG",
+        "rarity": 2,
+        "description": "506674304B06482E6FD986838F3201A9",
+        "image": "iconAddon_bagOfGears"
+    },
+    {
+        "id": 514,
+        "index": "TAMPERED_TIMER",
+        "name": "BC9C6A6F4E8BE9783FBE6F942E62AB6E",
+        "owner": "PIG",
+        "rarity": 3,
+        "description": "2D1E86AB4A7A62189E21049FB65C2B02",
+        "image": "iconAddon_tamperedTimer"
+    },
+    {
+        "id": 515,
+        "index": "JIGSAWS_ANNOTATED_PLAN",
+        "name": "4E89E8684ED63D1A694A2881887BEE1D",
+        "owner": "PIG",
+        "rarity": 2,
+        "description": "6AAAD8AE40BFC49BC4E470B0BD4BFB02",
+        "image": "iconAddon_jigsawsAnnotatedPlan"
+    },
+    {
+        "id": 516,
+        "index": "CRATE_OF_GEARS",
+        "name": "1A3D299D4A9D82E509D90AAE85E393F8",
+        "owner": "PIG",
+        "rarity": 3,
+        "description": "BD5A1AFB4C1D096C61D8BFB8AE39D67A",
+        "image": "iconAddon_crateOfGears"
+    },
+    {
+        "id": 517,
+        "index": "AMANDAS_SECRET",
+        "name": "F605EC1C4BC8F00983079DB9067D55D8",
+        "owner": "PIG",
+        "rarity": 3,
+        "description": "61800F1E497C45404BC41CAB6841152E",
+        "image": "iconAddon_amandasSecret"
+    },
+    {
+        "id": 518,
+        "index": "RULES_SET_NO_2",
+        "name": "A0D2368044B92DCECCA6ABB67B4BD254",
+        "owner": "PIG",
+        "rarity": 4,
+        "description": "B33A12A540BD0FE6F54A00865F7D484C",
+        "image": "iconAddon_rulesSetN2"
+    },
+    {
+        "id": 519,
+        "index": "AMANDAS_LETTER",
+        "name": "121EFBD34DE0A37190A077AC48CFB9CE",
+        "owner": "PIG",
+        "rarity": 4,
+        "description": "0445ED2445D207CA65E87B9EABC54592",
+        "image": "iconAddon_amandasLetter"
+    },
+    {
+        "id": 550,
+        "index": "SMELLY_INNER_SOLES",
+        "name": "CD3C0B9C453C799A90DD5E8D51B7E977",
+        "owner": "CLOWN",
+        "rarity": 2,
+        "description": "F92B819A409E1AB8A920509D9C4AA80A",
+        "image": "iconAddon_smellyInnerSoles"
+    },
+    {
+        "id": 551,
+        "index": "ROBIN_FEATHER",
+        "name": "A0555ECE4B8F5865251D3D8C9647CE2E",
+        "owner": "CLOWN",
+        "rarity": 0,
+        "description": "15F6BFB64D64B8FD231692AB983A1C0C",
+        "image": "iconAddon_robinFeather"
+    },
+    {
+        "id": 552,
+        "index": "FINGERLESS_PARADE_GLOVES",
+        "name": "E06361084F22803D127B739F6FAC1893",
+        "owner": "CLOWN",
+        "rarity": 0,
+        "description": "40AEFDF849F261E9E1B62E81C3FCA279",
+        "image": "iconAddon_fingerlessParadeGloves"
+    },
+    {
+        "id": 553,
+        "index": "PARTY_BOTTLE",
+        "name": "4D5E2E4C42162B86AF9185B4085A3EFA",
+        "owner": "CLOWN",
+        "rarity": 0,
+        "description": "6778325D487BA727B63E09B8B4E8CF50",
+        "image": "iconAddon_partyBottle"
+    },
+    {
+        "id": 554,
+        "index": "THICK_CORK_STOPPER",
+        "name": "424D17764BC8974DA9B5B48C7D8F26C9",
+        "owner": "CLOWN",
+        "rarity": 1,
+        "description": "72A69ABD4C5AD495BFE1739401A23D55",
+        "image": "iconAddon_thickCorkStopper"
+    },
+    {
+        "id": 555,
+        "index": "STICKY_SODA_BOTTLE",
+        "name": "3EAF7F4E465A5FD008B7E1B334275D07",
+        "owner": "CLOWN",
+        "rarity": 1,
+        "description": "4D57ADBC443A6FA9FA1DC89A1E556F08",
+        "image": "iconAddon_stickySodaBottle"
+    },
+    {
+        "id": 556,
+        "index": "STARLING_FEATHER",
+        "name": "3D1C854C475B411FE6EAEDA88D029578",
+        "owner": "CLOWN",
+        "rarity": 1,
+        "description": "D53398B34DAA0DDBA25513B371AC4FF6",
+        "image": "iconAddon_starlingFeather"
+    },
+    {
+        "id": 557,
+        "index": "SOLVENT_JUG",
+        "name": "BBB8DF5E4211781EE69689BEA93AC68F",
+        "owner": "CLOWN",
+        "rarity": 1,
+        "description": "E2C136084ED3392445577483A5AC7733",
+        "image": "iconAddon_solventJug"
+    },
+    {
+        "id": 558,
+        "index": "KEROSENE_CAN",
+        "name": "516477344B59C1E3636DC59A44CCBFD4",
+        "owner": "CLOWN",
+        "rarity": 1,
+        "description": "7DA4063946EB27F60D49908E586C0D2B",
+        "image": "iconAddon_keroseneCan"
+    },
+    {
+        "id": 559,
+        "index": "VHS_PORN",
+        "name": "D4EEB59A48F263BFA4F8E19B9771FD15",
+        "owner": "CLOWN",
+        "rarity": 0,
+        "description": "B001B1CE4800DE5AC8335992A0154436",
+        "image": "iconAddon_vhsPorn"
+    },
+    {
+        "id": 560,
+        "index": "SULFURIC_ACID_VIAL",
+        "name": "395255EA4AE19DDD545B7EBE0FDF2CAC",
+        "owner": "CLOWN",
+        "rarity": 2,
+        "description": "F176C3114994DC2C420FF8A66DFB4577",
+        "image": "iconAddon_sulfuricAcidVial"
+    },
+    {
+        "id": 561,
+        "index": "FLASK_OF_BLEACH",
+        "name": "29201349435649D0504D83B81C1235B8",
+        "owner": "CLOWN",
+        "rarity": 2,
+        "description": "DB2E53B6446AB3DD5F8D5B93F65B267F",
+        "image": "iconAddon_flaskOfBleach"
+    },
+    {
+        "id": 562,
+        "index": "SPIRIT_OF_HARTSHORN",
+        "name": "FDF0F1514F09D2F31C4745B9C581B697",
+        "owner": "CLOWN",
+        "rarity": 2,
+        "description": "B59C4F5E4EE5AD497A64AC9C61DC7E27",
+        "image": "iconAddon_spiritOfHartshorn"
+    },
+    {
+        "id": 563,
+        "index": "BOTTLE_OF_CHLOROFORM",
+        "name": "6662075746980C44BDB51FA6D1EE7390",
+        "owner": "CLOWN",
+        "rarity": 2,
+        "description": "267EEF544291A741D2902F91A98C48FD",
+        "image": "iconAddon_bottleOfChloroform"
+    },
+    {
+        "id": 564,
+        "index": "GARISH_MAKEUP_KIT",
+        "name": "E0F76BC843422E0503AA76B94539FB33",
+        "owner": "CLOWN",
+        "rarity": 3,
+        "description": "3B2AC27D45C07E8E96717FA4D5192943",
+        "image": "iconAddon_garishMakeupKit"
+    },
+    {
+        "id": 565,
+        "index": "CHEAP_GIN_BOTTLE",
+        "name": "67CFE6DF4BF4117442203493DB36B844",
+        "owner": "CLOWN",
+        "rarity": 3,
+        "description": "CC5DA8684DA2FC0958D8FCB235332A91",
+        "image": "iconAddon_cheapGinBottle"
+    },
+    {
+        "id": 566,
+        "index": "ETHER_15_VOL",
+        "name": "B2D8DEF546BA936BD6E7C78D0CFD1A73",
+        "owner": "CLOWN",
+        "rarity": 3,
+        "description": "031E4A7F481322F7D3098F81CAF39C99",
+        "image": "iconAddon_ether15"
+    },
+    {
+        "id": 567,
+        "index": "CIGAR_BOX",
+        "name": "3555E95F4E2C5E3AA6273C905A5ED978",
+        "owner": "CLOWN",
+        "rarity": 3,
+        "description": "3638437E4C73D2294C367E8832478959",
+        "image": "iconAddon_cigarBox"
+    },
+    {
+        "id": 568,
+        "index": "TATTOOS_MIDDLE_FINGER",
+        "name": "AD3070C041DEA8FB05294E809F17E645",
+        "owner": "CLOWN",
+        "rarity": 4,
+        "description": "19DAAA264EE5F0801D79C088BB27BCB4",
+        "image": "iconAddon_tattoosMiddleFinger"
+    },
+    {
+        "id": 569,
+        "index": "REDHEADS_PINKY_FINGER",
+        "name": "88D37DCA481D5BF89118B5B5DA59035A",
+        "owner": "CLOWN",
+        "rarity": 4,
+        "description": "5BAC1BFC4253DAED988B51A7D7487CF8",
+        "image": "iconAddon_redheadsPinkyFinger"
+    },
+    {
+        "id": 600,
+        "index": "ZORI",
+        "name": "7C64DF9F44E637DCB203A3815824AD21",
+        "owner": "SPIRIT",
+        "rarity": 0,
+        "description": "911CA172421F1F4B58742B88451F832F",
+        "image": "iconAddon_zori"
+    },
+    {
+        "id": 601,
+        "index": "SHIAWASE_AMULET",
+        "name": "F380E3844CA11D81E92A849BD2EED41D",
+        "owner": "SPIRIT",
+        "rarity": 0,
+        "description": "0860CD9045A399DAF62FFF9403A49654",
+        "image": "iconAddon_ShiawaseAmulet"
+    },
+    {
+        "id": 602,
+        "index": "ORIGAMI_CRANE",
+        "name": "40F48EC74438622D4DF6E4A174FF2659",
+        "owner": "SPIRIT",
+        "rarity": 0,
+        "description": "B9AEFF2840F98C6886922BAEAAD6FBC7",
+        "image": "iconAddon_origamiCrane"
+    },
+    {
+        "id": 603,
+        "index": "GIFTED_BAMBOO_COMB",
+        "name": "16FC2B61420AA79E4EF4388C83DEA255",
+        "owner": "SPIRIT",
+        "rarity": 0,
+        "description": "861F245E47665306636E92B299EBF282",
+        "image": "iconAddon_giftedBambooComb"
+    },
+    {
+        "id": 604,
+        "index": "WHITE_HAIR_RIBBON",
+        "name": "7AFB53A24A476D8AD25F90AEC6AD56FC",
+        "owner": "SPIRIT",
+        "rarity": 1,
+        "description": "22C8AEFD491946C2795EAEA0262293FE",
+        "image": "iconAddon_whiteHairRibbon"
+    },
+    {
+        "id": 605,
+        "index": "RINS_BROKEN_WATCH",
+        "name": "7109D87D4DAF9A8F3BE81E8C7B735AD1",
+        "owner": "SPIRIT",
+        "rarity": 1,
+        "description": "A821D8C84A8B533B01AFF2983E730A39",
+        "image": "iconAddon_rinsBrokenWatch"
+    },
+    {
+        "id": 606,
+        "index": "MUDDY_SPORTS_DAY_CAP",
+        "name": "C5A59105497BF480590DD2A39FD8352B",
+        "owner": "SPIRIT",
+        "rarity": 1,
+        "description": "1989A2C7467D1A39EB388ABB8A530CCF",
+        "image": "iconAddon_muddySportCap"
+    },
+    {
+        "id": 607,
+        "index": "KAIUN_TALISMAN",
+        "name": "CC0862F543EF21154204ACA249DC6175",
+        "owner": "SPIRIT",
+        "rarity": 1,
+        "description": "AE76A7094E3FCEE6887E90AD68C85EB8",
+        "image": "iconAddon_kaiunTalisman"
+    },
+    {
+        "id": 608,
+        "index": "JUNIPER_BONSAI",
+        "name": "8C6226A5409C3B82B0C9BFA749F219B8",
+        "owner": "SPIRIT",
+        "rarity": 1,
+        "description": "90BE11604D64C65D0496FB8FEE4C2657",
+        "image": "iconAddon_juniperBonzai"
+    },
+    {
+        "id": 609,
+        "index": "RUSTY_FLUTE",
+        "name": "E05E3BAD43932DEFC1BAE596B89A0B04",
+        "owner": "SPIRIT",
+        "rarity": 2,
+        "description": "4775DA134E8636A8835974A9402C2E63",
+        "image": "iconAddon_rustyFlute"
+    },
+    {
+        "id": 610,
+        "index": "KATSUMORI_TALISMAN",
+        "name": "9DE706604D6E53DD83583D8476B0E5E8",
+        "owner": "SPIRIT",
+        "rarity": 2,
+        "description": "9DE706604D6E53DD83583D8476B0E5E8",
+        "image": "iconAddon_katsumoriTalisman"
+    },
+    {
+        "id": 611,
+        "index": "KATANA_TSUBA",
+        "name": "783EB40B430148EC0C67D1B627890F8C",
+        "owner": "SPIRIT",
+        "rarity": 2,
+        "description": "1F9D73B64224DA4CB37E499D3881817E",
+        "image": "iconAddon_katanaTsuba"
+    },
+    {
+        "id": 612,
+        "index": "DIRTY_UWABAKI",
+        "name": "2B8673014DD522F9E559D1A26828F051",
+        "owner": "SPIRIT",
+        "rarity": 2,
+        "description": "F892DD44426D3A485E98FC8EA6C9A391",
+        "image": "iconAddon_dirtyUwabaki"
+    },
+    {
+        "id": 613,
+        "index": "BLOODY_HAIR_BROOCH",
+        "name": "6593BDF2448BAB9A320D56B064F78DAD",
+        "owner": "SPIRIT",
+        "rarity": 2,
+        "description": "D58F5725451D9C840F835B8E2289D5DB",
+        "image": "iconAddon_bloodyHairBroochi"
+    },
+    {
+        "id": 614,
+        "index": "YAKUYOKE_AMULET",
+        "name": "FF4CABE14DB66E27320013BDCD459F46",
+        "owner": "SPIRIT",
+        "rarity": 3,
+        "description": "8C5912AF4249F7FD68FEEC828A3DF33D",
+        "image": "iconAddon_yakuyokeAmulet"
+    },
+    {
+        "id": 615,
+        "index": "WAKIZASHI_SAYA",
+        "name": "BF58BD9440430493CE064DA87BCDE4B1",
+        "owner": "SPIRIT",
+        "rarity": 3,
+        "description": "84EA7AEE46C3B5965704A58A67EEAB95",
+        "image": "iconAddon_wakizashiSaya"
+    },
+    {
+        "id": 616,
+        "index": "PRAYER_BEADS_BRACELET",
+        "name": "CE791C4543A94B90D673DDBAB19042B9",
+        "owner": "SPIRIT",
+        "rarity": 3,
+        "description": "E07276FF46C87E56777963A06BB20B04",
+        "image": "iconAddon_prayersBeads"
+    },
+    {
+        "id": 617,
+        "index": "DRIED_CHERRY_BLOSSOM",
+        "name": "72E8C6124B9A00649228AFADEFFE9CDF",
+        "owner": "SPIRIT",
+        "rarity": 3,
+        "description": "8EE0000E4C2963A2B9F2EFBA13193222",
+        "image": "iconAddon_driedCherryBlossom"
+    },
+    {
+        "id": 618,
+        "index": "MOTHER_DAUGHTER_RING",
+        "name": "B2ECBF4B47A9C8B968A764A029DB1E1A",
+        "owner": "SPIRIT",
+        "rarity": 4,
+        "description": "7C31FC5C42CFC22FE2199686D6C0320E",
+        "image": "iconAddon_motherDaughterRing"
+    },
+    {
+        "id": 619,
+        "index": "FATHERS_GLASSES",
+        "name": "E42F51A04C16B03F94BE2CB084D42017",
+        "owner": "SPIRIT",
+        "rarity": 4,
+        "description": "48BC9CB1408B8330C0BD0D8CA67413A1",
+        "image": "iconAddon_fathersGlasses"
+    },
+    {
+        "id": 650,
+        "index": "SMILEY_FACE_PIN",
+        "name": "DE7AF0C344A9DF0611662AA525E61A07",
+        "owner": "LEGION",
+        "rarity": 0,
+        "description": "1257859F43FD2E131FFC5D96D1196D2E",
+        "image": "iconAddon_smileyFaceButton"
+    },
+    {
+        "id": 651,
+        "index": "SCRATCHED_RULER",
+        "name": "CF435CAC4F2811117F3E939DF7E203A5",
+        "owner": "LEGION",
+        "rarity": 0,
+        "description": "E208F04E43038F139AE0698EB3E5DE6E",
+        "image": "iconAddon_scratchedRuler"
+    },
+    {
+        "id": 652,
+        "index": "MISCHIEF_LIST",
+        "name": "360CC0EC4FED9A7D6D43B79C28F36B2B",
+        "owner": "LEGION",
+        "rarity": 0,
+        "description": "8BD78D1142C20C433EEB8A9CA223F772",
+        "image": "iconAddon_mischiefList"
+    },
+    {
+        "id": 653,
+        "index": "FRIENDSHIP_BRACELET",
+        "name": "9CB90E4040DECD7DB6B6148BE757B06C",
+        "owner": "LEGION",
+        "rarity": 0,
+        "description": "ED4603F0411050FFFDE4EB8C327DF22E",
+        "image": "iconAddon_friendshipBracelet"
+    },
+    {
+        "id": 654,
+        "index": "NEVERSLEEP_PILLS",
+        "name": "8891C8D44AB4987D60F96CB10D9DE8D5",
+        "owner": "LEGION",
+        "rarity": 1,
+        "description": "727A596E4942862A46FF64B3FC6A69E1",
+        "image": "iconAddon_friendshipBracelet"
+    },
+    {
+        "id": 655,
+        "index": "MURAL_SKETCH",
+        "name": "ACA2D1AF496E801F8D15AFAD4D9B02F4",
+        "owner": "LEGION",
+        "rarity": 1,
+        "description": "4F8FA2DC4564F3401F78AD84EE8D0D7A",
+        "image": "iconAddon_muralSketch"
+    },
+    {
+        "id": 656,
+        "index": "JULIES_MIX_TAPE",
+        "name": "787C155C4425F831C2077AB4C7866470",
+        "owner": "LEGION",
+        "rarity": 1,
+        "description": "09098B3148ED0703DBC249ADFA0AF47C",
+        "image": "iconAddon_juliesMixtape"
+    },
+    {
+        "id": 657,
+        "index": "ETCHED_RULER",
+        "name": "1B2FD09C4DEA2B9ACC92739E62023B50",
+        "owner": "LEGION",
+        "rarity": 1,
+        "description": "FD178D80418C2F1DFE171A8669498122",
+        "image": "iconAddon_etchedRuler"
+    },
+    {
+        "id": 658,
+        "index": "DEFACED_SMILEY_PIN",
+        "name": "2DEBFCE844B53D845288598B58D74923",
+        "owner": "LEGION",
+        "rarity": 1,
+        "description": "8363D7C246B4D94ECD66F084ECAA563B",
+        "image": "iconAddon_defacedSmileyButton"
+    },
+    {
+        "id": 659,
+        "index": "THE_LEGION_PIN",
+        "name": "56D1B9204FDDA1CC9A378C96CE4E05F1",
+        "owner": "LEGION",
+        "rarity": 2,
+        "description": "A67F248347DCAA987B7FEBA279543B41",
+        "image": "iconAddon_theLegionButton"
+    },
+    {
+        "id": 660,
+        "index": "SUSIES_MIX_TAPE",
+        "name": "C5EE138E4B4C7186C771D49D1CE2A898",
+        "owner": "LEGION",
+        "rarity": 2,
+        "description": "09EE282E40A9B9C1705309B1B9EB50E2",
+        "image": "iconAddon_suziesMixtape"
+    },
+    {
+        "id": 661,
+        "index": "STOLEN_SKETCH_BOOK",
+        "name": "74FBC2F440A54133A32113A7770978BE",
+        "owner": "LEGION",
+        "rarity": 2,
+        "description": "431871DB493F0BFB34993C94847AC0C7",
+        "image": "iconAddon_stolenSketchbook"
+    },
+    {
+        "id": 662,
+        "index": "NASTY_BLADE",
+        "name": "35CDCFBA441C195D6A3F899CCC18A424",
+        "owner": "LEGION",
+        "rarity": 2,
+        "description": "45115CF34D14D7785455A0AC3830E622",
+        "image": "iconAddon_nastyBlade"
+    },
+    {
+        "id": 663,
+        "index": "JOEYS_MIX_TAPE",
+        "name": "3B5DAB824DC9A5C94D3A73AD9A40E2CC",
+        "owner": "LEGION",
+        "rarity": 2,
+        "description": "34F65B8B4CBD7CEC530620988834E943",
+        "image": "iconAddon_joeysMixtape"
+    },
+    {
+        "id": 664,
+        "index": "STAB_WOUNDS_STUDY",
+        "name": "1BBE89FF463AC0089144FC98C947553E",
+        "owner": "LEGION",
+        "rarity": 3,
+        "description": "445F1EEA4C41B2FA0384F0862C27294A",
+        "image": "iconAddon_stabWoundsStudy"
+    },
+    {
+        "id": 665,
+        "index": "FRANKS_MIX_TAPE",
+        "name": "09CC4C214B7B276258D155B0ABE033DA",
+        "owner": "LEGION",
+        "rarity": 3,
+        "description": "D31C9BDA4C4DBA04FC183F8336613EE5",
+        "image": "iconAddon_franksMixtape"
+    },
+    {
+        "id": 666,
+        "index": "FILTHY_BLADE",
+        "name": "683D97C34905FFF161E67AA3569492B1",
+        "owner": "LEGION",
+        "rarity": 3,
+        "description": "915C2CC846CF113E5E235496AFAAB7E5",
+        "image": "iconAddon_filthyBlade"
+    },
+    {
+        "id": 667,
+        "index": "COLD_DIRT",
+        "name": "25AE4A704E5B60ECC39DBDA32C1AA608",
+        "owner": "LEGION",
+        "rarity": 3,
+        "description": "B4440B5240CEBDFBD917A294453249C3",
+        "image": "iconAddon_coldDirt"
+    },
+    {
+        "id": 668,
+        "index": "IRIDESCENT_BUTTON",
+        "name": "9B1761F24DB773BD7DCC1A87942CB270",
+        "owner": "LEGION",
+        "rarity": 4,
+        "description": "E6C1132644FF1D955786E0916F8038B2",
+        "image": "iconAddon_iridescentButton"
+    },
+    {
+        "id": 669,
+        "index": "FUMING_MIX_TAPE",
+        "name": "3FA2207E45DE7980EE059794A179BB1D",
+        "owner": "LEGION",
+        "rarity": 4,
+        "description": "5CBD67484058F2A79487368B98D05085",
+        "image": "iconAddon_fumingMixtape"
+    },
+    {
+        "id": 700,
+        "index": "PRAYER_TABLET_FRAGMENT",
+        "name": "5509F3F349EB2E14E99CA495ABB9CA24",
+        "owner": "PLAGUE",
+        "rarity": 0,
+        "description": "7DCA78D34A5BE8CD9B1DAAA444A098CD",
+        "image": "iconAddon_prayerTabletFragment"
+    },
+    {
+        "id": 701,
+        "index": "OLIBANUM_INCENSE",
+        "name": "471CFD3944E5732C2977919EF0BDEFA5",
+        "owner": "PLAGUE",
+        "rarity": 0,
+        "description": "3D887526479B0D3B79639E99D820B5DF",
+        "image": "iconAddon_olibanumIncense"
+    },
+    {
+        "id": 702,
+        "index": "LIMESTONE_SEAL",
+        "name": "EEF263274779721345E6CEB192EC3231",
+        "owner": "PLAGUE",
+        "rarity": 0,
+        "description": "BABE5D404BE553F40DC9E5801A0E3ECD",
+        "image": "iconAddon_limestoneSeal"
+    },
+    {
+        "id": 703,
+        "index": "HEALING_SALVE",
+        "name": "FC1531B94FEE3600AC861BA33E8B55AC",
+        "owner": "PLAGUE",
+        "rarity": 0,
+        "description": "E96E8B45423B5349797E3196F51FB38F",
+        "image": "iconAddon_healingSalve"
+    },
+    {
+        "id": 704,
+        "index": "PROPHYLACTIC_AMULET",
+        "name": "8C54D425439D51335BFDFBBAEF030B60",
+        "owner": "PLAGUE",
+        "rarity": 1,
+        "description": "57D3721D4DE24BCC37DEB389C7D2578D",
+        "image": "iconAddon_prophylacticAmulet"
+    },
+    {
+        "id": 705,
+        "index": "POTENT_TINCTURE",
+        "name": "D5CC8C604AA1E9C0C76E7CA6AEF6230F",
+        "owner": "PLAGUE",
+        "rarity": 1,
+        "description": "73A12DBD44D144EF95F55FBEE1BC8DEB",
+        "image": "iconAddon_potentTincture"
+    },
+    {
+        "id": 706,
+        "index": "HEMATITE_SEAL",
+        "name": "D56D471F46399CA84E2F6EA371D84BE2",
+        "owner": "PLAGUE",
+        "rarity": 1,
+        "description": "64A7215141A96380F2ECABB146B74A6F",
+        "image": "iconAddon_hematiteSeal"
+    },
+    {
+        "id": 707,
+        "index": "EMETIC_POTION",
+        "name": "4A6C3F44456545054289499D792366DF",
+        "owner": "PLAGUE",
+        "rarity": 1,
+        "description": "EA9B838E4A492F20BF6849AFFDEF23DE",
+        "image": "iconAddon_emeticPotion"
+    },
+    {
+        "id": 708,
+        "index": "BLESSED_APPLE",
+        "name": "647443354F02F207FF60F599A7A7C569",
+        "owner": "PLAGUE",
+        "rarity": 1,
+        "description": "66FE13624121600B1219A58BCB94FB28",
+        "image": "iconAddon_prayerApple"
+    },
+    {
+        "id": 709,
+        "index": "RUBBING_OIL",
+        "name": "45EEBCF24C7552BA34BFD6AD53964835",
+        "owner": "PLAGUE",
+        "rarity": 2,
+        "description": "99AA14474F75400F295688AC9DFA185D",
+        "image": "iconAddon_rubbingOil"
+    },
+    {
+        "id": 710,
+        "index": "INFECTED_EMETIC",
+        "name": "697C68114ABE612D4901D18C8A602A84",
+        "owner": "PLAGUE",
+        "rarity": 2,
+        "description": "248CA68A47003BA42CFC41BB04504103",
+        "image": "iconAddon_infectedEmetic"
+    },
+    {
+        "id": 711,
+        "index": "INCENSED_OINTMENT",
+        "name": "32352AE14E1ABB9DAAA5E2BD4210CE3C",
+        "owner": "PLAGUE",
+        "rarity": 2,
+        "description": "EEF05F44428ED50EF956B69F9B78D6DB",
+        "image": "iconAddon_incensedOintment"
+    },
+    {
+        "id": 712,
+        "index": "EXORCISM_AMULET",
+        "name": "77A53A744B0330A73B27FDA77621DEDD",
+        "owner": "PLAGUE",
+        "rarity": 2,
+        "description": "A7816017480D48CB51286BAACE66238D",
+        "image": "iconAddon_exorcismAmulet"
+    },
+    {
+        "id": 713,
+        "index": "ASHEN_APPLE",
+        "name": "D248F2874D036E46A6EFD2AE4420598A",
+        "owner": "PLAGUE",
+        "rarity": 2,
+        "description": "489037D84EA410C9179CA389654436AD",
+        "image": "iconAddon_ashenApple"
+    },
+    {
+        "id": 714,
+        "index": "WORSHIP_TABLET",
+        "name": "2985A77B4382864EA02D2494F3E68395",
+        "owner": "PLAGUE",
+        "rarity": 3,
+        "description": "69311C9544E7A1E251DDAA8378700D66",
+        "image": "iconAddon_worshipTablet"
+    },
+    {
+        "id": 715,
+        "index": "VILE_EMETIC",
+        "name": "DF3118764F5A16E6666BBBBA1B2859D9",
+        "owner": "PLAGUE",
+        "rarity": 3,
+        "description": "86D7D9834EF180263E4ED0BD5125B5B5",
+        "image": "iconAddon_vileEmetic"
+    },
+    {
+        "id": 716,
+        "index": "SEVERED_TOE",
+        "name": "8455291A44BA18CB8EAAF185A13D66DE",
+        "owner": "PLAGUE",
+        "rarity": 3,
+        "description": "77170C5840EC54472448BAA81CC09540",
+        "image": "iconAddon_severedToe"
+    },
+    {
+        "id": 717,
+        "index": "DEVOTEES_AMULET",
+        "name": "72A212C94720D4E3FBE93783ED67550F",
+        "owner": "PLAGUE",
+        "rarity": 3,
+        "description": "0E56399141EF565009BA36BEF73721EA",
+        "image": "iconAddon_devoteesAmulet"
+    },
+    {
+        "id": 718,
+        "index": "IRIDESCENT_SEAL",
+        "name": "913407094FD9623B36F5DF8510BB759C",
+        "owner": "PLAGUE",
+        "rarity": 4,
+        "description": "45C0ED7745EACA7FEAC15889204602BE",
+        "image": "iconAddon_IridescentSeal"
+    },
+    {
+        "id": 719,
+        "index": "BLACK_INCENSE",
+        "name": "F440B3234D2CE1B74CC5B4A7D5E36A57",
+        "owner": "PLAGUE",
+        "rarity": 4,
+        "description": "1924874E49C5801E49E726AAF21C9096",
+        "image": "iconAddon_blackIncense"
+    },
+    {
+        "id": 750,
+        "index": "PHILLY",
+        "name": "B761CFAD431429A5D3DFB4BC86DA12BE",
+        "owner": "GHOST",
+        "rarity": 0,
+        "description": "BD7DA31F462FA7E12E82F996268328F0",
+        "image": "iconAddon_philly"
+    },
+    {
+        "id": 751,
+        "index": "WALLEYES_MATCHBOOK",
+        "name": "A9C3874F4AA44E7517044991B81817EA",
+        "owner": "GHOST",
+        "rarity": 0,
+        "description": "D0CAACCA4B68A597C719359A04E859E9",
+        "image": "iconAddon_walleyesMatchbook"
+    },
+    {
+        "id": 752,
+        "index": "HEADLINES_CUTOUTS",
+        "name": "67DC97BE4FE92CE6040486A72E39A7EE",
+        "owner": "GHOST",
+        "rarity": 0,
+        "description": "8004C5B04AD5903D2B3B43B5624F5E01",
+        "image": "iconAddon_headlinesCutouts"
+    },
+    {
+        "id": 753,
+        "index": "CHEAP_COLOGNE",
+        "name": "5B8B46AE4FA1AB93DDA256B9CC08BAD5",
+        "owner": "GHOST",
+        "rarity": 0,
+        "description": "B55237BD4BF00A705B8D5A9994BEA6C2",
+        "image": "iconAddon_cheapCologne"
+    },
+    {
+        "id": 754,
+        "index": "TELEPHOTO_LENS",
+        "name": "20AB1BE34CE579B332A294B912B2B705",
+        "owner": "GHOST",
+        "rarity": 1,
+        "description": "305F5C394BCB18366CEC109DBF8B6B38",
+        "image": "iconAddon_telephotoLens"
+    },
+    {
+        "id": 755,
+        "index": "OLSENS_JOURNAL",
+        "name": "ECE520024F884D20E98F11A6ED9665FE",
+        "owner": "GHOST",
+        "rarity": 1,
+        "description": "0CF0724F444F1CD1246970A8FB00D705",
+        "image": "iconAddon_olsensJournal"
+    },
+    {
+        "id": 756,
+        "index": "OLSENS_ADDRESS_BOO",
+        "name": "59440B8A4E6799D513F550B998FE54DE",
+        "owner": "GHOST",
+        "rarity": 1,
+        "description": "92B016A14F0986C37626539C3C8513D0",
+        "image": "iconAddon_olsensAddressBook"
+    },
+    {
+        "id": 757,
+        "index": "MARKED_MAP",
+        "name": "BAE6A1EB4A03FE22E3B091A4B8E89ED4",
+        "owner": "GHOST",
+        "rarity": 1,
+        "description": "3F54E011497FA4127AE11499CF503988",
+        "image": "iconAddon_markedMap"
+    },
+    {
+        "id": 758,
+        "index": "CINCH_STRAPS",
+        "name": "602611EE4203966A68E365929562AFE4",
+        "owner": "GHOST",
+        "rarity": 1,
+        "description": "1E25D90342080A394E2247AEAAAA8C87",
+        "image": "iconAddon_reusuableCinchStraps"
+    },
+    {
+        "id": 759,
+        "index": "OLSENS_WALLET",
+        "name": "E742D56E44AAF20346B66AB28F2AEEE5",
+        "owner": "GHOST",
+        "rarity": 2,
+        "description": "1DF5D98C4A860B09292A669A816C3F2E",
+        "image": "iconAddon_olsensWallet"
+    },
+    {
+        "id": 760,
+        "index": "LEATHER_KNIFE_SHEATH",
+        "name": "0408A5834CB63D571BD3EC82AF8DC3A3",
+        "owner": "GHOST",
+        "rarity": 2,
+        "description": "9569453C4D58F3594E7901A90D4CF451",
+        "image": "iconAddon_leatherKnifeSheath"
+    },
+    {
+        "id": 761,
+        "index": "LASTING_PERFUME",
+        "name": "762B7F104295AF79C5C399AC948F7F7D",
+        "owner": "GHOST",
+        "rarity": 2,
+        "description": "722018414AFE2832DE3214AC999E8B98",
+        "image": "iconAddon_lastingPerfume"
+    },
+    {
+        "id": 762,
+        "index": "KNIFE_BELT_CLIP",
+        "name": "26A03D0446ED2FEE846380925A86A0E1",
+        "owner": "GHOST",
+        "rarity": 2,
+        "description": "F105C29E4050F2417E70358B62688EE5",
+        "image": "iconAddon_knifeBeltClip"
+    },
+    {
+        "id": 763,
+        "index": "CHEWED_PEN",
+        "name": "57344B5D4A8AB88A3AD369BF685A5A6D",
+        "owner": "GHOST",
+        "rarity": 2,
+        "description": "7F9E584D459CBDBA4D59E3BFB31204F4",
+        "image": "iconAddon_chewedPen"
+    },
+    {
+        "id": 764,
+        "index": "VICTIMS_DETAILED_ROUTINE",
+        "name": "5C40B93A47711F63AF424F8CB8F4A9C4",
+        "owner": "GHOST",
+        "rarity": 3,
+        "description": "2D09CD164029699B2A4FA08BFECBE540",
+        "image": "iconAddon_victimsDetailedRoutine"
+    },
+    {
+        "id": 765,
+        "index": "NIGHT_VISION_MONOCULAR",
+        "name": "BB0D7716404BDFB3E75A4FB0ED4FB7A6",
+        "owner": "GHOST",
+        "rarity": 3,
+        "description": "BE25BD45432A9E84D1A698AC74AA799F",
+        "image": "iconAddon_nightvisionMoncular"
+    },
+    {
+        "id": 766,
+        "index": "DROP_LEG_KNIFE_SHEATH",
+        "name": "4FD8A79A4B7F12A194555AB7F4B07CB3",
+        "owner": "GHOST",
+        "rarity": 3,
+        "description": "F88F2B3E4A4DB062B9A9C0B9505FD097",
+        "image": "iconAddon_dropLegKnifeSheath"
+    },
+    {
+        "id": 767,
+        "index": "DRIVERS_LICENSE",
+        "name": "D310137748F1899517D9699AE96E9047",
+        "owner": "GHOST",
+        "rarity": 3,
+        "description": "29492EA24F2C623FC10B3BAD3DCDDD34",
+        "image": "iconAddon_driversLicense"
+    },
+    {
+        "id": 768,
+        "index": "CAUGHT_ON_TAPE",
+        "name": "048D6AFF44DED2396CDE0A9394087089",
+        "owner": "GHOST",
+        "rarity": 4,
+        "description": "0091982847FB96BBB436D28001E6A23C",
+        "image": "iconAddon_caughtOnTape"
+    },
+    {
+        "id": 769,
+        "index": "OUTDOOR_SECURITY_CAMERA",
+        "name": "A5384887480736A89688C491F3344506",
+        "owner": "GHOST",
+        "rarity": 4,
+        "description": "2AD85BD74BA9B4618EE36B9DDB4F4182",
+        "image": "iconAddon_outdoorSecurityCamera"
+    },
+    {
+        "id": 800,
+        "index": "ROTTEN_PUMPKIN",
+        "name": "0D27F68D4626D50A6ADAC4B57D351513",
+        "owner": "DEMOGORGON",
+        "rarity": 0,
+        "description": "54E438C2487292A453386F8C01A9FCEF",
+        "image": "iconAddon_rottenPumpkin"
+    },
+    {
+        "id": 801,
+        "index": "RAT_TAIL",
+        "name": "DBD30B914A191674C7EE1EB3E3172DA3",
+        "owner": "DEMOGORGON",
+        "rarity": 0,
+        "description": "7565A83944224E5FF231108C6539A002",
+        "image": "iconAddon_ratTail"
+    },
+    {
+        "id": 802,
+        "index": "RAT_LIVER",
+        "name": "07D609E44ED728AFEDBBCE93B1C3C9E8",
+        "owner": "DEMOGORGON",
+        "rarity": 0,
+        "description": "0673C1C0454840A17DEB01A14FBAF7BE",
+        "image": "iconAddon_ratLiver"
+    },
+    {
+        "id": 803,
+        "index": "BLACK_HEART",
+        "name": "570A52414C8A2C7EB8F0F6911C64DBF9",
+        "owner": "DEMOGORGON",
+        "rarity": 0,
+        "description": "6A6E1350495B2078C1B395AD83E8DB13",
+        "image": "iconAddon_blackHeart"
+    },
+    {
+        "id": 804,
+        "index": "VISCOUS_WEBBING",
+        "name": "35E43DC54F5A3E78859B8397A4AE7C8D",
+        "owner": "DEMOGORGON",
+        "rarity": 1,
+        "description": "E9AA22E74A86703EDEBD4483BA241DC8",
+        "image": "iconAddon_viscousWebbing"
+    },
+    {
+        "id": 805,
+        "index": "STICKY_LINING",
+        "name": "60ECACFF49D301CE38EF19B9ECA982AB",
+        "owner": "DEMOGORGON",
+        "rarity": 1,
+        "description": "73E1F3524346FE436A25EFB0BDD72BF9",
+        "image": "iconAddon_stickyLining"
+    },
+    {
+        "id": 806,
+        "index": "ROTTEN_GREEN_TRIPE",
+        "name": "381FD63447101368613B8FA1D1F3C090",
+        "owner": "DEMOGORGON",
+        "rarity": 1,
+        "description": "460F7A4047697FA4810B818614819C07",
+        "image": "iconAddon_rottenGreenTripe"
+    },
+    {
+        "id": 807,
+        "index": "MEWS_GUTS",
+        "name": "B32548AF4D5C85CC2FF57882B668F948",
+        "owner": "DEMOGORGON",
+        "rarity": 1,
+        "description": "39AB051E46A039CF816721A5FEB7EA3B",
+        "image": "iconAddon_mewsGuts"
+    },
+    {
+        "id": 808,
+        "index": "BARBS_GLASSES",
+        "name": "9627005041A06662CA98179EDC86520A",
+        "owner": "DEMOGORGON",
+        "rarity": 1,
+        "description": "28FBD196410EFBBBF408FB9213385C7D",
+        "image": "iconAddon_barbsGlasses"
+    },
+    {
+        "id": 809,
+        "index": "VIOLET_WAXCAP",
+        "name": "6D9A122C4E4A239334D83883D1D2C6EF",
+        "owner": "DEMOGORGON",
+        "rarity": 2,
+        "description": "91A10D794FE4CDB53AA74CA72B506DF4",
+        "image": "iconAddon_violetWaxcap"
+    },
+    {
+        "id": 810,
+        "index": "THORNY_VINES",
+        "name": "6DBD1ABB45D1B9C594AFA79562BC86DD",
+        "owner": "DEMOGORGON",
+        "rarity": 2,
+        "description": "37CF44CE47226C01B89729A0F9B1527F",
+        "image": "iconAddon_thornyVines"
+    },
+    {
+        "id": 811,
+        "index": "ELEVENS_SODA",
+        "name": "16F0A6FD47F57E618D3949834798ACE7",
+        "owner": "DEMOGORGON",
+        "rarity": 2,
+        "description": "9958B21D4C2723C2C474D3842AF0ED75",
+        "image": "iconAddon_elevensSoda"
+    },
+    {
+        "id": 812,
+        "index": "DEER_LUNG",
+        "name": "BE634FE547197FEC81398DB647AF833B",
+        "owner": "DEMOGORGON",
+        "rarity": 2,
+        "description": "7B7D88764EB854DB214707A515C9D022",
+        "image": "iconAddon_deerLung"
+    },
+    {
+        "id": 813,
+        "index": "BRASS_CASE_LIGHTER",
+        "name": "96F599E34C23227BC2CACE9D7FB680C2",
+        "owner": "DEMOGORGON",
+        "rarity": 2,
+        "description": "4302DD20481709E457ED24982930498F",
+        "image": "iconAddon_brassCaseLighter"
+    },
+    {
+        "id": 814,
+        "index": "VERMILLION_WEBCAP",
+        "name": "83839ABA442C49663A2E128250CD8EE9",
+        "owner": "DEMOGORGON",
+        "rarity": 3,
+        "description": "1958FDC249BFD3519961AFA5D4A04166",
+        "image": "iconAddon_vermillionWebcap"
+    },
+    {
+        "id": 815,
+        "index": "UPSIDE_DOWN_RESIN",
+        "name": "19E652094458E906F2AAB6ABBB8C6316",
+        "owner": "DEMOGORGON",
+        "rarity": 3,
+        "description": "545950D5470F979BD94803BF444297EC",
+        "image": "iconAddon_upsidedownResin"
+    },
+    {
+        "id": 816,
+        "index": "UNKNOWN_EGG",
+        "name": "7F81A3574492C4BF24C68B8795AFFC13",
+        "owner": "DEMOGORGON",
+        "rarity": 3,
+        "description": "7B88857F4D1EDE356E0A60AAC0B684B6",
+        "image": "iconAddon_unknownEgg"
+    },
+    {
+        "id": 817,
+        "index": "LIFEGUARD_WHISTLE",
+        "name": "C2C6875F4103BC823C90D98C94C08158",
+        "owner": "DEMOGORGON",
+        "rarity": 3,
+        "description": "D773DFCA40A94547B7E4F793CAF9C09E",
+        "image": "iconAddon_lifeguardWhistle"
+    },
+    {
+        "id": 818,
+        "index": "RED_MOSS",
+        "name": "9D8271144482A9FAC9C095BD6173ADC7",
+        "owner": "DEMOGORGON",
+        "rarity": 4,
+        "description": "9C07F49F4F33E80EFB27C4ABF585B0B8",
+        "image": "iconAddon_redMoss"
+    },
+    {
+        "id": 819,
+        "index": "LEPROSE_LICHEN",
+        "name": "8AEFA0694E11B3768834E9AA0FFBD511",
+        "owner": "DEMOGORGON",
+        "rarity": 4,
+        "description": "C9006C9A45889B5A344CAC837CEA0C3D",
+        "image": "iconAddon_leproseLichen"
+    },
+    {
+        "id": 850,
+        "index": "YAKUYOKE_TALISMAN",
+        "name": "518132234B8ABECADEA4669846B6E9C7",
+        "owner": "ONI",
+        "rarity": 0,
+        "description": "DBB196E6426C89BE2B08F69C472B73E4",
+        "image": "iconAddon_paperLantern"
+    },
+    {
+        "id": 851,
+        "index": "ROTTING_ROPE",
+        "name": "8CB7FBBF4FD067BC5C8EB0A97111A7E0",
+        "owner": "ONI",
+        "rarity": 0,
+        "description": "EFC63293466AA528D9C834BEA3D45272",
+        "image": "iconAddon_rottingRope"
+    },
+    {
+        "id": 852,
+        "index": "CRACKED_SAKAZUKI",
+        "name": "C8FF65C8451C4B08D888A990EBB13441",
+        "owner": "ONI",
+        "rarity": 0,
+        "description": "7E6624E446A27A61DC5C5E9E7EAFA608",
+        "image": "iconAddon_crackedSakazuki"
+    },
+    {
+        "id": 853,
+        "index": "BLACKENED_TOENAIL",
+        "name": "80DDFEE8477E901F14AABAA907B7808A",
+        "owner": "ONI",
+        "rarity": 0,
+        "description": "0A7CC0F44DA07EE05B21AD8BD6B240E7",
+        "image": "iconAddon_blackenedToenail"
+    },
+    {
+        "id": 854,
+        "index": "POLISHED_MAEDATE",
+        "name": "38BE4B044E1F0FE6DE2779ADA8190C21",
+        "owner": "ONI",
+        "rarity": 1,
+        "description": "C592D79C45B10F02C0A02184399F942B",
+        "image": "iconAddon_polishedMaedate"
+    },
+    {
+        "id": 855,
+        "index": "INK_LION",
+        "name": "9655F61940D3FE6BE44901885756A8D4",
+        "owner": "ONI",
+        "rarity": 1,
+        "description": "F8958C92476AC028F51F4A8F31C0B4AA",
+        "image": "iconAddon_inkLion"
+    },
+    {
+        "id": 856,
+        "index": "CHIPPED_SAIHAI",
+        "name": "EA4F844F438E1CCF87457984BAEA744B",
+        "owner": "ONI",
+        "rarity": 1,
+        "description": "FA18FD034251679538BD9A90655FAF82",
+        "image": "iconAddon_chippedSaihai"
+    },
+    {
+        "id": 857,
+        "index": "CHILDS_WOODEN_SWORD",
+        "name": "1389D2074A60C976ACCA729D4C84BAD9",
+        "owner": "ONI",
+        "rarity": 1,
+        "description": "6B54962047A8CB79CC37CB862136F0ED",
+        "image": "iconAddon_childsWoodenSword"
+    },
+    {
+        "id": 858,
+        "index": "BLOODY_SASH",
+        "name": "FD763631470EA5A6801201B440ECE7A6",
+        "owner": "ONI",
+        "rarity": 1,
+        "description": "1D14C06A46D7ED1B234FBA87FF28E748",
+        "image": "iconAddon_bloodySash"
+    },
+    {
+        "id": 859,
+        "index": "YAMAOKA_SASHIMONO",
+        "name": "7A42225743E1236A38A870BA2FE13678",
+        "owner": "ONI",
+        "rarity": 2,
+        "description": "A4BE36574AE6ED1F9A9614B6204F18C0",
+        "image": "iconAddon_yamaokaSashimono"
+    },
+    {
+        "id": 860,
+        "index": "WOODEN_ONI_MASK",
+        "name": "F7A85C004717FDB2CF57A3AAEE4BF3F3",
+        "owner": "ONI",
+        "rarity": 2,
+        "description": "F3AFD3F342732BBCE6FDF89DDD6288B6",
+        "image": "iconAddon_woodenOniMask"
+    },
+    {
+        "id": 861,
+        "index": "SHATTERED_WAKAZASHI",
+        "name": "6FCBEC174827D864463773B9CFC786DE",
+        "owner": "ONI",
+        "rarity": 2,
+        "description": "FC0D6EDF45547C2C4908E085B7297223",
+        "image": "iconAddon_shatteredWakizashi"
+    },
+    {
+        "id": 862,
+        "index": "SCALPED_TOPKNOT",
+        "name": "973A11B0423684D3A610608341AA0338",
+        "owner": "ONI",
+        "rarity": 2,
+        "description": "61C6059348A2ADDBBF3F80B52B866EC8",
+        "image": "iconAddon_scalpedTopknot"
+    },
+    {
+        "id": 863,
+        "index": "KANAIANZEN_TALISMAN",
+        "name": "A2F13770462367486CE0F1B56B8BE60E",
+        "owner": "ONI",
+        "rarity": 2,
+        "description": "E99E4206423668FBA0F5CF82169C4E04",
+        "image": "iconAddon_kanaianzenTalisman"
+    },
+    {
+        "id": 864,
+        "index": "TEAR_SOAKED_TENUGUI",
+        "name": "0C33245047E277F6A9A68D9A4BF31014",
+        "owner": "ONI",
+        "rarity": 3,
+        "description": "635032D943EE16624772A8AC892C729C",
+        "image": "iconAddon_tearSoakedTenugui"
+    },
+    {
+        "id": 865,
+        "index": "SPLINTERED_HULL",
+        "name": "FB26314F4959269DFAD94C9BB3BF73EE",
+        "owner": "ONI",
+        "rarity": 3,
+        "description": "16051A604CB76C5D4F7D72B324A71D7E",
+        "image": "iconAddon_splinteredHull"
+    },
+    {
+        "id": 866,
+        "index": "LION_FANG",
+        "name": "D875426B483A788FABCC93A9E432ADF4",
+        "owner": "ONI",
+        "rarity": 3,
+        "description": "1054394548F136480065829CBA702039",
+        "image": "iconAddon_lionFang"
+    },
+    {
+        "id": 867,
+        "index": "AKITOS_CRUTCH",
+        "name": "6CDC8FC4433BC0431D8A52AC751AE05F",
+        "owner": "ONI",
+        "rarity": 3,
+        "description": "9FFD24DE4BEB8A9965A76192F4272A0F",
+        "image": "iconAddon_akitosCrutch"
+    },
+    {
+        "id": 868,
+        "index": "RENJIROS_BLOODY_GLOVE",
+        "name": "00BCF8EE40DEC6E983C690A0724E0A36",
+        "owner": "ONI",
+        "rarity": 4,
+        "description": "23EA289A4C794793141F35B3E228DEF7",
+        "image": "iconAddon_renirosBloodyGlove"
+    },
+    {
+        "id": 869,
+        "index": "IRIDESCENT_FAMILY_CREST",
+        "name": "493DA26544EF2CDA69B9E79207CB4FCD",
+        "owner": "ONI",
+        "rarity": 4,
+        "description": "F8592F534F464D27EC2BD6919A66422C",
+        "image": "iconAddon_IridescentFamilyCrest"
+    },
+    {
+        "id": 900,
+        "index": "SPIT_POLISH_RAG",
+        "name": "6CD6569F46613A0D0A51138F3BE09A45",
+        "owner": "DEATHSLINGER",
+        "rarity": 0,
+        "description": "6AD91D2947CD7789573000AEC845DF70",
+        "image": "iconAddon_spitPolishRag"
+    },
+    {
+        "id": 901,
+        "index": "SNAKE_OIL",
+        "name": "ACAD1E18421633C4E35B7E823BF4CDD8",
+        "owner": "DEATHSLINGER",
+        "rarity": 0,
+        "description": "37E599D3425AAAF8AF556A8CD916B421",
+        "image": "iconAddon_snakeOil"
+    },
+    {
+        "id": 902,
+        "index": "RICKETY_CHAIN",
+        "name": "5D60805347D96AF472C3F490A6E0FE5A",
+        "owner": "DEATHSLINGER",
+        "rarity": 0,
+        "description": "6B9C081E46005AA8A5B0039A3139E4C0",
+        "image": "iconAddon_ricketyChain"
+    },
+    {
+        "id": 903,
+        "index": "MODIFIED_AMMO_BELT",
+        "name": "43095D984349CD5440B477A9B963A045",
+        "owner": "DEATHSLINGER",
+        "rarity": 0,
+        "description": "B3769E4C4646B836001C6781B2FB6EE1",
+        "image": "iconAddon_modifiedAmmoBelt"
+    },
+    {
+        "id": 904,
+        "index": "RUSTED_SPIKE",
+        "name": "E25A8BC94F1F1C14ACFA2A945A160125",
+        "owner": "DEATHSLINGER",
+        "rarity": 1,
+        "description": "50DD23EF420E7375F694C4AC76BDF92B",
+        "image": "iconAddon_rustedSpike"
+    },
+    {
+        "id": 905,
+        "index": "POISON_OAK_LEAVES",
+        "name": "ED7592C14D67B003E049D4B62B1A9762",
+        "owner": "DEATHSLINGER",
+        "rarity": 1,
+        "description": "4FDD1D2B4EFF5700313A96A98A9615DB",
+        "image": "iconAddon_poisonOakLeaves"
+    },
+    {
+        "id": 906,
+        "index": "MARSHALS_BADGE",
+        "name": "6762211440FA7CDFE652E8830FBECCDF",
+        "owner": "DEATHSLINGER",
+        "rarity": 1,
+        "description": "7FD83D1A4DC794E3863EAF935FFB1EEE",
+        "image": "iconAddon_marshalsBadge"
+    },
+    {
+        "id": 907,
+        "index": "JAW_SMASHER",
+        "name": "50B3916A407E8849D8405382543A0E0B",
+        "owner": "DEATHSLINGER",
+        "rarity": 1,
+        "description": "0977B9B34FD48FC03BD59C8A2CFD9182",
+        "image": "iconAddon_jawSmasher"
+    },
+    {
+        "id": 908,
+        "index": "CHEWING_TOBACCO",
+        "name": "DB70F45744B0B1CFFACD2784CCEAF044",
+        "owner": "DEATHSLINGER",
+        "rarity": 1,
+        "description": "E22586584DCEF1C58FE244944254F5AD",
+        "image": "iconAddon_chewingTobacco"
+    },
+    {
+        "id": 909,
+        "index": "WARDENS_KEYS",
+        "name": "758A98024706FBB15993C3BCA0B0143B",
+        "owner": "DEATHSLINGER",
+        "rarity": 2,
+        "description": "C5C2A9C2493652E66B90A887B81F94BC",
+        "image": "iconAddon_wardensKeys"
+    },
+    {
+        "id": 910,
+        "index": "WANTED_POSTER",
+        "name": "F43D3AD24D27ACD780A80E85CFB9179C",
+        "owner": "DEATHSLINGER",
+        "rarity": 2,
+        "description": "CE5DFAA54AAD64EE7DF4FFA1B09403DE",
+        "image": "iconAddon_wantedPoster"
+    },
+    {
+        "id": 911,
+        "index": "TIN_OIL_CAN",
+        "name": "8362B49441DBBD4F07A6C69C6CCDF78A",
+        "owner": "DEATHSLINGER",
+        "rarity": 2,
+        "description": "7D7DF4EB476108155B69B98996779D85",
+        "image": "iconAddon_tinOilCan"
+    },
+    {
+        "id": 912,
+        "index": "HONEY_LOCUST_THORNS",
+        "name": "7389C70C4695AEACA860E1A774308221",
+        "owner": "DEATHSLINGER",
+        "rarity": 2,
+        "description": "F6A954B4459D6C561CE4379FCB1353A6",
+        "image": "iconAddon_honeyLocustThorns"
+    },
+    {
+        "id": 913,
+        "index": "BAYSHORES_GOLD_TOOTH",
+        "name": "6F2037874FF78B910F0A508183AF62E0",
+        "owner": "DEATHSLINGER",
+        "rarity": 2,
+        "description": "D0B8D76449DB8360FC3DBDB9ECB07A3F",
+        "image": "iconAddon_bayshoresGoldTooth"
+    },
+    {
+        "id": 914,
+        "index": "PRISON_CHAIN",
+        "name": "02D2B0A540665AA0529C85B151E94252",
+        "owner": "DEATHSLINGER",
+        "rarity": 3,
+        "description": "F73F6AB7483E2A733FF558B5FCCFDE6C",
+        "image": "iconAddon_prisonChain"
+    },
+    {
+        "id": 915,
+        "index": "GOLD_CREEK_WHISKEY",
+        "name": "534C75BC4A9C592E63A58C8E412A1FD0",
+        "owner": "DEATHSLINGER",
+        "rarity": 3,
+        "description": "1CF8EB7F46C7D7A94753559FD18743B9",
+        "image": "iconAddon_clearCreekWhiskey"
+    },
+    {
+        "id": 916,
+        "index": "BAYSHORES_CIGAR",
+        "name": "6668699D46F4BFEE1B455EB2C1B98099",
+        "owner": "DEATHSLINGER",
+        "rarity": 3,
+        "description": "9AF6836745E59CEBDD8EF29CF1C0835F",
+        "image": "iconAddon_bayshoresCigar"
+    },
+    {
+        "id": 917,
+        "index": "BARBED_WIRE",
+        "name": "03C747684362A62332B19B971A93BA7A",
+        "owner": "DEATHSLINGER",
+        "rarity": 3,
+        "description": "7C591D7646FF086D2F48AE8F1BB93336",
+        "image": "iconAddon_barbedWire"
+    },
+    {
+        "id": 918,
+        "index": "IRIDESCENT_COIN",
+        "name": "507939004D70BD5F88396EB3F1817FCC",
+        "owner": "DEATHSLINGER",
+        "rarity": 4,
+        "description": "5C24A81D42CF3B2D65CBABAB84CFF8B4",
+        "image": "iconAddon_iridescentCoin"
+    },
+    {
+        "id": 919,
+        "index": "HELLSHIRE_IRON",
+        "name": "A21273884A575290FA64D7A3C465E6A8",
+        "owner": "DEATHSLINGER",
+        "rarity": 4,
+        "description": "560F4F7943AE6CBDA24BD8B810AD383E",
+        "image": "iconAddon_hellshireIron"
+    },
+    {
+        "id": 950,
+        "index": "LEAD_RING",
+        "name": "D53C3458481948290D849D8DC3151305",
+        "owner": "EXECUTIONER",
+        "rarity": 0,
+        "description": "AA8F9ADD45767D28DE6C53A9DE403714",
+        "image": "iconAddon_leadRing"
+    },
+    {
+        "id": 951,
+        "index": "DEAD_BUTTERFLY",
+        "name": "0C2355654DB696BEAE18EFAECA398347",
+        "owner": "EXECUTIONER",
+        "rarity": 0,
+        "description": "4F63ACD343520EBC0A768E877D60F050",
+        "image": "iconAddon_deadButterfly"
+    },
+    {
+        "id": 952,
+        "index": "COPPER_RING",
+        "name": "8092E5DF464443A68103E298409C037D",
+        "owner": "EXECUTIONER",
+        "rarity": 0,
+        "description": "A66BE4B6414FA2F24ADFFB8DA32165D0",
+        "image": "iconAddon_copperRing"
+    },
+    {
+        "id": 953,
+        "index": "BLACK_STRAP",
+        "name": "6C81423C4EADE134A41C4F8FD5A793DC",
+        "owner": "EXECUTIONER",
+        "rarity": 0,
+        "description": "918CE6A142CD3698FA65C3B28A39378B",
+        "image": "iconAddon_blackStrap"
+    },
+    {
+        "id": 954,
+        "index": "WAX_DOLL",
+        "name": "3FA75AB94BF2FF72279A2D95D1BCD91B",
+        "owner": "EXECUTIONER",
+        "rarity": 1,
+        "description": "2C327D9947D20F20C2B4CBA639A30541",
+        "image": "iconAddon_waxDoll"
+    },
+    {
+        "id": 955,
+        "index": "SPEARHEAD",
+        "name": "5FEC187A439CF3F4ECC2DAB3EC6BAE60",
+        "owner": "EXECUTIONER",
+        "rarity": 1,
+        "description": "D172AD144487B699A4ECF69C38C7DCD3",
+        "image": "iconAddon_spearhead"
+    },
+    {
+        "id": 956,
+        "index": "LEOPARD_PRINT_FABRIC",
+        "name": "BE30B37C453BAF00158CE08FADD5D7B7",
+        "owner": "EXECUTIONER",
+        "rarity": 1,
+        "description": "1CB9DF3843DB027063D1558E6EDE01A0",
+        "image": "iconAddon_leopardPrintFabric"
+    },
+    {
+        "id": 957,
+        "index": "FORGOTTEN_VIDEOTAPE",
+        "name": "5635DD734983E1A9C6371887FE9AE1B1",
+        "owner": "EXECUTIONER",
+        "rarity": 1,
+        "description": "E5B6598142BB17FB72D52BACA2998B66",
+        "image": "iconAddon_forgottenVideoTape"
+    },
+    {
+        "id": 958,
+        "index": "CINDERELLA_MUSIC_BOX",
+        "name": "0212BF7846C1DC0C674350981B95D588",
+        "owner": "EXECUTIONER",
+        "rarity": 1,
+        "description": "07413E1440F15881CAD22B98747C72D8",
+        "image": "iconAddon_cinderellaMusicBox"
+    },
+    {
+        "id": 959,
+        "index": "VALTIEL_SECT_PHOTOGRAPH",
+        "name": "99B12153436FF2B7F8C316BF36D13DAD",
+        "owner": "EXECUTIONER",
+        "rarity": 2,
+        "description": "B3A2BC7842C1F1B8D0459B9F985B4C4C",
+        "image": "iconAddon_valtielSectPhotograph"
+    },
+    {
+        "id": 960,
+        "index": "TABLET_OF_THE_OPPRESSOR",
+        "name": "AA5E978E4237C60AFEDF538C9F9B251E",
+        "owner": "EXECUTIONER",
+        "rarity": 2,
+        "description": "635D6C114C73680B10DCC4A2670ACBAD",
+        "image": "iconAddon_tabletOfTheOppressor"
+    },
+    {
+        "id": 961,
+        "index": "MISTY_DAY_REMAINS_OF_JUDGMENT",
+        "name": "B8D2566A43403FDDD34599B214AF0554",
+        "owner": "EXECUTIONER",
+        "rarity": 2,
+        "description": "FD4B78624DE12E91604D058E932364B9",
+        "image": "iconAddon_mistyDay"
+    },
+    {
+        "id": 962,
+        "index": "MANNEQUIN_FOOT",
+        "name": "43E83CD04E97D3AFA076D5AE8E9E2D10",
+        "owner": "EXECUTIONER",
+        "rarity": 2,
+        "description": "D2CB2BD74E0FC3B445639FA34A234352",
+        "image": "iconAddon_mannequinFoot"
+    },
+    {
+        "id": 963,
+        "index": "BURNING_MAN_PAINTING",
+        "name": "A48F14A94B56564184C23EB4A5DB9FBD",
+        "owner": "EXECUTIONER",
+        "rarity": 2,
+        "description": "79A28E0C479D61EC6C3B0392B0A2DC71",
+        "image": "iconAddon_burningManPainting"
+    },
+    {
+        "id": 964,
+        "index": "SCARLET_EGG",
+        "name": "FE7C61A74693A73554C758A82723F4DB",
+        "owner": "EXECUTIONER",
+        "rarity": 3,
+        "description": "C8BE5D7242D619E076BDBD9DC1A8654D",
+        "image": "iconAddon_scarletEgg"
+    },
+    {
+        "id": 965,
+        "index": "RUST_COLORED_EGG",
+        "name": "886D3EFD45143EA7530065B547BE3705",
+        "owner": "EXECUTIONER",
+        "rarity": 3,
+        "description": "196C92784A05FAA9BA5F309B88D7F428",
+        "image": "iconAddon_rustColoredEgg"
+    },
+    {
+        "id": 966,
+        "index": "LOST_MEMORIES_BOOK",
+        "name": "54F4809141670C5E686079847914BD8F",
+        "owner": "EXECUTIONER",
+        "rarity": 3,
+        "description": "BC77FD8040639ABDD55E5CB4114A1B69",
+        "image": "iconAddon_lostMemoriesBook"
+    },
+    {
+        "id": 967,
+        "index": "CRIMSON_CEREMONY_COOK",
+        "name": "AB0662164FED79A2DA3A4FAD20610CD7",
+        "owner": "EXECUTIONER",
+        "rarity": 3,
+        "description": "A26566FF4608A2A8500F279EB184C5AE",
+        "image": "iconAddon_crimsonCeremonyBook"
+    },
+    {
+        "id": 968,
+        "index": "OBSIDIAN_GOBLET",
+        "name": "96B36C074C2E813DF8B33BA95205045A",
+        "owner": "EXECUTIONER",
+        "rarity": 4,
+        "description": "B366ED934763E3A393C449BEED24F23E",
+        "image": "iconAddon_obsidianGoblet"
+    },
+    {
+        "id": 969,
+        "index": "IRIDESCENT_SEAL_OF_METATRON",
+        "name": "43F797E24692BB62834A76950A4E6118",
+        "owner": "EXECUTIONER",
+        "rarity": 4,
+        "description": "4ED73802486A49476A2AF1815A8EEAE3",
+        "image": "iconAddon_IridescentSeal"
+    },
+    {
+        "id": 1000,
+        "index": "PLACEBO_TABLET",
+        "name": "9857CA65467DACB5F8498FB77FFE4559",
+        "owner": "BLIGHT",
+        "rarity": 0,
+        "description": "981B66C04EAE3FB046025496D91E8B67",
+        "image": "iconAddon_placeboTablet"
+    },
+    {
+        "id": 1001,
+        "index": "FOXGLOVE",
+        "name": "109FDB5B49BD124144B6199AE1EF5317",
+        "owner": "BLIGHT",
+        "rarity": 0,
+        "description": "FCC7BDDD4F64093519D110BD3CCAE45A",
+        "image": "iconAddon_foxglove"
+    },
+    {
+        "id": 1002,
+        "index": "COMPOUND_SEVEN",
+        "name": "949E2AE048972F1EE85443901E2B22BD",
+        "owner": "BLIGHT",
+        "rarity": 0,
+        "description": "134F9BA9482A49E239BE7F879193ACC9",
+        "image": "iconAddon_compoundSeven"
+    },
+    {
+        "id": 1003,
+        "index": "CHIPPED_MONOCLE",
+        "name": "07B7378946DC3A93BDFD92B647FE855B",
+        "owner": "BLIGHT",
+        "rarity": 0,
+        "description": "2AE7383441250B49D65175B37EBDEC25",
+        "image": "iconAddon_chippedMonocle"
+    },
+    {
+        "id": 1004,
+        "index": "SHREDDED_NOTES",
+        "name": "63DE534841226D0848A02ABD4A5364CC",
+        "owner": "BLIGHT",
+        "rarity": 1,
+        "description": "791E608D4C592648E49FD2BC018FDB84",
+        "image": "iconAddon_shreddedNotes"
+    },
+    {
+        "id": 1005,
+        "index": "PUSTULA_DUST",
+        "name": "968B00E043F341453F8F40B05E9B6A39",
+        "owner": "BLIGHT",
+        "rarity": 1,
+        "description": "34C7948E492556469A126A84EF0000C4",
+        "image": "iconAddon_pustulaDust"
+    },
+    {
+        "id": 1006,
+        "index": "PLAGUE_BILE",
+        "name": "0A1E0D2A4C4CF3DB07CAAD852A3E3F80",
+        "owner": "BLIGHT",
+        "rarity": 1,
+        "description": "AB724F47492041F3875696A79748D713",
+        "image": "iconAddon_plagueBile"
+    },
+    {
+        "id": 1007,
+        "index": "CANKER_THORN",
+        "name": "1B3B8C844230C3B000EE65BA790120B3",
+        "owner": "BLIGHT",
+        "rarity": 1,
+        "description": "D2C3F11547A34D1DA9896D8D7A3CF986",
+        "image": "iconAddon_cankerThorn"
+    },
+    {
+        "id": 1008,
+        "index": "BLIGHTED_RAT",
+        "name": "DFE072A0491C35F13933EAB868CAF203",
+        "owner": "BLIGHT",
+        "rarity": 1,
+        "description": "68A7ED2840A2D54BCED54597ACE18BCA",
+        "image": "iconAddon_blightedRat"
+    },
+    {
+        "id": 1009,
+        "index": "UMBRA_SALTS",
+        "name": "C7F634514F20C9210E8A13B9114063C5",
+        "owner": "BLIGHT",
+        "rarity": 2,
+        "description": "D883CED14E0CF1C74B664BA446401DA9",
+        "image": "iconAddon_umbraSalts"
+    },
+    {
+        "id": 1010,
+        "index": "ROSE_TONIC",
+        "name": "E27AAA2B4A6A1F8006EF85BB37D1A3F0",
+        "owner": "BLIGHT",
+        "rarity": 2,
+        "description": "539F9A1B4D25711651EC4282894ECDAC",
+        "image": "iconAddon_roseTonic"
+    },
+    {
+        "id": 1011,
+        "index": "COMPOUND_TWENTY_ONE",
+        "name": "D4B3D19D4185768A7153EA90DC8F6D52",
+        "owner": "BLIGHT",
+        "rarity": 2,
+        "description": "11BA7C1A4CC7B22CF13F93964EFC3990",
+        "image": "iconAddon_compoundTwentyOne"
+    },
+    {
+        "id": 1012,
+        "index": "BLIGHTED_CROW",
+        "name": "077A348F4FFAE009552E70AF434D928A",
+        "owner": "BLIGHT",
+        "rarity": 2,
+        "description": "15EE5F9E48DB8F18CC6B919858AB5B72",
+        "image": "iconAddon_blightedCrow"
+    },
+    {
+        "id": 1013,
+        "index": "ADRENALINE_VIAL",
+        "name": "D0C4665C4DE7BDCCDC29EA9A671A500B",
+        "owner": "BLIGHT",
+        "rarity": 2,
+        "description": "5B205388419A471E32969CBC8E90A307",
+        "image": "iconAddon_adrenalineVial"
+    },
+    {
+        "id": 1014,
+        "index": "VIGOS_JOURNAL",
+        "name": "69D9B8DA49B2BF1DAA04C4B22EAF526B",
+        "owner": "BLIGHT",
+        "rarity": 3,
+        "description": "FA1E37D14454B39B42295FB9FAC278FB",
+        "image": "iconAddon_vigosJournal"
+    },
+    {
+        "id": 1015,
+        "index": "SUMMONING_STONE",
+        "name": "1FA39DFC49F2677C2FFFE9A8E9D94825",
+        "owner": "BLIGHT",
+        "rarity": 3,
+        "description": "24E3D0C8499E6F1E72C030A54050204D",
+        "image": "iconAddon_summoningStone"
+    },
+    {
+        "id": 1016,
+        "index": "SOUL_CHEMICAL",
+        "name": "CA0C520B4F399E3A3FCD59B397A72EB8",
+        "owner": "BLIGHT",
+        "rarity": 3,
+        "description": "8FEE832C490AE3CC4D5D72AAAA203B1D",
+        "image": "iconAddon_soulChemical"
+    },
+    {
+        "id": 1017,
+        "index": "ALCHEMISTS_RING",
+        "name": "CD7826F04651232A8E7067B53F0C31D6",
+        "owner": "BLIGHT",
+        "rarity": 3,
+        "description": "7E2C8089454B87ECF44E0A9C04DBB955",
+        "image": "iconAddon_alchemistsRing"
+    },
+    {
+        "id": 1018,
+        "index": "IRIDESCENT_BLIGHT_TAG",
+        "name": "7AA21F954D26D08AD28445A490462D41",
+        "owner": "BLIGHT",
+        "rarity": 4,
+        "description": "1B76FB8340EACD0F51829DAF9A5208D5",
+        "image": "iconAddon_iridescentBlightTag"
+    },
+    {
+        "id": 1019,
+        "index": "COMPOUND_THIRTY_THREE",
+        "name": "B62FD48144F2DAFA2ECD068E66B8CE5E",
+        "owner": "BLIGHT",
+        "rarity": 4,
+        "description": "C2A5D597439C5E223B9480A4E91FCE14",
+        "image": "iconAddon_compoundThirtyThree"
+    },
+    {
+        "id": 1050,
+        "index": "TOY_SWORD",
+        "name": "3C31BC2646DF28363FF50599346B5953",
+        "owner": "TWINS",
+        "rarity": 0,
+        "description": "2B8CC06A4E8BB4565E13A18720360170",
+        "image": "iconAddon_toySword"
+    },
+    {
+        "id": 1051,
+        "index": "TINY_FINGERNAIL",
+        "name": "B3A34F7D4CE3463B2FF494BBDFA37149",
+        "owner": "TWINS",
+        "rarity": 0,
+        "description": "424999A24C43FBD391023C98CC29B9B6",
+        "image": "iconAddon_tinyFingernail"
+    },
+    {
+        "id": 1052,
+        "index": "SOURED_MILK",
+        "name": "C854B60442A4BCB335BF8DA37AD7FA00",
+        "owner": "TWINS",
+        "rarity": 0,
+        "description": "2ABBFFCA459B7F797093319DEB81ACED",
+        "image": "iconAddon_souredMilk"
+    },
+    {
+        "id": 1053,
+        "index": "CAT_FIGURINE",
+        "name": "014369AD4B593500E8F9E8961C900CE3",
+        "owner": "TWINS",
+        "rarity": 0,
+        "description": "CB44C0444518F06A0B0495A992F1726D",
+        "image": "iconAddon_catFigurine"
+    },
+    {
+        "id": 1054,
+        "index": "MADELEINES_GLOVE",
+        "name": "57A1EEB440AA9847FE0648A83D5C633C",
+        "owner": "TWINS",
+        "rarity": 1,
+        "description": "71A7231D485136B2B054E592FF9E95FA",
+        "image": "iconAddon_madeleinesGlove"
+    },
+    {
+        "id": 1055,
+        "index": "CEREMONIAL_CANDELABRUM",
+        "name": "2EE5B831492186C4448F27924D574F37",
+        "owner": "TWINS",
+        "rarity": 1,
+        "description": "35A3E19C4374E7923C6E33A945EAFFC9",
+        "image": "iconAddon_ceremonialCandelabrum"
+    },
+    {
+        "id": 1056,
+        "index": "CATS_EYE",
+        "name": "A88617044CB1B12ECEEC91AC3F6F0A2C",
+        "owner": "TWINS",
+        "rarity": 1,
+        "description": "0E359EF74D50A3398411B1A148023076",
+        "image": "iconAddon_catsEye"
+    },
+    {
+        "id": 1057,
+        "index": "BLOODY_BLACK_HOOD",
+        "name": "5CBFF78F4F9103EB8D6DD6B353E0E6AA",
+        "owner": "TWINS",
+        "rarity": 1,
+        "description": "231067004BFC0FB4AD096293F0C7C7B8",
+        "image": "iconAddon_bloodiedBlackHood"
+    },
+    {
+        "id": 1058,
+        "index": "BABY_TEETH",
+        "name": "5523ACE34B7482EFD91D25B3EE595D4B",
+        "owner": "TWINS",
+        "rarity": 1,
+        "description": "E34D6B46444C94B28C32ABA1A985E8BD",
+        "image": "iconAddon_babyTeeth"
+    },
+    {
+        "id": 1059,
+        "index": "WEIGHTY_RATTLE",
+        "name": "C68321DF488D9C3E0F237F9FF32659BE",
+        "owner": "TWINS",
+        "rarity": 2,
+        "description": "8DD1DB6E478F2F874BE21F804F3D1065",
+        "image": "iconAddon_weightyRattle"
+    },
+    {
+        "id": 1060,
+        "index": "STALE_BISCUIT",
+        "name": "1D200E2D475EFD1E2E50EAAFA8C168EE",
+        "owner": "TWINS",
+        "rarity": 2,
+        "description": "7A851564485586D813E0A5A145ECD30F",
+        "image": "iconAddon_staleBiscuit"
+    },
+    {
+        "id": 1061,
+        "index": "SEWER_SLUDGE",
+        "name": "0D8DF18B454E4ABC6D4FA5BC346B83A7",
+        "owner": "TWINS",
+        "rarity": 2,
+        "description": "FD5BAB5E45D6A3DEA73FA0A5FF8E7D76",
+        "image": "iconAddon_sewerSludge"
+    },
+    {
+        "id": 1062,
+        "index": "RUSTED_NEEDLE",
+        "name": "8840D8F441993E39EBDCF0BAE5BF53EE",
+        "owner": "TWINS",
+        "rarity": 2,
+        "description": "8840D8F441993E39EBDCF0BAE5BF53EE",
+        "image": "iconAddon_rustedNeedle"
+    },
+    {
+        "id": 1063,
+        "index": "MADELEINES_SCARF",
+        "name": "4AB76D1547DC60382C2C2F9AEDC6BE23",
+        "owner": "TWINS",
+        "rarity": 2,
+        "description": "F38D8BB341DBE923AA93A697B8FFECCE",
+        "image": "iconAddon_madeleinesScarf"
+    },
+    {
+        "id": 1064,
+        "index": "VICTORS_SOLDIER",
+        "name": "3F6AE7A44B541F88A168169F27B61C07",
+        "owner": "TWINS",
+        "rarity": 3,
+        "description": "BA9773A6490BC8C5965C929F8A293CAE",
+        "image": "iconAddon_victorsSoldier"
+    },
+    {
+        "id": 1065,
+        "index": "SPINNING_TOP",
+        "name": "1CF750734A1C683B1685ACB3D8E2A8A9",
+        "owner": "TWINS",
+        "rarity": 3,
+        "description": "EFD4900D4B87EC73098D26984E51275A",
+        "image": "iconAddon_spinningTop"
+    },
+    {
+        "id": 1066,
+        "index": "FOREST_STEW",
+        "name": "52DA93DF4F7C7C9BC593BB8E089372CE",
+        "owner": "TWINS",
+        "rarity": 3,
+        "description": "C6A0198C41912CA491E5568AD28B37B1",
+        "image": "iconAddon_forestStew"
+    },
+    {
+        "id": 1067,
+        "index": "DROP_OF_PERFUME",
+        "name": "56EC89AB4479E6F1489AF991D2315CE9",
+        "owner": "TWINS",
+        "rarity": 3,
+        "description": "B44CBD474B5AA54D3D12F39FF4A9C110",
+        "image": "iconAddon_dropOfPerfume"
+    },
+    {
+        "id": 1068,
+        "index": "SILENCING_CLOTH",
+        "name": "303962464509F4E3871A19932F68C802",
+        "owner": "TWINS",
+        "rarity": 4,
+        "description": "34815B564CF2FF4957BAD7B70CFB831D",
+        "image": "iconAddon_silencingCloth"
+    },
+    {
+        "id": 1069,
+        "index": "IRIDESCENT_PENDANT",
+        "name": "5276DA9F45AE84321F0F93AD0E99ABC6",
+        "owner": "TWINS",
+        "rarity": 4,
+        "description": "09BE77E245DE6F8C508CB99FE00FF428",
+        "image": "iconAddon_iridescentPendant"
+    },
+    {
+        "id": 1100,
+        "index": "TRICK_POUCH",
+        "name": "DF8045494EA1D00DA8489EB5FDEFE618",
+        "owner": "TRICKSTER",
+        "rarity": 0,
+        "description": "6314B82E4615D93C962C0FB13BB00480",
+        "image": "icons_Addon_TrickPouch"
+    },
+    {
+        "id": 1101,
+        "index": "MEMENTO_BLADES",
+        "name": "63A764AD469032DABCE65395A6AF707F",
+        "owner": "TRICKSTER",
+        "rarity": 0,
+        "description": "9CA7F407432E8F4BE1F286828AD41EF7",
+        "image": "icons_Addon_MementoBlades"
+    },
+    {
+        "id": 1102,
+        "index": "KILLING_PART_CHORDS",
+        "name": "42A3949B42868B5759657DA17DC6C9C3",
+        "owner": "TRICKSTER",
+        "rarity": 0,
+        "description": "4514681A403420850A6DBEA4EC077685",
+        "image": "icons_Addon_KillingPartChords"
+    },
+    {
+        "id": 1103,
+        "index": "INFERNO_WIRES",
+        "name": "2CD074204F360DD0E2BA07892218E21D",
+        "owner": "TRICKSTER",
+        "rarity": 0,
+        "description": "E8CBE5E6426EF5637012468C6B8986D5",
+        "image": "icons_Addon_InfernoWires"
+    },
+    {
+        "id": 1104,
+        "index": "TEQUILA_MOONROCK",
+        "name": "19B61AC848A0FD69C68A3E9EF4655D6E",
+        "owner": "TRICKSTER",
+        "rarity": 1,
+        "description": "9BCD56FC4AED5B5A97F9818792B7840E",
+        "image": "icons_Addon_TequilaMoonrock"
+    },
+    {
+        "id": 1105,
+        "index": "ON_TARGET_SINGLE",
+        "name": "B3AF5C5849AD022A7DED50BE85C5360F",
+        "owner": "TRICKSTER",
+        "rarity": 1,
+        "description": "3B8DAFAE4509592A426E0196E8D47A34",
+        "image": "icons_Addon_OnTargetSingle"
+    },
+    {
+        "id": 1106,
+        "index": "LUCKY_BLADE",
+        "name": "8CC3758C4040E8FC9BE71B888F0557D8",
+        "owner": "TRICKSTER",
+        "rarity": 1,
+        "description": "0713BCA04CDF923E96B4969B351C1696",
+        "image": "icons_Addon_LuckyBlade"
+    },
+    {
+        "id": 1107,
+        "index": "JI_WOONS_AUTOGRAPH",
+        "name": "1C325748418BE2A8DBC28E96AFB4D51B",
+        "owner": "TRICKSTER",
+        "rarity": 1,
+        "description": "D703D9C94A5059E5742E6BA6998B873E",
+        "image": "icons_Addon_JiWoonsAutograph"
+    },
+    {
+        "id": 1108,
+        "index": "CAGED_HEART_SHOES",
+        "name": "794DDD334CD861781C246F8EAF5DF48C",
+        "owner": "TRICKSTER",
+        "rarity": 1,
+        "description": "A10A0428430644356746B7A088416C62",
+        "image": "icons_Addon_CagedHeartShoes"
+    },
+    {
+        "id": 1109,
+        "index": "WAITING_FOR_YOU_WATCH",
+        "name": "BF7645604997DADB1A6CF3BC66C2A655",
+        "owner": "TRICKSTER",
+        "rarity": 2,
+        "description": "BB213D924E798A430C4D48A6FD7A8101",
+        "image": "icons_Addon_WaitingForYouWatch"
+    },
+    {
+        "id": 1110,
+        "index": "RIPPER_BRACE",
+        "name": "B9DA7328409DDEC07E437EAF30BB53BF",
+        "owner": "TRICKSTER",
+        "rarity": 2,
+        "description": "B66B1E634D8A039057CB1984C6C587C5",
+        "image": "icons_Addon_RipperBrace"
+    },
+    {
+        "id": 1111,
+        "index": "MELODIOUS_MURDER",
+        "name": "7D6415A0448DA157FF19DDB95F5BAE56",
+        "owner": "TRICKSTER",
+        "rarity": 2,
+        "description": "8AADECD64A4563E3BF0128BB1EBDEB52",
+        "image": "icons_Addon_KillingPartChords"
+    },
+    {
+        "id": 1112,
+        "index": "FIZZ_SPIN_SODA",
+        "name": "BA3451754D4B497475C74484842E7D16",
+        "owner": "TRICKSTER",
+        "rarity": 2,
+        "description": "3BCEAA3B435F6402164CCE8F42A1A81C",
+        "image": "icons_Addon_FizzSpinSoda"
+    },
+    {
+        "id": 1113,
+        "index": "BLOODY_BOA",
+        "name": "AC305F944D548AEE6D3C84BD8226C38D",
+        "owner": "TRICKSTER",
+        "rarity": 2,
+        "description": "3C6C0F9941732A1C0E1E40BC5574BE6C",
+        "image": "icons_Addon_BloodyBoa"
+    },
+    {
+        "id": 1114,
+        "index": "TRICK_BLADES",
+        "name": "794AB9C948CD513E822C18A4BC608F2B",
+        "owner": "TRICKSTER",
+        "rarity": 3,
+        "description": "DF690F7B4B2D239979DDCFB9D6A8C226",
+        "image": "icons_Addon_TrickBlades"
+    },
+    {
+        "id": 1115,
+        "index": "EDGE_OF_REVIVAL_ALBUM",
+        "name": "551D0DE549F34138767E9B90E9AE6D56",
+        "owner": "TRICKSTER",
+        "rarity": 3,
+        "description": "5710EE444200D5CC552F03A0A85D029E",
+        "image": "icons_Addon_EdgeOfRevivalAlbum"
+    },
+    {
+        "id": 1116,
+        "index": "DIAMOND_CUFFLINKS",
+        "name": "D42537314D044DD9C45DA79CA0AB69F6",
+        "owner": "TRICKSTER",
+        "rarity": 3,
+        "description": "A6F8E89C40B1960CA4A0BAA1BC39D642",
+        "image": "icons_Addon_DiamondCufflinks"
+    },
+    {
+        "id": 1117,
+        "index": "CUT_THRU_U_SINGLE",
+        "name": "218318364EC913A12C3090971EB33BC6",
+        "owner": "TRICKSTER",
+        "rarity": 3,
+        "description": "E4D5B8D147431F3F4AE47083C5379114",
+        "image": "icons_Addon_CutThruUsingle"
+    },
+    {
+        "id": 1118,
+        "index": "IRIDESCENT_PHOTOCARD",
+        "name": "83DFDF10492141AC24C1B2B83030B515",
+        "owner": "TRICKSTER",
+        "rarity": 4,
+        "description": "92B266F648D2BDA80AD14FADB9331D1B",
+        "image": "icons_Addon_IridescentPhotocard"
+    },
+    {
+        "id": 1119,
+        "index": "DEATH_THROES_COMPILATION",
+        "name": "35053A364AEC2289581F5FAE84E1DA44",
+        "owner": "TRICKSTER",
+        "rarity": 4,
+        "description": "7EC84E374B51C2571199D2B7159D0A24",
+        "image": "icons_Addon_DeathThroesCompilation"
+    },
+    {
+        "id": 1150,
+        "index": "VISITOR_WRISTBAND",
+        "name": "8B856FC843FF09F6855D1680BFD8A1BA",
+        "owner": "NEMESIS",
+        "rarity": 0,
+        "description": "A0E6230A44957F892C8D6BB1644D4964",
+        "image": "iconAddon_visitorWristband"
+    },
+    {
+        "id": 1151,
+        "index": "STARS_FIELD_COMBAT_MANUAL",
+        "name": "0F543DA940C64F3F8C684B9BA4767B39",
+        "owner": "NEMESIS",
+        "rarity": 0,
+        "description": "B32324EB4B34A7CC07E94989C139395A",
+        "image": "iconAddon_starsFieldCombatManual"
+    },
+    {
+        "id": 1152,
+        "index": "DAMAGED_SYRINGE",
+        "name": "13C046E14FA26E5842E68B8EC000DB89",
+        "owner": "NEMESIS",
+        "rarity": 0,
+        "description": "6D9ACF6343ED98D1E2E2F1B794F1D58F",
+        "image": "iconAddon_damagedSyringe"
+    },
+    {
+        "id": 1153,
+        "index": "BRIANS_INTESTINE",
+        "name": "4979E1D049828347CF9D55B029EB0487",
+        "owner": "NEMESIS",
+        "rarity": 0,
+        "description": "095C970744BBB03CEA3FFA98D9621A35",
+        "image": "iconAddon_briansIntestines"
+    },
+    {
+        "id": 1154,
+        "index": "ZOMBIE_HEART",
+        "name": "A8421FEA4906D83FD2D96B902D692D1C",
+        "owner": "NEMESIS",
+        "rarity": 1,
+        "description": "28E03C504F8C8876CABB8EB7503DFA47",
+        "image": "iconAddon_zombieHeart"
+    },
+    {
+        "id": 1155,
+        "index": "MIKHAILS_EYES",
+        "name": "EE3ED73C4F8FB05518B7BABCF3641B93",
+        "owner": "NEMESIS",
+        "rarity": 1,
+        "description": "148BC7E94566D82FE528EF9578392BD3",
+        "image": "iconAddon_mikhailsEye"
+    },
+    {
+        "id": 1156,
+        "index": "MARVINS_BLOOD",
+        "name": "9A5FDE4E4DFFE094BF3CAABCAD19812E",
+        "owner": "NEMESIS",
+        "rarity": 1,
+        "description": "C2BBD9D240462D6967A54C9BC1120D1F",
+        "image": "iconAddon_marvinsBlood"
+    },
+    {
+        "id": 1157,
+        "index": "ADRENALINE_INJECTOR",
+        "name": "179D0AFD460719AC5F35A48592DE278F",
+        "owner": "NEMESIS",
+        "rarity": 1,
+        "description": "6BD5B2014D00B0E22AE887885A990C80",
+        "image": "iconAddon_adrenalineInjector"
+    },
+    {
+        "id": 1158,
+        "index": "ADMIN_WRISTBAND",
+        "name": "841452484067705287947087C3A253F8",
+        "owner": "NEMESIS",
+        "rarity": 1,
+        "description": "1806BF3B43D0E964B85BAB928C7DC7EF",
+        "image": "iconAddon_adminWristband"
+    },
+    {
+        "id": 1159,
+        "index": "TYRANT_GORE",
+        "name": "EB265914466C123E7AAC43AFD0927CEE",
+        "owner": "NEMESIS",
+        "rarity": 2,
+        "description": "04D698A6434B97A5065F118DC49CFE1E",
+        "image": "iconAddon_tyrantGore"
+    },
+    {
+        "id": 1160,
+        "index": "T_VIRUS_SAMPLE",
+        "name": "D8437E7A49B70C02771E3CB667842E30",
+        "owner": "NEMESIS",
+        "rarity": 2,
+        "description": "1FB0915946B4DBC30EB474A10797C42E",
+        "image": "iconAddon_TVirusSample"
+    },
+    {
+        "id": 1161,
+        "index": "SEROTONIN_INJECTOR",
+        "name": "5ED413C547EBF58771009CAF3F2808D9",
+        "owner": "NEMESIS",
+        "rarity": 2,
+        "description": "DE8B00F8444630233B55E588D5A8B4F9",
+        "image": "iconAddon_serotoninInjector"
+    },
+    {
+        "id": 1162,
+        "index": "PLANT_43_VINES",
+        "name": "3ADD01D44D6B0CB244467ABD0FD559CF",
+        "owner": "NEMESIS",
+        "rarity": 2,
+        "description": "A22F2E2346F7AA5F03E4CD98F6A251C6",
+        "image": "iconAddon_plant43Vines"
+    },
+    {
+        "id": 1163,
+        "index": "LICKER_TONGUE",
+        "name": "20CE2E914871CE44BF93C29900541409",
+        "owner": "NEMESIS",
+        "rarity": 2,
+        "description": "27CF2F0B4B7CEDC7DB80D49B9A40F1B6",
+        "image": "iconAddon_lickerTongue"
+    },
+    {
+        "id": 1164,
+        "index": "NE_A_PARSITE",
+        "name": "C91C75FD4C70C534A10C7CA7584FA88F",
+        "owner": "NEMESIS",
+        "rarity": 3,
+        "description": "837DDEA04BBB3FAF6E9F0DA62BAA13C6",
+        "image": "iconAddon_neaParasite"
+    },
+    {
+        "id": 1165,
+        "index": "JILLS_SANDWICH",
+        "name": "BBC109B144C62DB6CA32B8B2E2DE2E98",
+        "owner": "NEMESIS",
+        "rarity": 3,
+        "description": "94E6889D492E52DB85CD4B8E5BCFA232",
+        "image": "iconAddon_jillSandwich"
+    },
+    {
+        "id": 1166,
+        "index": "DEPLETED_INK_RIBBON",
+        "name": "CBDC9CD349025C3A9BD77087BB8F4186",
+        "owner": "NEMESIS",
+        "rarity": 3,
+        "description": "F7890113469781D0EC105397964860E9",
+        "image": "iconAddon_depletedInkRibbon"
+    },
+    {
+        "id": 1167,
+        "index": "BROKEN_RECOVERY_COIN",
+        "name": "EC2965F248BBF776758BB290ADD0CE55",
+        "owner": "NEMESIS",
+        "rarity": 3,
+        "description": "D129DADA4D7B20AFA7A78488C280769B",
+        "image": "iconAddon_brokenRecoveryCoin"
+    },
+    {
+        "id": 1168,
+        "index": "SHATTERED_STARS_BADGE",
+        "name": "62118999484EEA05D875D3835540AF24",
+        "owner": "NEMESIS",
+        "rarity": 4,
+        "description": "3A3A72694918282079983B9F3DF19FDD",
+        "image": "iconAddon_shatteredStarsBadge"
+    },
+    {
+        "id": 1169,
+        "index": "IRIDESCENT_UMBRELLA_BADGE",
+        "name": "D4D09B824A21891800BF06AC1FDB383D",
+        "owner": "NEMESIS",
+        "rarity": 4,
+        "description": "D6A445BD47F81E14336975BEE0B2286E",
+        "image": "iconAddon_iridescentUmbrellaBadge"
+    }
+]

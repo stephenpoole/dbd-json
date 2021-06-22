@@ -1,0 +1,2265 @@
+[
+    {
+        "description": "오라를 감지하는 잠재력을 끌어낸다. 발전기가 수리 완료될 때마다, 수리 완료된 발전기로부터 <span class=\"Highlight1\">{0}미터</span> 안에 있는 생존자들의 오라를 <span class=\"Highlight2\">{1}초</span> 동안 볼 수 있다.<br>출구에 전원이 공급되면, 모든 생존자들의 오라를 <span class=\"Highlight1\">{2}초</span> 동안 볼 수 있다.",
+        "name": "격렬한 중얼거림",
+        "id": 1,
+        "index": "BITTER_MURMUR",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_bitterMurmur",
+        "tiers": [
+            [
+                16,
+                5,
+                5
+            ],
+            [
+                16,
+                5,
+                7
+            ],
+            [
+                16,
+                5,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "오라를 감지하는 잠재력을 끌어낸다. <span class=\"Highlight1\">{0}미터</span> 내에 존재하는 빈사 상태 생존자의 오라를 볼 수 있다.",
+        "name": "사슴 사냥꾼",
+        "id": 2,
+        "index": "DEERSTALKER",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_deerstalker",
+        "tiers": [
+            [
+                12
+            ],
+            [
+                24
+            ],
+            [
+                36
+            ]
+        ]
+    },
+    {
+        "description": "당신이 내뿜는 공포는 초자연적일 정도로 먼 거리에서도 느껴진다. 공포 범위가 <span class=\"Highlight1\">{0}%</span> 증가한다. '기만' 항목의 블러드포인트를 <span class=\"Highlight2\">{1}%</span> 더 획득한다. ",
+        "name": "비참함",
+        "flavor": "\"그들이 너를 두려워함을 즐겨라.\"",
+        "id": 3,
+        "index": "DISTRESSING",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_distressing",
+        "tiers": [
+            [
+                22,
+                50
+            ],
+            [
+                24,
+                75
+            ],
+            [
+                26,
+                100
+            ]
+        ]
+    },
+    {
+        "description": "은신 능력이 활성화된다.<br><br><span class=\"Highlight1\">{0}초</span> 동안 움직이지 않으면 <b>감지 불가능</b> 상태 이상이 주어지며, 다시 움직일 때까지 해당 상태가 유지된다.",
+        "name": "기만",
+        "id": 4,
+        "index": "INSIDIOUS",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_insidious",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                3
+            ],
+            [
+                2
+            ]
+        ]
+    },
+    {
+        "description": "희망을 짓뭉개버리는 주술. 생존자들이 도주하려는 찰나에 주술 토템이 당신에게 힘을 불어넣어 준다. <br>출구에 전력이 공급되었을 때 지도에 일반 토템이 남아 있으면, 이 주술이 해당 토템에 적용된다. </br><br>이 주술이 사라질 때까지 <li>생존자들은 <b><i>약점 노출</i></b> 상태 이상에 걸린다. </li><li>당신의 이동 속도는 <span class=\"Highlight1\">{0}%</span> 상승한다. </li><br>주술의 효과는 관련된 주술 토템이 멀쩡한 이상 계속된다. <br>",
+        "name": "주술: 피할 수 없는 죽음",
+        "flavor": "\"또한 야수는 더욱더 빨라지고 더 강해졌다. 마치 엔티티의 보이지 않는 채찍이 녀석의 등을 후려치기라도 하듯이.\"",
+        "id": 5,
+        "index": "HEX_NO_ONE_ESCAPES_DEATH",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_noOneEscapesDeath",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "희망으로부터 힘을 얻는 주술. 생존자의 잘못된 희망이 자신을 흥분시키고 토템을 힘으로 채운다. 일반 토템과 주술 토템이 지도에 남아있는 개수만큼 토큰을 얻는다.<br><li>각 토큰마다 사냥 항목에서 <span class=\"Highlight1\">{0}%</span>의 추가 블러드포인트를 얻는다.</li><li>생존자들의 토템 정화 속도가 각 토큰마다 <span class=\"Highlight2\">{1}%</span> 느려진다.</li><li>누군가 주술 토템을 작동하려고 하면 알림을 받는다.</li><br><i>주술의 효과는 관련 주술 토템이 활성화되어 있는 동안에만 지속한다.</i>",
+        "name": "주술: 사냥의 전율",
+        "id": 6,
+        "index": "HEX_THRILL_OF_THE_HUNT",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_thrillOfTheHunt",
+        "tiers": [
+            [
+                6,
+                4
+            ],
+            [
+                8,
+                5
+            ],
+            [
+                10,
+                6
+            ]
+        ]
+    },
+    {
+        "description": "희생제에 지하실의 갈고리를 이용해 엔티티의 관심을 이끌어낸다. 생존자를 지하실의 갈고리에 매달면 다음과 같은 효과가 발생한다:<br><li>엔티티의 의식 진행 속도가 <span class=\"Highlight1\">{0}%</span> 빨라진다.</li><li>갈고리에서 스스로 탈출할 확률이 <span class=\"Highlight2\">{1}%</span> 감소한다.</li><li>탈출에 실패할 경우 받는 페널티가 <span class=\"Highlight3\">{2}%</span> 증가한다.</li>",
+        "name": "거대한 신전",
+        "flavor": "“심연 속에서 어둠의 존재를 마주할 때, 너는 비로소 탈출구가 존재하지 않음을 알게 될 것이다.”",
+        "id": 7,
+        "index": "MONSTROUS_SHRINE",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_monstrousShrine",
+        "tiers": [
+            [
+                3,
+                5,
+                3
+            ],
+            [
+                6,
+                10,
+                6
+            ],
+            [
+                9,
+                15,
+                9
+            ]
+        ]
+    },
+    {
+        "description": "<span class=\"Highlight\">{0}</span>",
+        "name": "악독한 도살자",
+        "tiers": [
+            [
+                "과다출혈을 일으킬 수 있는 부위를 알게 된다. <i>기본 공격</i>으로 부상당한 생존자는 <b>깊은 상흔</b>과 <b>출혈</b> 상태 이상에 걸리게 된다. 또한, <b>출혈</b>로 인해 생존자의 출혈 빈도가 <span class=\"Highlight1\">약간</span> 증가한다.<br><i>악독한 도살자</i>로 인해 겪는 <b>출혈</b> 상태 이상은 생존자가 완전히 치료되면 없어진다.<br><span class=\"FlavorText\">\"그건 놈들의 본성과도 같아. 단숨에 숨통을 끊지 않고, 고통 속에서 천천히 죽어가는 모습을 지켜보는 걸 좋아하지.\"</span>"
+            ],
+            [
+                "과다출혈을 일으킬 수 있는 부위를 알게 된다. <i>기본 공격</i>으로 부상당한 생존자는 <b>깊은 상흔</b>과 <b>출혈</b> 상태 이상에 걸리게 된다. 또한, <b>출혈</b>로 인해 생존자의 출혈 빈도가 <span class=\"Highlight1\">적당히</span> 증가한다.<br><i>악독한 도살자</i>로 인해 겪는 <b>출혈</b> 상태 이상은 생존자가 완전히 치료되면 없어진다.<br><span class=\"FlavorText\">\"그건 놈들의 본성과도 같아. 단숨에 숨통을 끊지 않고, 고통 속에서 천천히 죽어가는 모습을 지켜보는 걸 좋아하지.\"</span>"
+            ],
+            [
+                "과다출혈을 일으킬 수 있는 부위를 알게 된다. <i>기본 공격</i>으로 부상당한 생존자는 <b>출혈</b> 상태 이상에 걸리게 된다. 또한, <b>출혈</b>로 인해 생존자의 출혈 빈도가 <span class=\"Highlight1\">상당히</span> 증가한다.<br><i>악독한 도살자</i>로 인해 겪는 <b>출혈</b>과 <b>깊은 상흔</b> 상태 이상은 생존자가 완전히 치료되면 없어진다.<br><span class=\"FlavorText\">\"그건 놈들의 본성과도 같아. 단숨에 숨통을 끊지 않고, 고통 속에서 천천히 죽어가는 모습을 지켜보는 걸 좋아하지.\"</span>"
+            ]
+        ],
+        "id": 8,
+        "index": "SLOPPY_BUTCHER",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_sloppyButcher"
+    },
+    {
+        "description": "이 세계의 까마귀들은 살인마와 직접 소통할 수 있다. <span class=\"Highlight2\">{1}미터</span> 내에 존재하는 까마귀가 울음소리를 내며 날아오를 때, <span class=\"Highlight1\">{0}%</span>의 확률로 시각적 알림을 받을 수 있다.<br><i>어둠 속의 첩자</i>는 <span class=\"Highlight3\">{2}초</span>의 재사용 대기시간을 가진다. ",
+        "name": "어둠 속의 첩자",
+        "flavor": "\"어둠 속에서 그것들이 내는 울음소리 하나하나가 정신을 갉아먹는다.\"",
+        "id": 9,
+        "index": "SPIES_FROM_THE_SHADOWS",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_spiesFromTheShadows",
+        "tiers": [
+            [
+                100,
+                20,
+                5
+            ],
+            [
+                100,
+                28,
+                5
+            ],
+            [
+                100,
+                36,
+                5
+            ]
+        ]
+    },
+    {
+        "description": "통상 공격이 빗나갔을 때, 다음을 기약하며 재정비한다. 빗나간 <i>기본 공격</i> 이후의 경직이 <span class=\"Highlight1\">{0}%</span> 감소한다.",
+        "name": "가차없는 공격",
+        "id": 10,
+        "index": "UNRELENTING",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_unrelenting",
+        "tiers": [
+            [
+                20
+            ],
+            [
+                25
+            ],
+            [
+                30
+            ]
+        ]
+    },
+    {
+        "description": "미약하지만 엔티티의 속삭임을 이해할 수 있다. 생존자가 <span class=\"Highlight1\">{0}미터</span> 내에 있을 때, 엔티티의 속삭임이 들린다.<br>",
+        "name": "속삭임",
+        "flavor": "\"안개의 실체가 무엇인지는 몰라도, 확실한 건 그것이 살인마의 편을 더 많이 들어준다는 것이다.\" -낡은 수첩",
+        "id": 11,
+        "index": "WHISPERS",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_whispers",
+        "tiers": [
+            [
+                48
+            ],
+            [
+                40
+            ],
+            [
+                32
+            ]
+        ]
+    },
+    {
+        "description": "사냥감이 내쉬는 호흡에 민감해진다. 부상당한 생존자의 신음이 <span class=\"Highlight1\">{0}%</span> 더 크게 들리고, 건강한 상태의 생존자의 숨소리가 <span class=\"Highlight2\">{1}%</span> 더 크게 들린다. <br>",
+        "name": "천식",
+        "flavor": "“숨을 죽여, 그녀가 그렇게 만들기 전에.”",
+        "id": 12,
+        "index": "STRIDOR",
+        "owner": "NURSE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_stridor",
+        "tiers": [
+            [
+                25,
+                0
+            ],
+            [
+                50,
+                0
+            ],
+            [
+                50,
+                25
+            ]
+        ]
+    },
+    {
+        "description": "피할 수 없는 죽음이 한 발자국씩 다가옴에 따라 그들의 용기도 사그라져간다.<br>부상, 빈사 상태나 갈고리에 걸린 모든 생존자 수에 따라 발전기 수리, 파괴 공작 및 토템 정화 속도가 <span class=\"Highlight1\">{0}%</span> 느려지며, 최대 <span class=\"Highlight1\">{1}%</span>까지 느려진다.",
+        "name": "사망 공포증",
+        "flavor": "\"그녀는 우릴 가지고 놀며 고통받는 모습을 즐기지.\"",
+        "id": 13,
+        "index": "THANATOPHOBIA",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NURSE",
+        "image": "iconPerks_thatanophobia",
+        "tiers": [
+            [
+                4,
+                16
+            ],
+            [
+                4.5,
+                18
+            ],
+            [
+                5,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "오라를 감지하는 잠재력을 끌어낸다. <span class=\"Highlight1\">{0}미터</span> 내에 있는 치료 중이거나, 치료받는 생존자의 오라를 볼 수 있다.<br>",
+        "name": "간호사의 소명",
+        "flavor": "“그녀에게 각인된 전생의 기억들이, 도움이 필요한 사람들에게 그녀를 이끈다.”",
+        "id": 14,
+        "index": "A_NURSES_CALLING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NURSE",
+        "image": "iconPerks_aNursesCalling",
+        "tiers": [
+            [
+                20
+            ],
+            [
+                24
+            ],
+            [
+                28
+            ]
+        ]
+    },
+    {
+        "description": "당신의 존재만으로도 공포가 스며들게 한다. 공포 범위 내에 있는 생존자들은 수리 또는 치료 하는 동안 스킬 체크가 발동될 확률이 <span class=\"Highlight1\">{0}%</span> 증가하고, 스킬 체크의 성공 구간이 <span class=\"Highlight2\">{1}%</span> 좁아진다.",
+        "name": "불안한 존재",
+        "flavor": "\"우리는 그 존재감에 압도당했어.\"",
+        "id": 15,
+        "index": "UNNERVING_PRESENCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRAPPER",
+        "image": "iconPerks_unnervingPresence",
+        "tiers": [
+            [
+                10,
+                40
+            ],
+            [
+                10,
+                50
+            ],
+            [
+                10,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "당신의 강력한 완력은 먹잇감의 당신의 방어기제로도 막을 수 없다. <b>사용된 판자</b>와 부서지기 쉬운 문을 부수는 속도와 발전기를 손상시키는 속도가 <span class=\"Highlight1\">{0}%</span> 빨라진다.",
+        "name": "짐승 같은 힘",
+        "flavor": "\"그 괴물의 힘은 근육이 아니라 어둠으로부터 나온다.\"",
+        "id": 16,
+        "index": "BRUTAL_STRENGTH",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRAPPER",
+        "image": "iconPerks_brutalStrength",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                15
+            ],
+            [
+                20
+            ]
+        ]
+    },
+    {
+        "description": "사냥감을 갈고리에 걸 기대감에 달아오른다. 생존자를 들고 있는 동안 이동 속도가 <span class=\"Highlight1\">{0}%</span> 빨라지고 공포 범위가 <span class=\"Highlight2\">{1}미터</span> 넓어진다.<br>",
+        "name": "동요",
+        "flavor": "“지금은 우리를 죽이는 것보다 갈고리에 거는 걸 더 즐기고 있어.”",
+        "id": 17,
+        "index": "AGITATION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRAPPER",
+        "image": "iconPerks_agitation",
+        "tiers": [
+            [
+                6,
+                6
+            ],
+            [
+                12,
+                8
+            ],
+            [
+                18,
+                12
+            ]
+        ]
+    },
+    {
+        "description": "<span class=\"Highlight\">{0}</span>",
+        "name": "포식자",
+        "tiers": [
+            [
+                "날이 선 감각으로 시간이 지나 희미해진 사냥감의 흔적을 찾아낸다.<br>생존자의 발자국이 <span class=\"Highlight1\">약간</span> 서로 가깝게 생성된다.<br><span class=\"FlavorText\">\"무슨 일이 있어도 멈추지 마. 놈에게서 한 발짝이라도 더 멀어져야 해.\" -낡은 수첩</span>"
+            ],
+            [
+                "날이 선 감각으로 시간이 지나 희미해진 사냥감의 흔적을 찾아낸다.<br>생존자의 발자국이 <span class=\"Highlight1\">적당히</span> 서로 가깝게 생성된다.<br><span class=\"FlavorText\">\"무슨 일이 있어도 멈추지 마. 놈에게서 한 발짝이라도 더 멀어져야 해.\" -낡은 수첩</span>"
+            ],
+            [
+                "날이 선 감각으로 시간이 지나 희미해진 사냥감의 흔적을 찾아낸다.<br>생존자의 발자국이 <span class=\"Highlight1\">상당히</span> 서로 가깝게 생성된다.<br><span class=\"FlavorText\">\"무슨 일이 있어도 멈추지 마. 놈에게서 한 발짝이라도 더 멀어져야 해.\" -낡은 수첩</span>"
+            ]
+        ],
+        "id": 18,
+        "index": "PREDATOR",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WRAITH",
+        "image": "iconPerks_predator"
+    },
+    {
+        "description": "마치 사냥개처럼 멀리 있는 피도 냄새로 추적할 수 있다. 신선한 혈흔이 보통 상태보다 <span class=\"Highlight1\">상당히</span> 눈에 잘 보이며 <span class=\"Highlight2\">{0}초</span> 더 오래 지속한다.<br>",
+        "name": "집요한 사냥개",
+        "flavor": "“달빛에 빛나는 조약돌처럼, 내 삶도 방울져 떨어지며 쉽게 따라올 수 있는 흔적을 남긴다.”",
+        "id": 19,
+        "index": "BLOODHOUND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WRAITH",
+        "image": "iconPerks_bloodhound",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "가장 어두운 밤에도 그 눈은 예리한 시야를 잃지 않는다. 시야가 평소보다 <span class=\"Highlight2\">{0}도</span> 넓어진다.<br><i>이 능력은 다른 FOV 증가 능력과 중첩되지 않는다.</i><br>",
+        "name": "그림자의 피조물",
+        "flavor": "“놈의 번뜩이는 눈은, 가장 깊은 어둠을 꿰뚫고 심장을 찌른다.”",
+        "id": 20,
+        "index": "SHADOWBORN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WRAITH",
+        "image": "iconPerks_shadowborn",
+        "tiers": [
+            [
+                9
+            ],
+            [
+                12
+            ],
+            [
+                15
+            ]
+        ]
+    },
+    {
+        "description": "고통에서 빨리 벗어나는 회복력을 가진다. <b>판자 기절</b>의 지속 시간이 <span class=\"Highlight1\">{0}%</span> 감소한다.",
+        "name": "인내심",
+        "flavor": "He stops at nothing.",
+        "id": 21,
+        "index": "ENDURING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HILLBILLY",
+        "image": "iconPerks_enduring",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                45
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "안개 속의 다른 괴물들과는 다르게, 당신은 빛에 적응해 견딜 수 있게 되었다. 또한 당신은 손전등, 폭죽, 섬광탄 및 폭풍형 지뢰로 인한 실명에 면역이 되어 있다. 당신을 실명시키려는 생존자의 오라가 <span class=\"Highlight1\">{0}초</span> 동안 드러난다.",
+        "name": "빛의 피조물",
+        "flavor": "\"이 괴물들은 계속해서 적응하고, 이전엔 볼 수 없었던 기상천외한 특성을 가지고 돌아온다.\" -비고의 일지",
+        "id": 22,
+        "index": "LIGHTBORN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HILLBILLY",
+        "image": "iconPerks_lightborn",
+        "tiers": [
+            [
+                6
+            ],
+            [
+                8
+            ],
+            [
+                10
+            ]
+        ]
+    },
+    {
+        "description": "발전기가 <span class=\"Highlight1\">{0}%</span> 수리되면 큰 소음을 내고 <span class=\"Highlight2\">{2}초</span>동안 <b>감지 불가능</b> 상태 이상이 주어진다.",
+        "name": "땜장이",
+        "flavor": "“힐빌리는 고철을 이용해 인상적인 도구를 만들어 낸다. 창의적인 방식으로 불구를 만드는 도구를...” -수첩",
+        "id": 23,
+        "index": "TINKERER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HILLBILLY",
+        "image": "iconPerks_tinkerer",
+        "tiers": [
+            [
+                70,
+                12
+            ],
+            [
+                70,
+                14
+            ],
+            [
+                70,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "한 명의 생존자에게 <b>집착</b>한다.<br>집착 대상이 아닌 생존자를 <i>기본 공격</i>할 때 마다 토큰을 한 개씩 얻는다.<br>토큰 하나당 성공적인 <i>기본 공격</i> 후의 재사용 대기 시간을 <span class=\"Highlight1\">{0}%</span>만큼 줄여 준다. 토큰은 중첩 가능하며 최대 <span class=\"Highlight2\">{1}</span>개의 토큰을 모을 수 있다.<br>집착 대상을 <i>기본 공격</i>으로 타격하면 <span class=\"Highlight3\">{2}</span>개의 토큰을 잃는다. <br>집착 대상이 살해되거나 희생되면 더 이상 토큰을 얻을 수 없다.<br><li><i>살인마는 한 번에 하나의 생존자에게만 <b>집착</b>할 수 있다.</i></li>",
+        "name": "가장 좋은 것은 마지막에",
+        "flavor": "\\“죽음이 당신의 작은 마을에 당도하였군, 보안관.\\” –샘 루미스 박사\"",
+        "id": 24,
+        "index": "SAVE_THE_BEST_FOR_LAST",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SHAPE",
+        "image": "iconPerks_saveTheBestForLast",
+        "tiers": [
+            [
+                5,
+                8,
+                4
+            ],
+            [
+                5,
+                8,
+                3
+            ],
+            [
+                5,
+                8,
+                2
+            ]
+        ]
+    },
+    {
+        "description": "한 명의 생존자에게 <b>집착</b> 한다.<br>집착 대상을 추격하다가 추격 판정이 사라지면 최대 {0}개까지 중첩 가능한 토큰을 얻는다.<br>각 토큰마다 이동 속도가 <span class=\"Highlight1\">{1}%</span> 빨라진다.<br><i>기본 공격</i> 또는 <i>특수 공격</i>을 시도하면 1개의 토큰을 소모한다.<br><li><i>살인마는 한 번에 한 생존자에게만 <b>집착</b>할 수 있다.</i></li>",
+        "name": "먹이 농락",
+        "flavor": "“넌 그들을 속여왔어, 그렇지 않나 마이클? 하지만 난 속일 수 없어.” -샘 루미스 박사",
+        "id": 25,
+        "index": "PLAY_WITH_YOUR_FOOD",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SHAPE",
+        "image": "iconPerks_playWithYourFood",
+        "tiers": [
+            [
+                3,
+                3
+            ],
+            [
+                3,
+                4
+            ],
+            [
+                3,
+                5
+            ]
+        ]
+    },
+    {
+        "description": "한 명의 생존자에게 <b>집착</b>하게 된다.<br>집착 대상은 <span class=\"Highlight1\">{0}%</span>의 행동 속도 보너스를 얻어 다른 생존자들을 구출하고 치료할 수 있게 한다.<br>집착 대상이 살아 있고 집착 대상이 아닌 생존자를 갈고리에 걸 때마다 토큰을 얻는다.<br>집착 대상이 살아있는 경우, 집착 대상이 아닌 모든 생존자는 각 토큰마다 수리, 치료, 파괴공작 속도에 대해 <span class=\"Highlight2\">{1}%</span>의 패널티를 받는다.<br><li><i>살인마는 한 번에 하나의 생존자에게만 집착할 수 있다.</i></li>",
+        "name": "꺼져 가는 빛",
+        "flavor": "This isn't a man...",
+        "id": 26,
+        "index": "DYING_LIGHT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SHAPE",
+        "image": "iconPerks_dyingLight",
+        "tiers": [
+            [
+                33,
+                2
+            ],
+            [
+                33,
+                2.5
+            ],
+            [
+                33,
+                3
+            ]
+        ]
+    },
+    {
+        "description": "오라 감지 능력을 차단하는 주술. 주술 토템이 활성화된 동안 생존자를 <i>기본 공격</i>하면 <b>실명</b> 상태 이상을 적용한다. 이 효과는 마지막으로 공격당한 <span class=\"Highlight1\">{0}명</span>의 생존자에게 적용된다.<br><i>주술의 효과는 주술 토템이 활성화되어 있는 동안에만 지속한다.</i>",
+        "name": "주술: 제3의 봉인",
+        "flavor": "“그 손길이 닿으면 마녀의 낙인이 남는다!”",
+        "id": 27,
+        "index": "HEX_THE_THIRD_SEAL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HAG",
+        "image": "iconPerks_theThirdSeal",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "생존자의 발전기 수리에 영향을 미치는 주술. 모든 발전기가 <i>주술: 파멸</i>의 영향을 받는다. 발전기 수리가 진행되지 않는 동안 주술로 인해 발전기 수리 진행 상황은 즉시 자동으로 일반 진행 속도의 <span class=\"Highlight1\">{0}%</span>로 되돌아간다.<br><br><i>주술의 효과는 주술 토템이 활성화되어 있는 동안에만 지속한다.</i><br>",
+        "name": "주술: 파멸",
+        "flavor": "“목전에 닥친 저주가 당신의 파멸을 불러온다.”",
+        "id": 28,
+        "index": "HEX_RUIN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HAG",
+        "image": "iconPerks_ruin",
+        "tiers": [
+            [
+                100
+            ],
+            [
+                150
+            ],
+            [
+                200
+            ]
+        ]
+    },
+    {
+        "description": "희망으로부터 힘을 얻는 주술. 생존자의 잘못된 희망이 굶주림에 불을 붙인다. 살인마의 <span class=\"Highlight1\">24미터</span> 외에서 생존자가 구출될 때마다 삼켜지는 희망이 토큰을 얻는다.<br><li><span class=\"Highlight3\">2토큰</span>: 생존자를 갈고리에 건 후 <span class=\"Highlight3\">10초</span> 뒤에 <span class=\"Highlight3\">10초</span>동안 <span class=\"Highlight2\">{0}%</span>의 <b><i>이동 속도 증가</i></b> 상태 효과를 얻는다.</li><li><span class=\"Highlight3\">3토큰</span>: 생존자들이 <b><i>약점 노출</i></b> 상태 이상에 걸린다.</li><li><span class=\"Highlight2\">5토큰</span>: 손으로 생존자를 살해할 수 있다.</li><br><i>주술의 효과는 주술 토템이 활성화되어 있는 동안에만 지속한다.</i><br>",
+        "name": "주술: 삼켜지는 희망",
+        "flavor": "\"아무것도 하지 않으면, 네 손에 그들의 피를 묻히는 거야. 네가 그들을 살리면, 그녀는 더 굶주리겠지.\"",
+        "id": 29,
+        "index": "HEX_DEVOUR_HOPE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HAG",
+        "image": "iconPerks_devourHope",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ]
+    },
+    {
+        "description": "당신은 존재만으로도 공포가 스며들게 한다. 당신의 공포 범위 안에 있는 생존자들은 비효율적으로 행동한다.<br>영향을 받는 생존자들의 아이템 소비량이 <span class=\"Highlight1\">{0}%</span> 증가한다.",
+        "name": "압도적인 존재감",
+        "flavor": "\"젠장!! 거즈를 떨어뜨렸어!\"",
+        "id": 30,
+        "index": "OVERWHELMING_PRESENCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DOCTOR",
+        "image": "iconPerks_overwhelmingPresence",
+        "tiers": [
+            [
+                80
+            ],
+            [
+                90
+            ],
+            [
+                100
+            ]
+        ]
+    },
+    {
+        "description": "접근은 조심스럽게, 해야 할 때는 무섭게.<br>추격 중 공포 범위가 <span class=\"Highlight1\">{0}미터</span> 증가한다. 추격 중이 아닐 경우 공포 범위는 <span class=\"Highlight2\">{0}미터</span> 감소하며, 시야 범위는 <span class=\"Highlight3\">{1}도</span> 증가한다.<br><i>시야각에 도움을 주는 효과는 중첩되지 않는다.</i><br>",
+        "name": "감시와 학대",
+        "flavor": "\"치료 받을 시간이다!\" -닥터",
+        "id": 31,
+        "index": "MONITOR_AND_ABUSE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DOCTOR",
+        "image": "iconPerks_monitorAndAbuse",
+        "tiers": [
+            [
+                8,
+                8,
+                3
+            ],
+            [
+                8,
+                8,
+                5
+            ],
+            [
+                8,
+                8,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "탈출 진행에 대해 증오심으로 불타오른다.<br><b>발전기 손상</b> 행동을 통해 발전기를 과충전시킬 수 있다. 그 후 발전기를 수리하기 시작한 생존자는 <span class=\"Highlight1\">엄청나게</span> 어려운 스킬 체크를 수행해야 한다. 스킬 체크를 실패하면 진행도의 <span class=\"Highlight2\">{0}%</span> 감소한다.<br>스킬 체크에 성공할 경우, 추가적인 진행도 증가는 없으나 발전기 폭발을 막을 수 있다.",
+        "name": "과충전",
+        "flavor": "\"이건 함정이야. 하지만 누군가는 함정에 발을 들여야 해...\" -닥터",
+        "id": 32,
+        "index": "OVERCHARGE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DOCTOR",
+        "image": "iconPerks_generatorOvercharge",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ]
+    },
+    {
+        "description": "당신의 살해 욕구는 엔티티와의 연결이 잠시 끊어져 당신을 완전히 예측 불가능할 상태로 만들 정도로 매우 강렬하다.<br><br><b>감지 불가능</b> 상태 이상은 분노 1단계 달성 후에 주어지며, 분노를 잃으면 해당 상태를 잃게된다.<br><br><li>사냥 항목 행동에서 <span class=\"Highlight1\">{0}%</span>의 추가 블러드포인트를 얻는다.</li>",
+        "name": "맹수",
+        "flavor": "“어디로 갔지?”",
+        "id": 33,
+        "index": "BEAST_OF_PREY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HUNTRESS",
+        "image": "iconPerks_BeastOfPrey",
+        "tiers": [
+            [
+                30
+            ],
+            [
+                40
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "오라를 감지하는 잠재력을 끌어낸다. 지하실에서 <span class=\"Highlight2\">{1}미터</span> 떨어져 있을 때, 지하실에 들어간 생존자의 오라가 <span class=\"Highlight1\">{0}초</span> 동안 나타난다.<br><i>텃세</i>는 <span class=\"Highlight3\">{2}초</span>의 재사용 대기시간을 갖는다.",
+        "name": "텃세",
+        "id": 34,
+        "index": "TERRITORIAL_IMPERATIVE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HUNTRESS",
+        "image": "iconPerks_TerritorialImperative",
+        "tiers": [
+            [
+                3,
+                32,
+                30
+            ],
+            [
+                3,
+                32,
+                25
+            ],
+            [
+                3,
+                32,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "절망을 흡수할수록 힘이 세지는 주술. 저항할 수 없는 끔찍한 노래를 이용하는 당신의 사냥은 사냥감의 집중을 흐트러뜨린다. 치료 또는 수리 중 생존자들이 스킬 체크에 실패하면 <span class=\"Highlight1\">{0}%</span>의 진행도가 추가로 감소한다.<br>생존자가 갈고리에 걸릴 때마다 토큰을 얻는다. 또한 치료와 수리 스킬 체크 경고에 영향을 준다.<br><li><b>1~4 토큰:</b> 스킬 체크 경고음과 스킬 체크 사이의 간격이 줄어든다.</li><li><b>5 토큰:</b> 스킬 체크 경고음이 사라진다.</li><br><i>주술의 효과는 주술 토템이 활성화되어 있는 동안에만 지속한다.</i>",
+        "name": "주술: 사냥꾼의 자장가",
+        "id": 35,
+        "index": "HEX_HUNTRESS_LULLABY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HUNTRESS",
+        "image": "iconPerks_HuntressLullaby",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                4
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    {
+        "description": "자신의 잔혹한 공격이 야기한 트라우마가 도움을 요청하는 것을 매우 어렵게 만든다.<br>기본 공격으로 빈사 상태가 된 생존자는 <span class=\"Highlight1\">{2}미터</span> 밖에 있는 다른 생존자들에게 보이지 않게 된다.<br>기본 공격으로 빈사 상태가 된 생존자는 <span class=\"Highlight3\">{0}초</span> 동안 <span class=\"Highlight2\">{1}%</span> 더 느리게 기어간다.<br>그동안, 생존자는 <b>실명</b> 상태 이상에 빠진다.",
+        "name": "때려눕히기",
+        "flavor": "\"오, 그 총은 정말 아니야. 너무 구식인걸… 받침대도 있어! 잘 봐, 이게 더 나을 거야. 이렇게 하면 더 잘 죽겠지.\"-누빈스 소이어",
+        "id": 36,
+        "index": "KNOCK_OUT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CANNIBAL",
+        "image": "iconPerks_knockOut",
+        "tiers": [
+            [
+                32,
+                50,
+                15
+            ],
+            [
+                24,
+                50,
+                15
+            ],
+            [
+                16,
+                50,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "엔티티와의 강한 유대가 오라를 감지하는 잠재력을 끌어낸다. 생존자를 갈고리에 건 후, 갈고리로부터 <span class=\"Highlight2\">{1}미터</span> 밖에 있는 생존자들의 오라가 <span class=\"Highlight1\">{0}초</span> 동안 나타난다.<br><li>각 생존자가 처음 갈고리에 걸릴 때마다 누적 가능한 <span class=\"Highlight3\">{2}%</span>의 추가 블러드포인트를 얻으며, 최대 <span class=\"Highlight4\">{3}%</span>까지 누적된다.<br> 추가 블러드포인트는 희생제가 끝난 후에 지급된다.</li>",
+        "name": "바비큐 & 칠리",
+        "flavor": "\"난 죽이는 걸 좋아하지 않아. 하지만 어떤 일들은 좋아하지 않아도 해야만 하지. 네가 좋아해야 한다는 것은 아니란다.\"-드레이톤 소이어",
+        "id": 37,
+        "index": "BARBECUE_AND_CHILI",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CANNIBAL",
+        "image": "iconPerks_BBQAndChili",
+        "tiers": [
+            [
+                4,
+                40,
+                25,
+                50
+            ],
+            [
+                4,
+                40,
+                25,
+                75
+            ],
+            [
+                4,
+                40,
+                25,
+                100
+            ]
+        ]
+    },
+    {
+        "description": "당신의 악랄한 공격에 의한 충격으로 생존자들이 아이템을 떨어뜨린다. 잃어버린 아이템을 다시 줍지 않으면, <span class=\"Highlight1\">{0}초</span> 후, 엔티티에 의해 소모된다.<br><span class=\"Highlight2\">{1}미터</span> 내에 아이템이 떨어지면 아이템이 흰색 오라와 함께 드러난다. 바닥에 떨어진 아이템의 오라는 엔티티에게 소모될 때까지 점차 빨간 오라를 띄게 된다.",
+        "name": "프랭클린의 죽음",
+        "flavor": "\"샐리, 무슨 소리가 들린 것 같아. 멈춰! 멈춰!\" -프랭클린",
+        "id": 38,
+        "index": "FRANKLINS_DEMISE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CANNIBAL",
+        "image": "iconPerks_franklinsLoss",
+        "tiers": [
+            [
+                150,
+                32
+            ],
+            [
+                120,
+                32
+            ],
+            [
+                90,
+                32
+            ]
+        ]
+    },
+    {
+        "description": "사냥감을 놓칠 것 같은 압박이 당신을 분노로 타오르게 하고 뜻밖의 동기를 부여한다. 생존자들이 발전기 수리를 완료할 때마다 격분의 힘이 커진다.<br><li>수리한 발전기 하나 당 <span class=\"Highlight1\">{0}%</span>의 누적 가능한 보너스가 부여되며 희생제의 남은 시간 동안 들기, 내려놓기, 넘기, 발전기 손상시키기, 판자를 부수는 속도가 상승한다.</li>",
+        "name": "격분",
+        "id": 39,
+        "index": "FIRE_UP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NIGHTMARE",
+        "image": "iconPerks_fireUp",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                3.5
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "한 명의 생존자에게 <b>집착</b>한다. <i>기본 공격</i>으로 집착 대상을 공격할 때마다, 출구를 여는 데 걸리는 시간이 <span class=\"Highlight1\">{0}초</span> 증가하며, 최대 <span class=\"Highlight2\">{1}초</span>까지 증가할 수 있다.<br>집착 대상은 <i>나를 기억하나<i></i>의 영향을 받지 않는다.<br><li>살인마는 한 번에 한 명의 생존자에게만 <b>집착</b>할 수 있다.</i></li>",
+        "name": "나를 기억하나",
+        "id": 40,
+        "index": "REMEMBER_ME",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NIGHTMARE",
+        "image": "iconPerks_rememberMe",
+        "tiers": [
+            [
+                4,
+                8
+            ],
+            [
+                4,
+                12
+            ],
+            [
+                4,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "피의 교도관은 출구가 개방되는 순간부터 활성화된다. 출구에 머물러 있는 모든 생존자의 오라를 볼 수 있다. <br>피의 교도관이 활성화되어 있는 동안 단 한 번, 생존자를 갈고리에 걸면 엔티티가 모든 생존자가 지나갈 수 없도록 모든 출구를 <span class=\"Highlight1\">{0}초</span> 동안 봉쇄한다.",
+        "name": "피의 교도관",
+        "id": 41,
+        "index": "BLOOD_WARDEN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NIGHTMARE",
+        "image": "iconPerks_bloodWarden",
+        "tiers": [
+            [
+                30
+            ],
+            [
+                40
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "더욱 정교하게 변환 시킨 갈고리가 조작을 알려준다.<br><li>생존자가 파괴공작을 시도할 때 알림을 받는다.</li><li>생존자를 옮기는 동안 <span class=\"Highlight1\">{0}미터</span> 내 모든 생존자의 오라가 표시된다.</li>",
+        "name": "집행인의 손재주",
+        "flavor": "\"변명 하지말고, 얼버무리지도 마… 우는 것도 안 돼.\" - 아만다 영",
+        "id": 42,
+        "index": "HANGMANS_TRICK",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "PIG",
+        "image": "iconPerks_hangmansTrick",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                4
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    {
+        "description": "오라를 감지하는 잠재력을 끌어낸다. 모든 손상된 발전기가 흰색으로 표시된다. 발전기의 수리 진행도가 감소하면 <span class=\"Highlight1\">{0}초</span> 동안 노란색으로 표시된다.<br>발전기 수리에서 나는 소음이 추가로 <span class=\"Highlight2\">{1}미터</span>까지 들리게 된다.<br>",
+        "name": "감시",
+        "flavor": "\"착하게 굴겠니?\" -아만다 영",
+        "id": 43,
+        "index": "SURVEILLANCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "PIG",
+        "image": "iconPerks_surveillance",
+        "tiers": [
+            [
+                8,
+                8
+            ],
+            [
+                12,
+                8
+            ],
+            [
+                16,
+                8
+            ]
+        ]
+    },
+    {
+        "description": "생존자가 당신으로부터 <span class=\"Highlight1\">{0}미터</span> 떨어진 갈고리에서 다른 생존자를 구출했을 때, <i>선택하라</i>가 발동되면, 구출된 생존자는 비명을 지르며 <span class=\"Highlight2\">{1}초</span>동안 <b><i>약점 노출</i></b> 상태이상에 걸리게 된다.<br><i>선택하라</i>는 <span class=\"Highlight3\">{2}초</span>의 재사용 대기 시간이 있다. ",
+        "name": "선택하라",
+        "flavor": "\"어떤 도구가 목숨을 구할 수 있는지 알면 아마 놀랄 거야.\" -아만다 영",
+        "id": 44,
+        "index": "MAKE_YOUR_CHOICE",
+        "rarity": [
+            2,
+            2,
+            3
+        ],
+        "owner": "PIG",
+        "image": "iconPerks_makeYourChoice",
+        "tiers": [
+            [
+                32,
+                40,
+                40
+            ],
+            [
+                32,
+                50,
+                50
+            ],
+            [
+                32,
+                60,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "생존자를 둘러멜 때 도망치지 못하도록 억세게 움켜쥔다. 생존자의 몸부림으로 인한 흔들림이 <span class=\"Highlight1\">{0}%</span> 감소하고, 벗어나는 데 걸리는 시간이 <span class=\"Highlight2\">{1}%</span> 증가한다.",
+        "name": "강철의 손아귀",
+        "id": 45,
+        "index": "IRON_GRASP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_ironGrasp",
+        "tiers": [
+            [
+                75,
+                4
+            ],
+            [
+                75,
+                8
+            ],
+            [
+                75,
+                12
+            ]
+        ]
+    },
+    {
+        "description": "당신은 존재만으로도 공포가 스며들게 한다. 공포 범위 내에 있는 생존자들의 치료 속도가 <span class=\"Highlight1\">{0}%</span> 느려진다.<br>",
+        "name": "광대 공포증",
+        "id": 46,
+        "index": "COULROPHOBIA",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CLOWN",
+        "image": "iconPerks_coulrophobia",
+        "tiers": [
+            [
+                30
+            ],
+            [
+                40
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "엔티티와 깊은 유대를 맺고 막강한 힘을 부여받는다. 생존자를 갈고리에 건 후에, 발전기를 손상시키는 즉시 발전기의 총 진행도 중 <span class=\"Highlight1\">{0}%</span>를 잃는다. 발전기 손상 액션 후, 일반 발전기 진행 속도가 적용된다.<br><i>깜짝 상자</i>는 생존자를 갈고리에 건 후 <span class=\"Highlight1\">{1}초</span> 안에 발전기를 손상해야 발동된다.",
+        "name": "깜짝 상자",
+        "id": 47,
+        "index": "POP_GOES_THE_WEASEL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CLOWN",
+        "image": "iconPerks_popGoesTheWeasel",
+        "tiers": [
+            [
+                25,
+                35
+            ],
+            [
+                25,
+                40
+            ],
+            [
+                25,
+                45
+            ]
+        ]
+    },
+    {
+        "description": "넘기 속도가 <span class=\"Highlight1\">{0}%</span> 빨라진다.<br>뭔가를 넘은 후, 엔티티에게 해당 장소를 <span class=\"Highlight1\">{1}초</span> 동안 봉쇄해줄 것을 요청한다.<br>오직 1개의 넘은 장소를 봉쇄할 수 있다. 생존자는 봉쇄된 장소를 넘나드는 것이 불가능하다.<br>판자에는 영향을 끼치지 않는다.",
+        "name": "눈속임",
+        "id": 48,
+        "index": "BAMBOOZLE",
+        "rarity": [
+            1,
+            2,
+            2
+        ],
+        "owner": "CLOWN",
+        "image": "iconPerks_bamboozle",
+        "tiers": [
+            [
+                5,
+                8
+            ],
+            [
+                10,
+                12
+            ],
+            [
+                15,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "판자를 부술 때마다 엔티티의 분노에 힘을 얻는다. <span class=\"Highlight1\">{0}개</span>의 판자를 부수고 다음 판자에 기절 당할 경우, 엔티티가 즉시 그 판자를 부순다.<br>판자로 인한 기절에 대한 면역 효과는 없다. <br>",
+        "name": "분노의 영혼",
+        "flavor": "“분노는 그녀가 가진 힘의 원동력이야.”",
+        "id": 49,
+        "index": "SPIRIT_FURY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SPIRIT",
+        "image": "iconPerks_spiritFury",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                3
+            ],
+            [
+                2
+            ]
+        ]
+    },
+    {
+        "description": "희생제에 두 개의 주술 토템이 생성된다.<br>생존자 중 한 명이 두 개의 주술 토템 중 하나를 정화하면 모든 생존자들이 <span class=\"Highlight1\">{0}초</span> 동안 <span class=\"Highlight3\">약점 노출 상태 이상</span>에 걸리게 된다.<br>해당 기술이 발동하면 남은 하나의 주술 토템은 일반 토템으로 바뀐다.<br>",
+        "name": "주술: 원혼이 깃든 대지",
+        "flavor": "“그녀의 집안은 완전히 몰락했어.”",
+        "id": 50,
+        "index": "HEX_HAUNTED_GROUND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SPIRIT",
+        "image": "iconPerks_hauntedGround",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                50
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "한 명의 생존자에게 <b>집착</b>한다.<br>한 개의 발전기가 수리 완료될 때마다, 집착자는 당신의 오라를 <span class=\"Highlight1\">{0}초</span> 동안 볼 수 있다.<br>한 개의 발전기가 수리 완료될 때마다, 당신은 <span class=\"Highlight2\">{1}초</span> 동안 모든 생존자의 위치를 볼 수 있다.<br>모든 발전기가 수리 완료되었을 경우, 집착자는 <span class=\"Highlight3\">약점 노출</span> 상태 이상에 걸리며 살인마는 빈사 상태의 집착 대상을 직접 <span class=\"Highlight3\">살해</span>할 수 있는 능력을 얻는다.<br><li><i>살인마는 한 번에 한 생존자에게 <b>집착</b>할 수 있다.</i></li>",
+        "name": "원한",
+        "id": 51,
+        "index": "RANCOR",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SPIRIT",
+        "image": "iconPerks_hatred",
+        "tiers": [
+            [
+                5,
+                3
+            ],
+            [
+                4,
+                3
+            ],
+            [
+                3,
+                3
+            ]
+        ]
+    },
+    {
+        "description": "2명 이상의 생존자가 수리하는 <span class=\"Highlight1\">{0}미터</span> 범위 내의 발전기는 노란색의 오라를 띈다. 발전기가 처음 표시되면, 불협화음이 발전기에서 큰 소음을 낸다. 발전기의 범위에서 벗어나거나 2명의 생존자가 더 이상 발전기를 수리하지 않는 경우에도 오라는 <span class=\"Highlight2\">4초</span> 동안 유지된다.<br>",
+        "name": "불협화음",
+        "flavor": "\"야비한 놈은 항상 죽음을 맞이하지. 우리 모두 그걸 알고 있고.\" -군단",
+        "id": 52,
+        "index": "DISCORDANCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEGION",
+        "image": "iconPerks_discordance",
+        "tiers": [
+            [
+                64
+            ],
+            [
+                96
+            ],
+            [
+                128
+            ]
+        ]
+    },
+    {
+        "description": "생존자를 옮기는 동안에는 빗나간 <i>기본 공격</i>으로 인한 경직이 없으며, <i>기본 공격</i>으로 다른 생존자를 공격하는 데 성공하면 둘러메고 있는 생존자의 몸부림이 <span class=\"Highlight1\">{0}초</span> 동안 정지한다.<br>",
+        "name": "미친 투지",
+        "flavor": "\"결코 빠져나가지 못할 것이다.” -군단",
+        "id": 53,
+        "index": "MAD_GRIT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEGION",
+        "image": "iconPerks_madGrit",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "캐비닛을 <span class=\"Highlight1\">{0}%</span> 더 빠르게 열 수 있다.<br><br>캐비닛에서 나온 생존자들은 <span class=\"Highlight1\">{2}초</span> 동안 약점 노출 상태가 되며고 비명을 지르게 되며 <span class=\"Highlight1\">{1}초</span> 동안 그들의 위치가 드러난다.<br>",
+        "name": "아이언 메이든",
+        "flavor": "“여긴 겁쟁이가 올 곳이 못 되지.” - 군단",
+        "id": 54,
+        "index": "IRON_MAIDEN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEGION",
+        "image": "iconPerks_ironMaiden",
+        "tiers": [
+            [
+                30,
+                30,
+                4
+            ],
+            [
+                40,
+                30,
+                4
+            ],
+            [
+                50,
+                30,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "자신의 기도가 어둠의 힘을 불러내 생존자들의 생존 확률에 영향을 미친다. 희생제가 시작될 때, 자신에게서 가장 멀리 있는 <span class=\"Highlight1\">{0}개의 발전기</span>가 엔티티에 의해 <span class=\"Highlight1\">{1}초</span> 동안 차단당한다.<br>그동안 생존자들은 이 발전기들을 수리할 수 없다. 영향을 받은 발전기는 흰색 오라로 강조 표시된다.<br>",
+        "name": "부정한 개입",
+        "flavor": "\"이 일은 세상 전역에 알려져 신을 부정한 자들을 저주하리라.\"(아디리스의 석판 3.7)",
+        "id": 55,
+        "index": "CORRUPT_INTERVENTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "PLAGUE",
+        "image": "iconPerks_corruptIntervention",
+        "tiers": [
+            [
+                3,
+                80
+            ],
+            [
+                3,
+                100
+            ],
+            [
+                3,
+                120
+            ]
+        ]
+    },
+    {
+        "description": "믿음이 없는 자의 울부짖음이 심장을 빨리 뛰게 한다.<br>다른 생존자가 기본 공격으로 빈사 상태에 빠지면, 살인마의 공포 범위 내의 다른 생존자들이 비명을 지르며 살인마에게 <span class=\"Highlight1\">{0}초</span> 동안 자신의 위치를 드러낸다.",
+        "name": "전염성 공포",
+        "flavor": "\"공포는 타락한 자의 발 밑에 엎드려 우는 신앙심 없는 자를 집어 삼킨다.\"(찬송가, 11. 4)",
+        "id": 56,
+        "index": "INFECTIOUS_FRIGHT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "PLAGUE",
+        "image": "iconPerks_infectiousFright",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    {
+        "description": "능력을 사용하는 순간 온 땅에 공포의 소용돌이가 퍼져 나간다.<br><br>한 명의 생존자에게 집착한다. 집착 대상에게 <i>기본 공격</i>이 성공하면 <span class=\"Highlight1\">{0}미터</span>의 공포 범위가 <span class=\"Highlight2\">{1}초</span> 동안 집착 대상에게 옮겨간다. 그동안 <b>감지 불가능</b> 상태 이상이 주어진다.<br><br>공포 범위를 옮겨받은 생존자 또한 \"공포 범위 내\"에 있는 것으로 간주된다.<br><br><li><i>살인마는 한 번에 한 명의 생존자에게만 <b>집착</b>할 수 있다.</i></li><br>",
+        "name": "어둠의 헌신",
+        "flavor": "“그리고 나의 도착을 거짓으로 알리는 반항적인 비신자에게는 공포가 휩싸이리라.”(아디리스의 석판, 48.9)",
+        "id": 57,
+        "index": "DARK_DEVOTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "PLAGUE",
+        "image": "iconPerks_darkDevotion",
+        "tiers": [
+            [
+                20,
+                32
+            ],
+            [
+                25,
+                32
+            ],
+            [
+                30,
+                32
+            ]
+        ]
+    },
+    {
+        "description": "엔티티의 검은 왕국에서 당신의 예리한 감각은 더욱 날카로워진다.<br><br>오라를 감지하는 잠재력을 이끌어내며, 자신 주변 <span class=\"Highlight1\">48미터</span> 내에서 과격한 행동을 한 생존자 전원의 오라가 <span class=\"Highlight2\">{0}초</span> 동안 드러난다.<br><br><i>밝은 귀</i>는 <span class=\"Highlight3\">{1}초에</span> 한 번만 발동된다.<br>",
+        "name": "밝은 귀",
+        "flavor": "\"걱정할 것 없어. 내 인생 전부를 바쳐 오늘을 준비했으니까.\" –고스트 페이스",
+        "id": 58,
+        "index": "IM_ALL_EARS",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "GHOST",
+        "image": "iconPerks_imAllEars",
+        "tiers": [
+            [
+                6,
+                60
+            ],
+            [
+                6,
+                50
+            ],
+            [
+                6,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "사악한 계획과 예리하면서 침착한 행동이 엔티티를 깨운다.<br><br>생존자를 들면 엔티티에 의해 모든 발전기가 차단되어 <span class=\"Highlight1\">{0}초</span> 동안 수리할 수 없게 된다. 영향을 받은 발전기는 흰색 오라로 강조 표시된다.<br><br><i>전율의 기쁨</i> 은 <span class=\"Highlight2\">{1}초</span>마다 한 번만 발동된다.<br>",
+        "name": "전율의 기쁨",
+        "flavor": "\"밤은 내 지원군이지, 그리고 이곳의 밤은 끝나지 않아.\" –고스트 페이스",
+        "id": 59,
+        "index": "THRILLING_TREMORS",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "GHOST",
+        "image": "iconPerks_thrillingTremors",
+        "tiers": [
+            [
+                16,
+                100
+            ],
+            [
+                16,
+                80
+            ],
+            [
+                16,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "한 명의 생존자에게 <b>집착</b>한다. 그림자 속에 숨어 희생양을 하나하나 제거한다. 집착 대상이 갈고리에 걸리면 <i>은밀한 추격</i>에 토큰을 받으며, 최대 <span class=\"Highlight1\">{0}개</span>까지 중첩할 수 있다.<br><br>토큰 하나당 추격 중 공포 범위가 <span class=\"Highlight2\">{1}미터</span> 감소한다.<br><br>생존자가 집착 대상을 갈고리에서 구출하면 해당 구출자가 다시 집착 대상이 된다. 집착 대상이 죽거나 제물로 바쳐지면 토큰을 모두 잃는다.<br><br><li><i>살인마는 한 번에 하나의 대상에게만 <b>집착</b>할 수 있다.</i></li><br>",
+        "name": "은밀한 추격",
+        "flavor": "\"내가 너희들을 위해 뭘 준비했는지 상상도 하지 못할 거야. 몇 주 뒤면 뉴스에 보도되겠지. 내가 보장해.\" –고스트 페이스",
+        "id": 60,
+        "index": "FURTIVE_CHASE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "GHOST",
+        "image": "iconPerks_furtiveChase",
+        "tiers": [
+            [
+                2,
+                4
+            ],
+            [
+                3,
+                4
+            ],
+            [
+                4,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "당신의 섬뜩한 존재감이 공기를 메우고 기계를 방해한다.<br><br><i>기본 공격</i>으로 생존자를 빈사 상태에 빠트리면 <span class=\"Highlight1\">{0}미터</span> 내의 발전기가 전부 폭발하여 손상되기 시작한다. 서지의 영향을 받은 발전기는 진행도의 <span class=\"Highlight2\">{1}%</span>를 즉시 잃게 된다.<li><i>서지</i>는 <span class=\"Highlight3\">{2}초</span>마다 한 번씩 발동시킬 수 있다.</li><br>",
+        "name": "서지",
+        "flavor": "“이 생명체는 전기와 근처의 전자제품에 알 수 없는 영향을 미치는 것처럼 보인다.” -호킨스 국립 연구소",
+        "id": 61,
+        "index": "SURGE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEMOGORGON",
+        "image": "iconPerks_surge",
+        "tiers": [
+            [
+                32,
+                8,
+                60
+            ],
+            [
+                32,
+                8,
+                50
+            ],
+            [
+                32,
+                8,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "당신의 존재감이 사냥감을 괴롭히고 약화시킨다.<br><br>발전기를 수리하는 동안 생존자는 <b>탈진</b> 상태에 빠진다.<br><br>생존자가 발전기를 수리하는 동안 모든 <b>탈진</b> 상태 타이머가 일시 정지하게 된다. 하지만 수리를 끝낸 후, 생존자는 다시 <b>탈진</b> 상태에 빠지며 <span class=\"Highlight2\">{1}초</span> 동안 지속된다.<br>",
+        "name": "마인드 브레이커",
+        "flavor": "\"실험체의 텔레파시 능력은 명확하며, 주변 사람들에게 공포와 피로감을 느끼게 한다.\" -호킨스 국립 연구소",
+        "id": 62,
+        "index": "MINDBREAKER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEMOGORGON",
+        "image": "iconPerks_mindBreaker",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ]
+    },
+    {
+        "description": "사냥감이 도망치려고 할 때 당신의 다른 세계가 나타난다.<br><br>발전기가 완성될 때마다 완성된 발전기 <span class=\"Highlight1\">{0} 미터</span> 이내의모든 창문과 판자 위치는 다음 <span class=\"Highlight2\">{1}초</span> 동안 모든 생존자에게 보이지 않는다. <br><br>그동안 당신은 <i>잔혹한 속박</i>으로 숨겨진 판자 위치의 오라를 감지할 수 있게 된다.<br>",
+        "name": "잔혹한 속박",
+        "flavor": "“실험체는 주변 물체에 영향을 미칠 수 있는 것으로 보인다. 마치 우리 차원을 대체하는 다른 차원 안에서 또 다른 형태로 존재하듯이 말이다.” -호킨스 국립 연구소",
+        "id": 63,
+        "index": "CRUEL_LIMITS",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEMOGORGON",
+        "image": "iconPerks_cruelConfinement",
+        "tiers": [
+            [
+                32,
+                20
+            ],
+            [
+                32,
+                25
+            ],
+            [
+                32,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "오라를 감지하는 잠재력을 끌어낸다. 정신이 맑아지고 전장을 파악할 수 있게 된다.<br><br><span class=\"Highlight1\">{0}미터</span> 범위 내에 위치한 판자와 부서지기 쉬운 문, 창틀의 오라를 모두 볼 수 있다.<br>",
+        "name": "잔심 전술",
+        "flavor": "“적의 강함 속에 약점이 있다.” -렌지로의 교리 12:5",
+        "id": 64,
+        "index": "ZANSHIN_TACTICS",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ONI",
+        "image": "iconPerks_zanshinTactics",
+        "tiers": [
+            [
+                24
+            ],
+            [
+                28
+            ],
+            [
+                32
+            ]
+        ]
+    },
+    {
+        "description": "생존자 한 명에게 고통을 주면 다른 생존자들도 피해를 입는다.<br><br>생존자를 갈고리에 걸면, 부상당한 생존자는 <span class=\"Highlight1\">출혈</span> 상태 이상에 걸리고, <span class=\"Highlight2\">{0}초</span> 동안 <span class=\"Highlight1\">탈진</span> 상태 이상에 걸리게 된다.<br><br><i>피의 메아리</i>는 <span class=\"Highlight3\">{1}초</span>의 재사용 대기 시간을 가진다.<br>",
+        "name": "피의 메아리",
+        "flavor": "“정확하게 적을 찌르면 그의 전우들마저도 아픔을 느낄 것이다.” -렌지로의 교리 6:3",
+        "id": 65,
+        "index": "BLOOD_ECHO",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ONI",
+        "image": "iconPerks_bloodEcho",
+        "tiers": [
+            [
+                45,
+                80
+            ],
+            [
+                45,
+                70
+            ],
+            [
+                45,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "자신이 받은 피해를 되갚아 줄 기회를 찾는다. 판자 또는 캐비닛으로 자신을 실명시키거나 기절시킨 생존자 한 명을 집착 대상으로 지정한다.<br><br>집착 대상으로 새로 지정된 생존자는 <span class=\"Highlight2\">{0}초</span> 동안 <span class=\"Highlight1\">인지 불가능</span> 상태 이상이 적용되며, <span class=\"Highlight3\">{1}초</span> 동안 대상 생존자의 오라가 보인다.<br><br><li><i>살인마는 한 번에 한 명의 생존자에게만 <b>집착</b>할 수 있다.</i></li><br>",
+        "name": "천벌",
+        "flavor": "“어리석은 자만이 악마의 얼굴에 침을 뱉고 승리를 단언한다.” -렌지로의 교리 4:9",
+        "id": 66,
+        "index": "NEMESIS",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ONI",
+        "image": "iconPerks_nemesis",
+        "tiers": [
+            [
+                40,
+                4
+            ],
+            [
+                50,
+                4
+            ],
+            [
+                60,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "잘 작동하는 장비에 귀를 얻었다.<br><br><i>기본 공격</i>으로 생존자 <span class=\"Highlight1\">{0}명</span>을 공격하면 <span class=\"Highlight2\">{1}초</span> 동안 <i>기어 헤드</i>가 활성화된다.<br><br><i>기어 헤드</i>가 활성화되어 있는 동안 발전기를 수리하는 동안 스킬 체크에 성공할 때마다 수리되고 있는 한 노란색 오라로 표시된다.<br>",
+        "name": "기어 헤드",
+        "flavor": "\"가끔 남자로서 최고의 성과는 그를 무덤에 넣는 것이기도 하지.\" -교도소장",
+        "id": 67,
+        "index": "GEARHEAD",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEATHSLINGER",
+        "image": "iconPerks_gearHead",
+        "tiers": [
+            [
+                2,
+                20
+            ],
+            [
+                2,
+                25
+            ],
+            [
+                2,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "한 명의 생존자에게 <b>집착</b>한다.<br><br>집착 대상을 갈고리에 걸면 <span class=\"Highlight1\">{0}초</span> 후에 <i>차단 스위치</i>가 활성화 된다. <br><br>활성화되어 있는 동안 발전기가 완전히 수리되기 전에 수리를 중단하는 모든 생존자는 <i>차단 스위치</i> 효과가 끝날 때까지 엔티티에 의해 발전기에 접근할 수 없게 된다. <br><br>영향을 받은 발전기는 흰색 오라로 표시된다.<br><br><i>살인마는 오직 한 번에 한 생존자에게만 <b>집착</b>할 수 있다.</i><br>",
+        "name": "차단 스위치",
+        "flavor": "\"나는 자신의 죽음을 깨달은 남자의 표정을 본 적이 있지.\" -케일럽 퀸",
+        "id": 68,
+        "index": "DEAD_MANS_SWITCH",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEATHSLINGER",
+        "image": "iconPerks_deadManSwitch",
+        "tiers": [
+            [
+                35
+            ],
+            [
+                40
+            ],
+            [
+                45
+            ]
+        ]
+    },
+    {
+        "description": "파괴에 의해 발동되는 주술. 당신을 배신한 자들은 모두 벌을 받게 된다.<br><br>일반 토템을 정화하는 모든 생존자는 <span class=\"Highlight1\">{0}초</span> 동안 <b>인지 불가능</b> 상태에 빠진다.<br><br>이후 이 토템을 포함해 주술 토템이 정화되면 <span class=\"Highlight2\">{1}초</span> 동안 모든 생존자들의 오라를 볼 수 있다.<br>",
+        "name": "주술: 응징",
+        "flavor": "\"멍청한 자식, 스스로를 향해 방아쇠를 당겨버렸군.\" -케일럽 퀸",
+        "id": 69,
+        "index": "HEX_RETRIBUTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEATHSLINGER",
+        "image": "iconPerks_hexRetribution",
+        "tiers": [
+            [
+                35,
+                10
+            ],
+            [
+                40,
+                10
+            ],
+            [
+                45,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "그의 임무에 방해가 되는 자는 가혹한 심판을 받게 될 것이다.<br><br>보호 공격을 받는 생존자는 <span class=\"Highlight1\">{0}초</span> 동안 <b>치료 불능</b> 상태에 빠진다.",
+        "name": "강압 받은 속죄",
+        "id": 70,
+        "index": "FORCED_PENANCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "EXECUTIONER",
+        "image": "iconPerks_forcedPenance",
+        "tiers": [
+            [
+                60
+            ],
+            [
+                70
+            ],
+            [
+                80
+            ]
+        ]
+    },
+    {
+        "description": "희생자에게 고통과 처벌의 길을 안내한다.<br><br>발전기를 발로 차면, 발전기의 손상이 멈추거나 생존자가 부상을 당하거나, 또는 어떤 방식으로든 빈사 상태에 빠지게 될 때까지 <b>감지 불가능</b> 상태가 지속된다. 그동안 생존자들에게 발전기의 노란 오라가 드러난다.<br><br>해당 효과는 <span class=\"Highlight1\">{2}초</span>마다 사용 가능하다.",
+        "name": "고통의 흔적",
+        "id": 71,
+        "index": "TRAIL_OF_TORMENT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "EXECUTIONER",
+        "image": "iconPerks_trailOfTorment",
+        "tiers": [
+            [
+                80
+            ],
+            [
+                70
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "어둠 속에서 서로의 삶이 얽혀진 사람들은 함께 고통받을 운명이다.<br><br>생존자가 살인마로부터 최소 <span class=\"Highlight1\">{0}미터</span> 떨어져 있는 또 다른 생존자의 건강 상태를 한 단계 회복시키면, 치료 행동을 하는 생존자가 비명을 지른다. 이 비명으로 인해 생존자들의 위치가 드러나게 되며, <i>죽음 결속</i>이 다음 <span class=\"Highlight2\">{1}초</span> 동안 활성화된다. 해당 효과가 활성화되는 동안 만약 생존자가 치료받은 생존자에게서 <span class=\"Highlight3\">{2}미터</span> 이상 떨어지면 <b>인지 불가능</b> 상태 효과로 고통을 받게 된다. ",
+        "name": "죽음 결속",
+        "id": 72,
+        "index": "DEATHBOUND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "EXECUTIONER",
+        "image": "iconPerks_deathbound",
+        "tiers": [
+            [
+                32,
+                60,
+                16
+            ],
+            [
+                32,
+                60,
+                12
+            ],
+            [
+                32,
+                60,
+                8
+            ]
+        ]
+    },
+    {
+        "description": "발전기를 발로 찬 후, 향후 <span class=\"Highlight1\">{0}초</span> 동안 발전기와 상호 작용하는 첫 번째 생존자는 <span class=\"Highlight2\">{1}초</span> 동안 자신의 위치가 드러나며, <span class=\"Highlight3\">{2}초</span> 동안 <b>약점 노출</b> 상태 효과에 빠진다.<br><br><i>드래곤의 손아귀</i>는 <span class=\"Highlight3\">{2}초</span>의 재사용 대기 시간을 가진다.<br>",
+        "name": "드래곤의 손아귀",
+        "flavor": "“이 화합물에 이런 잠재력이... 조금의 흔적도 비정상적인 효과를 일으킨다.” —탤벗 그라임스의 일지",
+        "id": 73,
+        "index": "DRAGONS_GRIP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "BLIGHT",
+        "image": "iconPerks_dragonsGrip",
+        "tiers": [
+            [
+                30,
+                4,
+                60,
+                120
+            ],
+            [
+                30,
+                4,
+                60,
+                100
+            ],
+            [
+                30,
+                4,
+                60,
+                80
+            ]
+        ]
+    },
+    {
+        "description": "피가 흘렸을 때, 엔티티의 호의를 얻는 주술.<br><br>생존자가 <i>기본 공격</i>으로 타격 당하면 살인마로부터 <span class=\"Highlight1\">{0}미터</span> 내에 있는 판자는 엔티티에 의해 <span class=\"Highlight2\">{1}초</span> 동안 고정된다. 해당 판자는 무너뜨릴 수 없다.<br><br><i>주술: 피의 호의</i>는 <span class=\"Highlight3\">{2}초</span>의 재사용 대기 시간을 가진다.<br>",
+        "name": "주술: 피의 호의",
+        "flavor": "“실험이 생물학적 반응이라고 제안하는 것은 상상력의 비약이 아닐 것이다.” —탤벗 그라임스의 일지",
+        "id": 74,
+        "index": "HEX_BLOOD_FAVOR",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "BLIGHT",
+        "image": "iconPerks_hexBloodFavor",
+        "tiers": [
+            [
+                16,
+                15,
+                60
+            ],
+            [
+                16,
+                15,
+                50
+            ],
+            [
+                16,
+                15,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "<i>주술: 불멸</i>이 활성화되는 동안, 일반 토템으로부터 <span class=\"Highlight1\">{0}미터</span> 내에 있는 생존자들의 오라가 동안 드러난다.<br><br>다른 주술 토템이 정화되면 해당 토템의 주술은 주술: 불멸 토템으로 옮겨지며, 주술: 불멸은 비활성화된다. 주술을 옮긴 토큰 역시 옮겨진다.",
+        "name": "주술: 불멸",
+        "id": 75,
+        "index": "HEX_UNDYING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "BLIGHT",
+        "image": "iconPerks_hexUndying",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "몇 안 되는 소유물을 지키는 데 일가견이 있으며 비축해둔 것에 생기는 작은 소란에도 민감하다.<br><br>생존가가 상자와 상호작용하거나 자신의 주변 <span class=\"Highlight1\">{0}미터</span> 내에서 아이템을 습득하면 생존자의 위치가 드러난다.<br><br>희생제는 환경에 최대 <span class=\"Highlight1\">{1}</span>개의 상자가 추가되어 시작된다.",
+        "name": "호더",
+        "id": 76,
+        "index": "HOARDER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TWINS",
+        "image": "iconPerks_Hoarder",
+        "tiers": [
+            [
+                32,
+                2
+            ],
+            [
+                48,
+                2
+            ],
+            [
+                64,
+                2
+            ]
+        ]
+    },
+    {
+        "description": "당신의 삶은 고되다. 그러니 당신은 다른 이들의 삶도 고되게 만든다.<br><br>발전기를 손상시키면, 최대 <span class=\"Highlight1\">{0}</span>대의 무작위 발전기가 손상되기 시작한다.<br><br>영향을 받은 발전기가 다시 수리되더라도 해당 발전기를 수리하던 생존자에게는 어려운 스킬 체크가 주어진다.<br><br><i>억압</i>은 <span class=\"Highlight2\">{1}</span>초의 재사용 대기 시간을 가진다.<br>",
+        "name": "억압",
+        "flavor": "\"그들이 우리를 지옥에 떨어지게 한 것처럼 그들을 지옥에 떨어뜨릴 거야.\" —샬롯 데헤이스",
+        "id": 77,
+        "index": "OPPRESSION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TWINS",
+        "image": "iconPerks_Oppression",
+        "tiers": [
+            [
+                3,
+                120
+            ],
+            [
+                3,
+                100
+            ],
+            [
+                3,
+                80
+            ]
+        ]
+    },
+    {
+        "description": "끝이 다가오면 공세를 시작한다.<br><br>발전기가 완료될 때마다 '최후의 일격'의 파워가 증가한다.<br><br>토큰을 하나 소모할 때마다 다음 돌진 공격의 거리가 <span class=\"Highlight1\">{0}%</span> 증가한다.",
+        "name": "최후의 일격",
+        "id": 78,
+        "index": "COUP_DE_GRACE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TWINS",
+        "image": "iconPerks_coupDeGrace",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                50
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "독보적인 쇼맨십은 모두를 눈부시게 한다.<br><br>생존자를 둘러메고 있을 때 공포 범위 내에 있는 생존자들은 <b>약점 노출</b> 상태 효과에 빠지게 된다.<br>생존자들은 공포 범위에서 벗어난 후에도 효과는 <span class=\"Highlight1\">{0}초</span> 동안 지속되며, 생존자를 갈고리에 걸거나 내려놓을 때 역시 공포 범위 내에 있는 생존자에게도 효과가 동일하게 지속된다.<br>생존자가 내려놓을 때부터 <i>덕통사고</i>의 재사용 대기 시간 <span class=\"Highlight2\">{1}초</span>가 진행된다.<br>",
+        "name": "덕통사고",
+        "flavor": "\"이 순간은 즐겨, 아주 몇몇에게만 허락된 시간이라구.\" — 학지운",
+        "id": 79,
+        "index": "STARSTRUCK",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRICKSTER",
+        "image": "iconPerks_Starstruck",
+        "tiers": [
+            [
+                26,
+                26
+            ],
+            [
+                28,
+                28
+            ],
+            [
+                30,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "나보다 많은 숫자의 사람들을 제대로 길들일 수 있는 주술.<br><br>엔티티는 생존자가 <b>빠른</b> 행동으로 창틀을 뛰어넘으면 <span class=\"Highlight1\"> {0}초</span> 동안 창문을 막아준다.<br><br><i>주술의 효과는 주술 토템이 활성화되어 있는 동안에만 지속됩니다.</i><br>",
+        "name": "주술: 군중 통제",
+        "flavor": "\"너에겐 통제할 능력이 없어. 너희 같은 사람들은 절대 가질 수 없지.\" — 학지운",
+        "id": 80,
+        "index": "HEX_CROWD_CONTROL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRICKSTER",
+        "image": "iconPerks_HexCrowdControl",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                12
+            ],
+            [
+                14
+            ]
+        ]
+    },
+    {
+        "description": "VIP 룸에는 아무나 들일 수 없다.<br><br>첫 번째 생존자를 갈고리에 걸면 <i>출구 없음</i>은 토큰을 획득하다.<br>마지막 발전기가 수리되면 엔티티에 의해 <span class=\"Highlight1\">{0}초</span> 동안 양쪽 출구 스위치가 막히며, 살인마가 보유한 토큰의 수만큼 추가 <span class=\"Highlight2\">{1}초</span> 동안 막힌다.<br>",
+        "name": "출구 없음",
+        "flavor": "\"피가 흐를 때 나는 소리 같네... 다시 한번 더 들려줘.\" — 학지운",
+        "id": 81,
+        "index": "NO_WAY_OUT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRICKSTER",
+        "image": "iconPerks_NoWayOut",
+        "tiers": [
+            [
+                4,
+                26
+            ],
+            [
+                6,
+                34
+            ],
+            [
+                8,
+                42
+            ]
+        ]
+    },
+    {
+        "description": "목표물을 추적하고 제거하도록 설계되었다.<br><br>희생제 시작 시, 모든 생존자의 오라가 <span class=\"Highlight1\">{0}초</span>동안 드러난다.<br><br><span class= \"FlavorText\">\"...원하는 것이 무엇인지 알고 있으니, 그것을 가질 때까지 멈추지 않을 거야.\" —카를로스 올리비에라<\\span>",
+        "name": "치명적인 추적자",
+        "id": 82,
+        "index": "LETHAL_PURSUER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEMESIS",
+        "image": "iconPerks_lethalPursuer",
+        "tiers": [
+            [
+                7
+            ],
+            [
+                8
+            ],
+            [
+                9
+            ]
+        ]
+    },
+    {
+        "description": "당신은 팀원 한 명을 잔인하게 다루어 극심한 공포를 일으키는 방법을 알고 있다.<br><br>기본 공격으로 생존자를 부상 상태에 빠지게 만들 때마다, 부상 상태에 빠진 모든 생존자를 <span class=\"Highlight1\">{0}초</span> 동안 <b>인지 불가능</b> 상태 효과에 빠지게 만든다.<br><I>히스테리</i>는 <span class=\"Highlight2\">{1}초</span>마다 사용 가능하다.<br><br><span class= \"FlavorText\">\"미안하네, 내가 좀 흥분했어. 뭘 어떻게 해야할지 몰랐네.\" —로버트 켄도",
+        "name": "히스테리",
+        "id": 83,
+        "index": "HYSTERIA",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEMESIS",
+        "image": "iconPerks_hysteria",
+        "tiers": [
+            [
+                20,
+                30
+            ],
+            [
+                25,
+                30
+            ],
+            [
+                30,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "Ne-알파 기생체는 함정을 만드는 데 필요한 정보와 의식을 제공한다.<br><br>발전기를 발로 차면, 발전기의 오라가 노랗게 표시된다. 기본 공격으로 생존자를 빈사 상태에 빠뜨리면, 영향을 받은 모든 발전기가 폭발하며 진행 상항이 <span class=\"Highlight1\">{0}%</span> 퇴보되며 이는 발전기의 오라가 사라진다.<br>발전기가 폭발할 때 발전기를 수리했던 모든 생존자는 비명을 지르며 <span class=\"Highlight2\">{1}초</span> 동안 불구화 상태 효과에 빠진다<br>.<i>폭발</i>은 <span class=\"Highlight3\">{2}초</span>의 재사용 대기 시간을 가진다.<br><br><span class= \"FlavorText\">\"무기를 사용할 수 있다고?\" —질 발렌타인",
+        "name": "폭발",
+        "id": 84,
+        "index": "ERUPTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEMESIS",
+        "image": "iconPerks_eruption",
+        "tiers": [
+            [
+                6,
+                12,
+                30
+            ],
+            [
+                6,
+                14,
+                30
+            ],
+            [
+                6,
+                16,
+                30
+            ]
+        ]
+    }
+]

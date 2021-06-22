@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "index": "TRAPPER",
+        "name": "The Trapper",
+        "difficulty": 0,
+        "power": "BEAR_TRAP",
+        "description": "76830EE142752C6C5B59E3AE349508D0",
+        "perks": ["UNNERVING_PRESENCE", "BRUTAL_STRENGTH", "AGITATION"],
+        "image": "TR_charSelect_portrait"
+    },
+    {
+        "id": 2,
+        "index": "WRAITH",
+        "name": "The Wraith",
+        "difficulty": 1,
+        "power": "WAILING_BELL",
+        "description": "FC7CA1794855A7214EACBBA02DA8C594",
+        "perks": ["PREDATOR", "BLOODHOUND", "SHADOWBORN"],
+        "image": "WR_charSelect_portrait"
+    },
+    {
+        "id": 3,
+        "index": "HILLBILLY",
+        "name": "The Hillbilly",
+        "difficulty": 0,
+        "power": "CHAINSAW",
+        "description": "AF985DE64D00D5F6CA9768BDA968F3C8",
+        "perks": ["ENDURING", "LIGHTBORN", "TINKERER"],
+        "image": "HB_charSelect_portrait"
+    },
+    {
+        "id": 4,
+        "index": "NURSE",
+        "name": "The Nurse",
+        "difficulty": 2,
+        "power": "SPENCERS_LAST_BREATH",
+        "description": "B7AF6D7741A298B73549439615B03833",
+        "perks": ["STRIDOR", "THANATOPHOBIA", "A_NURSES_CALLING"],
+        "image": "NR_charSelect_portrait"
+    },
+    {
+        "id": 5,
+        "index": "HUNTRESS",
+        "name": "The Huntress",
+        "difficulty": 1,
+        "power": "HUNTING_HATCHETS",
+        "description": "B963A3AA4CFB6E1C444A73B0223B7AD2",
+        "perks": ["BEAST_OF_PREY", "TERRITORIAL_IMPERATIVE", "HEX_HUNTRESS_LULLABY"],
+        "image": "BE_charSelect_portrait"
+    },
+    {
+        "id": 6,
+        "index": "SHAPE",
+        "name": "The Shape",
+        "difficulty": 2,
+        "power": "EVIL_WITHIN",
+        "description": "C784434E43A9E2BC0940678BE8B4C0D5",
+        "perks": ["SAVE_THE_BEST_FOR_LAST", "PLAY_WITH_YOUR_FOOD", "DYING_LIGHT"],
+        "image": "SH_charSelect_portrait"
+    },
+    {
+        "id": 7,
+        "index": "HAG",
+        "name": "The Hag",
+        "difficulty": 1,
+        "power": "BLACKENED_CATALYST",
+        "description": "78D990024FE2E5E08DF8BFAC8C427F08",
+        "perks": ["HEX_THE_THIRD_SEAL", "HEX_RUIN", "HEX_DEVOUR_HOPE"],
+        "image": "HA_charSelect_portrait"
+    },
+    {
+        "id": 8,
+        "index": "CANNIBAL",
+        "name": "The Cannibal",
+        "difficulty": 0,
+        "power": "BUBBAS_CHAINSAW",
+        "description": "FC1B19BB4D915B12C9E39180E66F0314",
+        "perks": ["KNOCK_OUT", "BARBECUE_AND_CHILI", "FRANKLINS_DEMISE"],
+        "image": "CA_charSelect_portrait"
+    },
+    {
+        "id": 9,
+        "index": "DOCTOR",
+        "name": "The Doctor",
+        "difficulty": 2,
+        "power": "CARTERS_SPARK",
+        "description": "3021864A43DFDA705112DE814AF284A1",
+        "perks": ["OVERWHELMING_PRESENCE", "MONITOR_AND_ABUSE", "OVERCHARGE"],
+        "image": "DO_charSelect_portrait"
+    },
+    {
+        "id": 10,
+        "index": "NIGHTMARE",
+        "name": "The Nightmare",
+        "difficulty": 2,
+        "power": "DREAM_DEMON",
+        "description": "B346D34E45E961A5E0512BAB4DDC5142",
+        "perks": ["FIRE_UP", "REMEMBER_ME", "BLOOD_WARDEN"],
+        "image": "SD_charSelect_portrait"
+    },
+    {
+        "id": 11,
+        "index": "PIG",
+        "name": "The Pig",
+        "difficulty": 1,
+        "power": "JIGSAWS_BAPTISM",
+        "description": "622CD12C4F4DC1EB314DCABC1FAC94D2",
+        "perks": ["HANGMANS_TRICK", "SURVEILLANCE", "MAKE_YOUR_CHOICE"],
+        "image": "FK_charSelect_portrait"
+    },
+    {
+        "id": 12,
+        "index": "CLOWN",
+        "name": "The Clown",
+        "difficulty": 1,
+        "power": "THE_AFTERPIECE_TONIC",
+        "description": "9752ED094222F2E22389E98B4DA9059C",
+        "perks": ["BAMBOOZLE", "COULROPHOBIA", "POP_GOES_THE_WEASEL"],
+        "image": "GK_charSelect_portrait"
+    },
+    {
+        "id": 13,
+        "index": "SPIRIT",
+        "name": "The Spirit",
+        "difficulty": 2,
+        "power": "YAMAOKAS_HAUNTING",
+        "description": "86F0DB7A42F4BD2D93EDBDBE305893B0",
+        "perks": ["SPIRIT_FURY", "HEX_HAUNTED_GROUND", "RANCOR"],
+        "image": "HK_charSelect_portrait"
+    },
+    {
+        "id": 14,
+        "index": "LEGION",
+        "name": "The Legion",
+        "difficulty": 1,
+        "power": "FERAL_FRENZY",
+        "description": "30C3C3AA4273BC6F7A4425AD83A6F637",
+        "perks": ["DISCORDANCE", "MAD_GRIT", "IRON_MAIDEN"],
+        "image": "KK_charSelect_portrait"
+    },
+    {
+        "id": 15,
+        "index": "PLAGUE",
+        "name": "The Plague",
+        "difficulty": 1,
+        "power": "VILE_PURGE",
+        "description": "7D518CC04542FF4525CA8FA4DE7C7C8D",
+        "perks": ["CORRUPT_INTERVENTION", "INFECTIOUS_FRIGHT", "DARK_DEVOTION"],
+        "image": "MK_charSelect_portrait"
+    },
+    {
+        "id": 16,
+        "index": "GHOST",
+        "name": "The Ghost",
+        "difficulty": 2,
+        "power": "NIGHT_SHROUD",
+        "description": "D525A371477F96BD08ED26B5DFBFB605",
+        "perks": ["IM_ALL_EARS", "THRILLING_TREMORS", "FURTIVE_CHASE"],
+        "image": "OK_charSelect_portrait"
+    },
+    {
+        "id": 17,
+        "index": "DEMOGORGON",
+        "name": "The Demogorgon",
+        "difficulty": 1,
+        "power": "OF_THE_ABYSS",
+        "description": "B3BCFDCA4A131C9E6F99FF9EF388231E",
+        "perks": ["SURGE", "MINDBREAKER", "CRUEL_LIMITS"],
+        "image": "QK_charSelect_portrait"
+    },
+    {
+        "id": 18,
+        "index": "ONI",
+        "name": "The Oni",
+        "difficulty": 1,
+        "power": "YAMAOKAS_WRATH",
+        "description": "660A159946FAC710560FAB9F0D80C196",
+        "perks": ["ZANSHIN_TACTICS", "BLOOD_ECHO", "NEMESIS"],
+        "image": "SK_charSelect_portrait"
+    },
+    {
+        "id": 19,
+        "index": "DEATHSLINGER",
+        "name": "The Deathslinger",
+        "difficulty": 1,
+        "power": "THE_REDEEMER",
+        "description": "B6DC8CB747C056247547FA81C184ED3A",
+        "perks": ["GEARHEAD", "DEAD_MANS_SWITCH", "HEX_RETRIBUTION"],
+        "image": "UK_charSelect_portrait"
+    },
+    {
+        "id": 20,
+        "index": "EXECUTIONER",
+        "name": "The Executioner",
+        "difficulty": 1,
+        "power": "RITES_OF_JUDGMENT",
+        "description": "195E86B64862FDE661C8F6B6402439BB",
+        "perks": ["FORCED_PENANCE", "TRAIL_OF_TORMENT", "DEATHBOUND"],
+        "image": "K20_charSelect_portrait"
+    },
+    {
+        "id": 21,
+        "index": "BLIGHT",
+        "name": "The Blight",
+        "difficulty": 2,
+        "power": "BLIGHTED_CORRUPTION",
+        "description": "1C1280F946154BEE89B274BF3673A1CA",
+        "perks": ["DRAGONS_GRIP", "HEX_BLOOD_FAVOR", "HEX_UNDYING"],
+        "image": "K21_charSelect_portrait"
+    },
+    {
+        "id": 22,
+        "index": "TWINS",
+        "name": "The Twins",
+        "difficulty": 2,
+        "power": "BLOOD_BOND",
+        "description": "E4EBD07D44CA6CA15BE34EADB861BD01",
+        "perks": ["HOARDER", "OPPRESSION", "COUP_DE_GRACE"],
+        "image": "K22_charSelect_portrait"
+    },
+    {
+        "id": 23,
+        "index": "TRICKSTER",
+        "name": "The Trickster",
+        "difficulty": 0,
+        "power": "SHOWSTOPPER",
+        "description": "4EACD4CE4C5D3FA65A5C648BE6C2FB9B",
+        "perks": ["STARSTRUCK", "HEX_CROWD_CONTROL", "NO_WAY_OUT"],
+        "image": "K23_charSelect_portrait"
+    },
+    {
+        "id": 24,
+        "index": "NEMESIS",
+        "name": "The Nemesis",
+        "difficulty": 1,
+        "power": "T_VIRUS",
+        "description": "037B2753480B8FF99CA9BE838DBDF2B4",
+        "perks": ["LETHAL_PURSUER", "HYSTERIA", "ERUPTION"],
+        "image": "K24_charSelect_portrait"
+    }
+]

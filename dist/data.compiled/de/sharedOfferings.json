@@ -1,0 +1,398 @@
+[
+    {
+        "description": "Gewährt <b>100 %</b> Bonus-Blutpunkte in allen Kategorien für alle Spieler in dieser Prüfung.<br><li>Kombinierbar.</li>",
+        "name": "Blutige Partyluftschlangen",
+        "flavor": "„Eine Erinnerung an eine fantastische Feier, bei der sich Leute versammelt hatten, dann aber schreiend flüchteten.“",
+        "id": 1,
+        "index": "BLOODY_PARTY_STREAMERS",
+        "rarity": 2,
+        "image": "iconFavors_bloodyPartyStreamers"
+    },
+    {
+        "description": "<b>Verringert leicht</b> den Schwarzen Schleier.<br><li>Effekt summiert sich.</li>",
+        "name": "Klares Reagenz",
+        "flavor": "\"Der Nebelschleier bricht herein, er zieht alles in seinen dunklen Wahnsinn. Es gibt kein Weglaufen, kein Entrinnen, keine Zuflucht, außer für das reine Wasser des im Wald verlorenen Teichs.\" - Unbekannt, Notizbuch",
+        "id": 2,
+        "index": "CLEAR_REAGENT",
+        "rarity": 0,
+        "image": "iconFavors_clearReagent"
+    },
+    {
+        "description": "<b>Verdichtet leicht</b> den Dunklen Nebelschleier.<br><li>Effekt summiert sich.</li>",
+        "name": "Schwaches Reagenz",
+        "flavor": "\"Gelähmt stehe ich in der Kälte, zurückbleibend mit dem Tod.\"",
+        "id": 3,
+        "index": "FAINT_REAGENT",
+        "rarity": 0,
+        "image": "iconFavors_faintReagent"
+    },
+    {
+        "description": "<b>Verdichtet moderat</b> den dunklen Nebelschleier.<br><li>Kombinierbar.</li>",
+        "name": "Trübes Reagenz",
+        "flavor": "„Der Nebelschleier ist verführerisch, hypnotisierend. Ich liebe ihn und fürchte ihn zugleich.“ –Donnas Skizzenbuch",
+        "id": 4,
+        "index": "HAZY_REAGENT",
+        "rarity": 1,
+        "image": "iconFavors_hazyReagent"
+    },
+    {
+        "description": "<b>Verdichtet stark</b> den dunklen Nebelschleier.<br><li>Kombinierbar.</li>",
+        "name": "Dunkles Reagenz",
+        "flavor": "„Der Nebelschleier scheint uns vor der Bestie zu beschützen, aber er ist ein Gift, ein Geschwür, welches uns mit Dunkelheit und Wahnsinn erfüllt.“ –Notizbuch eines unbekannten Verfassers",
+        "id": 5,
+        "index": "MURKY_REAGENT",
+        "rarity": 3,
+        "image": "iconFavors_murkyReagent"
+    },
+    {
+        "description": "Bittet den Entitus um <b>dunkelstes Mondlicht</b>.",
+        "name": "Neumondbouquet ",
+        "flavor": "\"Geh besser wieder schlafen, heute Nacht scheint der Mond nicht.\"",
+        "id": 6,
+        "index": "NEW_MOON_BOUQUET",
+        "rarity": 4,
+        "image": "iconFavors_newMoonBouquet"
+    },
+    {
+        "description": "Bittet den Entitus um <b>gedämpftes Mondlicht</b>.",
+        "name": "Sichelmondbouquet",
+        "flavor": "\"Der Mond verschwindet langsam mit einem Lächeln: ‚Mach dir keine Sorgen, dein Geheimnis ist bei mir sicher.‘ Oder ist es ein übles Grinsen?\"",
+        "id": 7,
+        "index": "CRESCENT_MOON_BOUQUET",
+        "rarity": 1,
+        "image": "iconFavors_crecentMoonBouquet"
+    },
+    {
+        "description": "Bittet den Entitus um <b>helleres Mondlicht</b>.",
+        "name": "Viertelmondbouquet",
+        "flavor": "\"Der alte Mond zeigt sein Gesicht und blickt auf die Opfer herab.\"",
+        "id": 8,
+        "index": "QUARTER_MOON_BOUQUET",
+        "rarity": 1,
+        "image": "iconFavors_quarterMoonBouquet"
+    },
+    {
+        "description": "Bittet den Entitus um <b>hellstes Mondlicht</b>.",
+        "name": "Vollmondbouquet",
+        "flavor": "\"Wenn der Mond aufgeht, heulen die Wölfe. Die Jagd beginnt.\"",
+        "id": 9,
+        "index": "FULL_MOON_BOUQUET",
+        "rarity": 3,
+        "image": "iconFavors_fullMoonBouquet"
+    },
+    {
+        "description": "<b>Erhöht leicht</b> die Wahrscheinlichkeit, zum MacMillan-Anwesen geschickt zu werden, wenn sie verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "MacMillans Kassenbuchseite",
+        "flavor": "„Eine zerrissene und verblichene Kassenbuchseite mit unleserlichen Informationen, abgesehen vom MacMillan-Stempel.“",
+        "id": 10,
+        "index": "MACMILLAN_LEDGER_PAGE",
+        "rarity": 0,
+        "image": "iconFavors_macmillianLedgerPage"
+    },
+    {
+        "description": "<b>Erhöht deutlich</b> die Wahrscheinlichkeit, zum MacMillan-Anwesen geschickt zu werden, wenn sie verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "Unterzeichnete Kassenbuchseite",
+        "flavor": "„Eine verblichene Seite eines Kassenbuchs, die auf Bergbauausrüstung und andere Transaktionen verweist. Unterschrieben von Archie MacMillan.“",
+        "id": 11,
+        "index": "SIGNED_LEDGER_PAGE",
+        "rarity": 1,
+        "image": "iconFavors_signedLedgerPage"
+    },
+    {
+        "description": "<b>Erhöht enorm</b> die Wahrscheinlichkeit, zum MacMillan-Anwesen geschickt zu werden, wenn er verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "MacMillans Fingerknochen",
+        "flavor": "„MacMillans Skelett wurde im Keller des Bergbaulagerhauses gefunden. Seine Beinknochen waren zerschmettert und ein Bergbauhammer lag in seinem Schoß.“",
+        "id": 12,
+        "index": "MACMILLANS_PHALANX_BONE",
+        "rarity": 2,
+        "image": "iconFavors_macmilliansPhalanxBone"
+    },
+    {
+        "description": "<b>Erhöht leicht</b> die Wahrscheinlichkeit, zum Autohaven-Schrottplatz geschickt zu werden, wenn es verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "Zerfetztes Nummernschild",
+        "flavor": "„Ein stark verrostetes, verbogenes und verschlissenes Metallschild.“",
+        "id": 13,
+        "index": "SHREDDED_PLATE",
+        "rarity": 0,
+        "image": "iconFavors_plateShredded"
+    },
+    {
+        "description": "<b>Erhöht deutlich</b> die Wahrscheinlichkeit, zum Autohaven-Schrottplatz geschickt zu werden, wenn es verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "Nummernschild aus Virginia",
+        "flavor": "„Ein verrostetes und verbogenes Nummernschild aus dem Bundesstaat Virginia.“",
+        "id": 14,
+        "index": "VIRGINIA_PLATE",
+        "rarity": 1,
+        "image": "iconFavors_plateVirginia"
+    },
+    {
+        "description": "<b>Erhöht enorm</b> die Wahrscheinlichkeit, zum Autohaven-Schrottplatz geschickt zu werden, wenn er verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "Azarovs Schlüssel",
+        "flavor": "„Ein zerbrochener Schlüssel, der zu einem Fahrzeug unbekannter Marke gehört. Ein daran befestigtes Schlüsselband identifiziert den Besitzer als einen gewissen A. Azarov.“",
+        "id": 15,
+        "index": "AZAROVS_KEY",
+        "rarity": 2,
+        "image": "iconFavors_azarovsKey"
+    },
+    {
+        "description": "<b>Erhöht leicht</b> die Wahrscheinlichkeit, zur Coldwind Farm geschickt zu werden, wenn sie verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "Rindermarke 28",
+        "flavor": "„Eine blutverschmierte Rindermarke mit der Nummer 28.“",
+        "id": 16,
+        "index": "CATTLE_TAG_TWENTY_EIGHT",
+        "rarity": 0,
+        "image": "iconFavors_cattleTag28"
+    },
+    {
+        "description": "<b>Erhöht deutlich</b> die Wahrscheinlichkeit, zur Coldwind Farm geschickt zu werden, wenn sie verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "Coldwind-Rindermarke 81",
+        "flavor": "„Eine blutverschmierte Rindermarke, gekennzeichnet mit ‚Coldwind Farm‘ und der Nummer 81.“",
+        "id": 17,
+        "index": "CATTLE_TAG_EIGHTY_ONE",
+        "rarity": 1,
+        "image": "iconFavors_cattleTag81"
+    },
+    {
+        "description": "<b>Erhöht enorm</b> die Wahrscheinlichkeit, zur Coldwind Farm geschickt zu werden, wenn es verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "Herzmedaillon",
+        "flavor": "„Eine Halskette mit silbernem Anhänger. Im schlichten Inneren ist E+M eingraviert.“",
+        "id": 18,
+        "index": "HEART_LOCKET",
+        "rarity": 2,
+        "image": "iconFavors_heartLocket"
+    },
+    {
+        "description": "<b>Erhöht leicht</b> die Wahrscheinlichkeit, in die Crotus-Prenn-Anstalt geschickt zu werden, wenn er verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "Überweisungsschein",
+        "flavor": "„Ein abgenutzter, verblichener Überweisungsschein mit unleserlicher Aufschrift.“",
+        "id": 19,
+        "index": "LUNACY_TICKET",
+        "rarity": 0,
+        "image": "iconFavors_lunacyTicket"
+    },
+    {
+        "description": "<b>Erhöht deutlich</b> die Wahrscheinlichkeit, in die Crotus-Prenn-Anstalt geschickt zu werden, wenn er verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "P. Elliotts Überweisungsschein",
+        "flavor": "„Ein rosafarbener Überweisungsschein, auf dem steht, dass Philip Elliott in die Crotus-Prenn-Anstalt überstellt werden soll.“",
+        "id": 20,
+        "index": "P_ELLIOT_LUNACY_TICKET",
+        "rarity": 1,
+        "image": "iconFavors_pElliottLunacyTicket"
+    },
+    {
+        "description": "<b>Erhöht enorm</b> die Chance, in die Crotus Prenn Zuflucht geschickt zu werden, wenn es verbrannt wird.",
+        "name": "Verkohltes Hochzeitsfoto",
+        "flavor": "\"Ein verbranntes Portrait eines Paares an ihrem Hochzeitstag, die Gesichter sind komplett verkohlt und nicht identifizierbar.\"",
+        "id": 21,
+        "index": "CHARRED_WEDDING_PHOTOGRAPH",
+        "rarity": 2,
+        "image": "iconFavors_charredWeddingPhotograph"
+    },
+    {
+        "description": "<b>Erhöht leicht</b> die Wahrscheinlichkeit, nach Haddonfield geschickt zu werden, wenn er verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "Erntedankfest-Flyer",
+        "flavor": "„Ein verwaschenes Flugblatt für das Erntedankfest von 1978 in Haddonfield. Auf der Vorderseite prangt die Zeichnung eines großen Kürbisses.“",
+        "id": 22,
+        "index": "HARVEST_FESTIVAL_LEAFLET",
+        "rarity": 0,
+        "image": "iconFavors_harvestFestivalLeaflet"
+    },
+    {
+        "description": "<b>Erhöht deutlich</b> die Wahrscheinlichkeit, nach Haddonfield geschickt zu werden, wenn sie verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "Marode Dachschindel",
+        "flavor": "„Eine modrige und verfaulte Dachschindel aus Eichenholz, wie man sie auf fast allen Häusern in Haddonfield findet.“",
+        "id": 23,
+        "index": "DECREPIT_CLAPBOARD",
+        "rarity": 1,
+        "image": "iconFavors_decrepitClapboard"
+    },
+    {
+        "description": "<b>Erhöht enorm</b> die Wahrscheinlichkeit, nach Haddonfield geschickt zu werden, wenn er verbrannt wird.",
+        "name": "Strode-Immobilienschlüssel",
+        "flavor": "„Ein gewöhnlich wirkender Hausschlüssel. Der Schlüsselanhänger aus Pappe weist ihn als Eigentum der Strode-Immobilienfirma aus, darauf findet sich auch eine handgeschriebene Adresse: 45 Lampkin Lane.“",
+        "id": 24,
+        "index": "STRODE_REALTY_KEY",
+        "rarity": 2,
+        "image": "iconFavors_strodeRealtyKey"
+    },
+    {
+        "description": "<b>Erhöht leicht</b> die Wahrscheinlichkeit, zum Backwater-Sumpf geschickt zu werden, wenn es verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "Rauchendes Tauwerk",
+        "flavor": "„Ein verkohltes Stück eines Schiffsseils, das noch immer warmen Rauch verströmt.“",
+        "id": 25,
+        "index": "FUMING_CORDAGE",
+        "rarity": 0,
+        "image": "iconFavors_fumingCordage"
+    },
+    {
+        "description": "<b>Erhöht deutlich</b> die Wahrscheinlichkeit, zum Backwater-Sumpf geschickt zu werden, wenn es verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "Rauchendes Willkommensschild",
+        "flavor": "„Ein Willkommensschild, das aus einem groben Stück eines vom Wasser glattgeschliffenen Zypressenbrettes hergestellt wurde. Das Schild ist verkohlt und raucht noch immer.“",
+        "id": 26,
+        "index": "FUMING_WELCOME_SIGN",
+        "rarity": 1,
+        "image": "iconFavors_fumingWelcomeSign"
+    },
+    {
+        "description": "<b>Erhöht enorm</b> die Wahrscheinlichkeit, zum Backwater-Sumpf geschickt zu werden, wenn es verbrannt wird.",
+        "name": "Großmutters Kochbuch",
+        "flavor": "„Eine ledergebundene Mappe, die grausame Menschenfleischrezepte enthält, wie zum Beispiel Großmutters Schlager: das gute Chili.“",
+        "id": 27,
+        "index": "GRANDMAS_COOKBOOK",
+        "rarity": 2,
+        "image": "iconFavors_granmasCookbook"
+    },
+    {
+        "description": "<b>Erhöht leicht</b> die Wahrscheinlichkeit, in Lérys Gedenkinstitut geschickt zu werden, wenn es verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "Notfallbescheinigung",
+        "flavor": "„Ein gelbes, durchschreibendes Formular, das einen Patienten sofort zur Notbehandlung einweist. Die kopierten Informationen sind verschmiert und unleserlich.“",
+        "id": 28,
+        "index": "EMERGENCY_CERTIFICATE",
+        "rarity": 0,
+        "image": "iconFavors_emergencyCertificate"
+    },
+    {
+        "description": "<b>Erhöht deutlich</b> die Chance, in Lérys Gedenkinstitut geschickt zu werden, wenn er verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "Psychiatrischer Beurteilungsbericht",
+        "flavor": "„Ein psychiatrischer Bericht, unterzeichnet von Herman Carter. Er beschreibt den Gedächtnisverlust eines Patienten und enthält Empfehlungen für die nächsten Schritte der Prozedur.“",
+        "id": 29,
+        "index": "PSYCHIATRIC_ASSESSMENT_REPORT",
+        "rarity": 1,
+        "image": "iconFavors_psychiatricAssessmentReport"
+    },
+    {
+        "description": "<b>Erhöht enorm</b> die Chance, in Lérys Gedenkinstitut geschickt zu werden, wenn sie verbrannt wird.",
+        "name": "Kaputte Brille",
+        "flavor": "„Verbogene Lesebrille. Auf den kaputten Gläsern befinden sich Tropfen getrockneten Bluts.“",
+        "id": 30,
+        "index": "SHATTERED_GLASSES",
+        "rarity": 2,
+        "image": "iconFavors_shatteredGlasses"
+    },
+    {
+        "description": "<b>Erhöht leicht</b> die Wahrscheinlichkeit, in den roten Wald geschickt zu werden, wenn er verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "Bemalter Flusskiesel",
+        "flavor": "„Ein glatter, geschmeidiger Kieselstein, der in einem Wasserlauf poliert wurde. Mit roter, schwarzer und weißer Farbe dekoriert, sodass er wie ein ernst dreinschauender Bär aussieht.“",
+        "id": 31,
+        "index": "PAINTED_RIVER_ROCK",
+        "rarity": 0,
+        "image": "iconFavors_paintedRiverRock"
+    },
+    {
+        "description": "<b>Erhöht deutlich</b> die Wahrscheinlichkeit, in den roten Wald geschickt zu werden, wenn es verbrannt wird.<br><li>Kombinierbar.</li>",
+        "name": "Kinderbuch",
+        "flavor": "„Ein uraltes, zerfleddertes Geschichtenbuch, dessen Seiten Opfer der Elemente wurden.“",
+        "id": 32,
+        "index": "CHILDRENS_BOOK",
+        "rarity": 1,
+        "image": "iconFavors_childrensBook"
+    },
+    {
+        "description": "<b>Erhöht enorm</b> die Wahrscheinlichkeit, in den roten Wald geschickt zu werden, wenn sie verbrannt wird.",
+        "name": "Die letzte Maske",
+        "flavor": "„Eine wunderschön gefertigte Tigermaske, die einem Kind perfekt passen würde. Auf der Rückseite befindet sich eine verblasste Notiz in kyrillischer Schrift.“",
+        "id": 33,
+        "index": "THE_LAST_MASK",
+        "rarity": 2,
+        "image": "iconFavors_theLastMask"
+    },
+    {
+        "description": "<b>Erhöht enorm</b> die Wahrscheinlichkeit, nach Springwood geschickt zu werden, wenn er verbrannt wird.",
+        "name": "Der Rattenfänger",
+        "flavor": "„Von der Stadt verraten, holt er sich seine Rache, indem er ihnen alle ihre Kinder nimmt.“",
+        "id": 34,
+        "index": "THE_PIED_PIPER",
+        "rarity": 2,
+        "image": "iconFavors_thePiedPiper"
+    },
+    {
+        "description": "Die Verbrennung dieser Opfergabe gewährt dir Schutz gegen den Verlust deiner Zusätze am Ende der Prüfung.",
+        "name": "Schwarze Abwehr",
+        "flavor": "„Höre meine Stimme, verschone mich, bewahre mich vor der Leere.“",
+        "id": 36,
+        "index": "BLACK_WARD",
+        "rarity": 3,
+        "image": "iconFavors_wardBlack"
+    },
+    {
+        "description": "Die Verbrennung dieser Opfergabe gewährt dir Schutz gegen den Verlust deiner Gegenstände und Zusätze.",
+        "name": "Weiße Abwehr",
+        "flavor": "\"Bewahre mich vor dem Bösen, verteidige mich und stirb.\"",
+        "id": 37,
+        "index": "WHITE_WARD",
+        "rarity": 3,
+        "image": "iconFavors_wardWhite"
+    },
+    {
+        "description": "<b>Erhöht enorm</b> die Wahrscheinlichkeit, zum Yamaoka-Anwesen geschickt zu werden, wenn es verbrannt wird.",
+        "name": "Wappen der Yamaoka-Familie",
+        "flavor": "„Ein zerstörtes Zuhause verlässt man nie. Man läuft nur so lange davon, bis einen die Erinnerungen nicht mehr verfolgen.“",
+        "id": 38,
+        "index": "YAMAOKA_FAMILY_CREST",
+        "rarity": 2,
+        "image": "iconFavors_yamaokasCrest"
+    },
+    {
+        "description": "Bittet den Entitus, alle Opfergaben abzulehnen, die die Wahrscheinlichkeit ändern, zu einem bestimmten Reich geschickt zu werden.<br>Lässt sich nur abbrechen, wenn vier identische Reich-Opfergaben gespielt werden.",
+        "name": "Opferabwehr",
+        "flavor": "„Blind unterwerfen wir uns deinem Willen und bitten dich um Führung.“",
+        "id": 39,
+        "index": "SACRIFICIAL_WARD",
+        "rarity": 2,
+        "image": "iconFavors_wardSacrificial"
+    },
+    {
+        "description": "<b>Erhöht enorm</b> die Wahrscheinlichkeit, zur Midwich Elementary School geschickt zu werden, wenn man verbrennt.",
+        "name": "Marys Brief",
+        "flavor": "„In meinen rastlosen Träumen sehe ich diese Stadt.“",
+        "id": 40,
+        "index": "MARYS_LETTER",
+        "rarity": 2,
+        "image": "iconFavors_marysLetter"
+    },
+    {
+        "description": "<b>Erhöht enorm</b> die Wahrscheinlichkeit, in die Gideon-Fleischfabrik geschickt zu werden, wenn es verbrannt wird.",
+        "name": "Puzzleteil",
+        "flavor": "„Herzlichen Glückwunsch. Sie leben weiter. Die meisten Menschen sind so undankbar, dass sie noch leben. Aber Sie nicht. Jetzt nicht mehr.“",
+        "id": 41,
+        "index": "JIGSAW_PIECE",
+        "rarity": 2,
+        "image": "iconFavors_jigsawPiece"
+    },
+    {
+        "description": "<b>Erhöht enorm</b> die Chance, bei Verbrennungen zum Hawkins National Laboratory geschickt zu werden.",
+        "name": "Laborausweis vom Hawkins National Laboratory ",
+        "flavor": "„Ein durchnässter und blutverschmierter Ausweis mit einer Seriennummer.“",
+        "id": 42,
+        "index": "HAWKINS_NATIONAL_LABORATORY_ID",
+        "rarity": 2,
+        "image": "iconFavors_hawkinsNationalLaboratoryID"
+    },
+    {
+        "description": "<b>Erhöht enorm</b> die Chance, bei Verbrennung zum Grab von Glenvale geschickt zu werden.",
+        "name": "Staubige Schlinge",
+        "flavor": "„Frag die Leute in diesem staubigen Land übers Überleben aus, und sie werden dir sagen, was eine Schlinge wirklich ist: eine verdammte Gnade.“",
+        "id": 43,
+        "index": "DUSTY_NOOSE",
+        "rarity": 2,
+        "image": "iconFavors_dustyNoose"
+    },
+    {
+        "description": "Eine schreckliche, den Magen durchschüttelnde Torte zur Feier von drei gemeinsamen Jahren. Gewährt <b>103 %</b> Bonus-Blutpunkte in allen Kategorien und für alle Spieler in dieser Prüfung.<br><li>Kombinierbar.</li>",
+        "name": "Ekeltorte",
+        "flavor": "„Herzlichen Glückwunsch! Auf unsere drei gemeinsamen Jahre!“<br>–Das Team von Dead by Daylight",
+        "id": 44,
+        "index": "GRUESOME_GATEAU",
+        "rarity": 5,
+        "image": "iconFavors_gruesomeGateau"
+    },
+    {
+        "description": "Eine spektakulär schreckliche Torte zur Feier von vier gemeinsamen Jahren. Ist 1 % leckerer als eine Ekeltorte. Gewährt <b>104 %</b> Bonus-Blutpunkte in allen Kategorien und für alle Spieler in dieser Prüfung.<br><li>Kombinierbar.</li>",
+        "name": "Torte des Grauens",
+        "flavor": "„Herzlichen Glückwunsch! Auf viele weitere Jahre!“<br>– Das Team von Dead by Daylight",
+        "id": 45,
+        "index": "GHASTLY_GATEAU",
+        "rarity": 5,
+        "image": "iconFavors_gruesomeGateau"
+    }
+]

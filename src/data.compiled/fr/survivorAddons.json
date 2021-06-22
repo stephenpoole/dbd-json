@@ -1,0 +1,503 @@
+[
+    {
+        "description": "Une lentille fine et large en parfait état. Conçue pour élargir le faisceau de la lampe de poche au détriment de la portée à laquelle elle est efficace.<br><li><b>Élargit modérément</b> le faisceau de la lampe de poche.</li><li><b>Réduit légèrement</b> la portée du faisceau de la lampe de poche.</li>",
+        "name": "Lentille large",
+        "id": 1,
+        "index": "WIDE_LENS",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_wideLens"
+    },
+    {
+        "description": "Une petite ampoule de lampe de poche à la puissance plus élevée qui garantit un faisceau plus lumineux.<br><li><b>Réduit légèrement</b> le rayon du faisceau de la lampe de poche.</li><li><b>Augmente légèrement</b> l’éclat du faisceau.</li><li><b>Augmente légèrement</b> la durée de l’Aveuglement.</li>",
+        "name": "Ampoule électrique",
+        "flavor": "« Même la lampe la plus puissante ne peut percer la noirceur de la brume noire. »",
+        "id": 2,
+        "index": "POWER_BULB",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_powerBulb"
+    },
+    {
+        "description": "Une bande de cuir enroulée autour de la lampe de poche pour améliorer la prise en main.<br><li><b>Augmente légèrement</b> la précision de la lampe de poche.</li>",
+        "name": "Poignée en cuir",
+        "flavor": "« Beaucoup ont péri car ils transpiraient des mains. »",
+        "id": 3,
+        "index": "LEATHER_GRIP",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_leatherGrip"
+    },
+    {
+        "description": "Une pile standard de marque inconnue.<br><li>Ajoute <b>2 secondes</b> d’utilisation à la lampe de poche classique.</li>",
+        "name": "Pile",
+        "flavor": "« Encore une pile presque à plat. »",
+        "id": 4,
+        "index": "BATTERY",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_battery"
+    },
+    {
+        "description": "Assemblage d’une lentille et d’un réflecteur qui agrandit le faisceau de la lampe de poche.<br><li><b>Augmente modérément</b> l’éclat du faisceau.</li><li><b>Augmente modérément</b> la durée de l’Aveuglement.</li>",
+        "name": "Optique à réflexion totale",
+        "flavor": "« Laissez la lumière dévoiler leur linceul noir. »",
+        "id": 5,
+        "index": "TIR_OPTIC",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_tirOptic"
+    },
+    {
+        "description": "Une poignée en caoutchouc spécialement conçue pour s’adapter aux lampes de poche pour en améliorer la prise en main.<br><li><b>Augmente modérément</b> la précision de la lampe de poche.</li>",
+        "name": "Une poignée en caoutchouc spécialement conçue pour s’adapter aux lampes de poche pour en améliorer la prise en main.<br><li><b>Augmente modérément</b> la précision de la lampe de poche.</li>",
+        "id": 6,
+        "index": "RUBBER_GRIP",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_rubberGrip"
+    },
+    {
+        "description": "Une ampoule à filament conçue pour allonger la durée de vie des piles d’une lampe de poche.<br><li><b>Réduit modérément</b> la consommation de piles de la lampe de poche.</li>",
+        "name": "Filament Bas Ampérage",
+        "id": 7,
+        "index": "LOW_AMP_FILAMENT",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_threadedFilament"
+    },
+    {
+        "description": "Une pile portant la mention « puissance industrielle. »<br><li>Ajoute <b>4 secondes</b> d’utilisation à la lampe de poche classique.</li>",
+        "name": "Pile haute performance",
+        "flavor": "« Une pile conçue pour durer 8 heures ne dure que quelques secondes dans la brume noire. »",
+        "id": 8,
+        "index": "HEAVY_DUTY_BATTERY",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_heavyDutyBattery"
+    },
+    {
+        "description": "Une lentille de verre épaisse qui concentre le faisceau de la lampe de poche pour augmenter son intensité.<br><li><b>Augmente légèrement</b> la portée du faisceau de la lampe de poche.</li><li><b>Réduit légèrement</b> le rayon du faisceau de la lampe de poche.</li><li><b>Augmente légèrement</b> l’éclat du faisceau.</li><li><b>Augmente légèrement</b> la durée de l’Aveuglement.</li>",
+        "name": "Lentilles focales",
+        "id": 9,
+        "index": "FOCUS_LENS",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_focusLens"
+    },
+    {
+        "description": "Un modèle récent de pile qui dure plus longtemps.<br><li>Ajoute <b>6 secondes</b> d’utilisation à une lampe de poche normale.</li>",
+        "name": "Pile longue durée",
+        "id": 10,
+        "index": "LONG_LIFE_BATTERY",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconAddon_longLifeBattery"
+    },
+    {
+        "description": "Une ampoule chimique qui génère une lumière intense.<br><li><b>Augmente considérablement</b> l’éclat du faisceau.</li><li><b>Augmente considérablement</b> la durée de l’Aveuglement.</li>",
+        "name": "Lampe halogène intense",
+        "id": 11,
+        "index": "INTENSE_HALOGEN",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconAddon_intenseHalogen"
+    },
+    {
+        "description": "Une large lentille en saphir impossible à rayer qui optimise la puissance et la portée du faisceau de lumière.<br><li><b>Élargit modérément</b> le faisceau de la lampe de poche.</li><li><b>Augmente légèrement</b> le faisceau de la lampe de poche.</li><li><b>Augmente modérément</b> l'éclat du faisceau.</li><li><b>Augmente modérément</b> la durée de l'aveuglement.</li>",
+        "name": "Lentille haut de gamme en saphir",
+        "id": 12,
+        "index": "HIGH_END_SAPPHIRE_LENS",
+        "type": 1,
+        "rarity": 3,
+        "image": "iconAddon_highEndSapphireLens"
+    },
+    {
+        "description": "Une ampoule lourde et complètement opaque d’origine inconnue qui émet une faible lumière même quand la lampe est éteinte.<br><li><b>Augmente énormément</b> l’éclat du faisceau.</li><li><b>Augmente énormément</b> la durée de l’Aveuglement.</li><li><b>Augmente légèrement</b> la consommation d’énergie de la lampe de poche.</li>",
+        "name": "Ampoule bizarre",
+        "id": 13,
+        "index": "ODD_BULB",
+        "type": 1,
+        "rarity": 4,
+        "image": "iconAddon_oddBulb"
+    },
+    {
+        "description": "Corde finement tressée utilisée dans les rituels. Peut être attachée à la clé.<br><li>Ajoute <b>10 secondes</b> d’utilisation à la clé.</li>",
+        "name": "Corde de prière",
+        "flavor": "« Priez tant que vous voulez, vos mots se perdent ici dans le brouillard. »",
+        "id": 14,
+        "index": "PRAYER_ROPE",
+        "type": 2,
+        "rarity": 0,
+        "image": "iconAddon_prayerRope"
+    },
+    {
+        "description": "Une perle poreuse griffée. Un minuscule anneau permet de l’attacher à la clé.<br><li><b>Augmente modérément</b> la portée de repérage d’aura de la clé.</li>",
+        "name": "Perle griffée",
+        "id": 15,
+        "index": "SCRATCHED_PEARL",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_scratchedPearl"
+    },
+    {
+        "description": "Un collier de perles mates de tailles variées utilisé dans des rituels. Peut être attaché à la clé.<br><li>Ajoute <b>15 secondes</b> d’utilisation à la clé.</li>",
+        "name": "Perles de Prière",
+        "id": 16,
+        "index": "PRAYER_BEADS",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_prayerBeads"
+    },
+    {
+        "description": "Un jeton très usé en laiton. Si une inscription quelconque fut un jour gravée dessus, elle a aujourd'hui totalement disparu. Peut être associé à la clé grâce à son anneau, pour canaliser la capacité de repérage d'aura de la clé.<br><li>Révèle l'<b>aura des survivants</b> dans un rayon de <b>24 mètres</b>.</li>",
+        "name": "Jeton Rongé",
+        "id": 17,
+        "index": "ERODED_TOKEN",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_tokenErroded"
+    },
+    {
+        "description": "Un jeton doré et terne. Les faces sont lisses et ne portent aucune inscription. Peut être attaché à la clé grâce à son anneau pour canaliser la capacité de repérage d'aura de la clé.<br><li>Révèle l'<b>aura des survivants</b> dans un rayon de <b>48 mètres</b>.</li>",
+        "name": "Jeton en or",
+        "id": 18,
+        "index": "GOLD_TOKEN",
+        "type": 2,
+        "rarity": 2,
+        "image": "iconAddon_tokenGold"
+    },
+    {
+        "description": "Un porte-clés apparemment sans intérêt avec un lustre bleuâtre sombre. Il lie la clé à son utilisateur, empêchant ce dernier de le perdre, même dans les pires moments.<br><li>Ne perdez pas la clé si vous mourez, perdez plutôt cet accessoire.</li>",
+        "name": "Anneau porte-clés",
+        "id": 19,
+        "index": "WEAVED_RING",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_weavedRing"
+    },
+    {
+        "description": "Ce morceau de verre opaque émet une vibration sonore sourde. Quand la clé est utilisée pour débloquer la trappe, le jeton de verre empêche la clé de casser en canalisant à l'intérieur l’énergie de la brume.<br><li>Ne perdez pas la clé en ouvrant la trappe, perdez plutôt cet accessoire.</li>",
+        "name": "Verre opalin",
+        "id": 20,
+        "index": "MILKY_GLASS",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_milkyGlass"
+    },
+    {
+        "description": "Ambre rouge sang strié de veines noires. L'ambre est chaud au toucher. Peut être associé à la clé en utilisant son anneau pour canaliser la capacité de repérage d'aura de la clé.<br><li>Visualisez l'<b>aura du tueur</b> dans un rayon de <b>32 mètres</b> au prix d'<b>une grande dépense</b> d'énergie de la clé.</li>",
+        "name": "Ambre de sang",
+        "id": 21,
+        "index": "BLOOD_AMBER",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_bloodAmber"
+    },
+    {
+        "description": "Une pièce fragmentée en matériau épais et fibreux. Un dessin de carte partiel et effacé est imprimé dessus, inutilisable en l’état.<br><li>Ajoute une charge de <b>5 secondes</b> à toute carte.</li>",
+        "name": "Carte : Addenda",
+        "id": 22,
+        "index": "MAP_ADDENDUM",
+        "type": 3,
+        "rarity": 0,
+        "image": "iconAddon_mapAddendum"
+    },
+    {
+        "description": "Un petit câble électrique. Les extrémités sont très abîmées, comme s'il avait été littéralement arraché de là où il se trouvait initialement. Peut être attaché à une carte pour améliorer sa capacité de repérage d'aura.<br><li>Débloque la capacité de localiser les <b>portes de sortie</b>.</li>",
+        "name": "Fil jaune",
+        "id": 23,
+        "index": "YELLOW_WIRE",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_ropeYellow"
+    },
+    {
+        "description": "Un cachet en bois utilisé pour estampiller des documents. Difficile de savoir qui l’utilisait, ni dans quel but. Peut être utilisé avec une carte.<br><li><b>Augmente modérément</b> la portée de la capacité de suivi de la carte.</li>",
+        "name": "Cachet étrange",
+        "id": 24,
+        "index": "UNUSUAL_STAMP",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_stampUnusual"
+    },
+    {
+        "description": "Une substance gluante, translucide, d’un épouvantable bleu lavande. Cette gelée d’origine inconnue est particulièrement résistante à la chaleur.<br><li><b>Réduit modérément</b> la vitesse d’usure de la carte.</li>",
+        "name": "Gelée retardatrice",
+        "id": 25,
+        "index": "RETARDANT_JELLY",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_retardantJelly"
+    },
+    {
+        "description": "Une ficelle rêche aux fibres piquantes, d'un rouge profond. Peut être enroulée autour d'une carte pour améliorer sa capacité de repérage d'aura.<br><li>Débloque la capacité de localiser les <b>biens du tueur</b>.</li>",
+        "name": "Ficelle Rouge",
+        "id": 26,
+        "index": "RED_TWINE",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_ropeRed"
+    },
+    {
+        "description": "Une perle étrange, cerclée d'or qui peut servir à grossir la carte et marquer un point précis. La perle émet une énergie qui peut être vue et sentie par les survivants.<br><li>Débloque la capacité de marqueur comme action secondaire.</li><li>Crée un marqueur qui peut être vu par tous les survivants.</li>",
+        "name": "Perle de verre",
+        "id": 27,
+        "index": "GLASS_BEAD",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_beadGlass"
+    },
+    {
+        "description": "Un cachet sculpté dans du bois clair. Le texte du cachet est incompréhensible : « kw’zvre’od ». Peut être utilisé avec une carte.<br><li><b>Augmente considérablement</b> la portée de la capacité de suivi de la carte.</li>",
+        "name": "Cachet étrange",
+        "id": 28,
+        "index": "ODD_STAMP",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconAddon_stampOdd"
+    },
+    {
+        "description": "Un cordon noir et lisse. Peut être attaché autour d'une carte pour améliorer sa capacité de repérage d'aura.<br><li>Débloque la capacité de localiser les <b>serrures noires</b>.</li>",
+        "name": "Cordon de Soie Noire",
+        "id": 29,
+        "index": "BLACK_SILK_CORD",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconAddon_ropeBlack"
+    },
+    {
+        "description": "Un appareil complexe constitué d'un assemblage compliqué de lentilles. Les engrenages contrôlant le grossissement se règlent automatiquement sur quelque chose d'invisible à l'œil nu.<br><li>Chaque survivant voit l'aura générée par la carte quand il est activé.</li>",
+        "name": "Lentilles de cristal",
+        "id": 30,
+        "index": "CRYSTAL_BEAD",
+        "type": 3,
+        "rarity": 3,
+        "image": "iconAddon_beadCrystal"
+    },
+    {
+        "description": "Des gants médicaux jetables pour éviter les contaminations croisées.<br><li><b>Augmente modérément</b> le bonus de progression en cas d’excellents tests d’habileté.</li>",
+        "name": "Gants de Caoutchouc",
+        "id": 31,
+        "index": "RUBBER_GLOVES",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_gloves"
+    },
+    {
+        "description": "Sparadrap de qualité médicale utilisé pour couvrir de petites blessures.<br><li><b>Augmente légèrement</b> la vitesse de soins.</li>",
+        "name": "Sutures Cutanées",
+        "id": 32,
+        "index": "BUTTERFLY_TAPE",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_butterflyTape"
+    },
+    {
+        "description": "Un paquet de pansements que l’on trouve en général dans les trousses de premiers soins.<br><li>Ajoute <b>8 charges</b> à la trousse de soins.</li>",
+        "name": "Pansements",
+        "id": 33,
+        "index": "BANDAGES",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_bandages"
+    },
+    {
+        "description": "Une simple éponge utilisée pour absorber les excès de sang, permettant un accès plus facile aux blessures.<br><li><b>Augmente considérablement</b> le bonus de progression en cas d’excellents tests d’habileté.</li>",
+        "name": "Éponge",
+        "id": 34,
+        "index": "SPONGE",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_sponge"
+    },
+    {
+        "description": "Un rouleau de bandages adhésifs pratiques pour couvrir rapidement les blessures ne nécessitant pas de pansements compliqués.<br><li>Ajoute <b>8 charges</b> à la trousse de soins.</li><li><b>Augmente légèrement</b> la vitesse de soins.</li>",
+        "name": "Rouleau de sparadrap",
+        "id": 35,
+        "index": "SELF_ADHERENT_WRAP",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_selfAdherentWrap"
+    },
+    {
+        "description": "Ce n’est pas vraiment un instrument médical à proprement parler, mais ça peut être utilisé pour refermer rapidement et douloureusement une plaie ouverte.<br><li><b>Augmente modérément</b> les chances de générer un test d’habileté.</li><li><b>100 % de points de sang bonus</b> pour l’obtention de tests d’habileté excellents.</li><li><b>Augmente légèrement</b> la vitesse de soins.</li>",
+        "name": "Fil et aiguille",
+        "id": 36,
+        "index": "NEEDLE_AND_THREAD",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_needAndThread"
+    },
+    {
+        "description": "Des ciseaux conçus pour couper facilement le textile.<br><li><b>Augmente modérément</b> la vitesse de soins.</li>",
+        "name": "Ciseaux Médicaux",
+        "id": 37,
+        "index": "MEDICAL_SCISSORS",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_scissors"
+    },
+    {
+        "description": "De la gaze stérile utilisée pour traiter toutes sortes de blessures, selon la charte générale des soins médicaux.<br><li>Ajoute <b>12 charges</b> à la trousse de soins.</li>",
+        "name": "Bande de gaze",
+        "id": 38,
+        "index": "GAUZE_ROLL",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_gauseRoll"
+    },
+    {
+        "description": "Matériel médical servant à refermer les blessures ouvertes. Bien que très efficace, la suture chirurgicale est difficile à utiliser.<br><li><b>Augmente considérablement</b> les chances de générer un test d’habileté.</li><li><b>150 % de points de sang bonus</b> offerts en obtenant des tests d’habileté excellents.</li><li><b>Augmente légèrement</b> la vitesse de soins.</li>",
+        "name": "Suture chirurgicale",
+        "id": 39,
+        "index": "SURGICAL_SUTURE",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_surgicalSuture"
+    },
+    {
+        "description": "Un paquet de pansements imbibés de gel utilisés pour soigner les blessures purulentes.<br><li>Ajoute <b>16 charges</b> à la trousse de soins.</li>",
+        "name": "Pansements hydrogels",
+        "id": 40,
+        "index": "GEL_DRESSINGS",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_gelDressings"
+    },
+    {
+        "description": "Un pansement extrêmement absorbant qui limite la perte de fluides corporels en cas de large blessure abdominale.<br><li><b>Augmente considérablement</b> la vitesse de soins.</li><li><b>Réduit la charge</b> de <b>8</b>.</li>",
+        "name": "Pansement abdominal",
+        "id": 41,
+        "index": "ABDOMINAL_DRESSING",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_abdominalDressing"
+    },
+    {
+        "description": "Une poudre blanche aux vertus coagulantes. Appliquer sur une blessure pour arrêter l’hémorragie.<br><li>Appuyez sur le bouton d’<i>action secondaire</i> pendant un soin avec la trousse de soins pour utiliser l’agent styptique.</li><li>Quand l’<i>agent styptique</i> est utilisé sur un survivant blessé, il obtient l’effet de statut <b>Endurance</b> pendant <b>8 secondes</b>. <li>Consomme la trousse de soins.</li>",
+        "name": "Agent styptique",
+        "id": 42,
+        "index": "STYPTIC_AGENT",
+        "type": 4,
+        "rarity": 3,
+        "image": "iconAddon_stypticAgent"
+    },
+    {
+        "description": "Une substance hémostatique qui arrête le saignement en quelques secondes.<br><li>Appuyez sur le bouton d’<i>action secondaire</i> pendant un soin avec la trousse de soins pour utiliser la seringue antihémorragique.</li><li>Le survivant affecté récupèrera passivement un segment de santé <b>16</b> secondes après son emploi.</li><li>Le temps requis est modifié par les compétences, objets et accessoires qui affectent les <i>vitesses de soins</i>.</li><li>Cet effet est annulé quand l’état de santé du survivant affecté change ou s’il est ramassé.</li><li>Consomme la trousse de soins.</li>",
+        "name": "Seringue antihémorragique",
+        "id": 43,
+        "index": "ANTI_HEMORRHAGIC_SYRINGE",
+        "type": 4,
+        "rarity": 4,
+        "image": "iconAddon_syringe"
+    },
+    {
+        "description": "Un outil utile pour maintenir des tuyaux ou des câbles en place et éviter les accidents.<br><li>Les bruits occasionnés par vos réparations et la distance à laquelle ils peuvent être perçus sont réduits de 8 mètres.</li>",
+        "name": "Pince à ressort",
+        "id": 44,
+        "index": "SPRING_CLAMP",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_springClamp"
+    },
+    {
+        "description": "Ressorts, vis et engrenages. Principalement de la ferraille inutilisable.<br><li>Ajoute <b>8 charges</b> à la boîte à outils.</li>",
+        "name": "Ferraille",
+        "id": 45,
+        "index": "SCRAPS",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_scraps"
+    },
+    {
+        "description": "Un banal chiffon. Si propre qu’il en est suspect.<br><li><b>Augmente légèrement</b> la vitesse de réparation de la boîte à outils.</li>",
+        "name": "Chiffon Propre",
+        "id": 46,
+        "index": "CLEAN_RAG",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_cleanRag"
+    },
+    {
+        "description": "Une bobine de fil de cuivre, portable mais lourde.<br><li>Ajoute <b>12 charges</b> à la boîte à outils.</li>",
+        "name": "Bobine de fil",
+        "id": 47,
+        "index": "WIRE_SPOOL",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_spoolOfWire"
+    },
+    {
+        "description": "Les tourillons fournissent allonge et flexibilité pour atteindre les boulons difficiles d’accès au plus profond des dispositifs mécaniques.<br><li><b>Augmente modérément</b> la vitesse de réparation de la boîte à outils.</li>",
+        "name": "Tourillons",
+        "id": 48,
+        "index": "SOCKET_SWIVELS",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_socketSwivels"
+    },
+    {
+        "description": "Des gants épais qui réduisent la dextérité mais qui protègent des blessures.<br><li>Empêche d'avertir le tueur lors du sabotage d'un crochet avec la boîte à outils.</li>",
+        "name": "Gants de protection",
+        "id": 49,
+        "index": "PROTECTIVE_GLOVES",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_protectiveGloves"
+    },
+    {
+        "description": "Quelqu'un semble avoir peint rapidement des instructions de réparation sur ce morceau d'écorce.<br><li>Élimine les tests d'habileté en réparant avec la boîte à outils.</li>",
+        "name": "Instructions",
+        "id": 50,
+        "index": "INSTRUCTIONS",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_instructions"
+    },
+    {
+        "description": "Une clé à molette ajustable avec un manche solide. Indispensable dans toute boîte à outils.<br><li>Les crochets sabotés à l'aide de la boîte à outils nécessitent 15 secondes de plus pour réapparaître.</li>",
+        "name": "Clé Ajustable",
+        "id": 51,
+        "index": "GRIP_WRENCH",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_gripWrench"
+    },
+    {
+        "description": "Un outil tranchant rudimentaire fait de câbles métalliques dentelés et de deux poignées en bois.<br><li><b>Augmente légèrement</b> la vitesse de sabotage de la boîte à outils.</li>",
+        "name": "Fil à couper",
+        "id": 52,
+        "index": "CUTTING_WIRE",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_cuttingWire"
+    },
+    {
+        "description": "Une petite scie à main équipée d’une lame à métaux.<br><li><b>Augmente modérément</b> la vitesse de sabotage de la boîte à outils.</li>",
+        "name": "Scie à Métaux",
+        "id": 53,
+        "index": "HACKSAW",
+        "type": 5,
+        "rarity": 2,
+        "image": "iconAddon_metalSaw"
+    },
+    {
+        "description": "Cette pièce mécanique sophistiquée semble ne pas cadrer avec le lieu. Elle est propre et brillante comme si elle sortait de l’usine.<br><li><b>Réparer avec la boîte à outils</b> est remplacé par <b>Installer une toute nouvelle pièce</b>.</li><li>Installer la <i>Toute nouvelle pièce</i> réparera automatiquement <b>15 %</b> d’un générateur en <b>5</b> secondes.</li><li>Pendant l’installation, vous devrez effectuer <b>2</b> tests d’habileté difficiles.</li><li>Réussir un test d’habileté donnera <b>5 % de progression de réparation de générateur</b>, jusqu’à un total de <b>25 % de progression de réparation de générateur</b>.</li><li><i>Cet accessoire est consommé après utilisation.</i></li>",
+        "name": "Toute nouvelle pièce",
+        "id": 54,
+        "index": "BRAND_NEW_PART",
+        "type": 5,
+        "rarity": 4,
+        "image": "iconAddon_brandNewPart"
+    },
+    {
+        "description": "Une alliance gravée qui est apparue de la Brume et résonne d’une énergie incompréhensible et indescriptible.<li>Dévoile l’aura de l’obsession.</li><li>Réduit vos chances de devenir l’obsession du tueur.</li><li>Cumulable</li>",
+        "name": "Alliance unique",
+        "id": 55,
+        "index": "UNIQUE_WEDDING_RING",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_uniqueRing"
+    }
+]

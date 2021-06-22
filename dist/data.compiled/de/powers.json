@@ -1,0 +1,194 @@
+[
+    {
+        "description": "Ein kraftvoller und brutaler letzter Atemzug, gestohlen von Patrick Spencer, dem Leiter der Crotus-Prenn-Anstalt. Die Krankenschwester macht sich seine Energie zunutze, um mehrmals hintereinander schnell durch die Geisterwelt zu springen. Dadurch leidet sie an Ermüdung.<br><li>Gewährt die Teleportation.</li><li>Gewährt <b>1</b> zusätzliche Mehrfach-Teleportation.</li>",
+        "name": "Spencers letzter Atem",
+        "id": 1,
+        "index": "SPENCERS_LAST_BREATH",
+        "owner": "NURSE",
+        "image": "iconPowers_breath"
+    },
+    {
+        "description": "Ein großes Tellereisen aus Stahl. Diese Fallen liegen überall im Gebiet verteilt. Sie können aufgehoben und beliebig platziert werden.<br><br><b>BÄRENFALLE</b><br>Du beginnst die Prüfung standardmäßig mit <b>1 Bärenfalle</b>. Weitere kannst du in der Umgebung finden und einsammeln.<br><b>Bärenfalle legen:</b><br>Drücke und halte die <i>Stärketaste</i>, um eine <b>Bärenfalle</b> an einer geeigneten Position vor dir zu legen. Eine gelegte <b>Bärenfalle</b> macht einen Spieler, der in sie hineintritt, bewegungs- und handlungsunfähig. Ein gesunder Überlebender, der in eine gelegte <b>Bärenfalle</b> tappt, wird außerdem verletzt, kann aber versuchen, der Falle zu entkommen. Drücke die <i>Interaktionstaste</i>, um einen Überlebenden aufzunehmen, der von einer <b>Bärenfalle</b> handlungsunfähig gemacht wurde.<br><b>Falle zurücksetzen:</b><br>Drücke und halte die <i>Stärketaste</i>, während du neben einer <b>Bärenfalle</b> stehst, die in der Umgebung liegt, um sie an Ort und Stelle zurückzusetzen, sofern sie nicht schon gespannt ist.<b>Bärenfalle einsammeln:</b><br>Drücke die <i>Interaktionstaste</i>, während du neben einer <b>Bärenfalle</b> stehst, die in der Umgebung liegt, um sie einzusammeln. Standardmäßig kannst du maximal <b>1 Bärenfalle</b> tragen.",
+        "name": "Bärenfalle",
+        "id": 2,
+        "index": "BEAR_TRAP",
+        "owner": "TRAPPER",
+        "image": "iconPowers_trap"
+    },
+    {
+        "description": "Eine schwere, gusseiserne Glocke, durchdrungen von uralten Kräften. Wenn sie geläutet wird, kann ihr Besitzer die Geisterwelt betreten und darin herumwandeln.<br><br><b>JAMMERGLOCKE</b><br>Drücke und halte die <i>Stärketaste</i>, um dich zu <b>verhüllen</b>. Drücke und halte die <i>Stärketaste</i> erneut, während du verhüllt bist, um die <b>Verhüllung</b> aufzuheben, wodurch du beim Erscheinen <b>1 Sekunde</b> lang zusätzliche Geschwindigkeit erhältst. Die Jammerglocke ist in einer Entfernung von bis zu <b>24 Metern</b> zu hören.<br><br><b>Verhüllung</b><br>Während er verhüllt ist, erhält <b>der Geist</b> eine erhöhte Bewegungsgeschwindigkeit, fast vollständige Unsichtbarkeit und den Statuseffekt <b>Unentdeckbar</b>. <b>Der Geist</b> kann nicht angreifen, während er verhüllt ist, kann aber mit Objekten in der Umgebung interagieren. Wird er hellem Licht ausgesetzt, so verliert <b>der Geist</b> automatisch seine <b>Verhüllung</b>.",
+        "name": "Jammerglocke",
+        "id": 3,
+        "index": "WAILING_BELL",
+        "owner": "WRAITH",
+        "image": "iconPowers_bell"
+    },
+    {
+        "description": "Drücke und halte die <i>Stärketaste</i>, um einen Kettensägensprint auszuführen. Überlebende, die während eines Kettensägensprints getroffen werden, werden in den Todesstatus versetzt.<br><li>Jede Kettensägenaktion (Starten der Kettensäge, Gas geben an der Kettensäge und der <b>Kettensägensprint</b>) lassen die Überhitzungsanzeige steigen.</li><li>Sobald die <b>Überhitzungsanzeige</b> voll ist, kann die Kettensäge nicht verwendet werden, bis sie vollständig abgekühlt ist. Das Erreichen des Hitzemaximums unterbricht einen <b>Kettensägensprint</b>, der gerade ausgeführt wird, nicht.</li><li>Die <b>Überhitzungsanzeige</b> sinkt, wenn die Kettensäge nicht benutzt wird.</li> ",
+        "name": "Kettensäge",
+        "id": 4,
+        "index": "CHAINSAW",
+        "owner": "HILLBILLY",
+        "image": "iconPowers_chainsaw"
+    },
+    {
+        "description": "Eine Fähigkeit, die sie von ihrer Mutter gelernt und in der Wildnis perfektioniert hat. Die Jägerin kann Beile mit tödlicher Präzision werfen.<br><li>Du beginnst die Prüfung mit <b>5 Beilen</b>.</li><li>Lade den Wurf für maximale Wurfgeschwindigkeit auf.</li><li>Beile können bei <b>Schließschränken aufgefüllt werden</b>.</li>",
+        "name": "Jagdbeile",
+        "id": 5,
+        "index": "HUNTING_HATCHETS",
+        "owner": "HUNTRESS",
+        "image": "iconPowers_huntingHatchets"
+    },
+    {
+        "description": "Die Dunkelheit in ihm nährt seine Entschlossenheit, seinen Opfern das Leben zu nehmen.<br><br><b>DIABOLIK</b><br>Die Aktivierung von <b>Diabolik</b> ermöglicht es <b>dem Wandler</b>, seine Beute deutlich zu sehen und durch ihre Verfolgung mehr böse Stärke aufzubauen. <br><br><b>Diabolik I</b><br>Gewährt den Statuseffekt <b>Unentdeckbar</b>. Die Bewegungsgeschwindigkeit ist leicht verringert. Beim <i>Grundangriff</i> ist der Sprungangriff etwas verkürzt.<br><br><b>Diabolik II</b><br>Verringert moderat den Terrorradius. Erhöht leicht die Bewegungsgeschwindigkeit. Beim <i>Grundangriff</i> ist der Sprungangriff etwas erweitert.<br><br><b>Diabolik III</b><br>Wird dies ausgelöst, leiden alle Überlebenden unter dem Statuseffekt <b>Gefährdet</b>. <b>Diabolik III</b> hält <b>60 Sekunden</b> lang an und geht danach in <b>Diabolik II</b> über.<br><br><b>SPEZIALFÄHIGKEIT: VERFOLGEN</b><br>Drücke und halte die <i>Stärketaste</i>, um sichtbare Überlebende zu verfolgen. Das Verfolgen von Überlebenden baut den Fortschritt innerhalb deiner <b>Diabolik</b>-Gruppen auf.<br><br><span class=\"FlavorText\">„Ich hab ihn vor fünfzehn Jahren kennengelernt. Man sagte mir, er sei ein hoffnungsloser Fall. Kein Verstand, kein Gewissen und auch nicht das elementarste Differenzierungsvermögen zwischen Leben und Tod, zwischen Gut und Böse, Recht oder Unrecht. Ich traf auf ein sechsjähriges Kind, mit einem blassen, farblosen, emotionslosen Blick und den schwärzesten Augen. Teuflischen Augen. Ich hab acht Jahre lang versucht, mit ihm Kontakt zu bekommen, dann nochmal sieben Jahre, um zu verhindern, dass er jemals wieder auf freien Fuß gesetzt wird. Ich wusste zu gut, was sich hinter diesen Augen verbirgt. Das absolut ... Böse.“ –Dr. Sam Loomis</span>",
+        "name": "Diabolik",
+        "id": 6,
+        "index": "EVIL_WITHIN",
+        "owner": "SHAPE",
+        "image": "iconPowers_stalker1"
+    },
+    {
+        "description": "Die Macht der Hexe entspringt einem geschwärzten Finger, der als Auslöser für ihre grausame Stärke benutzt wird. Die Hexe formt Schlamm nach ihrem Willen. Mit einfachen rituellen Zeichnungen erstellt sie aus Schlamm und Abfall trügerische Duplikate ihrer selbst, die sie anschließend zu verschiedenen Zwecken verwenden kann.<br><li>Gewährt die Fähigkeit, <b>10</b> Phantomfallen zu erschaffen und aufrechtzuerhalten.</li><li>Gewährt die Fähigkeit, sich sofort zu ausgelösten Phantomfallen im Umkreis von <b>40 Metern</b> zu begeben.</li>",
+        "name": "Geschwärzter Auslöser",
+        "id": 7,
+        "index": "BLACKENED_CATALYST",
+        "owner": "HAG",
+        "image": "iconPowers_blackenedCatalyst"
+    },
+    {
+        "description": "Der Kannibale beginnt die Prüfung mit 3 Einheiten. Drücke und halte die <I>Stärketaste</i>, um eine Einheit zu verbrauchen und einen <b>Kettensägenschwung</b> auszuführen, mit dem du mehrere Ziele treffen kannst. Während eines <b>Kettensägenschwungs</b> getroffene Überlebende werden in den Todesstatus versetzt.<br><li>Nutze eine Einheit, um die Länge des <b>Kettensägenschwungs</b> zu erhöhen. Dadurch verlängert sich auch die Abklingzeit leicht.</li><li>Die Kettensägeneinheiten werden aufgefüllt, solange die Kettensäge nicht genutzt wird.</li><br><br>Die <b>Wutanfall-Anzeige</b> füllt sich langsam, wenn du an der Kettensäge Gas gibst. Sobald die Anzeige voll ist oder du während eines <b>Kettensägenschwungs</b> ein Objekt triffst, bekommt der Kannibale einen <b>Wutanfall</b>. Der <b>Wutanfall</b> verletzt alle Überlebenden in seinem Umfeld und versetzt sie in den Todesstatus.<br><li>Die Dauer des <b>Wutanfalls</b> erhöht sich mit jeder Einheit, die während des <b>Kettensägenschwungs</b> verbraucht wurde. Alle übrigen Einheiten gehen verloren.</li><li>Während eines <b>Wutanfalls</b> ist die Bewegungsgeschwindigkeit verringert.</li><li>Die <b>Wutanfall-Anzeige</b> leert sich, wenn die Kettensäge nicht benutzt wird. Während eines <b>Kettensägenschwungs</b> entleert sie sich vollständig.</li> ",
+        "name": "Bubbas Kettensäge",
+        "id": 8,
+        "index": "BUBBAS_CHAINSAW",
+        "owner": "CANNIBAL",
+        "image": "iconPowers_bubbasChainsaw"
+    },
+    {
+        "description": "<b>CARTERS FUNKE</b><br>Wird ein Überlebender vom <b>Doktor</b> erfolgreich mit dessen Spezialfähigkeiten <b>Schocktherapie</b> oder <b>statisches Feld</b> getroffen, erhöht sich der <i>Wahnsinn</i> des Überlebenden, wodurch er letztendlich den Statuseffekt <b>Wahnsinn</b> erleidet und zunehmend stärkere Effekte auslöst.<br><b>Wahnsinn I:</b><br>Lässt den Überlebenden einmal schreien, wodurch er dem <b>Doktor</b> seine Position verrät. Wirkt sich <b>leicht</b> auf die Platzierung und Richtung von Fähigkeitschecks aus.<br><b>Wahnsinn II:</b><br>Lässt den Überlebenden einmal schreien und Halluzinationen in Form eines <i>Trugbilds des Doktors</i> erleben. Wirkt sich <b>moderat</b> auf die Platzierung und Richtung von Fähigkeitschecks aus.<br><b>Wahnsinn III:</b><br>Lässt den Überlebenden wiederholt schreien und Halluzinationen in Form eines <i>Trugbilds des Doktors</i> erleben. Wirkt sich <b>enorm</b> auf die Platzierung und Richtung von Fähigkeitschecks aus. Der Überlebende kann keine Interaktionen der Kategorien Heilen, Reparieren, Sabotieren, Aufschließen oder Zerstören ausführen oder Gegenstände verwenden, bis er erfolgreich <i>Beruhige dich</i> ausführen kann. Bringt ein Überlebender die Aktion <i>Beruhige dich</i> zu Ende, wird er wieder zu <b>Wahnsinn I</b> herabgestuft.<br><br><b>SPEZIALFÄHIGKEIT: Schocktherapie</b><br>Drücke und halte die <i>Stärketaste</i>, um <b>Schocktherapie</b> auszuführen. Damit wird ein Schockangriff auf den Boden vor dir ausgeführt. Überlebende, die von <b>Schocktherapie</b> getroffen werden, erleiden erhöhten <i>Wahnsinn</i>, und alle Interaktionen, die sie ausführen, werden sofort unterbrochen. <b>Schocktherapie</b> kehrt den Statuseffekt <b>Ahnungslos</b> sofort um.<br><br><b>SPEZIALFÄHIGKEIT: Statisches Feld</b><br>Drücke und halte die <i>Taste für die aktive Fähigkeit</i>, um ein <b>statisches Feld</b> auszusenden, das alle Überlebenden im Terrorradius des Doktors schreien und erhöhten <i>Wahnsinn</i> erleiden lässt. <b>Statisches Feld</b> kann nur aktiviert werden, wenn gerade keine Abklingzeit stattfindet. <b>Statisches Feld</b> kehrt den Statuseffekt <b>Ahnungslos</b> sofort um.",
+        "name": "Carters Funke",
+        "id": 9,
+        "index": "CARTERS_SPARK",
+        "owner": "DOCTOR",
+        "image": "iconPowers_cartersSpark"
+    },
+    {
+        "description": "Wache Überlebende hören den Terrorradius <b>des Albtraums</b> und sehen ihn innerhalb eines Radius von 16 Metern. Sie sehen ihn zeitweise in einem Abstand von 16 bis 32 Metern. Sonst ist er für sie nicht zu sehen. <b>Der Albtraum</b> versetzt Überlebende passiv über 60 Sekunden in den Schlaf und in die Traumwelt. Sie werden sofort in die Traumwelt versetzt, wenn er sie mit einem <i>Grundangriff</i> trifft.<br><br>In der Traumwelt sind die Überlebenden vom Statuseffekt <b>Ahnungslos</b> betroffen. Außerdem können sich <b>Traumschlingen</b> auf sie auswirken. Überlebende können aufwachen, indem sie bei einem Fähigkeitscheck scheitern oder wenn ein wacher Überlebender die Aktion <i>Aufwachen</i> ausführt, oder indem sie einen gefundenen Wecker benutzen. Jede weitere <i>Aufwachen</i>-Aktion dauert doppelt so lange wie die vorige. Wecker geben Überlebenden 30 Sekunden Zeit, bis sie wieder einschlafen.<br><br><b>SPEZIALFÄHIGKEIT: TRAUMSCHLINGE</b><br>Halte die <i>Stärketaste</i> gedrückt, um eine <b>Traumschlinge</b> zu platzieren. Überlebende erleiden den Statuseffekt <b>Eingeschränkt</b>, wenn sie mit einer <b>Traumschlinge</b> in Kontakt kommen und noch kurz danach.<br><br>Einige Zusätze können <b>Traumschlingen</b> durch <b>Traumpaletten</b> ersetzen. Traumpaletten erscheinen in der Traumwelt an Paletten-Positionen. Sie sind für <b>den Albtraum</b> hervorgehoben und betäuben ihn nicht.<br><br><b>TRAUMZÄHLER</b>:<br><b>Der Albtraum</b> beginnt mit 5 Traumzählern, die zum Platzieren von Traumschlingen verwendet werden können. Wenn alle Traumzähler ausgegeben sind, wird die zuerst platzierte Traumschlinge zerstört, sobald eine neue platziert wird.<br><br><b>SPEZIALFÄHIGKEIT: TRAUMPROJEKTION</b><br>Halte die <i>Taste für die aktive Fähigkeit</i> gedrückt, um zu einem Generator in deiner Sichtweite zu teleportieren. Für jeden Überlebenden in der Traumwelt verringert sich die Abklingzeit um 15 %.",
+        "name": "Traumdämon",
+        "id": 10,
+        "index": "DREAM_DEMON",
+        "owner": "NIGHTMARE",
+        "image": "iconPowers_dreamMaster"
+    },
+    {
+        "description": "Der Sache seines Lehrmeisters für immer verschrieben, straft es die Undankbaren und die Schuldigen mit Schläue und mörderischen Rätseln.<br><br><b>Das Schwein</b> kann sich getarnt fortbewegen, schnelle Angriffe aus dem Hinterhalt ausführen und Überlebenden tödliche umgekehrte Bärenfallen aufsetzen.<br><br><b>JIGSAWS TAUFE</b><br>Du beginnst die Prüfung mit <b>4</b> <i>inaktiven</i> umgekehrten Bärenfallen. Während du über einem Überlebenden mit Todesstatus stehst, drückst du die <i>Taste für die aktive Fähigkeit</i>, um ihm eine <i>inaktive</i> umgekehrte Bärenfalle aufzusetzen. Umgekehrte Bärenfallen werden <i>aktiv</i>, wenn ein beliebiger Generator in der Prüfung fertiggestellt wird.<br>Die Überlebenden können versuchen, sich selbst aus <i>aktiven</i> oder <i>inaktiven</i> umgekehrten Bärenfallen zu befreien, indem sie die Jigsaw-Kisten in der Umgebung nach dem richtigen Schlüssel durchsuchen.<br><b>Aktive umgekehrte Bärenfallen</b><br>Werden umgekehrte Bärenfallen <i>aktiv</i>, wird ein Countdown-Timer gestartet. Ein Überlebender, an dem sich eine <i>aktive</i> umgekehrte Bärenfalle befindet, wird automatisch geopfert, wenn sein Timer abläuft oder er versucht, die Prüfung mit einer aufsitzenden <i>aktiven</i> umgekehrten Bärenfalle zu verlassen.<br><br><b>SPEZIALFÄHIGKEIT: DUCKEN</b><br>Drücke die <i>Taste für die aktive Fähigkeit</i>, um dich zu ducken. Drücke die <i>Taste für die aktive Fähigkeit</i> erneut, während du geduckt bist, um dich wieder aufzurichten. <b>Das Schwein</b> bewegt sich langsamer, während es geduckt ist. <b>Das Schwein</b> bekommt den Statuseffekt <b>Unentdeckbar</b>, solange es geduckt ist.<br><br><b>SPEZIALANGRIFF: HINTERHALT</b><br>Drücke und halte die <i>Angriffstaste</i>, während du geduckt bist, um zu sprinten und einen <b>Hinterhalt</b>-Angriff auszuführen.<br><br><span class=\"FlavorText\">„Du wirst mir alles geben, jede Zelle deines Körpers. Die Zeichen auf deinen Armen stammen aus einem anderen Leben. Wir lassen dieses Leben zurück. Wenn du diesen Gang entlanggehst, gibt es kein Zurück. Verstehst du das?“ –Jigsaws Taufe</span>",
+        "name": "Jigsaws Taufe",
+        "id": 11,
+        "index": "JIGSAWS_BAPTISM",
+        "owner": "PIG",
+        "image": "iconPowers_reverseBearTrap"
+    },
+    {
+        "description": "In den Jahren seiner Experimente mit Betäubungsmitteln und Muskelentspannungsmitteln konnte der Clown einige wirksame Tränke und Formeln entwickeln. Mit seinem Liebling, dem Nachspieltonikum, hat er mit großartiger Wirkung viele unwillige Opfer betäubt und gefangen genommen. Das dazu passende Nachspielgegengift hat ebenfalls eine nützliche Wirkung.<br><br>Tippe auf die <i>Taste für die aktive Fähigkeit</i>, um zwischen <b>Nachspieltonikum</b> und <b>Nachspielgegengift</b> zu wechseln. Du kannst die <i>Stärketaste</i> antippen oder halten und loslassen, um eine Flasche zu werfen.<br><br>Drücke und halte die <i>Taste für die aktive Fähigkeit</i>, um deinen Flaschenvorrat aufzufüllen.<br><br><b>SPEZIALFÄHIGKEIT: Nachspieltonikum</b><br>Die Flasche zerbricht beim Aufprall und gibt eine lila Gaswolke frei, die Überlebende <b>benebelt</b>. <b>Benebelte</b> Überlebende leiden unter eingeschränkter Sicht, verringerter Bewegungsgeschwindigkeit sowie einem Hustenreiz, und zwar für 2 Sekunden.<br><br><b>SPEZIALFÄHIGKEIT: Nachspielgegengift</b><br>Die Flasche zerbricht beim Aufprall und gibt eine graue Gaswolke frei, die bei Aktivierung gelb wird. Der Clown und alle Überlebenden, die in eine aktive <b>Gegengiftwolke</b> treten, erhalten einen Bonus von 10 % auf ihre Bewegungsgeschwindigkeit, und zwar für 5 Sekunden. <b>Benebelte</b> Überlebende, die eine <b>Gegengiftwolke</b> betreten, werden geheilt.",
+        "name": "Das Nachspieltonikum",
+        "id": 12,
+        "index": "THE_AFTERPIECE_TONIC",
+        "owner": "CLOWN",
+        "image": "iconPowers_gasBomb"
+    },
+    {
+        "description": "Das Gespenst kann seine Stärke, Yamaokas Spuk, nutzen, um eine geisterhafte Ebene zu betreten und an einem anderen Ort wieder aufzutauchen.<br><li>Halte die Stärketaste zum Aufladen gedrückt. Das Gespenst verlässt seinen physischen Körper und hinterlässt eine unbewegliche „Hülle“.</li><br>Ist Yamaokas Spuk aktiv:<li>Das Gespenst kann sich frei zu einem neuen Ort bewegen und ist für kurze Zeit schneller. Seine Bewegung wird immer noch vom physischen Umfeld und der Umgebung eingeschränkt.</li><li>Das Gespenst verlässt die physische Ebene und verliert alle Überlebenden aus dem Blick. Es kann aber noch die Kratzspuren wahrnehmen, die sie in der Umgebung hinterlassen.</li><li>Ein Geräuschhinweis erklingt an der aktuellen Position des Gespensts.</li><li>Ist die Stärke vorbei, behält das Gespenst den Geschwindigkeitsbonus für eine kurze Zeit bei und die Hülle verschwindet.</li><br>Bei der Verwendung von Yamaokas Spuk wird die Stärkeleiste des Gespensts verbraucht. Sie füllt sich nach einer Zeit automatisch wieder auf. Die Stärkeleiste muss ganz aufgeladen sein, bevor die Stärke erneut ausgelöst werden kann.",
+        "name": "Yamaokas Spuk",
+        "id": 13,
+        "index": "YAMAOKAS_HAUNTING",
+        "owner": "SPIRIT",
+        "image": "iconPowers_yamaokasHaunting"
+    },
+    {
+        "description": "Sie waren nur eine Gruppe Freunde, bis Frank sie zu einer Legion machte. Jetzt beziehen sie ihre Stärke aus der spannenden Freiheit, die sie dadurch erhalten, dass sie sich nur ihren eigenen Regeln unterwerfen.<br><br><b>WILDE RASEREI</b><br>Löse <b>Wilde Raserei</b> aus, um mit hohem Tempo zu rennen und bei mehreren Überlebenden Kettenangriffe zu starten. Sobald deine Stärkeleiste voll ist, kannst du die <i>Stärketaste</i> drücken, um <b>Wilde Raserei</b> auszulösen. Während <b>Wilde Raserei</b> aktiv ist, bewegt sich <b>die Legion</b> schneller und bekommt Zugriff auf zusätzliche Fähigkeiten: <b>Palettensprung</b> und <b>Wilde Schlitzerei</b>.<br><br><b>SPEZIALFÄHIGKEIT: PALETTENSPRUNG</b><br>Drücke die <i>Interaktionstaste</i>, während <b>Wilde Raserei</b> aktiv ist, um einen <b>Palettensprung</b> an einer umgestoßenen Palette auszuführen.<br><br><b>SPEZIALANGRIFF: WILDE SCHLITZEREI</b><br>Drücke die <i>Angriffstaste</i>, während <b>Wilde Raserei</b> aktiv ist, um <b>Wilde Schlitzerei</b> auszuführen. Triffst du einen Überlebenden mit <b>Wilde Schlitzerei</b>, wird dieser Überlebende verletzt und erleidet den Statuseffekt <b>Tiefe Wunde</b>. Die Stärkeleiste der Legion wird wieder aufgefüllt, und alle Überlebenden innerhalb des Terrorradius, die nicht unter dem Statuseffekt <b>Tiefe Wunde</b> leiden, werden vom Killerinstinkt angezeigt. Ist der Überlebende bereits vom Statuseffekt <b>Tiefe Wunde</b> betroffen, endet <b>Wilde Raserei</b> sofort, ohne Wirkung zu zeigen.",
+        "name": "Wilde Raserei",
+        "id": 14,
+        "index": "FERAL_FRENZY",
+        "owner": "LEGION",
+        "image": "iconPowers_feralFrenzy"
+    },
+    {
+        "description": "Während die Seuche ihren Körper immer mehr in Besitz nahm, verschlechterte sich ihr Zustand: Ihre Zehen färbten sich schwarz, an ihrem Hals wucherten Zysten und sie erbrach Blut.<br><br><b>REINIGUNG DER BÖSARTIGKEIT</b><br>Infiziere Objekte in der Umgebung sowie Überlebende mit <b>Reinigung der Bösartigkeit</b>, um einen endlosen Kreislauf der Krankheit zu erzeugen. Drücke und halte die <i>Stärketaste</i>, um die <b>Reinigung der Bösartigkeit</b> aufzuladen, und lasse die Taste wieder los, um einen Strom infektiöser Galle auszuspucken. Triffst du einen Überlebenden, wird dieser infiziert. Triffst du ein Objekt in der Umgebung, so wird dieses für eine kurze Dauer infiziert. Überlebende, die mit infizierten Objekten interagieren, werden ebenfalls infiziert.<br><br>Sobald die Infektionsanzeige eines Überlebenden sich vollständig gefüllt hat, ist der Überlebende verletzt, erleidet den Statuseffekt <b>Gebrochen</b> und muss sich in gewissen Abständen zwanghaft übergeben.<br><br><b>SPEZIALFÄHIGKEIT: VERDERBEN SCHLUCKEN</b><br>Infizierte Überlebende können sich selbst vollständig heilen und ihre Infektion aufheben, indem sie sich in einem <i>Brunnen der Hingabe</i> reinigen. Durch diese Aktion wird der Brunnen verdorben, wodurch <b>die Seuche</b> das Verderben aufnehmen und ihre Reinigung verstärken kann. Drücke und halte die <i>Interaktionstaste</i>, während du bei einem <i>Brunnen der Hingabe</i> bist, um <b>Reinigung der Bösartigkeit</b> in <b>Reinigung des Verderbens</b> zu verwandeln. Diese Aktion entfernt das Verderben aus dem Brunnen.<br><br><b>SPEZIALANGRIFF: REINIGUNG DES VERDERBENS</b><br>Nachdem du die Fähigkeit <b>Verderben schlucken</b> genutzt hast, wird <b>Reinigung der Bösartigkeit</b> für eine kurze Dauer durch <b>Reinigung des Verderbens</b> ersetzt. <b>Reinigung des Verderbens</b> verursacht bei jedem Überlebenden, der von ihrem Strom getroffen wird, sofort Schaden. Allerdings werden Überlebende und Objekte in der Umgebung nicht mehr infiziert.",
+        "name": "Reinigung der Bösartigkeit",
+        "id": 15,
+        "index": "VILE_PURGE",
+        "owner": "PLAGUE",
+        "image": "iconPowers_vilePurge"
+    },
+    {
+        "description": "<b>Ghost Face</b> hat seine Opfer wochenlang beobachtet und ihre Gewohnheiten minutiös notiert. Immer, wenn ihn der Drang zum Morden überkam, wusste er genau, wie und wann er zuschlagen konnte.<br><br><b>MANTEL DER NACHT</b><br>Drücke die <i>Stärketaste</i>, um den <b>Mantel der Nacht</b> zu aktivieren, wenn die Stärkeleiste voll ist. <b>Ghost Face</b> erhält den Statuseffekt <b>Unentdeckbar</b>, solange <b>Mantel der Nacht</b> aktiv ist. Führt er einen <i>Grundangriff</i> aus, entleert sich die Stärkeleiste vollständig und <b>Mantel der Nacht</b> wird deaktiviert.<br><b>Enthüllen</b><br>Überlebende in der Nähe von <b>Ghost Face</b> können versuchen, ihn zu <i>enthüllen</i>, indem sie für eine kurze Dauer in seine Richtung schauen. Eine erfolgreiche <i>Enthüllung</i> entleert die Stärkeleiste von <b>Ghost Face</b> vollständig und deaktiviert automatisch <b>Mantel der Nacht</b>. Die aktuelle Position von Überlebenden, die eine <i>Enthüllung</i> von <b>Ghost Face</b> bewirken, wird für eine kurze Dauer vom <i>Killerinstinkt</i> angezeigt.<br><br><b>SPEZIALFÄHIGKEIT: VERFOLGEN</b><br>Halte die <i>Stärketaste</i> gedrückt, um Überlebende zu verfolgen, während <b>Mantel der Nacht</b> aktiv ist. Halte die <i>Stärketaste</i> gedrückt, während du dich hinter einer Deckung befindest, um dich hervor zu lehnen und schneller verfolgen zu können. Schließt du die Verfolgung eines Überlebenden ab, wird dein Ziel <i>markiert</i>, und der Statuseffekt <b>Gefährdet</b> wird für begrenzte Zeit deiner <i>Markierung</i> hinzugefügt.<br><br><b>SPEZIALFÄHIGKEIT: DUCKEN</b><br>Drücke die Taste für die aktive Fähigkeit, um dich zu ducken. Drücke die Taste für die aktive Fähigkeit erneut, während du geduckt bist, um dich wieder aufzurichten. <b>Ghost Face</b> bewegt sich langsamer, während er geduckt ist.<br><br><span class=\"FlavorText\">„Beachte mich gar nicht. Genau, weiter so. Perfekt. Dieses Bild von dir werde ich aufbewahren.“ –Ghost Face</span>",
+        "name": "Mantel der Nacht",
+        "id": 16,
+        "index": "NIGHT_SHROUD",
+        "owner": "GHOST",
+        "image": "iconPowers_ghostPower_available"
+    },
+    {
+        "description": "Eine unbekannte und fremde Macht ist durch seinen Körper geströmt. Plötzlich reißt der Boden auf und verschlingt den Demogorgon vollständig.<br><br><b>AUS DEM ABGRUND</b><br>Drücke und halte die <i>Stärketaste</i>, um <b>Aus dem Abgrund</b> komplett aufzuladen und zu aktivieren. Alle Überlebenden im nahen Umkreis eines aktivierten Portals werden vom Killerinstinkt angezeigt.<br><br><b>SPEZIALANGRIFF: ZERFETZEN</b><br>Drücke die <i>Angriffstaste</i>, während du <b>Aus dem Abgrund</b> auflädst oder hältst, um nach vorne zu stürzen und einen wilden Schlag auszuführen.<br><br><b>SPEZIALFÄHIGKEIT: PORTALE</b><br>Drücke die <i>Taste für die aktive Fähigkeit</i>, um auf dem Boden vor dir ein Portal zu öffnen.<br><b>Die andere Seite durchqueren</b><br>Stehst du auf einem platzierten Portal, während ein anderes Portal hervorgehoben ist, kannst du die <i>Taste für die aktive Fähigkeit</i> erneut drücken, um durch die andere Seite zu reisen und am Zielportal anzukommen.<br><b>Aktivierte Portale</b><br>Portale werden „aktiviert“, wenn man sie in eine beliebige Richtung durchschreitet. Nur aktivierte Portale können von Überlebenden versiegelt werden. Die Auren von aktivierten Portalen werden in gelb hervorgehoben.",
+        "name": "Aus dem Abgrund",
+        "id": 17,
+        "index": "OF_THE_ABYSS",
+        "owner": "DEMOGORGON",
+        "image": "iconPowers_ghostPower_available"
+    },
+    {
+        "description": "Der Wunsch, schwächere Blutlinien zu vernichten, ist zu einer buchstäblichen Gewalt geworden.<br><br><b>YAMAOKAS ZORN</b><br>Absorbiere Blutkugeln, die von deinen verletzten Feinden zurückgelassen wurden. Drücke und halte die <i>Stärketaste</i>, um Blutkugeln aus der Umgebung zu absorbieren und deine Stärkeleiste zu füllen. Sobald deine Stärkeleiste voll ist, musst du die <i>Taste für die aktive Fähigkeit</i> drücken und halten, um <b>Blutzorn</b> einzuleiten.<br><b>Blutzorn:</b>\nSolange <b>Blutzorn</b> aktiv ist, wird der <b>Oni</b> tödlich und erhält Zugriff auf zusätzliche Fähigkeiten: <b>Dämonensprint</b> und <b>Dämonenschlag</b>.<br><br><b>SPEZIALFÄHIGKEIT: Dämonensprint</b><br>Drücke und halte die <i>Stärketaste</i>, während <b>Blutzorn</b> aktiv ist, um einen <b>Dämonensprint</b> auszuführen. Diese Fähigkeit erlaubt es dem <b>Oni</b>, schnell große Distanzen zurückzulegen.<br><br><b>SPEZIALANGRIFF: Dämonenschlag</b><br>Drücke und halte die <i>Angriffstaste</i>, während <b>Blutzorn</b> aktiv ist, um einen <b>Dämonenschlag</b> in deine Blickrichtung auszuführen. <b>Dämonenschlag</b> hat eine erweiterte Sprungangriff-Reichweite und versetzt getroffene Überlebende sofort in den Todesstatus.",
+        "name": "Yamaokas Zorn",
+        "id": 18,
+        "index": "YAMAOKAS_WRATH",
+        "owner": "ONI",
+        "image": "iconPowers_yamaokasWrath_demon"
+    },
+    {
+        "description": "Die Genialität des Todesboten bringt ihm die Fähigkeit ein, Gesuchte mit einer einzigartigen Erfindung heranzuziehen: Ein stark modifiziertes Hybrid-Gewehr, bei dem die übliche Munition durch extrem spitze Pfeile ersetzt wird, die an einer Kette befestigt sind.<br><br><b>DER ERLÖSER</b><br>Drücke und halte die <i>Stärketaste</i>, um durchs Visier zu zielen. Drücke die <i>Angriffstaste</i>, um einen Pfeil abzufeuern, der sich in einem Überlebenden verhaken kann. Dadurch kann dieser gegen seinen Willen zum <b>Todesboten</b> herangezogen werden.<br><b>Heranziehen:</b><br>Während ein Überlebender von dem <b>Erlöser</b> aufgespießt ist, kannst du die <i>Stärketaste</i> drücken und halten, um ihn zu dir heranzuziehen. Der Überlebende kann versuchen, sich von der Kette zu befreien oder die Umgebung dazu nutzen, die Kette reißen zu lassen. Dadurch wird der <b>Todesbote</b> kurzzeitig betäubt und in den Zustand „verletzt“ versetzt. Der Statuseffekt <b>Tiefe Wunde</b> wirkt dann auf ihn. Nutzt man einen <i>Grundangriff</i>, während ein Überlebender aufgespießt ist, bricht die Kette. Weder der <b>Todesbote</b> noch der Überlebende erhalten dann eine Strafe. Wird ein Überlebender erfolgreich mit dem <i>Grundangriff</i> getroffen, während dieser aufgespießt ist, aber den Zustand „gesund“ hat, so bewirkt dies den Statuseffekt <b>Tiefe Wunde</b>.<br><b>Nachladen:</b><br><b>Der Erlöser</b> muss nach jedem Schuss nachgeladen werden, bevor er erneut abgefeuert werden kann. Drücke und halte die <i>Taste für die aktive Fähigkeit</i>, um den <b>Erlöser</b> nachzuladen.",
+        "name": "Der Erlöser",
+        "id": 19,
+        "index": "THE_REDEEMER",
+        "owner": "DEATHSLINGER",
+        "image": "iconPowers_UK"
+    },
+    {
+        "description": "Öffne die Tore des Leidens und empfange dein Urteil! Das Große Messer teilt den Boden, lässt ein infernales Konstrukt aufsteigen und verbreitet unter allen, die sich nähern, Agonie.<br><br><b>RITEN DES URTEILS</b><br>Drücke und halte die <i>Stärketaste</i> zum Aktivieren. Bewege dich dann in eine beliebige Richtung, um einen Pfad zu legen.<br><br>Überlebende, die auf dem Pfad gehen oder rennen, lösen <i>Killerinstinkt</i> aus und sind von <i>Folter</i> betroffen. Überlebende, die unter dem Effekt der <i>Folter</i> leiden, können in einen <b>Bußkäfig</b> gesteckt werden, wenn sie den Todesstatus haben.<br><br><b>SPEZIALANGRIFF: Bestrafung der Verdammten</b><br>Drücke die <i>Angriffstaste</i>, während <b>Riten des Urteils</b> aktiv ist, um die <b>Bestrafung der Verdammten</b> auszuführen. Diese Fähigkeit erzeugt eine Welle, die alle Überlebenden in ihrem Weg verletzt.<br><br><b>SPEZIALFÄHIGKEIT: Bußkäfig</b><br>Drücke die <i>Taste für die aktive Fähigkeit</i>, während du über einem sterbenden Überlebenden stehst, der an <i>Folter</i> leidet, um ihn in einen <b>Bußkäfig</b> zu schicken. Überlebende in einem <b>Bußkäfig</b> können dem Entitus geopfert werden, als ob sie festgehakt wären. Während der zweiten Phase des Beschwörungsrituals sind sie gezwungen, Fähigkeitschecks auszuführen, um den Entitus fernzuhalten.<br><br>Ein Überlebender, der von einem anderen Überlebenden aus einem <b>Bußkäfig</b> gerettet wird oder selbst einen anderen Überlebenden daraus rettet, hebt <i>Folter</i> auf.<br><br><b>SPEZIALFÄHIGKEIT: Letztes Urteil</b><br>Drücke die <i>Taste für die aktive Fähigkeit</i>, wenn du über einem sterbenden Überlebenden stehst, der an <i>Folter</i> leidet und bereits die Kampf-Phase an einem Haken oder in einem Bußkäfig erreicht hat, um ihn hinzurichten.",
+        "name": "Riten des Urteils",
+        "id": 20,
+        "index": "RITES_OF_JUDGMENT",
+        "owner": "EXECUTIONER",
+        "image": "iconPowers_Wales_ritesOfJudgement"
+    },
+    {
+        "description": "Das Pustelserum strömt durch seine Adern und verdirbt seinen Geist und Körper. Gleichzeitig gewährt es ihm aber übernatürliche physische Fähigkeiten.<br><br><b>SPEZIALFÄHIGKEIT: STURM</b><br>Drücke die <i>Stärketaste</i>, um einen schnellen <b>Sturm</b> vorwärts zu starten. Dadurch wird ein <b>Sturm</b>-Zähler verbraucht. Während der <b>Sturm</b> ausgeführt wird, kann die Fäule keinen Angriff starten.<br><br><b>Stürme</b> gegen eine Wand oder ein Hindernis, um eine <b>Ramme</b> dagegen auszuführen. Trifft der <b>Sturm</b> weder Wand noch Hindernis oder besitzt die Fäule keine <b>Sturm</b>-Zähler mehr, führt das zu einem kurzen Zustand der Ermüdung und die Zähler müssen wieder aufgefüllt werden.<br><br><b>SPEZIALANGRIFF: TÖDLICHER STURM</b><br>Drücke nach einer <b>Ramme</b> die <i>Stärketaste</i>, um einen <b>Tödlichen Sturm</b> zu starten. Dadurch wird ein <b>Sturm</b>-Zähler verbraucht. Ein <b>Tödlicher Sturm</b> verhält sich genau so wie ein <b>Sturm</b>, nur kann die Fäule mit der <i>Angriffstaste</i> dabei Angriffe ausführen.",
+        "name": "Verfaultes Verderben",
+        "id": 21,
+        "index": "BLIGHTED_CORRUPTION",
+        "owner": "BLIGHT",
+        "image": "iconPowers_vilePurge"
+    },
+    {
+        "description": "Obwohl sie für immer durch Blut und Trauma miteinander verbunden sind, besitzen die Zwillinge die Macht, sich von ihrem gemeinsamen Körper zu lösen. Gemeinsam jagen sie als Bruder und Schwester und verdoppeln somit die Bedrohung für Überlebende.<br><br><b>SPEZIALFÄHIGKEIT: Blutbande</b><br>Drücke und halte die <i>Stärketaste</i>, um <b>Victor</b> freizulassen. Du kannst auswählen, ob du <b>Charlotte</b> oder <b>Victor</b> steuern möchtest, indem du die <i>Taste für die aktive Fähigkeit</i> antippst.<br><br>Ist er auf sich allein gestellt, löst <b>Victor</b> den <b>Killerinstinkt</b> aus und zeigt <b>Charlotte</b> damit die Auren von Überlebenden, die in seiner Nähe gehen oder rennen. Überlebende, die <b>Victors</b> Schreie hören können, sind anfällig. <b>Victor</b> kann allerdings von Überlebenden erschlagen werden, während <b>Charlotte</b> gesteuert wird.<br><br>In dem Fall wächst <b>Victor</b> erneut an <b>Charlotte</b> an, sobald etwas Zeit vergangen ist.<br><br><b>SPEZIALANGRIFF: Sprung</b><br>Während du <b>Victor</b> steuerst, kannst du die <i>Taste für die aktive Fähigkeit</i> gedrückt halten, um einen <b>Sprung</b> aufzuladen. Tippe dann die <i>Angriffstaste</i> an, um ihn zu starten.<br><br>Landest du einen <b>Sprung</b> erfolgreich, erleidet der Überlebende Schaden. War der Überlebende bei voller Gesundheit, klammert sich <b>Victor</b> an ihm fest, löst den <b>Killerinstinkt</b> aus und zeigt die Positionen von allen Überlebenden im Umfeld. In diesem Zustand erleidet der Überlebende die Statuseffekte <b>Gebrochen</b>, <b>Ahnungslos</b> und <b>Bewegungsunfähig</b>. Weder kann er dann Schließschränke betreten, noch durchs Ausgangstor gehen. Der Überlebende kann <b>Victor</b> erschlagen, während dieser sich an ihn klammert, indem er die Aktion <b>Entfernen</b> ausführt.<br><br>Verfehlt <b>Victor</b> seinen <b>Sprung</b>, ist er vorübergehend verwundbar und kann von einem Überlebenden erschlagen werden. Landet Victor auf einem Hindernis, das größer ist als er selbst, wird er zerstört.",
+        "name": "Blutbande",
+        "id": 22,
+        "index": "BLOOD_BOND",
+        "owner": "TWINS",
+        "image": "iconPowers_bloodBond_01"
+    },
+    {
+        "description": "<i>Ji-Woon Hak nutzt sein verblüffendes Talent, das er sich in jahrelanger Übung angeeignet hat, und schickt eine schnelle Salve Messer los.</i><br><br><b>PUBLIKUMSHIT</b><br><br>Du beginnst die Prüfung mit <b>60 Klingen</b>. Halte die <i>Stärketaste</i> gedrückt, um auszuholen und den Wurfzustand zu aktivieren.<br><br>Tippe im Wurfzustand die <i>Angriffstaste</i>, um eine einzelne Klinge zu werfen, oder halte die <i>Angriffstaste</i> gedrückt, um eine Salve an Klingen loszuschicken. Dabei werden die Kontrolle und die Wurfrate erhöht, während sich die Bewegungsgeschwindigkeit verringert. Fülle Klingen an Schließschränken nach.<br><br><b>Schnittwunden-Anzeige:</b> Die <b>Schnittwunden-Anzeige</b> eines Überlebenden wird mit jedem Klingentreffer erhöht. Sobald die Anzeige voll ist, verliert er einen Gesundheitsstatus und wird entweder verletzt oder niedergestreckt.<br><br>Die Schnittwunden-Anzeige eines Überlebenden nimmt langsam ab, wenn er für kurze Zeit von keiner Klinge getroffen wurde. Wenn ein Überlebender mit einem Grundangriff getroffen wird, wird seine Schnittwunden-Anzeige sofort verringert.<br><br><b>SPEZIALFÄHIGKEIT: Hauptevent</b><br>Jeder Klingentreffer füllt die <b>Eventanzeige</b>. Sobald sie voll ist, kann <b>Hauptevent</b> durch Betätigen der <i>Taste für die aktive Fähigkeit</i> aktiviert werden. In diesem Modus wirft der Trickster für die Dauer von <b>Hauptevent</b> automatisch eine unbegrenzte Anzahl an Klingen. Seine Wurfrate ist deutlich erhöht und seine Bewegungsgeschwindigkeit wird nicht nach jedem Wurf verlangsamt. <b>Hauptevent</b> kann durch Betätigen der <i>Taste für die aktive Fähigkeit</i> abgebrochen werden. Dann wird die <b>Eventanzeige</b> auf 0 zurückgesetzt und die Abklingzeit für <b>Publikumshit</b> wird eingeleitet.",
+        "name": "Publikumshit",
+        "id": 23,
+        "index": "SHOWSTOPPER",
+        "owner": "TRICKSTER",
+        "image": "iconPowers_Showstopper_01"
+    },
+    {
+        "description": "Ein Virus, das extreme Mutationen verursacht und auf andere übertragen werden kann. Nebenwirkungen umfassen erhöhte Aggression und Stärke.<br><br><b>SPEZIALANGRIFF: Tentakelschlag</b><br>Halte die Stärketaste gedrückt, um einen Angriff aufzuladen. Tippe dann auf die Angriffstaste, um den <b>Tentakelschlag</b> auszuführen. Wenn du einen Überlebenden mit dem <b>Tentakelschlag</b> triffst, erleidet dieser den Statuseffekt <b>Kontaminiert</b> und erhöht damit deine <b>Mutationsrate</b>. Wenn ein Überlebender bereits <b>kontaminiert</b> ist, verringert der <b>Tentakelschlag</b> seine Gesundheit.<br><br>Überlebende können die <b>Kontaminierung</b> heilen, indem sie einen <b>Impfstoff</b> aus <b>Vorratskoffern</b> bei sich oder anderen Überlebenden anwenden. Die Anzahl der <b>Impfstoffe</b> ist begrenzt. Nach der Verwendung eines <b>Impfstoffs</b> wird die Position des Überlebenden durch den Killerinstinkt angezeigt.<br><br><b>Mutationsrate:</b> Deine Stärke wächst mit steigender <b>Mutationsrate</b>. Bei <b>Mutationsrate 2</b> kannst du mit dem <b>Tentakelschlag</b> Paletten und zerstörbare Mauern zerschlagen. Bei <b>Mutationsrate 3</b> erhöht sich die Reichweite des <b>Tentakelschlags</b>. Das T-Virus-Symbol zeigt die aktuelle <b>Mutationsrate</b> an.<br><br><b>BESONDERER FEIND: Zombies</b><br>Wenn ein <b>Zombie</b> einen Überlebenden angreift, erleidet dieser den Effekt <b>Kontaminiert</b>. Wenn der Überlebende bereits <b>kontaminiert</b> ist, verringert sich seine Gesundheit.<br><br><b>Zombies</b> können mit einem <b>Tentakelschlag</b> zerstört werden, um deine <b>Mutationsrate</b> zu erhöhen. Überlebende können sie mit Paletten zerstören. Zerstörte <b>Zombies</b> kommen nach kurzer Zeit zurück.",
+        "name": "T-VIRUS",
+        "id": 24,
+        "index": "T_VIRUS",
+        "owner": "NEMESIS",
+        "image": "iconPowers_T-virus1"
+    }
+]

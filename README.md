@@ -1,266 +1,296 @@
-![build](https://travis-ci.org/stephenpoole/dbd-json.svg?branch=master)
+[![npm version](https://badge.fury.io/js/dbd-db.svg)](https://badge.fury.io/js/dbd-db)
+[![Known Vulnerabilities](https://snyk.io/test/github/stephenpoole/dbd-db/badge.svg)](https://snyk.io/test/github/stephenpoole/dbd-db)
+[![Build Status](https://travis-ci.com/stephenpoole/dbd-db.svg?branch=master)](https://travis-ci.com/stephenpoole/dbd-db)
+[![codecov](https://codecov.io/gh/stephenpoole/dbd-db/branch/master/graph/badge.svg?token=lTWudhhmb0)](https://codecov.io/gh/stephenpoole/dbd-db)
 
-# dbd-json
+# dbd-db
 
-A complete Dead by Daylight dataset in JSON.
+A complete Dead by Daylight dataset.
 
 ## Getting Started
 
-`npm install dbd-json`
+Install `dbd-db` and save to your package.json in one easy step.
+
+With npm:
 
 ```
-import * as dbd from 'dbd-json';  
-
-dbd.Killers.map(killer => console.log(killer.name));
-console.log(dbd.Enum)
+npm install dbd-db
 ```
+
+With yarn:
+
+```
+yarn add dbd-db
+```
+
+## Usage
+
+1. Import `dbd-db` into your application:
+
+```
+import Dbd from 'dbd-db';
+```
+
+2. Instantiate and grab some data:
+
+```
+import Dbd, { Killer } from 'dbd-db';
+
+const dbd = new Dbd();
+const nurse = dbd.killer(Killer.Nurse);
+console.log(nurse);
+```
+
+## Documentation
+
+You may find the type documentation here:
+[Documentation](https://stephenpoole.github.io/dbd-db/)
 
 ## Images
 
-You may find the images used in-game at `Steam/common/steamapps/Dead By Daylight/DeadByDaylight/Icons/UI`.  
-They are separated by type and each has it's own naming convention. The image strings stored in this repository are the unique values in each. You must account for this when making use of them in your project.
+You may find the images used in-game at `Steam/common/steamapps/Dead By Daylight/DeadByDaylight/Icons/UI`.
 
-## Short tags
+## HTML
 
-Throughout the data, short html-like codes are used to represent bolded and italicized text.  
-`%b %/b`  
-`%i %/i`
+Throughout the data, html is used to denote styling of the descriptions.
 
-## Contributing
+```
+<span class=\"Highlight1\"></span>
+```
 
-If you find an error or something is outdated, feel free to submit a pull request. Curating data by hand, it's bound to happen.
+The classes used are `Highlight1`, `Highlight2`, `Highlight3` and `Highlight4`
+
+## Locales
+
+Just like in-game, this currently library supports the following languages:
+
+English, Spanish, German, French, Italian, Japanese, Korean, Polish, Russian, Taiwanese, Turkish and Simplified Chinese.
 
 ## Data
 
 ### Killers
 
-`dbd.Killers`
-
 ```
 {
-        "id": 1, (number, required)  
-        "index": "SHAPE", (string, required)  
-        "name": "The Shape", (string, required) 
-        "difficulty": "HARD", (string, required, of type Enum.Difficulties)
-        "power": "EVIL_WITHIN", (string, required, of type Powers[].index)
-        "description":
-            "A haunting Killer, intent on monitoring Survivors from a distance to feed his power, %bEvil Within%/b. The more he stalks, the stronger and faster he becomes.", (string, required)
-        "perks": [
-            "SAVE_THE_BEST_FOR_LAST", (string, of type KillerPerks[].index)
+        id: 1, (number, required)
+        index: "SHAPE", (string, required)
+        name: "The Shape", (string, required)
+        difficulty: 2, (number, required, of type Difficulty)
+        power: "EVIL_WITHIN", (string, required, of type powers[].index)
+        description:
+            "A haunting Killer, intent on monitoring survivors from a distance to feed his power, %bEvil Within%/b. The more he stalks, the stronger and faster he becomes.", (string, required)
+        perks: [
+            "SAVE_THE_BEST_FOR_LAST", (string, of type killerPerks[].index)
             ...
-        ], (array, required, of length 3)  
-        "image": "SH" (string, required)  
+        ], (array, required, of length 3)
+        image: "SH_charSelect_portrait" (string, required)
     }
 ```
 
 ### Survivors
 
-`dbd.Survivors`
-
 ```
 {
-        "id": 1, (number, required)  
-        "index": "NEA_KARLSSON", (string, required)  
-        "name": "Nea Karlsson", (string, required)  
-        "difficulty": "INTERMEDIATE", (string, required, of type Enum.Difficulties)
-        "description":
+        id: 1, (number, required)
+        index: "NEA_KARLSSON", (string, required)
+        name: "Nea Karlsson", (string, required)
+        difficulty: 1, (number, required, of type Difficulty)
+        description:
             "An urban artist, able to easily escape and hide.", (string, required)
-        "perks": [
-            "BALANCED_LANDING", (string, of type SurvivorPerks[].index)
+        perks: [
+            "BALANCED_LANDING", (string, of type survivorPerks[].index)
             ...
-        ], (array, required, of length 3)  
-        "image": "NK" (string, required)  
+        ], (array, required, of length 3)
+        image: "NK_charSelect_portrait" (string, required)
     }
 ```
 
 ### Powers
 
-`dbd.Powers`
-
 ```
 {
-    "id": 1, (number, required)  
-    "index": "EVIL_WITHIN", (string, required)  
-    "name": "Evil Within", (string, required)  
-    "owner": "SHAPE", (string, required, of type Killers[].index or "ALL")
-    "description":
-        "The darkness inside feeds his determination to take the life of...", (string, required)  
-    "flavor":
-        "\"I met him, fifteen years ago; I was told there was nothing left...", (string, required)  
-    "abilities": [
-        "EVIL WITHIN I: %bTremendously Decreased Terror Radius%/b. Grants immunity to detection perks. Slightly decreased movement speed. Slightly decreased lunge.", (string)
-        ...
-    ], (array, required, at least length 1)  
-    "image": "stalker1" (string, required)  
+    id: 1, (number, required)
+    index: "EVIL_WITHIN", (string, required)
+    name: "Evil Within", (string, required)
+    owner: "SHAPE", (string, required, of type killers[].index or "NOONE")
+    description:
+        "The darkness inside feeds his determination to take the life of...", (string, required)
+    flavor:
+        "\"I met him, fifteen years ago; I was told there was nothing left...", (string, optional)
+    ], (array, required, at least length 1)
+    image: "iconPowers_stalker1" (string, required)
 }
 ```
 
 ### Items
 
-`dbd.Items`
-
 ```
 {
-    id: 1, (number, required)  
-    index: "ENGINEERS_TOOLBOX", (string, required)  
-    name: "Mechanic's Toolbox", (string, required)  
-    description: "A metal box with specialised mechanics tools. Even without training...", (string, required)  
-    abilities: [
-        "%b80 Charges%/b", (string)  
-        ...  
-    ], (array, required, at least length 1)  
-    type: "TOOLBOX", (string, required, of type Enum.ItemTypes)  
-    rarity: "RARE", (string, required, of type Enum.Rarities)  
-    image: "toolboxMechanics" (string, required)  
+    id: 1, (number, required)
+    index: "ENGINEERS_TOOLBOX", (string, required)
+    name: "Mechanic's Toolbox", (string, required)
+    description: "A metal box with specialised mechanics tools. Even without training...", (string, required)
+    type: "TOOLBOX", (string, required, of type ItemType)
+    rarity: 2, (number, required, of type Rarity)
+    image: "iconItems_toolboxMechanics" (string, required)
 }
 ```
 
 ### Perks
 
-`dbd.KillerPerks`
+Killer Perks
 
 ```
 {
-    "id": 1, (number, required)
-    "index": "IRON_GRASP", (string, required)  
-    "name": "Iron Grasp", (string, required)  
-    "rarity": [
-        "UNCOMMON", (string)
+    id: 1, (number, required)
+    index: "IRON_GRASP", (string, required)
+    name: "Iron Grasp", (string, required)
+    rarity: [
+        1, (number)
         ...
-    ], (array, required, of length 3)  
-    "owner": "ALL", (string, required, of type Killers[].index or "ALL")
-    "description":
-        "Your powerful hold on the Survivors causes escapes to be nearly impossible. Effects of survivor struggling are reduced by %s. Time to struggle out of your grasp is increased by %s.", (string, required)  
-    "image": "ironGrasp", (string, required)
-    "tiers": [
+    ], (array, required, of length 3)
+    owner: "NOONE", (string, required, of type killers[].index or "NOONE")
+    description:
+        "Your powerful hold on the survivors causes escapes to be nearly impossible. Effects of survivor struggling are reduced by %s. Time to struggle out of your grasp is increased by %s.", (string, required)
+    image: "iconPerks_ironGrasp", (string, required)
+    flavor:
+        "\"I met him, fifteen years ago; I was told there was nothing left...", (string, optional)
+    tiers: [
         [
             "25%", (string or number)
             ...
-        ], (array, of length count of %s in description)
+        ], (array, of length count of {0} in description)
         ...
     ] (array, required, of length 3)
 }
 ```
 
-`dbd.SurvivorPerks`
+Survivor Perks
 
 ```
 {
-    "id": 1, (number, required)
-    "index": "SLIPPERY_MEAT", (string, required)  
-    "name": "Slippery Meat", (string, required)  
-    "rarity": [
-        "UNCOMMON", (string)
+    id: 1, (number, required)
+    index: "SLIPPERY_MEAT", (string, required)
+    name: "Slippery Meat", (string, required)
+    rarity: [
+        1, (number)
         ...
-    ], (array, required, of length 3)  
-    "owner": "ALL", (string, required, of type Survivors[].index or "ALL")
-    "description":
-        "You have developed an efficient way to get out of Bear Traps and Hooks. Grants up to %s extra escape attempts on the hook. The odds of freeing yourself from Bear Traps are increased by %s.", (string, required)  
-    "image": "slipperyMeat", (string, required)
-    "tiers": [
+    ], (array, required, of length 3)
+    owner: "NOONE", (string, required, of type survivors[].index or "NOONE")
+    description:
+        "You have developed an efficient way to get out of Bear Traps and Hooks. Grants up to %s extra escape attempts on the hook. The odds of freeing yourself from Bear Traps are increased by %s.", (string, required)
+    image: "iconPerks_slipperyMeat", (string, required)
+    flavor:
+        "\"I met him, fifteen years ago; I was told there was nothing left...", (string, optional)
+    tiers: [
         [
             "1%", (string or number)
             ...
-        ], (array, of length count of %s in description)
+        ], (array, of length count of {0} in description)
     ] (array, required, of length 3)
 }
 ```
 
 ### Addons
 
-```
-dbd.KillerAddons
-```
+Killer Addons
 
 ```
 {
-    id: 1, (number, required)  
-    index: "VHS_PORN", (string, required)  
-    name: "VHS Porn", (string, required)  
-    owner: "CLOWN", (string, required, of type Killers[].index)
-    description: "An all time classic.", (string, required)  
-    abilities: [
-        "%bModerately%/b increases movement Speed while reloading The Afterpiece Tonic.", (string)
-        ...  
-    ], (array, required, at least length 1)  
-    rarity: "RARE", (string, required, of type Enum.Rarities)  
-    image: "toolboxMechanics" (string, required)  
+    id: 1, (number, required)
+    index: "VHS_PORN", (string, required)
+    name: "VHS Porn", (string, required)
+    owner: "CLOWN", (string, required, of type killers[].index)
+    description: "An all time classic.", (string, required)
+    rarity: 2, (number, required, of type Rarity)
+    flavor: "\"I met him, fifteen years ago; I was told there was nothing left...", (string, optional)
+    image: "iconAddon_toolboxMechanics" (string, required)
 }
 ```
 
-```
-dbd.SurvivorAddons
-```
+Survivor Addons
 
 ```
 {
-    id: 1, (number, required)  
-    index: "CLEAN_RAG", (string, required)  
-    name: "Clean Rag", (string, required)  
-    type: "TOOLBOX", (string, required, of type Items[].index)
-    description: "A mundane rag. Suspiciously clean.", (string, required)  
-    abilities: [
-        "%bSlightly increases%/b the Toolbox's repair speed.", (string)
-        ...  
-    ], (array, required, at least length 1)  
-    rarity: "COMMON", (string, required, of type Enum.Rarities)  
-    image: "cleanRag" (string, required)  
+    id: 1, (number, required)
+    index: "CLEAN_RAG", (string, required)
+    name: "Clean Rag", (string, required)
+    type: "TOOLBOX", (string, required, of type items[].index)
+    description: "A mundane rag. Suspiciously clean.", (string, required)
+    rarity: 0, (number, required, of type Rarity)
+    flavor: "\"I met him, fifteen years ago; I was told there was nothing left...", (string, optional)
+    image: "iconAddon_cleanRag" (string, required)
 }
 ```
 
 ### Offerings
 
-`dbd.KillerOfferings`
+Killer Offerings
 
 ```
 {
-    "id": 1, (number, required)
-    "index": "HOLLOW_SHELL", (string, required)  
-    "name": "Hollow Shell", (string, required)
-    "rarity": "UNCOMMON", (string, required, of type Enum.Rarities)  
-    "description": "Grants %b25%/b% extra Bloodpoints in all Categories.", (string, required)  
-    "abilities": [
-        "Stacks" (string)
-    ], (array, optional, at least length 1)  
-    "flavor":
+    id: 1, (number, required)
+    index: "HOLLOW_SHELL", (string, required)
+    name: "Hollow Shell", (string, required)
+    rarity: 1, (number, required, of type Rarity)
+    description: "Grants %b25%/b% extra Bloodpoints in all Categories.", (string, required)
+    flavor:
         "\"An unidentifiable cocoon which was breached by whatever was inside.\"", (string, optional)
-    "image": "hollowShell" (string, required)
+    image: "iconFavors_hollowShell" (string, required)
 }
 ```
 
-`dbd.SurvivorOfferings`
+Survivor Offerings
 
 ```
 {
-    "id": 1, (number, required)
-    "index": "PETRIFIED_OAK", (string, required)  
-    "name": "Petrified Oak", (string, required)
-    "rarity": "VERY_RARE", (string, required, of type Enum.Rarities)  
-    "description":
+    id: 1, (number, required)
+    index: "PETRIFIED_OAK", (string, required)
+    name: "Petrified Oak", (string, required)
+    rarity: 3, (number, required, of type Rarity)
+    description:
         "Calms The Entity and prevents %b1%/b Hook from appearing.", (string, required)
-    "abilities": [
-        "Stacks" (string)
-    ], (array, optional, at least length 1)  
-    "flavor": "\"A deteriorating piece of petrified wood.\"", (string, optional)
-    "image": "petrifiedOak" (string, required)
+    flavor: "\"A deteriorating piece of petrified wood.\"", (string, optional)
+    image: "iconFavors_petrifiedOak" (string, required)
 }
 ```
 
-`dbd.SharedOfferings`
+Shared Offerings
 
 ```
 {
-        "id": 1, (number, required)
-        "index": "BLOODY_PARTY_STREAMERS", (string, required)  
-        "name": "Bloody Party Streamers", (string, required)
-        "rarity": "RARE", (string, required, of type Enum.Rarities)  
-        "description":
-            "Grants %b100%/b% bonus Bloodpoints in all Categories for all Players.", (string, required)
-        "abilities": [
-            "Stacks" (string)
-        ], (array, optional, at least length 1)  
-        "flavor":
-            "\"A reminder of a bloody good time when people came together, but left screaming.\"",  (string, optional)
-        "image": "bloodyPartyStreamers" (string, required)
-    }
+    id: 1, (number, required)
+    index: "BLOODY_PARTY_STREAMERS", (string, required)
+    name: "Bloody Party Streamers", (string, required)
+    rarity: 2, (number, required, of type Rarity)
+    description:
+        "Grants %b100%/b% bonus Bloodpoints in all Categories for all Players.", (string, required)
+    flavor:
+        "\"A reminder of a bloody good time when people came together, but left screaming.\"",  (string, optional)
+    image: "iconFavors_bloodyPartyStreamers" (string, required)
+}
 ```
+
+## License
+
+MIT License
+
+Copyright (c) 2021 Stephen Poole
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

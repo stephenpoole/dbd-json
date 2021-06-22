@@ -1,0 +1,236 @@
+[
+    {
+        "description": "Zapewnia <b>50%</b> dodatkowych Punktów Krwi w kategorii Cel.<br><li>Osobiste.</li><li>Łączy się.</li>",
+        "name": "Saszetka z Bagienną Lawendą",
+        "flavor": "„Ręcznie szyta saszetka wypełniona suchymi liśćmi. Uwalnia mdły, herbaciany zapach”.",
+        "id": 50,
+        "index": "BOG_LAUREL_SACHET",
+        "rarity": 0,
+        "image": "iconFavors_bogLaurelSachet"
+    },
+    {
+        "description": "Zapewnia <b>75%</b> dodatkowych Punktów Krwi w kategorii Cel.<br><li>Osobiste.</li<li>Łączy się.</li>",
+        "name": "Świeża Bagienna Lawenda",
+        "flavor": "„Przepiękny, fioletowy kwiat, który rośnie w środku skażonych bagien. Uwalnia łagodny, herbaciany zapach”.",
+        "id": 51,
+        "index": "FRESH_BOG_LAUREL",
+        "rarity": 1,
+        "image": "iconFavors_freshBogLaurel"
+    },
+    {
+        "description": "Zapewnia <b>100%</b> dodatkowych Punktów Krwi w kategorii Cel.<br><li>Osobiste.</li<li>Łączy się.</li>",
+        "name": "Pachnąca Bagienna Lawenda",
+        "flavor": "„Przepiękny fioletowy kwiat, który rośnie w samym centrum skażonego bagna. Uwalnia silny, herbaciany zapach”.",
+        "id": 52,
+        "index": "FRAGRANT_BOG_LAUREL",
+        "rarity": 2,
+        "image": "iconFavors_fragrantBogLaurel"
+    },
+    {
+        "description": "Zapewnia <b>50%</b> dodatkowych Punktów Krwi w kategorii Przetrwanie.<br><li>Osobiste.</li><li>Łączy się.</li>",
+        "name": "Saszetka z liśćmi Szarłatu Wyniosłego",
+        "flavor": "„Ręcznie szyta saszetka wypchana paciorkowatym zbożem. Powiada się, że Szarłat jest wieczny”.",
+        "id": 53,
+        "index": "CRISPLEAF_AMARANTH_SACHET",
+        "rarity": 0,
+        "image": "iconFavors_crispleafAmaranthSachet"
+    },
+    {
+        "description": "Zapewnia <b>75%</b> dodatkowych Punktów Krwi w kategorii Przetrwanie.<br><li>Osobiste.</li><li>Łączy się.</li>",
+        "name": "Świeży Szarłat Wyniosły",
+        "flavor": "„Bladozielone liście są poprzeplatane dziwnymi szkarłatnymi żyłkami. O szarłacie mówi się, że jest wieczny”.",
+        "id": 54,
+        "index": "FRESH_CRISPLEAF_AMARANTH",
+        "rarity": 1,
+        "image": "iconFavors_freshCrispleafAmaranth"
+    },
+    {
+        "description": "Zapewnia <b>100%</b> dodatkowych Punktów Krwi w kategorii Przetrwanie.<br><li>Osobiste.</li<li>Łączy się.</li>",
+        "name": "Pachnący Szarłat Wyniosły",
+        "flavor": "„Blado-zielone liście podświetlone osobliwymi karmazynowymi żyłami. Uwalnia silny rzodkiewkowy zapach”.",
+        "id": 55,
+        "index": "FRAGRANT_CRISPLEAF_AMARANTH",
+        "rarity": 2,
+        "image": "iconFavors_fragrantCrispleafAmaranth"
+    },
+    {
+        "description": "Zapewnia <b>50%</b>  dodatkowych Punktów Krwi w kategorii Altruizm.<br><li>Osobiste.</li><li>Łączy się.</li>",
+        "name": "Saszetka Kwitnących Pierwiosnków",
+        "flavor": "„Ręcznie szyta saszetka zawierająca 4 złote płatki. Pierwiosnek otwiera się tuż przed tym, jak słońce ustępuje miejsca nocy”.",
+        "id": 56,
+        "index": "PRIMROSE_BLOSSOM_SACHET",
+        "rarity": 0,
+        "image": "iconFavors_primroseBlossomSachet"
+    },
+    {
+        "description": "Zapewnia <b>75%</b> dodatkowych Punktów Krwi w kategorii Altruizm.<br><li>Osobiste.</li<li>Łączy się.</li>",
+        "name": "Świeże Kwitnące Pierwiosnki",
+        "flavor": "„Złote, zerwane przy czubku kwiaty. Pierwiosnki otwierają się tuż przed tym, kiedy słońce ustępuje miejsca nocy”.",
+        "id": 57,
+        "index": "FRESH_PRIMROSE_BLOSSOM",
+        "rarity": 1,
+        "image": "iconFavors_freshPrimroseBlossom"
+    },
+    {
+        "description": "Zapewnia <b>100%</b> dodatkowych Punktów Krwi w kategorii Altruizm.<br><li>Osobiste.</li<li>Łączy się.</li>",
+        "name": "Pachnące Kwitnące Pierwiosnki",
+        "flavor": "„Złote, zerwane przy czubku kwiaty. Uwalniają mocny, ziemisty lecz kojący zapach”.",
+        "id": 58,
+        "index": "FRAGRANT_PRIMROSE_BLOSSOM",
+        "rarity": 2,
+        "image": "iconFavors_fragrantPrimroseBlossom"
+    },
+    {
+        "description": "Zapewnia <b>50%</b> dodatkowych Punktów Krwi w kategorii Zuchwałość.<br><li>Osobiste.</li><li>Łączy się.</li>",
+        "name": "Saszetka Goździków",
+        "flavor": "„Ręcznie szyta saszetka zawierająca mieszaninę bladych płatków oraz zielonkawo-niebieskich liści. Uwalnia mocny i ostry goździkowy zapach”.",
+        "id": 59,
+        "index": "SWEET_WILLIAM_SACHET",
+        "rarity": 0,
+        "image": "iconFavors_sweetWilliamSachet"
+    },
+    {
+        "description": "Zapewnia <b>75%</b> dodatkowych Punktów Krwi w kategorii Zuchwałość.<br><li>Osobiste.</li><li>Łączy się.</li>",
+        "name": "Zapewnia <b>75%</b> dodatkowych Punktów Krwi w kategorii Zuchwałość.<br><li>Osobiste.</li><li>Łączy się.</li><br><span class=\"FlavorText\">„Pęk kwiatów z różowymi płatkami oraz krwistoczerwoną owocnią. Uwalnia ostry, goździkowy zapach”.</span>",
+        "flavor": "„Pęk kwiatów z różowymi płatkami oraz krwistoczerwoną owocnią. Uwalnia ostry, goździkowy zapach”.",
+        "id": 60,
+        "index": "FRESH_SWEET_WILLIAM",
+        "rarity": 1,
+        "image": "iconFavors_freshSweetWilliam"
+    },
+    {
+        "description": "Zapewnia <b>100%</b> dodatkowych Punktów Krwi w kategorii Zuchwałość.<br><li>Osobiste.</li<li>Łączy się.</li>",
+        "name": "Świeże Goździki",
+        "flavor": "„Pęk kwiatów z różowymi płatkami i krwistoczerwoną owocnią. Uwalnia silny, korzenno-goździkowy zapach”.",
+        "id": 61,
+        "index": "FRAGRANT_SWEET_WILLIAM",
+        "rarity": 2,
+        "image": "iconFavors_fragrantSweetWilliam"
+    },
+    {
+        "description": "Zapewnia <b>25%</b> dodatkowych Punktów Krwi we <b>wszystkich</b> kategoriach dla każdego z Ocalałych.<br><li>Łączy się</li>",
+        "name": "Związana Koperta",
+        "flavor": "„Otwarta koperta, ponownie zapieczętowana oraz związana 4 kolorowymi wstążkami”.",
+        "id": 62,
+        "index": "BOUND_ENVELOPE",
+        "rarity": 2,
+        "image": "iconFavors_boundEnvelope"
+    },
+    {
+        "description": "Zapewnia <b>25%</b> dodatkowych Punktów Krwi we wszystkich kategoriach.<br><li>Osobiste.</li><li>Łączy się.</li>",
+        "name": "Zapieczętowana Koperta",
+        "flavor": "„Niezaadresowana, zamknięta koperta, która pożółkła wraz z upływem czasu. Znajdująca się w środku wiadomość na zawsze pozostanie tajemnicą”.",
+        "id": 63,
+        "index": "SEALED_ENVELOPE",
+        "rarity": 1,
+        "image": "iconFavors_sealedEnvelope"
+    },
+    {
+        "description": "Zapewnia <b>100%</b> premię do otrzymywanych Punktów Krwi we wszystkich kategoriach.<br><li>Osobiste.</li><li>Łączy się.</li>",
+        "name": "Ucieczkowe Ciasto",
+        "flavor": "„Zdjęcie tego ciasta jest z pewnością prawdziwe”.",
+        "id": 64,
+        "index": "ESCAPE_CAKE",
+        "rarity": 1,
+        "image": "iconFavors_escapeCake"
+    },
+    {
+        "description": "<b>Nieznacznie zwiększa</b> szczęście.<br><li>Łączy się.</li>",
+        "name": "Woreczek Kredy",
+        "flavor": "„Mały bawełniany woreczek wypełniony białym proszkiem nieznanego pochodzenia. Niektórzy wierzą, że przynosi szczęście”.",
+        "id": 65,
+        "index": "CHALK_POUCH",
+        "rarity": 0,
+        "image": "iconFavors_chalkPouch"
+    },
+    {
+        "description": "<b>Umiarkowanie zwiększa</b> szczęście <b>wszystkich</b> ocalałych.<br><li>Łączy się.</li>",
+        "name": "Kremowy Woreczek Kredy",
+        "flavor": "„Krucha, miniaturowa statuetka zrobiona z czarnej soli, reprezentująca klęczącą, ofiarującą dar kobietę. Niektórzy wierzą, że przynosi ona szczęście”.",
+        "id": 66,
+        "index": "CREAM_CHALK_POUCH",
+        "rarity": 1,
+        "image": "iconFavors_creamChalkPouch"
+    },
+    {
+        "description": "<b>Znacząco zwiększa</b> szczęście.<br><li>Osobiste.</li><li>Łączy się.</li>",
+        "name": "Woreczek Proszku z Kości Słoniowej",
+        "flavor": "„Mały skórzany woreczek ukazujący proste, ręcznie szyte, białe linie na jednej z jego stron. Worek jest wypełniony proszkiem z kości słoniowej, który lśni w blasku księżyca. Niektórzy wierzą, że przynosi szczęście”.",
+        "id": 67,
+        "index": "IVORY_CHALK_POUCH",
+        "rarity": 2,
+        "image": "iconFavors_ivoryChalkPouch"
+    },
+    {
+        "description": "<b>Nieznacznie zwiększa</b> szczęście <b>wszystkich</b> Ocalałych.<br><li>Łączy się.</li>",
+        "name": "Słony Woreczek",
+        "flavor": "„Mały, bawełniany woreczek wypełniony czarnymi kryształkami soli. Niektórzy wierzą, że przynosi szczęście. Nie rozsyp jego zawartości”.",
+        "id": 68,
+        "index": "SALT_POUCH",
+        "rarity": 1,
+        "image": "iconFavors_saltPouch"
+    },
+    {
+        "description": "<b>Znacznie zwiększa</b> szczęście <b>wszystkich</b> ocalałych.<br><li>Łączy się.</li>",
+        "name": "Słoik słonych ust Viga",
+        "flavor": "„Mocno zakręcony szklany słoik, zawierający wyrwane ludzkie usta, pływające w mętnej solance. Niektórzy wierzą, że przynosi szczęście.”",
+        "id": 69,
+        "index": "VIGOS_JAR_OF_SALTY_LIPS",
+        "rarity": 3,
+        "image": "iconFavors_jarOfSaltyLips"
+    },
+    {
+        "description": "Prosi Byt, aby przywołał  <b>jedną</b> skrzynię więcej.<br><li>Łączy się.</li>",
+        "name": "Zaśniedziała Moneta",
+        "flavor": "„Okrągły kawałek metalu, który stracił cały połysk”.",
+        "id": 70,
+        "index": "TARNISHED_COIN",
+        "rarity": 1,
+        "image": "iconFavors_tarnishedCoin"
+    },
+    {
+        "description": "Prosi Byt o przywołanie <b>2 dodatkowych</b> skrzyń.<br><li>Łączy się.</li>",
+        "name": "Błyszcząca moneta",
+        "flavor": "„Czysty, wypolerowany kawałek złota…”",
+        "id": 71,
+        "index": "SHINY_COIN",
+        "rarity": 3,
+        "image": "iconFavors_shinyCoin"
+    },
+    {
+        "description": "Uspokaja Byt oraz <b>nieznacznie zmniejsza</b> <b>liczbę</b> haków ofiarnych pojawiających się na mapie.<br><li>Łączy się.</li>",
+        "name": "Skamieniały Dąb",
+        "flavor": "„Niszczejący kawałek skamieniałego drewna”.",
+        "id": 72,
+        "index": "PETRIFIED_OAK",
+        "rarity": 3,
+        "image": "iconFavors_petrifiedOak"
+    },
+    {
+        "description": "Zaczynasz mecz z losowym Ocalałym.<br><li>Sekret.</li>",
+        "name": "Całun Zjednoczenia",
+        "flavor": "„Związany kawałek materiału”.",
+        "id": 73,
+        "index": "SHROUD_OF_UNION",
+        "rarity": 1,
+        "image": "iconFavors_shroudOfUnion"
+    },
+    {
+        "description": "Wszyscy Ocalali zaczynają mecz razem.<br><li>Sekret.</li>",
+        "name": "Całun Przywiązania",
+        "flavor": "„Wyblakły, kwadratowy kawałek tkaniny zasupłany na każdym końcu”.",
+        "id": 74,
+        "index": "SHROUD_OF_BINDING",
+        "rarity": 3,
+        "image": "iconFavors_shroudOfBinding"
+    },
+    {
+        "description": "Zaczynasz mecz z dala od Zabójcy.<br><li>Sekret.</li>",
+        "name": "Całun Viga",
+        "flavor": "„Przebywając we Mgle przez lata, miałem styczność z wieloma cudami i nie mogłem ich pojąć; dopiero teraz rozumiem, jak zagiąć nieodwracalne zasady Mgły”. –  Dziennik Viga",
+        "id": 75,
+        "index": "VIGOS_SHROUD",
+        "rarity": 1,
+        "image": "iconFavors_vigosShroud"
+    }
+]

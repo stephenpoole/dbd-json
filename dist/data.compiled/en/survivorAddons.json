@@ -1,0 +1,503 @@
+[
+    {
+        "description": "A thin wide lens in perfect condition. Designed to spread the Flashlight beam at the cost of reducing its range of effectiveness.<br><li><b>Moderately widens</b> the Flashlight beam.</li><li><b>Slightly decreases</b> the range of the Flashlight beam.</li>",
+        "name": "Wide Lens",
+        "id": 1,
+        "index": "WIDE_LENS",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_wideLens"
+    },
+    {
+        "description": "A tiny Flashlight bulb that packs more wattage for a brighter, more powerful light beam.<br><li><b>Slightly narrows</b> the radius of the Flashlight beam.</li><li><b>Slightly increases</b> the beam's visual brightness.</li><li><b>Slightly increases</b> the Blindness duration.</li>",
+        "name": "Power Bulb",
+        "flavor": "\"Even the most powerful light cannot pierce through The Black Fog's darkness.\"",
+        "id": 2,
+        "index": "POWER_BULB",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_powerBulb"
+    },
+    {
+        "description": "A leather strip wrapped around the Flashlight for more grip.<br><li><b>Slightly increases</b> the Flashlight's accuracy.</li>",
+        "name": "Leather Grip",
+        "flavor": "\"Too many have fallen due to sweaty hands.\"",
+        "id": 3,
+        "index": "LEATHER_GRIP",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_leatherGrip"
+    },
+    {
+        "description": "A standard battery of unknown brand.<br><li>Adds <b>2 seconds</b> of use to a standard Flashlight.</li>",
+        "name": "Battery",
+        "flavor": "\"Another nearly empty battery.\"",
+        "id": 4,
+        "index": "BATTERY",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_battery"
+    },
+    {
+        "description": "A lens and reflector combo which can magnify a Flashlight's beam.<br><li><b>Moderately increases</b> the beam's visual brightness.</li><li><b>Moderately increases</b> the Blindness duration.</li>",
+        "name": "TIR Optic",
+        "flavor": "\"Let the light burn them out of their dark shroud.\"",
+        "id": 5,
+        "index": "TIR_OPTIC",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_tirOptic"
+    },
+    {
+        "description": "A rubber grip specifically fitting Flashlights for more grip.<br><li><b>Moderately increases</b> the Flashlight's accuracy.</li>",
+        "name": "A rubber grip specifically fitting Flashlights for more grip.<br><li><b>Moderately increases</b> the Flashlight's accuracy.</li>",
+        "id": 6,
+        "index": "RUBBER_GRIP",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_rubberGrip"
+    },
+    {
+        "description": "A filament bulb designed to extend a Flashlight battery's life.<br><li><b>Moderately decreases</b> Flashlight battery consumption.</li>",
+        "name": "Low Amp Filament",
+        "id": 7,
+        "index": "LOW_AMP_FILAMENT",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_threadedFilament"
+    },
+    {
+        "description": "A battery marked as \"industrial strength\".<br><li>Adds <b>4 seconds</b> of use to a standard Flashlight.</li>",
+        "name": "Heavy Duty Battery",
+        "flavor": "\"A battery advertised as lasting 8 hours lasts only a couple of seconds in The Black Fog.\"",
+        "id": 8,
+        "index": "HEAVY_DUTY_BATTERY",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_heavyDutyBattery"
+    },
+    {
+        "description": "A thick glass lens that focuses the Flashlight beam to increase its intensity.<br><li><b>Slightly increases</b> the range of the Flashlight beam.</li><li><b>Slightly narrows</b> the radius of the Flashlight beam.</li><li><b>Slightly increases</b> the beam's visual brightness.</li><li><b>Slightly increases</b> the Blindness duration.</li>",
+        "name": "Focus Lens",
+        "id": 9,
+        "index": "FOCUS_LENS",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_focusLens"
+    },
+    {
+        "description": "A recent model of battery that lasts longer.<br><li>Adds <b>6 seconds</b> of use to a standard Flashlight.</li>",
+        "name": "Long Life Battery",
+        "id": 10,
+        "index": "LONG_LIFE_BATTERY",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconAddon_longLifeBattery"
+    },
+    {
+        "description": "A chemical bulb that generates an intensely clear light.<br><li><b>Considerably increases</b> the beam's visual brightness.</li><li><b>Considerably increases</b> the Blindness duration.</li>",
+        "name": "Intense Halogen",
+        "id": 11,
+        "index": "INTENSE_HALOGEN",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconAddon_intenseHalogen"
+    },
+    {
+        "description": "A wide lens made of unscratchable sapphire that optimises the power and range of the light beam.<br><li><b>Moderately widens</b> the Flashlight beam.</li><li><b>Slightly increases</b> the Flashlight beam.</li><li><b>Moderately increases</b> the beam's visual brightness.</li><li><b>Moderately increases</b> the Blindness duration.</li>",
+        "name": "High-end Sapphire lens",
+        "id": 12,
+        "index": "HIGH_END_SAPPHIRE_LENS",
+        "type": 1,
+        "rarity": 3,
+        "image": "iconAddon_highEndSapphireLens"
+    },
+    {
+        "description": "A heavy and completely opaque bulb of unknown origin which emits a faint light even when turned off.<br><li><b>Tremendously increases</b> the beam's visual brightness.</li><li><b>Tremendously increases</b> the Blindness duration.</li><li><b>Slightly increases</b> the Flashlight battery consumption.</li>",
+        "name": "Odd Bulb",
+        "id": 13,
+        "index": "ODD_BULB",
+        "type": 1,
+        "rarity": 4,
+        "image": "iconAddon_oddBulb"
+    },
+    {
+        "description": "Tightly knitted rope used in praying rituals. Can be attached to the Key.<br><li>Adds <b>10 seconds</b> of use to the Key.</li>",
+        "name": "Prayer Rope",
+        "flavor": "\"Pray all you want, your words are getting lost somewhere up there, in The Fog.\"",
+        "id": 14,
+        "index": "PRAYER_ROPE",
+        "type": 2,
+        "rarity": 0,
+        "image": "iconAddon_prayerRope"
+    },
+    {
+        "description": "A porous and scratched white pearl. A minuscule jump ring allows the pearl to be attached to the Key.<br><li><b>Moderately increases</b> the range of the Key's aura reading ability.</li>",
+        "name": "Scratched Pearl",
+        "id": 15,
+        "index": "SCRATCHED_PEARL",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_scratchedPearl"
+    },
+    {
+        "description": "A chain of matte beads of various sizes used in praying rituals. Can be attached to the Key.<br><li>Adds <b>15 seconds</b> of use to the Key.</li>",
+        "name": "Prayer Beads",
+        "id": 16,
+        "index": "PRAYER_BEADS",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_prayerBeads"
+    },
+    {
+        "description": "A heavily worn out token made of brass. If an inscription or drawing was once engraved in it, it has today completely disappeared. Can be attached to the Key using its jump ring to channel the Key's aura reading ability.<br><li>Reveals <b>survivors' auras</b> when within a <b>24 meter</b> range.</li>",
+        "name": "Eroded Token",
+        "id": 17,
+        "index": "ERODED_TOKEN",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_tokenErroded"
+    },
+    {
+        "description": "A gold token with a dull appearance. Both faces are smooth and void of any inscriptions. Can be attached to the Key using its jump ring to channel the key's aura reading ability.<br><li>Reveals <b>survivors' auras</b> when within a <b>48 meter</b> range.</li>",
+        "name": "Gold Token",
+        "id": 18,
+        "index": "GOLD_TOKEN",
+        "type": 2,
+        "rarity": 2,
+        "image": "iconAddon_tokenGold"
+    },
+    {
+        "description": "A mundane key ring in appearance with an unusual bluish dark sheen. The ring binds the Key to the user, preventing its loss even in the darkest of times.<br><li>Do not lose the Key on death, lose this add-on instead.</li>",
+        "name": "Weaved Ring",
+        "id": 19,
+        "index": "WEAVED_RING",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_weavedRing"
+    },
+    {
+        "description": "This opaque piece of glass emits a dull vibrating noise. When the Key is used to unlock the Hatch, the glass token protects the Key from breaking, channeling The Fog's energy into the glass.<br><li>Do not lose the Key when unlocking the Hatch, lose this add-on instead.</li>",
+        "name": "Milky Glass",
+        "id": 20,
+        "index": "MILKY_GLASS",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_milkyGlass"
+    },
+    {
+        "description": "A blood-red amber striped with black veins. The amber is warm to the touch. Can be attached to the Key using its jump ring to channel the key's aura reading ability.<br><li>Reveals the <b>Killer's aura</b> when within a <b>32 meter</b> range at the <b>great expense</b> of the Key's energy.</li>",
+        "name": "Blood Amber",
+        "id": 21,
+        "index": "BLOOD_AMBER",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_bloodAmber"
+    },
+    {
+        "description": "A fragmented piece of a thick fibrous material. A partial and faded Map is drawn on it which by itself is useless.<br><li>Adds a <b>5 second charge</b> to any Map.</li>",
+        "name": "Map Addendum",
+        "id": 22,
+        "index": "MAP_ADDENDUM",
+        "type": 3,
+        "rarity": 0,
+        "image": "iconAddon_mapAddendum"
+    },
+    {
+        "description": "A small electrical wire. Both ends are heavily damaged like it has been forcefully torn out of its intended location. Can be tied around a Map to enhance its aura reading ability.<br><li>Unlocks the ability to track <b>exit gates</b>.</li>",
+        "name": "Yellow Wire",
+        "id": 23,
+        "index": "YELLOW_WIRE",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_ropeYellow"
+    },
+    {
+        "description": "A wooden stamp with a crosshatched rubber pad used to mark documents. It is unclear as to how or by whom this stamp was originally used. Can be used with a Map.<br><li><b>Moderately increases</b> the range of the Map tracking ability.</li>",
+        "name": "Unusual Stamp",
+        "id": 24,
+        "index": "UNUSUAL_STAMP",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_stampUnusual"
+    },
+    {
+        "description": "A slimy, translucent substance with a ghastly lavender shade. This jelly from unknown origin is highly resistant to heat.<br><li><b>Moderately slows down</b> the burning rate of the Map.</li>",
+        "name": "Retardant Jelly",
+        "id": 25,
+        "index": "RETARDANT_JELLY",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_retardantJelly"
+    },
+    {
+        "description": "A bristly and rough piece of twine of a deep red color. Can be tied around a Map to enhance its aura reading ability.<br><li>Unlocks the ability to track the <b>Killer's belongings</b>.</li>",
+        "name": "Red Twine",
+        "id": 26,
+        "index": "RED_TWINE",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_ropeRed"
+    },
+    {
+        "description": "A strange bead circled with gold that can be used to magnify the Map and mark a specific position. The bead emits an energy which can be felt and seen by survivors.<br><li>Unlocks the marker ability on secondary action.</li><li>Creates a marker that can be seen by all survivors.</li>",
+        "name": "Glass Bead",
+        "id": 27,
+        "index": "GLASS_BEAD",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_beadGlass"
+    },
+    {
+        "description": "A stamp carved out of sturdy blonde wood. The text found at the base is incomprehensible: \"kw'zvre'od\". Can be used with a Map.<br><li><b>Considerably increases</b> the range of the Map tracking ability.</li>",
+        "name": "Odd Stamp",
+        "id": 28,
+        "index": "ODD_STAMP",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconAddon_stampOdd"
+    },
+    {
+        "description": "A smooth black cord with a soft appearance. Can be tied around a Map to enhance its aura reading ability.<br><li>Unlocks the ability to track <b>the Hatch</b>.</li>",
+        "name": "Black Silk Cord",
+        "id": 29,
+        "index": "BLACK_SILK_CORD",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconAddon_ropeBlack"
+    },
+    {
+        "description": "An intricate set of lenses wrapped up in an astonishingly complex apparatus. The gears controlling the lenses' focus move by themselves as to focus on something invisible to humans.<br><li>Every Survivor sees the aura generated by the Map when the owner activates it.</li>",
+        "name": "Crystal Bead",
+        "id": 30,
+        "index": "CRYSTAL_BEAD",
+        "type": 3,
+        "rarity": 3,
+        "image": "iconAddon_beadCrystal"
+    },
+    {
+        "description": "Disposable medical gloves to avoid cross-contamination.<br><li><b>Moderately increases</b> progression bonus for succeeding Great Skill Checks.</li>",
+        "name": "Rubber Gloves",
+        "id": 31,
+        "index": "RUBBER_GLOVES",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_gloves"
+    },
+    {
+        "description": "Medical quality tape used to close small wounds.<br><li><b>Slightly increases</b> healing speed.</li>",
+        "name": "Butterfly Tape",
+        "id": 32,
+        "index": "BUTTERFLY_TAPE",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_butterflyTape"
+    },
+    {
+        "description": "A pack of bandages usually found in first aid kits.<br><li>Adds <b>8 charges</b> to the Med-kit.</li>",
+        "name": "Bandages",
+        "id": 33,
+        "index": "BANDAGES",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_bandages"
+    },
+    {
+        "description": "A mundane sponge used to soak up extra blood, providing easier access to wounds.<br><li><b>Considerably increases</b> progression bonus for succeeding Great Skill Checks.</li>",
+        "name": "Sponge",
+        "id": 34,
+        "index": "SPONGE",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_sponge"
+    },
+    {
+        "description": "A pack of bandages that sticks to themselves without the need of clips for a faster patch-up that requires less readjustments.<br><li>Adds <b>8 charges</b> to the Med-kit.</li><li><b>Slightly increases</b> the healing speed.</li>",
+        "name": "Self Adherent Wrap",
+        "id": 35,
+        "index": "SELF_ADHERENT_WRAP",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_selfAdherentWrap"
+    },
+    {
+        "description": "Not exactly a medical device, however it can be used to quickly and painfully close up a wound.<br><li><b>Moderately increases</b> the chances of triggering a Skill Check.</li><li><b>100% Bonus Bloodpoints </b> granted for succeeding Great Skill Checks.</li><li><b>Slightly increases</b> healing speed.</li>",
+        "name": "Needle & Thread",
+        "id": 36,
+        "index": "NEEDLE_AND_THREAD",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_needAndThread"
+    },
+    {
+        "description": "Scissors designed to easily cut through textiles.<br><li><b>Moderately increases</b> healing speed.</li>",
+        "name": "Medical Scissors",
+        "id": 37,
+        "index": "MEDICAL_SCISSORS",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_scissors"
+    },
+    {
+        "description": "A sterile gauze used for a variety of wounds. Part of a total wound care system.<br><li>Adds <b>12 charges</b> to the Med-kit.</li>",
+        "name": "Gauze Roll",
+        "id": 38,
+        "index": "GAUZE_ROLL",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_gauseRoll"
+    },
+    {
+        "description": "A medical device used to close and hold body tissue. Even though it's very effective, the surgical suture is challenging to use.<br><li><b>Considerably increases</b> the chances of triggering a Skill Check.</li><li><b>150% Bonus Bloodpoints </b> granted for succeeding Great Skill Checks.</li><li><b>Slightly increases</b> healing speed.</li>",
+        "name": "Surgical Suture",
+        "id": 39,
+        "index": "SURGICAL_SUTURE",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_surgicalSuture"
+    },
+    {
+        "description": "A pack of gel forming pads used to patch up heavily exudating wounds.<br><li>Adds <b>16 charges</b> to the Med-kit.</li>",
+        "name": "Gel Dressings",
+        "id": 40,
+        "index": "GEL_DRESSINGS",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_gelDressings"
+    },
+    {
+        "description": "A highly absorbent pad that prevents bodily fluid leakage when applied to large abdominal wounds.<br><li><b>Considerably increases</b> healing speed.</li><li><b>Reduce charges</b> by <b>8</b>.</li>",
+        "name": "Abdominal Dressing",
+        "id": 41,
+        "index": "ABDOMINAL_DRESSING",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_abdominalDressing"
+    },
+    {
+        "description": "A white powder with coagulant properties. Apply the agent to a wound to stop it from hemorrhaging.<br><li>Press the <i>Secondary Action</i> button while healing with the Med-kit to use the Styptic Agent.</li><li>When the <i>Styptic Agent</i> is used on an injured Survivor, they gain the <b>Endurance</b> status effect for <b>8 seconds</b>.<li>Consumes the Med-kit on use.</li>",
+        "name": "Styptic Agent",
+        "id": 42,
+        "index": "STYPTIC_AGENT",
+        "type": 4,
+        "rarity": 3,
+        "image": "iconAddon_stypticAgent"
+    },
+    {
+        "description": "An anti-hemorrhagic substance that stops the bleeding in a matter of seconds.<br><li>Press the <i>Secondary Action</i> button while healing with the Med-kit to use the Anti-Hemorrhagic Syringe.</li><li>The affected Survivor will passively gain a health state <b>16</b> seconds after use.</li><li>The time required is modified by perks, items and add-ons that affect <i>Healing Speeds</i>.</li><li>This effect is canceled when the affected Survivor changes health state or is picked up.</li><li>Consumes the Med-kit on use.</li>",
+        "name": "Anti-Hemorrhagic Syringe",
+        "id": 43,
+        "index": "ANTI_HEMORRHAGIC_SYRINGE",
+        "type": 4,
+        "rarity": 4,
+        "image": "iconAddon_syringe"
+    },
+    {
+        "description": "Useful tool to clamp hoses or hold wires in place and prevent damage or injury.<br><li>The noises caused by your repairs and their hearing distance are reduced by 8 meters.</li>",
+        "name": "Spring Clamp",
+        "id": 44,
+        "index": "SPRING_CLAMP",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_springClamp"
+    },
+    {
+        "description": "Springs, screws and gears. Mostly unusable junk.<br><li>Adds <b>8 charges</b> to the Toolbox.</li>",
+        "name": "Scraps",
+        "id": 45,
+        "index": "SCRAPS",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_scraps"
+    },
+    {
+        "description": "A mundane rag. Suspiciously clean.<br><li><b>Slightly increases</b> the Toolbox's repair speed.</li>",
+        "name": "Clean Rag",
+        "id": 46,
+        "index": "CLEAN_RAG",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_cleanRag"
+    },
+    {
+        "description": "A portable but heavy spool of copper wire.<br><li>Adds <b>12 charges</b> to the Toolbox.</li>",
+        "name": "Wire Spool",
+        "id": 47,
+        "index": "WIRE_SPOOL",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_spoolOfWire"
+    },
+    {
+        "description": "Swivels provide bend and flexibility for bolts that are out of reach, deep within mechanical devices.<br><li><b>Moderately increases</b> the Toolbox repair speed.</li>",
+        "name": "Socket Swivels",
+        "id": 48,
+        "index": "SOCKET_SWIVELS",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_socketSwivels"
+    },
+    {
+        "description": "Thick gloves which reduce manual dexterity but protect hands from injury.<br><li>Prevents the Killer from being notified when sabotaging a hook with the Toolbox.</li>",
+        "name": "Protective Gloves",
+        "id": 49,
+        "index": "PROTECTIVE_GLOVES",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_protectiveGloves"
+    },
+    {
+        "description": "Someone quickly painted what seems to be repair instructions on this piece of bark.<br><li>Eliminates Skill Checks while repairing with the Toolbox.</li>",
+        "name": "Instructions",
+        "id": 50,
+        "index": "INSTRUCTIONS",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_instructions"
+    },
+    {
+        "description": "An adjustable wrench with a tough grip. Essential in any Toolbox.<br><li>Hooks sabotaged using the Toolbox take an extra 15 seconds to respawn.</li>",
+        "name": "Grip Wrench",
+        "id": 51,
+        "index": "GRIP_WRENCH",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_gripWrench"
+    },
+    {
+        "description": "A rudimentary cutting tool made from a jagged metal wire and two wooden handles.<br><li><b>Slightly increases</b> the Toolbox's sabotage speed.</li>",
+        "name": "Cutting Wire",
+        "id": 52,
+        "index": "CUTTING_WIRE",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_cuttingWire"
+    },
+    {
+        "description": "A small hand saw mounted with a metal cutting blade.<br><li><b>Moderately increases</b> the Toolbox's sabotage speed.</li>",
+        "name": "Hacksaw",
+        "id": 53,
+        "index": "HACKSAW",
+        "type": 5,
+        "rarity": 2,
+        "image": "iconAddon_metalSaw"
+    },
+    {
+        "description": "This intricate mechanical part feels oddly out of place. It is clean and shiny as if straight out of the factory.<br><li><b>Toolbox Repair</b> action is replaced with <b>Install Brand New Part</b>.</li><li>Installing the <i>Brand New Part</i> will automatically repair <b>15%</b> of a generator over <b>5 seconds</b>.</li><li>During the installation, you will be faced with <b>2 difficult Skill Checks</b>.</li><li>Successfully hitting a Skill Check will result in an additional <b>5% generator repair progress</b>, up to a total of <b>25% generator repair progress</b>.</li><li><i>This add-on is consumed after use</i></li>",
+        "name": "Brand New Part",
+        "id": 54,
+        "index": "BRAND_NEW_PART",
+        "type": 5,
+        "rarity": 4,
+        "image": "iconAddon_brandNewPart"
+    },
+    {
+        "description": "An engraved wedding ring that emerged from The Fog and resonates with an indescribable and incomprehensible energy. <li>Reveals the Obsession's aura.</li><li>Decreases your chances to be The Killer’s Obsession.</li>",
+        "name": "Unique Wedding Ring",
+        "id": 55,
+        "index": "UNIQUE_WEDDING_RING",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_uniqueRing"
+    }
+]

@@ -1,0 +1,241 @@
+[
+    {
+        "description": "一串用纸张包裹着的小型燃爆物。爆炸后会发出巨响并产生强光。有干扰作用，可用作致盲道具或是纯粹用来庆祝。<br><li><b>1 次</b></li>",
+        "name": "中国鞭炮",
+        "id": 1,
+        "index": "CHINESE_FIRECRACKER",
+        "type": 6,
+        "rarity": 5,
+        "image": "iconItems_chineseFirecracker"
+    },
+    {
+        "description": "一个标准的手电筒，可以在黑暗里为你的旅程提供照明。<br><li>使用时间为<b>8 秒</b>。</li>",
+        "name": "手电筒",
+        "flavor": "“这个手电筒电池的大部分电量基本被其前任所有者浪费殆尽。”",
+        "id": 2,
+        "index": "FLASHLIGHT",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconItems_flashlight"
+    },
+    {
+        "description": "安装了特殊镜头的手电筒，可以发出带有幽灵色彩的橘黄色光束。<br><li><b>8秒</b>使用时间。</li><li><b>大幅提升</b>你生活中友好的鬼。</li>",
+        "name": "鬼火手电筒",
+        "flavor": "“不给糖就捣蛋！”",
+        "id": 3,
+        "index": "WILL_O_WISP",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconItems_flashlightHalloween"
+    },
+    {
+        "description": "轻盈方便的手电筒，握在手上也十分稳固。高效的科技让手电筒不仅减低能耗，同时还可以产生强大的照明效果。<br><li>使用时间为<b>8秒</b>。</li><li><b>小幅降低</b>手电筒电池消耗。</li><li><b>小幅增加</b>手电筒的精准度。</li>",
+        "name": "运动型手电筒",
+        "id": 4,
+        "index": "SPORT_FLASHLIGHT",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconItems_flashlightSport"
+    },
+    {
+        "description": "坚固耐用的手电筒，因为装载了很多电池，所以很重。<br><li>可使用<b>12 秒</b>。</li><li><b>小幅降低</b>手电筒的精准度。</li><li><b>中幅增加</b>手电筒的光照亮度。</li><li><b>中幅增加</b>致盲效果的持续时间。</li>",
+        "name": "强力手电筒",
+        "id": 5,
+        "index": "UTILITY_FLASHLIGHT",
+        "type": 1,
+        "rarity": 3,
+        "image": "iconItems_flashlightUtility"
+    },
+    {
+        "description": "钥匙头和钥匙柄，激荡着强大的魔力。破损钥匙的力量无法自己启动。钥匙扣环上可以附加各种物品，以使破损钥匙的力量具备各种效果。<br><li>使用时间为<b>10秒</b>。</li>",
+        "name": "破损钥匙",
+        "id": 6,
+        "index": "BROKEN_KEY",
+        "type": 2,
+        "rarity": 2,
+        "image": "iconItems_brokenKey"
+    },
+    {
+        "description": "弯折灰暗的钥匙，曾蕴含着强大的力量。灰暗钥匙的力量无法自己启动。钥匙扣环上可以附加各种物品，以使灰暗钥匙的力量具备各种效果。<br><li>使用时间为<b>5秒</b>。</li><li>可用来开地道，但会被消耗掉。</li>",
+        "name": "灰暗钥匙",
+        "id": 7,
+        "index": "DULL_KEY",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconItems_dullKey"
+    },
+    {
+        "description": "一把污浊而弯曲的钥匙，蕴含着万能的力量。钥匙的力量无法自己启动。钥匙扣环上可以附加各种物品，以使万能钥匙的力量具备各种效果。<br><li>使用时间为<b>30秒</b>。</li><li>可用来开地道。</li>",
+        "name": "万能钥匙",
+        "id": 8,
+        "index": "SKELETON_KEY",
+        "type": 2,
+        "rarity": 4,
+        "image": "iconItems_key"
+    },
+    {
+        "description": "一块老旧的动物皮卷轴，由一根无色的皮绳系着，可引导地图解锁气场解读能力的巨大潜力，而读图时会导致地图缓缓燃烧。只要地图还有可用次数，你所见过的发电机气场位置就会显示给你。<br><li>使用时间为<b>20秒</b>。</li><li>进入游戏时，会直接解锁<b>1个</b>发电机的气场。</li><li>解锁<b>8米</b>范围内追踪目标的能力。</li>",
+        "name": "地图",
+        "id": 9,
+        "index": "MAP",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconItems_map"
+    },
+    {
+        "description": "一张用诡异的新鲜皮肤制作而成的人皮地图，边缘的血迹尚未干涸。由多根五颜六色的绳索系封住。拿起并引导地图，可解锁气场解读能力的巨大潜力，但也会导致地图缓缓燃烧。只要地图还有可用次数，你所遇到过的物品的气场位置就会显示给你。<br><li>使用时间为<b>20秒</b>。</li><li>进入游戏时，会直接解锁<b>3个物品</b>的气场。</li><li>解锁<b>8米</b>范围内追踪目标的能力。</li><li>解锁<b>8米</b>范围内追踪地道的能力。</li><li>解锁<b>8米</b>范围内追踪<b>杀手物品</b>的能力。</li><li>解锁<b>8米</b>范围内追踪<b>出口大门</b>的能力。</li>",
+        "name": "彩虹地图",
+        "flavor": " “我对此无比沮丧，面对如此凶险的梦魇，所有无法言传的知识，耗尽心血的努力，都显得毫无作用。”——维克多的日记",
+        "id": 10,
+        "index": "RAINBOW_MAP",
+        "type": 3,
+        "rarity": 4,
+        "image": "iconItems_rainbowMap"
+    },
+    {
+        "description": "一个基本的急救箱，即使在缺医少药的紧急情况下，也能挽救生命。<br><li>耐久度为<b>16</b>。</li><li><b>中幅提高</b>你治疗他人的速度。</li><li>解锁<b>自我疗愈</b>动作。</li>",
+        "name": "野营急救箱",
+        "flavor": "“凑合着包扎一下吧。”",
+        "id": 11,
+        "index": "CAMPING_AID_KIT",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconItems_rundownAidKit"
+    },
+    {
+        "description": "贴着磷光万圣节印花的塑料便当盒，里面塞满了医疗用品。<br><li>耐久度为<b>24</b>。</li><li><b>大幅提高</b>你治疗他人的速度。</li><li>解锁自我疗愈动作。</li><li>大幅增加<b>你的嘲讽度以及上钩几率</b>。</li>",
+        "name": "万圣前夕便当盒",
+        "flavor": "“安全第一！但确保你在要糖果或捣乱的时候是人群中最耀眼的那一个。”",
+        "id": 12,
+        "index": "ALL_HALLOWS_EVE_LUNCHBOX",
+        "type": 4,
+        "rarity": 5,
+        "image": "iconItems_medkitHalloween"
+    },
+    {
+        "description": "一个标准的急救箱，其中配备了所有必须的医疗装备，可以治疗普通和比较严重的伤口。<br><li>耐久度为<b>24</b>。</li><li><b>大幅增加</b>你治疗他人的速度。</li><li>解锁自我疗愈动作。</li>",
+        "name": "急救箱",
+        "id": 13,
+        "index": "FIRST_AID_KIT",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconItems_firstAidKit"
+    },
+    {
+        "description": "一个坚固而齐全的医药箱，配备了顶级的急救用品。<br><li><b>耐久度为16</b>。</li><li><b>巨幅提高</b>你治疗他人的速度。</li><li><b>巨幅提高</b>你治疗自己的速度。</li><li>解锁<b>自我疗愈</b>动作。</li>",
+        "name": "急救医疗箱",
+        "flavor": "“基本上每一种伤病都有治疗方案……唯独这个不行。”",
+        "id": 14,
+        "index": "EMERGENCY_MED_KIT",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconItems_medkit"
+    },
+    {
+        "description": "一个大金属盒子，里面包含了医疗补给品，旨在为偏远不毛之地的伤者提供紧急医疗救护。<br><li>耐久度为<b>32</b>。</li><li><b>巨幅提高</b>你治疗他人的速度。</li><li><b>中幅增大</b>技能检验的成功区域。</li><li><b>中幅增大</b>技能检验的完美区域。</li><li>解锁<b>自我疗愈</b>动作。</li>",
+        "name": "突击队医药箱",
+        "flavor": "“盒子背后贴着镌刻的小标签： VK.ID-3994723。”",
+        "id": 15,
+        "index": "RANGER_MED_KIT",
+        "type": 4,
+        "rarity": 3,
+        "image": "iconItems_rangersAidKit"
+    },
+    {
+        "description": "金属盒子，里面有些随时都可能坏掉的折旧工具。即使没有接受过培训，也可以使用这个工具箱来修理或者破坏各种不同的机械组件。<br><li><b>耐久度为16</b>。</li><li><b>中幅增加</b>修理速度。</li><li><b>小幅降低</b>技能检验的成功区域。</li><li>解锁<b>破坏</b>功能。</li>",
+        "name": "破旧工具箱",
+        "flavor": "“你管这堆废铜烂铁叫‘工具’……你当真吗？”",
+        "id": 16,
+        "index": "WORN_OUT_TOOLS",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconItems_toolboxWornOut"
+    },
+    {
+        "description": "装有基础工具的金属盒子。即使没有接受过培训，也可以使用这个工具箱来修理或者破坏各种不同的机械零件。<br><li><b>耐久度为20</b>。</li><li><b>中幅增加</b>修理速度。</li><li>解锁<b>破坏</b>功能。</li><li><b>小幅增加</b>破坏速度。</li>",
+        "name": "工具箱",
+        "flavor": "“不清楚这些工具来自何处，到底是由我们中的某位带进来的，还是根本就是恶魔的杀人工具？”",
+        "id": 17,
+        "index": "TOOLBOX",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconItems_toolbox"
+    },
+    {
+        "description": "金属盒子，里面包含了专业的机械工具。即使没有接受过培训，也可以使用此工具箱来修理或者破坏各种不同的机械零件。<br><li><b>耐久度为16</b>。</li><li><b>大幅增加</b>修理速度。</li><li>解锁<b>破坏</b>功能。</li><li><b>小幅降低</b>破坏速度。</li>",
+        "name": "机械工的工具箱",
+        "id": 18,
+        "index": "MECHANICS_TOOLBOX",
+        "type": 5,
+        "rarity": 2,
+        "image": "iconItems_toolboxMechanics"
+    },
+    {
+        "description": "金属盒子，里面包含了基础工具和额外的机械零件。即使没有接受过培训，也可以使用这个工具箱来修理或者破坏各种不同的机械零件。<br><li><b>耐久度为32</b>。</li><li><b>中幅增加</b>修理速度。</li><li>解锁<b>破坏</b>功能。</li>",
+        "name": "宽敞的工具箱",
+        "id": 19,
+        "index": "COMMODIOUS_TOOLBOX",
+        "type": 5,
+        "rarity": 2,
+        "image": "iconItems_toolboxCommodious"
+    },
+    {
+        "description": "金属盒子，里面包含了专业的工程工具。即使是初学者，也可以使用这个工具箱里的大部分工具来快速修理或者破坏各种不同的机械零件。<br><li><b>耐久度为16</b>。</li><li><b>巨幅增加</b>修理速度。</li><li>解锁<b>破坏</b>功能。</li><li><b>中幅降低</b>破坏速度。</li>",
+        "name": "工程师的工具箱",
+        "flavor": "“我创造了无与伦比的工具，当它们从我身边被偷走时，我整个人都僵直站立在那里，这些只是迷雾之中的劣质复制品”——威戈的日记",
+        "id": 20,
+        "index": "ENGINEERS_TOOLBOX",
+        "type": 5,
+        "rarity": 3,
+        "image": "iconItems_toolboxEngineers"
+    },
+    {
+        "description": "一个金属盒子，里面主要装着各式各样的锯子和扳手以及其它工具。虽然这个工具箱里的工具主要都是用来搞破坏的，但是也可以用它们来修理各种各样的机械零件。<br><li><b>耐久度为24</b>。</li><li><b>小幅增加</b>修理速度。</li><li>解锁<b>破坏</b>功能。</li><li><b>大幅增加</b>破坏速度。</li>",
+        "name": "阿莱克斯的工具箱",
+        "flavor": "“大部分工具上面都印刻着‘阿莱克斯所有’。”",
+        "id": 21,
+        "index": "ALEXS_TOOLBOX",
+        "type": 5,
+        "rarity": 3,
+        "image": "iconItems_toolboxAlexs"
+    },
+    {
+        "description": "高爆炸性的小型餐桌装饰。爆炸后会发出巨响并产生强光。有干扰作用，可用作致盲道具或是纯粹用来庆祝。<br><li><b>1 次</b></li>",
+        "name": "冬季派对启动器",
+        "id": 22,
+        "index": "WINTER_PARTY_STARTER",
+        "type": 6,
+        "rarity": 5,
+        "image": "iconItems_winterEventFirecracker"
+    },
+    {
+        "description": "小型的爆发式餐桌装饰。会发出巨响与强光，还有满天飞舞的五彩纸片。可以当作闪光物用作干扰，或是一同庆祝三周年的道具。<br><li><b>仅能使用1次。</b></li>",
+        "name": "三周年派对启动器",
+        "flavor": "“周年快乐！欢迎各位一同庆祝我们的三周年！”<br>——《黎明杀机》团队",
+        "id": 23,
+        "index": "THIRD_YEAR_PARTY_STARTER",
+        "type": 6,
+        "rarity": 5,
+        "image": "iconItems_partyPopper"
+    },
+    {
+        "description": "可以完全恢复幸存者生命值的节日医疗箱，使用后会爆出五彩纸屑。给你的惊喜！<br><li><b>24点耐久度</b>。</li><li><b>大幅提升</b>你治疗其他人的速度。</li><li>解锁<b>自我治愈</b>动作。</li>",
+        "name": "周年医疗箱",
+        "flavor": "“周年快乐！祝我们年年有今日！”<br>- 《黎明杀机》制作团队",
+        "id": 24,
+        "index": "ANNIVERSARY_MED_KIT",
+        "type": 4,
+        "rarity": 5,
+        "image": "iconItems_medkit_anniversary2020"
+    },
+    {
+        "description": "此节庆手电筒在致盲杀手同时会喷出五彩纸屑。给你的惊喜！<br><li><b>8秒</b>使用时间。</li>",
+        "name": "周年手电筒",
+        "flavor": "“周年快乐！祝我们年年有今日！”<br>——《黎明杀机》团队",
+        "id": 25,
+        "index": "ANNIVERSARY_FLASHLIGHT",
+        "type": 1,
+        "rarity": 5,
+        "image": "iconItems_flashlight_anniversary2020"
+    }
+]

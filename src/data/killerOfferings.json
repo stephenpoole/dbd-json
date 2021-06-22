@@ -1,0 +1,187 @@
+[
+    {
+        "id": 100,
+        "index": "TANAGER_WREATH",
+        "name": "CB666E044F74FE9FFC62CA8CB76FEE26",
+        "rarity": 0,
+        "description": "1B15086D4431A4469271F4AEFC805409",
+        "image": "iconFavors_tanagerWreath"
+    },
+
+    {
+        "id": 101,
+        "index": "DEVOUT_TANAGER_WREATH",
+        "name": "CE3607E84304ADB62DD191B2ED1B0333",
+        "rarity": 1,
+        "description": "C4C2E3834B6A0CC3556FB3936276CB51",
+        "image": "iconFavors_devoutTanagerWreath"
+    },
+    {
+        "id": 102,
+        "index": "ARDENT_TANAGER_WREATH",
+        "name": "A6BCAED042477507E0AD21957A8E4651",
+        "rarity": 2,
+        "description": "207A58A241CDEAF7CD6E1691D3D1878D",
+        "image": "iconFavors_ardentTanagerWreath"
+    },
+    {
+        "id": 103,
+        "index": "RAVEN_WREATH",
+        "name": "9B47195F45B15030016B12BE65CA2B3B",
+        "rarity": 0,
+        "description": "13E7B4E44B624543DB3D4E95A8E88723",
+        "image": "iconFavors_ravenWreath"
+    },
+    {
+        "id": 104,
+        "index": "DEVOUT_RAVEN_WREATH",
+        "name": "97AD4F1D4AF183E5333E469847931C26",
+        "rarity": 1,
+        "description": "B8CF810B4D33046D18B04685B78E2F15",
+        "image": "iconFavors_devoutRavenWreath"
+    },
+    {
+        "id": 105,
+        "index": "ARDENT_RAVEN_WREATH",
+        "name": "048FBD884459AD8585F7F280D4D5F5F6",
+        "rarity": 2,
+        "description": "CC110D5C41423FFBB48A0DA1F107C9CC",
+        "image": "iconFavors_ardentRavenWreath"
+    },
+    {
+        "id": 106,
+        "index": "SPOTTED_OWL_WREATH",
+        "name": "11BF0C5E4D31DF3AFC0E4FBE0DE9266D",
+        "rarity": 0,
+        "description": "648F1711471A92F0008668949736A0D2",
+        "image": "iconFavors_spottedOwlWreath"
+    },
+    {
+        "id": 107,
+        "index": "DEVOUT_SPOTTED_OWL_WREATH",
+        "name": "9F368970489E38D5AA85E4A38AEBC3D3",
+        "rarity": 1,
+        "description": "8E3497E349323CE066B3AB8F55210E7C",
+        "image": "iconFavors_devoutSpottedOwlWreath"
+    },
+    {
+        "id": 108,
+        "index": "ARDENT_SPOTTED_OWL_WREATH",
+        "name": "F51973B643D041E371966C9DE99178AE",
+        "rarity": 2,
+        "description": "1B0F0E4C4FC296D9827A95A9FC0362D2",
+        "image": "iconFavors_ardentSpottedOwlWreath"
+    },
+    {
+        "id": 109,
+        "index": "SHRIKE_WREATH",
+        "name": "6817AD554D0BA97C3C44499058C4DE65",
+        "rarity": 0,
+        "description": "2F79941C46C3E2E80FC7479F13A40A7D",
+        "image": "iconFavors_shrikeWreath"
+    },
+    {
+        "id": 110,
+        "index": "DEVOUT_SHRIKE_WREATH",
+        "name": "716CC41A4EF678E48B3C6A9DF6743E36",
+        "rarity": 1,
+        "description": "CD6CC4FA4627FEB450CBB4AEEF76CC05",
+        "image": "iconFavors_devoutShrikeWreath"
+    },
+    {
+        "id": 111,
+        "index": "ARDENT_SHRIKE_WREATH",
+        "name": "BF4FFF814E0015EEFCB61EB58AC6E1A5",
+        "rarity": 2,
+        "description": "B7ECE091488CAA08821991AC8E3219D3",
+        "image": "iconFavors_ardentShrikeWreath"
+    },
+    {
+        "id": 112,
+        "index": "HOLLOW_SHELL",
+        "name": "D3FF6E434BFEB13AFC079488FBBBAE3B",
+        "rarity": 1,
+        "description": "9A8684224E53DAF9F96898B9996EC629",
+        "image": "iconFavors_hollowShell"
+    },
+    {
+        "id": 113,
+        "index": "SURVIVOR_PUDDING",
+        "name": "F1CC07EB4706EEFD6AD5179B728B1975",
+        "rarity": 1,
+        "description": "CB3AB28D4C4A7BD11DE78F8FF4BA9580",
+        "image": "iconFavors_survivorPudding"
+    },
+    {
+        "id": 114,
+        "index": "CUT_COIN",
+        "name": "8085466C45932030953B76B28C45AA28",
+        "rarity": 3,
+        "description": "1AFB72674BADBD3F668762AEF795EDB0",
+        "image": "iconFavors_cutCoin"
+    },
+    {
+        "id": 115,
+        "index": "SCRATCHED_COIN",
+        "name": "D42218E3494CDBBD27D1CCA967295876",
+        "rarity": 1,
+        "description": "00761DB84DA57DC5A01499A2AA865864",
+        "image": "iconFavors_scratchedCoin"
+    },
+    {
+        "id": 116,
+        "index": "MOLDY_OAK",
+        "name": "4C18E4C14058D233D68E16A7228399DE",
+        "rarity": 1,
+        "description": "D067E09F4DBD3188B26069A589B19832",
+        "image": "iconFavors_moldyOak"
+    },
+    {
+        "id": 117,
+        "index": "ROTTEN_OAK",
+        "name": "F854A5A544D933BA5DFB679C889B1F36",
+        "rarity": 2,
+        "description": "B37F52664D4835C5CC23369D7844150B",
+        "image": "iconFavors_rottenOak"
+    },
+    {
+        "id": 118,
+        "index": "PUTRID_OAK",
+        "name": "107C281049C68D696C94CC80CA652AD8",
+        "rarity": 3,
+        "description": "8A05326540193771B44FAF935D841902",
+        "image": "iconFavors_putridOak"
+    },
+    {
+        "id": 119,
+        "index": "CYPRESS_MEMENTO_MORI",
+        "name": "DB4C99714A2295FA1922C599C4F27100",
+        "rarity": 1,
+        "description": "8BE0148D46DB7E37514E84AC381F9C0C",
+        "image": "iconFavors_momentoMoriCypress"
+    },
+    {
+        "id": 120,
+        "index": "IVORY_MEMENTO_MORI",
+        "name": "91B2687B473D9172ADE510AAA4655A48",
+        "rarity": 2,
+        "description": "C09E6C0F4B049D60705F858550552FBB",
+        "image": "iconFavors_momentoMoriIvory"
+    },
+    {
+        "id": 121,
+        "index": "EBONY_MEMENTO_MORI",
+        "name": "011E08544FE33D63FE8382BB6383AA80",
+        "rarity": 4,
+        "description": "D834C3204E6E06A6EF44F885E2BF767C",
+        "image": "iconFavors_momentoMoriEbony"
+    },
+    {
+        "id": 122,
+        "index": "SHROUD_OF_SEPARATION",
+        "name": "B5D20A7948610F5B5A382B98FA44EF78",
+        "rarity": 1,
+        "description": "C9DAD9F44F2AAC027B65AAA77FC6ED41",
+        "image": "iconFavors_shroudOfSeparation"
+    }
+]

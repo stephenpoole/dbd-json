@@ -1,0 +1,241 @@
+[
+    {
+        "description": "Una fila di piccoli dispositivi esplosivi avvolti in un involucro di carta spessa. Esplodendo, genera forti scoppi e intensi lampi di luce. Può essere usato come diversivo, come dispositivo accecante o per festeggiare.<br><li><b>1 carica.</b></li>",
+        "name": "Petardo cinese",
+        "id": 1,
+        "index": "CHINESE_FIRECRACKER",
+        "type": 6,
+        "rarity": 5,
+        "image": "iconItems_chineseFirecracker"
+    },
+    {
+        "description": "Una torcia elettrica standard. Può essere utilizzata per illuminare il tuo cammino nell'oscurità.<br><li><b>8 secondi</b> di utilizzo.</li>",
+        "name": "Torcia elettrica",
+        "flavor": "\"Gran parte della carica della batteria è stata sprecata dal suo precedente proprietario.\"",
+        "id": 2,
+        "index": "FLASHLIGHT",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconItems_flashlight"
+    },
+    {
+        "description": "Una torcia elettrica dotata di uno speciale coperchio per lenti, che aggiunge una tinta arancione e un piccolo fantasma al fascio luminoso. <br><li><b>8 secondi</b> di utilizzo. </li><li><b>Aumenta considerevolmente</b> la presenza di Ghost Face amichevole nella tua vita.</li>",
+        "name": "Fuoco fatuo",
+        "flavor": "\"Buon dolcetto o scherzetto!\"",
+        "id": 3,
+        "index": "WILL_O_WISP",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconItems_flashlightHalloween"
+    },
+    {
+        "description": "Una torcia elettrica molto facile da trasportare, con una buona presa. La sua efficiente tecnologia produce una luce potente, pur consumando meno energia. <br><li><b>8 secondi di utilizzo</b>.</li><li><b>Riduce leggermente</b> il consumo della batteria della torcia.</li><li><b>Aumenta leggermente</b> la precisione.</li>",
+        "name": "Torcia elettrica sportiva",
+        "id": 4,
+        "index": "SPORT_FLASHLIGHT",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconItems_flashlightSport"
+    },
+    {
+        "description": "Una torcia elettrica robusta ma pesante, di elevata potenza.<br><li><b>12 secondi di utilizzo</b>.</li><li><b>Riduce leggermente</b> la precisione.</li><li><b>Aumenta moderatamente</b> la luminosità visiva del fascio luminoso.</li><li><b>Aumenta moderatamente</b> la durata dell'accecamento.</li>",
+        "name": "Torcia elettrica utilitaria",
+        "id": 5,
+        "index": "UTILITY_FLASHLIGHT",
+        "type": 1,
+        "rarity": 3,
+        "image": "iconItems_flashlightUtility"
+    },
+    {
+        "description": "Impugnatura e gambo di una chiave, vibranti di potere. Il potere della chiave rotta non può essere auto-innescato. Vari oggetti possono essere appesi al suo anello di salto per incanalare il potere della chiave rotta in vari effetti.<br><li><b>10 secondi</b> di utilizzo.</li>",
+        "name": "Chiave rotta",
+        "id": 6,
+        "index": "BROKEN_KEY",
+        "type": 2,
+        "rarity": 2,
+        "image": "iconItems_brokenKey"
+    },
+    {
+        "description": "Una chiave storta e scolorita, un tempo portatrice di un grande potere. Il potere della chiave non può essere auto-innescato. Vari oggetti possono essere appesi al suo anello di salto, per incanalare il potere della chiave sbiadita in effetti vari.<br><li><b>5 secondi</b> di utilizzo.</li><li>Può essere consumata per aprire le serrature oscure.</li>",
+        "name": "Chiave sbiadita",
+        "id": 7,
+        "index": "DULL_KEY",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconItems_dullKey"
+    },
+    {
+        "description": "Una chiave ossidata e deformata, vibrante di un'energia inquietante. Il potere della chiave non può essere auto innescato. Vari oggetti possono essere appesi al suo anello di salto per incanalare il potere della Chiave Universale in vari effetti.<br><li><b>30 secondi</b> di utilizzo.</li><li>Può essere consumata per aprire le serrature oscure.</li>",
+        "name": "Chiave universale",
+        "id": 8,
+        "index": "SKELETON_KEY",
+        "type": 2,
+        "rarity": 4,
+        "image": "iconItems_key"
+    },
+    {
+        "description": "Un pezzo di una vecchia pergamena fatta di un materiale simile alla pelle. È arrotolato e chiuso da una stringa di cuoio incolore. Mantenendo e incanalando la mappa, viene sbloccato un grande potenziale di capacità di lettura dell'aura che lentamente brucia la mappa. Le aure dei generatori che hai già incontrato restano visibili per tutto il tempo in cui la mappa ha della carica rimanente.<br><li><b>20 secondi</b> di utilizzo.</li><li>Inizia con <b>1</b> generatore individuato automaticamente.</li><li>Sblocca l'abilità di individuazione generatori in un raggio di <b>8 metri</b>.</li>",
+        "name": "Mappa",
+        "id": 9,
+        "index": "MAP",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconItems_map"
+    },
+    {
+        "description": "Un pezzo di pergamena in pelle stranamente fresca. Il sangue sui bordi non è ancora asciutto. È arrotolata e chiusa da diversi cordoncini colorati. Mantenendo e incanalando il potere della mappa, viene sbloccato un grande potenziale di capacità di lettura dell'aura, che lentamente brucia la mappa stessa. Le aure degli oggetti che hai già incontrato restano visibili per tutto il tempo in cui la mappa ha della carica rimanente. <br><li><b>20 secondi di utilizzo</b>.</li><li>Inizia con <b>3 oggetti</b> individuati automaticamente.</li><li>Sblocca l'abilità di <b>individuazione oggetti</b> in un raggio di <b>8 metri</b>.</li><li>Sblocca l'abilità di <b>individuazione delle serrature oscure</b> in un raggio di <b>8 metri</b>.</li><li>Sblocca l'abilità di <b>individuazione degli effetti personali del killer</b> in un raggio di <b>8 metri</b>.</li><li>Sblocca l'abilità di <b>individuazione dei cancelli d'uscita</b> in un raggio di <b>8 metri</b>.</li>",
+        "name": "Mappa arcobaleno",
+        "flavor": "\"Sono avvilito. Tutta questa incredibile conoscenza e questo sforzo estenuante e tuttavia niente di tangibile, nulla che possa essere utilizzato per uscire da questo incubo.\" - Dal Diario di Vigo",
+        "id": 10,
+        "index": "RAINBOW_MAP",
+        "type": 3,
+        "rarity": 4,
+        "image": "iconItems_rainbowMap"
+    },
+    {
+        "description": "Un kit di pronto soccorso rudimentale che può salvare vite umane in condizioni di emergenza, sebbene vi sia qualche elemento mancante.<br><li><b>16 cariche</b>.</li><li><b>Aumenta moderatamente</b> la velocità con cui guarisci gli altri.</li><li>Sblocca l'azione di <b>autoguarigione</b>.</li>",
+        "name": "Kit di pronto soccorso da campeggio",
+        "flavor": "\"Contiene materiale appena sufficiente per una sutura decente.\"",
+        "id": 11,
+        "index": "CAMPING_AID_KIT",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconItems_rundownAidKit"
+    },
+    {
+        "description": "Un cestino per il pranzo di plastica con adesivi fosforescenti di Halloween, pieno di attrezzature per il primo soccorso.<br><li><b>24 cariche.</b></li><li><b>Aumenta considerevolmente</b> la velocità con cui guarisci gli altri.</li><li>Sblocca l'azione di <b>autoguarigione</b>.</li><li>Ti rende <b>considerevolmente più visibile</b>.</li>",
+        "name": "Cestino del pranzo della vigilia di Ognissanti",
+        "flavor": "\"La sicurezza al primo posto! Assicurati di essere visto quando fai dolcetto o scherzetto.\"",
+        "id": 12,
+        "index": "ALL_HALLOWS_EVE_LUNCHBOX",
+        "type": 4,
+        "rarity": 5,
+        "image": "iconItems_medkitHalloween"
+    },
+    {
+        "description": "Un ordinario kit di pronto soccorso con tutto l'equipaggiamento necessario per il trattamento di lesioni, da comuni a più gravi.<br><li><b>24 cariche.</b></li><li><b>Aumenta considerevolmente</b> la velocità con cui guarisci gli altri.</li><li>Sblocca l'azione di <b>autoguarigione</b>.</li>",
+        "name": "Kit di pronto soccorso",
+        "id": 13,
+        "index": "FIRST_AID_KIT",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconItems_firstAidKit"
+    },
+    {
+        "description": "Un robusto e ben organizzato kit medico, contenente forniture mediche in ottime condizioni.<br><li><b>16 cariche</b>.</li><li><b>Aumenta straordinariamente</b> la velocità con cui guarisci gli altri.</li><li><b>Aumenta straordinariamente</b> la velocità di autoguarigione.</li><li>Sblocca l'azione di <b>autoguarigione</b>.</li>",
+        "name": "Kit medico per le emergenze",
+        "flavor": "\"C'è una cura per tutto... ma non per questo.\"",
+        "id": 14,
+        "index": "EMERGENCY_MED_KIT",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconItems_medkit"
+    },
+    {
+        "description": "Una scatola metallica di grandi dimensioni contenente forniture mediche per salvataggi d'emergenza in zone difficili da raggiungere e spesso isolate.<br><li><b>32 cariche</b>.</li><li><b>Aumenta straordinariamente</b> la velocità con cui guarisci gli altri.</li><li><b>Aumenta moderatamente</b> le aree di successo del Test Abilità.</li><li><b>Aumenta moderatamente</b> le aree bonus del Test Abilità.</li><li>Sblocca l'azione di <b>autoguarigione</b>.</li>",
+        "name": "Kit medico da ranger",
+        "flavor": "\"Una piccola etichetta può essere trovata incollata al pannello posteriore, con la seguente incisione: VK.ID-3994723\"",
+        "id": 15,
+        "index": "RANGER_MED_KIT",
+        "type": 4,
+        "rarity": 3,
+        "image": "iconItems_rangersAidKit"
+    },
+    {
+        "description": "Scatola metallica contenente attrezzi in cattive condizioni che possono rompersi in qualunque momento. Anche senza alcun tipo di formazione, possono essere usati per riparare o distruggere varie componenti meccaniche.<br><li><b>16 cariche</b>.</li><li><b>Aumenta moderatamente</b> la velocità di riparazione.</li><li><b>Riduce leggermente</b> le aree di successo del Test Abilità.</li><li>Sblocca l'azione di <b>sabotaggio</b>.</li>",
+        "name": "Attrezzi usurati",
+        "flavor": "\"E questi li chiami attrezzi? Sul serio?\"",
+        "id": 16,
+        "index": "WORN_OUT_TOOLS",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconItems_toolboxWornOut"
+    },
+    {
+        "description": "Scatola metallica contenente un set di attrezzi di base. Anche senza alcun tipo di formazione, possono essere usati per riparare o distruggere vari componenti meccanici.<br><li><b>20 cariche.</b></li><li><b>Aumenta moderatamente</b> la velocità di riparazione.</li><li>Sblocca l'azione di <b>sabotaggio</b>.</li><li><b>Aumenta leggermente</b> la velocità di sabotaggio.</li>",
+        "name": "Cassetta degli attrezzi",
+        "flavor": "\"La provenienza di questi attrezzi non è chiara. Sono stati portati qui da uno di noi o appartenevano a uno dei mostri?\"",
+        "id": 17,
+        "index": "TOOLBOX",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconItems_toolbox"
+    },
+    {
+        "description": "Scatola metallica con attrezzatura altamente specializzata, utilizzata in campo meccanico. Anche senza alcun tipo di formazione, può essere usata per riparare o distruggere vari componenti meccanici.<br><li><b>16 cariche</b>.</li><li><b>Aumenta considerevolmente</b> la velocità di riparazione.</li><li>Sblocca l'azione di <b>sabotaggio</b>.</li><li><b>Riduce leggermente</b> la velocità di sabotaggio.</li>",
+        "name": "Cassetta degli attrezzi da meccanico",
+        "id": 18,
+        "index": "MECHANICS_TOOLBOX",
+        "type": 5,
+        "rarity": 2,
+        "image": "iconItems_toolboxMechanics"
+    },
+    {
+        "description": "Una scatola metallica di grandi dimensioni contenente attrezzatura di base e parti meccaniche aggiuntive. Anche senza alcun tipo di formazione, può essere usata per riparare o distruggere vari componenti meccanici.<br><li><b>32 cariche</b>.</li><li><b>Aumenta moderatamente</b> la velocità di riparazione.</li><li>Sblocca l'azione di <b>sabotaggio</b>.</li>",
+        "name": "Cassetta degli attrezzi spaziosa",
+        "id": 19,
+        "index": "COMMODIOUS_TOOLBOX",
+        "type": 5,
+        "rarity": 2,
+        "image": "iconItems_toolboxCommodious"
+    },
+    {
+        "description": "Scatola metallica con attrezzatura altamente specializzata, utilizzata in campo ingegneristico. Anche senza alcun tipo di formazione, molti degli attrezzi possono comunque essere usati per effettuare riparazioni veloci o distruggere vari componenti meccanici.<br><li><b>16 cariche</b>.</li><li><b>Aumenta straordinariamente</b> la velocità di riparazione.</li><li>Sblocca l'azione di <b>sabotaggio</b>.</li><li><b>Riduce moderatamente</b> la velocità di sabotaggio.</li>",
+        "name": "Cassetta degli attrezzi da ingegnere",
+        "flavor": "\"Ho creato attrezzi incomparabili e sono rimasto paralizzato mentre mi venivano portati via. Questi non sono altro che una mediocre replica, rigurgitata dalla Nebbia.\" - dal Diario di Vigo",
+        "id": 20,
+        "index": "ENGINEERS_TOOLBOX",
+        "type": 5,
+        "rarity": 3,
+        "image": "iconItems_toolboxEngineers"
+    },
+    {
+        "description": "Una scatola di metallo contenente principalmente seghe e morse di varie dimensioni, ma anche altri strumenti. Anche se il contenuto di tale cassetta è chiaramente rivolto ad atti distruttivi, esso può essere usato anche per riparare vari componenti meccanici.<br><li><b>24 cariche</b>.</li><li><b>Aumenta leggermente</b> la velocità di riparazione.</li><li>Sblocca l'azione di <b>sabotaggio</b>.</li><li><b>Aumenta considerevolmente</b> la velocità di sabotaggio.</li>",
+        "name": "Cassetta degli attrezzi di Alex",
+        "flavor": "\"Molti degli attrezzi sono contrassegnati come \"di proprietà di Alex\\'.\"",
+        "id": 21,
+        "index": "ALEXS_TOOLBOX",
+        "type": 5,
+        "rarity": 3,
+        "image": "iconItems_toolboxAlexs"
+    },
+    {
+        "description": "Un piccolo centrotavola altamente esplosivo. Quando viene innescato, genera forti scoppi e intensi lampi di luce. Può essere usato come diversivo, come dispositivo accecante o per festeggiare.<br><li><b>1 carica.</b></li>",
+        "name": "Anima della festa invernale",
+        "id": 22,
+        "index": "WINTER_PARTY_STARTER",
+        "type": 6,
+        "rarity": 5,
+        "image": "iconItems_winterEventFirecracker"
+    },
+    {
+        "description": "Un piccolo centrotavola altamente esplosivo. Quando viene innescato, genera forti scoppi, intensi lampi di luce e coriandoli colorati. Può essere usato come diversivo, come dispositivo accecante o per festeggiare insieme i nostri primi tre anni.<br><li><b>1 carica.</b></li>",
+        "name": "Iniziatore della festa per il terzo anno",
+        "flavor": "\"Buon anniversario! Alla vostra, e ai nostri tre anni insieme!\"<br>- Il team di Dead by Daylight",
+        "id": 23,
+        "index": "THIRD_YEAR_PARTY_STARTER",
+        "type": 6,
+        "rarity": 5,
+        "image": "iconItems_partyPopper"
+    },
+    {
+        "description": "Un kit medico festivo che guarisce completamente il sopravvissuto e spara una pioggia di coriandoli. Sorpresa!<br><li><b>24 cariche</b>.</li><li><b>Aumenta considerevolmente</b> la velocità con cui guarisci gli altri.</li><li>Sblocca l'azione di <b>autoguarigione</b>.</li>",
+        "name": "Kit medico dell'anniversario",
+        "flavor": "\"Buon anniversario! Alla vostra, e a tanti altri anni insieme!\"<br>- Il team di Dead by Daylight",
+        "id": 24,
+        "index": "ANNIVERSARY_MED_KIT",
+        "type": 4,
+        "rarity": 5,
+        "image": "iconItems_medkit_anniversary2020"
+    },
+    {
+        "description": "Una torcia festiva che acceca il killer e spara una pioggia di coriandoli. Sorpresa!<br><li><b>8 secondi</b> di utilizzo.</li>",
+        "name": "Torcia dell'anniversario",
+        "flavor": "\"Buon anniversario! Alla vostra, e a tanti altri anni insieme!\"<br>- Il team di Dead by Daylight",
+        "id": 25,
+        "index": "ANNIVERSARY_FLASHLIGHT",
+        "type": 1,
+        "rarity": 5,
+        "image": "iconItems_flashlight_anniversary2020"
+    }
+]

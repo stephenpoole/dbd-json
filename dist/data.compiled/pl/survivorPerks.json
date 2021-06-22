@@ -1,0 +1,2556 @@
+[
+    {
+        "description": "Wyzwala potencjał twojego odczytywania aury. Za każdym razem, gdy ukończona zostanie naprawa generatora, dostrzegasz aurę zabójcy przez <span class=\"Highlight1\">{0} s</span>.<br>Kiedy bramy wyjściowe stają się aktywne, dostrzegasz aurę zabójcy przez <span class=\"Highlight2\">{1} s</span>.",
+        "name": "Mroczny Zmysł",
+        "flavor": "„Przyjmij radę od weterana: Zwolnij, nie spiesz się i staraj się tyle nie martwić! Najlepszy sposób, by go pokonać, to wiedzieć jak myśli”. – Zaginione taśmy, Murf",
+        "id": 100,
+        "index": "DARK_SENSE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_darkSense",
+        "tiers": [
+            [
+                5,
+                5
+            ],
+            [
+                5,
+                7
+            ],
+            [
+                5,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "Wyzwala potencjał twojego odczytywania aury. Paranoja połączona ze strachem przed porażką sprawia, że nie popełniasz dwa razy tych samych błędów.<br>Aury <span class=\"Highlight1\">{0}</span> generatorów znajdujących się w bliskiej odległości od siebie są ujawnione na okres <span class=\"Highlight2\">{1} s</span> za każdym razem, gdy rozpoczynasz mecz oraz zawsze wtedy, gdy zostanie naprawiony dowolny generator.<br>Jeżeli trzymasz w ręku mapę pozwalającą lokalizować obiekty, generatory ujawnione za pomocą <i>Deja Vu</i> dodawane są do mapy.",
+        "name": "Deja Vu",
+        "id": 101,
+        "index": "DEJA_VU",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_dejaVu",
+        "tiers": [
+            [
+                3,
+                30
+            ],
+            [
+                3,
+                45
+            ],
+            [
+                3,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "Wzrastające szanse na udaną ucieczkę napełniają cię nadzieją i dodają ci skrzydeł. Twoja bazowa prędkość ruchu jest zwiększona o <span class=\"Highlight1\">{0}%</span>, licząc od momentu aktywacji bram. Efekt trwa przez <span class=\"Highlight3\"> {1} s</span>.<br>",
+        "name": "Nadzieja",
+        "flavor": "„Zapinać pasy, ćwoki! Ruszamy!” – Zaginione taśmy: Nikki",
+        "id": 102,
+        "index": "HOPE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_hope",
+        "tiers": [
+            [
+                5,
+                120
+            ],
+            [
+                6,
+                120
+            ],
+            [
+                7,
+                120
+            ]
+        ]
+    },
+    {
+        "description": "Wyzwala potencjał twojego odczytywania aury. Kiedy jesteś na haku, aury wszystkich ocalałych zostają ujawnione pozostałym ocalałym. Jeżeli zabójca jest w promieniu <span class=\"Highlight1\">{0} m</span> od haka, jego aura jest ujawniona pozostałym ocalałym.<br><br>Gdy inny ocalały jest na haku, widzisz aury wszystkich pozostałych ocalałych. Jeśli zabójca znajduje się w promieniu <span class=\"Highlight1\">{0} m</span> od haka, widzisz także jego aurę.",
+        "name": "Pokrewieństwo",
+        "flavor": "„Bądźcie dla siebie mili. Siedzimy w tym razem”. – Zaginione taśmy: Sujan",
+        "id": 103,
+        "index": "KINDRED",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_kindred",
+        "tiers": [
+            [
+                8,
+                8
+            ],
+            [
+                12,
+                12
+            ],
+            [
+                16,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "Twój bieg jest lekki i delikatny, czyniąc twój trop trudniejszym do śledzenia. Ślady zadrapań pozostają widoczne o <span class=\"Highlight1\">{0} s</span> krócej niż normalnie.<br>",
+        "name": "Lekkość",
+        "flavor": "„Nie spiesz się, on wie, gdzie byłeś… Zawsze mówiłem: żyj wolno i umieraj staro”. – Zaginione taśmy: Dylan",
+        "id": 104,
+        "index": "LIGHTWEIGHT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_lightweight",
+        "tiers": [
+            [
+                1
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ]
+        ]
+    },
+    {
+        "description": "Zostawienie kogoś w tyle jest nie do pomyślenia. Kiedy bramy wyjściowe zostają otwarte, uzyskujesz następujące efekty: <br><li><span class=\"Highlight1\">{0}%</span> więcej Punktów Krwi za leczenie i zdejmowanie z haków innych ocalałych.</li><li><span class=\"Highlight2\">{1}%</span> większa prędkość akcji podczas leczenia i zdejmowania z haka innych ocalałych.</li><li>Aury wszystkich ocalałych zostają ci ujawnione.</li>",
+        "name": "Nikt Nie Zostaje w Tyle",
+        "flavor": "„Ta, bez kitu. Ale uważam, że razem możemy go przechytrzyć i pokonać. Nie bądźcie przewidywalni i samolubni!” – Zaginione taśmy: Clyde",
+        "id": 105,
+        "index": "NO_ONE_LEFT_BEHIND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_noOneLeftBehind",
+        "tiers": [
+            [
+                50,
+                30
+            ],
+            [
+                75,
+                40
+            ],
+            [
+                100,
+                50
+            ]
+        ]
+    },
+    {
+        "description": "Wyzwala potencjał odczytywania aury. Aury nieotwartych skrzyń i przedmiotów na mapie w zasięgu <span class=\"Highlight1\">{0} m</span> stają się dla ciebie widoczne. Zapewnia <b>znacząco</b> większą szansę na odnajdywanie w skrzyniach rzadszych przedmiotów.",
+        "name": "Instynkt Grabieżcy",
+        "flavor": "„Pionierzy zbierali łupy godzinami”. – Zaginione taśmy: Aizeyu",
+        "id": 106,
+        "index": "PLUNDERERS_INSTINCT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_plunderersInstinct",
+        "tiers": [
+            [
+                16
+            ],
+            [
+                24
+            ],
+            [
+                32
+            ]
+        ]
+    },
+    {
+        "description": "Posiadasz niezaprzeczalną zdolność do wyczuwania zagrożenia. Kiedy patrzysz w kierunku zabójcy w promieniu <span class=\"Highlight1\">45°</span> i zasięgu <span class=\"Highlight2\">{0} m</span>, dostajesz ostrzeżenie dźwiękowe. Przeczucie odnawia się po upływie <span class=\"Highlight3\">{1} s</span>, licząc od każdorazowej aktywacji.",
+        "name": "Przeczucie",
+        "flavor": "„Mam złe przeczucie!”",
+        "id": 107,
+        "index": "PREMONITION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_premonition",
+        "tiers": [
+            [
+                36,
+                60
+            ],
+            [
+                36,
+                45
+            ],
+            [
+                36,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "Skrajne warunki motywują cię do działania. Gdy odniesiesz ranę, twoja prędkość reperowania, sabotowania, leczenia, ratowania z haka, przeskakiwania przez przeszkody, niszczenia totemów, otwierania bram i odblokowywania skrzyń jest zwiększona o <span class=\"Highlight1\">{0}%</span>.",
+        "name": "Zaradność",
+        "flavor": "„Skup się, nawet w tych desperackich czasach”.",
+        "id": 108,
+        "index": "RESILIENCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_resilience",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                6
+            ],
+            [
+                9
+            ]
+        ]
+    },
+    {
+        "description": "Udało ci się opracować skuteczny sposób ucieczki z haków.<br><li>Daje dodatkowe próby uwolnienia się z haka: <span class=\"Highlight1\">{0}</span>.</li><li>Szanse na ucieczkę z haka są zwiększone o <span class=\"Highlight2\">{1}%</span>.</li>",
+        "name": "Śliskie Mięso",
+        "id": 109,
+        "index": "SLIPPERY_MEAT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_slipperyMeat",
+        "tiers": [
+            [
+                3,
+                2
+            ],
+            [
+                3,
+                3
+            ],
+            [
+                3,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "Posiadasz niezaprzeczalną zdolność do wyczuwania zagrożenia. Otrzymujesz dźwiękowe powiadomienie, kiedy patrzysz w kierunku totemów w promieniu <span class=\"Highlight1\">45°</span> i zasięgu <span class=\"Highlight2\">{0} m</span>. Drobna Gra odnawia się po <span class=\"Highlight3\">{1} s</span>, licząc od każdorazowej aktywacji. Za każdy zwykły i przeklęty totem oczyszczony przez dowolnego gracza otrzymujesz żeton. Zasięg wykrywania Drobnej Gry zostaje zmniejszony o <span class=\"Highlight4\">5°</span> na żeton.",
+        "name": "Drobna Gra",
+        "flavor": "„Nie”. – Zaginione taśmy: Andy",
+        "id": 110,
+        "index": "SMALL_GAME",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_smallGame",
+        "tiers": [
+            [
+                8,
+                15
+            ],
+            [
+                10,
+                12
+            ],
+            [
+                12,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "Nienaturalny dreszcz ostrzega cię przed nadchodzącym zagrożeniem. Otrzymujesz ostrzeżenie za każdym razem, gdy zabójca patrzy w twoim kierunku i znajduje się w zasięgu <span class=\"Highlight1\">{0} m</span> od ciebie. Kiedy Dreszcz jest aktywny, szanse na pojawienie się testów umiejętności są zwiększone o <span class=\"Highlight2\">{1}%</span>, a paski sukcesu testów umiejętności – zmniejszone o <span class=\"Highlight3\">{2}%</span>. Kiedy Dreszcz jest aktywny, twoja szybkość naprawiania, sabotowania, leczenia, zdejmowania z haka, przeskakiwania, oczyszczania, otwierania bram wyjściowych i przeszukiwania jest zwiększona o <span class=\"Highlight4\">{3}%</span>.",
+        "name": "Dreszcz",
+        "flavor": "„Skup się. Usłyszysz głos, który nie używa słów”. – Zaginione taśmy: Sassy",
+        "id": 111,
+        "index": "SPINE_CHILL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_spineChill",
+        "tiers": [
+            [
+                36,
+                10,
+                10,
+                2
+            ],
+            [
+                36,
+                10,
+                10,
+                4
+            ],
+            [
+                36,
+                10,
+                10,
+                6
+            ]
+        ]
+    },
+    {
+        "description": "Dajesz z siebie wszystko, kiedy jesteś pod wpływem ogromnego stresu. Gdy odniesiesz ranę, twoje paski sukcesu testów umiejętności są zwiększone o <span class=\"Highlight1\">{0}%</span>. Efekt ma zastosowanie do naprawiania i leczenia.",
+        "name": "To Się Nie Dzieje",
+        "id": 112,
+        "index": "THIS_IS_NOT_HAPPENING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_thisIsNotHappening",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                20
+            ],
+            [
+                30
+            ]
+        ]
+    },
+    {
+        "description": "Pomaganie innym zwiększa twoje morale.<br><br>Gdy ratujesz ocalałego z haka, otrzymujesz o <span class=\"Highlight1\">{0}%</span> zwiększoną prędkość leczenia innych na <span class=\"Highlight3\">{1}s</span>.",
+        "name": "Damy Radę",
+        "flavor": "„Jestem przekonany, że możemy uciec w jednym kawałku, jeżeli będziemy sobie nawzajem pomagać”.",
+        "id": 113,
+        "index": "WELL_MAKE_IT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_wellMakeIt",
+        "tiers": [
+            [
+                100,
+                30
+            ],
+            [
+                100,
+                60
+            ],
+            [
+                100,
+                90
+            ]
+        ]
+    },
+    {
+        "description": "Wyzwala potencjał odczytywania aury. Widzisz aury sojuszników w zasięgu <span class=\"Highlight1\">{0} m</span>.<br>",
+        "name": "Więź",
+        "flavor": "„Musimy działać jako drużyna, musicie przeżyć, żebym ja mógł przeżyć!” – Dwight",
+        "id": 114,
+        "index": "BOND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DWIGHT_FAIRFIELD",
+        "image": "iconPerks_bond",
+        "tiers": [
+            [
+                20
+            ],
+            [
+                28
+            ],
+            [
+                36
+            ]
+        ]
+    },
+    {
+        "description": "Za każdego innego Ocalałego pracującego przy generatorze w zasięgu <span class=\"Highlight2\">{1} m</span> otrzymujesz premię <span class=\"Highlight1\">{0}%</span> do prędkości naprawy. Ta sama premia przyznawana jest wszystkim Ocalałym w zasięgu.<br>Zyskujesz <span class=\"Highlight3\">{2}%</span> więcej Punktów Krwi za akcje kooperatywne.<br>Ocalali mogą być pod wpływem tylko jednego efektu „Wykaż się” jednocześnie.<br>",
+        "name": "Wykaż się",
+        "flavor": "„Pokaż mi, na co cię stać!” – Dwight",
+        "id": 115,
+        "index": "PROVE_THYSELF",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DWIGHT_FAIRFIELD",
+        "image": "iconPerks_proveThyself",
+        "tiers": [
+            [
+                4,
+                15,
+                50
+            ],
+            [
+                4,
+                15,
+                75
+            ],
+            [
+                4,
+                15,
+                100
+            ]
+        ]
+    },
+    {
+        "description": "Jesteś w stanie zmobilizować drużynę do skuteczniejszej współpracy. Ocalali znajdujący się w zasięgu <span class=\"Highlight2\">{1} m</span> od ciebie leczą, sabotują, ścigają z haków, oczyszczają, odblokowują skrzynie i otwierają bramy wyjściowe o <span class=\"Highlight1\">{0}%</span> szybciej. Ocalali mogą mieć aktywny tylko jeden efekt Lider jednocześnie.<br>Po wyjściu z zasięgu efekt utrzymuje się przez <span class=\"Highlight3\">{2}s</span>.",
+        "name": "Lider",
+        "id": 116,
+        "index": "LEADER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DWIGHT_FAIRFIELD",
+        "image": "iconPerks_leader",
+        "tiers": [
+            [
+                15,
+                8,
+                15
+            ],
+            [
+                20,
+                8,
+                15
+            ],
+            [
+                25,
+                8,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "Gdy szybko przeskakujesz przez przeszkody lub chowasz się w szafkach, nie hałasujesz tak mocno jak inni.<br><br>Zasięg powiadomień zabójcy o akcjach związanych z przeskakiwaniem przez przeszkody lub chowaniem się w szafkach jest zmniejszony o <span class=\"Highlight1\">{0}%</span>.<br><br>Ten efekt może być wywołany raz na każde <span class=\"Highlight2\">{1} s</span>.",
+        "name": "Szybko i Cicho",
+        "id": 117,
+        "index": "QUICK_AND_QUIET",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "MEG_THOMAS",
+        "image": "iconPerks_quickAndQuiet",
+        "tiers": [
+            [
+                100,
+                30
+            ],
+            [
+                100,
+                60
+            ],
+            [
+                100,
+                90
+            ]
+        ]
+    },
+    {
+        "description": "Kiedy zaczynasz biec, przechodzisz w sprint ze <span class=\"Highlight1\">{0}%</span> normalnej prędkości na maksymalnie <span class=\"Highlight2\">{1} sekundy</span>.<br>Powoduje <i>Wyczerpanie</i> na <span class=\"Highlight4\">{2} sekund</span>.<br><i>Sprint</i> nie może zostać użyty podczas trwania <i>Wyczerpania</i>.<br>Czas efektu <i>Wyczerpania</i> nie zmniejsza się podczas biegu.",
+        "name": "Sprint",
+        "id": 118,
+        "index": "SPRINT_BURST",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "MEG_THOMAS",
+        "image": "iconPerks_sprintBurst",
+        "tiers": [
+            [
+                150,
+                3,
+                60
+            ],
+            [
+                150,
+                3,
+                50
+            ],
+            [
+                150,
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Nabierasz nowych sił, kiedy jesteś blisko ucieczki. W momencie aktywacji bram <span class=\"Highlight1\">natychmiast leczysz się ze <b>stanu krytycznego</b> lub <b>stanu agonii</b> </span> i przez <span class=\"Highlight3\">{1} sekund</span> możesz biec ze <span class=\"Highlight2\">{0}%</span> normalnej prędkości.<br><i>Adrenalina</i> nie uaktywni się, jeśli Ocalały jest unieruchomiony i zacznie działać dopiero wtedy, gdy zostanie uwolniony.<br><i>Adrenalina</i> <b>obudzi Ocalałego</b>, jeżeli jest uśpiony w momencie aktywacji.<br><i>Adrenalina</i> ignoruje <i>Wyczerpanie</i>.<br>Wywołuje <i>Wyczerpanie</i> na <span class=\"Highlight4\">{2} sekund</span>.<br>Czas trwania efektu <i>Wyczerpania</i> nie zmniejsza się podczas biegania.",
+        "name": "Adrenalina",
+        "id": 119,
+        "index": "ADRENALINE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "MEG_THOMAS",
+        "image": "iconPerks_adrenaline",
+        "tiers": [
+            [
+                150,
+                5,
+                60
+            ],
+            [
+                150,
+                5,
+                50
+            ],
+            [
+                150,
+                5,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Odblokowuje możliwość dostrzegania aury. Dostrzegasz aury Ocalałych z twojej drużyny w zasięgu <span class=\"Highlight1\">{0} m</span>, gdy są ranni lub w stanie agonii. Empatia nie ujawnia aur sojuszników, gdy są w bezpośrednim kontakcie z Zabójcą.",
+        "name": "Empatia",
+        "id": 120,
+        "index": "EMPATHY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CLAUDETTE_MOREL",
+        "image": "iconPerks_empathy",
+        "tiers": [
+            [
+                64
+            ],
+            [
+                96
+            ],
+            [
+                128
+            ]
+        ]
+    },
+    {
+        "description": "Zmieniasz znalezione na terenie obozowiska rośliny w mikstury spowalniające krwawienie. <b>Prędkość leczenia</b> i <b>wydajność przedmiotu leczącego</b> wzrastają o <span class=\"Highlight1\">{0}%</span>.<br>",
+        "name": "Wiedza Botaniczna",
+        "flavor": "„Podstawowa wiedza o roślinach może pewnego dnia uratować ci życie”.",
+        "id": 121,
+        "index": "BOTANY_KNOWLEDGE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CLAUDETTE_MOREL",
+        "image": "iconPerks_botanyKnowledge",
+        "tiers": [
+            [
+                11
+            ],
+            [
+                22
+            ],
+            [
+                33
+            ]
+        ]
+    },
+    {
+        "description": "Odblokowuje możliwość samodzielnego leczenia się bez apteczki z prędkością <span class=\"Highlight1\">{0}%</span> normalnego leczenia. Zwiększa efektywność leczenia przedmiotem do tego przeznaczonym o <span class=\"Highlight3\">{1}%</span>.",
+        "name": "Samoopatrywanie",
+        "id": 122,
+        "index": "SELF_CARE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CLAUDETTE_MOREL",
+        "image": "iconPerks_selfCare",
+        "tiers": [
+            [
+                50,
+                10
+            ],
+            [
+                50,
+                15
+            ],
+            [
+                50,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "Potrafisz się skoncentrować i wejść w stan medytacji, ignorując część odczuwanego bólu. Jęki na skutek obrażeń ograniczone są o <span class=\"Highlight1\">{0}%</span>.",
+        "name": "Żelazna Wola",
+        "id": 123,
+        "index": "IRON_WILL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JAKE_PARK",
+        "image": "iconPerks_ironWill",
+        "tiers": [
+            [
+                50
+            ],
+            [
+                75
+            ],
+            [
+                100
+            ]
+        ]
+    },
+    {
+        "description": "Zwierzęta zdają ci się ufać, często pozostając spokojnymi w twojej obecności. Zmniejsza szanse na zaalarmowanie leśnych zwierząt o <span class=\"Highlight1\">{0}%</span>.<br>Spokojny Duch pozwala ci powstrzymywać krzyki.",
+        "name": "Spokojny Duch",
+        "id": 124,
+        "index": "CALM_SPIRIT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JAKE_PARK",
+        "image": "iconPerks_calmSpirit",
+        "tiers": [
+            [
+                80
+            ],
+            [
+                90
+            ],
+            [
+                100
+            ]
+        ]
+    },
+    {
+        "description": "Wyzwala potencjał odczytywania aury.<br><li>Widzisz aury haków w promieniu <span class=\"Highlight1\">56 metrów</span> od miejsca podniesienia, gdy ocalały jest niesiony.</li><br>Odblokowuje umiejętność sabotowania haków bez skrzynki na narzędzia.<br><li>Sabotowanie haka bez skrzynki na narzędzia zajmuje <span class=\"Highlight2\">2,5 s</span>.</li><li>Sabotaż odnawia się przez <span class=\"Highlight3\">{0} s</span>.</li>",
+        "name": "Sabotażysta",
+        "id": 125,
+        "index": "SABOTEUR",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JAKE_PARK",
+        "image": "iconPerks_saboteur",
+        "tiers": [
+            [
+                90
+            ],
+            [
+                75
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "Twoja zręczność jest niezrównana.<br><br>Efekty oszołomienia po wykonaniu skoku są zmniejszone o <span class=\"Highlight1\">{0}%</span>, a głośność jęków po upadku cicha o <span class=\"Highlight1\">100%</span>. Zaczynasz biec z prędkością <span class=\"Highlight2\">{1}%</span> normalnego biegu przez maksymalnie <span class=\"Highlight3\">{2} s</span>.<br><br>Wywołuje efekt Wyczerpany na <span class=\"Highlight4\">{3} s</span>.<br><br><i>Podczas trwania efektu <b>Wyczerpany</b> nie można korzystać z Miękkiego Lądowania.<br><br>Efekt Wyczerpany nie znika podczas biegania.<br>",
+        "name": "Miękkie Lądowanie",
+        "flavor": "„Skakałam z wyższych miejsc”. – Nea",
+        "id": 126,
+        "index": "BALANCED_LANDING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEA_KARLSSON",
+        "image": "iconPerks_balancedLanding",
+        "tiers": [
+            [
+                75,
+                150,
+                3,
+                60
+            ],
+            [
+                75,
+                150,
+                3,
+                50
+            ],
+            [
+                75,
+                150,
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Lata ucieczki przed glinami nauczyły cię jednej lub dwóch rzeczy o ostrożności. Twoja prędkość skradania się jest zwiększona o <span class=\"Highlight1\">{0}%.</span><br>",
+        "name": "Skrytość",
+        "flavor": "„Farba jest wciąż świeża, ale mnie już tu dawno nie ma”. – Nea",
+        "id": 127,
+        "index": "URBAN_EVASION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEA_KARLSSON",
+        "image": "iconPerks_urbanEvasion",
+        "tiers": [
+            [
+                90
+            ],
+            [
+                95
+            ],
+            [
+                100
+            ]
+        ]
+    },
+    {
+        "description": "Długie noce spędzone poza domem nauczyły cię efektywnego wykorzystywania zasobów. Zmniejsz szybkość zużywania przedmiotów przez ciebie i twoich sojuszników w promieniu <span class=\"Highlight2\">{1} m</span> o <span class=\"Highlight1\">{0}%</span>. Po wyjściu z zasięgu efekt utrzymuje się przez <span class=\"Highlight4\">{2} s</span>.<br>",
+        "name": "Wiedza Uliczna",
+        "flavor": "„Źle to robisz! Pokażę ci, jak się to robi”. – Nea",
+        "id": 128,
+        "index": "STREETWISE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEA_KARLSSON",
+        "image": "iconPerks_streetwise",
+        "tiers": [
+            [
+                15,
+                8,
+                15
+            ],
+            [
+                20,
+                8,
+                15
+            ],
+            [
+                25,
+                8,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "Odblokowuje możliwość odczytywania aury.<br>Jeśli jesteś ostatnim ocalałym w rozgrywce, możesz zobaczyć aurę włazu z odległości <span class=\"Highlight1\">{0}</span> m.",
+        "name": "Porzucony",
+        "flavor": "„Nie będę się z tym pieprzył, zrobię to sam!” – Bill",
+        "id": 129,
+        "index": "LEFT_BEHIND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WILLIAM_OVERBECK",
+        "image": "iconPerks_leftBehind",
+        "tiers": [
+            [
+                24
+            ],
+            [
+                28
+            ],
+            [
+                32
+            ]
+        ]
+    },
+    {
+        "description": "Otrzymujesz zastrzyk niespodziewanej energii, gdy zdejmujesz sojusznika z haka.<br>Ocalali zdjęci z haka otrzymują efekt <b>Wytrzymałość</b> na <span class=\"Highlight1\">{0} s</span>.<br>",
+        "name": "Życie na kredyt",
+        "flavor": "„Piecze pewnie jak cholera, ale cię nie zabije. Wstawaj i na nich, żołnierzu! Ruchy!” – Bill Overbeck",
+        "id": 130,
+        "index": "BORROWED_TIME",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WILLIAM_OVERBECK",
+        "image": "iconPerks_borrowedTime",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                12
+            ],
+            [
+                15
+            ]
+        ]
+    },
+    {
+        "description": "Dawne bitwy nauczyły cię paru rzeczy o przetrwaniu. <br>Odblokowuje możliwość samodzielnego wyleczenia się ze <b>stanu agonii</b>, lecz możesz tego dokonać <b>tylko raz na mecz</b>. Zwiększa tempo regeneracji o <span class=\"Highlight1\">{0}%</span>.<br>",
+        "name": "Niezłomość",
+        "flavor": "„Jestem całkowicie ROZPIEPRZONY, jasna cholera!” – Bill",
+        "id": 131,
+        "index": "UNBREAKABLE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WILLIAM_OVERBECK",
+        "image": "iconPerks_unbreakable",
+        "tiers": [
+            [
+                25
+            ],
+            [
+                30
+            ],
+            [
+                35
+            ]
+        ]
+    },
+    {
+        "description": "Twoi przyjaciele zasługują na najlepszą ochronę.<br>Gdy leczysz innego ocalałego w stanie agonii, prędkość twojego działania jest zwiększona o <span class=\"Highlight1\">100%.</span><br>Otrzymaj żeton za wykonanie dowolnej z następujących czynności:<li>Wykonaj bezpieczne zdjęcie z haka</li><li>Przyjmij uderzenie, aby bronić ocalałego</li><li>Uratuj ocalałego poprzez ogłuszenie zabójcy paletą</li><li>Uratuj ocalałego poprzez oślepienie zabójcy latarką</li>Otrzymaj za każdy żeton <span class=\"Highlight2\">25%</span> łączącej się premii Punktów Krwi do <span class=\"Highlight3\">{1}%</span>. Dodatkowe punkty są przyznawane po zakończeniu rozgrywki.",
+        "name": "Będziemy Żyć Wiecznie",
+        "flavor": "„W porządku, niech tak będzie! Mam to w dupie, stary”. – David King",
+        "id": 132,
+        "index": "WERE_GONNA_LIVE_FOREVER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_KING",
+        "image": "iconPerks_WereGonnaLiveForever",
+        "tiers": [
+            [
+                50
+            ],
+            [
+                75
+            ],
+            [
+                100
+            ]
+        ]
+    },
+    {
+        "description": "Umiejętność aktywowana.<br>Możesz wytrzymać niezłe lanie. Gdy odniesiesz ranę, sięgnij do swoich zapasów adrenaliny i popędź do przodu, aby uniknąć obrażeń .<br><li>Wciśnij przycisk <i>Umiejętności Aktywnej</i>, aby popędzić do przodu.</li><li>Podczas pędu unikasz obrażeń.</li><li>Wywołuje <i>Wyczerpanie</i> na <span class=\"Highlight4\">{0} s</span>.<br>Czas trwania efektu <i>Wyczerpania</i> nie zmniejsza się podczas biegania.</li>",
+        "name": "Twarda Sztuka",
+        "flavor": "„Szliśmy sobie pewnej nocy przez korytarz, aż tu nagle przeleciała obok mnie butelka piwa, a potem następna i następna. Pomyślałem sobie: Będzie niezła bitka, Panowie, zapraszam! Kurz latał we wszystkie strony, przysięgam!” – David King",
+        "id": 133,
+        "index": "DEAD_HARD",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_KING",
+        "image": "iconPerks_DeadHard",
+        "tiers": [
+            [
+                60
+            ],
+            [
+                50
+            ],
+            [
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Przez cały czas trwania próby znajdujesz się pod wpływem efektu <span class=\"Highlight1\">okaleczenia</span>.<br>Twoja gęsta krew krzepnie niemal natychmiastowo. <li>Nie zostawiasz za sobą śladów krwi.</li><li>Wywołane przez obrażenia jęki bólu są w każdej chwili redukowane o <span class=\"Highlight2\">{0}%</span>.</li><li>Zapewnia możliwość pełnego wyleczenia się ze stanu agonii.</li>",
+        "name": "Bez Biadolenia",
+        "flavor": "„Nie wytrzymałem. Przywaliłem mu. No i mnie wyrzucili… Poszedłem potem do baru, wychyliłem parę kufli i zostawiłem to za sobą. I tak mi się to już sprzykrzyło, rozumiesz? Mam to w dupie”. – David King",
+        "id": 134,
+        "index": "NO_MITHER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_KING",
+        "image": "iconPerks_NoMither",
+        "tiers": [
+            [
+                0
+            ],
+            [
+                25
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "Im więcej twoich przyjaciół wpada w ręce zabójcy, tym większe stają się twoje szanse na przetrwanie. <b>Zdolność odczytywania aury</b> przez zabójcę ulega zakłóceniu.<br>Za każdym razem, kiedy inny ocalały zostaje zabity lub poświęcony, dostajesz żeton. Każdy żeton zapobiega odczytaniu twojej aury przez zabójcę, gdy znajdujecie się w odległości maksymalnie <span class=\"Highlight1\">{0} m</span> od siebie za każdego <b>zabitego</b> lub <b>poświęconego</b> ocalałego.<br><li><i>Zwiększa twoje szanse na zostanie obsesją.</i></li><li><i>Zabójca może mieć <b>obsesję</b> wyłącznie na punkcie jednego ocalałego naraz.</i></li>",
+        "name": "Ostatnia Ocalała",
+        "flavor": "„To był boogeyman”. – Laurie Strode",
+        "id": 135,
+        "index": "SOLE_SURVIVOR",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LAURIE_STRODE",
+        "image": "iconPerks_soleSurvivor",
+        "tiers": [
+            [
+                20
+            ],
+            [
+                22
+            ],
+            [
+                24
+            ]
+        ]
+    },
+    {
+        "description": "Łączy cię z zabójcą nadprzyrodzona więź.<br><br>Gdy zabójca zaczyna widzieć twoją aurę, jego aura zostaje ujawniona tobie i otrzymujesz bonus <span class=\"Highlight1\">{0}%</span> do prędkości leczenia, naprawiania i oczyszczania.<br>Jeżeli jesteś obsesją, twoja aura jest ujawniana zabójcy na <span class=\"Highlight2\">3 sekundy</span> co <span class=\"Highlight3\">30 sekund</span>.<br>Zwiększa twoje szanse na zostanie obsesją.<br>",
+        "name": "Obiekt obsesji",
+        "flavor": "„On mnie obserwował!” – Laurie Strode",
+        "id": 136,
+        "index": "OBJECT_OF_OBSESSION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LAURIE_STRODE",
+        "image": "iconPerks_objectOfObsession",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                4
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    {
+        "description": "Dźgasz napastnika w próbie ucieczki.<br>Gdy ktoś zdejmie cię z haka lub gdy zejdziesz z niego samodzielnie, <i>Ostateczny Cios</i> stanie się aktywny na <span class=\"Highlight1\">{0} s</span>.<br>Gdy umiejętność jest aktywna i złapie cię zabójca, wykonaj test umiejętności, aby automatycznie mu się wyrwać i ogłuszyć go na <span class=\"Highlight1\">5 sekund</span>.<br><li>Udany lub nieudany test umiejętności wyłącza <i>Ostateczny Cios</i>.</li><li>Skuteczne ogłuszenie zabójcy zmieni cię w obsesję.</li><br>Następujące działania wyłączają <i>Ostateczny Cios</i>:<li>Naprawa generatora</li><li>Leczenie siebie lub innych</li><li>Oczyszczanie totemu</li><li>Sabotowanie haka</li><li>Zdejmowanie ocalałych z haka</li><br><li><i>Zwiększa szansę na zostanie obsesją.</i></li><li><i>Zabójca może mieć <b>obsesję</b> wyłącznie na punkcie jednego ocalałego równocześnie.</i></li>",
+        "name": "Ostateczny cios",
+        "id": 137,
+        "index": "DECISIVE_STRIKE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LAURIE_STRODE",
+        "image": "iconPerks_decisiveStrike",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                50
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "Zwiększa możliwości dostrzegania aury przez ciebie i członków twojego zespołu.<br><li>Zwiększa zasięg umiejętności bazujących na odczytywaniu aur o <span class=\"Highlight1\">{0} m</span>.</li><li>Ocalali mogą otrzymać tylko jeden efekt <i>Otwarte Karty</i> równocześnie.</li>",
+        "name": "Otwarte Karty",
+        "flavor": "„Czujność jest tym, co trzymało mnie przy życiu przez te wszystkie lata. I oczywiście mój świetny wygląd”. – Ace",
+        "id": 138,
+        "index": "OPEN_HANDED",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ACE_VISCONTI",
+        "image": "iconPerks_openHanded",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                12
+            ],
+            [
+                16
+            ]
+        ]
+    },
+    {
+        "description": "Wszystko będzie dobrze, czujesz to. Twoja pewność siebie wzmacnia nadzieję osób znajdujących się w otoczeniu. Umiejętność zapewnia premię w postaci <span class=\"Highlight1\">{0}%</span> dodatkowego szczęścia dla każdego Ocalałego pozostającego przy życiu.<br>",
+        "name": "Podnieść stawkę",
+        "flavor": "„Cóż mogę powiedzieć? Po prostu jestem szczęściarzem… Możliwe, że moje szczęście przejdzie na ciebie”. – Ace",
+        "id": 139,
+        "index": "UP_THE_ANTE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ACE_VISCONTI",
+        "image": "iconPerks_upTheAnte",
+        "tiers": [
+            [
+                1
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ]
+        ]
+    },
+    {
+        "description": "Fortuna zwykle ci sprzyja.<br>Kiedy przeszukujesz skrzynię, masz <span class=\"Highlight1\">{0}%</span> szans na zdobycie <span class=\"Highlight2\">bardzo rzadkiego</span> (lub czestszego) dodatku dołączonego do przedmiotu.<br>Masz również <span class=\"Highlight3\">{1}%</span> szans na wydobycie <span class=\"Highlight4\">niezwykłego</span> (lub częstszego) dodatku dołączonego do przedmiotu.<br>Po ucieczce zachowujesz wszystkie dodatki do przedmiotu.",
+        "name": "As w rękawie",
+        "flavor": "„Nie wszystko złoto, co się świeci. Jednak złoto nie jest tu nic warte, więc to może się przydać”. – Ace",
+        "id": 140,
+        "index": "ACE_IN_THE_HOLE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ACE_VISCONTI",
+        "image": "iconPerks_aceInTheHole",
+        "tiers": [
+            [
+                100,
+                10
+            ],
+            [
+                100,
+                25
+            ],
+            [
+                100,
+                50
+            ]
+        ]
+    },
+    {
+        "description": "Jesteś mistrzem w obsługiwaniu wszelkiego rodzaju maszyn.<br>Zasięg słyszalności dźwięków wydawanych przy naprawianiu generatora jest zmniejszony o <span class=\"Highlight2\">{0} m</span>. Przy nieudanym teście umiejętności istnieje <span class=\"Highlight1\">{1}%</span> szans na to, że generator nie wybuchnie.",
+        "name": "Technik",
+        "flavor": "“Zrobię to po cichu”. -Feng Min",
+        "id": 141,
+        "index": "TECHNICIAN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FENG_MIN",
+        "image": "iconPerks_technician",
+        "tiers": [
+            [
+                8,
+                5
+            ],
+            [
+                8,
+                4
+            ],
+            [
+                8,
+                3
+            ]
+        ]
+    },
+    {
+        "description": "Po wykonaniu przeskoku <b>w biegu</b> przyspieszasz do <span class=\"Highlight1\">{0}%</span> normalnej prędkości na maksymalnie <span class=\"Highlight2\">{1} s</span>. <br>Wywołuje <i>Wyczerpanie</i> na <span class=\"Highlight4\">{2} s</span>.<br>Umiejętność <i>Gibkość</i> nie może zostać użyta, gdy jesteś pod wpływem <i>Wyczerpania</i>.<br>Czas trwania efektu <i>Wyczerpania</i> nie skraca się podczas biegania.<br>",
+        "name": "Gibkość",
+        "flavor": "„Ty durny?” – Feng Min",
+        "id": 142,
+        "index": "LITHE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FENG_MIN",
+        "image": "iconPerks_lithe",
+        "tiers": [
+            [
+                150,
+                3,
+                60
+            ],
+            [
+                150,
+                3,
+                50
+            ],
+            [
+                150,
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Twoje wyostrzone zmysły są w stanie podwyższonej gotowości.<br>Gdy Zabójca wykonuje akcję niszczenia, widzisz go przez <span class=\"Highlight1\">{0} s</span>.<br>",
+        "name": "Czujność",
+        "flavor": "„Widzę więcej”. – Feng Min",
+        "id": 143,
+        "index": "ALERT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FENG_MIN",
+        "image": "iconPerks_alert",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ]
+    },
+    {
+        "description": "Wyzwala potencjał twojego odczytywania aury. Gdy zostaną uruchomione wszystkie wymagane generatory, zobaczysz bramy wyjściowe w zasięgu <span class=\"Highlight1\">{0} m</span>. Gdy przystąpisz do otwierania bramy, inni ocalali w odległości do <span class=\"Highlight2\">{1} m</span> zobaczą twoją aurę.<br>Gdy umiejętność <i>Pobudka!</i> jest aktywna, otwierasz bramy wyjściowe o <span class=\"Highlight3\">{2}%</span> szybciej.",
+        "name": "Pobudka!",
+        "id": 144,
+        "index": "WAKE_UP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "QUENTIN_SMITH",
+        "image": "iconPerks_wakeUp",
+        "tiers": [
+            [
+                128,
+                128,
+                5
+            ],
+            [
+                128,
+                128,
+                10
+            ],
+            [
+                128,
+                128,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "Masz nosa do znajdowania leków. Odblokowywanie skrzyń jest o <span class=\"Highlight1\">{0}%</span> szybsze, a związane z tym odgłosy rozchodzą się na odległość mniejszą o <span class=\"Highlight2\">{1} m.</span><br><i>Farmacja</i> gwarantuje znalezienie apteczki w <b>pierwszej</b> odblokowanej skrzyni.<br>",
+        "name": "Farmacja",
+        "id": 145,
+        "index": "PHARMACY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "QUENTIN_SMITH",
+        "image": "iconPerks_pharmacy",
+        "tiers": [
+            [
+                40,
+                8
+            ],
+            [
+                60,
+                8
+            ],
+            [
+                80,
+                8
+            ]
+        ]
+    },
+    {
+        "description": "Dbasz o przyjaciół nawet w najniebezpieczniejszych sytuacjach. Ty i znajdujący się w promieniu <span class=\"Highlight1\">{0} m</span> sojusznicy wychodzicie z efektów <b>Wyczerpany, Krwotok, Skrępowanie</b> i <b>Oślepienie</b> o <span class=\"Highlight2\">{1}%</span> szybciej. Poza zasięgiem efekt Czuwania utrzymuje się przez <span class=\"Highlight4\">{2} s.</span><br>",
+        "name": "Czuwanie",
+        "id": 146,
+        "index": "VIGIL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "QUENTIN_SMITH",
+        "image": "iconPerks_vigil",
+        "tiers": [
+            [
+                8,
+                10,
+                15
+            ],
+            [
+                8,
+                15,
+                15
+            ],
+            [
+                8,
+                20,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "Nie ma nic, co mogłoby cię powstrzymać. W beznadziejnych sytuacjach twoja nadludzka wytrwałość sprawia, że czołgasz się <span class=\"Highlight1\">{0}%</span> szybciej. Oprócz tego możesz się jednocześnie regenerować.<br>",
+        "name": "Wytrwałość",
+        "flavor": " „Co to jest, do diabła? Nie ma co, pokażę temu czemuś gdzie raki zimują!” – Detektyw David Tapp",
+        "id": 147,
+        "index": "TENACITY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_TAPP",
+        "image": "iconPerks_tenacity",
+        "tiers": [
+            [
+                30
+            ],
+            [
+                40
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "Wyzwala potencjał odczytywania aury. W momencie ukończenia naprawy generatora, aury generatorów, skrzyń i totemów znajdujących się w zasięgu <span class=\"Highlight1\">{0} m</span> od ciebie stają się widoczne przez <span class=\"Highlight2\">{1} s</span>.<br>Jeżeli posiadasz mapę pozwalającą śledzić cele, generatory, skrzynie i totemy ujawnione dzięki <i>Przeczuciu Detektywa</i> są dodawane do mapy.",
+        "name": "Przeczucie Detektywa",
+        "flavor": "„Czy możesz nam powiedzieć, gdzie byłeś zeszłej nocy?” – Detektyw David Tapp",
+        "id": 148,
+        "index": "DETECTIVES_HUNCH",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_TAPP",
+        "image": "iconPerks_detectivesHunch",
+        "tiers": [
+            [
+                32,
+                10
+            ],
+            [
+                48,
+                10
+            ],
+            [
+                64,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "Przebywanie w pobliżu Zabójcy napełnia cię determinacją. Za każde <span class=\"Highlight1\">{0} s</span> spędzone w zasięgu terroru Zabójcy, ale nie podczas pościgu, otrzymujesz Żeton, aż do maksymalnie <span class=\"Highlight2\">{1} Żetonów</span>.<br>Gdy <i>Nadzór</i> ma przynajmniej <b>1 Żeton</b>, dobre testy umiejętności są traktowane jako świetne testy umiejętności, zabierają <b>1 Żeton</b> i dają dodatkowy <span class=\"Highlight3\">1%</span> do postępu naprawy generatora.",
+        "name": "Nadzór",
+        "flavor": "„Miałem cię. Miałem cię, gdy uklęknąłeś na kolanach. Byłeś przerażony, bo cię mieliśmy. Zamkniemy tę sprawę!” – Detektyw David Tapp",
+        "id": 149,
+        "index": "STAKE_OUT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_TAPP",
+        "image": "iconPerks_stakeOut",
+        "tiers": [
+            [
+                15,
+                2
+            ],
+            [
+                15,
+                3
+            ],
+            [
+                15,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "Gdy wykonujesz akcję szybkiego przeskoku lub wyskakujesz w pośpiechu z szafki, przez <span class=\"Highlight1\">{0} s</span> nie zostawiasz za sobą żadnych śladów.<br><i>Zatańcz Ze Mną</i> odnawia się po upływie <span class=\"Highlight4\">{1} s</span>. <br>",
+        "name": "Zatańcz Ze Mną",
+        "flavor": "„Na horyzoncie widać już kolejne show, <br>Zatańcz ze mną, kochanie, będę tylko twą, <br>Popatrz na me trzewiki, wybijają takt, nie stój jak słup soli, dogoń dźwięk raz-dwa, <br>Wokół nas tylko burza, ale tańczmy, kochanie, tańczmy tak długo, aż słońce nas zastanie”.<br>– Kate Denson, „Zatańcz Ze Mną”",
+        "id": 150,
+        "index": "DANCE_WITH_ME",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "KATE_DENSON",
+        "image": "iconPerks_danceWithMe",
+        "tiers": [
+            [
+                3,
+                60
+            ],
+            [
+                3,
+                50
+            ],
+            [
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Wyzwala potencjał twojego odczytywania aury. Dostrzegasz aury palet, ścian i miejsc przeskoków znajdujących się w zasięgu <span class=\"Highlight1\">{0} m</span> od ciebie. <br>Po przeskoczeniu przez obiekt lub zrzuceniu palety podczas pościgu <i>Ostatnia Szansa</i> jest nieaktywna przez <span class=\"Highlight1\">{1} s</span>. <br>",
+        "name": "Ostatnia Szansa",
+        "flavor": "„To ostatnia szansa, więc wstawaj, kolego! Wyrób swe nazwisko, zrób w swym życiu coś miłego, <br>Wyceluj w swe marzenia i traf szczęście w samo oko, nie ma nic gorszego niż być za pan brat ze zwłoką, <br>Doceń wiarę i rodzinę, nie narzekaj godzinami, czerp cudowności życia, jakby były czereśniami, <br>Zagraj z życiem w pasjansa, bowiem życie to twa ostatnia szansa”. – Kate Denson, „Ostatnia Szansa”",
+        "id": 151,
+        "index": "WINDOWS_OF_OPPORTUNITY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "KATE_DENSON",
+        "image": "iconPerks_windowsOfOpportunity",
+        "tiers": [
+            [
+                20,
+                30
+            ],
+            [
+                20,
+                25
+            ],
+            [
+                20,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "W twoim sercu iskrzy wola walki, dlatego zrobisz wszystko, aby wyrwać się z objęć wroga. Efekty szamotania zwiększają się o <span class=\"Highlight1\">{0} %</span>. <br>Zakłócasz zdolność Zabójcy do dostrzeżenia aur haków znajdujących się w zasięgu <span class=\"Highlight1\">{1} m</span> od niego.<br>",
+        "name": "Do Utraty Tchu",
+        "flavor": "„Szarp się dziecino, całuj usta wolności, <br>Bo nikt nie może więzić w swym sercu miłości”.<br>- Kate Denson, „Do Utraty Tchu”",
+        "id": 152,
+        "index": "BOIL_OVER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "KATE_DENSON",
+        "image": "iconPerks_boilOver",
+        "tiers": [
+            [
+                25,
+                10
+            ],
+            [
+                50,
+                12
+            ],
+            [
+                75,
+                14
+            ]
+        ]
+    },
+    {
+        "description": "Umiejętność aktywowana.<br><i>Dywersja</i> staje się aktywna po <span class=\"Highlight1\">{0} s</span> przebywania poza pościgiem w zasięgu terroru zabójcy.<br><li>Gdy <i>Dywersja</i> jest aktywna: kucając w bezruchu, naciśnij przycisk <i>aktywnej umiejętności</i>, aby rzucić kamyk, który wywoła głośne powiadomienie dźwiękowe dla zabójcy w odległości <span class=\"Highlight2\">20 m</span>.</li><br><li>Licznik czasu umiejętności ulega wyzerowaniu po jej użyciu.</li><br>Rozproszenie obejmuje:<br><li>Głośne powiadomienie dźwiękowe</li><li>Czerwone zarysowania</li>",
+        "name": "Dywersja",
+        "flavor": "„W życiu jest droga prawości i nieprawości. Jeśli zbłądzisz na tę drugą, to nie sposób przewidzieć, kim się potem staniesz”. – Adam Francis",
+        "id": 153,
+        "index": "DIVERSION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ADAM_FRANCIS",
+        "image": "iconPerks_diversion",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                35
+            ],
+            [
+                30
+            ]
+        ]
+    },
+    {
+        "description": "<i>Wybawienie</i> aktywuje się po uratowaniu innego ocalałego z haka.<br>Gdy umiejętność jest aktywna, masz <span class=\"Highlight1\">100%</span> szans na sukces przy próbie samodzielnej ucieczki z haka.<br>Skuteczne <i>wybawienie</i> od haka nałoży efekt <span class=\"Highlight2\">okaleczenia</span> utrzymujący się przez <span class=\"Highlight3\">{0} sek.</span>.",
+        "name": "Wybawienie",
+        "flavor": "„Zostałem wychowany przez surowego człowieka, który nauczył mnie, jak radzić sobie w nawet najgorszych okolicznościach”. – Adam Francis",
+        "id": 154,
+        "index": "DELIVERANCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ADAM_FRANCIS",
+        "image": "iconPerks_deliverance",
+        "tiers": [
+            [
+                100
+            ],
+            [
+                80
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "Rozpoczynasz rozgrywkę z karą <span class=\"Highlight1\">-{1}%</span> do postępu za testy umiejętności wykonywane podczas leczenia ocalałych.<br>Za każdy udany test umiejętności podczas leczenia ocalałych otrzymujesz żeton, aż do maksymalnie <span class=\"Highlight2\">{0} żetonów</span>.<br>Każdy <b>żeton</b> zapewnia bonus <span class=\"Highlight1\">+{2}%</span> do postępu leczenia za udane testy umiejętności.<br>Podczas korzystania z <i>Samouka</i> nie można wykonać świetnych testów umiejętności.<li>Umiejętność nie jest aktywna, jeśli używasz do leczenia apteczki.</li>",
+        "name": "Samouk",
+        "flavor": "„Nie ma rzeczy niemożliwych, o ile włożymy w naszą pracę wysiłek.” - Adam Francis",
+        "id": 155,
+        "index": "AUTODIDACT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ADAM_FRANCIS",
+        "image": "iconPerks_autodidact",
+        "tiers": [
+            [
+                25,
+                3,
+                15
+            ],
+            [
+                25,
+                4,
+                15
+            ],
+            [
+                25,
+                5,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "Za każdym razem, kiedy uciekniesz z haka lub ktoś cię z niego uratuje, hak się łamie i aura Zabójcy jest dla ciebie widoczna przez <span class=\"Highlight1\">{0} s</span>. Hak zniszczony za pomocą tej umiejętności odnawia się po <span class=\"Highlight2\">180 sekundach</span>.<br>",
+        "name": "Przełamanie",
+        "flavor": "„Ucieczka z brzucha bestii”<br>Oto szkic/obraz na kawałku drewna, który znalazłem kiedyś przy drodze. Czułem, że ma historię do opowiedzenia. I nie zmarnował swojej szansy”. – Jeff, atrament i olej na desce, 12x16",
+        "id": 156,
+        "index": "BREAKDOWN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JEFF_JOHANSEN",
+        "image": "iconPerks_breakdown",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    {
+        "description": "Wyzwala potencjał twojego odczytywania aury.<br><br>Dostrzegasz aurę każdego Ocalałego:<br><li>którego uratowałeś z haka lub który uratował ciebie z haka;</li><li>na którym wykonałeś akcję leczenia lub który wykonał akcję leczenia na tobie.</li><br>Ci Ocalali również widzą twoją aurę.<br><br>Efekt może obejmować następującą liczbę Ocalałych: <span class=\"Highlight1\">{0}</span>. Jeśli Zabójca złapie cię na hak, wszystkie efekty <i>Drugiej pomocy</i> zostaną usunięte.<br>",
+        "name": "Druga pomoc",
+        "flavor": "„Miłosierdzie rozdzierające burzę”<br>Praca olejna wykonana na cześć moich najlepszych kumpli, którzy są jednoczesnie najlepszymi muzykami jakich znam. Ich pierwsza płyta nadal jest moją ulubioną. Pomogła mi przejść przez mroczny okres w życiu. – Jeff, olej na płótnie, 16x16",
+        "id": 157,
+        "index": "AFTERCARE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JEFF_JOHANSEN",
+        "image": "iconPerks_aftercare",
+        "tiers": [
+            [
+                1
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ]
+        ]
+    },
+    {
+        "description": "Zaczynasz grę z <span class=\"Highlight1\">{0} żetonami</span>.<br><br>Gdy twoja aura ma zostać ujawniona zabójcy, <i>Zakłócenie</i> aktywuje się i żeton zostaje wykorzystany.<br><br>Przez następne <span class=\"Highlight1\">{1} s</span> (gdy umiejętność pozostaje aktywna) nie zostawiasz czerwonych zarysowań, a twoja aura nie jest widoczna dla zabójcy.<br><li><i>Zakłócenie</i> nie może być aktywowane, gdy jesteś w stanie agonii lub gdy znajdujesz się w pułapce.</li><br>",
+        "name": "Zakłócenie",
+        "flavor": "„Śmierć oszukana przez płaszcz z sokolich piór”<br>Szkic powstały podczas kilku bezsennych zimowych nocy. Zgłębianie mitologii nordyckiej: odwaga może ukryć nasze wady, nawet gdy jesteśmy najbardziej bezbronni. – Jeff, ołówek na barwionym papierze, 12 x 12",
+        "id": 158,
+        "index": "DISTORTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JEFF_JOHANSEN",
+        "image": "iconPerks_distortion",
+        "tiers": [
+            [
+                3,
+                6
+            ],
+            [
+                3,
+                8
+            ],
+            [
+                3,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "Dzielenie się bolesnymi doświadczeniami ma uzdrawiającą moc.<br>Gdy jesteś ranny, leczenie ocalałego bez użycia apteczki leczy również ciebie, przy czym współczynnik własnego leczenia wynosi <span class=\"Highlight1\">{0}%</span> leczenia innego ocalałego.",
+        "name": "Solidarność",
+        "flavor": "„Pojawianie się w trudnych chwilach, wysłuchiwanie problemów innych i wspieranie potrzebujących – w ten sposób nabierasz siły i rozwijasz się”. – Jane Romero",
+        "id": 159,
+        "index": "SOLIDARITY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JANE_ROMERO",
+        "image": "iconPerks_solidarity",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                45
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "Osiąganie celów zwiększa twoją pewność siebie.<br>Po ukończeniu naprawy generatora nie pozostawiasz czerwonych zarysowań przez <span class=\"Highlight1\"> {0} s</span>.<br>",
+        "name": "Opanowanie",
+        "flavor": "„Okej, spokojnie. Nie myśl za dużo i po prostu idź przed siebie. Dasz radę”. – Jane Romero",
+        "id": 160,
+        "index": "POISED",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JANE_ROMERO",
+        "image": "iconPerks_poised",
+        "tiers": [
+            [
+                6
+            ],
+            [
+                8
+            ],
+            [
+                10
+            ]
+        ]
+    },
+    {
+        "description": "Kiedy się na coś nastawisz, niech lepiej nikt nie staje ci na drodze.<br><br><i>Determinacja<i> uruchamia się po <span class=\"Highlight1\">{0} s</span> w szafce.<br>Gdy <i>Determinacja<i> jest aktywna, wykonaj szybką akcję, by wyjść z szafki i skorzystać z <i>Determinacji</i>. Jeśli zabójca znajduje się w zasięgu <i>Determinacji</i>, zostaje ogłuszony na <span class=\"Highlight1\">{1} s</span>.<br>Wywołuje efekt <span class=\"Highlight3\">Wyczerpania</span> na <span class=\"Highlight1\">{2} s</span>.<br>Determinacji nie można używać podczas Wyczerpania.<br><span class=\"Highlight3\">Wyczerpanie</span> nie mija podczas biegu. <br><i>Determinacji</i> nie można używać, gdy towarzyszą ci kruki.<br>",
+        "name": "Determinacja",
+        "flavor": "„Ludzi zapamiętuje się po trudnościach, jakie pokonali. Możesz uciec i zapomnieć, na co cię stać, albo zmierzyć się ze swoim strachem i przypomnieć światu, kim jesteś”. – Jane Romero",
+        "id": 161,
+        "index": "HEAD_ON",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JANE_ROMERO",
+        "image": "iconPerks_headOn",
+        "tiers": [
+            [
+                3,
+                3,
+                60
+            ],
+            [
+                3,
+                3,
+                50
+            ],
+            [
+                3,
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Masz niezwykłą zdolność unikania nieuniknionego.<br><br>W stanie agonii <span class=\"Highlight1\">{0}%</span> postępu leczenia zmienia się w postęp szamotania (maksymalnie do <span class=\"Highlight2\">{1}%</span> całkowitego postępu szamotania) w momencie podniesienia przez zabójcę.<br>",
+        "name": "Mijanka",
+        "flavor": "„Spotkamy się na mijance”. – Ash Williams",
+        "id": 162,
+        "index": "FLIP_FLOP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ASHLEY_J_WILLIAMS",
+        "image": "iconPerks_flipFlop",
+        "tiers": [
+            [
+                50,
+                40
+            ],
+            [
+                50,
+                45
+            ],
+            [
+                50,
+                50
+            ]
+        ]
+    },
+    {
+        "description": "Odblokowuje pełen potencjał odczytywania aury. Postęp leczenia Ocalałych w stanie agonalnym można określić po intensywności ich aury z odległości maksymalnie <span class=\"Highlight1\">{0} m</span>.<br><br>Gdy leczysz ocalałego ze stanu agonii do stanu krytycznego, widzicie aurę zabójcy przez <span class=\"Highlight2\">{1} s</span>.<br>",
+        "name": "Zapnij Pasy",
+        "flavor": "„Pogromcy duchów nikogo nie zostawiają”. – Ash Williams",
+        "id": 163,
+        "index": "BUCKLE_UP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ASHLEY_J_WILLIAMS",
+        "image": "iconPerks_buckleUp",
+        "tiers": [
+            [
+                48,
+                4
+            ],
+            [
+                48,
+                5
+            ],
+            [
+                48,
+                6
+            ]
+        ]
+    },
+    {
+        "description": "Zło zawsze cię znajdzie.<br><br><i>Ludzki Zapał</i> aktywuje się po wykonaniu <span class=\"Highlight1\">{0} </span> uderzeń ochronnych.<br><br>Kolejne obrażenia, które wywołałyby u ciebie <b>stan agonii</b> po <b>stanie krytycznym</b>, są ignorowane.<br><br>Kolejne pełne wyleczenie spowoduje pokazanie zabójcy twojej aury, jeśli znajdziesz się od niego dalej niż <span class=\"Highlight2\">{1} m</span>.<br><br><i>Ludzki Zapał</i> wyłączy się przy kolejnym przejściu w stan agonii.<br><i><li>Zwiększa szansę, że staniesz się obsesją zabójcy.</li><li>Zabójca może mieć <b>obsesję</b> na punkcie tylko jednego ocalałego naraz.</li></i><br>",
+        "name": "Ludzki zapał",
+        "flavor": "„Śmierć ma na moich plecach celownik większy niż stadion baseballowy”. – Ash Williams",
+        "id": 164,
+        "index": "METTLE_OF_MAN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ASHLEY_J_WILLIAMS",
+        "image": "iconPerks_mettleOfMan",
+        "tiers": [
+            [
+                3,
+                12
+            ],
+            [
+                3,
+                14
+            ],
+            [
+                3,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "Szukasz sprawiedliwości i chcesz odkryć prawdę bez względu na wszelkie przeszkody.<br><br>Aura naprawianego przez ciebie generatora staje się widoczna dla każdego ocalałego w zasięgu <span class=\"Highlight1\">{0} m</span>.<br><br>Jeśli zabójca pokona ocalałego w czasie, gdy naprawiasz generator, na <span class=\"Highlight2\">{1} s</span> zobaczysz aury wszystkich pozostałych ocalałych.<br>",
+        "name": "W kupie siła",
+        "flavor": "„Spalmy to laboratorium”. – Nancy Wheeler",
+        "id": 165,
+        "index": "BETTER_TOGETHER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NANCY_WHEELER",
+        "image": "iconPerks_betterTogether",
+        "tiers": [
+            [
+                32,
+                8
+            ],
+            [
+                32,
+                9
+            ],
+            [
+                32,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "Gdy myślisz o celu, nie ma już dla ciebie odwrotu. Nie będziesz prosić o pozwolenie – najwyżej później przeprosisz. <br><br>Cały czas widzisz swoje czerwone zarysowania.<br><br>Idziesz o <span class=\"Highlight1\">{0}%</span> szybciej.<br>",
+        "name": "Fiksacja",
+        "flavor": "„Chcę skończyć, co zaczęłam. Chcę to zabić”. – Nancy Wheeler",
+        "id": 166,
+        "index": "FIXATED",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NANCY_WHEELER",
+        "image": "iconPerks_fixated",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                15
+            ],
+            [
+                20
+            ]
+        ]
+    },
+    {
+        "description": "W osamotnieniu i niepewności zwracasz się ku sobie i własnym instynktom<br><br>. Za każdym razem, gdy dokonasz oczyszczenia totemu, aktywuje się <i>Wewnętrzna Siła</i> Jeśli jesteś już pod wpływem efektu <b>Okaleczony</b>, <i>Wewnętrzna Siła</i> nie aktywuje się.<br><br>Gdy <i>Wewnętrzna Siła</i> jest aktywna, ukrycie się w szafce na <span class=\"Highlight1\">{0} s</span> po zranieniu automatycznie cię uleczy.<br><br><i>Wewnętrzna Siła</i> dezaktywuje się, gdy tylko zadziała.<br>",
+        "name": "Wewnętrzna Siła",
+        "flavor": "„Przez cały ten czas tak się starałam udawać, że wszystko jest w porządku. Ale nie jest”. – Nancy Wheeler",
+        "id": 167,
+        "index": "INNER_STRENGTH",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NANCY_WHEELER",
+        "image": "iconPerks_innerStrength",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                9
+            ],
+            [
+                8
+            ]
+        ]
+    },
+    {
+        "description": "Choć mówią, że jesteś skupiony na sobie, potrafisz zaryzykować wszystko, by pomóc potrzebującym.<br><br>Gdy zdejmujesz ocalałego z haka, nie zostawiasz czerwonego zarysowania ani krwawego śladu przez następne <span class=\"Highlight1\">{0} s</span>. Widzicie z zabójcą nawzajem swoje aury przez <span class=\"Highlight2\">{1} s</span>.<br>",
+        "name": "Niańka",
+        "flavor": "„Obiecałem, że będę was pilnował, gnojki, i zamierzam tego dotrzymać”. – Steve Harrington",
+        "id": 168,
+        "index": "BABYSITTER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "STEVE_HARRINGTON",
+        "image": "iconPerks_babySitter",
+        "tiers": [
+            [
+                4,
+                4
+            ],
+            [
+                6,
+                4
+            ],
+            [
+                8,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "Życie nauczyło cię, jak ważna jest przyjaźń. Ona daje ci siłę.<br><br>Gdy wisisz na haku podczas fazy walki, aktywuje się <i>Koleżeństwo</i>.<br><br>Jeśli inny ocalały znajduje się w promieniu <span class=\"Highlight1\">{0} m</span> od ciebie w czasie, gdy działa <i>Koleżeństwo</i>, twój licznik wisielca zatrzymuje się na <span class=\"Highlight2\">{1} s</span>.<br>",
+        "name": "Koleżeństwo",
+        "flavor": "„Jak już się tam dostaniesz, pamiętaj – udawaj, że masz to gdzieś. Właśnie tak, uczysz się, przyjacielu. Uczysz się”. – Steve Harrington",
+        "id": 169,
+        "index": "CAMARADERIE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "STEVE_HARRINGTON",
+        "image": "iconPerks_camaraderie",
+        "tiers": [
+            [
+                16,
+                26
+            ],
+            [
+                16,
+                30
+            ],
+            [
+                16,
+                34
+            ]
+        ]
+    },
+    {
+        "description": "Gdy inny ocalały został przez ciebie uleczony o równowartość jednego stanu zdrowia, aktywuje się <i>Drugi Oddech</i>. Jeśli jesteś już pod wpływem efektu <span class=\"Highlight1\">okaleczenie</span>,<i>Drugi Oddech</i> się nie aktywuje.<br><br>Gdy <i>Drugi Oddech</i> jest aktywny, następnym razem, kiedy ktoś zdejmie cię z haka lub zejdziesz z niego samodzielnie, ulegniesz <span class=\"Highlight1\">okaleczeniu</span>. Po <span class=\"Highlight2\">{0} sek.</span> <i>Drugi Oddech</i> automatycznie całkowicie leczy cię ze stanu krytycznego.<br><br><i>Drugi Oddech</i> dezaktywuje się, gdy jesteś w pełni zdrowia lub gdy wejdziesz w stan agonii, zanim <i>Drugi Oddech</i> zadziała. <span class=\"Highlight1\">Okaleczenie</span> mija.<br>",
+        "name": "Drugi Oddech",
+        "flavor": "„Owszem, nie”. – Steve Harrington",
+        "id": 170,
+        "index": "SECOND_WIND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "STEVE_HARRINGTON",
+        "image": "iconPerks_secondWind",
+        "tiers": [
+            [
+                28
+            ],
+            [
+                24
+            ],
+            [
+                20
+            ]
+        ]
+    },
+    {
+        "description": "Masz wiele zadrapań i siniaków, ale szczęście zawsze się do ciebie uśmiecha.<br><br><i>Łut Szczęścia</i> aktywuje się za każdym razem, gdy odniesiesz obrażenia. Kiedy <i>Łut Szczęścia</i> jest aktywny, nie zostawiasz za sobą plam krwi ani czerwonych zarysowań przez łącznie <span class=\"Highlight1\">{0} s</span>.<br><br><i>Łut Szczęścia</i> zostaje na stałe wyłączony do końca próby po wykorzystaniu całego czasu.<br>",
+        "name": "Łut Szczęścia",
+        "flavor": "„To zdecydowanie za mało, żeby mnie pokonać”. – Yui Kimura ",
+        "id": 171,
+        "index": "LUCKY_BREAK",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUI_KIMURA",
+        "image": "iconPerks_luckyBreak",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                50
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "Walczysz o swoje, korzystając ze wszystkiego, co masz pod ręką, by zyskać przewagę.<br><br>Naciśnij <i>przycisk aktywnej umiejętności</i> i przytrzymaj go przez <span class=\"Highlight1\">{0} s</span>, stojąc obok przewróconej palety, aby z powrotem ją postawić.<br><br>Umiejętność <i>Po Trupach do Celu</i> odnawia się po upływie <span class=\"Highlight2\">{1} s</span>.<br>",
+        "name": "Po Trupach do Celu",
+        "flavor": "„Zaatakuję Cię wszystkim, co mam. Później zrobię to jeszcze raz”. – Yui Kimura ",
+        "id": 172,
+        "index": "ANY_MEANS_NECESSARY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUI_KIMURA",
+        "image": "iconPerks_anyMeansNecessary",
+        "tiers": [
+            [
+                4,
+                100
+            ],
+            [
+                4,
+                80
+            ],
+            [
+                4,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "Pracujesz na wyższych obrotach, gdy ktoś ma kłopoty, i inspirujesz innych do radzenia sobie z problemami.<br><br>W odległości <span class=\"Highlight1\">{0} m</span> od niesionego ocalałego otrzymujesz efekt <span class=\"Highlight2\">Pośpiech</span> i poruszasz się z prędkością zwiększoną o <span class=\"Highlight3\">{1}%</span>. Prędkość szamotania się niesionego ocalałego zostaje zwiększona o <span class=\"Highlight4\">{2}%</span>.<br>",
+        "name": "Ucieczka",
+        "flavor": "„Chodź, jakoś się z tego wygrzebiemy”. – Yui Kimura ",
+        "id": 173,
+        "index": "BREAKOUT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUI_KIMURA",
+        "image": "iconPerks_breakout",
+        "tiers": [
+            [
+                6,
+                5,
+                20
+            ],
+            [
+                6,
+                6,
+                20
+            ],
+            [
+                6,
+                7,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "Wiesz już, że ciche podejście jest czasem najlepsze. <br><br>Gdy uciekniesz z haka lub ktoś cię z niego zdejmie, umiejętność <i>Nieoficjalnie</i> aktywuje się na <span class=\"Highlight1\">{0} s</span>.<br><br>Gdy umiejętność <i>Nieoficjalnie</i> jest aktywna, twoja aura nie będzie widoczna dla zabójcy, a jęki bólu wywołane obrażeniami zostaną ograniczone o <span class=\"Highlight2\">{1}%</span>.<br>",
+        "name": "Nieoficjalnie",
+        "flavor": "„Zaufaj mi, działam dokładnie i dyskretnie”. – Zarina Kassir",
+        "id": 174,
+        "index": "OFF_THE_RECORD",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ZARINA_KASSIR",
+        "image": "iconPerks_offTheRecord",
+        "tiers": [
+            [
+                60,
+                100
+            ],
+            [
+                70,
+                100
+            ],
+            [
+                80,
+                100
+            ]
+        ]
+    },
+    {
+        "description": "Z twoich obserwacji wynika, że ludzie zwracają uwagę na to, co wydaje najgłośniejszy dźwięk.<br><br>Gdy naprawiasz generator przez co najmniej <span class=\"Highlight1\">{0} s</span>, zostaje on podświetlony żółtą aurą widoczną tylko dla ciebie. Generator pozostaje podświetlony do jego pełnego naprawienia, zreperowania nowego generatora lub wejścia do szafki.<br><br>Wejście do szafki aktywuje wskaźnik hałasu z generatora widoczny dla zabójcy.<br><li>Umiejętność <i>Fałszywy Trop</i> można uruchomić tylko raz na <span class=\"Highlight2\">{1} s</span>.</li><br>",
+        "name": "Fałszywy trop",
+        "flavor": "„Wiadomości pomijają to, co jest trudne i skomplikowane — czyli prawdę”. – Zarina Kassir",
+        "id": 175,
+        "index": "RED_HERRING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ZARINA_KASSIR",
+        "image": "iconPerks_redHerring",
+        "tiers": [
+            [
+                3,
+                60
+            ],
+            [
+                3,
+                50
+            ],
+            [
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Ryzykujesz życiem dla innych. <br><br>Umiejętność <i>Za Ludzi</i> jest aktywna wyłącznie przy pełnym zdrowiu.<br><br>Naciśnij <i>przycisk aktywnej umiejętności</i>, lecząc innego ocalałego bez apteczki, aby natychmiast zmienić ich stan z agonii na krytyczny lub z krytycznego na zdrowy.<br><br>Otrzymujesz stan krytyczny i efekt <b>Okaleczony</b> na <span class=\"Highlight1\">{0} s</span>.<br><br>Stajesz się obsesją.<br><br>Wyposażenie tej umiejętności <b>zmniejsza</b> prawdopodobieństwo zostania obsesją na początku próby.<br>",
+        "name": "Za Ludzi",
+        "flavor": "„Możemy napisać własną historię i zdecydować, jak ma się skończyć”. – Zarina Kassir",
+        "id": 176,
+        "index": "FOR_THE_PEOPLE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ZARINA_KASSIR",
+        "image": "iconPerks_forThePeople",
+        "tiers": [
+            [
+                110
+            ],
+            [
+                100
+            ],
+            [
+                90
+            ]
+        ]
+    },
+    {
+        "description": "Przyszło ci się mierzyć z ogromnymi trudnościami, które cię wzmocniły.<br><br>Zyskaj efekt <b>Wytrzymałość</b> na <span class=\"Highlight1\">{0} s</span> po wyleczeniu lub wyjściu ze stanu agonii.<br>Gdy działa nałożona na ciebie klątwa, możesz w pełni wyjść ze stanu agonii. <br><br>Ten efekt można włączyć tylko raz na <span class=\"Highlight2\">30 sekund.</span>",
+        "name": "Strażnik duszy",
+        "id": 177,
+        "index": "SOUL_GUARD",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CHERYL_MASON",
+        "image": "iconPerks_soulGuard",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                6
+            ],
+            [
+                8
+            ]
+        ]
+    },
+    {
+        "description": "To tak, jakby obudziła się jakaś ukryta część ciebie. Wydaje ci się, że możesz sięgnąć poza siebie, by otrzymać pomoc. <br><br>Gdy ty lub obsesja jesteście ranni, widzicie nawzajem swoje aury.<br><br>Po wyleczeniu obsesji lub otrzymaniu od niej leczenia zyskujecie <span class=\"Highlight1\">{1}%</span> efektu <b>Pośpiech</b>, dopóki nie znajdujecie się już w odległości <span class=\"Highlight2\">16 m</span> od siebie.<br><br>Zmniejsza szansę zostania obsesją.<br><br>Jeśli jesteś obsesją, umiejętność wyłącza się.",
+        "name": "Pakt krwi",
+        "id": 178,
+        "index": "BLOOD_PACT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CHERYL_MASON",
+        "image": "iconPerks_bloodPact",
+        "tiers": [
+            [
+                5
+            ],
+            [
+                6
+            ],
+            [
+                7
+            ]
+        ]
+    },
+    {
+        "description": "Unikanie złowrogich mocy nie jest dla ciebie niczym nowym i potrafisz obrócić to na własną korzyść.<br><br><i>Stłumiony sojusz</i> aktywuje się po naprawianiu generatorów przez łącznie <span class=\"Highlight1\">{0} s.</span><br><br>Podczas naprawy generatora z aktywną umiejętnością naciśnij <i>przycisk aktywnej umiejętności</i>, aby wezwać Byt i zablokować generator na <span class=\"Highlight2\">{1} s.</span> Umiejętność wyłącza się.<br><br>Zablokowane generatory zostaną podświetlone białą aurą dla wszystkich ocalałych.",
+        "name": "Stłumiony sojusz ",
+        "id": 179,
+        "index": "REPRESSED_ALLIANCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CHERYL_MASON",
+        "image": "iconPerks_repressedAlliance",
+        "tiers": [
+            [
+                80,
+                30
+            ],
+            [
+                70,
+                30
+            ],
+            [
+                60,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "Mocno skupiasz się na znalezieniu drogi ucieczki.<br><br>Widzisz aurę generatora w promieniu <span class=\"Highlight1\">{0} m</span> od siebie.<br><br>Gdy generator zostanie ukończony, umiejętność <i>Wizjoner</i> jest niedostępna przez <span class=\"Highlight2\">{1} s</span>.",
+        "name": "Wizjoner",
+        "id": 180,
+        "index": "VISIONARY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FELIX_RICHTER",
+        "image": "iconPerks_visionary",
+        "tiers": [
+            [
+                32,
+                20
+            ],
+            [
+                32,
+                18
+            ],
+            [
+                32,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "Nie zgadzasz się na porażkę, nawet w najgorszych chwilach.<br><br>Zwiększa szybkość leczenia i zdejmowania z haka o <span class=\"Highlight1\">{0}%</span> za każdego zranionego, zawieszonego na haku lub umierającego ocalałego.<br>",
+        "name": "Desperacki krok",
+        "flavor": "„Jeśli ktoś zburzy twoje ściany, następne wybuduj mocniejsze”. – Feliks Richter",
+        "id": 181,
+        "index": "DESPERATE_MEASURES",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FELIX_RICHTER",
+        "image": "iconPerks_desperateMeasures",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                12
+            ],
+            [
+                14
+            ]
+        ]
+    },
+    {
+        "description": "Wiesz, jak najlepiej wykorzystać swoje narzędzia.<br><br>Raz na próbę w wyczerpanym przedmiocie odnowi się <span class=\"Highlight1\">{0}%</span> jego ładunków po upływie <span class=\"Highlight2\">{1} sek</span>.<br>",
+        "name": "Trwałość przede wszystkim",
+        "flavor": "„Architektura jest duszą cywilizacji”. – Feliks Richter",
+        "id": 182,
+        "index": "BUILT_TO_LAST",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FELIX_RICHTER",
+        "image": "iconPerks_builtToLast",
+        "tiers": [
+            [
+                30,
+                10
+            ],
+            [
+                40,
+                10
+            ],
+            [
+                50,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "Dzięki swojej czujności dostrzegasz to, czego inni nie zauważają.<br><br>Rozpocznij próbę z <span class=\"Highlight1\">{0} żetonami</span>. Jeśli skrzynia została już otwarta, wykorzystaj żeton, aby poszukać w niej przedmiotu. Przeszukiwanie jest możliwe tylko raz na skrzynię.<br><br>Przeszukujesz skrzynie o <span class=\"Highlight2\">{1}%</span> szybciej.",
+        "name": "Ocena sytuacji",
+        "id": 183,
+        "index": "APPRAISAL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ELODIE_RAKOTO",
+        "image": "iconPerks_appraisal",
+        "tiers": [
+            [
+                3,
+                40
+            ],
+            [
+                3,
+                60
+            ],
+            [
+                3,
+                80
+            ]
+        ]
+    },
+    {
+        "description": "Twój śmiały styl życia wymaga czasem zastosowania zmyłki.<br><br>Interakcja z szafką podczas sprintu uruchamia głośne powiadomienie w twojej lokalizacji i sprawia, że zostawiasz czerwone zarysowania przez <span class=\"Highlight1\">{0} s</span>.<br><br>Nie wchodzisz do szafek podczas sprintu oraz podczas działania tej umiejętności.<br><br><i>Oszustwo</i> można uruchomić raz na <span class=\"Highlight2\">{1} s</span>.",
+        "name": "Oszustwo",
+        "id": 184,
+        "index": "DECEPTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ELODIE_RAKOTO",
+        "image": "iconPerks_deception",
+        "tiers": [
+            [
+                3,
+                60
+            ],
+            [
+                3,
+                50
+            ],
+            [
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Nigdy się nie poddajesz i teraz nie będzie inaczej.<br><br>Gdy niesie cię zabójca, osiągnięcie <span class=\"Highlight1\">{0}%</span> postępu szamotania aktywuje <i>Intensywną walkę</i>. Gdy <i>Intensywna walka</i> jest aktywna, możesz przewrócić pobliską paletę, aby ogłuszyć zabójcę.<br>",
+        "name": "Intensywna walka",
+        "flavor": "„Polegałam na ochronie innych i straciłam wszystko. Nigdy więcej”. – Élodie Rakoto",
+        "id": 185,
+        "index": "POWER_STRUGGLE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ELODIE_RAKOTO",
+        "image": "iconPerks_powerStruggle",
+        "tiers": [
+            [
+                35
+            ],
+            [
+                30
+            ],
+            [
+                35
+            ]
+        ]
+    },
+    {
+        "description": "Czasami by zrobić krok naprzód, trzeba poświęcić innych.<br><br>Gdy inny ocalały zostaje zawieszony na haku, otrzymujesz żetony <span class=\"Highlight1\">({0}).</span>Zużywasz wszystkie żetony po świetnym teście umiejętności przy generatorze. Każdy zużyty żeton zwiększa o <span class=\"Highlight2\">{1}%</span> postęp naprawy generatora po świetnym teście umiejętności.<br>",
+        "name": "Szybka Ścieżka",
+        "flavor": "„Słabi zostaną poświęceni jako pierwsi. Tak działa natura, biznes. To prawda, której większość nie chce zauważać”. – Yun-Jin",
+        "id": 186,
+        "index": "FAST_TRACK",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUN_JIN_LEE",
+        "image": "iconPerks_FastTrack",
+        "tiers": [
+            [
+                1,
+                9
+            ],
+            [
+                2,
+                18
+            ],
+            [
+                3,
+                27
+            ]
+        ]
+    },
+    {
+        "description": "Kiedy twój przeciwnik popełnia błąd, wykorzystujesz okazję.<br><br>Po ogłuszeniu zabójcy paletą rozpoczynasz sprint z prędkością <span class=\"Highlight1\">{0}%</span> normalnego biegu na maksymalnie <span class=\"Highlight2\">{1} s.</span><br>Wywołuje efekt <b>Wyczerpany</b> na <span class=\"Highlight3\">{2} s.</span><br>Umiejętności nie można użyć, gdy trwa efekt <b>Wyczerpany</b>.<br>",
+        "name": "Przebój",
+        "flavor": "„Miałam do czynienia z psychopatami w garniturach. Ty jesteś po prostu brzydszy i gorzej ubrany”. – Yun-Jin",
+        "id": 187,
+        "index": "SMASH_HIT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUN_JIN_LEE",
+        "image": "iconPerks_SmashHit",
+        "tiers": [
+            [
+                150,
+                4,
+                60
+            ],
+            [
+                150,
+                4,
+                50
+            ],
+            [
+                150,
+                4,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Życie jest okrutne. Czasem lepiej uważać na siebie.<br><br>Gdy inny ocalały w promieniu <span class=\"Highlight1\">{0} m</span> od ciebie zostaje trafiony atakiem podstawowym lub specjalnym, aktywuje się <i>Instynkt Samozachowawczy</i>.<br>Twoje czerwone zarysowania, ślady krwi i jęki bólu zostają ukryte na <span class=\"Highlight2\">{1} s.</span><br>",
+        "name": "Instynkt Samozachowawczy",
+        "flavor": "„Nauczyłam się czegoś w branży: gdy machają siekierą, trzymaj głowę nisko”. – Yun-Jin",
+        "id": 188,
+        "index": "SELF_PRESERVATION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUN_JIN_LEE",
+        "image": "iconPerks_Self-Preservation",
+        "tiers": [
+            [
+                16,
+                6
+            ],
+            [
+                16,
+                8
+            ],
+            [
+                16,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "Wiesz, jak radzić sobie z silniejszym przeciwnikiem. Wszystko zaczyna się od jego wytropienia i pozbycia się jego wsparcia.<br><br>Oczyszczasz totemy o <b>20%</b> szybciej. Po oczyszczeniu widzisz aurę najdalszego totemu przez <span class=\"Highlight1\">{0} s</span> i otrzymujesz łączący się bonus <span class=\"Highlight2\">{1}%</span> do prędkości czyszczenia totemów do końca próby.<br><br><span class= \"FlavorText\">„Nie przeszkadza mi odrobina zabawy w detektywa”. – Jill Valentine</span>",
+        "name": "Przeciwdziałanie",
+        "id": 189,
+        "index": "COUNTERFORCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JILL_VALENTINE",
+        "image": "iconPerks_Counterforce",
+        "tiers": [
+            [
+                2,
+                20
+            ],
+            [
+                3,
+                20
+            ],
+            [
+                4,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "Udało ci się wydostać z sytuacji bez wyjścia… I zrobisz to ponownie.<br><br>Otrzymujesz <span class=\"Highlight1\">{0}%</span> postępu leczenia natychmiast po zdjęciu lub zejściu z haka.<br><br><span class= \"FlavorText\">„Moja kolej, suko”. – Jill Valentine</span>",
+        "name": "Odrodzenie",
+        "id": 190,
+        "index": "RESURGENCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JILL_VALENTINE",
+        "image": "iconPerks_Resurgence",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                45
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "Gdy bezpośrednie starcie nie wchodzi w grę, i tak znajdujesz okazje do kontrataku.<br><br><i>Mina</i> aktywuje się po ukończeniu łącznie <span class=\"Highlight1\">{0}%</span> postępu naprawy generatorów.<br>Po co najmniej <span class=\"Highlight2\">{1} s</span> naprawiania generatora naciśnij <i>przycisk umiejętności</i>, aby zamontować pułapkę aktywną przez <span class=\"Highlight3\">{2} s</span>. Generatory z minami zostaną ujawnione wszystkim ocalałym za pomocą żółtej aury. Na generatorze może być aktywna tylko jedna pułapka.<br><li>Gdy zabójca uszkodzi generator z pułapką, ta eksploduje, ogłuszając zabójcę i oślepiając wszystkich w pobliżu.<i>Mina</i> przestaje być aktywna.</li><br><br><span class= \"FlavorText\">„Chcesz S.T.A.R.S.? Proszę bardzo!” – Jill Valentine</span>",
+        "name": "Mina",
+        "id": 191,
+        "index": "BLAST_MINE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JILL_VALENTINE",
+        "image": "iconPerks_blastMine",
+        "tiers": [
+            [
+                66,
+                3,
+                35
+            ],
+            [
+                66,
+                3,
+                40
+            ],
+            [
+                66,
+                3,
+                45
+            ]
+        ]
+    },
+    {
+        "description": "Odczuwasz ból tak samo jak wszyscy, ale wolisz, żeby inni o tym nie wiedzieli.<br><br>Nie wydajesz żadnych dźwięków, w tym jęków bólu, podczas leczenia. Nieudane testy umiejętności w trakcie leczenia nie powodują powiadomienia dźwiękowego, a leczenie cofa się jedynie o <span class=\"Highlight1\">{0}%.</span><br><br><span class= \"FlavorText\">„Dam radę”. – Leon S. Kennedy</span>",
+        "name": "Zaciśnięte Zęby",
+        "id": 192,
+        "index": "BITE_THE_BULLET",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEON_SCOTT_KENNEDY",
+        "image": "iconPerks_BiteTheBullet",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                2
+            ],
+            [
+                1
+            ]
+        ]
+    },
+    {
+        "description": "Udało ci się dostosować do świata pogrążonego w chaosie i dobrze wykorzystujesz znajdowane odpady.<br><br>Po ukończeniu <span class=\"Highlight1\">{0}%</span> naprawy dowolnego generatora aktywuje się <i>Granat Błyskowy</i>.<br>Wejdź do szafki z pustymi rękami i naciśnij przycisk umiejętności, aby wykonać granat.<br><li>1 ładunek.</li><li>Wybucha z głośnym hukiem i jasnym światłem.</li><li>Generuje powiadomienie dźwiękowe.</li><li>Może posłużyć do odwrócenia uwagi lub oślepienia.</li><br>Przy wyjściu z próby zostawiasz granat.<br><br><span class= \"FlavorText\">„Zejdź mi z oczu!” – Leon S. Kennedy</span>",
+        "name": "Granat Błyskowy",
+        "id": 193,
+        "index": "FLASHBANG",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEON_SCOTT_KENNEDY",
+        "image": "iconPerks_Flashbang",
+        "tiers": [
+            [
+                70
+            ],
+            [
+                60
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "Bacznie obserwujesz cele, gdy uciekają.<br><br>Ukończ <span class=\"Highlight1\">{0}</span> dobre lub świetne testy umiejętności podczas naprawiania generatora, aby aktywować <i>Zapał Nowicjusza</i> do końca próby.<br>Po aktywacji widzisz aurę generatorów, których stan ulega pogorszeniu.<br><br><span class= \"FlavorText\">„Powstrzymam to, poruczniku, obiecuję”. – Leon S. Kennedy</span>",
+        "name": "Zapał Nowicjusza",
+        "id": 194,
+        "index": "ROOKIE_SPIRIT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEON_SCOTT_KENNEDY",
+        "image": "iconPerks_RookieSpirit",
+        "tiers": [
+            [
+                5
+            ],
+            [
+                4
+            ],
+            [
+                3
+            ]
+        ]
+    }
+]

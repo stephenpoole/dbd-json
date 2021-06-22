@@ -1,0 +1,4354 @@
+[
+    {
+        "description": "防護パッドが施された革手袋。<br><li>トラバサミの設置速度が<b>少し増加する</b></li>",
+        "name": "トラッパーのグローブ",
+        "id": 1,
+        "index": "TRAPPER_GLOVES",
+        "owner": "TRAPPER",
+        "rarity": 0,
+        "image": "iconAddon_trapperGloves"
+    },
+    {
+        "description": "トラバサミの締まる力をかなり強化する大型の重たいコイルスプリング。<br><li>トラバサミの解除時間が<b>少し増加する</b></li>",
+        "name": "強力なコイルスプリング",
+        "id": 2,
+        "index": "STRONG_COIL_SPRING",
+        "owner": "TRAPPER",
+        "rarity": 0,
+        "image": "iconAddon_coilSpring"
+    },
+    {
+        "description": "トラバサミの交換キット。コイルを通常の2コイルから4コイル仕様に変換し、罠の締めつけ力を強化する。<br><li>トラバサミの解除時間が<b>そこそこ増加する</b></li>",
+        "name": "4コイルのスプリングキット",
+        "id": 9,
+        "index": "FOUR_COIL_SPRING_KIT",
+        "owner": "TRAPPER",
+        "rarity": 1,
+        "image": "iconAddon_coilsKit4"
+    },
+    {
+        "description": "木の灰。湯に通すと、トラバサミを染めるのに使うことができ、トラバサミに気づきにくくすることができる。<br><li>すべてのトラバサミを<b>そこそこ見えづらくする</b></li>",
+        "name": "ログウッドの染料",
+        "id": 8,
+        "index": "LOGWOOD_DYE",
+        "owner": "TRAPPER",
+        "rarity": 1,
+        "image": "iconAddon_logwoodDye"
+    },
+    {
+        "description": "罠に挟まれた者に深い傷を負わせる、ノコギリの刃のような、トラバサミの替え歯。<br><li>トラバサミに掛かった生存者は治療を受けるまで<b>出血</b>のステータス効果を受ける</li>",
+        "name": "ギザギザした歯",
+        "flavor": "「捕食獣のごとく、こいつは血の匂いを嗅ぎ、獲物を追いかける」",
+        "id": 3,
+        "index": "SERRATED_JAWS",
+        "owner": "TRAPPER",
+        "rarity": 0,
+        "image": "iconAddon_serratedJaws"
+    },
+    {
+        "description": "すばやく安全にトラバサミを設置するために作られた道具。<br><li>トラバサミの設置速度が<b>そこそこ増加する</b></li>",
+        "name": "トラバサミ設置器",
+        "id": 4,
+        "index": "TRAP_SETTERS",
+        "owner": "TRAPPER",
+        "rarity": 1,
+        "image": "iconAddon_tapSetters"
+    },
+    {
+        "description": "乾いた皮製のウェストバッグ。狩猟用の装備を運ぶために大きくて丈夫。<br><li>トラバサミが<b>1個</b>マッチ開始時に追加される</li><li>トラバサミを持ち運べる個数が<b>2個</b>増加する</li>",
+        "name": "トラッパーのバッグ",
+        "id": 5,
+        "index": "TRAPPER_BAG",
+        "owner": "TRAPPER",
+        "rarity": 1,
+        "image": "iconAddon_trapperBag"
+    },
+    {
+        "description": "トラバサミの歯。ところどころに固くて剥がれやすい錆が付着しているため、傷がとても治りづらくなる。<br><li>トラバサミに掛かった生存者が<b>重傷</b>のステータス効果に苦しむ",
+        "name": "錆びた歯",
+        "id": 12,
+        "index": "RUSTED_JAWS",
+        "owner": "TRAPPER",
+        "rarity": 2,
+        "image": "iconAddon_rustedJaws"
+    },
+    {
+        "description": "メインのコイルが使えなくなった時でもトラバサミを作動させられる補助コイル。<br><li>トラバサミの解除時間が<b>かなり増加する</b></li>",
+        "name": "補助コイル",
+        "id": 7,
+        "index": "SECONDARY_COIL",
+        "owner": "TRAPPER",
+        "rarity": 2,
+        "image": "iconAddon_secondaryCoil"
+    },
+    {
+        "description": "タールの様に黒くてくすんだ、ベトベトする素材。トラバサミに使用することで目立ちにくくする効果がある。<br><li>全てのトラバサミを<b>かなり見えづらくする</b></li>",
+        "name": "タールのボトル",
+        "id": 10,
+        "index": "TAR_BOTTLE",
+        "owner": "TRAPPER",
+        "rarity": 2,
+        "image": "iconAddon_tarBottle"
+    },
+    {
+        "description": "機械部品の摩擦抵抗を減らし、滑らかな動きをもたらすワックスの塊。<br><li>トラバサミから脱出できる可能性を<b>そこそこ減少させる</b></li>",
+        "name": "ワックスのブロック",
+        "id": 11,
+        "index": "WAX_BRICK",
+        "owner": "TRAPPER",
+        "rarity": 2,
+        "image": "iconAddon_waxBrick"
+    },
+    {
+        "description": "きれいな機械油が罠のバネを調整し、威力を上げる。<br><li>トラバサミの解除時間が<b>とてつもなく増加する</b></li>",
+        "name": "油まみれのコイル",
+        "id": 13,
+        "index": "OILY_COIL",
+        "owner": "TRAPPER",
+        "rarity": 3,
+        "image": "iconAddon_oilyCoil"
+    },
+    {
+        "description": "トラバサミが効果的に作動するようしっかり固定するための専用の道具セット。<br><li>トラバサミの設置速度が<b>とてつもなく増加する</b></li><li>トラバサミからの救出および脱出速度が<b>かなり増加する</b></li><li>トラバサミから脱出できる確率が<b>そこそこ減少する</b></li>",
+        "name": "締め具",
+        "id": 14,
+        "index": "FASTENING_TOOLS",
+        "owner": "TRAPPER",
+        "rarity": 3,
+        "image": "iconAddon_fasteningTools"
+    },
+    {
+        "description": "いろいろな革を雑に縫い合わせてできている、とても大きなバッグ。<br><li>トラバサミが<b>2個</b>マッチ開始時に追加される</li><li>トラバサミを持ち運べる個数が<b>2個</b>増加する</li>",
+        "name": "縫い合わされたバッグ",
+        "id": 15,
+        "index": "STITCHED_BAG",
+        "owner": "TRAPPER",
+        "rarity": 3,
+        "image": "iconAddon_stichedBag"
+    },
+    {
+        "description": "不気味な液体に覆われたこのスプリングは、所によりねばつき、所により滑りやすく、扱いがより困難で危険だ。<br><li>罠が<b>無傷</b>の生存者によって破壊または解除された場合、血まみれのコイルは代償を求め、その生存者を<b>負傷状態</b>にする</li><li>トラバサミの解除時間が<b>少し増加する</b></li>",
+        "name": "血まみれのコイル",
+        "id": 17,
+        "index": "BLOODY_COIL",
+        "owner": "TRAPPER",
+        "rarity": 4,
+        "image": "iconAddon_bloodyCoil"
+    },
+    {
+        "description": "このかすかに光る鋭い石が付いた罠は、自ら命を得ているかのようだ。<br><li><b>30秒</b>ごとに、閉じているトラバサミがランダムで1つ設置状態になる</li>",
+        "name": "玉虫色の石",
+        "id": 18,
+        "index": "IRIDESCENT_STONE",
+        "owner": "TRAPPER",
+        "rarity": 4,
+        "image": "iconAddon_diamondStone"
+    },
+    {
+        "description": "鐘の胴体に煤を使い指で描かれたシンボル<br>「狡猾」を表す\"オアス-ネク\"。<br><li>レイスが透明化状態でパレットの破壊や発電機へのダメージを行うと、<b>完全に透明化解除する</b></li>",
+        "name": "「蛇」- 煤",
+        "id": 50,
+        "index": "THE_SERPENT_SOOT",
+        "owner": "WRAITH",
+        "rarity": 0,
+        "image": "iconAddon_sootTheSerpent"
+    },
+    {
+        "description": "鐘の胴体に煤を使い指で描かれたシンボル<br>「無類の追跡者」を表す\"グド-ボイ\"。<br><li>新しい血のシミが通常よりも<b>かなり</b>見えやすくなる</li>",
+        "name": "「猟犬」- 煤",
+        "id": 51,
+        "index": "THE_HOUND_SOOT",
+        "owner": "WRAITH",
+        "rarity": 0,
+        "image": "iconAddon_sootTheHound"
+    },
+    {
+        "description": "鐘の胴体に煤を使い指で描かれたシンボル<br>「霊界」を表す\"クグウェムウ\"。<br><li>透明化解除後、レイスの脅威範囲と赤い光が<b>6秒間</b>抑制される</li>",
+        "name": "「亡霊」- 煤",
+        "id": 52,
+        "index": "THE_GHOST_SOOT",
+        "owner": "WRAITH",
+        "rarity": 0,
+        "image": "iconAddon_sootTheGhost"
+    },
+    {
+        "description": "鐘の胴体に煤を使い指で描かれたシンボル<br>「恐怖の世界」を表す\"クグフェルウ\"。<br><li>透明化した際に、レイスの脅威範囲が<b>抑制されなくなる</b></li><li>凝視と奇襲で得られるブラッドポイントが100％まで増加する</li>",
+        "name": "「暗獣」- 煤",
+        "id": 53,
+        "index": "THE_BEAST_SOOT",
+        "owner": "WRAITH",
+        "rarity": 0,
+        "image": "iconAddon_sootTheBeast"
+    },
+    {
+        "description": "滑らかに研磨された骨でできた、鳴子。鐘の音を歪んだ状態で響かせ、聞いた者を混乱させる。<br><li>「悲哀の鐘」の<b>距離</b>と<b>方向</b>が認識できなくなる</li>",
+        "name": "骨の鳴子",
+        "id": 54,
+        "index": "BONE_CLAPPER",
+        "owner": "WRAITH",
+        "rarity": 1,
+        "image": "iconAddon_boneClapper"
+    },
+    {
+        "description": "「刹那」を表す「クラティン」のシンボルが鐘の胴体に泥を使い指で描かれている。<br><li>レイスの透明化にかかる時間が<b>かなり</b>減少する</li>",
+        "name": "「ブリンク」- 泥",
+        "id": 55,
+        "index": "BLINK_MUD",
+        "owner": "WRAITH",
+        "rarity": 1,
+        "image": "iconAddon_mudBlink"
+    },
+    {
+        "description": "「暴風」を表す「オフウィ-オンムニア」のシンボルが鐘の胴体に泥を使い指で描かれている。<li>透明化状態の間、レイスの移動速度が<b>そこそこ上昇する</b></li>",
+        "name": "「暴風」- 泥",
+        "id": 56,
+        "index": "WINDSTORM_MUD",
+        "owner": "WRAITH",
+        "rarity": 1,
+        "image": "iconAddon_mudWindstorm"
+    },
+    {
+        "description": "「獲物への強襲」を表す「クンティン-タコホ」のシンボルが鐘の胴体に泥を使い指で描かれている。<br><li>レイスの透明化の解除にかかる時間が<b>少し減少する</b></li>",
+        "name": "「俊足の狩人」- 泥",
+        "id": 57,
+        "index": "SWIFT_HUNT_MUD",
+        "owner": "WRAITH",
+        "rarity": 1,
+        "image": "iconAddon_mudSwiftHunt"
+    },
+    {
+        "description": "鐘の胴体に泥を使い指で描かれたシンボル<br>「残虐性」を表す\"バイクラ-カユーグ\"。<br><li><b>奇襲</b>で生存者を<b>60秒間</b><b>オーラ不可視</b>状態にする</li>",
+        "name": "「盲目の戦士」- 泥",
+        "id": 58,
+        "index": "BLIND_WARRIOR_MUD",
+        "owner": "WRAITH",
+        "rarity": 1,
+        "image": "iconAddon_mudBaikraKaeug"
+    },
+    {
+        "description": "「暴風」を表す「オフウィ-オンムニア」のシンボルが鐘の胴体に白インクを使い指で描かれている。<li>透明化状態の間、レイスの移動速度が<b>かなり上昇する</b></li>",
+        "name": "「暴風」- 白",
+        "id": 59,
+        "index": "WINDSTORM_WHITE",
+        "owner": "WRAITH",
+        "rarity": 2,
+        "image": "iconAddon_whiteWindstorm"
+    },
+    {
+        "description": "「獲物への強襲」を表す「クンティン-タコホ」のシンボルが鐘の胴体に白インクを使い指で描かれている。<br><li>レイスの透明化の解除にかかる時間が<b>そこそこ減少する</b></li>",
+        "name": "「俊足の狩人」- 白",
+        "id": 60,
+        "index": "SWIFT_HUNT_WHITE",
+        "owner": "WRAITH",
+        "rarity": 2,
+        "image": "iconAddon_whiteKuntinTakkho"
+    },
+    {
+        "description": "「相乗効果」を表す「イワリック」のシンボルが鐘の胴体に白インクを使い指で描かれている。<br><li>透明化した状態での窓の乗り越え、ロッカーの開閉、パレットの破壊、発電機破壊に必要な時間が<b>かなり減少する</b></li>",
+        "name": "「影舞」- 白",
+        "id": 61,
+        "index": "SHADOW_DANCE_WHITE",
+        "owner": "WRAITH",
+        "rarity": 2,
+        "image": "iconAddon_whiteShadowDance"
+    },
+    {
+        "description": "「刹那」を表す「クラティン」のシンボルが鐘の胴体に白インクを使い指で描かれている。<br><li>レイスの透明化にかかる時間が<b>とてつもなく減少する</b></li>",
+        "name": "「ブリンク」- 白",
+        "id": 62,
+        "index": "BLINK_WHITE",
+        "owner": "WRAITH",
+        "rarity": 2,
+        "image": "iconAddon_whiteBlink"
+    },
+    {
+        "description": "「残虐性」を表す「バイクラ-カユーグ」のシンボルが鐘の胴体に白インクを使い指で描かれている。<br><li>奇襲で生存者に<b>重傷</b>と<b>出血</b>のステータス効果を与える。効果は完全に治療されるまで続く</li>",
+        "name": "「盲目の戦士」- 白",
+        "id": 63,
+        "index": "BLIND_WARRIOR_WHITE",
+        "owner": "WRAITH",
+        "rarity": 2,
+        "image": "iconAddon_whiteBlindWarrior"
+    },
+    {
+        "description": "「暴風」を表す「オフウィ-オンムニア」のシンボルが鐘の胴体に血で刻印されている。<br><li>透明化状態の間、レイスの移動速度が<b>とてつもなく上昇する</b></li>",
+        "name": "「暴風」- 血",
+        "id": 64,
+        "index": "WINDSTORM_BLOOD",
+        "owner": "WRAITH",
+        "rarity": 3,
+        "image": "iconAddon_bloodWindstorm"
+    },
+    {
+        "description": "「獲物への強襲」を表す「クンティン-タコホ」のシンボルが鐘の上部に血で刻印されている。<br><li>レイスの透明化の解除にかかる時間が<b>かなり減少する</b></li>",
+        "name": "「俊足の狩人」- 血",
+        "id": 65,
+        "index": "SWIFT_HUNT_BLOOD",
+        "owner": "WRAITH",
+        "rarity": 3,
+        "image": "iconAddon_bloodSwiftHunt"
+    },
+    {
+        "description": "「相乗効果」を表す「イワリック」のシンボルが鐘の胴体に血で刻印されている。<br><li>透明化した状態での窓の乗り越え、ロッカーの開閉、パレットや破壊可能なオブジェクトの破壊、発電機破壊に必要な時間が<b>とてつもなく減少する</b></li>",
+        "name": "「影舞」- 血",
+        "id": 66,
+        "index": "SHADOW_DANCE_BLOOD",
+        "owner": "WRAITH",
+        "rarity": 3,
+        "image": "iconAddon_bloodShadowDance"
+    },
+    {
+        "description": "鐘の上部に血で刻印されたシンボル<br>「すべてを見通すエンティティ」を表す\"クラ-フラバイ\"。<br><li>隠し持ったオーラを視認できる能力を呼び覚ます。透明化している間、<b>12メートル</b>以内にいる生存者のオーラを探知できる</li>",
+        "name": "「全能視」- 血",
+        "id": 67,
+        "index": "ALL_SEEING_BLOOD",
+        "owner": "WRAITH",
+        "rarity": 3,
+        "image": "iconAddon_bloodKraFabai"
+    },
+    {
+        "description": "鐘の音を消すため、鶏冠結びで結われたロープが巻きつけられている。”それ”からは悪意のあるオーラが発している。<br><li>悲哀の鐘の音を<b>完全に聞こえなくする</b></li><li>重複する</li>",
+        "name": "音無しの鳴子",
+        "id": 68,
+        "index": "COXCOMBED_CLAPPER",
+        "owner": "WRAITH",
+        "rarity": 4,
+        "image": "iconAddon_coxcombedClapper"
+    },
+    {
+        "description": "鐘の上部で不吉に光るシンボル<br>「すべてを見通すエンティティ」を表す\"クラ-フラバイ\"。<br><li>オーラを視認できる能力を呼び覚ます。透明化時、<b>発電機の修理進行度</b>が<b>オーラの強さ</b>で判別できる</li>",
+        "name": "「全能視」- 魂",
+        "id": 69,
+        "index": "ALL_SEEING_SPIRIT",
+        "owner": "WRAITH",
+        "rarity": 4,
+        "image": "iconAddon_spiritAllSeeing"
+    },
+    {
+        "description": "チェーンの動きをスムーズに保ってくれる、しっかりとしたクラッチ。<br><br><li>チェーンソーダッシュ時の衝突ゾーンが<b>縮小する</b></li>",
+        "name": "ヘビークラッチ",
+        "id": 100,
+        "index": "HEAVY_CLUTCH",
+        "owner": "HILLBILLY",
+        "rarity": 0,
+        "image": "iconAddon_heavyClutch"
+    },
+    {
+        "description": "小型エンジンが処理できる量の燃料だけを送り込むようにする制御装置。スピードを安定させ、安全にする。<br><br><li>チェーンソーが命中した生存者は負傷1段階分のダメージを受ける</li><li>チェーンソー命中によって得られるブラッドポイントが<b>100%</b>増加する</li>",
+        "name": "スピードリミッター",
+        "id": 101,
+        "index": "SPEED_LIMITER",
+        "owner": "HILLBILLY",
+        "rarity": 0,
+        "image": "iconAddon_speedLimiter"
+    },
+    {
+        "description": "ほこりまみれのひび割れたフィルター。性能は在庫品に比べてもまだ高い。<br><br><li>チェーンソーがオーバーヒートする上限が<b>少し上がる</b></li>",
+        "name": "中古のエアフィルター",
+        "id": 102,
+        "index": "JUNKYARD_AIR_FILTER",
+        "owner": "HILLBILLY",
+        "rarity": 0,
+        "image": "iconAddon_junkyardAirFilter"
+    },
+    {
+        "description": "つま先部分が強化されたブーツ。衝撃から守ってくれる。<br><br><li>チェーンソーがオブジェクトに命中した後の回復時間が<b>少し短縮される</b></li>",
+        "name": "安全ブーツ",
+        "id": 103,
+        "index": "STEEL_TOE_BOOTS",
+        "owner": "HILLBILLY",
+        "rarity": 0,
+        "image": "iconAddon_steelToeBoots"
+    },
+    {
+        "description": "雑な改良が施されたマフラー。空気が流れやすくなっている。<br><br><li>チェー</b>ンソーの冷却速度が<b>少し上昇する</li>",
+        "name": "穴あきマフラー",
+        "id": 104,
+        "index": "PUNCTURED_MUFFLER",
+        "owner": "HILLBILLY",
+        "rarity": 1,
+        "image": "iconAddon_puncturedMuffler"
+    },
+    {
+        "description": "古き良き時代の田舎少年がみんな付けていた、ピカピカの輝くベルト。<br><br><li>チェーンソーがオーバーヒートすると脅威範囲が8メートル<b>縮小する</b></li>",
+        "name": "大きなバックル",
+        "id": 107,
+        "index": "BIG_BUCKLE",
+        "owner": "HILLBILLY",
+        "rarity": 1,
+        "image": "iconAddon_bigBuckle"
+    },
+    {
+        "description": "お手頃価格のオイル。うるさい音がするチェーンの滑りをよくするために使う。<br><br><li>チェーンソーの音が<b>少し減少する</b></li>",
+        "name": "ノーブランドのモーターオイル",
+        "id": 109,
+        "index": "OFF_BRAND_MOTOR_OIL",
+        "owner": "HILLBILLY",
+        "rarity": 1,
+        "image": "iconAddon_offBrandMotorOil"
+    },
+    {
+        "description": "マックス・トンプソン Sr.の遺体から引き抜かれた頑丈なブーツ。<br><br><li>チェーンソーダッシュのカーブ性能が<b>そこそこ増加する</b></li>",
+        "name": "親父のブーツ",
+        "id": 110,
+        "index": "DADS_BOOTS",
+        "owner": "HILLBILLY",
+        "rarity": 1,
+        "image": "iconAddon_dadsBoots"
+    },
+    {
+        "description": "チェーンソーの胴体に彫られた彫刻。仕留めた獲物の数を数えている。使用者の決意をより固くする。<br><li>チェーンソー使用時の移動速度が<b>少し上昇する</b></li><li>チャージ時間が<b>少し増加する</b></li><li>重複する</li>",
+        "name": "死の彫刻",
+        "id": 111,
+        "index": "DEATH_ENGRAVINGS",
+        "owner": "HILLBILLY",
+        "rarity": 1,
+        "image": "iconAddon_deathEngravings"
+    },
+    {
+        "description": "エヴリン・トンプソンのポーチにあった少量のカフェインの錠剤。神経過敏やイライラなどの副作用がある。<br><br><li>パレットで怯んだ後、30秒間チェーンソーのチャージ時間が<b>少し減少する</b></li><br>",
+        "name": "母の助っ人",
+        "flavor": "「ドクターお願いよ、もっとお薬をちょうだい。」 —エヴリン・トンプソン",
+        "id": 112,
+        "index": "MOTHERS_HELPERS",
+        "owner": "HILLBILLY",
+        "rarity": 2,
+        "image": "iconAddon_mothersHelpers"
+    },
+    {
+        "description": "反動作用の発生率が下がる特殊なチェーン。<br><br><li>チェーンソーダッシュ中、障害物にぶつかった時の時間ロスが<b>かなり短縮される</b></li>",
+        "name": "低反動のチェーン",
+        "id": 113,
+        "index": "LOW_KICKBACK_CHAINS",
+        "owner": "HILLBILLY",
+        "rarity": 2,
+        "image": "iconAddon_lowKickbackChains"
+    },
+    {
+        "description": "香りの強い葉をすり潰したもの。獲物を追うハンターのにおいを隠してくれる。<br><br><li>チェーンソーで攻撃を命中させると、探知不可のステータス効果を15秒間得る</li>",
+        "name": "すり潰した葉",
+        "id": 114,
+        "index": "LEAFY_MASH",
+        "owner": "HILLBILLY",
+        "rarity": 2,
+        "image": "iconAddon_leafyMash"
+    },
+    {
+        "description": "チェーンソーの胴体に彫られた彫刻。霧の中に棲む怪物を表す。使用者の決意をより固くする。<br><li>チェーンソー使用時の移動速度が<b>そこそこ上昇する</b></li><li>チャージ時間が<b>少し増加する</b></li><li>重複する</li>",
+        "name": "破滅の彫刻",
+        "id": 115,
+        "index": "DOOM_ENGRAVINGS",
+        "owner": "HILLBILLY",
+        "rarity": 2,
+        "image": "iconAddon_doomEngravings"
+    },
+    {
+        "description": "目の下に塗ってグレアを減らすための濃厚なグリース。<br><br><li>懐中電灯に照らされるとチェーンソーの冷却速度が<b>そこそこ上昇する</b></li>",
+        "name": "黒いグリース",
+        "id": 117,
+        "index": "BLACK_GREASE",
+        "owner": "HILLBILLY",
+        "rarity": 2,
+        "image": "iconAddon_blackGrease"
+    },
+    {
+        "description": "埃や油まみれだが、しっかり調整されたキャブレター。<br><br><li>チェーンソーのチャージ時間が<b>そこそこ短縮される</b></li><li>基本移動速度が4.4m/秒に<b>低下する</b>",
+        "name": "同調済みのキャブレター",
+        "id": 118,
+        "index": "TUNED_CARBURETOR",
+        "owner": "HILLBILLY",
+        "rarity": 3,
+        "image": "iconAddon_tunedCarburetor"
+    },
+    {
+        "description": "金属付きブーツ。金属がぬかるみに食い込むので、一歩一歩に安定性をもたらす。<br><li>チェーンソーの操作性能が<b>とてつもなく上昇する。</b></li><li>チェーンソーで障害物に衝突した時のペナルティが<b>かなり増加する。</b></li>",
+        "name": "スパイク付きブーツ",
+        "id": 119,
+        "index": "SPIKED_BOOTS",
+        "owner": "HILLBILLY",
+        "rarity": 3,
+        "image": "iconAddon_spikedBoots"
+    },
+    {
+        "description": "謎のシミがついた悪臭のする手袋。何もかも異常な手袋だが、生地は分厚い。<br><br><li>チェーンソーの回転数を上げ始めた時の熱量が<b>そこそこ減少する</b></li><br>",
+        "name": "豚小屋のグローブ",
+        "flavor": "「真面目に働く男の肝っ玉とは、どんな面倒にも左右されないもんだ。」 — マックス・トンプソン Sr.",
+        "id": 120,
+        "index": "PIGHOUSE_GLOVES",
+        "owner": "HILLBILLY",
+        "rarity": 3,
+        "image": "iconAddon_pighouseGloves"
+    },
+    {
+        "description": "チェーンソーの重量を軽減してくれる軽いチェーン。操作性が大幅に向上する。<br><br><li>チェーンソーダッシュ中、パレットや壁を破壊しても止まらなくなる</li><li>パレットまたは壁を破壊して5秒以内にチェーンソーが命中した生存者は負傷1段階分のダメージを受ける</li>",
+        "name": "軽量チェーン",
+        "id": 121,
+        "index": "LOPRO_CHAINS",
+        "owner": "HILLBILLY",
+        "rarity": 3,
+        "image": "iconAddon_lowProChains"
+    },
+    {
+        "description": "かつてマックス Jrが監禁されていた部屋のバリケードが崩壊した時、一番最初に落ちたレンガ。<br><br><li>チェーンソーダッシュを2秒維持すると、ダッシュし終えるまで探知不可のステータス効果を得る</li><br>",
+        "name": "玉虫色のレンガ",
+        "flavor": "「一体何をそんなに騒いでる？」 —マックス・トンプソン Sr.",
+        "id": 122,
+        "index": "IRIDESCENT_BRICK",
+        "owner": "HILLBILLY",
+        "rarity": 3,
+        "image": "iconAddon_iridescentBrick"
+    },
+    {
+        "description": "精巧なチェーンソーのマフラー。他のどのマフラーよりも高性能。<br><br><li>脅威範囲外の生存者にチェーンソーの音がしなくなる</li>",
+        "name": "頂点のマフラー",
+        "id": 123,
+        "index": "APEX_MUFFLER",
+        "owner": "HILLBILLY",
+        "rarity": 3,
+        "image": "iconAddon_apexMuffler"
+    },
+    {
+        "description": "馬に似せるために、安っぽい木材から彫って作られたまま塗装されていないおもちゃ。かつては緊張病の患者と彼の看護師の、深い絆の象徴だった。<br><li>ブリンク攻撃に失敗した時の追加の疲労が<b>そこそこ減少する。</b></li>",
+        "name": "木馬",
+        "id": 150,
+        "index": "WOODEN_HORSE",
+        "owner": "NURSE",
+        "rarity": 0,
+        "image": "iconAddon_woodenHorse"
+    },
+    {
+        "description": "診療所から持ち出された毛じらみ用の櫛。かつては心配症の患者と彼女の看護師の、深い絆の象徴だった。<br><li>ブリンク後の突進攻撃の範囲が<b>そこそこ減少する。</b></li><li><i>ブリンク攻撃</i>で得られるブラッドポイントが<b>100%</b>増加する。</li>",
+        "name": "白い梳き櫛",
+        "id": 151,
+        "index": "WHITE_NIT_COMB",
+        "owner": "NURSE",
+        "rarity": 0,
+        "image": "iconAddon_whiteNitComb"
+    },
+    {
+        "description": "光沢がなく、所々錆びて染みが付いた金属のスプーン。202号室の患者「バッドマン」から没収された。<br><li>ブリンク攻撃が生存者に命中すると、生存者のうめき声が<b>60秒間</b><b>そこそこ大きくなる</b>。</li>",
+        "name": "金属のスプーン",
+        "id": 153,
+        "index": "METAL_SPOON",
+        "owner": "NURSE",
+        "rarity": 0,
+        "image": "iconAddon_metalSpoon"
+    },
+    {
+        "description": "「バッドマン」の死体の手から摘出された腐った奥歯。<br><li>ブリンク攻撃が生存者に命中すると、<b>28メートル</b>以内で生存者が治療もしくは治療を受けた場合、<b>60秒間</b>彼らのオーラが見えるようになる。</li>",
+        "name": "バッドマンの形見",
+        "id": 155,
+        "index": "BAD_MAN_KEEPSAKE",
+        "owner": "NURSE",
+        "rarity": 0,
+        "image": "iconAddon_badManKeepsake"
+    },
+    {
+        "description": "がらがら音を立てる破片が入った、黒焦げになって壊れている懐中時計。看護士モリスの遺体から持ち去られた。<br><li>連続ブリンクのチャージ時間が<b>そこそこ長くなる。</b></li>",
+        "name": "懐中時計",
+        "id": 156,
+        "index": "POCKET_WATCH",
+        "owner": "NURSE",
+        "rarity": 1,
+        "image": "iconAddon_pocketWatch"
+    },
+    {
+        "description": "誰かが大事にしていたかもしれない、無価値なアクセサリーの一部。心配性の女の子の遺体から奪われた。<br><li>ブリンクの最大範囲が<b>そこそこ減少する。</b></li><li><i>正確なブリンク</i>で得られるブラッドポイントが<b>100%</b>上昇する。</li>",
+        "name": "すり減ったブレスレット",
+        "id": 157,
+        "index": "DULL_BRACELET",
+        "owner": "NURSE",
+        "rarity": 1,
+        "image": "iconAddon_dullBracelet"
+    },
+    {
+        "description": "弔事の際にベルトとして使われた黒いロープ。キャンベル神父の遺体から奪われた。<br><li>ブリンクのチャージ速度が<b>そこそこ上昇する。</b></li>",
+        "name": "暗色の帯",
+        "id": 158,
+        "index": "DARK_CINCTURE",
+        "owner": "NURSE",
+        "rarity": 1,
+        "image": "iconAddon_darkCincture"
+    },
+    {
+        "description": "予想だにせず患者の多動を抑えた松ぼっくり。緊張病の男の子の遺体から奪われた。<br><li>連続ブリンクによる追加の疲労が<b>かなり減少する。</b></li>",
+        "name": "緊張病の男の子の宝物",
+        "id": 159,
+        "index": "CATATONIC_BOYS_TREASURE",
+        "owner": "NURSE",
+        "rarity": 1,
+        "image": "iconAddon_catatonicTreasure"
+    },
+    {
+        "description": "バッドマンから採取した、引きつって震える呼気。ナースが触れると激しく脈動して暴れる。<br><li>生存者にブリンク攻撃が命中すると<b>ナースのブリンク発動が不可となり</b>、基本移動速度が<b>60秒間</b><b>4.6m/秒</b>に上昇する。</li>",
+        "name": "痙攣する呼気",
+        "id": 160,
+        "index": "SPASMODIC_BREATH",
+        "owner": "NURSE",
+        "rarity": 2,
+        "image": "iconAddon_spasmodicBreath"
+    },
+    {
+        "description": "太った職員から採取された呼気。ゆっくりと膨らむ。ナースが触れると穏やかに振動する。<br><li>ブリンクの最大範囲が<b>かなり上昇する。</b></li><li>ブリンクの最大チャージ時間が<b>かなり増加する。</b></li>",
+        "name": "重く息切れする呼気",
+        "id": 161,
+        "index": "HEAVY_PANTING",
+        "owner": "NURSE",
+        "rarity": 2,
+        "image": "iconAddon_heavyPanting"
+    },
+    {
+        "description": "ヒューヒューと乱れた息。キャンベル神父から盗まれた。ナースが触ると少し歪む。<br><li>ブリンクのチャージ速度が<b>かなり上昇する。</b></li>",
+        "name": "はかない息切れ",
+        "id": 162,
+        "index": "FRAGILE_WHEEZE",
+        "owner": "NURSE",
+        "rarity": 2,
+        "image": "iconAddon_fragileWheeze"
+    },
+    {
+        "description": "緊張病の男の子から採取した、不規則で悪化している呼気。普段は落ち着いているが、ナースが触れると急激に乱れる。<br><li>ブリンクの疲労時間が<b>そこそこ減少する。</b></li>",
+        "name": "失調性の呼気",
+        "id": 163,
+        "index": "ATAXIC_RESPIRATION",
+        "owner": "NURSE",
+        "rarity": 2,
+        "image": "iconAddon_ataxicRespiration"
+    },
+    {
+        "description": "心配症の女の子から採取された驚きの喘ぎ。ナースが好み、触れると勢い良く痙攣する。<br><li>ブリンクで生存者を追い越すと生存者が悲鳴を上げ、<i>邪悪</i>カテゴリーのブラッドポイントが<b>200ポイント</b>増加する。</li>",
+        "name": "心配性の喘ぎ",
+        "id": 164,
+        "index": "ANXIOUS_GASP",
+        "owner": "NURSE",
+        "rarity": 2,
+        "image": "iconAddon_anxiousGasp"
+    },
+    {
+        "description": "赤と黒の縞模様のシャツがちぎれたもの。生地の切れ端がナースに猛烈な集中力を吹き込む。<br><li>ブリンクで狙った生存者の位置が見えるようになる。</li>",
+        "name": "縞模様の布切れ",
+        "id": 165,
+        "index": "PLAID_FLANNEL",
+        "owner": "NURSE",
+        "rarity": 3,
+        "image": "iconAddon_plaidFlannel"
+    },
+    {
+        "description": "クロータス・プレン・アサイラムの職員であったハーヴェイ・カヴァナーの、力強い最期の一息。ナースの手の中で力を持ってさまよう。<br><li>ブリンクの最大範囲が<b>とてつもなく増加する。</b></li><li>ブリンクの最大チャージ時間が<b>とてつもなく増加する。</b></li>",
+        "name": "カヴァナーの最期の一息",
+        "id": 166,
+        "index": "KAVANAGHS_LAST_BREATH",
+        "owner": "NURSE",
+        "rarity": 3,
+        "image": "iconAddon_kavanaghsLastBreath"
+    },
+    {
+        "description": "クロータス・プレン・アサイラムの患者であったメアリー・ジェナーの、力強い最期の一息。ナースの手の中で力を持って揺れ動く。<br><li>ブリンク後に<i>アビリティ発動のボタン</i>を押すと、即座に元の位置に戻ることができる。ブリンク後の疲労で動けなくなる前にボタンを押さないと発動しない。</li>",
+        "name": "ジェナーの最期の一息",
+        "id": 167,
+        "index": "JENNERS_LAST_BREATH",
+        "owner": "NURSE",
+        "rarity": 3,
+        "image": "iconAddon_jennersLastBreath"
+    },
+    {
+        "description": "クロータス・プレン・アサイラムのキャンベル神父から奪われた、力強い最期の一息。ナースの手の中で熱気を帯びてパチパチと弾ける。<br><li>フルチャージしたブリンクで再出現後に、ナースが向いている方向に半分のチャージで即座にブリンクする。</li>",
+        "name": "キャンベルの最期の一息",
+        "id": 168,
+        "index": "CAMPBELLS_LAST_BREATH",
+        "owner": "NURSE",
+        "rarity": 3,
+        "image": "iconAddon_campbellsLastBreath"
+    },
+    {
+        "description": "クロータス・プレン・アサイラムの患者であったバッドマンの、力強い最期の一息。ナースの手の中で力を持って震える。<br><li>生存者にブリンク攻撃が命中するとナースは<b>探知不可</b> ステータスを<b>16秒間</b>獲得する。</li><li>この効果は<b>60秒間</b>に一度だけ発動する。</li>",
+        "name": "「バッドマン」の最期の一息",
+        "id": 169,
+        "index": "BAD_MANS_LAST_BREATH",
+        "owner": "NURSE",
+        "rarity": 3,
+        "image": "iconAddon_badMansLastBreath"
+    },
+    {
+        "description": "白くてきれいなリボンの切れ端。かつては神聖な本に取り付けられていて、討論の象徴だった。<br><li>連続ブリンク可能回数が<b>1回</b>増加する。</li><li>ブリンクは視界内にのみ有効。</li>",
+        "name": "ちぎれた栞",
+        "id": 170,
+        "index": "TORN_BOOKMARK",
+        "owner": "NURSE",
+        "rarity": 4,
+        "image": "iconAddon_tornBookmark"
+    },
+    {
+        "description": "形が異なるボタンの奇妙な寄せ集めが入っているマッチ箱。恐ろしい場所を思い出させるのに効果的。<br><li>連続ブリンク可能回数が<b>1回</b>減少する。</li><li>ナースの基本移動速度が<b>4.2m/秒</b>に上昇する。</li>",
+        "name": "マッチ箱",
+        "id": 171,
+        "index": "MATCHBOX",
+        "owner": "NURSE",
+        "rarity": 4,
+        "image": "iconAddon_matchBox"
+    },
+    {
+        "description": "とても安っぽいプラスチック製のアクセサリー。貴金属に見せるために色が塗られている。<br><li>凝視している間の移動速度が<b>少し上昇する</b></li>",
+        "name": "安っぽいイヤリング",
+        "id": 200,
+        "index": "TACKY_EARRINGS",
+        "owner": "SHAPE",
+        "rarity": 0,
+        "image": "iconAddon_tackyEarrings"
+    },
+    {
+        "description": "少し安っぽいかもしれない「ロマンチック」な言葉が書かれたメモ。ガールフレンドの注意を引くために書かれたもの。<br><li><b>内なる邪悪I</b>の溜め攻撃の射程距離が<b>少し増加する</b></li>",
+        "name": "ボーイフレンドのメモ",
+        "flavor": "「メモには\"D\"とサインされている。」",
+        "id": 201,
+        "index": "BOYFRIENDS_MEMO",
+        "owner": "SHAPE",
+        "rarity": 0,
+        "image": "iconAddon_boyfriendsMemo"
+    },
+    {
+        "description": "少しウェーブがかっている、金色の髪の毛。<br><li><b>内なる邪悪III</b>の効果時間が<b>少し増加する</b></li><li>初めて<b>内なる邪悪III</b>になるまでに必要な邪悪さの量が<b>少し増加する</b></li>",
+        "name": "金色の髪の毛",
+        "id": 202,
+        "index": "BLOND_HAIR",
+        "owner": "SHAPE",
+        "rarity": 0,
+        "image": "iconAddon_blondeHair"
+    },
+    {
+        "description": "非常によく反射する物質の小さなかけら。おそらく壊れた鏡であると思われる。<br><li>内なる邪悪IIのとき、<b>1秒</b>以上凝視した<b>生存者のオーラが視えるようになる</b></li><li><b>2秒間</b>オーラが表示され続ける</li>",
+        "name": "キラキラする破片",
+        "id": 203,
+        "index": "REFLECTIVE_FRAGMENT",
+        "owner": "SHAPE",
+        "rarity": 1,
+        "image": "iconAddon_reflectiveFragment"
+    },
+    {
+        "description": "一部がしおれてしまっている、ピンク色の乾いた飛燕草。墓石のそばから摘んできたようだ。<br><li>生存者を凝視しているとき、邪悪さの蓄積する割合が<b>少し増加する</b></li>",
+        "name": "思い出の花",
+        "id": 204,
+        "index": "MEMORIAL_FLOWER",
+        "owner": "SHAPE",
+        "rarity": 1,
+        "image": "iconAddon_memorialFlower"
+    },
+    {
+        "description": "ビーズと廉価な金属で作られている、大きなネックレス。ジュディスのお気に入りのひとつ。<br><li>凝視しているときの移動速度が<b>そこそこ上昇する</b></li>",
+        "name": "ジュエリー",
+        "id": 205,
+        "index": "JEWELRY",
+        "owner": "SHAPE",
+        "rarity": 1,
+        "image": "iconAddon_jewelry"
+    },
+    {
+        "description": "ナイロン毛のブラシ。髪にハリとやわらかさを出してくれる。<br><li><b>内なる邪悪III</b>の持続時間が<b>そこそこ増加する</b></li><li>初めて<b>内なる邪悪III</b>になるまでに必要な邪悪さの量が<b>少し増加する</b></li>",
+        "name": "ヘアブラシ",
+        "id": 206,
+        "index": "HAIR_BRUSH",
+        "owner": "SHAPE",
+        "rarity": 1,
+        "image": "iconAddon_hairBrush"
+    },
+    {
+        "description": "小さな色付きガラスの欠片で、おそらく壊れた何かの一部。出所を確かめることはできないだろう。<br><li><b>内なる邪悪I</b>のとき、<b>1秒</b>以上凝視した<b>生存者のオーラが視えるようになる</b></li><li><b>3秒間</b>オーラが表示され続ける</li>",
+        "name": "ガラスの破片",
+        "id": 207,
+        "index": "GLASS_FRAGMENT",
+        "owner": "SHAPE",
+        "rarity": 1,
+        "image": "iconAddon_glassFragment"
+    },
+    {
+        "description": "首から尻尾まで引き裂かれた灰色のウサギ。<br><li><b>内なる邪悪II</b>の脅威範囲が<b>そこそこ減少する</b></li><li><b>内なる邪悪III</b>の脅威範囲が<b>そこそこ増加する</b></li>",
+        "name": "ウサギの死体",
+        "id": 208,
+        "index": "DEAD_RABBIT",
+        "owner": "SHAPE",
+        "rarity": 1,
+        "image": "iconAddon_deadRabbit"
+    },
+    {
+        "description": "割れた鏡の鋭く大きなかけら。<br><li>内なる邪悪IIのとき、<b>1秒</b>以上凝視した<b>生存者のオーラが視えるようになる</b></li><li><b>5秒間</b>オーラが表示され続ける</li>",
+        "name": "鏡のかけら",
+        "id": 209,
+        "index": "MIRROR_SHARD",
+        "owner": "SHAPE",
+        "rarity": 2,
+        "image": "iconAddon_mirrorShard"
+    },
+    {
+        "description": "ジュディス・M・マイヤーズの持ち物であることが記された日記。大部分のページが恐ろしい乱雑な落書きがあって読めない。<br><li>1人の生存者に<b>執着する</b></li><li>オブセッション状態の生存者を凝視しているとき、邪悪さが蓄積する割合が<b>かなり増加する</b></li><li><i>オブセッションは1マッチにつき1人のみ。</i></li>",
+        "name": "ジュディスの日記",
+        "id": 210,
+        "index": "JUDITHS_JOURNAL",
+        "owner": "SHAPE",
+        "rarity": 2,
+        "image": "iconAddon_judithsJournal"
+    },
+    {
+        "description": "何の変哲もない木箱。昔はたくさんのものをしまっていたようだ。<br><li>凝視しているときの移動速度が<b>かなり上昇する</b></li>",
+        "name": "ジュエリーボックス",
+        "id": 211,
+        "index": "JEWELRY_BOX",
+        "owner": "SHAPE",
+        "rarity": 2,
+        "image": "iconAddon_jewelryBox"
+    },
+    {
+        "description": "1965年の卒業アルバムからはぎ取られた光沢紙のページ。ジュディス・マイヤーズにささげられる。<br><li>生存者を凝視しているとき、邪悪さが蓄積する割合が<b>そこそこ増加する</b></li>",
+        "name": "J・マイヤーズの思い出",
+        "id": 212,
+        "index": "J_MYERS_MEMORIAL",
+        "owner": "SHAPE",
+        "rarity": 2,
+        "image": "iconAddon_jMyersMemorial"
+    },
+    {
+        "description": "髪の毛を留めるのに使う、タータン柄の青いリボン。<br><li><b>内なる邪悪III</b>の持続時間が<b>かなり増加する</b></li><li>初めて<b>内なる邪悪III</b>になるまでに必要な邪悪さの量が<b>少し増加する</b></li>",
+        "name": "リボンの髪留め",
+        "id": 213,
+        "index": "HAIR_BOW",
+        "owner": "SHAPE",
+        "rarity": 2,
+        "image": "iconAddon_hairBow"
+    },
+    {
+        "description": "埃とフェイスパウダーに薄く覆われている以外は完璧な状態の、スタンドがついた持ち運べる化粧鏡。<br><li><b>内なる邪悪II</b>で凝視中、<b>16メートル以内の生存者のオーラが視えるようになる</b></li><li>内なる邪悪が<b>ティア II</b>より上昇しなくなる</li><li>移動速度が<b>少し低下する</b></li><li><b>攻撃</b>スコアが発生するたびに、ブラッドポイントが<b>残忍カテゴリー</b>に<b>100%</b>追加され、<b>邪悪カテゴリー</b>に<b>150%</b>追加される</li>",
+        "name": "化粧鏡",
+        "id": 214,
+        "index": "VANITY_MIRROR",
+        "owner": "SHAPE",
+        "rarity": 3,
+        "image": "iconAddon_vanityMirror"
+    },
+    {
+        "description": "壊れた墓石から取られた、こぶし大の御影石の欠片。<br><li><b>内なる邪悪III</b>のとき、<b>無傷または負傷している生存者を殺害</b>できるようになる</li><li><b>内なる邪悪III</b>で凝視することが<b>できなくなる</b></li><li>生存者を殺害すると、内なる邪悪の残量が<b>かなり減少する</b></li><li>初めて<b>内なる邪悪III</b>になるまでに必要な邪悪さの量が<b>かなり増加する</b></li>",
+        "name": "墓石の欠片",
+        "id": 215,
+        "index": "TOMBSTONE_PIECE",
+        "owner": "SHAPE",
+        "rarity": 3,
+        "image": "iconAddon_tombstonePiece"
+    },
+    {
+        "description": "スタンドのついた持ち運べる化粧鏡。鋭い金属のようなもので激しい傷をつけられている。<br><li><b>内なる邪悪I</b>で凝視中、<b>32メートル以内の生存者のオーラが視えるようになる</b></li><li>内なる邪悪が<b>ティア I</b>より上昇しなくなる</li><li><b>攻撃</b>スコアが発生するたびに、ブラッドポイントが<b>残忍カテゴリー</b>に<b>100%</b>追加され、<b>邪悪カテゴリー</b>に<b>200%</b>追加される</li>",
+        "name": "傷ついた鏡",
+        "id": 216,
+        "index": "SCRATCHED_MIRROR",
+        "owner": "SHAPE",
+        "rarity": 3,
+        "image": "iconAddon_scratchedMirror"
+    },
+    {
+        "description": "黒いゴムで結われた、金色の毛髪の一房。<br><li><b>内なる邪悪III</b>の持続時間が<b>とてつもなく増加する</b></li><li>初めて<b>内なる邪悪III</b>になるまでに必要な邪悪さの量が<b>そこそこ増加する</b></li>",
+        "name": "髪の毛の房",
+        "id": 217,
+        "index": "LOCK_OF_HAIR",
+        "owner": "SHAPE",
+        "rarity": 3,
+        "image": "iconAddon_lockOfHair"
+    },
+    {
+        "description": "シンクレア山墓地にあった、大きくて重い御影石の墓石。ジュディス・マイヤーズのもの。<br><li><b>内なる邪悪III</b>のとき、<b>無傷または負傷している生存者を殺傷</b>できるようになる</li><li><b>内なる邪悪III</b>になると、凝視することが<b>できなくなる</b></li><li>初めて<b>内なる邪悪III</b>になるまでに必要な邪悪さの量が<b>とてつもなく増加する</b></li><li>移動速度が<b>そこそこ低下する</b></li>",
+        "name": "ジュディスの墓石",
+        "flavor": "「愛する娘、ここに眠る。」",
+        "id": 218,
+        "index": "JUDITHS_TOMBSTONE",
+        "owner": "SHAPE",
+        "rarity": 4,
+        "image": "iconAddon_judithsTombstone"
+    },
+    {
+        "description": "誰かの頭皮から強引に引きちぎられた金髪の毛の束。かすかに女性らしい花のような香りを放っている。<br><li><b>内なる邪悪III</b>の持続時間が<b>無限</b>となる</li><li>初めて<b>内なる邪悪III</b>になるまでに必要な邪悪さの量が<b>とてつもなく増加する</b></li>",
+        "name": "いい香りがする髪の毛の束",
+        "id": 219,
+        "index": "FRAGRANT_TUFT_OF_HAIR",
+        "owner": "SHAPE",
+        "rarity": 4,
+        "image": "iconAddon_tuftOfHair"
+    },
+    {
+        "description": "枯れた植物からできた、ストイックな首飾り。<br><li>魔法陣の設置時間が<b>少し減少する</b></li>",
+        "name": "ロープのネックレス",
+        "id": 250,
+        "index": "ROPE_NECKLET",
+        "owner": "HAG",
+        "rarity": 0,
+        "image": "iconAddon_ropeNecklet"
+    },
+    {
+        "description": "淡い金色に輝く卵の欠片。<br><li>発動した幻像の罠の有効時間が<b>少し増加する</b></li>",
+        "name": "粉々になった卵の殻",
+        "id": 251,
+        "index": "POWDERED_EGGSHELL",
+        "owner": "HAG",
+        "rarity": 0,
+        "image": "iconAddon_powderedEggshell"
+    },
+    {
+        "description": "小さな泥の塊。ハエの死骸で黒ずんでいる。体力をつけるために食される。<br><li>ハグのテレポート可能距離が<b>少し増加する</b></li>",
+        "name": "ハエの死骸が入った泥",
+        "id": 252,
+        "index": "DEAD_FLY_MUD",
+        "owner": "HAG",
+        "rarity": 0,
+        "image": "iconAddon_deadFlyMud"
+    },
+    {
+        "description": "古い薬品の瓶に詰まった淀んだ水。<br><li><b>幻像の罠の有効範囲が</b>少し増加する</li>",
+        "name": "沼の水",
+        "id": 253,
+        "index": "BOG_WATER",
+        "owner": "HAG",
+        "rarity": 0,
+        "image": "iconAddon_bogWater"
+    },
+    {
+        "description": "灰色の毛で覆われている自然のままの花房。<br><li>幻像の罠が発動したとき、生存者のオーラが<b>3秒</b>視えるようになる</li>",
+        "name": "ネコヤナギの花々",
+        "id": 254,
+        "index": "PUSSY_WILLOW_CATKINS",
+        "owner": "HAG",
+        "rarity": 1,
+        "image": "iconAddon_pussyWillowCatkins"
+    },
+    {
+        "description": "半分に割れた丸い卵の殻。<br><li>発動した幻像の罠の有効時間が<b>そこそこ増加する</b></li>",
+        "name": "半分の卵の殻",
+        "id": 255,
+        "index": "HALF_EGGSHELL",
+        "owner": "HAG",
+        "rarity": 1,
+        "image": "iconAddon_halfEggshell"
+    },
+    {
+        "description": "片手ほどの大きさの黄色みがかった羽。乾燥しており、パリパリしている。体力をつけるために食す。<br><li>ハグのテレポート可能距離が<b>そこそこ増加する</b></li>",
+        "name": "トンボの羽",
+        "id": 256,
+        "index": "DRAGONFLY_WINGS",
+        "owner": "HAG",
+        "rarity": 1,
+        "image": "iconAddon_dragonflyWings"
+    },
+    {
+        "description": "枯れた植物で飾られた檜の首飾り。雑に作られており既に苔に覆われている。<br><li><b>幻像の罠の設置時間が</b>そこそこ減少する</li>",
+        "name": "糸杉の首飾り",
+        "id": 257,
+        "index": "CYPRESS_NECKLET",
+        "owner": "HAG",
+        "rarity": 1,
+        "image": "iconAddon_cypressNecklet"
+    },
+    {
+        "description": "睡蓮の葉に包まれている汚れた水。<br><li>幻像の罠の有効範囲が<b>そこそこ増加する</b></li>",
+        "name": "血染めの水",
+        "id": 258,
+        "index": "BLOODIED_WATER",
+        "owner": "HAG",
+        "rarity": 1,
+        "image": "iconAddon_bloodiedWater"
+    },
+    {
+        "description": "脆い柳の枝で組まれた、三角形のリース。<br><li>幻像の罠が発動したとき、生存者のオーラが<b>4秒</b>視えるようになる</li>",
+        "name": "柳のリース",
+        "id": 259,
+        "index": "WILLOW_WREATH",
+        "owner": "HAG",
+        "rarity": 2,
+        "image": "iconAddon_willowWreath"
+    },
+    {
+        "description": "枯れた植物で作られた、固い首飾り。萎びた蘭の花びらと葉で飾られている。<br><li>幻像の罠の設置時間が<b>かなり減少する</b></li>",
+        "name": "湿地蘭のネックレス",
+        "id": 260,
+        "index": "SWAMP_ORCHID_NECKLET",
+        "owner": "HAG",
+        "rarity": 2,
+        "image": "iconAddon_swampOrchidNecklet"
+    },
+    {
+        "description": "うっすらと灰がかかっている大きな沼ゼミ。パリパリしている。体力をつけるために食す。<br><li>ハグのテレポート可能距離が<b>かなり増加する</b></li>",
+        "name": "乾燥したセミ",
+        "id": 261,
+        "index": "DRIED_CICADA",
+        "owner": "HAG",
+        "rarity": 2,
+        "image": "iconAddon_driedCicada"
+    },
+    {
+        "description": "薄橙色のカメの卵。割れており、中身は無くなっている。<br><li>発動した幻像の罠の有効時間が<b>かなり増加する</b></li>",
+        "name": "割れたカメの卵",
+        "id": 262,
+        "index": "CRACKED_TURTLE_EGG",
+        "owner": "HAG",
+        "rarity": 2,
+        "image": "iconAddon_crackedTurtleEgg"
+    },
+    {
+        "description": "深紅色の筋が入っている一握りの泥。入り混じった血が泥に力を与える。<br><li>幻像の罠の有効範囲を<b>かなり拡大する</b></li>",
+        "name": "血が混じった泥",
+        "id": 263,
+        "index": "BLOODIED_MUD",
+        "owner": "HAG",
+        "rarity": 2,
+        "image": "iconAddon_bloodiedMud"
+    },
+    {
+        "description": "切断された、人食い村の肉屋の手。秘められた生命力は、ハグの隠された大いなる能力を解放する。<br><li>泥の幻像に当たり判定が発生する</li><li>ハグが罠にテレポートできなくなる</li><li>邪悪カテゴリーで入手できるブラッドポイントが<b>300%</b>になる</li><li>他のアドオンより効果が勝る</li>",
+        "name": "切り取られた手",
+        "flavor": "「……」- 村の肉屋",
+        "id": 264,
+        "index": "SCARRED_HAND",
+        "owner": "HAG",
+        "rarity": 3,
+        "image": "iconAddon_scarredHand"
+    },
+    {
+        "description": "人食い村の地下室で囚人や死体を拘束するために使われていた枷。秘められた生命力は、ハグの隠された大いなる能力を解放する。<br><li>幻像の罠が発動しても、生存者に何も通知されなくなる</li><li>罠からハグの幻が出現しなくなる</li>",
+        "name": "錆びた枷",
+        "id": 265,
+        "index": "RUSTY_SHACKLES",
+        "owner": "HAG",
+        "rarity": 3,
+        "image": "iconAddon_rustyShackles"
+    },
+    {
+        "description": "人食い村の老人の冷たくなった心臓。秘められた生命力は、ハグの隠された大いなる能力を解放する。<br><li>幻像の罠が発動したとき、ハグの心音範囲が<b>0</b>になる</li><li>泥の幻像の心音範囲が<b>16メートル</b>増加する</li>",
+        "name": "おばあちゃんの心臓",
+        "flavor": "「あの子の肉をもう一切れ持っておいで。」- おばあちゃん",
+        "id": 266,
+        "index": "GRANMAS_HEART",
+        "owner": "HAG",
+        "rarity": 3,
+        "image": "iconAddon_granmasHeart"
+    },
+    {
+        "description": "人食い村の耳が聞こえない少年の耳。頭を何回も殴られたせいで歪んでいる。秘められた生命力は、ハグの隠された大いなる能力を解放する。<br><li>幻像の罠を発動させた生存者の耳を<b>6秒間</b>聞こえなくする</li>",
+        "name": "変形した耳",
+        "id": 267,
+        "index": "DISFIGURED_EAR",
+        "owner": "HAG",
+        "rarity": 3,
+        "image": "iconAddon_disfiguredEar"
+    },
+    {
+        "description": "永らく沼の中で失われていた子供の靴。秘められた生命力は、ハグの隠された大いなる能力を解放する。<br><li>幻像の罠の効果範囲内にいる全ての生存者が<b><i>妨害</i></b>効果に苦しむ</li><li>ハグの移動速度が<b>少し</b>上昇する</li><li>ハグが罠にテレポートできなくなる</li>",
+        "name": "ずぶ濡れの靴",
+        "id": 268,
+        "index": "WATERLOGGED_SHOE",
+        "owner": "HAG",
+        "rarity": 4,
+        "image": "iconAddon_waterloggedShoe"
+    },
+    {
+        "description": "リサ・シャーウッドが失踪した日に着ていた洋服の切れ端。秘められた生命力は、ハグの隠された大いなる能力を解放する。<br><li>ハグがマップ上のどの幻像の罠にもテレポートできるようになる</li><li>テレポートのクールダウンは<b>15秒</b></li>",
+        "name": "ミント柄のぼろきれ",
+        "id": 269,
+        "index": "MINT_RAG",
+        "owner": "HAG",
+        "rarity": 4,
+        "image": "iconAddon_mintRag"
+    },
+    {
+        "description": "カビが生えても弱い電流を通す電極棒。<br><li><b>ショック療法</b>の範囲が<b>少し増加する</b></li>",
+        "name": "カビが生えた電極",
+        "id": 300,
+        "index": "MOLDY_ELECTRODE",
+        "owner": "DOCTOR",
+        "rarity": 0,
+        "image": "iconAddon_moldyElectrode"
+    },
+    {
+        "description": "樫材で出来た白いチェスのナイトの駒。とある老人からの贈り物で、遠い記憶を思い起こさせ、ドクターに凄まじい集中力を与える。<br><li><i>特殊攻撃</i>の<b>ショック療法</b>の効果範囲が表示されるようになる</li>",
+        "name": "楓製のナイト",
+        "id": 301,
+        "index": "MAPLE_KNIGHT",
+        "owner": "DOCTOR",
+        "rarity": 0,
+        "image": "iconAddon_mapleKnight"
+    },
+    {
+        "description": "従来の電気ショック療法。レリー記念研究所の患者に毎日行われていた。患者に軽度のの混乱を引き起こす場合がある。<br><li><b>放電爆破</b>のクールダウンが<b>少し減少する</b></li><br><b>狂気</b>状態の生存者は<i>秩序の症状</i>が出る。<li>破壊されたパレットが<i>幻覚のパレット</i>に置き換わり近づくまで視え続けることがある</li><li><i>幻覚のパレット</i>はランダムな破壊済みパレットの場所に<b>20秒</b>毎に生成される</li><li><b>ドクター</b>は<i>幻覚のパレット</i>のオーラを視ることができる</li>",
+        "name": "「秩序」- クラスI",
+        "id": 302,
+        "index": "ORDER_CLASS_I",
+        "owner": "DOCTOR",
+        "rarity": 0,
+        "image": "iconAddon_orderClassI"
+    },
+    {
+        "description": "様々な精神病を和らげるための低周波を使用する電気ショック療法。カーターのスパークをエネルギー源とするこの処置は、患者に軽度の不安を引き起こす。<br><li><b>放電爆破</b>の準備が整っている間、脅威範囲が<b>少し増加する</b></li><li><b>放電爆破</b>がクールダウンの間、脅威範囲が<b>少し減少する</b></li><br><b>狂気</b>状態の生存者は<i>鎮静の症状</i>を発症する。<li><b>狂気度II</b>：生存者は<i>幻覚の脅威範囲</i>の心音が遠くから<b>断続的に</b>聞こえるようになる</li><li><b>狂気度III</b>：生存者は<i>幻覚の脅威範囲</i>の心音が遠くから<b>絶えず</b>聞こえるようになる</li>",
+        "name": "「鎮静」- クラスI",
+        "id": 303,
+        "index": "CALM_CLASS_I",
+        "owner": "DOCTOR",
+        "rarity": 0,
+        "image": "iconAddon_calmClassI"
+    },
+    {
+        "description": "ほぼホワイトノイズのみが収録された覚醒プロジェクトのカセットテープ。ドクターの精神を開放し、新しい治療方法に目覚めさせる。<br><li><i>特殊アビリティ</i>の<b>ショック療法</b>が<b>ドクター</b>の前<b>8メートル</b>に出現し、放射状から外半径<b>4.2メートル</b>、内半径<b>3メートル</b>のリング状に変化する</li>",
+        "name": "壊れたテープ",
+        "id": 304,
+        "index": "SCRAPPED_TAPE",
+        "owner": "DOCTOR",
+        "rarity": 1,
+        "image": "iconAddon_scrappedTape"
+    },
+    {
+        "description": "新品のような電極装置。電気ショック療法を実施するために標準装備として使われる。<br><li><b>ショック療法</b>の範囲が<b>そこそこ増加する</b></li>",
+        "name": "磨かれた電極",
+        "id": 305,
+        "index": "POLISHED_ELECTRODE",
+        "owner": "DOCTOR",
+        "rarity": 1,
+        "image": "iconAddon_polishedElectrode"
+    },
+    {
+        "description": "覚醒プロジェクトのカセットテープで、被害者のインタビューが未編集で収録されている。ドクターの精神を開放し、新しい治療方法に目覚めさせる。<br><li><i>特殊アビリティ</i>の<b>ショック療法</b>の範囲が、放射状から射程<b>24メートル</b>、幅<b>2メートル</b>のビーム状に変化する</li>",
+        "name": "インタビューテープ",
+        "id": 306,
+        "index": "INTERVIEW_TAPE",
+        "owner": "DOCTOR",
+        "rarity": 1,
+        "image": "iconAddon_interviewTape"
+    },
+    {
+        "description": "霧の中で開発された、実験段階の電気ショック療法。患者とドクターの精神を結びつける周波数を使用する。この処置は、患者に軽度の幻覚症状を引き起こすことで知られている。<br><li>生存者の<b>狂気度</b>が進行したとき、その生存者のオーラを<b>1秒間</b>視ることができる</li><br><b>狂気</b>状態の生存者は<i>抑制の症状</i>を発症する。</li><li><i>幻覚のドクター</i>の出現時間が<b>そこそこ増加する</b></li><li><b>ドクター</b>は<i>幻覚のドクター</i>のオーラを視ることができる</li>",
+        "name": "「抑制」- クラスII",
+        "id": 307,
+        "index": "RESTRAINT_CLASS_II",
+        "owner": "DOCTOR",
+        "rarity": 1,
+        "image": "iconAddon_restraintClassII"
+    },
+    {
+        "description": "高刺激の電気ショック療法。レリー記念研究所の患者に毎日行われていた。患者に中程度の混乱を引き起こす場合がある。<br><li><b>放電爆破</b>のクールダウンが<b>そこそこ減少する</b></li><br><b>狂気</b>状態の生存者は<i>秩序の症状</i>を発症する。<li>破壊されたパレットが<i>幻覚のパレット</i>に置き換わり近づくまで視え続けることがある</li><li><i>幻覚のパレット</i>はランダムな破壊済みパレットの場所に<b>20秒</b>毎に生成される</li><li><b>ドクター</b>は<i>幻覚のパレット</i>のオーラを視ることができる</li><span class=\"FlavorText\">「副作用が起きるのは非常にまれです。」 - レリー記念研究所</span>",
+        "name": "「秩序」- クラスII",
+        "id": 308,
+        "index": "ORDER_CLASS_II",
+        "owner": "DOCTOR",
+        "rarity": 1,
+        "image": "iconAddon_orderClassII"
+    },
+    {
+        "description": "覚醒プロジェクトで懲罰を目的として使用される電気ショック療法。一定量の高圧電流を使用する。患者を中程度の妄想状態にする場合がある。<br><li><b>ショック療法</b>のデトネーションの遅れが<b>少し減少する</b></li><br><b>狂気</b>状態の生存者は<i>懲罰の症状</i>を発症する。<li><b>狂気度II</b>：追いかけられているとき、生存者は<b>6秒間</b>、まるで<b>ドクター</b>が真後ろにいるかのように<i>幻覚の赤い光</i>と<i>脅威範囲</i>を認識する</li><li><b>狂気度III</b>：<i>i幻覚の赤い光</i>と<i>脅威範囲</i>は常に作用している</li><li><b>ドクター</b>は<i>幻覚の赤い光</i>を視ることができる</li><span class=\"FlavorText\">「当研究所では患者の皆さまを再教育するにあたり、細心の注意を払っています。」 - レリー記念研究所</span>",
+        "name": "「懲罰」- クラスII",
+        "id": 309,
+        "index": "DISCIPLINE_CLASS_II",
+        "owner": "DOCTOR",
+        "rarity": 1,
+        "image": "iconAddon_diciplineClassII"
+    },
+    {
+        "description": "様々な精神病を和らげるための低周波を使用する、危険な電気ショック療法。カーターのスパークをエネルギー源とするこの処置は、患者に適度な不安を引き起こす。<br><li><b>放電爆破</b>の準備が整っている間、脅威範囲が<b>そこそこ増加する</b></li><li><b>放電爆破</b>がクールダウンの間、脅威範囲が<b>そこそこ減少する</b></li><br><b>狂気</b>状態の生存者は<i>鎮静の症状</i>が出る。<li><b>狂気度II</b>：生存者は<i>幻覚の脅威範囲</i>の心音が遠くから<b>断続的に</b>聞こえるようになる</li><li><b>狂気度III</b>：生存者は<i>幻覚の脅威範囲</i>の心音が遠くから<b>絶えず</b>聞こえるようになる</li><span class=\"FlavorText\">「電気ショック療法は最も安全な医療処置の一つです」――レリー記念研究所</span>",
+        "name": "「鎮静」- クラスII",
+        "id": 310,
+        "index": "CALM_CLASS_II",
+        "owner": "DOCTOR",
+        "rarity": 1,
+        "image": "iconAddon_calmClassII"
+    },
+    {
+        "description": "超高電圧にも長時間耐えられる電極の試作品。<br><li><b>ショック療法</b>の範囲が<b>かなり増加する</b></li>",
+        "name": "高刺激電極",
+        "id": 311,
+        "index": "HIGH_STIMULUS_ELECTRODE",
+        "owner": "DOCTOR",
+        "rarity": 2,
+        "image": "iconAddon_highStimulusElectrode"
+    },
+    {
+        "description": "霧の中で開発された、実験段階の電気ショック療法。刺激の強い周波数を使用し、患者とドクターの精神を結びつける。この処置は、患者に深刻な幻覚症状を引き起こすことで知られている。<br><li>生存者の<b>狂気度</b>が進行したとき、その生存者のオーラを<b>2秒間</b>視ることができる</li><br><b>狂気</b>状態の生存者は<i>抑制の症状</i>を発症する。<li><i>幻覚のドクター</i>の出現時間が<b>そこそこ増加する</b></li><li><b>ドクター</b>は<i>幻覚のドクター</i> のオーラを視ることができる</li>",
+        "name": "「抑制」- クラスIII",
+        "id": 312,
+        "index": "RESTRAINT_CLASS_III",
+        "owner": "DOCTOR",
+        "rarity": 2,
+        "image": "iconAddon_restraintClassIII"
+    },
+    {
+        "description": "覚醒プロジェクトで懲罰を目的として使用される電気ショック療法。一定量の超高圧電流を使用する。患者を深刻な妄想状態にする場合がある。<br><li><b>ショック療法</b>のデトネーションの遅れが<b>そこそこ減少する</b></li><br><b>狂気</b>状態の生存者は<i>懲罰の症状</i>を発症する。<li><b>狂気度II</b>：追いかけられているとき、生存者は<b>6秒間</b>、まるで<b>ドクター</b>が真後ろにいるかのように<i>幻覚の赤い光</i>と<i>脅威範囲</i>を認識する</li><li><b>狂気度III</b>：<i>i幻覚の赤い光</i>と<i>脅威範囲</i>は常に作用している</li><li><b>ドクター</b>は<i>幻覚の赤い光</i>を視ることができる</li><span class=\"FlavorText\">「患者の皆さまへの敬意が私たちの理念の根幹です。」 - レリー記念研究所</span>",
+        "name": "「懲罰」- クラスIII",
+        "id": 313,
+        "index": "DISCIPLINE_CLASS_III",
+        "owner": "DOCTOR",
+        "rarity": 2,
+        "image": "iconAddon_diciplineClassIII"
+    },
+    {
+        "description": "霧の中で開発された、実験段階の電気ショック療法。乱雑に注釈が書き込まれている。耐え難い周波数を使用し、患者とドクターの精神を結びつける。この処置は、患者に重篤な幻覚症状を引き起こすことで知られている。<br><li>生存者の<b>狂気度</b>が進行したとき、その生存者のオーラを<b>3秒間</b>視ることができる</li><br><b>狂気</b>状態の生存者は<i>抑制の症状</i>を発症する。<br><li><i>幻覚のドクター</i>の出現時間が<b>そこそこ増加する</b></li><li><b>ドクター</b>は<i>幻覚のドクター</i>のオーラを視ることができる</li><span class=\"FlavorText\">「私には彼らの<u>おぞましい</u>疾患が見える。」 - 無記名のメモ</span>",
+        "name": "「抑制」- カーターのメモ",
+        "id": 314,
+        "index": "RESTRAINT_CARTERS_NOTES",
+        "owner": "DOCTOR",
+        "rarity": 3,
+        "image": "iconAddon_restraintCartersNotes"
+    },
+    {
+        "description": "実験段階の電気ショック療法。ハーマン・カーター博士自らの注釈付き。強い刺激を均一に、長時間与えることで患者に重篤な混乱を引き起こす。<br><li><b>放電爆破</b>のクールダウンが<b>かなり減少する</b></li><br><b>狂気</b>状態の生存者は<i>秩序の症状</i>が発症する。<li>破壊されたパレットが<i>幻覚のパレット</i>に置き換わり近づくまで視え続けることがある。</li><li><i>幻覚のパレット</i>はランダムな破壊済みパレットの場所に<b>20秒</b>毎に生成される</li><li><b>ドクター</b>は<i>幻覚のパレット</i>のオーラを視ることができる</li><span class=\"FlavorText\">「刺激は<u>痙攣</u>レベルに維持されなくてはならない。」 - H. カーター</span>",
+        "name": "「秩序」- カーターのメモ",
+        "id": 315,
+        "index": "ORDER_CARTERS_NOTES",
+        "owner": "DOCTOR",
+        "rarity": 3,
+        "image": "iconAddon_orderCartersNotes"
+    },
+    {
+        "description": "覚醒プロジェクトで懲罰を目的として使用される電気ショック療法。ハーマン・カーター博士自らの注釈付き。耐えられないほどの高圧電流により、患者を重篤な妄想状態に陥らせる。<br><li><b>ショック療法</b>のデトネーションの遅れが<b>かなり減少する</b></li><br><b>狂気</b>状態の生存者は<i>懲罰の症状</i>を発症する。<li><b>狂気度II</b>：追いかけられているとき、生存者は<b>6秒間</b>、まるで<b>ドクター</b>が真後ろにいるかのように<i>幻覚の赤い光</i>と<i>脅威範囲</i>を認識する</li><li><b>狂気度III</b>：<i>i幻覚の赤い光</i>と<i>脅威範囲</i>は常に作用している</li><li><b>ドクター</b>は<i>幻覚の赤い光</i>を視ることができる</li><span class=\"FlavorText\">「執拗な被験者の再発を防ぐため、懲罰を与える際には最大レベルを使用するように。」 - H. カーター</span>",
+        "name": "「懲罰」- カーターのメモ",
+        "id": 317,
+        "index": "DISCIPLINE_CARTERS_NOTES",
+        "owner": "DOCTOR",
+        "rarity": 3,
+        "image": "iconAddon_diciplineCartersNotes"
+    },
+    {
+        "description": "実験段階の電気ショック療法。ハーマン・カーター博士自らの注釈付き。様々な精神病を和らげるための低周波を使用する。カーターの電光をエネルギー源とするこの処置は、患者に手に負えない恐怖と不安感を与える。<br><li><b>放電爆破</b>の準備が整っている間、脅威範囲が<b>かなり増加する</b></li><li><b>放電爆破</b>がクールダウンの間、脅威範囲が<b>かなり減少する</b></li><br><b>狂気</b>状態の生存者は<i>鎮静の症状</i>が出る。<li><b>狂気度II</b>：生存者は<i>幻覚の脅威範囲</i>の心音が遠くから<b>断続的に</b>聞こえるようになる</li><li><b>狂気度III</b>：生存者は<i>幻覚の脅威範囲</i>の心音が遠くから<b>絶えず</b>聞こえるようになる</li><span class=\"FlavorText\">「より良質の発作は緊張症を引き起こす。少なくとも、それが続く間は私は<u>平穏</u>でいられる。」 - H. カーター</span>",
+        "name": "「鎮静」- カーターのメモ",
+        "id": 318,
+        "index": "CALM_CARTERS_NOTES",
+        "owner": "DOCTOR",
+        "rarity": 3,
+        "image": "iconAddon_calmCartersNotes"
+    },
+    {
+        "description": "霧から創られたガラスのようなチェスのキングの駒。内部で反響するエンティティの痕跡は、強靭な精神の持ち主さえも狂わせる。<br><br><b>狂気</b>状態の生存者は<i>鎮静、懲罰、秩序</i>、そして<i>抑制の症状</i>を発症する。<li>生存者は<i>幻覚の脅威範囲</i>の心音が遠くから<b>断続的に</b>聞こえるようになる</li><li>追いかけられているとき、生存者はまるで<b>ドクター</b>が真後ろにいるかのように<i>幻覚の赤い光</i>と<i>脅威範囲</i>を認識する。この効果は追跡が終了した時点で<b>狂気度II</b>の場合は<b>6秒間</b>持続し、<b>狂気度III</b>の場合は常に作用する</li><li>破壊されたパレットが<i>幻覚のパレット</i>に置き換わり近づくまで視え続けることがある。新しい<i>幻覚のパレット</i>はランダムな破壊済みパレットの場所に<b>20秒</b>毎に生成される</li><li><i>幻覚のドクター</i>の持続時間が<b>そこそこ増加する</b></li><li><b>ドクター</b>は<i>幻覚の赤い光</i>と、<i>幻覚のドクターおよび幻覚のパレット</i>のオーラを視ることができる</li>",
+        "name": "玉虫色のキング",
+        "flavor": "「玉虫色のガラスを覗き込むことは、狂気の渦に飛び込むということだ。」",
+        "id": 319,
+        "index": "IRIDESCENT_KING",
+        "owner": "DOCTOR",
+        "rarity": 4,
+        "image": "iconAddon_iridescentKing"
+    },
+    {
+        "description": "霧そのものから作られたガラス状のクイーンのチェス駒。触ると相当な電気衝撃を必ず受ける。<br><li><i>特殊アビリティ</i>の<b>ショック療法</b>か<b>放電爆破</b>が命中した生存者は長びく<b>静電気</b>を受ける。 <b>静電気</b> は<i>放電</i>されるまで生存者につきまとう</li><li><b>4メートル</b>以内に同時にいる複数の生存者に<b>ショック療法</b>または<b>放電爆破</b>のいずれかの同じ<i>特殊アビリティ</i>が命中した場合、<b>静電気</b>を受けることはない</li><li>生存者の<b>4メートル</b>以内に<b>静電気</b>を持っている別の生存者がいる場合、その生存者は<i>特殊アビリティ</i>の<b>ショック療法</b>と同じ効果を持つ電撃を受け、<b>静電気</b>は即座に<i>放電される</i></li>",
+        "name": "玉虫色のクイーン",
+        "flavor": "「効果的な治療法を確立すれば、その効果的な提供手段に集中できる。」 - H. カーター",
+        "id": 320,
+        "index": "IRIDESCENT_QUEEN",
+        "owner": "DOCTOR",
+        "rarity": 4,
+        "image": "iconAddon_iridescentQueen"
+    },
+    {
+        "description": "粗すぎて何の役にも立たない石。これで傷がついた刃で切られると、ひどい開放創ができる。<br><li>攻撃が命中した生存者の痛みによるうめき声が<b>50%</b>増大する。うめき声は完全に回復すると通常に戻る</li>",
+        "name": "ザラザラした石",
+        "id": 350,
+        "index": "COARSE_STONE",
+        "owner": "HUNTRESS",
+        "rarity": 0,
+        "image": "iconAddon_coarseStone"
+    },
+    {
+        "description": "水ぶくれのある顔を拭き取るための質素な生地の布切れ。<br><li>手斧を飛ばす速度が<b>10%</b>上昇する</li>",
+        "name": "黄ばんだ布",
+        "id": 351,
+        "index": "YELLOWED_CLOTH",
+        "owner": "HUNTRESS",
+        "rarity": 0,
+        "image": "iconAddon_yellowedCloth"
+    },
+    {
+        "description": "手斧の柄に巻かれた包帯。<br><li>手斧のクールダウンが<b>少し減少する</b></li>",
+        "name": "包帯が巻かれた柄",
+        "id": 352,
+        "index": "BANDAGED_HAFT",
+        "owner": "HUNTRESS",
+        "rarity": 0,
+        "image": "iconAddon_bandagedHaft"
+    },
+    {
+        "description": "手斧の刃に塗る毒。テングダケの毒は頭脳を麻痺させる。<br><li>命中した対象が<b>60秒間</b><b><i>目眩まし</i></b>効果に苦しむ</li><li>重複しない</li>",
+        "name": "テングダケの毒",
+        "id": 353,
+        "index": "AMANITA_TOXIN",
+        "owner": "HUNTRESS",
+        "rarity": 0,
+        "image": "iconAddon_amanitaToxin"
+    },
+    {
+        "description": "変則的な重りの付いた手斧の刃。強打を与えるために作られた。扱うためには腕の筋力が必要。<br><li>命中したターゲットは<b>10秒間</b><b>行動不能</b>のステータス効果に苦しむ</li>",
+        "name": "重りの付いた刃",
+        "id": 354,
+        "index": "WEIGHTED_HEAD",
+        "owner": "HUNTRESS",
+        "rarity": 1,
+        "image": "iconAddon_weightedHead"
+    },
+    {
+        "description": "原型をとどめていないが、未だピカピカに磨かれている銅のブローチ。特に厄介な獲物から奪われた。<br><li>手斧を構えているときの移動速度が<b>少し上昇する</b></li><li>重複しない</li>",
+        "name": "光り輝くブローチ",
+        "id": 355,
+        "index": "SHINY_PIN",
+        "owner": "HUNTRESS",
+        "rarity": 1,
+        "image": "iconAddon_shinyPin"
+    },
+    {
+        "description": "素早く、巧妙に扱うことが出来るよう磨かれた、手斧用の樫製の柄。<br><li>手斧のクールダウンが<b>そこそこ</b>減少する</li>",
+        "name": "樫製の柄",
+        "id": 356,
+        "index": "OAK_HAFT",
+        "owner": "HUNTRESS",
+        "rarity": 1,
+        "image": "iconAddon_oakHaft"
+    },
+    {
+        "description": "ドジョウツナギから作られた、丸い装飾用の編み紐。取り残された幼い存在の記憶により、ハントレスは怒りと集中力で満たされる。<br><li>手斧を構える時間が<b>そこそこ</b>減少する</li>",
+        "name": "ドジョウツナギの編み紐",
+        "id": 357,
+        "index": "MANNA_GRASS_BRAID",
+        "owner": "HUNTRESS",
+        "rarity": 1,
+        "image": "iconAddon_mannaGrassBraid"
+    },
+    {
+        "description": "輪に結ばれた革紐は、ベルトに取り付けることで道具の持ち運びを容易にする。<br><li><b>追加で1本の</b>手斧を持って開始する</li><li>持ち運べる手斧が<b>1本</b>増加する</li>",
+        "name": "革の輪",
+        "id": 358,
+        "index": "LEATHER_LOOP",
+        "owner": "HUNTRESS",
+        "rarity": 1,
+        "image": "iconAddon_leatherLoop"
+    },
+    {
+        "description": "乾燥した花びら。お茶にすると倦怠感や過労を和らげてくれる。<br><li>手斧を飛ばす速度が<b>20％</b>上昇する</li>",
+        "name": "イワベンケイ",
+        "id": 359,
+        "index": "ROSE_ROOT",
+        "owner": "HUNTRESS",
+        "rarity": 2,
+        "image": "iconAddon_roseRoot"
+    },
+    {
+        "description": "なめされた革で作られた手袋は手を守り、しっかりとしたグリップを与えてくれる。<br><li>ロッカーで手斧を補充する時間が<b>そこそこ減少する</b></li>",
+        "name": "鹿革の手袋",
+        "id": 360,
+        "index": "DEERSKIN_GLOVES",
+        "owner": "HUNTRESS",
+        "rarity": 2,
+        "image": "iconAddon_deerskinGloves"
+    },
+    {
+        "description": "手斧の刃に塗られた有毒な調合薬。濁った毒液は、主に目眩を引き起こす効果を持つクサリヘビの毒でできている。<br><li>命中した対象が<b>5秒間</b><b>疲労</b>のステータス効果に苦しむ</li>",
+        "name": "毒性の調合物",
+        "id": 362,
+        "index": "VENOMOUS_CONCOCTION",
+        "owner": "HUNTRESS",
+        "rarity": 2,
+        "image": "iconAddon_venomousConcoction"
+    },
+    {
+        "description": "手斧の刃のところどころに固くて剥がれやすい錆が付着しているため、傷がとても治りづらくなる。<br><li>命中した対象が<b><i>重傷</i></b>のステータス効果に苦しむ</li>",
+        "name": "錆びた刃",
+        "id": 363,
+        "index": "RUSTY_HEAD",
+        "owner": "HUNTRESS",
+        "rarity": 2,
+        "image": "iconAddon_rustyHead"
+    },
+    {
+        "description": "花柄で飾られた、綺麗でカラフルなスカーフ。取り残された幼い存在の記憶により、ハントレスは怒りと集中力で満たされる。<br><li>手斧を構える時間が<b>かなり減少する</b></li>",
+        "name": "花のバブーシュカ",
+        "id": 365,
+        "index": "FLOWER_BABUSHKA",
+        "owner": "HUNTRESS",
+        "rarity": 2,
+        "image": "iconAddon_flowerBabushka"
+    },
+    {
+        "description": "兵士から奪われた丈夫で万能なベルト。多数の革の輪とホルスターは道具を運ぶのに役に立つ。<br><li><b>追加で2本の</b>手斧を持って開始する</li><li>持ち運べる手斧が<b>2本</b>増加する</li>",
+        "name": "歩兵のベルト",
+        "id": 366,
+        "index": "INFANTRY_BELT",
+        "owner": "HUNTRESS",
+        "rarity": 3,
+        "image": "iconAddon_infantryBelt"
+    },
+    {
+        "description": "この世のものとは思えない調合薬は、不吉な光をかすかに放っている。<br><li>手斧が命中した生存者のオーラを<b>5秒間</b>表示する</li>",
+        "name": "鮮やかな調合薬",
+        "id": 367,
+        "index": "GLOWING_CONCOCTION",
+        "owner": "HUNTRESS",
+        "rarity": 3,
+        "image": "iconAddon_glowingConcoction"
+    },
+    {
+        "description": "手斧の頭が汚らわしい何かの染みが付いており、触れたものを誰でも衰弱させる。<br><li>命中した対象が<b><i>重傷</i></b>と<b><i>出血</i></b>のステータス効果に苦しむ。効果は完全に治療されるまで続く</li><li>重複しない</li>",
+        "name": "汚れた斧頭",
+        "id": 368,
+        "index": "BEGRIMED_HEAD",
+        "owner": "HUNTRESS",
+        "rarity": 3,
+        "image": "iconAddon_begrimedHead"
+    },
+    {
+        "description": "大ざっぱに彫られた10センチ足らずの小さな狐の像。隠密さと狡猾さには実力と同等の効力があることを思い出させてくれる。<br><li>リロード後、<b>15秒間</b><i><b>探知不可</b></i>のステータス効果を得る</li>",
+        "name": "木製の狐",
+        "id": 364,
+        "index": "WOODEN_FOX",
+        "owner": "HUNTRESS",
+        "rarity": 3,
+        "image": "iconAddon_woodenFox"
+    },
+    {
+        "description": "霧から創られたガラスのような手斧の刃。刃は温かく、エンティティの力で振動しているかのようだ。<br><li>手斧が命中した無傷の生存者は即座に瀕死状態に陥る</li><li>持ち運ぶ手斧の上限数が<b>1本</b>に設定される</li>",
+        "name": "玉虫色の刃",
+        "flavor": "「玉虫色のガラスは肉と魂を断ち切る。」",
+        "id": 369,
+        "index": "IRIDESCENT_HEAD",
+        "owner": "HUNTRESS",
+        "rarity": 4,
+        "image": "iconAddon_iridescentHead"
+    },
+    {
+        "description": "死んだ兵士から手に入れた布。サポーターとして足首と下腿を保護してくれる。<br><li>手斧を持っていない時のハントレスの移動速度が<b>秒速4.6メートル</b>になる</li>",
+        "name": "兵士の巻きゲートル",
+        "id": 370,
+        "index": "SOLDIERS_PUTTEE",
+        "owner": "HUNTRESS",
+        "rarity": 4,
+        "image": "iconAddon_soldiersPuttee"
+    },
+    {
+        "description": "悪臭がする油。低質な潤滑油として使われている。<br><br><li>生存者への攻撃成功時、チェーンソーのクールダウンが<b>少し減少する</b></li>",
+        "name": "植物油",
+        "id": 400,
+        "index": "VEGETABLE_OIL_C",
+        "owner": "CANNIBAL",
+        "rarity": 0,
+        "image": "iconAddon_vegetableOil"
+    },
+    {
+        "description": "チェーンソーに適した綺麗な点火プラグ。<br><br><li>チャージの回復速度が<b>少し上昇する</b></li>",
+        "name": "点火プラグ",
+        "id": 401,
+        "index": "SPARK_PLUG_C",
+        "owner": "CANNIBAL",
+        "rarity": 0,
+        "image": "iconAddon_sparkPlug"
+    },
+    {
+        "description": "チェーンソーの刃を研ぐためのヤスリ。<br><li>癇癪の持続時間が<b>少し減少する</b></li>",
+        "name": "チェーンソー用ヤスリ",
+        "id": 402,
+        "index": "CHAINSAW_FILE_C",
+        "owner": "CANNIBAL",
+        "rarity": 0,
+        "image": "iconAddon_chainsawFile"
+    },
+    {
+        "description": "小型エンジンが処理できる量の燃料だけを送り込むようにする制御装置。スピードを安定させ、安全にする。<br><br><li>チェーンソーの攻撃を受けても自動的に瀕死状態にならない。</li><li>チェーンソー命中によって得られるブラッドポイントが<b>100%</b>増加する。</li>",
+        "name": "スピードリミッター",
+        "id": 403,
+        "index": "SPEED_LIMITER_C",
+        "owner": "CANNIBAL",
+        "rarity": 0,
+        "image": "iconAddon_speedLimiter"
+    },
+    {
+        "description": "点火システムに多くのガスを送り込むことにより、素早いパワフルな始動が可能になる。<br><br><li>チャージの回復速度が<b>そこそこ上昇する</b></li>",
+        "name": "プライマー・バルブ",
+        "id": 405,
+        "index": "PRIMER_BULB_C",
+        "owner": "CANNIBAL",
+        "rarity": 1,
+        "image": "iconAddon_primerBulb"
+    },
+    {
+        "description": "鉄製の頑丈なバー。長いチェーンに対応。<br><br><li>癇癪を発動する前に、チェーンソーの回転数が<b>少し上昇する</b></li>",
+        "name": "長いガイドバー",
+        "id": 406,
+        "index": "LONG_GUIDE_BAR_C",
+        "owner": "CANNIBAL",
+        "rarity": 1,
+        "image": "iconAddon_longGuideBar"
+    },
+    {
+        "description": "高熱の刃によってもたらされた、チェーンソーのボディを覆う傷跡。これを持つと、暴力的なしつけの記憶のせいで失敗に対する恐怖でいっぱいになる。<br><br><li>チェーンソー使用時の移動速度が<b>少し上昇する</b></li><li>チャージ時間が<b>少し増加する</b></li>",
+        "name": "ナイフの傷",
+        "id": 407,
+        "index": "KNIFE_SCRATCHES",
+        "owner": "CANNIBAL",
+        "rarity": 1,
+        "image": "iconAddon_knifeScratches"
+    },
+    {
+        "description": "黒いガスパイプで作られた、その場しのぎの排気装置。<br><br><li>癇癪の持続時間が<b>そこそこ減少する</b></li>",
+        "name": "自家製マフラー",
+        "id": 408,
+        "index": "HOMEMADE_MUFFLER_C",
+        "owner": "CANNIBAL",
+        "rarity": 1,
+        "image": "iconAddon_homemadeMuffler"
+    },
+    {
+        "description": "生気と活力を与えてくれる、大盛りの温かいチリ。<br><br><br><li>トークン消費時のダッシュ持続時間が<b>少し増加する</b></li><li>掃討チェーンソーの攻撃チャンス時間が<b>少し増加する</b></li>",
+        "name": "チリ",
+        "flavor": "「うまいバーベキューを仕入れたよ。」- ドレイトン・ソーヤー",
+        "id": 411,
+        "index": "CHILI",
+        "owner": "CANNIBAL",
+        "rarity": 1,
+        "image": "iconAddon_chili"
+    },
+    {
+        "description": "粘度が高い黄ばんだ油性物質。ソーヤー家が混合したこの潤滑剤は、住居周りで多目的な用途に使用されている。<br><br><li>癇癪を発動する前に、チェーンソーの回転数が<b>そこそこ上昇する</b></li>",
+        "name": "グリース",
+        "id": 412,
+        "index": "THE_GREASE",
+        "owner": "CANNIBAL",
+        "rarity": 2,
+        "image": "iconAddon_theGrease"
+    },
+    {
+        "description": "チェーンソーのボディを覆うギザギザのマーク。霧の中に生きる闇の魔獣により罰として刻まれた。これを持つと、暴力的なしつけの記憶のせいで失敗に対する恐怖でいっぱいになる。<br><br><li>チェーンソー使用時の移動速度が<b>そこそこ上昇する</b></li><li>チャージ時間が<b>少し増加する</b></li>",
+        "name": "暗獣の刻印",
+        "id": 413,
+        "index": "THE_BEASTS_MARKS",
+        "owner": "CANNIBAL",
+        "rarity": 2,
+        "image": "iconAddon_theBeastsMark"
+    },
+    {
+        "description": "非常に頑丈な刃が取り付けられたチェーン。犠牲者は治療を受けても傷が残る。<br><li>チェーンソーで攻撃された生存者は<b>重傷</b>のステータス効果に苦しむ。",
+        "name": "残虐なチェーン",
+        "id": 414,
+        "index": "GRISLY_CHAIN",
+        "owner": "CANNIBAL",
+        "rarity": 2,
+        "image": "iconAddon_chainsGrisly"
+    },
+    {
+        "description": "チェーンソー用に特殊な配合がなされた油。特別な添加剤で落ちにくくしてある。<br><br><li>脅威範囲に他の生存者がいない状態で生存者1人をチェーンソーでダウンさせると、<b>20秒間</b>その生存者のオーラが視えなくなる</li>",
+        "name": "市販の潤滑剤",
+        "id": 415,
+        "index": "SHOP_LUBRICANT_C",
+        "owner": "CANNIBAL",
+        "rarity": 2,
+        "image": "iconAddon_shopLubricant"
+    },
+    {
+        "description": "汚染物質が付着したチェーン。触れた者を衰弱させる。<br><br><li>チェーンソーが命中した生存者はアイテムを落とす。</li>",
+        "name": "汚れたチェーン",
+        "id": 417,
+        "index": "BEGRIMED_CHAINS_C",
+        "owner": "CANNIBAL",
+        "rarity": 2,
+        "image": "iconAddon_chainsBloody"
+    },
+    {
+        "description": "デプスゲージの角度を深くするための道具。チェーンが\"木\"にさらに食い込むようになる。<br><li>チャージ数が<b>増加する</b></li><li>チャージ時間が<b>少し増加する</b></li><li>掃討チェーンソーの最大速度が<b>少し低下する</b></li>",
+        "name": "デプスゲージ",
+        "id": 419,
+        "index": "DEPTH_GUAGE_RAKE",
+        "owner": "CANNIBAL",
+        "rarity": 3,
+        "image": "iconAddon_depthGaugeRake"
+    },
+    {
+        "description": "耐久力のある軽量なチェーンソーのシャーシ。チェーンソーが扱いやすくなる。<br><br><li>チェーンソーの回転数を上げている間、<b>8メートル</b>以内の生存者のオーラが視えるようになる</li>",
+        "name": "軽量シャーシ",
+        "id": 420,
+        "index": "LIGHT_CHASSIS",
+        "owner": "CANNIBAL",
+        "rarity": 3,
+        "image": "iconAddon_lightChassis"
+    },
+    {
+        "description": "汚れて移りやすい錆がついたチェーン。負傷を治療しづらくする。<br><br><li>チェーンソーで負傷した生存者が<b>90秒</b>間、<b><i>衰弱</i></b>効果に苦しむ</li><li>重複しない</li>",
+        "name": "錆びた鎖",
+        "id": 421,
+        "index": "RUSTED_CHAIN",
+        "owner": "CANNIBAL",
+        "rarity": 3,
+        "image": "iconAddon_chainsRusted"
+    },
+    {
+        "description": "特上肉のおかげで有名になった、大盛りのスパイシーチリ。<br><br><li>トークン消費時のダッシュ持続時間が<b>そこそこ増加する</b></li><li>チェーンソーの攻撃チャンス時間が<b>そこそこ増加する</b></li><br>",
+        "name": "絶品のチリ",
+        "flavor": "「美味しさの秘密は肉にあるのですよ。」- ドレイトン・ソーヤー",
+        "id": 422,
+        "index": "AWARD_WINNING_CHILI",
+        "owner": "CANNIBAL",
+        "rarity": 3,
+        "image": "iconAddon_awardwinningChili"
+    },
+    {
+        "description": "滑らかで若い肉体を薄く切ったもの。発光性の輝きに光る血液は、今なお生気が漂うようだ。<br><br><li>チェーンソーで生存者に攻撃を命中させると、チャージが回復する</li><li>癇癪の最大持続時間を8秒間に制限する</li><br>",
+        "name": "玉虫色の刃",
+        "flavor": "「今起きていることが現実だと受け止められない時ってあるのよ。自分を窮地に追いやれば、あなたもそれがわかるかもしれないわ。」 —パム・ジョーンズ",
+        "id": 423,
+        "index": "IRIDESCENT_FLESH",
+        "owner": "CANNIBAL",
+        "rarity": 4,
+        "image": "iconAddon_iridescentFlesh"
+    },
+    {
+        "description": "チェーンソーのキャブレターの調整方法について乱暴に書かれた説明書。<br><li>チェーンソーダッシュを行うと自動的にチャージがすべて消費される。</li><li>チェーンソーダッシュの持続時間が<b>少し増加する</b></li><li>掃討チェーンソーの最大速度が<b>少し低下する</b></li>",
+        "name": "キャブレター調整ガイド",
+        "id": 424,
+        "index": "CARBURETOR_TUNING_GUIDE",
+        "owner": "CANNIBAL",
+        "rarity": 4,
+        "image": "iconAddon_carburetorTuningGuide"
+    },
+    {
+        "description": "ある少年の、オレンジと黄色の縞模様のシャツ。「ジェシー」という名前タグが縫い付けられている。<br>生存者が<b>ドリームワールド</b>にいる場合：<li><i>治療</i>と<i>修理</i>の進行度のペナルティが<b>少し上昇する</b></li>",
+        "name": "ウールのシャツ",
+        "id": 450,
+        "index": "WOOL_SHIRT",
+        "owner": "NIGHTMARE",
+        "rarity": 0,
+        "image": "iconAddon_woolShirt"
+    },
+    {
+        "description": "「S」の文字と草を食べるモコモコの子羊2頭が描かれている白と青の木製のブロック。<li>生存者が<b>ドリームスネア</b>か<b>ドリームパレット</b>にアクションを起こすと、その生存者は30 秒間、<b>目眩まし効果</b> を受ける。</li>",
+        "name": "羊のブロック",
+        "id": 451,
+        "index": "SHEEP_BLOCK",
+        "owner": "NIGHTMARE",
+        "rarity": 0,
+        "image": "iconAddon_sheepBlock"
+    },
+    {
+        "description": "明らかに幼い子供が描いた作者不明の絵。<li>生存者が<b>ドリームスネア</b>を踏むと、<b>邪悪カテゴリー</b>の<b>ブラッドポイントを追加で200獲得することができる。</b></li><li><b>ドリームスネア</b>の速度低下が<b>かなり減少</b>する。</li>",
+        "name": "子供の絵",
+        "id": 452,
+        "index": "KIDS_DRAWING",
+        "owner": "NIGHTMARE",
+        "rarity": 0,
+        "image": "iconAddon_kidsDrawing"
+    },
+    {
+        "description": "腕利きの庭師であれば誰もが持つべき小さな熊手。<br><b>ドリームスネア</b>を<b>ドリームパレット</b>と交換する。<li>7<b>ドリームトークン</b></li>",
+        "name": "庭用熊手",
+        "id": 453,
+        "index": "GARDEN_RAKE",
+        "owner": "NIGHTMARE",
+        "rarity": 0,
+        "image": "iconAddon_gardenRake"
+    },
+    {
+        "description": "茂みの刈り込みに便利な自家製ツール。<li><b>ドリームスネア</b>を<b>ドリームパレット</b>と交換する。</li><li>7<b>ドリームトークン</b></li><li>生存者が<b>ドリームパレット</b>にアクションを行うと、<b>4秒間</b><i>ナイトメア</i>にオーラが視えるようになる</li>",
+        "name": "爪の試作品",
+        "id": 454,
+        "index": "PROTOTYPE_CLAWS",
+        "owner": "NIGHTMARE",
+        "rarity": 1,
+        "image": "iconAddon_prototypeClaw"
+    },
+    {
+        "description": "丈夫な屋外用ロープ。色んなものを縛るのに役立つ。<br><b>ドリームワールド</b>にいる生存者が<li>発電機を修理する音が<b>8メートル</b>離れた距離から聞こえる</li>",
+        "name": "屋外用ロープ",
+        "id": 455,
+        "index": "OUTDOOR_ROPE",
+        "owner": "NIGHTMARE",
+        "rarity": 1,
+        "image": "iconAddon_outdoorRope"
+    },
+    {
+        "description": "フゼインで描かれたラフで大胆なスケッチ画。ナンシー・Hの署名が入っている。<li><b>ドリームワールド</b>にいる生存者1人につき、<b>ドリームプロジェクション</b>の特殊能力回復速度が<b>少し上昇</b>する。</li>",
+        "name": "ナンシーのスケッチ",
+        "id": 456,
+        "index": "NANCYS_SKETCH",
+        "owner": "NIGHTMARE",
+        "rarity": 1,
+        "image": "iconAddon_nancysSketch"
+    },
+    {
+        "description": "ある少女の、白い絹のリボンが付いた緑色のドレス。<br>生存者が<b>ドリームワールド</b>にいる場合：<li><i>治療</i>と<i>修理</i>の進行度のペナルティが<b>少し上昇する</b></li><li>生存者が<i>治療</i>または<i>修理</i>のスキルチェックに失敗すると<b>3 秒間</b>、<i>ナイトメア</i>は生存者のオーラを視ることができる</li>",
+        "name": "緑のドレス",
+        "id": 457,
+        "index": "GREEN_DRESS",
+        "owner": "NIGHTMARE",
+        "rarity": 1,
+        "image": "iconAddon_greenDress"
+    },
+    {
+        "description": "白と紫色の木製ブロック。「C」の文字と眠っている猫が描かれている。<li>生存者が<b>ドリームスネア</b>または<b>ドリームパレット</b>にアクションを起こすと、その生存者は60 秒間、<b>出血効果</b>に苦しむ。</li>",
+        "name": "猫のブロック",
+        "id": 458,
+        "index": "CAT_BLOCK",
+        "owner": "NIGHTMARE",
+        "rarity": 1,
+        "image": "iconAddon_catBlock"
+    },
+    {
+        "description": "白と赤の木製ブロック。「U」の文字と跳ねるユニコーンが描かれている。<li>生存者が<b>ドリームスネア</b>か<b>ドリームパレット</b>にアクションを起こすと、その生存者は60 秒間、<b>目眩まし効果</b> を受ける。</li>",
+        "name": "ユニコーンのブロック",
+        "id": 459,
+        "index": "UNICORN_BLOCK",
+        "owner": "NIGHTMARE",
+        "rarity": 2,
+        "image": "iconAddon_unicornBlock"
+    },
+    {
+        "description": "ブランコの椅子をしっかり固定するために使われる、錆びているが丈夫なチェーン。<br>生存者が<b>ドリームワールド</b>にいる間、<li>足音が<b>50%増大する</b></li>",
+        "name": "スイングチェーン",
+        "id": 460,
+        "index": "SWING_CHAINS",
+        "owner": "NIGHTMARE",
+        "rarity": 3,
+        "image": "iconAddon_swingChains"
+    },
+    {
+        "description": "思い出として大切に保管されている、ナンシー・ホルブルックがバダム幼稚園で描いた肖像画。<li><b>ドリームワールド</b>にいる生存者1人につき、<b>ドリームプロジェクション</b>の特殊能力回復速度が<b>かなり上昇</b>する。</li>",
+        "name": "ナンシーの最高傑作",
+        "id": 461,
+        "index": "NANCYS_MASTERPIECE",
+        "owner": "NIGHTMARE",
+        "rarity": 2,
+        "image": "iconAddon_nancysMasterpiece"
+    },
+    {
+        "description": "ダブルダッチ縄跳び用の縄。長年の使用で汚れている。<br>生存者が<b>ドリームワールド</b>にいる間、<li>痛みによるうめき声が<b>50%増大する</b></li>",
+        "name": "縄跳び用の縄",
+        "id": 462,
+        "index": "JUMP_ROPE",
+        "owner": "NIGHTMARE",
+        "rarity": 2,
+        "image": "iconAddon_jumpRope"
+    },
+    {
+        "description": "ある少女の、白いレースが付いた淡い青色のドレス。前面が大きく引き裂かれ、台無しになっている。<br>生存者が<b>ドリームワールド</b>にいる場合：<li><i>治療</i>と<i>修理</i>の進行度のペナルティが<b>少し上昇する</b></li><li>生存者が<i>治療</i>または<i>修理</i>のスキルチェックに失敗すると<b>4 秒間</b>、<i>ナイトメア</i>は生存者のオーラを視ることができる</li>",
+        "name": "青いドレス",
+        "id": 463,
+        "index": "BLUE_DRESS",
+        "owner": "NIGHTMARE",
+        "rarity": 2,
+        "image": "iconAddon_blueDress"
+    },
+    {
+        "description": "かつてゾネラルという錠剤が入っていた空の容器。<li>生存者が<i>ナイトメア</i>を断続的に視認できる範囲が<b>12メートル</b>～<b>24メートル</b>に減少する。</li><li><i>ナイトメア</i>は生存者から<b>24メートル</b>以上離れている場合、視認されない。</li><li><i>ナイトメア</i>は生存者を運んでいる間、起床した生存者に視認されない。</li>",
+        "name": "錠剤の容器",
+        "id": 464,
+        "index": "PILL_BOTTLE",
+        "owner": "NIGHTMARE",
+        "rarity": 3,
+        "image": "iconAddon_pillBottle"
+    },
+    {
+        "description": "非常に揮発性と引火性が高い物質が入った缶。<li><b>ドリームスネア</b>を<b>ドリームパレット</b>と交換する</li><li>7<b>ドリームトークン</b></li><li>生存者が<b>ドリームパレット</b>にアクションを行うと、<b>6秒間</b><i>ナイトメア</i>にオーラが視えるようになる</li>",
+        "name": "塗料用シンナー",
+        "id": 465,
+        "index": "PAINT_THINNER",
+        "owner": "NIGHTMARE",
+        "rarity": 2,
+        "image": "iconAddon_paintThinner"
+    },
+    {
+        "description": "バダム幼稚園の賑やかな94～95年組が映っている大きな写真。<li><b>ドリームプロジェクション</b>がキャンセルできなくなった。</li><li><b>ナイトメア</b>が<b>ドリームプロジェクション</b>を発動している間、すべての発電機から血が噴き出る。</li><li><b>ドリームプロジェクション</b>を使用しても<i>ナイトメア</i>の姿が現れなくなる。</li>",
+        "name": "クラス写真",
+        "id": 466,
+        "index": "CLASS_PHOTO",
+        "owner": "NIGHTMARE",
+        "rarity": 3,
+        "image": "iconAddon_classPhoto"
+    },
+    {
+        "description": "深い傷のある焼けた木製ブロック。判別できる特徴は「Z」の文字しかない。<li>生存者が<b>ドリームスネア</b>か<b>ドリームパレット</b>にアクションを起こすと、その生存者は<b>60 秒間</b>、<b>出血効果<b> を受ける。</li><li>無傷の生存者は<b>出血効果が消えるまで出血する。</li>",
+        "name": "Zのブロック",
+        "id": 467,
+        "index": "Z_BLOCK",
+        "owner": "NIGHTMARE",
+        "rarity": 3,
+        "image": "iconAddon_zBlock"
+    },
+    {
+        "description": "赤い塗料で濡れている大きな赤いペイントブラシ。<li>すべての生存者が<b>ドリームワールド</b>から儀式を開始する。</li><li><b>ドリームワールド</b>では、スキルチェックに失敗しても生存者が起床しない。</li>",
+        "name": "赤いペイントブラシ",
+        "id": 468,
+        "index": "RED_PAINT_BRUSH",
+        "owner": "NIGHTMARE",
+        "rarity": 4,
+        "image": "iconAddon_redPaintBrush"
+    },
+    {
+        "description": "写真がたくさん詰まった黒い段ボール箱。<br>生存者が<b>ドリームワールド</b>にいる間、<li>開いて間もない脱出ゲートが<b>15秒間</b>封鎖される</li>",
+        "name": "黒い箱",
+        "id": 469,
+        "index": "BLACK_BOX",
+        "owner": "NIGHTMARE",
+        "rarity": 4,
+        "image": "iconAddon_blackBox"
+    },
+    {
+        "description": "ジグソウボックスの改造。部品に塗られた潤滑油のせいで、中を調べるのにより繊細な動きが必要になる。<br><li>ジグソウボックスを操作するときにスキルチェックが発動する確率が<b>少し増加する</b></li>",
+        "name": "工場の潤滑油",
+        "id": 500,
+        "index": "WORKSHOP_GREASE",
+        "owner": "PIG",
+        "rarity": 0,
+        "image": "iconAddon_workshopGrease"
+    },
+    {
+        "description": "壊れた人生の象徴。過去の自分を回想することで、決意を固くする。<br><li>奇襲攻撃に失敗したときのクールダウンが<b>少し減少する</b></li>",
+        "name": "割られた注射器",
+        "id": 501,
+        "index": "SHATTERED_SYRINGE",
+        "owner": "PIG",
+        "rarity": 0,
+        "image": "iconAddon_shatteredSyringe"
+    },
+    {
+        "description": "とあるがん患者のカルテ。読んだ者を恐怖感とやけくそな気分で満たす。<br><li>奇襲攻撃の溜め時間が<b>少し減少する</b></li>",
+        "name": "ジョンのカルテ",
+        "id": 502,
+        "index": "JOHNS_MEDICAL_FILE",
+        "owner": "PIG",
+        "rarity": 0,
+        "image": "iconAddon_johnsMedicalFile"
+    },
+    {
+        "description": "素早く動き回れるように、服の裾を固定する革紐。<br><li>しゃがむまでの時間が<b>少し減少する</b></li>",
+        "name": "軍用の革紐",
+        "id": 503,
+        "index": "COMBAT_STRAPS",
+        "owner": "PIG",
+        "rarity": 0,
+        "image": "iconAddon_combatStraps"
+    },
+    {
+        "description": "ゲームのルールをアマンダに説明しているジグソウの録画ビデオ。過去の自分を回想することで、決意を固くする。<br><li>奇襲攻撃の溜め時間が<b>少し減少する</b></li><li>奇襲攻撃に失敗したときのクールダウンが<b>少し減少する</b></li>",
+        "name": "ビデオテープ",
+        "id": 504,
+        "index": "VIDEO_TAPE",
+        "owner": "PIG",
+        "rarity": 1,
+        "image": "iconAddon_videoTape"
+    },
+    {
+        "description": "逆トラバサミを改造する。<br>罠の内側に取り付けられた鋭い刃が、犠牲者が動く度に深く傷つける。<br><li>逆トラバサミを取り付けられた生存者が<b><i>出血</i></b>効果に苦しむ</li>",
+        "name": "万能な刃物",
+        "id": 505,
+        "index": "UTILITY_BLADES",
+        "owner": "PIG",
+        "rarity": 1,
+        "image": "iconAddon_utilityBlades"
+    },
+    {
+        "description": "ジグソウボックスの改造。カミソリのように切れるワイヤーを追加することで中を調べるのがさらに困難になり、また苦痛の可能性を伴うものになる。<br><li>ジグソウボックスを操作するときに、スキルチェックが発動する確率が<b>そこそこ増加する</b></li>",
+        "name": "カミソリワイヤー",
+        "id": 506,
+        "index": "RAZOR_WIRES",
+        "owner": "PIG",
+        "rarity": 1,
+        "image": "iconAddon_razerWire"
+    },
+    {
+        "description": "遺言の一部として提供された木箱。掛けがねがかかり、サテンの裏地でしつらえられている。<br><li>使用可能な逆トラバサミが<b>1つ</b><b>増加する</b><br>",
+        "name": "遺言",
+        "id": 507,
+        "index": "LAST_WILL",
+        "owner": "PIG",
+        "rarity": 1,
+        "image": "iconAddon_lastWill"
+    },
+    {
+        "description": "逆トラバサミを改造する。<br>鎮静剤を塗った厚手の布製フェイスマスクが対象の呼吸をある程度阻害し、集中できないようにする。<br><li>逆トラバサミを取り付けられた生存者が<b><i>目眩まし</i></b>効果に苦しむ</li><li>ジグソウボックスのハイライトには影響しない</li>",
+        "name": "フェイスマスク",
+        "id": 508,
+        "index": "FACE_MASK",
+        "owner": "PIG",
+        "rarity": 1,
+        "image": "iconAddon_faceMask"
+    },
+    {
+        "description": "逆トラバサミを改造する。<br>罠の内側に取り付けられた鋭い刃が、犠牲者が動く度に深く傷つける。<br><li>逆トラバサミを取り付けられた生存者が<b><i>疲労</i></b>効果に苦しむ</li>",
+        "name": "緩効性毒物",
+        "id": 509,
+        "index": "SLOW_RELEASE_TOXIN",
+        "owner": "PIG",
+        "rarity": 2,
+        "image": "iconAddon_slowReleaseToxin"
+    },
+    {
+        "description": "逆トラバサミの改造。逆トラバサミの刃が剥がれやすいサビでまだらに覆われており、傷の治療が著しく困難になる。<br><li>逆トラバサミを取り付けられた負傷状態の生存者が<b><i>重傷</i></b>のステータス効果に苦しむ</li>",
+        "name": "錆びた付属品",
+        "id": 510,
+        "index": "RUSTY_ATTACHMENTS",
+        "owner": "PIG",
+        "rarity": 2,
+        "image": "iconAddon_rustyAttachments"
+    },
+    {
+        "description": "不穏だが天才的な罠の設計図。詳細にスケッチされている。<br><li>使用可能なジグソウボックスが<b>1つ</b><b>増加する</b></li>",
+        "name": "ジグソウのスケッチ",
+        "id": 511,
+        "index": "JIGSAWS_SKETCH",
+        "owner": "PIG",
+        "rarity": 3,
+        "image": "iconAddon_jigsawsSketch"
+    },
+    {
+        "description": "ジグソウボックスを改造する。<br>重なり合うカミソリの刃を追加することにより、ジグソウボックス内で手首を切り裂かれずに急に動くことが不可能になる。<br><li>ジグソウボックスでスキルチェック失敗をした時のペナルティが<b>とてつもなく増加する</b></li>",
+        "name": "重なり合うカミソリ刃",
+        "id": 512,
+        "index": "INTERLOCKING_RAZOR",
+        "owner": "PIG",
+        "rarity": 2,
+        "image": "iconAddon_jigsawsSketch"
+    },
+    {
+        "description": "数点の機械部品。難しいジグソウボックスと、取り付けが簡単な逆トラバサミを作れるようになる。<br><li>生存者がジグソウボックスを調べる時間が<b>少し増加する</b></li><li>逆トラバサミを設置する時間が<b>少し減少する</b></li>",
+        "name": "機械部品の袋",
+        "id": 513,
+        "index": "BAG_OF_GEARS",
+        "owner": "PIG",
+        "rarity": 2,
+        "image": "iconAddon_bagOfGears"
+    },
+    {
+        "description": "改造されたタイマー。装置に仕掛けられたばねによって歯車の回転速度が上がる。<br><li>逆トラバサミの死亡タイマーが<b>そこそこ減少する</b></li>",
+        "name": "改造タイマー",
+        "id": 514,
+        "index": "TAMPERED_TIMER",
+        "owner": "PIG",
+        "rarity": 3,
+        "image": "iconAddon_tamperedTimer"
+    },
+    {
+        "description": "不穏だが天才的な罠の設計図。ジグソウの注釈付きで紙に記されている。<br><li>使用可能なジグソウボックスが<b>1つ</b><b>増加する</b></li><li>逆トラバサミの死亡タイマーが<b>そこそこ増加する</b></li>",
+        "name": "ジグソウの注釈付き設計図",
+        "id": 515,
+        "index": "JIGSAWS_ANNOTATED_PLAN",
+        "owner": "PIG",
+        "rarity": 2,
+        "image": "iconAddon_jigsawsAnnotatedPlan"
+    },
+    {
+        "description": "機械部品のコレクション。非常に難しいジグソウボックスと取り付けが簡単な逆トラバサミを作れるようになる。<br><li>生存者がジグソウボックスを調べる時間が<b>かなり増加する</b></li><li>生存者に逆トラバサミを設置する時間が<b>そこそこ減少する</b></li>",
+        "name": "機械部品の箱",
+        "id": 516,
+        "index": "CRATE_OF_GEARS",
+        "owner": "PIG",
+        "rarity": 3,
+        "image": "iconAddon_crateOfGears"
+    },
+    {
+        "description": "1本のナイフと、包帯や湿布などの医療品が入った黒い金属の箱。深い切り傷はストレスを減らし、感覚を呼び覚ます。<br><li>ピッグがジグソウボックスのオーラを視る能力を<b>無効にする</b></li><li>生存者が逆トラバサミを除去したとき、<b>それを感知できる</b></li><li>逆トラバサミを除去している生存者のオーラが<b>6秒間</b>視えるようになる</li>",
+        "name": "アマンダの秘密",
+        "id": 517,
+        "index": "AMANDAS_SECRET",
+        "owner": "PIG",
+        "rarity": 3,
+        "image": "iconAddon_amandasSecret"
+    },
+    {
+        "description": "全てのゲームが同じルールである必要はない。<br><li>罠のタイマーが作動するまでの間、<br>生存者がジグソウボックスのオーラを視る能力を<b>無効にする</b></li>",
+        "name": "ルールセットNo.2",
+        "flavor": "「よく聞け、ゲームにはルールがある」- ジグソウ",
+        "id": 518,
+        "index": "RULES_SET_NO_2",
+        "owner": "PIG",
+        "rarity": 4,
+        "image": "iconAddon_rulesSetN2"
+    },
+    {
+        "description": "アマンダ宛の脅迫の手紙。読んだ者は怒りと集中力に満ちる。<br><li>しゃがんでいる間、12メートル以内の生存者のオーラを視ることができる</li><li>使用可能な逆トラバサミの数が<b>3つ</b><b>減少する</b></li><li>使用可能なジグソウボックスの数が<b>2つ</b><b>減少する</b></li>",
+        "name": "アマンダへの手紙",
+        "flavor": "「ジルが流産した夜、君はセシルといた。彼らの子供を君が殺した。君も、俺だってわかっている事実だ。」- アマンダの手紙",
+        "id": 519,
+        "index": "AMANDAS_LETTER",
+        "owner": "PIG",
+        "rarity": 4,
+        "image": "iconAddon_amandasLetter"
+    },
+    {
+        "description": "疲れた足には心地良い、カビの生えた靴の中底。<br><li>ボトルのリロード中の移動速度が<b>そこそこ</b>増加する</li>",
+        "name": "臭い中敷",
+        "id": 550,
+        "index": "SMELLY_INNER_SOLES",
+        "owner": "CLOWN",
+        "rarity": 2,
+        "image": "iconAddon_smellyInnerSoles"
+    },
+    {
+        "description": "柔らかい手触りの、暖かいオレンジ色の羽。<br><li>ボトル投げのクールダウンが<b>少し</b>減少する</li>",
+        "name": "コマドリの羽根",
+        "id": 551,
+        "index": "ROBIN_FEATHER",
+        "owner": "CLOWN",
+        "rarity": 0,
+        "image": "iconAddon_robinFeather"
+    },
+    {
+        "description": "標準的なクラウンの衣装の一部。指の部分を切り落とすことで器用さが増す。\n<li>投げたボトルの曲線が変わる</li>\n",
+        "name": "指あきのパレード用手袋",
+        "id": 552,
+        "index": "FINGERLESS_PARADE_GLOVES",
+        "owner": "CLOWN",
+        "rarity": 0,
+        "image": "iconAddon_fingerlessParadeGloves"
+    },
+    {
+        "description": "麻酔用の有機化合物。<br><li>中毒の効果時間が<b>少し</b>増加する</li>",
+        "name": "パーティー用ボトル",
+        "id": 553,
+        "index": "PARTY_BOTTLE",
+        "owner": "CLOWN",
+        "rarity": 0,
+        "image": "iconAddon_partyBottle"
+    },
+    {
+        "description": "寸劇のトニックのボトルに驚くほどピッタリとフィットする丈夫なコルク。<br><li>リロード時間が<b>そこそこ</b>減少する</li>",
+        "name": "厚いコルク栓",
+        "id": 554,
+        "index": "THICK_CORK_STOPPER",
+        "owner": "CLOWN",
+        "rarity": 1,
+        "image": "iconAddon_thickCorkStopper"
+    },
+    {
+        "description": "乾燥したソーダと血でネバネバした空のボトル。<br><li>開始時のボトルが<b>1本</b>追加される</li><li>持ち運べるボトルの本数が<b>1本</b>増加する</li>",
+        "name": "ネバネバしたソーダボトル",
+        "id": 555,
+        "index": "STICKY_SODA_BOTTLE",
+        "owner": "CLOWN",
+        "rarity": 1,
+        "image": "iconAddon_stickySodaBottle"
+    },
+    {
+        "description": "とても柔らかい手触りの、エメラルドの光沢を持つ黒い羽。<br><li>ボトル投げのクールダウンが<b>そこそこ</b>減少する</li>",
+        "name": "ムクドリの羽",
+        "id": 556,
+        "index": "STARLING_FEATHER",
+        "owner": "CLOWN",
+        "rarity": 1,
+        "image": "iconAddon_starlingFeather"
+    },
+    {
+        "description": "揮発性の化学化合物。呼吸器に炎症を引き起こすが、寸劇の解毒剤の吸収性を増加させる。<br><li>活発の持続時間が<b>そこそこ</b>増加する</li>",
+        "name": "溶剤の器",
+        "id": 557,
+        "index": "SOLVENT_JUG",
+        "owner": "CLOWN",
+        "rarity": 1,
+        "image": "iconAddon_solventJug"
+    },
+    {
+        "description": "吸入すると頭が麻痺する、薄い透明の可燃性の液体。<br><li>中毒になった対象が<b>30秒間</b><b>目眩まし</b>効果に苦しむ</li>",
+        "name": "灯油缶",
+        "id": 558,
+        "index": "KEROSENE_CAN",
+        "owner": "CLOWN",
+        "rarity": 1,
+        "image": "iconAddon_keroseneCan"
+    },
+    {
+        "description": "古典的名作。同じレベルのものは二度とお目にかかれない。<br><li>寸劇のトニックのガスが黄色になる</li><li>寸劇の解毒剤のガスが紫になる</li>",
+        "name": "VHSポルノビデオ",
+        "id": 559,
+        "index": "VHS_PORN",
+        "owner": "CLOWN",
+        "rarity": 0,
+        "image": "iconAddon_vhsPorn"
+    },
+    {
+        "description": "無臭で粘着性の、腐食性の高い液体。<br><li>中毒になった対象が<b>重傷</b>のステータス効果に苦しむ</li>",
+        "name": "硫酸の瓶",
+        "id": 560,
+        "index": "SULFURIC_ACID_VIAL",
+        "owner": "CLOWN",
+        "rarity": 2,
+        "image": "iconAddon_sulfuricAcidVial"
+    },
+    {
+        "description": "炎症、火傷、肺の損傷を引き起こす強力な化学薬品。<br>中毒になった対象が<b>そこそこ</b>余分に<b>妨害</b>のペナルティを受ける。",
+        "name": "ブリーチのフラスコ",
+        "id": 561,
+        "index": "FLASK_OF_BLEACH",
+        "owner": "CLOWN",
+        "rarity": 2,
+        "image": "iconAddon_flaskOfBleach"
+    },
+    {
+        "description": "寸劇の解毒剤のガス範囲が<b>そこそこ</b>拡大する。",
+        "name": "アンモニア水",
+        "id": 562,
+        "index": "SPIRIT_OF_HARTSHORN",
+        "owner": "CLOWN",
+        "rarity": 2,
+        "image": "iconAddon_spiritOfHartshorn"
+    },
+    {
+        "description": "強い麻酔作用がある、甘い匂いのする有機化合物。<br><li>寸劇のトニックの効果範囲が<b>そこそこ</b>増加する</li>",
+        "name": "クロロホルムのボトル",
+        "id": 563,
+        "index": "BOTTLE_OF_CHLOROFORM",
+        "owner": "CLOWN",
+        "rarity": 2,
+        "image": "iconAddon_bottleOfChloroform"
+    },
+    {
+        "description": "半分は顔に、半分はトニックに使用。未知の化合物が解毒剤の効果を増大させる。<br><li>活発の持続時間が<b>かなり</b>増加する</li>",
+        "name": "派手なメイク道具",
+        "id": 564,
+        "index": "GARISH_MAKEUP_KIT",
+        "owner": "CLOWN",
+        "rarity": 3,
+        "image": "iconAddon_garishMakeupKit"
+    },
+    {
+        "description": "安上がりに酔えるが、ひどい頭痛をもたらすジンが入っていたボトル。<br><li>開始時のボトルが<b>2本</b>追加される</li><li>持ち運べるボトルの数が<b>2つ</b>増加する</li>",
+        "name": "安物のジンボトル",
+        "id": 565,
+        "index": "CHEAP_GIN_BOTTLE",
+        "owner": "CLOWN",
+        "rarity": 3,
+        "image": "iconAddon_cheapGinBottle"
+    },
+    {
+        "description": "有毒な状態にまで濃縮された、揮発性の高い有機化合物。<br><li>中毒の効果時間が<b>かなり</b>増加する</li>",
+        "name": "15vol% のエーテル",
+        "id": 566,
+        "index": "ETHER_15_VOL",
+        "owner": "CLOWN",
+        "rarity": 3,
+        "image": "iconAddon_ether15"
+    },
+    {
+        "description": "おぞましい、不完全な指のコレクション。クラウンの願望を膨らませ、化学薬品の製造能力に集中させる。<br><li>活発になった生存者や殺人鬼は、16メートルの範囲内にいる他の生存者や殺人鬼全員のオーラが視えるようになる</li>",
+        "name": "葉巻の箱",
+        "id": 567,
+        "index": "CIGAR_BOX",
+        "owner": "CLOWN",
+        "rarity": 3,
+        "image": "iconAddon_cigarBox"
+    },
+    {
+        "description": "入れ墨のある大柄な男の貴重な中指。かすかに機械油の味がする。<br><li>中毒または活発になった生存者のオーラを<b>6秒間</b>視ることができる</li>",
+        "name": "入れ墨男の中指",
+        "id": 568,
+        "index": "TATTOOS_MIDDLE_FINGER",
+        "owner": "CLOWN",
+        "rarity": 4,
+        "image": "iconAddon_tattoosMiddleFinger"
+    },
+    {
+        "description": "赤毛の女性の貴重な小指。かすかに香気を放つ。ポプリとニスの味がする。<br><li>寸劇のトニックのボトルが直接命中した生存者が<b>無防備</b>効果に苦しむ</li>",
+        "name": "赤毛の小指",
+        "id": 569,
+        "index": "REDHEADS_PINKY_FINGER",
+        "owner": "CLOWN",
+        "rarity": 4,
+        "image": "iconAddon_redheadsPinkyFinger"
+    },
+    {
+        "description": "着脱が容易で快適なサンダル。<li>山岡の祟りの移動速度が少し上昇する</li><li>重複する</li>",
+        "name": "草履",
+        "id": 600,
+        "index": "ZORI",
+        "owner": "SPIRIT",
+        "rarity": 0,
+        "image": "iconAddon_zori"
+    },
+    {
+        "description": "着用者に幸福と熱狂をもたらすお守り。<li>山岡の祟りの持続時間が少し増加する</li><li>重複する</li>",
+        "name": "幸せのお守り",
+        "id": 601,
+        "index": "SHIAWASE_AMULET",
+        "owner": "SPIRIT",
+        "rarity": 0,
+        "image": "iconAddon_ShiawaseAmulet"
+    },
+    {
+        "description": "願いをかなえる千羽鶴のうちの一つ。<li>山岡の祟りの回復速度が少し上昇する</li><li>重複する</li>",
+        "name": "折り鶴",
+        "id": 602,
+        "index": "ORIGAMI_CRANE",
+        "owner": "SPIRIT",
+        "rarity": 0,
+        "image": "iconAddon_origamiCrane"
+    },
+    {
+        "description": "乱れた髪をやさしくほぐす、歯の細かな竹櫛。<li>山岡の祟りの発動を溜める速度が少し上昇する。</li><li>重複する。</li>",
+        "name": "贈り物の竹櫛",
+        "id": 603,
+        "index": "GIFTED_BAMBOO_COMB",
+        "owner": "SPIRIT",
+        "rarity": 0,
+        "image": "iconAddon_giftedBambooComb"
+    },
+    {
+        "description": "乱れた髪をまとめるための絹のリボン。<li>山岡の祟りの発動を溜める速度がそこそこ上昇する。</li><li>重複する。</li>",
+        "name": "白のヘアリボン",
+        "id": 604,
+        "index": "WHITE_HAIR_RIBBON",
+        "owner": "SPIRIT",
+        "rarity": 1,
+        "image": "iconAddon_whiteHairRibbon"
+    },
+    {
+        "description": "ガラス蓋が割れた腕時計。バンドに「凜」という名前が殴り書きされている。<li>山岡の祟りの回復速度がそこそこ上昇する。<li>重複する</li>",
+        "name": "凜の壊れた腕時計",
+        "id": 605,
+        "index": "RINS_BROKEN_WATCH",
+        "owner": "SPIRIT",
+        "rarity": 1,
+        "image": "iconAddon_rinsBrokenWatch"
+    },
+    {
+        "description": "高校の校章が付いた泥だらけのスポーツキャップ。「凜」という名札が縫い付けられている。<li>山岡の祟りの移動速度がそこそこ上昇する</li><li>重複する</li>",
+        "name": "泥だらけの運動会のキャップ",
+        "id": 606,
+        "index": "MUDDY_SPORTS_DAY_CAP",
+        "owner": "SPIRIT",
+        "rarity": 1,
+        "image": "iconAddon_muddySportCap"
+    },
+    {
+        "description": "幸運を呼ぶお守り。<li>山岡の祟りの持続時間がそこそこ増加する</li><li>重複する</li>",
+        "name": "開運のお守り",
+        "id": 607,
+        "index": "KAIUN_TALISMAN",
+        "owner": "SPIRIT",
+        "rarity": 1,
+        "image": "iconAddon_kaiunTalisman"
+    },
+    {
+        "description": "暗藍色の葉をつけた盆栽。かつては山岡家の伝統の象徴だった。<li>パッシブフェージングの頻度が少し増加する</li><li>重複する</li>",
+        "name": "杜松の盆栽",
+        "id": 608,
+        "index": "JUNIPER_BONSAI",
+        "owner": "SPIRIT",
+        "rarity": 1,
+        "image": "iconAddon_juniperBonzai"
+    },
+    {
+        "description": "耳に残る音色を響かせる、錆びた横笛。<li>山岡の祟りの回復速度がかなり上昇する</li><li>重複する</li>",
+        "name": "錆びた横笛",
+        "id": 609,
+        "index": "RUSTY_FLUTE",
+        "owner": "SPIRIT",
+        "rarity": 2,
+        "image": "iconAddon_rustyFlute"
+    },
+    {
+        "description": "勝守のお守り",
+        "name": "勝守のお守り",
+        "id": 610,
+        "index": "KATSUMORI_TALISMAN",
+        "owner": "SPIRIT",
+        "rarity": 2,
+        "image": "iconAddon_katsumoriTalisman"
+    },
+    {
+        "description": "先祖代々伝わる刀の鍔。山岡家のために作られたもの。<li>山岡の祟り使用後の再出現時間が少し増加する</li><li>山岡の祟り使用後の再出現時の移動速度が少し上昇する</li><li>重複する</li>",
+        "name": "刀の鍔",
+        "id": 611,
+        "index": "KATANA_TSUBA",
+        "owner": "SPIRIT",
+        "rarity": 2,
+        "image": "iconAddon_katanaTsuba"
+    },
+    {
+        "description": "便利な上履き。<li>山岡の祟りの移動速度がかなり上昇する</li><li>重複する</li>",
+        "name": "汚れた上履き",
+        "id": 612,
+        "index": "DIRTY_UWABAKI",
+        "owner": "SPIRIT",
+        "rarity": 2,
+        "image": "iconAddon_dirtyUwabaki"
+    },
+    {
+        "description": "乾いた血がこびりついた髪飾り。<li>山岡の祟りの発動を溜める速度がかなり上昇する。</li><li>重複する。</li>",
+        "name": "血に塗れた髪飾り",
+        "id": 613,
+        "index": "BLOODY_HAIR_BROOCH",
+        "owner": "SPIRIT",
+        "rarity": 2,
+        "image": "iconAddon_bloodyHairBroochi"
+    },
+    {
+        "description": "怪しげな運命が自分の努力を邪魔するのを防ぐ強力なお守り。<li>山岡の祟りの持続時間が<b>とてつもなく増加する。</li><li>山岡の祟りの移動速度が<b>少し上昇する</b>。</li>",
+        "name": "厄除けのお守り",
+        "id": 614,
+        "index": "YAKUYOKE_AMULET",
+        "owner": "SPIRIT",
+        "rarity": 3,
+        "image": "iconAddon_yakuyokeAmulet"
+    },
+    {
+        "description": "先祖代々伝わる刀の鞘。かつて山岡家のために作られたもの。<li>山岡の祟り使用後の再出現時間がそこそこ増加する</li><li>山岡の祟り使用後の再出現時の移動速度がそこそこ上昇する</li>",
+        "name": "脇差の鞘",
+        "id": 615,
+        "index": "WAKIZASHI_SAYA",
+        "owner": "SPIRIT",
+        "rarity": 3,
+        "image": "iconAddon_wakizashiSaya"
+    },
+    {
+        "description": "念仏を唱える際に用いる強力な腕輪。<li>ひるませる音の放出が脅威範囲外にいるすべての生存者に聞こえる。</li>",
+        "name": "数珠",
+        "id": 616,
+        "index": "PRAYER_BEADS_BRACELET",
+        "owner": "SPIRIT",
+        "rarity": 3,
+        "image": "iconAddon_prayersBeads"
+    },
+    {
+        "description": "散り散りになっている桜のドライフラワー。かつては生の儚さの象徴だった。<li>パッシブフェージングの持続時間が少し増加する</li><li>パッシブフェージングの頻度が少し増加する</li>",
+        "name": "桜のドライフラワー",
+        "id": 617,
+        "index": "DRIED_CHERRY_BLOSSOM",
+        "owner": "SPIRIT",
+        "rarity": 3,
+        "image": "iconAddon_driedCherryBlossom"
+    },
+    {
+        "description": "「愛しい娘へ」と彫られた銀の指輪。<li>山岡の祟りの移動速度がとてつもなく上昇する</li><li>山岡の祟りを使用しているとき、赤い傷マークが見えなくなる</li>",
+        "name": "母娘の指輪",
+        "id": 618,
+        "index": "MOTHER_DAUGHTER_RING",
+        "owner": "SPIRIT",
+        "rarity": 4,
+        "image": "iconAddon_motherDaughterRing"
+    },
+    {
+        "description": "働き詰めのサラリーマンである父が着けていた眼鏡。<li>山岡の祟りを使用しているとき、生存者の血痕が見えるようになる</li>",
+        "name": "父親の眼鏡",
+        "id": 619,
+        "index": "FATHERS_GLASSES",
+        "owner": "SPIRIT",
+        "rarity": 4,
+        "image": "iconAddon_fathersGlasses"
+    },
+    {
+        "description": "友好的なデザインの明るい黄色のバッジ。皮肉の意味で使われる。<li>愚連の狂乱中にに殺人鬼の本能でハイライトされた生存者を攻撃すると、目眩ましの効果が60秒間適用される</li>",
+        "name": "スマイリーフェイスのバッジ",
+        "id": 650,
+        "index": "SMILEY_FACE_PIN",
+        "owner": "LEGION",
+        "rarity": 0,
+        "image": "iconAddon_smileyFaceButton"
+    },
+    {
+        "description": "ハッシュ記号が深く彫られた木製定規。<li>能力ゲージの回復時間が<b>少し減少する</b></li>",
+        "name": "傷のついた定規",
+        "id": 651,
+        "index": "SCRATCHED_RULER",
+        "owner": "LEGION",
+        "rarity": 0,
+        "image": "iconAddon_scratchedRuler"
+    },
+    {
+        "description": "輝いていた日々を思い出させる、いたずら作戦の達成リスト。<li>愚連の狂乱の持続時間が<b>少し増加する</b></li>",
+        "name": "いたずらリスト",
+        "id": 652,
+        "index": "MISCHIEF_LIST",
+        "owner": "LEGION",
+        "rarity": 0,
+        "image": "iconAddon_mischiefList"
+    },
+    {
+        "description": "灰色と赤の編み込みロープでできた幅広ブレスレット。黒くて太い文字で「F J S J」と雑に書かれている。<li>殺人鬼の本能の探知範囲が<b>少し広がる</b></li>",
+        "name": "友情のブレスレット",
+        "id": 653,
+        "index": "FRIENDSHIP_BRACELET",
+        "owner": "LEGION",
+        "rarity": 0,
+        "image": "iconAddon_friendshipBracelet"
+    },
+    {
+        "description": "カフェインを多く含む錠剤。テストなど疲れる活動に取り組む時に感覚が研ぎ澄まされる。<li>殺人鬼の本能の探知範囲が<b>そこそこ広がる</b></li>",
+        "name": "眠気覚まし薬",
+        "id": 654,
+        "index": "NEVERSLEEP_PILLS",
+        "owner": "LEGION",
+        "rarity": 1,
+        "image": "iconAddon_friendshipBracelet"
+    },
+    {
+        "description": "ノートから切り取られた、リージョンの壁画のラフスケッチ。<li>愚連の狂乱の持続時間が<b>そこそこ増加する</b></li>",
+        "name": "壁画のスケッチ",
+        "id": 655,
+        "index": "MURAL_SKETCH",
+        "owner": "LEGION",
+        "rarity": 1,
+        "image": "iconAddon_muralSketch"
+    },
+    {
+        "description": "パワーバラードや陰気な曲ばかりが入った、暗く陰鬱なミックステープ。<li>愚連の狂乱が終了した後の疲労が<b>少し減少する</b></li>",
+        "name": "ジュリーのミックステープ",
+        "id": 656,
+        "index": "JULIES_MIX_TAPE",
+        "owner": "LEGION",
+        "rarity": 1,
+        "image": "iconAddon_juliesMixtape"
+    },
+    {
+        "description": "敵の名前が深く刻まれた、木製の定規。<li><b>能力ゲージの回復に必要な時間が</b>そこそこ減少する</li>",
+        "name": "エッチングされた定規",
+        "id": 657,
+        "index": "ETCHED_RULER",
+        "owner": "LEGION",
+        "rarity": 1,
+        "image": "iconAddon_etchedRuler"
+    },
+    {
+        "description": "以前は友好の象徴だった、落書きされた明るい黄色のスマイリーのバッジ。リージョンの特徴的なアイコン。<li><i>愚連の狂乱</i>中に殺人鬼の本能でハイライトされた生存者を攻撃すると、<b><i>重傷</i></b>のステータス効果が適用される</li>",
+        "name": "落書きされたスマイリーバッジ",
+        "id": 658,
+        "index": "DEFACED_SMILEY_PIN",
+        "owner": "LEGION",
+        "rarity": 1,
+        "image": "iconAddon_defacedSmileyButton"
+    },
+    {
+        "description": "リージョンの顔が描かれた手製のバッジ。脅迫を試みる時だけに使う。<li>「愚連の狂乱」中に殺人鬼の本能でハイライトされた生存者を攻撃すると、衰弱効果が60秒間適用される。</li>",
+        "name": "リージョンのバッジ",
+        "id": 659,
+        "index": "THE_LEGION_PIN",
+        "owner": "LEGION",
+        "rarity": 2,
+        "image": "iconAddon_theLegionButton"
+    },
+    {
+        "description": "超高速ビートのエネルギッシュな曲が入った、テンポの速いスリリングなミックステープ。<li>殺人鬼の本能の探知範囲が<b>とてつもなく広がる</b></li>",
+        "name": "スージーのミックステープ",
+        "id": 660,
+        "index": "SUSIES_MIX_TAPE",
+        "owner": "LEGION",
+        "rarity": 2,
+        "image": "iconAddon_suziesMixtape"
+    },
+    {
+        "description": "少し奇妙とは言わないまでも、創造的で心揺さぶるスケッチが描かれたスケッチブック。<li>愚連の狂乱の持続時間が<b>かなり上昇する</b></li>",
+        "name": "盗まれたスケッチブック",
+        "id": 661,
+        "index": "STOLEN_SKETCH_BOOK",
+        "owner": "LEGION",
+        "rarity": 2,
+        "image": "iconAddon_stolenSketchbook"
+    },
+    {
+        "description": "不衛生な垢と染みで汚れた刃が、傷の治りを非常に悪くする。<li>生存者が傷を完治させるまでに必要な時間が<b>少し長くなる</b></li>",
+        "name": "悪意の刃",
+        "id": 662,
+        "index": "NASTY_BLADE",
+        "owner": "LEGION",
+        "rarity": 2,
+        "image": "iconAddon_nastyBlade"
+    },
+    {
+        "description": "人生がクソッタレな時に落ち着いてリラックスするための、激しい曲と最高のビートのミックス。<li>愚連の狂乱が終了した後の疲労が<b>そこそこ減少する</b></li>",
+        "name": "ジョーイのミックステープ",
+        "id": 663,
+        "index": "JOEYS_MIX_TAPE",
+        "owner": "LEGION",
+        "rarity": 2,
+        "image": "iconAddon_joeysMixtape"
+    },
+    {
+        "description": "オーモンドの公共図書館から盗まれた、医療関連の印刷記事。損傷や刺し傷についての研究が大衆向きに書いてある。<li>すべての生存者の深手のタイマーが<b>そこそこ減少する</b></li>",
+        "name": "刺し傷の研究",
+        "id": 664,
+        "index": "STAB_WOUNDS_STUDY",
+        "owner": "LEGION",
+        "rarity": 3,
+        "image": "iconAddon_stabWoundsStudy"
+    },
+    {
+        "description": "音楽なしで殺人任務を遂行するなんてあり得ない。重厚なディストーションと、鼓膜に突き刺さる大音響でパーカッションを奏でる再生リスト。<li>愚連の狂乱の攻撃で、生存者の深手のタイマーが<b>かなり減少する</b></li>",
+        "name": "フランクのミックステープ",
+        "id": 665,
+        "index": "FRANKS_MIX_TAPE",
+        "owner": "LEGION",
+        "rarity": 3,
+        "image": "iconAddon_franksMixtape"
+    },
+    {
+        "description": "血液と垢の不潔な染みで汚れた刃が、傷の治りを非常に悪くする。<li>生存者が傷を完治させるまでに必要な時間が<b>そこそこ長くなる</b></li>",
+        "name": "汚れた刃",
+        "id": 666,
+        "index": "FILTHY_BLADE",
+        "owner": "LEGION",
+        "rarity": 3,
+        "image": "iconAddon_filthyBlade"
+    },
+    {
+        "description": "用務員が葬られた場所で集めた少量の泥。異常なほどに冷たい。<li>愚連の狂乱が終了した後の疲労が<b>かなり減少する</b></li>",
+        "name": "冷たい泥",
+        "id": 667,
+        "index": "COLD_DIRT",
+        "owner": "LEGION",
+        "rarity": 3,
+        "image": "iconAddon_coldDirt"
+    },
+    {
+        "description": "霧から作られた、リージョンの特徴をよくとらえたガラスのようなバッジ。表面は温かく、エンティティの力が反響している。<br><br>愚連の狂乱発動中：<br><li><b>マップ全体</b>が脅威範囲になる</li><li>自分が乗り越えたパレットが<b>即座に破壊される</b></li><br>この効果は能力ゲージが無くなるまで続く。<br>",
+        "name": "玉虫色のバッジ",
+        "flavor": "「玉虫色のガラスに貪られた若者たちは、エンティティが及ぶ範囲を強化して広げる。」",
+        "id": 668,
+        "index": "IRIDESCENT_BUTTON",
+        "owner": "LEGION",
+        "rarity": 4,
+        "image": "iconAddon_iridescentButton"
+    },
+    {
+        "description": "暗いビート、暴力的な早弾き、この世のものとは思えない底知れぬボーカルが精神を満たし、第六感を震わせる。<li>愚連の狂乱の使用中、<b>発電機の修理進行度</b>が<b>オーラの強さ</b>で判別できる</li>",
+        "name": "煙を吐くミックステープ",
+        "id": 669,
+        "index": "FUMING_MIX_TAPE",
+        "owner": "LEGION",
+        "rarity": 4,
+        "image": "iconAddon_fumingMixtape"
+    },
+    {
+        "description": "石版の破片。元来は病魔や不快感を取り除くために使われた、堕落の呪文が刻まれている。<li>献身の淀みの発動時間が<b>少し減少する</b></li><li>汚濁の吐瀉を行っている状態での移動速度が<b>少し上昇する</b></li>",
+        "name": "祈りの石版片",
+        "id": 700,
+        "index": "PRAYER_TABLET_FRAGMENT",
+        "owner": "PLAGUE",
+        "rarity": 0,
+        "image": "iconAddon_prayerTabletFragment"
+    },
+    {
+        "description": "ボスウェリアの木から抽出された希少な樹液。甘い柑橘系の香りで、儀式の最中に使用される。<li>黒死の吐瀉のチャージ中の移動速度が<b>少し上昇する</b></li>",
+        "name": "オリバナムのお香",
+        "id": 701,
+        "index": "OLIBANUM_INCENSE",
+        "owner": "PLAGUE",
+        "rarity": 0,
+        "image": "iconAddon_olibanumIncense"
+    },
+    {
+        "description": "多孔質の石でできた円筒形の印章。翼を持つ神々が登場する儀式の光景が描かれている。<li>オブジェクトの感染時間が<b>少し増加する</b></li>",
+        "name": "石灰岩の印章",
+        "id": 702,
+        "index": "LIMESTONE_SEAL",
+        "owner": "PLAGUE",
+        "rarity": 0,
+        "image": "iconAddon_limestoneSeal"
+    },
+    {
+        "description": "酷い刺激臭のする、根を潰したペースト状の軟膏。魚の塩漬けに3日、ワインに2日漬け込まれている。皮膚の発疹に塗布する。<li>黒死の吐瀉のクールダウン時間が<b>少し減少する</b></li>",
+        "name": "治癒の軟膏",
+        "id": 703,
+        "index": "HEALING_SALVE",
+        "owner": "PLAGUE",
+        "rarity": 0,
+        "image": "iconAddon_healingSalve"
+    },
+    {
+        "description": "翼を持つ神々が大ざっぱに彫刻されたせっけん石のお守り。病魔を退け、身に着けた者は献身で満たされる。<li>汚濁の吐瀉の持続時間が<b>少し上昇する</b></li>",
+        "name": "予防のお守り",
+        "id": 704,
+        "index": "PROPHYLACTIC_AMULET",
+        "owner": "PLAGUE",
+        "rarity": 1,
+        "image": "iconAddon_prophylacticAmulet"
+    },
+    {
+        "description": "ハーブとアルコールのつんとした匂いを放つ、泡立って濁った液体。水膨れに塗布する。\n<li>黒死の吐瀉のクールダウンが<b>そこそこ減少する</b></li>",
+        "name": "強力チンキ",
+        "id": 705,
+        "index": "POTENT_TINCTURE",
+        "owner": "PLAGUE",
+        "rarity": 1,
+        "image": "iconAddon_potentTincture"
+    },
+    {
+        "description": "金属質の貴石でできた円筒形の印章。奇妙な機械の隣に立つ鳥の頭を持つ生き物の姿が刻まれている。神聖な灰の容器として用いられる。<li>オブジェクトの感染時間が<b>そこそこ増加する</b></li>",
+        "name": "赤鉄鉱の印章",
+        "id": 706,
+        "index": "HEMATITE_SEAL",
+        "owner": "PLAGUE",
+        "rarity": 1,
+        "image": "iconAddon_hematiteSeal"
+    },
+    {
+        "description": "辛子入りの水でできたシロップ剤。体内から悪を一掃する。<li>黒死の吐瀉の効果が<b>少し上昇する</b></li>",
+        "name": "催吐薬",
+        "id": 707,
+        "index": "EMETIC_POTION",
+        "owner": "PLAGUE",
+        "rarity": 1,
+        "image": "iconAddon_emeticPotion"
+    },
+    {
+        "description": "浄化の儀式中の朝食にぴったりの、美味しい完熟りんご。<li>汚れた献身の淀みが<b>1つ</b>増えた状態で儀式を開始する</li>",
+        "name": "祝福のりんご",
+        "id": 708,
+        "index": "BLESSED_APPLE",
+        "owner": "PLAGUE",
+        "rarity": 1,
+        "image": "iconAddon_prayerApple"
+    },
+    {
+        "description": "去痰作用のあるマッサージ用オイルの入ったビーカー。月桂樹とローズマリーの新鮮な香りを放っている。<li>黒死の吐瀉のチャージ速度が<b>そこそこ上昇する</b></li>",
+        "name": "マッサージ用オイル",
+        "id": 709,
+        "index": "RUBBING_OIL",
+        "owner": "PLAGUE",
+        "rarity": 2,
+        "image": "iconAddon_rubbingOil"
+    },
+    {
+        "description": "原料不明の吐き気を催す甘い汁。濃厚な黄色い液体は、飲用すると嘔吐を誘発する。体内から悪を一掃する。<li>黒死の吐瀉の効果が<b>そこそこ上昇する</b></li>",
+        "name": "感染催吐薬",
+        "id": 710,
+        "index": "INFECTED_EMETIC",
+        "owner": "PLAGUE",
+        "rarity": 2,
+        "image": "iconAddon_infectedEmetic"
+    },
+    {
+        "description": "暗い色をした、蝋質のペースト。織り交ぜられた杉の樹液が甘く土のような芳香を放っている。感染した皮膚に直接塗布する。<li>黒死の吐瀉のチャージ中の移動速度が<b>少し上昇する</b></li><li>黒死の吐瀉のクールダウンが<b>そこそこ減少する</b></li>",
+        "name": "香る軟膏",
+        "id": 711,
+        "index": "INCENSED_OINTMENT",
+        "owner": "PLAGUE",
+        "rarity": 2,
+        "image": "iconAddon_incensedOintment"
+    },
+    {
+        "description": "悪魔祓いの儀式中に病魔を退ける黒曜石のお守り。騒乱と疫病を司る神への祈りが刻み込まれていて、身に着けた者は激しい献身で満たされる。<li>汚濁の吐瀉の持続時間が<b>そこそこ増加する</b></li>",
+        "name": "退魔のお守り",
+        "id": 712,
+        "index": "EXORCISM_AMULET",
+        "owner": "PLAGUE",
+        "rarity": 2,
+        "image": "iconAddon_exorcismAmulet"
+    },
+    {
+        "description": "神聖な灰に塗れた、皮を剥いたりんご。このような果物を食べることで、邪悪で嫉妬深い死者の霊魂を撃退した。<li>汚れた献身の淀みが<b>1つ</b>増えた状態で儀式を開始する</li><li>オブジェクトの感染時間が<b>少し増加する</b></li>",
+        "name": "灰色のりんご",
+        "id": 713,
+        "index": "ASHEN_APPLE",
+        "owner": "PLAGUE",
+        "rarity": 2,
+        "image": "iconAddon_ashenApple"
+    },
+    {
+        "description": "金で装飾された石版。元は忘れ去られた神々を崇めるために用いられた、堕落の呪文の線画や文字が記されている。<li>「献身の淀み」の発動時間が<b>そこそこ減少する</b></li><li>汚濁の吐瀉中の移動速度が<b>そこそこ上昇する</b></li>",
+        "name": "崇拝の石版",
+        "id": 714,
+        "index": "WORSHIP_TABLET",
+        "owner": "PLAGUE",
+        "rarity": 3,
+        "image": "iconAddon_worshipTablet"
+    },
+    {
+        "description": "腐敗臭のする、原料が不明な半ば凝固した薬。服用するとすぐに嘔吐を引き起こし、体内から悪を一掃する。<li>黒死の吐瀉の効果が<b>かなり上昇する</b></li>",
+        "name": "穢れの吐剤",
+        "id": 715,
+        "index": "VILE_EMETIC",
+        "owner": "PLAGUE",
+        "rarity": 3,
+        "image": "iconAddon_vileEmetic"
+    },
+    {
+        "description": "アディリスの切断された腐りかけの足の指。糸で繋いでお守りとして首の周りに掛ける。穢れの力を放っている。<li>生存者が他者との接触で感染する確率が<b>かなり上昇する</b></li>",
+        "name": "切断された足の指",
+        "id": 716,
+        "index": "SEVERED_TOE",
+        "owner": "PLAGUE",
+        "rarity": 3,
+        "image": "iconAddon_severedToe"
+    },
+    {
+        "description": "騒乱と疫病を司るバビロニアの神の姿が複雑に彫刻された、血玉髄のアミュレット。身に着けた者は限りない献身で満たされる。<li>汚濁の吐瀉の持続時間が<b>かなり増加する</b></li>",
+        "name": "狂信者のお守り",
+        "id": 717,
+        "index": "DEVOTEES_AMULET",
+        "owner": "PLAGUE",
+        "rarity": 3,
+        "image": "iconAddon_devoteesAmulet"
+    },
+    {
+        "description": "プレイグの姿が刻まれた半透明で円筒形の印章。霧そのものから作られた。表面は暖かく、エンティティの力で脈打っている。<li>汚濁の吐瀉を行なっている状態での移動速度が<b>そこそこ減少する</b></li><li>汚濁の吐瀉の持続時間が<b>とてつもなく減少する</b></li><li>発電機が完成するたびに、黒死の吐瀉が汚濁の吐瀉になる</li>",
+        "name": "玉虫色の印章",
+        "id": 718,
+        "index": "IRIDESCENT_SEAL",
+        "owner": "PLAGUE",
+        "rarity": 4,
+        "image": "iconAddon_IridescentSeal"
+    },
+    {
+        "description": "鋭い骨の削り屑でできた、黒いペースト状のお香。その悪臭を吸い込むと、心眼が研ぎ澄まされる。<li>嘔吐した生存者のオーラが<b>5秒間</b>視えるようになる</li>",
+        "name": "黒のお香",
+        "id": 719,
+        "index": "BLACK_INCENSE",
+        "owner": "PLAGUE",
+        "rarity": 4,
+        "image": "iconAddon_blackIncense"
+    },
+    {
+        "description": "以前働いていたフィラデルフィアで、オルセンの犠牲者から盗まれたカメラ。中に入っているフィルムには、その街でのオルセンの最後の夜が写っている。<br><li>遮蔽物から覗き込んでいない場合、生存者が無防備状態になる速度が<b>少し上昇する</b>。</li>",
+        "name": "「愛しのフィラデルフィア」",
+        "flavor": "「フィラデルフィアは大好きだ。いつも様々な物を与えてくれる。何もかも大事な思い出だ」– ゴーストフェイス",
+        "id": 750,
+        "index": "PHILLY",
+        "owner": "GHOST",
+        "rarity": 0,
+        "image": "iconAddon_philly"
+    },
+    {
+        "description": "北ローズビルにある小さなバー、ウォールアイの紙マッチ。犠牲者の電話番号が青字で殴り書きしてある。発見された有力な証拠の一つ。<br><li><i>闇の包容</i>の能力回復速度が<b>少し上昇する</b>。</li>",
+        "name": "ウォールアイの紙マッチ",
+        "id": 751,
+        "index": "WALLEYES_MATCHBOOK",
+        "owner": "GHOST",
+        "rarity": 0,
+        "image": "iconAddon_walleyesMatchbook"
+    },
+    {
+        "description": "ユタ州からペンシルバニア州にかけての未解決殺人事件を特集した記事の切り抜き。ゴーストフェイスはいくつかの見出しを書いているだけだが、すべての殺人事件に関与していた。<br>成功を重ねることで自尊心と自信が高まる。<br><li>つけ回し中の移動速度が<b>少し上昇する</b>。</li>",
+        "name": "見出しの切り抜き",
+        "id": 752,
+        "index": "HEADLINES_CUTOUTS",
+        "owner": "GHOST",
+        "rarity": 0,
+        "image": "iconAddon_headlinesCutouts"
+    },
+    {
+        "description": "1ドルショップで買ったコロン。ツンとした消毒用アルコールの刺激臭がする。自分の存在をアピールするためにゴーストフェイスが使う。突然の訪問のための備え。<br><li>生存者が無防備状態になっている時間が<b>少し増加する</b>。</li>",
+        "name": "安物コロン",
+        "id": 753,
+        "index": "CHEAP_COLOGNE",
+        "owner": "GHOST",
+        "rarity": 0,
+        "image": "iconAddon_cheapCologne"
+    },
+    {
+        "description": "気付かれずに遠くから写真撮影ができるマニュアルフォーカスのレンズ。<br><li>遮蔽物から覗き込んでいない場合、生存者が無防備状態になる速度が<b>少し上昇する</b>。</li><li>生存者の無防備状態の継続時間が<b>少し増加する</b>。</li>",
+        "name": "望遠レンズ",
+        "id": 754,
+        "index": "TELEPHOTO_LENS",
+        "owner": "GHOST",
+        "rarity": 1,
+        "image": "iconAddon_telephotoLens"
+    },
+    {
+        "description": "染みだらけの手書きの目次がついたリング式ノート。犠牲者をつけ回すのに使用した様々な道具が日記に詳細に記述されている。過去の行動を読み返すことで、スリリングな記憶が呼び起こされる。<br><li>つけ回し中の移動速度が<b>そこそこ上昇する</b>。</li>",
+        "name": "オルセンの日記",
+        "id": 755,
+        "index": "OLSENS_JOURNAL",
+        "owner": "GHOST",
+        "rarity": 1,
+        "image": "iconAddon_olsensJournal"
+    },
+    {
+        "description": "不鮮明な汚い筆跡で書かれたリスト。ローズビル殺人事件の犠牲者全員の電話番号と住所が載っている。<br><li><i>闇の包容</i>の能力回復速度が<b>そこそこ上昇する</b>。</li>",
+        "name": "オルセンのアドレス帳",
+        "id": 756,
+        "index": "OLSENS_ADDRESS_BOO",
+        "owner": "GHOST",
+        "rarity": 1,
+        "image": "iconAddon_olsensAddressBook"
+    },
+    {
+        "description": "フロリダ州、北ローズビルの注釈つきの地図。Xはゴーストフェイスの犠牲者を表している。標的を地図に正確に示すことで、察知されることなく街を徘徊できる。<br><li>殺人鬼が発見されると、殺人鬼の本能が視える時間が<b>そこそこ増加する</b>。</li>",
+        "name": "印をつけた地図",
+        "id": 757,
+        "index": "MARKED_MAP",
+        "owner": "GHOST",
+        "rarity": 1,
+        "image": "iconAddon_markedMap"
+    },
+    {
+        "description": "うろついている時でも物をしっかりと固定できる黒いストラップ。<br><li>しゃがみ中の移動速度が<b>少し上昇する</b>。</li>",
+        "name": "シンチストラップ ",
+        "id": 758,
+        "index": "CINCH_STRAPS",
+        "owner": "GHOST",
+        "rarity": 1,
+        "image": "iconAddon_reusuableCinchStraps"
+    },
+    {
+        "description": "オルセンの財布には現金30ドル、ビデオ屋の会員カード、ローズビルでのオルセンの最初の犠牲者の束ねられた写真が入っている。決定的な証拠を持ち歩くことで興奮が高まり、決意が固まる。<br><li>つけ回し中の移動速度が<b>かなり上昇する</b>。</li>",
+        "name": "オルセンの財布",
+        "id": 759,
+        "index": "OLSENS_WALLET",
+        "owner": "GHOST",
+        "rarity": 2,
+        "image": "iconAddon_olsensWallet"
+    },
+    {
+        "description": "目立たず柔軟性のあるナイフ用シース。装備がしっかり固定されていると、動きやすさが向上する。<br><li>しゃがみ中の移動速度が<b>そこそこ上昇する</b>。</li>",
+        "name": "革製ナイフシース",
+        "id": 760,
+        "index": "LEATHER_KNIFE_SHEATH",
+        "owner": "GHOST",
+        "rarity": 2,
+        "image": "iconAddon_leatherKnifeSheath"
+    },
+    {
+        "description": "ゴーストが自己の存在をアピールする際につける、圧倒的な存在感を放つ麝香のフレグランス。記事にするつもりだった犠牲者のために取っておいた。<br><li>生存者が無防備状態のまま継続する時間が<b>そこそこ増加する</b>。</li>",
+        "name": "持続性のある香水",
+        "id": 761,
+        "index": "LASTING_PERFUME",
+        "owner": "GHOST",
+        "rarity": 2,
+        "image": "iconAddon_lastingPerfume"
+    },
+    {
+        "description": "目立たないようにナイフを腰に装備する際に最適なベルトクリップ。今夜の計画は誰にも知られることはない。<br><li>遮蔽物から覗き込んでいない場合、生存者が無防備状態になる速度が<b>そこそこ上昇する</b>。</li>",
+        "name": "ナイフ用ベルトクリップ",
+        "id": 762,
+        "index": "KNIFE_BELT_CLIP",
+        "owner": "GHOST",
+        "rarity": 2,
+        "image": "iconAddon_knifeBeltClip"
+    },
+    {
+        "description": "キャップに噛んだ跡のある青いペン。ダニーのDNAの痕跡が残っている。発見されることのなかった、有罪を示す証拠。<br><li><i>闇の包容</i>の能力回復速度が<b>かなり上昇する</b>。</li>",
+        "name": "噛み跡のついたペン",
+        "id": 763,
+        "index": "CHEWED_PEN",
+        "owner": "GHOST",
+        "rarity": 2,
+        "image": "iconAddon_chewedPen"
+    },
+    {
+        "description": "破れたページに、ローズビルでオルセンが最初に殺害した犠牲者の、毎週の日課についての概要が書かれている。習慣を分析することで、犠牲者の行動が予測可能になる。\n<br><li>殺人鬼が発見されると、殺人鬼の本能が視える時間が<b>そこそこ増加する</b>。</li><li>闇の包容発動中に、殺人鬼の居場所を明かす探知範囲が<b>そこそこ減少する</b>。</li><br><span class=\"FlavorText\">「しばらく君を監視していたよ。今回は読者の頭に刻み込まれるくらい特別な見出しにしたくてね」- ゴーストフェイス</span>",
+        "name": "詳細な犠牲者の日課",
+        "id": 764,
+        "index": "VICTIMS_DETAILED_ROUTINE",
+        "owner": "GHOST",
+        "rarity": 3,
+        "image": "iconAddon_victimsDetailedRoutine"
+    },
+    {
+        "description": "暗闇でも鮮明な写真が撮影可能な暗視用レンズ。深夜、目立たないようにアポなし訪問をする際に最適。<br><li>遮蔽物から覗き込んでいない場合、生存者が無防備状態になる速度が<b>かなり上昇する</b>。</li>",
+        "name": "単眼暗視スコープ",
+        "id": 765,
+        "index": "NIGHT_VISION_MONOCULAR",
+        "owner": "GHOST",
+        "rarity": 3,
+        "image": "iconAddon_nightvisionMoncular"
+    },
+    {
+        "description": "動きを妨げないナイフ用シース。自在な動きで素早く致命傷を与える際に適している。ダニーがフィラデルフィアを去った夜、巡回中の警官から盗んだもの。<br><li>しゃがみ中の移動速度が<b>かなり上昇する</b>。</li><span class=\"FlavorText\">「偵察兵のような覚悟が必要だ。くだらない記章なんてなくていい。僕にはもっといいものが手に入る」- ゴーストフェイス</span>",
+        "name": "ドロップレッグタイプのナイフシース",
+        "id": 766,
+        "index": "DROP_LEG_KNIFE_SHEATH",
+        "owner": "GHOST",
+        "rarity": 3,
+        "image": "iconAddon_dropLegKnifeSheath"
+    },
+    {
+        "description": "オルセンの本名がダニー・ジョンソンであることを証明する運転免許証。<br><li><i>闇の包容</i>発動中に、殺人鬼の居場所を明かす探知範囲が<b>かなり減少する</b>。</li>",
+        "name": "運転免許証",
+        "flavor": "「誰もがゴーストフェイスの正体を知りたがっているが、本当に聞くべきなのは『次は誰の番か』だ」   - ゴーストフェイス",
+        "id": 767,
+        "index": "DRIVERS_LICENSE",
+        "owner": "GHOST",
+        "rarity": 3,
+        "image": "iconAddon_driversLicense"
+    },
+    {
+        "description": "ローズビルを震撼させた記事を書くためにオルセンが用意したテープ。<br><li>遮蔽物から覗き込むと、生存者が無防備状態になる速度が<b>とてつもなく上昇する</b>。</li><li>遮蔽物から覗き込んでいない場合は、生存者が無防備状態になる速度が<b>とてつもなく低下する</b>。</li>",
+        "name": "「ゴーストフェイス、カメラに捉えられる」",
+        "flavor": "「この映像では、黒っぽい人影が深夜にフロリダの北ローズビルの住宅に侵入する場面が捉えられています。翌朝警察が呼ばれ、その地域での殺人事件を報じました。施錠を怠らないでください。殺人鬼は私たちのすぐ近くで、闇に潜む亡霊のごとく気ままに徘徊しています」– ローズビル・ガゼット",
+        "id": 768,
+        "index": "CAUGHT_ON_TAPE",
+        "owner": "GHOST",
+        "rarity": 4,
+        "image": "iconAddon_caughtOnTape"
+    },
+    {
+        "description": "小型監視カメラ。ゴーストフェイスが北ローズビルのベルビュー通りにある住宅に侵入する様子が映っている。警察に証拠を残すことなくゴーストフェイスの姿が一瞬だけ映るよう、カメラは完璧なアングルで設置されていた。<br><li>無防備状態の生存者が瀕死状態になると、脅威範囲外の生存者全員のオーラが4秒間見える。</li>",
+        "name": "屋外用防犯カメラ",
+        "flavor": "「映像には言葉の千倍の価値がある」–ゴーストフェイス",
+        "id": 769,
+        "index": "OUTDOOR_SECURITY_CAMERA",
+        "owner": "GHOST",
+        "rarity": 4,
+        "image": "iconAddon_outdoorSecurityCamera"
+    },
+    {
+        "description": "ホーキンスの腐った土壌に汚染されたかぼちゃ。<li>裏側の世界を横断する際、進入するポータルが破壊される。横断するとブラッドポイントを200追加で取得する</li>",
+        "name": "腐ったかぼちゃ",
+        "id": 800,
+        "index": "ROTTEN_PUMPKIN",
+        "owner": "DEMOGORGON",
+        "rarity": 0,
+        "image": "iconAddon_rottenPumpkin"
+    },
+    {
+        "description": "デモゴルゴンが食べる、噛みごたえのあるネズミの尻尾。<li>ポータルを開くための時間が<b>少し減少</b>する。</li>",
+        "name": "ネズミの尾",
+        "id": 801,
+        "index": "RAT_TAIL",
+        "owner": "DEMOGORGON",
+        "rarity": 0,
+        "image": "iconAddon_ratTail"
+    },
+    {
+        "description": "塩気のある柔らかなレバーの山。<li><b>深淵のいざない</b>を溜めている間、殺人鬼の移動速度が<b>少し上昇</b>する。</li>",
+        "name": "ネズミのレバー",
+        "id": 802,
+        "index": "RAT_LIVER",
+        "owner": "DEMOGORGON",
+        "rarity": 0,
+        "image": "iconAddon_ratLiver"
+    },
+    {
+        "description": "裏側の世界の触手生物より剥ぎ取られた黒くうねる心臓。<li><b>シュレッド</b>の攻撃が命中した時の回復速度が<b>少し上昇する。</b></li>",
+        "name": "黒の心臓",
+        "id": 803,
+        "index": "BLACK_HEART",
+        "owner": "DEMOGORGON",
+        "rarity": 0,
+        "image": "iconAddon_blackHeart"
+    },
+    {
+        "description": "湿った弾性のある網で、次元間トンネルを拡張する。<li>生存者がポータルを閉鎖するのに要する時間を<b>少し延長</b>する。</li>",
+        "name": "ヴィスカス・ウェビング",
+        "id": 804,
+        "index": "VISCOUS_WEBBING",
+        "owner": "DEMOGORGON",
+        "rarity": 1,
+        "image": "iconAddon_viscousWebbing"
+    },
+    {
+        "description": "軽い粘性のある地層。次元間トンネルを覆い、拡張している。<li><b>深淵のいざない</b>によって生存者を発見する範囲が<b>そこそこ拡大</b>する</li>",
+        "name": "スティッキーライニング",
+        "id": 805,
+        "index": "STICKY_LINING",
+        "owner": "DEMOGORGON",
+        "rarity": 1,
+        "image": "iconAddon_stickyLining"
+    },
+    {
+        "description": "デモゴルゴンの餌となる腐敗したトライプ。<li>裏側の世界を横断する間の殺人鬼の移動速度を<b>少し上昇</b>させる。</li>",
+        "name": "腐った緑色のトライプ",
+        "id": 806,
+        "index": "ROTTEN_GREEN_TRIPE",
+        "owner": "DEMOGORGON",
+        "rarity": 1,
+        "image": "iconAddon_rottenGreenTripe"
+    },
+    {
+        "description": "不運な犠牲者の美味しい内臓。<li>使用可能なポータルの合計数が<b>1つ</b><b>増加する。</b></li><li><b>シュレッド</b>の攻撃が外れた時の回復速度が<b>少し上昇する。</b></li>",
+        "name": "ミューの内蔵",
+        "id": 807,
+        "index": "MEWS_GUTS",
+        "owner": "DEMOGORGON",
+        "rarity": 1,
+        "image": "iconAddon_mewsGuts"
+    },
+    {
+        "description": "裏側の世界を通過して壊れたメガネ。<li>パレットを破壊した際の<i>シュレッド</i>の回復速度が<b>少し上昇する</b></li>",
+        "name": "バーブの眼鏡",
+        "id": 808,
+        "index": "BARBS_GLASSES",
+        "owner": "DEMOGORGON",
+        "rarity": 1,
+        "image": "iconAddon_barbsGlasses"
+    },
+    {
+        "description": "裏側の世界の黒いキノコ。デモゴルゴンはこれによりテレパシーで獲物の感覚を歪める。<li>ポータルから出現した際に殺人鬼に適用される<b>不明なステータス効果</b>の効果時間を<b>少し延長する。</b></li>",
+        "name": "ヴァイオレット・ワックスキャップ",
+        "id": 809,
+        "index": "VIOLET_WAXCAP",
+        "owner": "DEMOGORGON",
+        "rarity": 2,
+        "image": "iconAddon_violetWaxcap"
+    },
+    {
+        "description": "厚いとげのあるつる植物で、次元間トンネルを伸ばしたり補強したりする。<li>生存者がポータルを閉鎖するのに要する時間を<b>少し延長</b>する</li>。<li><b>深淵のいざない</b>によって生存者を発見する範囲を<b>少し拡大</b>する。</li>",
+        "name": "茨のツル",
+        "id": 810,
+        "index": "THORNY_VINES",
+        "owner": "DEMOGORGON",
+        "rarity": 2,
+        "image": "iconAddon_thornyVines"
+    },
+    {
+        "description": "精神エネルギーで満ちたソーダ缶。<li>裏側の世界を横断する間、修理中の発電機が黄色のオーラで表示される</li>",
+        "name": "イレブンのソーダ",
+        "id": 811,
+        "index": "ELEVENS_SODA",
+        "owner": "DEMOGORGON",
+        "rarity": 2,
+        "image": "iconAddon_elevensSoda"
+    },
+    {
+        "description": "デモゴルゴンを再活性化する生のゴム状の肺。<li>裏側の世界を横断する間の殺人鬼の移動速度が<b>かなり上昇する</b></li><li>使用できるポータルの数が<b>2</b>減少する</li>",
+        "name": "鹿の肺",
+        "id": 812,
+        "index": "DEER_LUNG",
+        "owner": "DEMOGORGON",
+        "rarity": 2,
+        "image": "iconAddon_deerLung"
+    },
+    {
+        "description": "トラブルを引き起こすのに使用されたライター。<li>ポータルの影響下にある生存者は<b>目眩まし</b>のステータス効果を受ける。ポータルから離れたあとも、この効果は<b>60秒間</b>持続する</li>",
+        "name": "真鍮のライター",
+        "flavor": "「強力な電磁場を発生させるということは、裏側の世界と接触したにちがいない」 - ホーキンス国立研究所",
+        "id": 813,
+        "index": "BRASS_CASE_LIGHTER",
+        "owner": "DEMOGORGON",
+        "rarity": 2,
+        "image": "iconAddon_brassCaseLighter"
+    },
+    {
+        "description": "裏側の世界の真っ赤な毒キノコ。<li>ポータルから出現した際に、デモゴルゴンに適用されていた<b>探知不可の効果</b>の持続時間を<b>そこそこ延長する。</li>",
+        "name": "ヴァーミリオン・ウェブキャップ",
+        "flavor": "「この標本で実験を続けているが、今のところ結果は一致しない。」 - ホーキンス国立研究所",
+        "id": 814,
+        "index": "VERMILLION_WEBCAP",
+        "owner": "DEMOGORGON",
+        "rarity": 3,
+        "image": "iconAddon_vermillionWebcap"
+    },
+    {
+        "description": "次元間トンネルへの入り口を強化する粘着性で可燃性の樹液。<li>生存者がポータルを閉鎖するのに要する時間を<b>中度に延長</b>する。</li>",
+        "name": "裏側の世界の樹脂",
+        "flavor": "「かつて門として使われていた木の樹皮から採取したサンプル。これまでのところ、その効果に関する私たちの結論は定まっていない」-ホーキンス国立研究所",
+        "id": 815,
+        "index": "UPSIDE_DOWN_RESIN",
+        "owner": "DEMOGORGON",
+        "rarity": 3,
+        "image": "iconAddon_upsidedownResin"
+    },
+    {
+        "description": "大きな温かい卵におぞましいクモの巣をかけたもの。<li>裏側の世界での特殊能力回復速度を<b>かなり上昇</b>させる。</li>",
+        "name": "未知の卵",
+        "flavor": "「裏側の世界で大きな卵が発見された。だが、適切な検査のための研究所への輸送に耐えたサンプルはなかった」 -ホーキンス国立研究所",
+        "id": 816,
+        "index": "UNKNOWN_EGG",
+        "owner": "DEMOGORGON",
+        "rarity": 3,
+        "image": "iconAddon_unknownEgg"
+    },
+    {
+        "description": "錆びついた金属製のホイッスル。かつてホーキンス公共プールを支配していた。<li>殺人鬼の本能による発動済みポータル付近の生存者の位置表示が、<b>深淵のいざない</b>のチャージ不要で実現する</li>",
+        "name": "ライフガードのホイッスル",
+        "flavor": "「強力な電磁場を発生させるということは、裏側の世界と接触したにちがいない」 - ホーキンス国立研究所",
+        "id": 817,
+        "index": "LIFEGUARD_WHISTLE",
+        "owner": "DEMOGORGON",
+        "rarity": 3,
+        "image": "iconAddon_lifeguardWhistle"
+    },
+    {
+        "description": "裏側の世界の樹皮で成長するサイケデリックな苔。<li>裏側の世界を横断する際、デモゴルゴンは狙ったポータルへと静かに出現するが、出現速度は低下する</li><li>ポータルから出現したデモゴルゴンに適用される<b>探知不可</b>の効果持続時間が<b>とてつもなく増加する</b></li>",
+        "name": "赤い苔",
+        "flavor": "「葉を摂取すると運動能力が高まり、多幸感を引き起こす」 - ホーキンス国立研究所",
+        "id": 818,
+        "index": "RED_MOSS",
+        "owner": "DEMOGORGON",
+        "rarity": 4,
+        "image": "iconAddon_redMoss"
+    },
+    {
+        "description": "裏側の世界の岩の上で、ホコリのように成長する地衣類。<li>裏側の世界を横断している間と、ポータルから出現した後<b>3秒間</b>、全ての生存者の<b>オーラが視える</b></li>",
+        "name": "ふけ状の地衣類",
+        "flavor": "「少量の服用で重度の幻覚を引き起こすことがある」 - ホーキンス国立研究所",
+        "id": 819,
+        "index": "LEPROSE_LICHEN",
+        "owner": "DEMOGORGON",
+        "rarity": 4,
+        "image": "iconAddon_leproseLichen"
+    },
+    {
+        "description": "自分の目標が純粋で公正であると考える崋山は、行く道を踏み外させようとする悪を避けるためにお守りを持ち歩いた。<li>血の球の吸収速度が<b>少し上昇する</b>。</li>",
+        "name": "厄除けのお守り",
+        "id": 850,
+        "index": "YAKUYOKE_TALISMAN",
+        "owner": "ONI",
+        "rarity": 0,
+        "image": "iconAddon_paperLantern"
+    },
+    {
+        "description": "ロープがもっと強かったら、崋山を拘束することができたであろう。しかし、そうではなかったため崋山は囚われの身から逃がれ、その相手を虐殺した。<li>血の球のオーラを検知できる距離が<b>少し上昇する</b>。</li>",
+        "name": "朽ちかけたロープ",
+        "flavor": "「死神は素晴らしい集中力の持ち主だが、それでも瞬きはする。」- 練次郎の教え 拾肆ノ伍",
+        "id": 851,
+        "index": "ROTTING_ROPE",
+        "owner": "ONI",
+        "rarity": 0,
+        "image": "iconAddon_rottingRope"
+    },
+    {
+        "description": "崋山の結婚式で使われた盃。夜が終わる前にひびが入ってしまった。<li><i>血の怒り</i>を発動するチャージ速度を<b>少し上昇する</b>。</li><li><i>血の怒り</i>の解除時間を<b>少し減少する</b>。</li>",
+        "name": "ひびの入った盃",
+        "id": 852,
+        "index": "CRACKED_SAKAZUKI",
+        "owner": "ONI",
+        "rarity": 0,
+        "image": "iconAddon_crackedSakazuki"
+    },
+    {
+        "description": "崋山の冬の百遍路中に剥がれたもの。献身的な巡礼にもかかわらず、彰人の脚は治らなかった。<li>血の球を吸収中の移動速度が<b>少し上昇する</b>。</li>",
+        "name": "黒ずんだ足爪",
+        "flavor": "「父親が子のために犠牲を払わなければ、何をもって父親と言えるのだろうか。」- 練次郎の教え 拾壱ノ拾弐",
+        "id": 853,
+        "index": "BLACKENED_TOENAIL",
+        "owner": "ONI",
+        "rarity": 0,
+        "image": "iconAddon_blackenedToenail"
+    },
+    {
+        "description": "鬼と比べられた崋山が自分の兜から引きちぎった角付きの前立物。<li><i>山岡の怒り<i>のパッシブリチャージ速度が<b>少し上昇する</b></li>",
+        "name": "磨かれた前立物",
+        "id": 854,
+        "index": "POLISHED_MAEDATE",
+        "owner": "ONI",
+        "rarity": 1,
+        "image": "iconAddon_polishedMaedate"
+    },
+    {
+        "description": "山岡邸に一時期飾られていた水墨画。ネズミに食べられたライオンの話が描かれている。<li><i>血の怒り</i>を発動するチャージ速度を<b>少し上昇する</b>。</li><li><i>血の怒り</i>の解除時間を<b>少し減少する</b>。</li><li>生存者をダウンさせた時の<i>血の怒り</i>の消費ペナルティが<b>そこそこ減少する</b>。</li>",
+        "name": "水墨画のライオン",
+        "id": 855,
+        "index": "INK_LION",
+        "owner": "ONI",
+        "rarity": 1,
+        "image": "iconAddon_inkLion"
+    },
+    {
+        "description": "練次郎のものであった采配。崋山が去ったときに盗んでいった。<li><i>血の怒り</i>の発動時間を<b>少し上昇する</b>。</li>",
+        "name": "欠けた采配",
+        "id": 856,
+        "index": "CHIPPED_SAIHAI",
+        "owner": "ONI",
+        "rarity": 1,
+        "image": "iconAddon_chippedSaihai"
+    },
+    {
+        "description": "彰人の練習用の刀。怪我をした後は、ほとんど使われることがなかった。<li>血の球のオーラを検知できる距離が<b>そこそこ上昇する</b>。</li>",
+        "name": "子どもの木刀",
+        "id": 857,
+        "index": "CHILDS_WOODEN_SWORD",
+        "owner": "ONI",
+        "rarity": 1,
+        "image": "iconAddon_childsWoodenSword"
+    },
+    {
+        "description": "ニセ貴族の崋山と呼ばれる男の子の血。崋山はしばしば父親の目から喧嘩の証拠を隠した。そして隠れてサッシュに付着した血を楽しむのだった。<li>血の球吸収中の移動速度が<b>そこそこ上昇する</b>。</li>",
+        "name": "血塗れのサッシュ",
+        "id": 858,
+        "index": "BLOODY_SASH",
+        "owner": "ONI",
+        "rarity": 1,
+        "image": "iconAddon_bloodySash"
+    },
+    {
+        "description": "山岡家の幟。崋山はこれに圧倒的な誇りを感じたらしい。<li><i>血の怒り</i>の発動時間を<b>そこそこ上昇する</b>。</li>",
+        "name": "山岡家の幟",
+        "id": 859,
+        "index": "YAMAOKA_SASHIMONO",
+        "owner": "ONI",
+        "rarity": 2,
+        "image": "iconAddon_yamaokaSashimono"
+    },
+    {
+        "description": "若い崋山が節分を祝うために購入したお面。そのゾッとするような牙をむいた口元が悪夢に出てくるようになった。<li>生存者が落とす血の球の量が<b>少し上昇する</b>。</li>",
+        "name": "木製の鬼の面",
+        "flavor": "「人間が鬼に親しみを持つのは偶然ではない。」- 練次郎の教え 参ノ捌",
+        "id": 860,
+        "index": "WOODEN_ONI_MASK",
+        "owner": "ONI",
+        "rarity": 2,
+        "image": "iconAddon_woodenOniMask"
+    },
+    {
+        "description": "先祖代々受け継がれた刀の一部。崋山の怒りに触れて壊された。<li><i>山岡の怒り</i>のパッシブリチャージ速度が<b>そこそこ上昇する</b>。</li>",
+        "name": "折れた脇差",
+        "id": 861,
+        "index": "SHATTERED_WAKAZASHI",
+        "owner": "ONI",
+        "rarity": 2,
+        "image": "iconAddon_shatteredWakizashi"
+    },
+    {
+        "description": "崋山の高潔さに疑問を抱いた侍のちょんまげ。毛根には血まみれの薄い頭皮がついている。<li><i>血の怒り</i>発動中に<i>鬼の猛進</i>を発動するチャージ速度を<b>かなり上昇する</b>。</li>",
+        "name": "頭皮のついたちょんまげ",
+        "id": 862,
+        "index": "SCALPED_TOPKNOT",
+        "owner": "ONI",
+        "rarity": 2,
+        "image": "iconAddon_scalpedTopknot"
+    },
+    {
+        "description": "崋山が生まれたときに授けられたお守り。家族を守る力があると言われている。<li><i>血の怒り</i>発動中の<i>鬼の猛進</i>による移動速度が<b>そこそこ上昇する</b>。</li>",
+        "name": "家内安全のお守り",
+        "id": 863,
+        "index": "KANAIANZEN_TALISMAN",
+        "owner": "ONI",
+        "rarity": 2,
+        "image": "iconAddon_kanaianzenTalisman"
+    },
+    {
+        "description": "崋山が侍を浄化する巡礼に旅立った際に、崋山の母が涙を拭った手ぬぐい。<li>生存者をダウンさせた時の<i>血の怒り</i>の消費ペナルティが<b>かなり減少する</b>。</li>",
+        "name": "涙が染み込んだ手ぬぐい",
+        "id": 864,
+        "index": "TEAR_SOAKED_TENUGUI",
+        "owner": "ONI",
+        "rarity": 3,
+        "image": "iconAddon_tearSoakedTenugui"
+    },
+    {
+        "description": "山岡練次郎を運んだ船の一部。あらゆる障害を乗り越えて、伝説の侍は生き延びたようだ。<li>生存者が落とす血の球の量が<b>そこそこ上昇する</b>。</li>",
+        "name": "裂けた船体",
+        "flavor": "「策略を練るのならば、誰にも話さないことだ。」- 練次郎の教え 漆ノ玖",
+        "id": 865,
+        "index": "SPLINTERED_HULL",
+        "owner": "ONI",
+        "rarity": 3,
+        "image": "iconAddon_splinteredHull"
+    },
+    {
+        "description": "珍しいものを扱う行商が売っていた牙。力と高貴さを象徴している。<li><i>血の怒り</i>の発動時間を<b>かなり上昇する</b>。</li>",
+        "name": "ライオンの牙",
+        "id": 866,
+        "index": "LION_FANG",
+        "owner": "ONI",
+        "rarity": 3,
+        "image": "iconAddon_lionFang"
+    },
+    {
+        "description": "崋山の息子である彰人が木から落ちた後に使用した松葉づえ。友だちとその家族は、彰人の怪我のせいで罰せられた。<li><i>血の怒り</i>発動中の<i>鬼の猛進</i>による移動速度が<b>かなり上昇する</b>。</li>",
+        "name": "彰人の松葉づえ",
+        "id": 867,
+        "index": "AKITOS_CRUTCH",
+        "owner": "ONI",
+        "rarity": 3,
+        "image": "iconAddon_akitosCrutch"
+    },
+    {
+        "description": "息子の一撃を受けた後に練次郎が胸に掲げた籠手。<li>すべての生存者に血の球が見えるようになる。</li><li>血の球に接触した生存者は、血の球を吸収するとともに、殺人鬼からは<b>2秒間</b>、オーラが見えるようになる</li>。<li>この効果は血の球を吸収するたびに重複する</li>。",
+        "name": "練次郎の血塗れの籠手",
+        "flavor": "「何もかもを失っても、高潔であれ。」- 練次郎の教え 拾肆ノ拾弐",
+        "id": 868,
+        "index": "RENJIROS_BLOODY_GLOVE",
+        "owner": "ONI",
+        "rarity": 4,
+        "image": "iconAddon_renirosBloodyGlove"
+    },
+    {
+        "description": "持っていることで山岡家の一部であることを意味する家紋。<br><li><i>血の怒り</i>が発動中、<i>鬼の一撃</i>を外すと、<b>半径12メートル</b>内の生存者全員が叫び声をあげて、その現在置を明かす。</li>",
+        "name": "玉虫色の家紋",
+        "flavor": "「己の心を守れるように、己を知ることだ。」- 練次郎の教え 拾壱ノ弐",
+        "id": 869,
+        "index": "IRIDESCENT_FAMILY_CREST",
+        "owner": "ONI",
+        "rarity": 4,
+        "image": "iconAddon_IridescentFamilyCrest"
+    },
+    {
+        "description": "汚れた黄麻布。銃撃戦の真っ最中にスピアガンを拭くなら、唾で必死に磨けばいい。<li><b>銛が外れた後のクールダウン時間が少し短くなる</b></li>",
+        "name": "唾磨きのボロ布 ",
+        "id": 900,
+        "index": "SPIT_POLISH_RAG",
+        "owner": "DEATHSLINGER",
+        "rarity": 0,
+        "image": "iconAddon_spitPolishRag"
+    },
+    {
+        "description": "巡回セールスマンから買ったオイルとエキスのチンキ。あらゆる症状を治すらしい。<li>スピアガンの巻き取り速度が<b>少し上昇する</b></li>",
+        "name": "インチキ薬 ",
+        "id": 901,
+        "index": "SNAKE_OIL",
+        "owner": "DEATHSLINGER",
+        "rarity": 0,
+        "image": "iconAddon_snakeOil"
+    },
+    {
+        "description": "当初カレブがスピアガンのプロトタイプに使用した壊れやすい鉄の鎖。失敗作だが思い入れがある。<li><i>銛命中</i>スコアが発生すると、ブラッドポイントを<b>50%</b>追加で獲得する</li><li>生存者の銛から逃れる難易度が下がる</li>",
+        "name": "ボロボロの鎖",
+        "id": 902,
+        "index": "RICKETY_CHAIN",
+        "owner": "DEATHSLINGER",
+        "rarity": 0,
+        "image": "iconAddon_ricketyChain"
+    },
+    {
+        "description": "カレブが特殊兵器のために改造した古い弾帯。アリゾナ準州の砂漠の細かい赤土が今でも付着している。<li><b>スピアガンのリロード速度が少し上昇する</b></li>",
+        "name": "改造弾帯 ",
+        "id": 903,
+        "index": "MODIFIED_AMMO_BELT",
+        "owner": "DEATHSLINGER",
+        "rarity": 0,
+        "image": "iconAddon_modifiedAmmoBelt"
+    },
+    {
+        "description": "カレブが病的な好奇心にかられてスピアガンの前部に固定した線路の犬釘。先端の切れが鈍く、簡単には貫通しない。<li>犬釘が刺さった生存者を攻撃すると<b>重傷</b>のステータス効果を付与する</li>",
+        "name": "錆びた犬釘 ",
+        "id": 904,
+        "index": "RUSTED_SPIKE",
+        "owner": "DEATHSLINGER",
+        "rarity": 1,
+        "image": "iconAddon_rustedSpike"
+    },
+    {
+        "description": "何の変哲もなさそうな植物だが、その油を銛に塗ると傷の周辺に耐え難いほどの水疱ができることをカレブは発見した。<li><b>深手</b>のステータス効果を受けている生存者の治癒時間が<b>少し増加する</b></li>",
+        "name": "漆の葉",
+        "id": 905,
+        "index": "POISON_OAK_LEAVES",
+        "owner": "DEATHSLINGER",
+        "rarity": 1,
+        "image": "iconAddon_poisonOakLeaves"
+    },
+    {
+        "description": "アリゾナ準州の保安官の遺体から奪われた銀バッジ。ヘルシャーギャングの賞金稼ぎを妨害して殺された。<li>スピアガンの照準をのぞき込む間の脅威範囲が<b>少し減少する</b></li><li>スピアガンの照準をのぞき込む間の移動速度が<b>少し低下する</b></li><span class=\"FlavorText\">「葬式の手配をしておけ。昼前には首吊りだ。」- カレブ・クイン</span>",
+        "name": "保安官の記章 ",
+        "id": 906,
+        "index": "MARSHALS_BADGE",
+        "owner": "DEATHSLINGER",
+        "rarity": 1,
+        "image": "iconAddon_marshalsBadge"
+    },
+    {
+        "description": "逆上した銃撃戦でカレブの顎を突き破った弾丸。燃えるような復讐の念が蘇る。<li>スピアガンの照準をのぞき込む間の移動速度が<b>少し上昇する</b></li><span class=\"FlavorText\">「俺を不当に扱ったその瞬間に、お前は死の淵に立っていた。」 - カレブ・クイン</span>",
+        "name": "顎粉砕弾 ",
+        "id": 907,
+        "index": "JAW_SMASHER",
+        "owner": "DEATHSLINGER",
+        "rarity": 1,
+        "image": "iconAddon_jawSmasher"
+    },
+    {
+        "description": "切り取られた缶入りの甘い煙草。グレンベールのはらわたを抜かれた死体から盗まれたもの。神経系を刺激する。<li>生存者がスピアガンから抜け出したときの怯む時間が<b>そこそこ減少する</b></li>",
+        "name": "噛み煙草",
+        "id": 908,
+        "index": "CHEWING_TOBACCO",
+        "owner": "DEATHSLINGER",
+        "rarity": 1,
+        "image": "iconAddon_chewingTobacco"
+    },
+    {
+        "description": "耳障りな鈍い鍵の金属音がカレブに激高の記憶を呼び起こさせる。<li>スピアガンのリロード速度が<b>そこそこ上昇する</b></li>",
+        "name": "看守の鍵 ",
+        "id": 909,
+        "index": "WARDENS_KEYS",
+        "owner": "DEATHSLINGER",
+        "rarity": 2,
+        "image": "iconAddon_wardensKeys"
+    },
+    {
+        "description": "メイソン・ケリーの指名手配ポスターの黄ばんだ残骸。カレブは狩りに集中していた。<li>スピアガンの照準をのぞき込む間の移動速度が<b>そこそこ上昇する</b></li><span class=\"FlavorText\">「お前は苛烈な報いを受けることになる。お袋の墓に誓って言うよ。」 - カレブ・クイン</span>",
+        "name": "指名手配ポスター ",
+        "id": 910,
+        "index": "WANTED_POSTER",
+        "owner": "DEATHSLINGER",
+        "rarity": 2,
+        "image": "iconAddon_wantedPoster"
+    },
+    {
+        "description": "機械の摩擦を減らすためのオイルを少量入れた缶。スピアガンの初期モデルは引っかかることで有名で、オイルは必需品だった。<li><b>槍が外れた後のクールダウン時間がそこそこ短くなる</b></li>",
+        "name": "ブリキのオイル缶 ",
+        "id": 911,
+        "index": "TIN_OIL_CAN",
+        "owner": "DEATHSLINGER",
+        "rarity": 2,
+        "image": "iconAddon_tinOilCan"
+    },
+    {
+        "description": "賞金首に2回も逃げられたことに怒り、カレブは棘のある枝を銛に巻きつけて放った。<li>スピアガンから逃れた生存者は<b>重傷</b>のステータス効果に苦しむ</li>",
+        "name": "ハニーローカストの棘 ",
+        "id": 912,
+        "index": "HONEY_LOCUST_THORNS",
+        "owner": "DEATHSLINGER",
+        "rarity": 2,
+        "image": "iconAddon_honeyLocustThorns"
+    },
+    {
+        "description": "ヘンリー・ベイショアから引き抜かれた金歯。命乞いの叫び声もむなしく、数時間後にはとどめを刺された。<li>スピアガンの巻き取り速度が<b>そこそこ上昇する</b></li><span class=\"FlavorText\">「立場をわきまえろ。身の程を知れってことだよ。」- ヘンリー・ベイショア</span>",
+        "name": "ベイショアの金歯",
+        "id": 913,
+        "index": "BAYSHORES_GOLD_TOOTH",
+        "owner": "DEATHSLINGER",
+        "rarity": 2,
+        "image": "iconAddon_bayshoresGoldTooth"
+    },
+    {
+        "description": "鉄の球が付いた太くて重い鎖。かつてカレブの足首に掛けられていたが、今では銛につなぐために使われている。<li>生存者が銛から逃れるために必要なチャージが<b>かなり増加する</b></li><span class=\"FlavorText\">「刑務所の構外で作業する受刑者には18ポンドもの鉄球を装着することとする。」 - ヘルシャー刑務所看守の手引</span>",
+        "name": "刑務所の足かせ",
+        "id": 914,
+        "index": "PRISON_CHAIN",
+        "owner": "DEATHSLINGER",
+        "rarity": 3,
+        "image": "iconAddon_prisonChain"
+    },
+    {
+        "description": "温かい安らぎを与える瓶入りの飲み物。カレブの怒りは鎮まり、足取りはゆっくりとなった。<li>スピアガンの照準をのぞき込む時の脅威範囲が<b>そこそこ縮小する</b></li><li>スピアガンの照準をのぞき込む間の移動速度が<b>そこそこ低下する</b></li><span class=\"FlavorText\">「厳しい辺境にも、やさしい口当たり」- ゴールドクリークの広告（1876年）</span>",
+        "name": "ゴールドクリークのウィスキー",
+        "id": 915,
+        "index": "GOLD_CREEK_WHISKEY",
+        "owner": "DEATHSLINGER",
+        "rarity": 3,
+        "image": "iconAddon_clearCreekWhiskey"
+    },
+    {
+        "description": "カレブの上司が持っていた高級葉巻。腹に犬釘が刺さって嘆いているなか上着から引き抜いた。<li>生存者が銛から抜け出したときの怯む時間が<b>かなり減少する</b></li><span class=\"FlavorText\">「このたわけめ、そいつをこちらに向けたらただじゃおかんぞ。」- ヘンリー・ベイショア</span>",
+        "name": "ベイショアの葉巻",
+        "id": 916,
+        "index": "BAYSHORES_CIGAR",
+        "owner": "DEATHSLINGER",
+        "rarity": 3,
+        "image": "iconAddon_bayshoresCigar"
+    },
+    {
+        "description": "返しが裏打ちされた、柔軟なアメリカ製の鋼鉄。シンプルだが、カレブはこれを銛に巻きつければ殺傷能力が上がることに気がついた。<li><b>深手</b>のステータス効果を受けている生存者の治癒時間が<b>そこそこ増加する</b></li></li><span class=\"FlavorText\">「さしあたって恐れる対象は何もない。それまでは俺を恐れておけ。」 - カレブ・クイン</span>",
+        "name": "鉄条",
+        "id": 917,
+        "index": "BARBED_WIRE",
+        "owner": "DEATHSLINGER",
+        "rarity": 3,
+        "image": "iconAddon_barbedWire"
+    },
+    {
+        "description": "霧そのものから作られたガラス状の硬貨。賞金稼ぎが提供したサービスに対する支払い金。<li><b>15メートル</b>以上離れた位置で銛に刺さった生存者は、銛が抜けるまで<b>無防備</b>のステータス効果に苦しむ</li><span class=\"FlavorText\">「死物狂いで結んだ取引の対価は、狂気のなかで支払われるのだ。」</span>",
+        "name": "玉虫色のコイン",
+        "id": 918,
+        "index": "IRIDESCENT_COIN",
+        "owner": "DEATHSLINGER",
+        "rarity": 4,
+        "image": "iconAddon_iridescentCoin"
+    },
+    {
+        "description": "ヘルシャーギャングの焼き印。伝説とは裏腹に実際には新人に使われたことはなく、代わりに血の気の多い賞金首に押すために使われていた。<li>生存者に銛が刺さっている間はずっと、脅威範囲内にいる生存者全員のオーラが視えるようになる。</li><span class=\"FlavorText\">「ヘルシャーギャングは正義の追求者か、無法者か？」 - グレンベール新聞トップ記事</span>",
+        "name": "ヘルシャーの鉄",
+        "id": 919,
+        "index": "HELLSHIRE_IRON",
+        "owner": "DEATHSLINGER",
+        "rarity": 4,
+        "image": "iconAddon_hellshireIron"
+    },
+    {
+        "description": "冷蔵庫で見つかった指輪。不快なむくみ顔が彫り込まれている。<li><b>裁きの儀式</b>がマップ上に残存する持続時間が<b>少し増加する</b></li>",
+        "name": "鉛の指輪 ",
+        "id": 950,
+        "index": "LEAD_RING",
+        "owner": "EXECUTIONER",
+        "rarity": 0,
+        "image": "iconAddon_leadRing"
+    },
+    {
+        "description": "ウッドサイドアパートのベッドで見つかった蝶。触れると壊れてしまいそうなほど脆い。<li><b>裁きの儀式</b>のチャージ速度が<b>少し上昇する</b></li>",
+        "name": "死んだ蝶 ",
+        "id": 951,
+        "index": "DEAD_BUTTERFLY",
+        "owner": "EXECUTIONER",
+        "rarity": 0,
+        "image": "iconAddon_deadButterfly"
+    },
+    {
+        "description": "ブルックヘイヴン病院の地下で見つかった指輪。蜘蛛の絵が彫り込まれている。<li><b>裁きの儀式</b>が発動する合計時間が<b>少し増加する</b></li>",
+        "name": "銅の指輪 ",
+        "flavor": "「地下の地下に閉じ込められました。とても狭く、とても暗く、とても怖かったです。大切な指輪を落としてしまいました。でももうあそこには入りたくないです。」",
+        "id": 952,
+        "index": "COPPER_RING",
+        "owner": "EXECUTIONER",
+        "rarity": 0,
+        "image": "iconAddon_copperRing"
+    },
+    {
+        "description": "金属の骨組に人を拘束するために使われていたナイロン製のストラップ。黒色で血が染み込んでもわかりづらい。<li><b>地獄の罰</b>の範囲が<b>少し拡大する</b></li>",
+        "name": "黒のストラップ ",
+        "id": 953,
+        "index": "BLACK_STRAP",
+        "owner": "EXECUTIONER",
+        "rarity": 0,
+        "image": "iconAddon_blackStrap"
+    },
+    {
+        "description": "ろうで作られた人形。裁きを受ける直前の囚人の手によって作られた。<li><b>地獄の罰</b>の範囲が<b>そこそこ拡大する</b></li>",
+        "name": "ろう人形 ",
+        "id": 954,
+        "index": "WAX_DOLL",
+        "owner": "EXECUTIONER",
+        "rarity": 1,
+        "image": "iconAddon_waxDoll"
+    },
+    {
+        "description": "錆びた槍の先。鋭い刃は最後の被害者の血痕で覆われている。<li><b>裁きの儀式</b>が発動する合計時間が<b>そこそこ伸びる</b></li>",
+        "name": "槍の穂先 ",
+        "id": 955,
+        "index": "SPEARHEAD",
+        "owner": "EXECUTIONER",
+        "rarity": 1,
+        "image": "iconAddon_spearhead"
+    },
+    {
+        "description": "ピンク色ヒョウ柄の布切れ。何に使われていたかは不明。<li><b>裁きの儀式</b>によって引き起こされた<i>殺人鬼の本能</i>の持続時間が<b>少し増加する</b></li>",
+        "name": "ヒョウ柄の布  ",
+        "flavor": "「私の正体はどうだっていい。あなたのために来たのよ、ジェイムス。」- マリア",
+        "id": 956,
+        "index": "LEOPARD_PRINT_FABRIC",
+        "owner": "EXECUTIONER",
+        "rarity": 1,
+        "image": "iconAddon_leopardPrintFabric"
+    },
+    {
+        "description": "サイレントヒルで休暇を楽しむカップルのビデオテープ。思い入れのある物のはずだが、レイクビューホテルに置き去りにされていた。<li><b>裁きの儀式</b>のチャージ速度が<b>そこそこ上昇する</b></li>",
+        "name": "忘れられたビデオテープ ",
+        "id": 957,
+        "index": "FORGOTTEN_VIDEOTAPE",
+        "owner": "EXECUTIONER",
+        "rarity": 1,
+        "image": "iconAddon_forgottenVideoTape"
+    },
+    {
+        "description": "童話「シンデレラ」の人形付きオルゴール。さまざまな行き先のシールが貼られたスーツケースの中で見つかった。<li><b>裁きの儀式</b>がマップ上に残存する持続時間が<b>そこそこ増加する</b></li>",
+        "name": "灰被り姫のオルゴール ",
+        "id": 958,
+        "index": "CINDERELLA_MUSIC_BOX",
+        "owner": "EXECUTIONER",
+        "rarity": 1,
+        "image": "iconAddon_cinderellaMusicBox"
+    },
+    {
+        "description": "赤い頭巾をかぶった2人の人物の写真。神に捧げる赤と白の宴という題名がついている。<li><b>裁きの儀式</b>のチャージ速度が<b>かなり上昇する</b></li>",
+        "name": "ヴァルティエル派の写真 ",
+        "id": 959,
+        "index": "VALTIEL_SECT_PHOTOGRAPH",
+        "owner": "EXECUTIONER",
+        "rarity": 2,
+        "image": "iconAddon_valtielSectPhotograph"
+    },
+    {
+        "description": "アステカ族が彫り込まれた金属製の板。<li><b>裁きの儀式</b>が発動する合計時間が<b></b>かなり増加する</li>",
+        "name": "虐げる者の銘板 ",
+        "id": 960,
+        "index": "TABLET_OF_THE_OPPRESSOR",
+        "owner": "EXECUTIONER",
+        "rarity": 2,
+        "image": "iconAddon_tabletOfTheOppressor"
+    },
+    {
+        "description": "堂々とした男の絵。鋼鉄のピラミッド型の物体を頭にかぶり、背景には檻に閉じ込められた被害者が描かれている。<li><b>裁きの儀式</b>によって引き起こされた<i>殺人鬼の本能</i>の持続時間が<b>そこそこ増加する</b></li>",
+        "name": "霧の日、裁きの跡 ",
+        "flavor": "「奴だ…」",
+        "id": 961,
+        "index": "MISTY_DAY_REMAINS_OF_JUDGMENT",
+        "owner": "EXECUTIONER",
+        "rarity": 2,
+        "image": "iconAddon_mistyDay"
+    },
+    {
+        "description": "灰色の滑らかなマネキンの片足。無残にも脚から切り離されている。<li><b>裁きの儀式</b>がマップ上に残存する持続時間が<b>かなり増加する</b></li>",
+        "name": "マネキンの足 ",
+        "id": 962,
+        "index": "MANNEQUIN_FOOT",
+        "owner": "EXECUTIONER",
+        "rarity": 2,
+        "image": "iconAddon_mannequinFoot"
+    },
+    {
+        "description": "レイクビューホテルの略図。この罪なる建物には赤い炎が描かれている。<li>地獄の罰の距離が<b>かなり伸びる</b></li>",
+        "name": "燃える人の絵",
+        "id": 963,
+        "index": "BURNING_MAN_PAINTING",
+        "owner": "EXECUTIONER",
+        "rarity": 2,
+        "image": "iconAddon_burningManPainting"
+    },
+    {
+        "description": "ひときわ赤い新鮮なタマゴ。ウズラの卵ほどの大きさ。<li><b>裁きの儀式</b>によって引き起こされた<i>殺人鬼の本能</i>の持続時間が<b>かなり増加する</b></li>",
+        "name": "緋色の卵 ",
+        "flavor": "「泣きそうになったのよ。死にそうになったんだから！私のこと…どうでもいいと思ってるんでしょう？」- マリア",
+        "id": 964,
+        "index": "SCARLET_EGG",
+        "owner": "EXECUTIONER",
+        "rarity": 3,
+        "image": "iconAddon_scarletEgg"
+    },
+    {
+        "description": "赤みのかかったオレンジ色をした古そうなタマゴ。ウズラの卵ほどの大きさ。<li><b>裁きの儀式</b>の効果を受けた生存者は<b>60秒間</b>、<b>目眩まし</b>のステータス効果に苦しむ。</li>",
+        "name": "錆色の卵 ",
+        "flavor": "「ジェイムス…あなたのおかげで幸せだった。」- メアリー",
+        "id": 965,
+        "index": "RUST_COLORED_EGG",
+        "owner": "EXECUTIONER",
+        "rarity": 3,
+        "image": "iconAddon_rustColoredEgg"
+    },
+    {
+        "description": "サイレントヒルやその近辺の伝承や歴史について書かれている本。<li><b>裁きの儀式</b>の効果を受けた生存者は<b>15秒間</b>、<b>忘却</b>のステータス効果に苦しむ</li><span class=\"FlavorText\">「ここは『静かなる精霊眠る場所』と呼ばれていた。」</span>",
+        "name": "失われた記憶の書 ",
+        "id": 966,
+        "index": "LOST_MEMORIES_BOOK",
+        "owner": "EXECUTIONER",
+        "rarity": 3,
+        "image": "iconAddon_lostMemoriesBook"
+    },
+    {
+        "description": "古の神に関する本。著者は不明。<li>負傷した生存者が<i>煩悶</i>の影響を受けると、<b>出血</b>のステータス効果に苦しむ</li>",
+        "name": "赤の祭祀の書 ",
+        "flavor": "「語れ。我は真紅のものである。嘘と霧は、彼らではなく、また我である。」",
+        "id": 967,
+        "index": "CRIMSON_CEREMONY_COOK",
+        "owner": "EXECUTIONER",
+        "rarity": 3,
+        "image": "iconAddon_crimsonCeremonyBook"
+    },
+    {
+        "description": "黒曜石で作られた古めかしい杯。<li><b>エクセキューショナー</b>は<b>裁きの儀式</b>の道の上に立つと、<b>探知不可</b>のステータス効果を得る</li>",
+        "name": "黒曜石の酒杯 ",
+        "flavor": "「眠りから目覚めさせるのを許して欲しい。でもあなたなしでは前に進めない。」 - ジェイムス・サンダーランド",
+        "id": 968,
+        "index": "OBSIDIAN_GOBLET",
+        "owner": "EXECUTIONER",
+        "rarity": 4,
+        "image": "iconAddon_obsidianGoblet"
+    },
+    {
+        "description": "奇妙なデザインが刻み込まれたお守り。エンティティの影響によって変化したと見られる。<li>生存者を<b>贖罪の檻</b>に送り込むと、<i>煩悶</i>に苦しむ生存者のオーラが<b>6秒間</b>視えるようになる</li>",
+        "name": "玉虫色のメタトロンの紋章 ",
+        "flavor": "「この四角い魔法の物体は『バイルン7世のクレスト』またの名を『メタトロンの紋章』と呼ばれ、強力な保護特性と魔よけ効果を持つ。」",
+        "id": 969,
+        "index": "IRIDESCENT_SEAL_OF_METATRON",
+        "owner": "EXECUTIONER",
+        "rarity": 4,
+        "image": "iconAddon_IridescentSeal"
+    },
+    {
+        "description": "完全に効果のない薬…かどうかはわからない。<br><br><li>突進中の移動速度が<b>そこそこ低下する</b>。</li><li>突進のスコア発生時にブラッドポイントを<b>100%</b>追加取得する</li>",
+        "name": "錠剤タイプの偽薬 ",
+        "id": 1000,
+        "index": "PLACEBO_TABLET",
+        "owner": "BLIGHT",
+        "rarity": 0,
+        "image": "iconAddon_placeboTablet"
+    },
+    {
+        "description": "タルボットの化学に対する興味を引き出した有毒植物。奥底に秘めた思い出をよみがえらせる。<br><br><li>突進の後の回復速度が<b>少し上昇する</b></li> \n",
+        "name": "ジギタリス ",
+        "id": 1001,
+        "index": "FOXGLOVE",
+        "owner": "BLIGHT",
+        "rarity": 0,
+        "image": "iconAddon_foxglove"
+    },
+    {
+        "description": "初期のサンプル。期待されていた結果を達成することはなかったが、それでも驚くような効果を証明した。<br><br><li>衝突の後<b>16メートル内にいる</b>最も近い生存者に直面する。</li>",
+        "name": "化合物7 ",
+        "id": 1002,
+        "index": "COMPOUND_SEVEN",
+        "owner": "BLIGHT",
+        "rarity": 0,
+        "image": "iconAddon_compoundSeven"
+    },
+    {
+        "description": "年老いて視力が衰えたにもかかわらず、タルボットがほとんど使わなかった単眼鏡。<br><br><li>激突の目標位置が表示される</li>",
+        "name": "欠けた単眼鏡",
+        "id": 1003,
+        "index": "CHIPPED_MONOCLE",
+        "owner": "BLIGHT",
+        "rarity": 0,
+        "image": "iconAddon_chippedMonocle"
+    },
+    {
+        "description": "タルボットの手記の一部。価値のある情報が記載されている。<br><br><li>利用可能な突進トークンが<b>1つ</b>減少する</li><li>突進トークンの再生速度が<b>そこそこ上昇する</b></li> ",
+        "name": "ボロボロの手記 ",
+        "id": 1004,
+        "index": "SHREDDED_NOTES",
+        "owner": "BLIGHT",
+        "rarity": 1,
+        "image": "iconAddon_shreddedNotes"
+    },
+    {
+        "description": "乾燥させたパチュラの花弁を細塵状にすりつぶしたもの。<br><br><li>衝突時間が<b>そこそこ上昇する</b></li>",
+        "name": "パチュラの粉 ",
+        "id": 1005,
+        "index": "PUSTULA_DUST",
+        "owner": "BLIGHT",
+        "rarity": 1,
+        "image": "iconAddon_pustulaDust"
+    },
+    {
+        "description": "プレイグの胆汁のサンプル。精製され、化学薬品の混合物で処理されている。<br><br><li>突進中のターン速度が<b>少し</b><b>上昇する</b></li> ",
+        "name": "プレイグの胆汁",
+        "id": 1006,
+        "index": "PLAGUE_BILE",
+        "owner": "BLIGHT",
+        "rarity": 1,
+        "image": "iconAddon_plagueBile"
+    },
+    {
+        "description": "臓器の潰瘍から切り取った棘。かなり大きく、軽度の毒素を分泌する。<br><br><li>突進後の回復速度が<b>そこそこ上昇する</b></li> ",
+        "name": "潰瘍の棘",
+        "id": 1007,
+        "index": "CANKER_THORN",
+        "owner": "BLIGHT",
+        "rarity": 1,
+        "image": "iconAddon_cankerThorn"
+    },
+    {
+        "description": "血清を投与され一瞬生き返ったネズミ。攻撃的で制御不能になった。<br><br><li>連続するラッシュごとの突進の速度が<b>そこそこ上昇する</b></li> ",
+        "name": "破滅したネズミ ",
+        "id": 1008,
+        "index": "BLIGHTED_RAT",
+        "owner": "BLIGHT",
+        "rarity": 1,
+        "image": "iconAddon_blightedRat"
+    },
+    {
+        "description": "一瞬だけ霊界を通り抜けた、ごく普通の海塩。その過程で性質が変わった。<br><br><li>突進中のターン速度が<b>そこそこ上昇する</b></li> ",
+        "name": "本影の塩 ",
+        "id": 1009,
+        "index": "UMBRA_SALTS",
+        "owner": "BLIGHT",
+        "rarity": 2,
+        "image": "iconAddon_umbraSalts"
+    },
+    {
+        "description": "非常に貴重な新月の花束から取った、乾燥したバラの花で作られた混合物。<br><br><li>激突の持続時間が<b>かなり増加する</b></li> ",
+        "name": "バラの強壮剤 ",
+        "id": 1010,
+        "index": "ROSE_TONIC",
+        "owner": "BLIGHT",
+        "rarity": 2,
+        "image": "iconAddon_roseTonic"
+    },
+    {
+        "description": "人間の命を脅かす血清。それ以上の存在である者には、有益な効果をもたらす。<br><br><li>激突を発動すると、衝突位置の<b>8メートル</b>以内にいる生存者のオーラが<b>3秒間</b>視える</li>",
+        "name": "化合物21 ",
+        "id": 1011,
+        "index": "COMPOUND_TWENTY_ONE",
+        "owner": "BLIGHT",
+        "rarity": 2,
+        "image": "iconAddon_compoundTwentyOne"
+    },
+    {
+        "description": "破滅の血清によりグロテスクな変異を遂げて死んだカラス.<br><br><li><b>連続するラッシュごとの突進の速度が</b> かなり上昇する。</li>\n",
+        "name": "破滅したカラス ",
+        "id": 1012,
+        "index": "BLIGHTED_CROW",
+        "owner": "BLIGHT",
+        "rarity": 2,
+        "image": "iconAddon_blightedCrow"
+    },
+    {
+        "description": "\"不幸な被験者の副腎から抽出したホルモン。使用するとほとばしるエネルギーを得ることができるが、その後に疲労がやってくる。<br><br><li><b>突進中のターン速度が</b> かなり減少する。</li><li>トークンの再生率が<b> かなり増加する。</b></li><li>利用可能な突進トークンが<b>2つ</b><b>増加する。</b></li><li><b>突進中の視角が</b> かなり増加する。</li><br><br><span class=\"\"FlavorText\"\">\\「お願い、やめて…」\"\"</span>\n\"",
+        "name": "アドレナリンの小瓶 ",
+        "id": 1013,
+        "index": "ADRENALINE_VIAL",
+        "owner": "BLIGHT",
+        "rarity": 2,
+        "image": "iconAddon_adrenalineVial"
+    },
+    {
+        "description": "虚空から戻ってきたと言う男の日記。記載された情報には実用性がある。<br><br><li>突進中は<b>探知不可</b>のステータス効果を得る</li><br>",
+        "name": "ヴィゴの手記 ",
+        "flavor": "「忘れ去られた夢と終わりなき日常しかない荒れ地では、そこから抜け出す方法を知っている者が神である。」 ―タルボット・グライムズ",
+        "id": 1014,
+        "index": "VIGOS_JOURNAL",
+        "owner": "BLIGHT",
+        "rarity": 3,
+        "image": "iconAddon_vigosJournal"
+    },
+    {
+        "description": "タルボットはこの石を使って、本人が研究であると主張する対象をアヘン窟の壁に刻んだ。<br><br><li>死の突進が生存者に命中するとエンティティを呼び出し、<b>6秒間</b>現在地から<b>12メートル</b>以内のパレットをブロックする</li><br>",
+        "name": "召喚の石 ",
+        "flavor": "「死は始まりに過ぎないのだ。」",
+        "id": 1015,
+        "index": "SUMMONING_STONE",
+        "owner": "BLIGHT",
+        "rarity": 3,
+        "image": "iconAddon_summoningStone"
+    },
+    {
+        "description": "最近死亡した生存者の松果腺から絞り出した化学物質。<br><br><li>突進中、修理または治療中の生存者の周囲<b>16メートル</b>以内に入った瞬間に、その生存者に対し<b>とてつもなく</b>難しいスキルチェックが発生する。突進1回で生存者1人につき1回のみ発動可。生存者の<b>16メートル</b>以内で開始した突進に対しては発動しない。</li><br>",
+        "name": "魂の化学物質 ",
+        "flavor": "「…は神経の律動活動に異常な変化をおよぼすと考えられる。」 ―未分類の謎めいた教科書",
+        "id": 1016,
+        "index": "SOUL_CHEMICAL",
+        "owner": "BLIGHT",
+        "rarity": 3,
+        "image": "iconAddon_soulChemical"
+    },
+    {
+        "description": "ロンドン医科大学を卒業した化学者に与えられる指輪。飽くなき野望を象徴する。<br><br><li>死の突進で生存者を攻撃すると即座にすべての突進トークンがリチャージされる。</li><br>",
+        "name": "錬金術師の指輪 ",
+        "flavor": "「その生徒は、無許可の科学実験を行う目的で墓を荒らしたという罪に問われている」 —教員によるタルボット・グライムズの処分（1838年）",
+        "id": 1017,
+        "index": "ALCHEMISTS_RING",
+        "owner": "BLIGHT",
+        "rarity": 3,
+        "image": "iconAddon_alchemistsRing"
+    },
+    {
+        "description": "霧そのものから作られたガラス状の研究室用ラベル。エンティティによるプレゼント。あるいは、かつて本人が他者にしていたような、ブライトにラベルをつける残酷ないたずら。<br><br><li>すべての突進トークンを使い切ると、最後に繰り出した死の突進を受けた生存者は瀕死状態になる。</li><br>",
+        "name": "玉虫色のブライト用ラベル",
+        "flavor": "「進化には劇的な変化が伴うものだ。」 ―タルボット・グライムズ",
+        "id": 1018,
+        "index": "IRIDESCENT_BLIGHT_TAG",
+        "owner": "BLIGHT",
+        "rarity": 4,
+        "image": "iconAddon_iridescentBlightTag"
+    },
+    {
+        "description": "タルボットが最後から2番目に作った血清の試作品。タルボットの脱出には寄与しなかったが、強力な副作用があった。<br><br><li>激突の開始時、衝突位置の<b>16メートル</b>以内にいる生存者は<b>3秒間</b><b>妨害</b>のステータス効果に苦しむ</li><li>衝突パレットか破壊可能な壁で破壊され<b>1.5秒間</b>ブライトを気絶させる</li><br>",
+        "name": "化合物33 ",
+        "flavor": "「時間がない。これで決めなければ…」 ―タルボット・グライムズ",
+        "id": 1019,
+        "index": "COMPOUND_THIRTY_THREE",
+        "owner": "BLIGHT",
+        "rarity": 4,
+        "image": "iconAddon_compoundThirtyThree"
+    },
+    {
+        "description": "数センチしかないおもちゃのミニ剣。それを持つと、ヴィクトルの中で暴力への強い興味が湧き上がった。<br><br><li>飛び付きのチャージ時間が<b>少し減少する</b></li>",
+        "name": "おもちゃの剣",
+        "id": 1050,
+        "index": "TOY_SWORD",
+        "owner": "TWINS",
+        "rarity": 0,
+        "image": "iconAddon_toySword"
+    },
+    {
+        "description": "ヴィクトルの死を嘆き悲しむシャルロットは、ヴィクトルの腐った手から剥がれてきた爪を形見にした。<br><br><li>ヴィクトルがシャルロットから離れるまでの時間が<b>そこそこ短縮される</b></li>",
+        "name": "爪",
+        "id": 1051,
+        "index": "TINY_FINGERNAIL",
+        "owner": "TWINS",
+        "rarity": 0,
+        "image": "iconAddon_tinyFingernail"
+    },
+    {
+        "description": "酸っぱくなってしまった牛乳が入った金属製のボトル。どれほどうるさいヴィクトルでも、食事の時にこれがあると大人しくなった。<br><br><li>ヴィクトルの叫び声の範囲が<b>少し拡大する</b></li>",
+        "name": "酸っぱくなった牛乳",
+        "id": 1052,
+        "index": "SOURED_MILK",
+        "owner": "TWINS",
+        "rarity": 0,
+        "image": "iconAddon_souredMilk"
+    },
+    {
+        "description": "幼いヴィクトルの目に留まった木製の置物。母親が盗んでくれるまで金切り声で喚いたせいで、隠れているのがバレそうだった。<br><br><li>飛び付きのターゲットの位置が表示される</li>",
+        "name": "猫の置物",
+        "id": 1053,
+        "index": "CAT_FIGURINE",
+        "owner": "TWINS",
+        "rarity": 0,
+        "image": "iconAddon_catFigurine"
+    },
+    {
+        "description": "ツインズの母親が持っていた手袋。非常時にはヴィクトルの声が漏れないよう、これで口を押さえていた。<br><br><li>ヴィクトルの叫び声の範囲が<b>そこそこ拡大する</b></li>",
+        "name": "マドレーヌの手袋",
+        "id": 1054,
+        "index": "MADELEINES_GLOVE",
+        "owner": "TWINS",
+        "rarity": 1,
+        "image": "iconAddon_madeleinesGlove"
+    },
+    {
+        "description": "枝分かれしたキャンドルスティック。ヴィクトルがこれで転倒したおかげで追っ手が燃えた、執念の象徴。<br><br><li>生存者がヴィクトルを潰すのに必要な時間が<b>少し増加する</b></li>",
+        "name": "儀式用のキャンドルスティック",
+        "id": 1055,
+        "index": "CEREMONIAL_CANDELABRUM",
+        "owner": "TWINS",
+        "rarity": 1,
+        "image": "iconAddon_ceremonialCandelabrum"
+    },
+    {
+        "description": "腹をすかせたデエ一家が食べた猫の眼。ヴィクトルが母親に内緒でおもちゃにして遊んでいた。<br><br><li>飛び付きのチャージが満タンになるとヴィクトルの叫び声が止まる</li>",
+        "name": "猫の眼",
+        "id": 1056,
+        "index": "CATS_EYE",
+        "owner": "TWINS",
+        "rarity": 1,
+        "image": "iconAddon_catsEye"
+    },
+    {
+        "description": "シャルロットを追っていた男の1人がかぶっていた頭巾。男は間もなく餌食になった。<br><br><li>シャルロットが休止状態から復活するまでの時間が<b>少し短縮される</b></li>",
+        "name": "血塗れの黒頭巾",
+        "id": 1057,
+        "index": "BLOODY_BLACK_HOOD",
+        "owner": "TWINS",
+        "rarity": 1,
+        "image": "iconAddon_bloodiedBlackHood"
+    },
+    {
+        "description": "ヴィクトルがずっと前に失った2本の歯。異常なほど鋭い。<br><br><li>ヴィクトルを払い除けた生存者は目眩ましのステータス効果に<b>15 秒間</b>苦しむ</li>",
+        "name": "乳歯",
+        "id": 1058,
+        "index": "BABY_TEETH",
+        "owner": "TWINS",
+        "rarity": 1,
+        "image": "iconAddon_babyTeeth"
+    },
+    {
+        "description": "作りが粗悪な乳児用のおもちゃ。母親がそれを盗んでくれるまでヴィクトルは泣き叫んだ。子供に持たせるには全体的に重すぎる。<br><br><li>ヴィクトルを払い除けた生存者は<b>衰弱</b>のステータス効果に<b>20 秒間</b>苦しむ</li> ",
+        "name": "重いガラガラ",
+        "id": 1059,
+        "index": "WEIGHTY_RATTLE",
+        "owner": "TWINS",
+        "rarity": 2,
+        "image": "iconAddon_weightyRattle"
+    },
+    {
+        "description": "マドレーヌが町の市場で盗んだ無発酵の硬いパン。量は少なかったが、大抵の食事に比べマシだった。<br><br><li>飛び付きのクールダウンが<b>少し短縮される</b></li>",
+        "name": "硬くなったパン",
+        "id": 1060,
+        "index": "STALE_BISCUIT",
+        "owner": "TWINS",
+        "rarity": 2,
+        "image": "iconAddon_staleBiscuit"
+    },
+    {
+        "description": "町の下水道を逃亡中にデエ姉弟がまみれた汚泥。<br><br><li>生存者がヴィクトルを払い除けるのに要する時間が<b>少し増加する</b></li>",
+        "name": "下水道のヘドロ",
+        "id": 1061,
+        "index": "SEWER_SLUDGE",
+        "owner": "TWINS",
+        "rarity": 2,
+        "image": "iconAddon_sewerSludge"
+    },
+    {
+        "description": "錆びた針",
+        "name": "錆びた針",
+        "id": 1062,
+        "index": "RUSTED_NEEDLE",
+        "owner": "TWINS",
+        "rarity": 2,
+        "image": "iconAddon_rustedNeedle"
+    },
+    {
+        "description": "マドレーヌが死ぬ少し前に着ていた布きれ。ツインズが形見として持っていた。<br><br><li>ヴィクトルの速度が<b>少し上昇する</b></li><br>",
+        "name": "マドレーヌのスカーフ",
+        "flavor": "「…は大義のため、そして悪の根絶における尽力の記録となるだろう。」 — マドレーヌ・デエの死に関する調査",
+        "id": 1063,
+        "index": "MADELEINES_SCARF",
+        "owner": "TWINS",
+        "rarity": 2,
+        "image": "iconAddon_madeleinesScarf"
+    },
+    {
+        "description": "ヴィクトルが怖い時にしがみついていたおもちゃの兵士。それには、シャルロットの中に嫉妬が湧き上がらせる何かがあった。<br><br><li>待機中のヴィクトルを潰した生存者のオーラが<b>6秒間</b>視えるようになる</li><br>",
+        "name": "ヴィクトルの兵士",
+        "flavor": "「ワ・ワ・ワル…イヤツラ…コロシて…」 — ヴィクトル・デエ",
+        "id": 1064,
+        "index": "VICTORS_SOLDIER",
+        "owner": "TWINS",
+        "rarity": 3,
+        "image": "iconAddon_victorsSoldier"
+    },
+    {
+        "description": "ツインズが持っていた木のコマ。自分だけのコマを欲しがったヴィクトルは、がっしりとしがみついて叫び声を上げれば欲しいものが手に入るということを覚えた。<br><br><li>ヴィクトルに飛び付かれた生存者は持っているアイテムを落とす。</li><br>",
+        "name": "コマ",
+        "flavor": "「シーッ…静かにして、お願い…わかったわ、あなたにあげる。」 — シャルロット・デエ",
+        "id": 1065,
+        "index": "SPINNING_TOP",
+        "owner": "TWINS",
+        "rarity": 3,
+        "image": "iconAddon_spinningTop"
+    },
+    {
+        "description": "略奪した野菜で作ったシチュー。苔や樹皮が混ざり合ってまろやかさが出ているような錯覚を覚える。<br><br><li>ヴィクトルの速度が<b>そこそこ上昇する</b></li><br>",
+        "name": "森のシチュー",
+        "flavor": "「ほら…食べて。食べたらきっと良くなるわ。」 — マドレーヌ・デエ",
+        "id": 1066,
+        "index": "FOREST_STEW",
+        "owner": "TWINS",
+        "rarity": 3,
+        "image": "iconAddon_forestStew"
+    },
+    {
+        "description": "マドレーヌが過去の人生から逃げ出した時に持ってきた、数少ない贅沢品のひとつ。爽やかで、怒りを鎮めてくれるような香り。<br><br><li>ヴィクトルの奇声から範囲内の生存者は<b>忘却</b>のステータス効果を受ける</li><br>",
+        "name": "微量の香水",
+        "flavor": "「男の親切心につけ込む魔女の偽りには、用心しなければならない。」 — 魔女と悪魔の歴史（1602年）",
+        "id": 1067,
+        "index": "DROP_OF_PERFUME",
+        "owner": "TWINS",
+        "rarity": 3,
+        "image": "iconAddon_dropOfPerfume"
+    },
+    {
+        "description": "5歳だったシャルロットが口の中に入れていた粗悪な布きれ。口に入れて、魔女狩りのハンターが近くにいる時に叫ばないようにしていた。<br><br><li>待機状態から戻ったシャルロットが<b>20秒間</b><b>探知不可</b>の状態になる。</li><br>",
+        "name": "沈黙の布",
+        "flavor": "「お母さん、私もうこの遊びイヤなの…」 — シャルロット・デエ",
+        "id": 1068,
+        "index": "SILENCING_CLOTH",
+        "owner": "TWINS",
+        "rarity": 4,
+        "image": "iconAddon_silencingCloth"
+    },
+    {
+        "description": "霧そのものから作られたガラス状のペンダント。マドレーヌ・デエの肖像画が描かれているが、その描写にはどこか不吉なものがある。<br><br><li>待機中のヴィクトルを潰した生存者は<b>30秒間</b><b>無防備</b>のステータス効果に苦しむ</li><br>",
+        "name": "玉虫色のペンダント",
+        "flavor": "「私の愛しい子供たち。つながっているのは呪いなんかじゃないわ。活かすことのできる長所なのよ。」 — マドレーヌ・デエ",
+        "id": 1069,
+        "index": "IRIDESCENT_PENDANT",
+        "owner": "TWINS",
+        "rarity": 4,
+        "image": "iconAddon_iridescentPendant"
+    },
+    {
+        "description": "隠れポケットがたくさんある小袋。手品師になりたい人と、隠すものがある人が使う。<br><li>所持できるナイフの上限数が<b>10本</b><b>増加する</b></li><li>儀式開始時に所持するナイフ数が<b>10本</b>増える</li>",
+        "name": "トリック用ポーチ",
+        "id": 1100,
+        "index": "TRICK_POUCH",
+        "owner": "TRICKSTER",
+        "rarity": 0,
+        "image": "icons_Addon_TrickPouch"
+    },
+    {
+        "description": "血の錆びがついたナイフ。ジウンが殺人をはじめた頃から使っているため、擦り切れている。彼にとって大事な思い出の品。<br><li><b>名演</b>のスコアが発生するとブラッドポイントを<b>100%</b>追加取得する</li><li>各生存者の裂傷メーターが<b>そこそこ上昇する</b></li>",
+        "name": "思い出のナイフ",
+        "id": 1101,
+        "index": "MEMENTO_BLADES",
+        "owner": "TRICKSTER",
+        "rarity": 0,
+        "image": "icons_Addon_MementoBlades"
+    },
+    {
+        "description": "ジウンが曲に使わなかったコード。とは言え、間違いなくキャッチーなサウンドだ。<br><li>ナイフを投げている間の移動速度が<b>少し上昇する</b></li>",
+        "name": "死の声部のコード",
+        "id": 1102,
+        "index": "KILLING_PART_CHORDS",
+        "owner": "TRICKSTER",
+        "rarity": 0,
+        "image": "icons_Addon_KillingPartChords"
+    },
+    {
+        "description": "NO SPINメンバー4人が亡くなった火事で焼けたスタジオのケーブル。彼らの死がトリックスターをもたらした。<br><li>メインイベントの持続時間が<b>少し増加する</b></li>",
+        "name": "烈火のケーブル",
+        "id": 1103,
+        "index": "INFERNO_WIRES",
+        "owner": "TRICKSTER",
+        "rarity": 0,
+        "image": "icons_Addon_InfernoWires"
+    },
+    {
+        "description": "昌原の質素なバーで誕生したカクテル。ジウンのお気に入りになった。<br><li>メインイベントの持続時間が<b>そこそこ増加する</b></li>",
+        "name": "テキーラ・ムーンロック",
+        "id": 1104,
+        "index": "TEQUILA_MOONROCK",
+        "owner": "TRICKSTER",
+        "rarity": 1,
+        "image": "icons_Addon_TequilaMoonrock"
+    },
+    {
+        "description": "有名になる前にジウンが制作したアングラのシングル。NO SPINの大ファンだけがこの隠れた宝石を集めていた。<br><li>裂傷メーターの上限減少が開始するまでの時間が<b>少し増加する</b></li>",
+        "name": "シングル曲『狙いうち』",
+        "id": 1105,
+        "index": "ON_TARGET_SINGLE",
+        "owner": "TRICKSTER",
+        "rarity": 1,
+        "image": "icons_Addon_OnTargetSingle"
+    },
+    {
+        "description": "ジウンが手に入れた初めての投げナイフ。父親はこのナイフを彼に買い与え、一家が経営するレストランの常連にショーを披露するよう期待した。<br><li>投げるナイフがなくなった時、各生存者の裂傷メーターの上限減少時間が<b>少し長くなる</b></li>",
+        "name": "幸運のナイフ",
+        "id": 1106,
+        "index": "LUCKY_BLADE",
+        "owner": "TRICKSTER",
+        "rarity": 1,
+        "image": "icons_Addon_LuckyBlade"
+    },
+    {
+        "description": "トリックスターという名の有名アーティストが書いたサイン。何百回と書いたために手首が痛むが、それほど求められているということを知るのは爽快だった。<br><li>ナイフ投げの速度が最初から<b>少し上昇する</b></li>",
+        "name": "ジウンのサイン",
+        "id": 1107,
+        "index": "JI_WOONS_AUTOGRAPH",
+        "owner": "TRICKSTER",
+        "rarity": 1,
+        "image": "icons_Addon_JiWoonsAutograph"
+    },
+    {
+        "description": "『心ひとつ捕らわれて』のミュージックビデオでジウンが履いていたシューズ。スムーズで優雅な動きのダンスが叶う。<br><li>ナイフ投げの間、移動速度が<b>そこそこ増加する</b></li>",
+        "name": "檻の心のシューズ",
+        "id": 1108,
+        "index": "CAGED_HEART_SHOES",
+        "owner": "TRICKSTER",
+        "rarity": 1,
+        "image": "icons_Addon_CagedHeartShoes"
+    },
+    {
+        "description": "『アイル・ビー・ウェイティング・フォー・ユー』の演奏中にジウンが身に着けていた懐中時計。小道具なので機能しない。この先も。<br><li>投げるナイフがなくなった時、各生存者の裂傷メーターの上限減少時間が<b>かなり長くなる</b></li>",
+        "name": "『ウェイティング・フォー・ユー』の時計",
+        "flavor": "「いかないでくれ<br>終わりだなんて言わないで<br>逃がれることなんてできない<br>君を待ち続けるから」<br>— NO SPIN『アイル・ビー・ウェイティング・フォー・ユー』",
+        "id": 1109,
+        "index": "WAITING_FOR_YOU_WATCH",
+        "owner": "TRICKSTER",
+        "rarity": 2,
+        "image": "icons_Addon_WaitingForYouWatch"
+    },
+    {
+        "description": "『引き裂き魔』のミュージックビデオ撮影時にジウンが使っていた手首固定器具。意図したわけではなかったが、多くの医療用サポーターよりも手首が安定するデザインだった。<br><li>裂傷メーターの上限減少が開始するまでの時間が<b>そこそこ増加する</b></li>",
+        "name": "引き裂き魔のサポーター",
+        "id": 1110,
+        "index": "RIPPER_BRACE",
+        "owner": "TRICKSTER",
+        "rarity": 2,
+        "image": "icons_Addon_RipperBrace"
+    },
+    {
+        "description": "被害者の金切り声を収録した音声ファイル。ジウンがこの音源を取り入れた曲は、それなりにヒットした。<br><li>各生存者の裂傷メーターが<b>そこそこ減少する</b></li>",
+        "name": "美しい旋律の殺人",
+        "id": 1111,
+        "index": "MELODIOUS_MURDER",
+        "owner": "TRICKSTER",
+        "rarity": 2,
+        "image": "icons_Addon_KillingPartChords"
+    },
+    {
+        "description": "NO SPINを宣伝する限定版の缶入り炭酸飲料。砂糖とカフェインの含有量は高め。<br><li>ナイフ投げの速度が最初から<b>そこそこ上昇する</b></li>",
+        "name": "フィズスピンソーダ",
+        "id": 1112,
+        "index": "FIZZ_SPIN_SODA",
+        "owner": "TRICKSTER",
+        "rarity": 2,
+        "image": "icons_Addon_FizzSpinSoda"
+    },
+    {
+        "description": "切り裂いた被害者の首にジウンが巻いたボア。中にはポケットがたくさん隠されている。<br><li>所持できるナイフの上限数が<b>15本</b><b>増加する</b></li><li>儀式開始時に所持するナイフ数が<b>15本</b>増える</li>",
+        "name": "血まみれのボア",
+        "id": 1113,
+        "index": "BLOODY_BOA",
+        "owner": "TRICKSTER",
+        "rarity": 2,
+        "image": "icons_Addon_BloodyBoa"
+    },
+    {
+        "description": "自慢のナイフ。想像力に欠けた人間には欠陥品にしか見えないが、幼いジウンはトリックを披露して観客の目を奪った。<br><li>ナイフがどこか生存者以外に当たると2回跳ね返る</li><li>跳ね返ったナイフが命中するとブラッドポイントを追加で取得する。</li>",
+        "name": "トリック用の刃物",
+        "id": 1114,
+        "index": "TRICK_BLADES",
+        "owner": "TRICKSTER",
+        "rarity": 3,
+        "image": "icons_Addon_TrickBlades"
+    },
+    {
+        "description": "トリックスターのデビューアルバム。粗暴で物騒な音色は批評家から称賛を受けたものの、ファンの間では賛否両論だった。<br><li>ナイフは生存者以外に命中すると砕け散り、付近の生存者に<b>50%の裂傷</b>を与える。</li>",
+        "name": "エッジの効いた復活アルバム",
+        "flavor": "「君のささやき声に<br>ぬくもりを感じて<br>息をするたび焦がす想いが<br>息を止めてしまうまで」<br>— トリックスター『ぬくもりのささやき」",
+        "id": 1115,
+        "index": "EDGE_OF_REVIVAL_ALBUM",
+        "owner": "TRICKSTER",
+        "rarity": 3,
+        "image": "icons_Addon_EdgeOfRevivalAlbum"
+    },
+    {
+        "description": "ジウンのストーカーをするという過ちを犯してしまった過激ファンの、えぐられた眼球に入れられたカフスボタン。血をこすり落とせば素晴らしい輝きを放ってくれる。<br><li>生存者の裂傷メーターがあと1回のナイフ命中で満タンになる時、その生存者のオーラが<b>6秒間</b>視えるようになる</li>",
+        "name": "ダイヤのカフスボタン",
+        "flavor": "「シーッ…もう自分の血を見ずに済むんだから」 —ハク・ジウン",
+        "id": 1116,
+        "index": "DIAMOND_CUFFLINKS",
+        "owner": "TRICKSTER",
+        "rarity": 3,
+        "image": "icons_Addon_DiamondCufflinks"
+    },
+    {
+        "description": "ジウンの加入後はじめてNO SPINがリリースしたシングル。韓国の国内チャート1位をオールキル（総なめ）にした。<br><li>ナイフが生存者を貫通する。</li><li>同じナイフが次に命中した生存者は<b>50%の裂傷</b>を受ける</li>",
+        "name": "シングル『カット・スルー・ユー』",
+        "flavor": "「愛が止まらない<br>君の心は張り裂けそう<br>どこにいても君を<br>バラバラにしちゃいたい<br>— NO SPIN『カット・スルー・ユー』",
+        "id": 1117,
+        "index": "CUT_THRU_U_SINGLE",
+        "owner": "TRICKSTER",
+        "rarity": 3,
+        "image": "icons_Addon_CutThruUsingle"
+    },
+    {
+        "description": "霧から作られたガラス状の写真。ニヤリと笑うジウンの目がホログラフ的に光っている。<br><li>生存者の裂傷メーターがあと1回のナイフ命中で満タンになる時、その生存者は<b>無防備</b>のステータス効果に苦しむ</li>",
+        "name": "玉虫色のフォトカード",
+        "flavor": "「ほら、僕の名前を叫んでごらん。苦痛が呼び覚ます声を聴かせてくれよ…」 —ハク・ジウン",
+        "id": 1118,
+        "index": "IRIDESCENT_PHOTOCARD",
+        "owner": "TRICKSTER",
+        "rarity": 4,
+        "image": "icons_Addon_IridescentPhotocard"
+    },
+    {
+        "description": "ジウンがレコード用に被害者から録音した最終音源のコレクション。感情がそのまま伝わる恐ろしい音声だ。<br><li>最低<b>50%</b>から、裂傷の度合が標的の近さによって決まる。</li><li>ナイフが命中するたびに、裂傷が最大<b>200%</b>まで増加する</li><li>ナイフが外れると、裂傷は初期値にリセットされる</li>",
+        "name": "断末魔の編集音源",
+        "flavor": "「お願い、やめて…痛くしないで…もう無理…うう…」 —正体不明の声",
+        "id": 1119,
+        "index": "DEATH_THROES_COMPILATION",
+        "owner": "TRICKSTER",
+        "rarity": 4,
+        "image": "icons_Addon_DeathThroesCompilation"
+    },
+    {
+        "description": "腕輪型の電子装置。アンブレラ社を訪れた来客用だが、追跡装置の機能も兼ね備えている。<li>ゾンビの探知範囲が<b>そこそこ広がる</b></li>",
+        "name": "訪問者用リストバンド",
+        "id": 1150,
+        "index": "VISITOR_WRISTBAND",
+        "owner": "NEMESIS",
+        "rarity": 0,
+        "image": "iconAddon_visitorWristband"
+    },
+    {
+        "description": "様々な経歴を持つS.T.A.R.S.隊員たちの 戦闘技術を基に書面化された体術教本。 著者・監修はクリス・レッドフィールド。<li>生存者を攻撃した後、ゾンビのオーラが<b>6秒間</b>黄色に変わる</li>",
+        "name": "S.T.A.R.S.式体術教本",
+        "id": 1151,
+        "index": "STARS_FIELD_COMBAT_MANUAL",
+        "owner": "NEMESIS",
+        "rarity": 0,
+        "image": "iconAddon_starsFieldCombatManual"
+    },
+    {
+        "description": "ラクーンシティを襲った混乱のさなかに損傷した医療機器。<li>生存者がワクチンを注入する時間が<b>そこそこ増加する</b></li><li>生存者のワクチン使用時、殺人鬼の本能の効果時間が<b>少し増加する</b></li>",
+        "name": "壊れた注射器",
+        "id": 1152,
+        "index": "DAMAGED_SYRINGE",
+        "owner": "NEMESIS",
+        "rarity": 0,
+        "image": "iconAddon_damagedSyringe"
+    },
+    {
+        "description": "R.P.D.の署長、ブライアン・アイアンズの小腸。ゾンビにはごちそうに見える。<li>ゾンビの移動速度が<b>少し上昇する</b></li>",
+        "name": "ブライアンのはらわた",
+        "id": 1153,
+        "index": "BRIANS_INTESTINE",
+        "owner": "NEMESIS",
+        "rarity": 0,
+        "image": "iconAddon_briansIntestines"
+    },
+    {
+        "description": "内臓が飛び出たゾンビの心臓。確実にウイルスにまみれているため、危険廃棄物として扱われる。<li>触手打撃でゾンビを撃破した時の変異度が<b>そこそこ上昇する</b></li><br>",
+        "name": "ゾンビの心臓",
+        "flavor": "「こいつらに言葉は通じない」 —レオン・S・ケネディ",
+        "id": 1154,
+        "index": "ZOMBIE_HEART",
+        "owner": "NEMESIS",
+        "rarity": 1,
+        "image": "iconAddon_zombieHeart"
+    },
+    {
+        "description": "爆死したミハイルは体と呼べるものは皆無に等しかったが、左の眼球だけが形をとどめていた。ゾンビのおいしいデザートとなって残っている。<li>ゾンビの移動速度が<b>そこそこ上昇する</b> </li>",
+        "name": "ミハイルの眼",
+        "id": 1155,
+        "index": "MIKHAILS_EYES",
+        "owner": "NEMESIS",
+        "rarity": 1,
+        "image": "iconAddon_mikhailsEye"
+    },
+    {
+        "description": "ラクーン市警警官の汚染された血液。<li>触手打撃で生存者を攻撃した時の変異度が<b>そこそこ増加する</b></li><br>",
+        "name": "マービンの血",
+        "flavor": "「隙を見せると生きたまま食われるぞ。それだけは頭に入れておけ」 —マービン・ブラナー",
+        "id": 1156,
+        "index": "MARVINS_BLOOD",
+        "owner": "NEMESIS",
+        "rarity": 1,
+        "image": "iconAddon_marvinsBlood"
+    },
+    {
+        "description": "感覚を高めるホルモン。体を戦うモードにする。<li>生存者のワクチン使用時、殺人鬼の本能の効果時間が<b>かなり増加する</b></li>",
+        "name": "アドレナリン入り注射器",
+        "id": 1157,
+        "index": "ADRENALINE_INJECTOR",
+        "owner": "NEMESIS",
+        "rarity": 1,
+        "image": "iconAddon_adrenalineInjector"
+    },
+    {
+        "description": "腕輪型の電子装置。アンブレラ社の施設管理担当が安全な区域を出入りするために与えられた許可証だが、追跡装置の機能も兼ね備えている。<li>ゾンビの探知範囲が<b>かなり広がる</b></li>",
+        "name": "管理者用リストバンド",
+        "id": 1158,
+        "index": "ADMIN_WRISTBAND",
+        "owner": "NEMESIS",
+        "rarity": 1,
+        "image": "iconAddon_adminWristband"
+    },
+    {
+        "description": "戦闘で死亡したT‐002 タイラントの損傷したサンプル。重度の火傷跡がある。<li>触手打撃でゾンビを撃破した時の変異度が<b>そこそこ上昇する</b><li>ゾンビの再出現時間がそこそこ減少する。",
+        "name": "暴君の血",
+        "id": 1159,
+        "index": "TYRANT_GORE",
+        "owner": "NEMESIS",
+        "rarity": 2,
+        "image": "iconAddon_tyrantGore"
+    },
+    {
+        "description": "アンブレラ社によって開発されたt-ウィルスのサンプル。被験者に凄まじい変異と脳の損傷を引き起こす。<li>触手打撃でゾンビを撃破した時の変異度が<b>かなり上昇する</b> ",
+        "name": "t-ウィルスのサンプル",
+        "id": 1160,
+        "index": "T_VIRUS_SAMPLE",
+        "owner": "NEMESIS",
+        "rarity": 2,
+        "image": "iconAddon_TVirusSample"
+    },
+    {
+        "description": "隠密が必要な時に使うと少しリラックスさせてくれるホルモン剤。<li>ゾンビが撃破された時に<b>15秒間</b>、<b>探知不可</b>のステータス効果を得る</li>",
+        "name": "セロトニン入り注射器",
+        "id": 1161,
+        "index": "SEROTONIN_INJECTOR",
+        "owner": "NEMESIS",
+        "rarity": 2,
+        "image": "iconAddon_serotoninInjector"
+    },
+    {
+        "description": "t-ウィルスに感染したつる植物の一部。これにより開発に関わった研究者の1人が命を奪われた。<li>生存者がサプライケースを開く時間が<b>かなり増加する</b>",
+        "name": "プラント43のつる ",
+        "id": 1162,
+        "index": "PLANT_43_VINES",
+        "owner": "NEMESIS",
+        "rarity": 2,
+        "image": "iconAddon_plant43Vines"
+    },
+    {
+        "description": "粘着性があってつかみやすい舌。触れるといとも簡単に巻き付く。<li>汚染された生存者の<b>妨害</b>ステータス効果の持続時間が<b>そこそこ増加する</b></li><br>",
+        "name": "リッカーの舌",
+        "flavor": "「まるで…悪夢だわ」 —クレア・レッドフィールド",
+        "id": 1163,
+        "index": "LICKER_TONGUE",
+        "owner": "NEMESIS",
+        "rarity": 2,
+        "image": "iconAddon_lickerTongue"
+    },
+    {
+        "description": "ネメシスT-型の開発に使用された寄生体。宿主の脳を乗っ取る能力を持つ。<li>汚染の効果を受けた生存者は<b>忘却</b>のステータス効果に60秒間苦しむ。",
+        "name": "Ne-α寄生体",
+        "id": 1164,
+        "index": "NE_A_PARSITE",
+        "owner": "NEMESIS",
+        "rarity": 3,
+        "image": "iconAddon_neaParasite"
+    },
+    {
+        "description": "さっきの戦闘で無念にも押しつぶされ血まみれになってしまったが、美味しそうな匂いが気になって仕方ない。<li>サプライケースをロック解除した生存者のオーラが<b>12秒間</b>視えるようになる</li>",
+        "name": "ジルのサンドイッチ",
+        "id": 1165,
+        "index": "JILLS_SANDWICH",
+        "owner": "NEMESIS",
+        "rarity": 3,
+        "image": "iconAddon_jillSandwich"
+    },
+    {
+        "description": "もはや誰が彼らを救えると言うのか？使い切ったインクリボンにはゾンビを活動的にさせる何かがある。<li>ゾンビの再出現時間が<b>かなり減少する</b></li><li>ゾンビの移動時間がそこそこ増加する</li><li>発電機の修理が <b>5台</b>完了すると、 撃破されたすべてのゾンビが脱出ゲート付近に再出現する。</li><br>",
+        "name": "インク切れのインクリボン",
+        "flavor": "「言っとくけど…これで本当に最後だからね」 —ジル・バレンタイン",
+        "id": 1166,
+        "index": "DEPLETED_INK_RIBBON",
+        "owner": "NEMESIS",
+        "rarity": 3,
+        "image": "iconAddon_depletedInkRibbon"
+    },
+    {
+        "description": "月桂冠の中に鳥が描かれた硬貨。半分に割れている。<li>儀式からサプライケースを<b>1個</b>減らす。</li><br>",
+        "name": "割れた廃品硬貨",
+        "flavor": "「想像していた初日とは大違いだな」 —レオン・S・ケネディ",
+        "id": 1167,
+        "index": "BROKEN_RECOVERY_COIN",
+        "owner": "NEMESIS",
+        "rarity": 3,
+        "image": "iconAddon_brokenRecoveryCoin"
+    },
+    {
+        "description": "ラクーンシティの希望の象徴。完全に破壊されている。<li>発電機の修理が完了すると、<b>30秒間</b>ゾンビの移動速度が<b>とてつもなく上昇する</b></li><br>",
+        "name": "粉砕されたS.T.A.R.S.の記章",
+        "flavor": "「S.T.A.R.S.…」 —ネメシス",
+        "id": 1168,
+        "index": "SHATTERED_STARS_BADGE",
+        "owner": "NEMESIS",
+        "rarity": 4,
+        "image": "iconAddon_shatteredStarsBadge"
+    },
+    {
+        "description": "霧そのものから作られたガラス状の記章。倫理的で人道的な科学をはるかに超えた企業を象徴する。<li>ワクチン使用時に生存者が<b>12秒間</b><b>無防備</b>のステータス効果に苦しむ</li><br>",
+        "name": "玉虫色のアンブレラ記章",
+        "flavor": "「コミットメント、公正、誠実。これが、アンブレラ社の基礎を作る基本理念だ」 —マット・ゴーキス博士",
+        "id": 1169,
+        "index": "IRIDESCENT_UMBRELLA_BADGE",
+        "owner": "NEMESIS",
+        "rarity": 4,
+        "image": "iconAddon_iridescentUmbrellaBadge"
+    }
+]

@@ -1,0 +1,353 @@
+[
+    {
+        "description": "一位忐忑不安的领袖，可以定位队友的位置并提高他们的行动效率。<BR><BR>他的专属技能<B>携手合作</B>，<B>证明自己</B>和<B>领队</B>可以让他轻松找到队友的位置，并为附近的队友和自己提供额外的动作效率加成。",
+        "name": "德怀特·费菲尔德",
+        "id": 1,
+        "index": "DWIGHT_FAIRFIELD",
+        "difficulty": 0,
+        "perks": [
+            "BOND",
+            "PROVE_THYSELF",
+            "LEADER"
+        ],
+        "image": "DF_charSelect_portrait"
+    },
+    {
+        "description": "一位精力充沛的运动员，冲刺爆发时可以将绝大多数杀手甩在身后。<BR><BR>她的专属技能<B>急速静谧</B>，<B>冲刺爆发</B>和<B>肾上腺素</B>可以让她在逃跑时拉开与杀手间的距离，因而获得逃生优势。",
+        "name": "梅格·托马斯",
+        "id": 2,
+        "index": "MEG_THOMAS",
+        "difficulty": 0,
+        "perks": [
+            "QUICK_AND_QUIET",
+            "SPRINT_BURST",
+            "ADRENALINE"
+        ],
+        "image": "MT_charSelect_portrait"
+    },
+    {
+        "description": "一位勤奋刻苦的植物学家，具有提升团队存活率的能力。<BR><BR>她的专属技能<B>心灵共鸣</B>，<B>精研百草</B>和<B>自我疗愈</B>可以让她发现受伤的队友，提高治疗效率。",
+        "name": "克劳黛特·莫莱",
+        "id": 3,
+        "index": "CLAUDETTE_MOREL",
+        "difficulty": 0,
+        "perks": [
+            "EMPATHY",
+            "BOTANY_KNOWLEDGE",
+            "SELF_CARE"
+        ],
+        "image": "CM_charSelect_portrait"
+    },
+    {
+        "description": "一位独来独往的生存主义者，在大多数情况下都能够保全自身。<BR><BR>他的专属技能<B>钢铁意志</B>，<B>安抚生灵</B>和<B>破坏手</B>提高了他在受伤状态下的生存率，使他能够在环境中更自如的行动。",
+        "name": "朴· 杰克",
+        "id": 4,
+        "index": "JAKE_PARK",
+        "difficulty": 1,
+        "perks": [
+            "IRON_WILL",
+            "CALM_SPIRIT",
+            "SABOTEUR"
+        ],
+        "image": "JP_charSelect_portrait"
+    },
+    {
+        "description": "一位城市艺术家，对隐匿和逃脱轻车熟路。<BR><BR>她的专属技能<B>平稳着陆</B>，<B>暴走族</B>和<B>街头范儿</B>使他在完成目标和快速躲藏时得心应手。",
+        "name": "妮娅·卡尔森",
+        "id": 5,
+        "index": "NEA_KARLSSON",
+        "difficulty": 1,
+        "perks": [
+            "BALANCED_LANDING",
+            "URBAN_EVASION",
+            "STREETWISE"
+        ],
+        "image": "NK_charSelect_portrait"
+    },
+    {
+        "description": "一位战场老兵，对各种极端情境已经见怪不怪。<BR><BR>他的专属技能<B>末日残兵</B>，<B>时不我待</B>和<B>坚不可摧</B>使他在危难时刻更加强大。",
+        "name": "威廉·比尔·奥弗贝克",
+        "id": 6,
+        "index": "WILLIAM_OVERBECK",
+        "difficulty": 2,
+        "perks": [
+            "LEFT_BEHIND",
+            "BORROWED_TIME",
+            "UNBREAKABLE"
+        ],
+        "image": "BO_charSelect_portrait"
+    },
+    {
+        "description": "一位体格魁梧的好战分子，喜欢尝试高风险的行为。<BR><BR>他的专属技能<B>生死与共</B>，<B>钢筋铁骨</B>和<B>不痛不痒</B>提供了激进的对抗性玩法，但也留下了易受到攻击的弱点。",
+        "name": "大卫·金",
+        "id": 7,
+        "index": "DAVID_KING",
+        "difficulty": 1,
+        "perks": [
+            "WERE_GONNA_LIVE_FOREVER",
+            "DEAD_HARD",
+            "NO_MITHER"
+        ],
+        "image": "DK_charSelect_portrait"
+    },
+    {
+        "description": "一位刚毅果决的逃生者，已准备好迎接任何挑战。<BR><BR>她的专属技能<B>最后的生还者</B>，<B>魂牵梦绕</B>和<B>毁灭打击</B>牺牲了藏匿能力，但赋予其强大的生存能力。",
+        "name": "劳丽·斯特罗德",
+        "id": 8,
+        "index": "LAURIE_STRODE",
+        "difficulty": 2,
+        "perks": [
+            "SOLE_SURVIVOR",
+            "OBJECT_OF_OBSESSION",
+            "DECISIVE_STRIKE"
+        ],
+        "image": "LS_charSelect_portrait"
+    },
+    {
+        "description": "一位福星高照的赌场老手，具有提高全队运势的能力。<BR><BR>他的专属技能<B>稳操胜券</B>，<B>好运会传染</B>和<B>惊喜连连</B>可以提升全体逃生者的运气，在解锁箱子时极有帮助。",
+        "name": "埃斯·维斯孔蒂",
+        "id": 9,
+        "index": "ACE_VISCONTI",
+        "difficulty": 0,
+        "perks": [
+            "OPEN_HANDED",
+            "UP_THE_ANTE",
+            "ACE_IN_THE_HOLE"
+        ],
+        "image": "AV_charSelect_portrait"
+    },
+    {
+        "description": "这位专注于目标的竞争者能迅速调整自己的策略以应付各种各样富有挑战性的情况。<BR><BR>她的专属技能<B>技术员</B>、<B>轻盈敏捷</B>和<B>警戒</B>能帮助她修理发电机以及找到杀手。",
+        "name": "凤敏",
+        "id": 10,
+        "index": "FENG_MIN",
+        "difficulty": 0,
+        "perks": [
+            "TECHNICIAN",
+            "LITHE",
+            "ALERT"
+        ],
+        "image": "FM_charSelect_portrait"
+    },
+    {
+        "description": "一位果敢的梦境行者，能够提高团队的生存能力和恢复能力。<BR><BR>他的专属技能<B>醒醒！</B>、<B>药到病除</B>和<B>守夜人</B>可以帮助逃生者找到逃生大门的位置，还可以提高恢复能力。",
+        "name": "昆汀·史密斯",
+        "id": 11,
+        "index": "QUENTIN_SMITH",
+        "difficulty": 0,
+        "perks": [
+            "WAKE_UP",
+            "PHARMACY",
+            "VIGIL"
+        ],
+        "image": "QS_charSelect_portrait"
+    },
+    {
+        "description": "一位迷茫失措的侦探，可以快速寻找并完成目标。<BR><BR>他的专属技能<B>永不言弃</B>，<B>侦探直觉</B>和<B>破案心切</B>使他专注于完成目标，并赋予快速恢复的能力。",
+        "name": "侦探泰普",
+        "id": 12,
+        "index": "DAVID_TAPP",
+        "difficulty": 1,
+        "perks": [
+            "TENACITY",
+            "DETECTIVES_HUNCH",
+            "STAKE_OUT"
+        ],
+        "image": "FS_charSelect_portrait"
+    },
+    {
+        "description": "一个非常有前途的女歌手，能够充分利用周边环境进行创作。<br><br>她的可传授技能是：<b>与我共舞</b>，<b>机遇之窗</b>和<b>脱缰野马</b>，使她在最可怕的情境下也能够逃脱。",
+        "name": "凯特·登森",
+        "id": 13,
+        "index": "KATE_DENSON",
+        "difficulty": 0,
+        "perks": [
+            "WINDOWS_OF_OPPORTUNITY",
+            "BOIL_OVER",
+            "DANCE_WITH_ME"
+        ],
+        "image": "GS_charSelect_portrait"
+    },
+    {
+        "description": "一位足智多谋的教师，能够快速适应新环境并制定新策略。<br><br>他的专属技能：<b>声东击西</b>，<b>善有善报</b>和<b>自学成才</b>，能够帮助他转移杀手的注意力，在逆境中求生，并随着游戏的进行不断提升技巧。",
+        "name": "亚当·弗朗西斯",
+        "id": 14,
+        "index": "ADAM_FRANCIS",
+        "difficulty": 1,
+        "perks": [
+            "DIVERSION",
+            "DELIVERANCE",
+            "AUTODIDACT"
+        ],
+        "image": "AF_charSelect_portrait"
+    },
+    {
+        "description": "一名安静的艺术家，坚定地反对各种不可能。<br><br>他的个人技能，<b>分崩离析</b>、<b>劫后余生</b>和<b>扭曲</b>使他拥有观察优势，而且能够保护他自己不被杀手看到。",
+        "name": "杰夫·约翰森",
+        "id": 15,
+        "index": "JEFF_JOHANSEN",
+        "difficulty": 1,
+        "perks": [
+            "BREAKDOWN",
+            "AFTERCARE",
+            "DISTORTION"
+        ],
+        "image": "KS_charSelect_portrait"
+    },
+    {
+        "description": "一位有巨大影响力的名人，与其他人格格不入，善于应对挑战。<br><br>她的个人技能<b>团结一致</b>，<b>蓄势待发</b>和<b>正面出击</b>能够形成灵活的技能连招，帮助他人和自己逃出危险处境。",
+        "name": "简·罗梅罗",
+        "id": 16,
+        "index": "JANE_ROMERO",
+        "difficulty": 1,
+        "perks": [
+            "SOLIDARITY",
+            "POISED",
+            "HEAD_ON"
+        ],
+        "image": "MS_charSelect_portrait"
+    },
+    {
+        "description": "一匹“孤独的狼”，骄傲自大且刚愎自用，生命力顽强。<br><br>他的个人技能<b>触发器</b>，<b>扣上</b>和<b>人之勇气</b>使他不畏痛苦和艰难，并能帮助朋友脱困。 ",
+        "name": "阿什利·威廉姆斯",
+        "id": 17,
+        "index": "ASHLEY_J_WILLIAMS",
+        "difficulty": 0,
+        "perks": [
+            "FLIP_FLOP",
+            "BUCKLE_UP",
+            "METTLE_OF_MAN"
+        ],
+        "image": "MS2_charSelect_portrait"
+    },
+    {
+        "description": "她是一名有抱负的记者，观察力敏锐，能发现其他人可能忽视的东西。<br><br>她的专属技能<b>团结力量大</b>、<b>认定目标</b>和<b>内心之力</b>为她提供应对意外挑战时所需的信息和勇气。",
+        "name": "南茜·惠勒",
+        "id": 18,
+        "index": "NANCY_WHEELER",
+        "difficulty": 0,
+        "perks": [
+            "BETTER_TOGETHER",
+            "FIXATED",
+            "INNER_STRENGTH"
+        ],
+        "image": "QF_charSelect_portrait"
+    },
+    {
+        "description": "原先当过运动健将的他能保护并协助逃生者同伴，同时还不忘调侃一下对方。<br><br>他的专属技能<b>保姆</b>、<b>同志情谊</b>和<b>复苏之风</b>能帮他转移杀手注意力、忍受痛苦以及重新投入战斗。",
+        "name": "史蒂夫·哈林顿",
+        "id": 19,
+        "index": "STEVE_HARRINGTON",
+        "difficulty": 0,
+        "perks": [
+            "BABYSITTER",
+            "CAMARADERIE",
+            "SECOND_WIND"
+        ],
+        "image": "QM_charSelect_portrait"
+    },
+    {
+        "description": "这位坚毅的街道赛手能在逆境中为自己以及逃生者同伴取得优势。<br><br>她的专属技能<b>幸运喘息</b>、<b>不惜一切</b>以及<b>挣脱激励</b>能掩盖血迹、重置掉在地上的模板以及协助身处险境的逃生者。",
+        "name": "木村唯",
+        "id": 20,
+        "index": "YUI_KIMURA",
+        "difficulty": 1,
+        "perks": [
+            "LUCKY_BREAK",
+            "ANY_MEANS_NECESSARY",
+            "BREAKOUT"
+        ],
+        "image": "SS_charSelect_portrait"
+    },
+    {
+        "description": "这名勇敢的纪录片导演能用街头智慧避开侦测并大力协助其他逃生者。<br><br>她的专属技能<b>非正式调查</b>、<b>题外话</b>和<b>舍己为人</b>能帮她在面对危险时保持隐蔽、制造干扰并以牺牲自己的安全为代价快速治疗他人。",
+        "name": "萨丽娜·卡希尔",
+        "id": 21,
+        "index": "ZARINA_KASSIR",
+        "difficulty": 1,
+        "perks": [
+            "OFF_THE_RECORD",
+            "RED_HERRING",
+            "FOR_THE_PEOPLE"
+        ],
+        "image": "US_charSelect_portrait"
+    },
+    {
+        "description": "谢丽尔·梅森是一名经受过恐怖洗礼的年轻人，能使她自己和队友倍感振奋。<br><br>她的专属技能包括<b>灵魂守卫</b>、<b>鲜血契约</b>和<b>压抑同盟</b>，可以让她在艰难困苦中存活下来，并与其他队友保持联系，制定好逃脱策略。",
+        "name": "谢丽尔·梅森",
+        "id": 22,
+        "index": "CHERYL_MASON",
+        "difficulty": 0,
+        "perks": [
+            "SOUL_GUARD",
+            "BLOOD_PACT",
+            "REPRESSED_ALLIANCE"
+        ],
+        "image": "S22_charSelect_portrait"
+    },
+    {
+        "description": "一个远见卓识的建筑师，能够运用他的不懈决心来制定计划并帮助其他幸存者。<br><br>他的专属技能<b>远见</b>、<b>绝境对策</b>与<b>经久耐用</b>可以让他找到发电机、救助其他逃生者并最大化利用自己的工具。",
+        "name": "菲利克斯·里奇特",
+        "id": 23,
+        "index": "FELIX_RICHTER",
+        "difficulty": 1,
+        "perks": [
+            "VISIONARY",
+            "DESPERATE_MEASURES",
+            "BUILT_TO_LAST"
+        ],
+        "image": "S23_charSelect_portrait"
+    },
+    {
+        "description": "一名神秘学调查员，靠着狡猾的招数和顽固的决心让自己始终远离死亡。<br><br>她的专属技能，<b>鉴定</b>，<b>欺骗</b>和<b>强力挣扎</b>让她能够与物品以新方式进行互动，并且还有逃离杀手的备用方案。 ",
+        "name": "伊洛迪·拉科托",
+        "id": 24,
+        "index": "ELODIE_RAKOTO",
+        "difficulty": 1,
+        "perks": [
+            "APPRAISAL",
+            "DECEPTION",
+            "POWER_STRUGGLE"
+        ],
+        "image": "S24_charSelect_portrait"
+    },
+    {
+        "description": "一个注重自我的音乐制作人，能够在动荡时代实现自己的目标。<br><br>她的专属技能，<b>成功捷径</b>，<b>轰动演出</b>和<b>自我保护</b>能使她在其他人受到伤害时提升她自己的能力，并且可以快速逃脱追杀。 ",
+        "name": "李允珍",
+        "id": 25,
+        "index": "YUN_JIN_LEE",
+        "difficulty": 0,
+        "perks": [
+            "FAST_TRACK",
+            "SMASH_HIT",
+            "SELF_PRESERVATION"
+        ],
+        "image": "S25_charSelect_portrait"
+    },
+    {
+        "description": "吉儿·瓦伦丁是S.T.A.R.S.的创始成员之一，曾战胜过数不清的有机生物武器。<br><br>她的专属技能<b>反制之力</b>、<b>东山再起</b>和<b>爆炸地雷</b>使她可以立刻还击，同时还能为队友提供强力支援。 ",
+        "name": "吉儿·瓦伦丁",
+        "id": 26,
+        "index": "JILL_VALENTINE",
+        "difficulty": 1,
+        "perks": [
+            "COUNTERFORCE",
+            "RESURGENCE",
+            "BLAST_MINE"
+        ],
+        "image": "S26_charSelect_portrait"
+    },
+    {
+        "description": "里昂·S·肯尼迪是一名新手警员，在浣熊市的灾难爆发期间完成了超出自己职责的使命。<br><br>他的专属技能<b>咬紧牙关</b>、<b>闪光弹</b>和<b>新人精神</b>让他可以无视疼痛、扰乱杀手以及追踪丢失的目标。 ",
+        "name": "里昂·S·肯尼迪",
+        "id": 27,
+        "index": "LEON_SCOTT_KENNEDY",
+        "difficulty": 1,
+        "perks": [
+            "BITE_THE_BULLET",
+            "FLASHBANG",
+            "ROOKIE_SPIRIT"
+        ],
+        "image": "S27_charSelect_portrait"
+    }
+]
