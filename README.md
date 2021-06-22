@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/%40stephenpoole%2Fdeadbydaylight.svg)](https://badge.fury.io/js/%40stephenpoole%2Fdeadbydaylight)
 [![Known Vulnerabilities](https://snyk.io/test/github/stephenpoole/deadbydaylight/badge.svg)](https://snyk.io/test/github/stephenpoole/deadbydaylight)
-[![Build Status](https://travis-ci.com/stephenpoole/dbd-db.svg?branch=master)](https://travis-ci.com/stephenpoole/dbd-db)
+[![Build Status](https://travis-ci.com/stephenpoole/deadbydaylight.svg?branch=master)](https://travis-ci.com/stephenpoole/deadbydaylight)
 [![codecov](https://codecov.io/gh/stephenpoole/deadbydaylight/branch/master/graph/badge.svg?token=lTWudhhmb0)](https://codecov.io/gh/stephenpoole/deadbydaylight)
 ![last commit](https://img.shields.io/github/last-commit/stephenpoole/deadbydaylight)
 ![issues](https://img.shields.io/github/issues/stephenpoole/deadbydaylight)
