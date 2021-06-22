@@ -72,7 +72,7 @@ import Dbd, { Language, Killer } from "@stephenpoole/deadbydaylight";
 ## Documentation
 
 You'll find the type documentation here:
-[Documentation](https://stephenpoole.github.io/deadbydaylight/deadbydaylight/)
+[Documentation](https://stephenpoole.github.io/deadbydaylight)
 
 ## Images
 

@@ -12,6 +12,7 @@
         "noUnusedParameters":true,
         "suppressImplicitAnyIndexErrors": true,
         "module": "commonjs",
+        "skipLibCheck": true,
         "moduleResolution": "node",
         "target": "es5",
         "lib": ["ESNext", "DOM"],

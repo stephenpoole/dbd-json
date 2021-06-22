@@ -17,7 +17,7 @@
         "build": "node ./localization/build.js",
         "types": "tsc -p tsconfig.json --emitDeclarationOnly --skipLibCheck",
         "test": "nyc ts-mocha --reporter min --require babel-register \"./test/**/*.ts\"",
-        "docs": "typedoc --excludeExternals --externalPattern \"**/node_modules/**\" --name \"Dead By Daylight Database\" --out \"docs/deadbydaylight\" \"src\"",
+        "docs": "typedoc --excludeExternals --exclude \"**/node_modules/**\"  --name \"Dead By Daylight Database\" --out \"docs\" \"src\"",
         "coverage": "nyc --reporter=lcov yarn test",
         "snyk": "snyk protect"
     },
