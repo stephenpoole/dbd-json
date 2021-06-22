@@ -27,6 +27,29 @@ yarn add @stephenpoole/deadbydaylight
 
 ## Usage
 
+In the browser
+
+1. Insert the script tag in your html head:
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/@stephenpoole/deadbydaylight/dist/deadbydaylight.js"></script>
+```
+
+2. Instantiate and grab some data:
+
+```javascript
+(async () => {
+    const { Language, Killer } = DeadByDaylight;
+
+    const dbd = new DeadByDaylight.Client();
+    await dbd.setLanguage(Language.English);
+    const nurse = dbd.killer(Killer.Nurse);
+    console.log(nurse);
+})();
+```
+
+In a node environment
+
 1. Import `deadbydaylight` into your application:
 
 ```javascript
@@ -36,11 +59,14 @@ import Dbd from "@stephenpoole/deadbydaylight";
 2. Instantiate and grab some data:
 
 ```javascript
-import Dbd, { Killer } from "@stephenpoole/deadbydaylight";
+import Dbd, { Language, Killer } from "@stephenpoole/deadbydaylight";
 
-const dbd = new Dbd();
-const nurse = dbd.killer(Killer.Nurse);
-console.log(nurse);
+(async () => {
+    const dbd = new Dbd();
+    await dbd.setLanguage(Language.English);
+    const nurse = dbd.killer(Killer.Nurse);
+    console.log(nurse);
+})();
 ```
 
 ## Documentation
@@ -68,19 +94,7 @@ Just like in-game, this library supports the following languages:
 
 English, Spanish, German, French, Italian, Japanese, Korean, Polish, Russian, Taiwanese, Turkish and Simplified Chinese.
 
-To set the locale, simply initiate with the `language` option
-
-```javascript
-import Dbd, { Language } from "@stephenpoole/deadbydaylight";
-
-const dbd = new Dbd({ language: Language.Korean });
-```
-
-or to change the language after instantiation, call `changeLanguage()`
-
-```javascript
-dbd.changeLanguage(language.Korean);
-```
+Language data is loaded dynamically when being set.
 
 ## Data
 

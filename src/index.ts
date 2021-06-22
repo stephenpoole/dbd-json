@@ -19,17 +19,13 @@ import {
     Power as PowerModel,
 } from "./factory/model";
 import Locale from "./locale";
-import { Item, Addon, Offering, Perk, Player, Power, LocaleData, DbdOptions } from "./types";
+import { Item, Addon, Offering, Perk, Player, Power, LocaleData } from "./types";
 
 class Dbd {
     locale!: Locale;
     factory!: Factories;
 
-    constructor({ language = Language.English }: DbdOptions = {}) {
-        this.setLanguage(language);
-    }
-
-    setLanguage(language: Language): void {
+    async setLanguage(language: Language): Promise<void> {
         this.locale = new Locale(language);
         this.factory = new Factories(this.locale);
     }

@@ -1,0 +1,209 @@
+[
+    {
+        "description": "残忍カテゴリーのブラッドポイントを<b>50%</b>追加取得する。<br><li>重複する</li>",
+        "name": "フウキンチョウのリース",
+        "flavor": "「血塗れの小枝や内臓で作られたリース。更なる獲物を求め、エンティティの祝福を願う。」",
+        "id": 100,
+        "index": "TANAGER_WREATH",
+        "rarity": 0,
+        "image": "iconFavors_tanagerWreath"
+    },
+    {
+        "description": "残忍カテゴリーのブラッドポイントを<b>75%</b>追加取得する。<br><li>重複する</li>",
+        "name": "信心深いフウキンチョウのリース",
+        "flavor": "「強い祈りをこめて血塗れの小枝や内臓で作られたリース。更なる獲物を求め、エンティティの祝福を願う。」",
+        "id": 101,
+        "index": "DEVOUT_TANAGER_WREATH",
+        "rarity": 1,
+        "image": "iconFavors_devoutTanagerWreath"
+    },
+    {
+        "description": "残忍カテゴリーのブラッドポイントを<b>100%</b>追加取得する。<br><li>重複する</li>",
+        "name": "熱烈なフウキンチョウのリース",
+        "flavor": "「燃えるような不滅の執念をこめて血塗れの小枝や内臓で作られたリース。更なる獲物を求め、エンティティの祝福を願う。」",
+        "id": 102,
+        "index": "ARDENT_TANAGER_WREATH",
+        "rarity": 2,
+        "image": "iconFavors_ardentTanagerWreath"
+    },
+    {
+        "description": "邪悪カテゴリーのブラッドポイントを<b>50%</b>追加取得する。<br><li>重複する</li>",
+        "name": "カラスのリース",
+        "flavor": "「黒ずんだ木の枝や炭で作られたリース。更なる獲物を求め、エンティティの祝福を願う。」",
+        "id": 103,
+        "index": "RAVEN_WREATH",
+        "rarity": 0,
+        "image": "iconFavors_ravenWreath"
+    },
+    {
+        "description": "邪悪カテゴリーのブラッドポイントを<b>75%</b>追加取得する。<br><li>重複する</li>",
+        "name": "信心深いカラスのリース",
+        "flavor": "「強い祈りをこめて黒ずんだ木の枝や炭で作られたリース。更なる獲物を求め、エンティティの祝福を願う。」",
+        "id": 104,
+        "index": "DEVOUT_RAVEN_WREATH",
+        "rarity": 1,
+        "image": "iconFavors_devoutRavenWreath"
+    },
+    {
+        "description": "邪悪カテゴリーのブラッドポイントを<b>100%</b>追加取得する。<br><li>重複する</li>",
+        "name": "熱烈なカラスのリース",
+        "flavor": "「燃えるような不滅の執念をこめて黒ずんだ木の枝や炭で作られたリース。更なる獲物を求め、エンティティの祝福を願う。」",
+        "id": 105,
+        "index": "ARDENT_RAVEN_WREATH",
+        "rarity": 2,
+        "image": "iconFavors_ardentRavenWreath"
+    },
+    {
+        "description": "狩猟カテゴリーのブラッドポイントを<b>50%</b>追加取得する。<br><li>重複する</li>",
+        "name": "フクロウのリース",
+        "flavor": "「鋭い金属片やロープ、羽根で作られたリース。更なる獲物を求め、エンティティの祝福を願う。」",
+        "id": 106,
+        "index": "SPOTTED_OWL_WREATH",
+        "rarity": 0,
+        "image": "iconFavors_spottedOwlWreath"
+    },
+    {
+        "description": "狩猟カテゴリーのブラッドポイントを<b>75%</b>追加取得する。<br><li>重複する</li>",
+        "name": "信心深いフクロウのリース",
+        "flavor": "「強い祈りをこめて鋭い金属片やロープ、羽根で作られたリース。更なる獲物を求め、エンティティの祝福を願う。」",
+        "id": 107,
+        "index": "DEVOUT_SPOTTED_OWL_WREATH",
+        "rarity": 1,
+        "image": "iconFavors_devoutSpottedOwlWreath"
+    },
+    {
+        "description": "狩猟カテゴリーのブラッドポイントを<b>100%</b>追加取得する。<br><li>重複する</li>",
+        "name": "熱烈なフクロウのリース",
+        "flavor": "「燃えるような不滅の執念をこめて鋭い金属片やロープ、羽根で作られたリース。更なる獲物を求め、エンティティの祝福を願う。」",
+        "id": 108,
+        "index": "ARDENT_SPOTTED_OWL_WREATH",
+        "rarity": 2,
+        "image": "iconFavors_ardentSpottedOwlWreath"
+    },
+    {
+        "description": "処刑カテゴリーのブラッドポイントを<b>50%</b>追加取得する。<br><li>重複する</li>",
+        "name": "モズのリース",
+        "flavor": "「小枝や紐、骨で作られたリース。更なる獲物を求め、エンティティの祝福を願う。」",
+        "id": 109,
+        "index": "SHRIKE_WREATH",
+        "rarity": 0,
+        "image": "iconFavors_shrikeWreath"
+    },
+    {
+        "description": "処刑カテゴリーのブラッドポイントを<b>75%</b>追加取得する。<br><li>重複する</li>",
+        "name": "信心深いモズのリース",
+        "flavor": "「強い祈りをこめて小枝や紐、骨で作られたリース。更なる獲物を求め、エンティティの祝福を願う。」",
+        "id": 110,
+        "index": "DEVOUT_SHRIKE_WREATH",
+        "rarity": 1,
+        "image": "iconFavors_devoutShrikeWreath"
+    },
+    {
+        "description": "処刑カテゴリーのブラッドポイントを<b>100%</b>追加取得する。<br><li>重複する</li>",
+        "name": "熱烈なモズのリース",
+        "flavor": "「燃えるような不滅の執念をこめて小枝や紐、骨で作られたリース。更なる獲物を求め、エンティティの祝福を願う。」",
+        "id": 111,
+        "index": "ARDENT_SHRIKE_WREATH",
+        "rarity": 2,
+        "image": "iconFavors_ardentShrikeWreath"
+    },
+    {
+        "description": "全カテゴリーのブラッドポイントを<b>25%</b>追加取得する。<br><li>重複する</li>",
+        "name": "空の抜け殻",
+        "flavor": "「内側から破られた、正体不明のサナギの抜け殻。」",
+        "id": 112,
+        "index": "HOLLOW_SHELL",
+        "rarity": 1,
+        "image": "iconFavors_hollowShell"
+    },
+    {
+        "description": "全カテゴリーのブラッドポイントを<b>100%</b>追加取得する。<br><li>自分のみ</li><li>重複する</li>",
+        "name": "生存者のプリン",
+        "flavor": "「めちゃくちゃしょっぱいプリンだ…」",
+        "id": 113,
+        "index": "SURVIVOR_PUDDING",
+        "rarity": 1,
+        "image": "iconFavors_survivorPudding"
+    },
+    {
+        "description": "エンティティに生成されるチェストが<b>2個</b>少なくなるよう願う。<br><li>重複する</li>",
+        "name": "割れたコイン",
+        "flavor": "「半分に割れた薄い金属のコイン。」",
+        "id": 114,
+        "index": "CUT_COIN",
+        "rarity": 3,
+        "image": "iconFavors_cutCoin"
+    },
+    {
+        "description": "エンティティに生成されるチェストが<b>1個</b>少なくなるよう願う。<br><li>重複する</li>",
+        "name": "傷ついたコイン",
+        "flavor": "「傷ついたコイン。どこから来たのかは不明。」",
+        "id": 115,
+        "index": "SCRATCHED_COIN",
+        "rarity": 1,
+        "image": "iconFavors_scratchedCoin"
+    },
+    {
+        "description": "エンティティに呼びかけ、世界に出現する処刑用フックの<b>距離</b>を<b>少し減少</b>させる。<br><li>重複する</li>",
+        "name": "カビが生えた樫の木",
+        "flavor": "「湿って腐り、カビに覆われた樫の木。」",
+        "id": 116,
+        "index": "MOLDY_OAK",
+        "rarity": 1,
+        "image": "iconFavors_moldyOak"
+    },
+    {
+        "description": "エンティティに生成される処刑用フックの<b>距離</b>が徐々に減少するよう願う。<br><li>重複する</li>",
+        "name": "腐った樫の木",
+        "flavor": "「奇妙な模様が彫ってある腐りかけの樫の木の一部。」",
+        "id": 117,
+        "index": "ROTTEN_OAK",
+        "rarity": 2,
+        "image": "iconFavors_rottenOak"
+    },
+    {
+        "description": "エンティティに生成される処刑用フックの<b>距離</b>かなり減少するよう願う。<br><li>重複する</li>",
+        "name": "腐敗した樫の木",
+        "flavor": "「腐った黒い液体が浸み出してきているボロボロの樫の木の一部。」",
+        "id": 118,
+        "index": "PUTRID_OAK",
+        "rarity": 3,
+        "image": "iconFavors_putridOak"
+    },
+    {
+        "description": "次回マッチ中、自らの手で<b>最後の生存者を殺害する</b>能力を得る。<br><li>シークレット</li>",
+        "name": "糸杉のメメント・モリ",
+        "flavor": "「よくやった、最後の1人は好きにしろ。」",
+        "id": 119,
+        "index": "CYPRESS_MEMENTO_MORI",
+        "rarity": 1,
+        "image": "iconFavors_momentoMoriCypress"
+    },
+    {
+        "description": "次回マッチ中、自らの手で<b>2度フックに吊るされた</b><b>生存者を1人殺害する</b>能力を得る。<li>シークレット</li>",
+        "name": "象牙のメメント・モリ",
+        "flavor": "「奴らの1人を殺めることをお許しください。」",
+        "id": 120,
+        "index": "IVORY_MEMENTO_MORI",
+        "rarity": 2,
+        "image": "iconFavors_momentoMoriIvory"
+    },
+    {
+        "description": "次回マッチ中、自らの手で<b>2度フックに吊るされた</b><b>生存者を全員殺害する</b>能力を得る。<li>シークレット</li>",
+        "name": "黒檀のメメント・モリ",
+        "flavor": "「誓ってもいい、アレはあの化け物に話しかけていたんだ。奴は静かに立ち止まって、まるで木々のざわめきを聞いているようだった。そして奴は…笑ったんだ。」",
+        "id": 121,
+        "index": "EBONY_MEMENTO_MORI",
+        "rarity": 4,
+        "image": "iconFavors_momentoMoriEbony"
+    },
+    {
+        "description": "全ての生存者が別れた場所から開始する。<br><li>シークレット</li>",
+        "name": "別離の覆布",
+        "flavor": "「黒くて薄く、裂けてバラバラになった覆い。」",
+        "id": 122,
+        "index": "SHROUD_OF_SEPARATION",
+        "rarity": 1,
+        "image": "iconFavors_shroudOfSeparation"
+    }
+]

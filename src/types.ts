@@ -59,8 +59,4 @@ interface LocaleData {
     language: Language;
 }
 
-interface DbdOptions {
-    language?: Language;
-}
-
-export { BaseEntity, Item, Addon, Offering, Perk, Player, Power, LocaleData, DbdOptions };
+export { BaseEntity, Item, Addon, Offering, Perk, Player, Power, LocaleData };

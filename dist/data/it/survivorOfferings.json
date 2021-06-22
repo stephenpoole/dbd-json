@@ -1,0 +1,236 @@
+[
+    {
+        "description": "Conferisce il <b>50%</b> di bonus Punti Sangue nella categoria Obiettivo.<br><li>Personale.</li><li>Cumulabile.</li>",
+        "name": "Sacchetto di alloro di palude",
+        "flavor": "\"Un sacchetto cucito a mano, delle dimensioni di un palmo, riempito di foglie secche. Rilascia un leggero aroma simile al tè.\"",
+        "id": 50,
+        "index": "BOG_LAUREL_SACHET",
+        "rarity": 0,
+        "image": "iconFavors_bogLaurelSachet"
+    },
+    {
+        "description": "Conferisce il <b>75%</b> di bonus Punti Sangue nella categoria Obiettivo.<br><li>Personale.</li><li>Cumulabile.</li>",
+        "name": "Alloro di palude fresco",
+        "flavor": "\"Un bellissimo fiore viola che cresce in mezzo alla palude contaminata. Rilascia un leggero aroma simile al tè.\"",
+        "id": 51,
+        "index": "FRESH_BOG_LAUREL",
+        "rarity": 1,
+        "image": "iconFavors_freshBogLaurel"
+    },
+    {
+        "description": "Conferisce il <b>100%</b> di bonus Punti Sangue nella categoria Obiettivo.<br><li>Personale.</li><li>Cumulabile.</li>",
+        "name": "Alloro di palude profumato",
+        "flavor": "\"Un bellissimo fiore viola che cresce in mezzo alla palude contaminata. Rilascia un forte aroma simile al tè.\"",
+        "id": 52,
+        "index": "FRAGRANT_BOG_LAUREL",
+        "rarity": 2,
+        "image": "iconFavors_fragrantBogLaurel"
+    },
+    {
+        "description": "Conferisce il <b>50%</b> di bonus Punti Sangue nella categoria Sopravvivenza.<br><li>Personale.</li><li>Cumulabile.</li>",
+        "name": "Sacchetto di foglie fresche di amaranto",
+        "flavor": "\"Un sacchetto cucito a mano, delle dimensioni di un palmo, riempito di granelli simili a perline. Si dice che l'amaranto sia eterno.\"",
+        "id": 53,
+        "index": "CRISPLEAF_AMARANTH_SACHET",
+        "rarity": 0,
+        "image": "iconFavors_crispleafAmaranthSachet"
+    },
+    {
+        "description": "Conferisce il <b>75%</b> di bonus Punti Sangue nella categoria Sopravvivenza.<br><li>Personale.</li><li>Cumulabile.</li>",
+        "name": "Foglie fresche di amaranto",
+        "flavor": "\"Le foglie verde chiaro sono attraversate da peculiari venature cremisi. Si dice che l'amaranto sia eterno.\"",
+        "id": 54,
+        "index": "FRESH_CRISPLEAF_AMARANTH",
+        "rarity": 1,
+        "image": "iconFavors_freshCrispleafAmaranth"
+    },
+    {
+        "description": "Conferisce il <b>100%</b> di bonus Punti Sangue nella categoria Sopravvivenza.<br><li>Personale.</li><li>Cumulabile.</li>",
+        "name": "Foglie fresche di amaranto profumate",
+        "flavor": "\"Le foglie verde chiaro sono attraversate da peculiari venature cremisi. Rilascia un forte aroma di radici.\"",
+        "id": 55,
+        "index": "FRAGRANT_CRISPLEAF_AMARANTH",
+        "rarity": 2,
+        "image": "iconFavors_fragrantCrispleafAmaranth"
+    },
+    {
+        "description": "Conferisce il <b>50%</b> di bonus Punti Sangue nella categoria Altruismo.<br><li>Personale.</li><li>Cumulabile.</li>",
+        "name": "Sacchetto di boccioli di primula",
+        "flavor": "\"Un sacchetto cucito a mano, delle dimensioni di un palmo, contenente 4 petali d'oro. La primula si schiude all'ultimo momento, prima che il sole lasci il posto alla notte.\"",
+        "id": 56,
+        "index": "PRIMROSE_BLOSSOM_SACHET",
+        "rarity": 0,
+        "image": "iconFavors_primroseBlossomSachet"
+    },
+    {
+        "description": "Conferisce il <b>75%</b> di bonus Punti Sangue nella categoria Altruismo.<br><li>Personale.</li><li>Cumulabile.</li>",
+        "name": "Boccioli di primula freschi",
+        "flavor": "\"Fiori dorati colti al loro apice. La primula si schiude all'ultimo momento, prima che il sole lasci il posto alla notte.\"",
+        "id": 57,
+        "index": "FRESH_PRIMROSE_BLOSSOM",
+        "rarity": 1,
+        "image": "iconFavors_freshPrimroseBlossom"
+    },
+    {
+        "description": "Conferisce il <b>100%</b> di bonus Punti Sangue nella categoria Altruismo.<br><li>Personale.</li><li>Cumulabile.</li>",
+        "name": "Boccioli di primula profumati",
+        "flavor": "\"Fiori dorati colti al loro apice. Rilascia un forte aroma terroso e confortante.\"",
+        "id": 58,
+        "index": "FRAGRANT_PRIMROSE_BLOSSOM",
+        "rarity": 2,
+        "image": "iconFavors_fragrantPrimroseBlossom"
+    },
+    {
+        "description": "Conferisce il <b>50%</b> di bonus Punti Sangue nella categoria Coraggio.<br><li>Personale.</li><li>Cumulabile.</li>",
+        "name": "Sacchetto di garofano dei poeti",
+        "flavor": "\"Un sacchetto cucito a mano, delle dimensioni di un palmo, contenente un mix di petali chiari e foglie glauche bluastre. Rilascia un profumo fortemente speziato, simile ai chiodi di garofano.\"",
+        "id": 59,
+        "index": "SWEET_WILLIAM_SACHET",
+        "rarity": 0,
+        "image": "iconFavors_sweetWilliamSachet"
+    },
+    {
+        "description": "Conferisce il <b>75%</b> di bonus Punti Sangue nella categoria Coraggio.<br><li>Personale.</li><li>Cumulabile.</li>",
+        "name": "Conferisce il <b>75%</b> di bonus Punti Sangue nella categoria Coraggio.<br><li>Personale.</li><li>Cumulabile.</li><br><span class=\"FlavorText\">\"Un mazzo di fiori dai petali chiari e dal cuore rosso sangue. Rilascia un profumo speziato, simile ai chiodi di garofano.\"</span>",
+        "flavor": "\"Un mazzo di fiori dai petali chiari e dal cuore rosso sangue. Rilascia un profumo speziato, simile ai chiodi di garofano.\"",
+        "id": 60,
+        "index": "FRESH_SWEET_WILLIAM",
+        "rarity": 1,
+        "image": "iconFavors_freshSweetWilliam"
+    },
+    {
+        "description": "Conferisce il <b>100%</b> di bonus Punti Sangue nella categoria Coraggio.<br><li>Personale.</li><li>Cumulabile.</li>",
+        "name": "Garofano dei poeti fresco",
+        "flavor": "\"Un mazzo di fiori dai petali chiari e dal cuore rosso sangue. Rilascia un profumo fortemente speziato, simile ai chiodi di garofano.\"",
+        "id": 61,
+        "index": "FRAGRANT_SWEET_WILLIAM",
+        "rarity": 2,
+        "image": "iconFavors_fragrantSweetWilliam"
+    },
+    {
+        "description": "Conferisce il <b>25%</b> di bonus Punti Sangue in <b>tutte</b> le categorie a tutti i sopravvissuti.<br><li>Cumulabile.</li>",
+        "name": "Busta da lettera richiusa",
+        "flavor": "\"Una busta da lettera richiusa e legata con 4 nastri colorati.\"",
+        "id": 62,
+        "index": "BOUND_ENVELOPE",
+        "rarity": 2,
+        "image": "iconFavors_boundEnvelope"
+    },
+    {
+        "description": "Conferisce il <b>25%</b> di bonus Punti Sangue in tutte le categorie.<br><li>Personale.</li><li>Cumulabile.</li>",
+        "name": "Busta sigillata",
+        "flavor": "\"Una busta da lettere, chiusa e senza indirizzo, ingiallita dal tempo. Il suo messaggio non sarà mai svelato.\"",
+        "id": 63,
+        "index": "SEALED_ENVELOPE",
+        "rarity": 1,
+        "image": "iconFavors_sealedEnvelope"
+    },
+    {
+        "description": "Conferisce il <b>100%</b> di bonus Punti Sangue in tutte le categorie.<br><li>Personale.</li><li>Cumulabile.</li>",
+        "name": "Torta Fuga!",
+        "flavor": "\"Quest'immagine di una torta sembra vera.\"",
+        "id": 64,
+        "index": "ESCAPE_CAKE",
+        "rarity": 1,
+        "image": "iconFavors_escapeCake"
+    },
+    {
+        "description": "<b>Aumenta leggermente</b> la fortuna.<br><li>Personale.</li><li>Cumulabile.</li>",
+        "name": "Sacchetto di gesso",
+        "flavor": "\"Un piccolo sacchetto di cotone riempito di una polvere di gesso bianca di origine sconosciuta. Alcuni ritengono che porti fortuna.\"",
+        "id": 65,
+        "index": "CHALK_POUCH",
+        "rarity": 0,
+        "image": "iconFavors_chalkPouch"
+    },
+    {
+        "description": "<b>Aumenta moderatamente</b> la fortuna di <b>tutti</b> i sopravvissuti.<br><li>Cumulabile.</li>",
+        "name": "Sacchetto di gesso color crema",
+        "flavor": "\"Una statuetta friabile in miniatura fatta di sale nero e raffigurante una donna inginocchiata che offre un dono. Alcuni ritengono che porti fortuna.\"",
+        "id": 66,
+        "index": "CREAM_CHALK_POUCH",
+        "rarity": 1,
+        "image": "iconFavors_creamChalkPouch"
+    },
+    {
+        "description": "<b>Aumenta considerevolmente</b> la fortuna.<br><li>Personale.</li><li>Cumulabile.</li>",
+        "name": "Sacchetto di gesso color avorio",
+        "flavor": "\"Un piccolo sacchetto di pelle con una linea dritta bianca cucita a mano su uno dei suoi lati. Contiene una polvere di gesso color avorio che brilla al chiaro di luna. Alcuni ritengono che porti fortuna.\"",
+        "id": 67,
+        "index": "IVORY_CHALK_POUCH",
+        "rarity": 2,
+        "image": "iconFavors_ivoryChalkPouch"
+    },
+    {
+        "description": "<b>Aumenta leggermente</b> la fortuna di <b>tutti</b> i sopravvissuti.<br><li>Cumulabile.</li>",
+        "name": "Sacchetto di sale",
+        "flavor": "\"Un piccolo sacchetto di cotone riempito di cristalli di sale nero. Alcuni ritengono che porti fortuna. Non farlo cadere.\"",
+        "id": 68,
+        "index": "SALT_POUCH",
+        "rarity": 1,
+        "image": "iconFavors_saltPouch"
+    },
+    {
+        "description": "<b>Aumenta considerevolmente</b> la fortuna di <b>tutti</b> i sopravvissuti.<br><li>Cumulabile.</li>",
+        "name": "Vasetto di labbra sotto sale di Vigo",
+        "flavor": "\"Un vasetto di vetro sigillato ermeticamente e contenente labbra umane che galleggiano in una torbida salamoia. Alcuni ritengono che porti fortuna.\"",
+        "id": 69,
+        "index": "VIGOS_JAR_OF_SALTY_LIPS",
+        "rarity": 3,
+        "image": "iconFavors_jarOfSaltyLips"
+    },
+    {
+        "description": "Invoca l'Entità per creare <b>1</b> altra cassa.<br><li>Cumulabile.</li>",
+        "name": "Moneta ossidata",
+        "flavor": "\"Un pezzo di metallo rotondo che ha perso tutta la sua lucentezza.\"",
+        "id": 70,
+        "index": "TARNISHED_COIN",
+        "rarity": 1,
+        "image": "iconFavors_tarnishedCoin"
+    },
+    {
+        "description": "Invoca l'Entità per creare altre <b>2</b> casse.<br><li>Cumulabile.</li>",
+        "name": "Moneta luccicante",
+        "flavor": "\"Un pezzo d'oro pulito e lucidato.\"",
+        "id": 71,
+        "index": "SHINY_COIN",
+        "rarity": 3,
+        "image": "iconFavors_shinyCoin"
+    },
+    {
+        "description": "Calma l'Entità per <b>aumentare leggermente</b> la <b>distanza</b> dei ganci sacrificali apparsi nel mondo.<br><li>Cumulabile.</li>",
+        "name": "Legno di quercia pietrificato",
+        "flavor": "\"Un pezzo di legno pietrificato in deterioramento.\"",
+        "id": 72,
+        "index": "PETRIFIED_OAK",
+        "rarity": 3,
+        "image": "iconFavors_petrifiedOak"
+    },
+    {
+        "description": "Cominci la prova con qualcun altro.<br><li>Segreto.</li>",
+        "name": "Sudario dell'Unione",
+        "flavor": "\"Un pezzo di tessuto annodato.\"",
+        "id": 73,
+        "index": "SHROUD_OF_UNION",
+        "rarity": 1,
+        "image": "iconFavors_shroudOfUnion"
+    },
+    {
+        "description": "Tutti i sopravvissuti cominciano la prova insieme.<br><li>Segreto.</li>",
+        "name": "Sudario dei Legami",
+        "flavor": "\"Un pezzo di tessuto quadrato e sbiadito, con piccoli nodi alle estremità.\"",
+        "id": 74,
+        "index": "SHROUD_OF_BINDING",
+        "rarity": 3,
+        "image": "iconFavors_shroudOfBinding"
+    },
+    {
+        "description": "Inizi la prova il più lontano possibile dal killer.<br><li>Segreto.</li>",
+        "name": "Sudario di Vigo",
+        "flavor": "\"Ho trovato meraviglie nella nebbia nel corso degli anni, ma solo adesso capisco come piegare le regole irrefutabili della Nebbia.\" - Dal diario di Vigo",
+        "id": 75,
+        "index": "VIGOS_SHROUD",
+        "rarity": 1,
+        "image": "iconFavors_vigosShroud"
+    }
+]

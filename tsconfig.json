@@ -13,7 +13,7 @@
         "suppressImplicitAnyIndexErrors": true,
         "module": "commonjs",
         "moduleResolution": "node",
-        "target": "ES5",
+        "target": "es5",
         "lib": ["ESNext", "DOM"],
         "preserveSymlinks": true,
         "allowSyntheticDefaultImports": true,
