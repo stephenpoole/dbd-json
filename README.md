@@ -64,7 +64,7 @@ The classes used are `Highlight1`, `Highlight2`, `Highlight3` and `Highlight4`
 
 ## Locales
 
-Just like in-game, this currently library supports the following languages:
+Just like in-game, this library currently supports the following languages:
 
 English, Spanish, German, French, Italian, Japanese, Korean, Polish, Russian, Taiwanese, Turkish and Simplified Chinese.
 
