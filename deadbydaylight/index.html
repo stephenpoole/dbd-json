@@ -1,0 +1,479 @@
+<!doctype html>
+<html class="default no-js">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Dead By Daylight Database</title>
+	<meta name="description" content="Documentation for Dead By Daylight Database">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="assets/css/main.css">
+	<script async src="assets/js/search.js" id="search-script"></script>
+</head>
+<body>
+<header>
+	<div class="tsd-page-toolbar">
+		<div class="container">
+			<div class="table-wrap">
+				<div class="table-cell" id="tsd-search" data-index="assets/js/search.json" data-base=".">
+					<div class="field">
+						<label for="tsd-search-field" class="tsd-widget search no-caption">Search</label>
+						<input id="tsd-search-field" type="text" />
+					</div>
+					<ul class="results">
+						<li class="state loading">Preparing search index...</li>
+						<li class="state failure">The search index is not available</li>
+					</ul>
+					<a href="index.html" class="title">Dead By Daylight Database</a>
+				</div>
+				<div class="table-cell" id="tsd-widgets">
+					<div id="tsd-filter">
+						<a href="#" class="tsd-widget options no-caption" data-toggle="options">Options</a>
+						<div class="tsd-filter-group">
+							<div class="tsd-select" id="tsd-filter-visibility">
+								<span class="tsd-select-label">All</span>
+								<ul class="tsd-select-list">
+									<li data-value="public">Public</li>
+									<li data-value="protected">Public/Protected</li>
+									<li data-value="private" class="selected">All</li>
+								</ul>
+							</div>
+							<input type="checkbox" id="tsd-filter-inherited" checked />
+							<label class="tsd-widget" for="tsd-filter-inherited">Inherited</label>
+						</div>
+					</div>
+					<a href="#" class="tsd-widget menu no-caption" data-toggle="menu">Menu</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="tsd-page-title">
+		<div class="container">
+			<h1>Dead By Daylight Database</h1>
+		</div>
+	</div>
+</header>
+<div class="container container-main">
+	<div class="row">
+		<div class="col-8 col-content">
+			<div class="tsd-panel tsd-typography">
+				<p><a href="https://badge.fury.io/js/%40stephenpoole%2Fdeadbydaylight"><img src="https://badge.fury.io/js/%40stephenpoole%2Fdeadbydaylight.svg" alt="npm version"></a>
+					<a href="https://snyk.io/test/github/stephenpoole/deadbydaylight"><img src="https://snyk.io/test/github/stephenpoole/deadbydaylight/badge.svg" alt="Known Vulnerabilities"></a>
+					<a href="https://travis-ci.com/stephenpoole/dbd-db"><img src="https://travis-ci.com/stephenpoole/dbd-db.svg?branch=master" alt="Build Status"></a>
+				<a href="https://codecov.io/gh/stephenpoole/deadbydaylight"><img src="https://codecov.io/gh/stephenpoole/deadbydaylight/branch/master/graph/badge.svg?token=lTWudhhmb0" alt="codecov"></a></p>
+				<a href="#deadbydaylight" id="deadbydaylight" style="color: inherit; text-decoration: none;">
+					<h1>deadbydaylight</h1>
+				</a>
+				<p>A complete Dead by Daylight dataset.</p>
+				<a href="#getting-started" id="getting-started" style="color: inherit; text-decoration: none;">
+					<h2>Getting Started</h2>
+				</a>
+				<p>Install <code>@stephenpoole/deadbydaylight</code> and save to your package.json in one easy step.</p>
+				<p>With npm:</p>
+				<pre><code><span style="color: #001080">npm</span><span style="color: #000000"> </span><span style="color: #001080">install</span><span style="color: #000000"> </span><span style="color: #001080">deadbydaylight</span>
+</code></pre>
+				<p>With yarn:</p>
+				<pre><code><span style="color: #001080">yarn</span><span style="color: #000000"> </span><span style="color: #001080">add</span><span style="color: #000000"> </span><span style="color: #001080">deadbydaylight</span>
+</code></pre>
+				<a href="#usage" id="usage" style="color: inherit; text-decoration: none;">
+					<h2>Usage</h2>
+				</a>
+				<ol>
+					<li>Import <code>@stephenpoole/deadbydaylight</code> into your application:</li>
+				</ol>
+				<pre><code><span style="color: #AF00DB">import</span><span style="color: #000000"> </span><span style="color: #001080">Dbd</span><span style="color: #000000"> </span><span style="color: #AF00DB">from</span><span style="color: #000000"> </span><span style="color: #A31515">&#039;@stephenpoole/deadbydaylight&#039;</span><span style="color: #000000">;</span>
+</code></pre>
+				<ol start="2">
+					<li>Instantiate and grab some data:</li>
+				</ol>
+				<pre><code><span style="color: #AF00DB">import</span><span style="color: #000000"> </span><span style="color: #001080">Dbd</span><span style="color: #000000">, { </span><span style="color: #001080">Killer</span><span style="color: #000000"> } </span><span style="color: #AF00DB">from</span><span style="color: #000000"> </span><span style="color: #A31515">&#039;@stephenpoole/deadbydaylight&#039;</span><span style="color: #000000">;</span>
+
+<span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">dbd</span><span style="color: #000000"> = </span><span style="color: #0000FF">new</span><span style="color: #000000"> </span><span style="color: #795E26">Dbd</span><span style="color: #000000">();</span>
+<span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">nurse</span><span style="color: #000000"> = </span><span style="color: #001080">dbd</span><span style="color: #000000">.</span><span style="color: #795E26">killer</span><span style="color: #000000">(</span><span style="color: #001080">Killer</span><span style="color: #000000">.</span><span style="color: #001080">Nurse</span><span style="color: #000000">);</span>
+<span style="color: #001080">console</span><span style="color: #000000">.</span><span style="color: #795E26">log</span><span style="color: #000000">(</span><span style="color: #001080">nurse</span><span style="color: #000000">);</span>
+</code></pre>
+				<a href="#documentation" id="documentation" style="color: inherit; text-decoration: none;">
+					<h2>Documentation</h2>
+				</a>
+				<p>You may find the type documentation here:
+				<a href="https://stephenpoole.github.io/deadbydaylight/">Documentation</a></p>
+				<a href="#images" id="images" style="color: inherit; text-decoration: none;">
+					<h2>Images</h2>
+				</a>
+				<p>You may find the images used in-game at <code>Steam/common/steamapps/Dead By Daylight/DeadByDaylight/Icons/UI</code>.</p>
+				<a href="#html" id="html" style="color: inherit; text-decoration: none;">
+					<h2>HTML</h2>
+				</a>
+				<p>Throughout the data, html is used to denote styling of the descriptions.</p>
+				<pre><code><span style="color: #000000">&lt;</span><span style="color: #001080">span</span><span style="color: #000000"> </span><span style="color: #001080">class</span><span style="color: #000000">=\</span><span style="color: #A31515">&quot;Highlight1</span><span style="color: #EE0000">\&quot;</span><span style="color: #A31515">&gt;&lt;/span</span><span style="color: #CD3131">&gt;</span>
+</code></pre>
+				<p>The classes used are <code>Highlight1</code>, <code>Highlight2</code>, <code>Highlight3</code> and <code>Highlight4</code></p>
+				<a href="#locales" id="locales" style="color: inherit; text-decoration: none;">
+					<h2>Locales</h2>
+				</a>
+				<p>Just like in-game, this currently library supports the following languages:</p>
+				<p>English, Spanish, German, French, Italian, Japanese, Korean, Polish, Russian, Taiwanese, Turkish and Simplified Chinese.</p>
+				<a href="#data" id="data" style="color: inherit; text-decoration: none;">
+					<h2>Data</h2>
+				</a>
+				<a href="#killers" id="killers" style="color: inherit; text-decoration: none;">
+					<h3>Killers</h3>
+				</a>
+				<pre><code><span style="color: #000000">{</span>
+<span style="color: #000000">        id: </span><span style="color: #098658">1</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">        index: </span><span style="color: #A31515">&quot;SHAPE&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">        name: </span><span style="color: #A31515">&quot;The Shape&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">        difficulty: </span><span style="color: #098658">2</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">Difficulty</span><span style="color: #000000">)</span>
+<span style="color: #000000">        power: </span><span style="color: #A31515">&quot;EVIL_WITHIN&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">powers</span><span style="color: #000000">[].</span><span style="color: #001080">index</span><span style="color: #000000">)</span>
+<span style="color: #000000">        description:</span>
+<span style="color: #000000">            </span><span style="color: #A31515">&quot;A haunting Killer, intent on monitoring survivors from a distance to feed his power, %bEvil Within%/b. The more he stalks, the stronger and faster he becomes.&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">        perks: [</span>
+<span style="color: #000000">            </span><span style="color: #A31515">&quot;SAVE_THE_BEST_FOR_LAST&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">killerPerks</span><span style="color: #000000">[].</span><span style="color: #001080">index</span><span style="color: #000000">)</span>
+<span style="color: #000000">            ...</span>
+<span style="color: #000000">        ], (</span><span style="color: #001080">array</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">length</span><span style="color: #000000"> </span><span style="color: #098658">3</span><span style="color: #000000">)</span>
+<span style="color: #000000">        image: </span><span style="color: #A31515">&quot;SH_charSelect_portrait&quot;</span><span style="color: #000000"> (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    }</span>
+</code></pre>
+				<a href="#survivors" id="survivors" style="color: inherit; text-decoration: none;">
+					<h3>Survivors</h3>
+				</a>
+				<pre><code><span style="color: #000000">{</span>
+<span style="color: #000000">        id: </span><span style="color: #098658">1</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">        index: </span><span style="color: #A31515">&quot;NEA_KARLSSON&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">        name: </span><span style="color: #A31515">&quot;Nea Karlsson&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">        difficulty: </span><span style="color: #098658">1</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">Difficulty</span><span style="color: #000000">)</span>
+<span style="color: #000000">        description:</span>
+<span style="color: #000000">            </span><span style="color: #A31515">&quot;An urban artist, able to easily escape and hide.&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">        perks: [</span>
+<span style="color: #000000">            </span><span style="color: #A31515">&quot;BALANCED_LANDING&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">survivorPerks</span><span style="color: #000000">[].</span><span style="color: #001080">index</span><span style="color: #000000">)</span>
+<span style="color: #000000">            ...</span>
+<span style="color: #000000">        ], (</span><span style="color: #001080">array</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">length</span><span style="color: #000000"> </span><span style="color: #098658">3</span><span style="color: #000000">)</span>
+<span style="color: #000000">        image: </span><span style="color: #A31515">&quot;NK_charSelect_portrait&quot;</span><span style="color: #000000"> (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    }</span>
+</code></pre>
+				<a href="#powers" id="powers" style="color: inherit; text-decoration: none;">
+					<h3>Powers</h3>
+				</a>
+				<pre><code><span style="color: #000000">{</span>
+<span style="color: #000000">    id: </span><span style="color: #098658">1</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    index: </span><span style="color: #A31515">&quot;EVIL_WITHIN&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    name: </span><span style="color: #A31515">&quot;Evil Within&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    owner: </span><span style="color: #A31515">&quot;SHAPE&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">killers</span><span style="color: #000000">[].</span><span style="color: #001080">index</span><span style="color: #000000"> </span><span style="color: #001080">or</span><span style="color: #000000"> </span><span style="color: #A31515">&quot;NOONE&quot;</span><span style="color: #000000">)</span>
+<span style="color: #000000">    description:</span>
+<span style="color: #000000">        </span><span style="color: #A31515">&quot;The darkness inside feeds his determination to take the life of...&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    flavor:</span>
+<span style="color: #000000">        </span><span style="color: #A31515">&quot;</span><span style="color: #EE0000">\&quot;</span><span style="color: #A31515">I met him, fifteen years ago; I was told there was nothing left...&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">optional</span><span style="color: #000000">)</span>
+<span style="color: #000000">    ], (</span><span style="color: #001080">array</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #001080">at</span><span style="color: #000000"> </span><span style="color: #001080">least</span><span style="color: #000000"> </span><span style="color: #001080">length</span><span style="color: #000000"> </span><span style="color: #098658">1</span><span style="color: #000000">)</span>
+<span style="color: #000000">    image: </span><span style="color: #A31515">&quot;iconPowers_stalker1&quot;</span><span style="color: #000000"> (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">}</span>
+</code></pre>
+				<a href="#items" id="items" style="color: inherit; text-decoration: none;">
+					<h3>Items</h3>
+				</a>
+				<pre><code><span style="color: #000000">{</span>
+<span style="color: #000000">    id: </span><span style="color: #098658">1</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    index: </span><span style="color: #A31515">&quot;ENGINEERS_TOOLBOX&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    name: </span><span style="color: #A31515">&quot;Mechanic&#039;s Toolbox&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    description: </span><span style="color: #A31515">&quot;A metal box with specialised mechanics tools. Even without training...&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    type: </span><span style="color: #A31515">&quot;TOOLBOX&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">ItemType</span><span style="color: #000000">)</span>
+<span style="color: #000000">    rarity: </span><span style="color: #098658">2</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">Rarity</span><span style="color: #000000">)</span>
+<span style="color: #000000">    image: </span><span style="color: #A31515">&quot;iconItems_toolboxMechanics&quot;</span><span style="color: #000000"> (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">}</span>
+</code></pre>
+				<a href="#perks" id="perks" style="color: inherit; text-decoration: none;">
+					<h3>Perks</h3>
+				</a>
+				<p>Killer Perks</p>
+				<pre><code><span style="color: #000000">{</span>
+<span style="color: #000000">    id: </span><span style="color: #098658">1</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    index: </span><span style="color: #A31515">&quot;IRON_GRASP&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    name: </span><span style="color: #A31515">&quot;Iron Grasp&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    rarity: [</span>
+<span style="color: #000000">        </span><span style="color: #098658">1</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">)</span>
+<span style="color: #000000">        ...</span>
+<span style="color: #000000">    ], (</span><span style="color: #001080">array</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">length</span><span style="color: #000000"> </span><span style="color: #098658">3</span><span style="color: #000000">)</span>
+<span style="color: #000000">    owner: </span><span style="color: #A31515">&quot;NOONE&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">killers</span><span style="color: #000000">[].</span><span style="color: #001080">index</span><span style="color: #000000"> </span><span style="color: #001080">or</span><span style="color: #000000"> </span><span style="color: #A31515">&quot;NOONE&quot;</span><span style="color: #000000">)</span>
+<span style="color: #000000">    description:</span>
+<span style="color: #000000">        </span><span style="color: #A31515">&quot;Your powerful hold on the survivors causes escapes to be nearly impossible. Effects of survivor struggling are reduced by %s. Time to struggle out of your grasp is increased by %s.&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    image: </span><span style="color: #A31515">&quot;iconPerks_ironGrasp&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    flavor:</span>
+<span style="color: #000000">        </span><span style="color: #A31515">&quot;</span><span style="color: #EE0000">\&quot;</span><span style="color: #A31515">I met him, fifteen years ago; I was told there was nothing left...&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">optional</span><span style="color: #000000">)</span>
+<span style="color: #000000">    tiers: [</span>
+<span style="color: #000000">        [</span>
+<span style="color: #000000">            </span><span style="color: #A31515">&quot;25%&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000"> </span><span style="color: #001080">or</span><span style="color: #000000"> </span><span style="color: #001080">number</span><span style="color: #000000">)</span>
+<span style="color: #000000">            ...</span>
+<span style="color: #000000">        ], (</span><span style="color: #001080">array</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">length</span><span style="color: #000000"> </span><span style="color: #001080">count</span><span style="color: #000000"> </span><span style="color: #0000FF">of</span><span style="color: #000000"> {</span><span style="color: #098658">0</span><span style="color: #000000">} </span><span style="color: #0000FF">in</span><span style="color: #000000"> </span><span style="color: #001080">description</span><span style="color: #000000">)</span>
+<span style="color: #000000">        ...</span>
+<span style="color: #000000">    ] (</span><span style="color: #001080">array</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">length</span><span style="color: #000000"> </span><span style="color: #098658">3</span><span style="color: #000000">)</span>
+<span style="color: #000000">}</span>
+</code></pre>
+				<p>Survivor Perks</p>
+				<pre><code><span style="color: #000000">{</span>
+<span style="color: #000000">    id: </span><span style="color: #098658">1</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    index: </span><span style="color: #A31515">&quot;SLIPPERY_MEAT&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    name: </span><span style="color: #A31515">&quot;Slippery Meat&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    rarity: [</span>
+<span style="color: #000000">        </span><span style="color: #098658">1</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">)</span>
+<span style="color: #000000">        ...</span>
+<span style="color: #000000">    ], (</span><span style="color: #001080">array</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">length</span><span style="color: #000000"> </span><span style="color: #098658">3</span><span style="color: #000000">)</span>
+<span style="color: #000000">    owner: </span><span style="color: #A31515">&quot;NOONE&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">survivors</span><span style="color: #000000">[].</span><span style="color: #001080">index</span><span style="color: #000000"> </span><span style="color: #001080">or</span><span style="color: #000000"> </span><span style="color: #A31515">&quot;NOONE&quot;</span><span style="color: #000000">)</span>
+<span style="color: #000000">    description:</span>
+<span style="color: #000000">        </span><span style="color: #A31515">&quot;You have developed an efficient way to get out of Bear Traps and Hooks. Grants up to %s extra escape attempts on the hook. The odds of freeing yourself from Bear Traps are increased by %s.&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    image: </span><span style="color: #A31515">&quot;iconPerks_slipperyMeat&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    flavor:</span>
+<span style="color: #000000">        </span><span style="color: #A31515">&quot;</span><span style="color: #EE0000">\&quot;</span><span style="color: #A31515">I met him, fifteen years ago; I was told there was nothing left...&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">optional</span><span style="color: #000000">)</span>
+<span style="color: #000000">    tiers: [</span>
+<span style="color: #000000">        [</span>
+<span style="color: #000000">            </span><span style="color: #A31515">&quot;1%&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000"> </span><span style="color: #001080">or</span><span style="color: #000000"> </span><span style="color: #001080">number</span><span style="color: #000000">)</span>
+<span style="color: #000000">            ...</span>
+<span style="color: #000000">        ], (</span><span style="color: #001080">array</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">length</span><span style="color: #000000"> </span><span style="color: #001080">count</span><span style="color: #000000"> </span><span style="color: #0000FF">of</span><span style="color: #000000"> {</span><span style="color: #098658">0</span><span style="color: #000000">} </span><span style="color: #0000FF">in</span><span style="color: #000000"> </span><span style="color: #001080">description</span><span style="color: #000000">)</span>
+<span style="color: #000000">    ] (</span><span style="color: #001080">array</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">length</span><span style="color: #000000"> </span><span style="color: #098658">3</span><span style="color: #000000">)</span>
+<span style="color: #000000">}</span>
+</code></pre>
+				<a href="#addons" id="addons" style="color: inherit; text-decoration: none;">
+					<h3>Addons</h3>
+				</a>
+				<p>Killer Addons</p>
+				<pre><code><span style="color: #000000">{</span>
+<span style="color: #000000">    id: </span><span style="color: #098658">1</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    index: </span><span style="color: #A31515">&quot;VHS_PORN&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    name: </span><span style="color: #A31515">&quot;VHS Porn&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    owner: </span><span style="color: #A31515">&quot;CLOWN&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">killers</span><span style="color: #000000">[].</span><span style="color: #001080">index</span><span style="color: #000000">)</span>
+<span style="color: #000000">    description: </span><span style="color: #A31515">&quot;An all time classic.&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    rarity: </span><span style="color: #098658">2</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">Rarity</span><span style="color: #000000">)</span>
+<span style="color: #000000">    flavor: </span><span style="color: #A31515">&quot;</span><span style="color: #EE0000">\&quot;</span><span style="color: #A31515">I met him, fifteen years ago; I was told there was nothing left...&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">optional</span><span style="color: #000000">)</span>
+<span style="color: #000000">    image: </span><span style="color: #A31515">&quot;iconAddon_toolboxMechanics&quot;</span><span style="color: #000000"> (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">}</span>
+</code></pre>
+				<p>Survivor Addons</p>
+				<pre><code><span style="color: #000000">{</span>
+<span style="color: #000000">    id: </span><span style="color: #098658">1</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    index: </span><span style="color: #A31515">&quot;CLEAN_RAG&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    name: </span><span style="color: #A31515">&quot;Clean Rag&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    type: </span><span style="color: #A31515">&quot;TOOLBOX&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">items</span><span style="color: #000000">[].</span><span style="color: #001080">index</span><span style="color: #000000">)</span>
+<span style="color: #000000">    description: </span><span style="color: #A31515">&quot;A mundane rag. Suspiciously clean.&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    rarity: </span><span style="color: #098658">0</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">Rarity</span><span style="color: #000000">)</span>
+<span style="color: #000000">    flavor: </span><span style="color: #A31515">&quot;</span><span style="color: #EE0000">\&quot;</span><span style="color: #A31515">I met him, fifteen years ago; I was told there was nothing left...&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">optional</span><span style="color: #000000">)</span>
+<span style="color: #000000">    image: </span><span style="color: #A31515">&quot;iconAddon_cleanRag&quot;</span><span style="color: #000000"> (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">}</span>
+</code></pre>
+				<a href="#offerings" id="offerings" style="color: inherit; text-decoration: none;">
+					<h3>Offerings</h3>
+				</a>
+				<p>Killer Offerings</p>
+				<pre><code><span style="color: #000000">{</span>
+<span style="color: #000000">    id: </span><span style="color: #098658">1</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    index: </span><span style="color: #A31515">&quot;HOLLOW_SHELL&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    name: </span><span style="color: #A31515">&quot;Hollow Shell&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    rarity: </span><span style="color: #098658">1</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">Rarity</span><span style="color: #000000">)</span>
+<span style="color: #000000">    description: </span><span style="color: #A31515">&quot;Grants %b25%/b% extra Bloodpoints in all Categories.&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    flavor:</span>
+<span style="color: #000000">        </span><span style="color: #A31515">&quot;</span><span style="color: #EE0000">\&quot;</span><span style="color: #A31515">An unidentifiable cocoon which was breached by whatever was inside.</span><span style="color: #EE0000">\&quot;</span><span style="color: #A31515">&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">optional</span><span style="color: #000000">)</span>
+<span style="color: #000000">    image: </span><span style="color: #A31515">&quot;iconFavors_hollowShell&quot;</span><span style="color: #000000"> (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">}</span>
+</code></pre>
+				<p>Survivor Offerings</p>
+				<pre><code><span style="color: #000000">{</span>
+<span style="color: #000000">    id: </span><span style="color: #098658">1</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    index: </span><span style="color: #A31515">&quot;PETRIFIED_OAK&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    name: </span><span style="color: #A31515">&quot;Petrified Oak&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    rarity: </span><span style="color: #098658">3</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">Rarity</span><span style="color: #000000">)</span>
+<span style="color: #000000">    description:</span>
+<span style="color: #000000">        </span><span style="color: #A31515">&quot;Calms The Entity and prevents %b1%/b Hook from appearing.&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    flavor: </span><span style="color: #A31515">&quot;</span><span style="color: #EE0000">\&quot;</span><span style="color: #A31515">A deteriorating piece of petrified wood.</span><span style="color: #EE0000">\&quot;</span><span style="color: #A31515">&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">optional</span><span style="color: #000000">)</span>
+<span style="color: #000000">    image: </span><span style="color: #A31515">&quot;iconFavors_petrifiedOak&quot;</span><span style="color: #000000"> (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">}</span>
+</code></pre>
+				<p>Shared Offerings</p>
+				<pre><code><span style="color: #000000">{</span>
+<span style="color: #000000">    id: </span><span style="color: #098658">1</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    index: </span><span style="color: #A31515">&quot;BLOODY_PARTY_STREAMERS&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    name: </span><span style="color: #A31515">&quot;Bloody Party Streamers&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    rarity: </span><span style="color: #098658">2</span><span style="color: #000000">, (</span><span style="color: #001080">number</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">, </span><span style="color: #0000FF">of</span><span style="color: #000000"> </span><span style="color: #001080">type</span><span style="color: #000000"> </span><span style="color: #001080">Rarity</span><span style="color: #000000">)</span>
+<span style="color: #000000">    description:</span>
+<span style="color: #000000">        </span><span style="color: #A31515">&quot;Grants %b100%/b% bonus Bloodpoints in all Categories for all Players.&quot;</span><span style="color: #000000">, (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">    flavor:</span>
+<span style="color: #000000">        </span><span style="color: #A31515">&quot;</span><span style="color: #EE0000">\&quot;</span><span style="color: #A31515">A reminder of a bloody good time when people came together, but left screaming.</span><span style="color: #EE0000">\&quot;</span><span style="color: #A31515">&quot;</span><span style="color: #000000">,  (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">optional</span><span style="color: #000000">)</span>
+<span style="color: #000000">    image: </span><span style="color: #A31515">&quot;iconFavors_bloodyPartyStreamers&quot;</span><span style="color: #000000"> (</span><span style="color: #001080">string</span><span style="color: #000000">, </span><span style="color: #001080">required</span><span style="color: #000000">)</span>
+<span style="color: #000000">}</span>
+</code></pre>
+				<a href="#license" id="license" style="color: inherit; text-decoration: none;">
+					<h2>License</h2>
+				</a>
+				<p>MIT License</p>
+				<p>Copyright (c) 2021 Stephen Poole</p>
+				<p>Permission is hereby granted, free of charge, to any person obtaining a copy
+					of this software and associated documentation files (the &quot;Software&quot;), to deal
+					in the Software without restriction, including without limitation the rights
+					to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+					copies of the Software, and to permit persons to whom the Software is
+				furnished to do so, subject to the following conditions:</p>
+				<p>The above copyright notice and this permission notice shall be included in all
+				copies or substantial portions of the Software.</p>
+				<p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+					IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+					FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+					AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+					LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+					OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+				SOFTWARE.</p>
+			</div>
+		</div>
+		<div class="col-4 col-menu menu-sticky-wrap menu-highlight">
+			<nav class="tsd-navigation primary">
+				<ul>
+					<li class=" ">
+						<a href="modules.html">Modules</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/enum.html">enum</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factories.html">factories</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_base_factory.html">factory/base/factory</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_base_model.html">factory/base/model</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_base_modelfactory.html">factory/base/model<wbr>Factory</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_itemfactory.html">factory/item<wbr>Factory</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_killeraddonfactory.html">factory/killer<wbr>Addon<wbr>Factory</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_killerfactory.html">factory/killer<wbr>Factory</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_killerofferingfactory.html">factory/killer<wbr>Offering<wbr>Factory</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_killerperkfactory.html">factory/killer<wbr>Perk<wbr>Factory</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_model.html">factory/model</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_model_addon.html">factory/model/addon</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_model_item.html">factory/model/item</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_model_offering.html">factory/model/offering</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_model_perk.html">factory/model/perk</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_model_player.html">factory/model/player</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_model_power.html">factory/model/power</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_powerfactory.html">factory/power<wbr>Factory</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_sharedofferingfactory.html">factory/shared<wbr>Offering<wbr>Factory</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_survivoraddonfactory.html">factory/survivor<wbr>Addon<wbr>Factory</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_survivorfactory.html">factory/survivor<wbr>Factory</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_survivorofferingfactory.html">factory/survivor<wbr>Offering<wbr>Factory</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/factory_survivorperkfactory.html">factory/survivor<wbr>Perk<wbr>Factory</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/index.html">index</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/locale.html">locale</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/locales.html">locales</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/locales_de.html">locales/de</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/locales_en.html">locales/en</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/locales_es.html">locales/es</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/locales_fr.html">locales/fr</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/locales_it.html">locales/it</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/locales_jp.html">locales/jp</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/locales_ko.html">locales/ko</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/locales_pl.html">locales/pl</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/locales_ru.html">locales/ru</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/locales_th.html">locales/th</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/locales_tr.html">locales/tr</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/locales_zh.html">locales/zh</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/types.html">types</a>
+					</li>
+				</ul>
+			</nav>
+			<nav class="tsd-navigation secondary menu-sticky">
+				<ul class="before-current">
+				</ul>
+			</nav>
+		</div>
+	</div>
+</div>
+<footer class="with-border-bottom">
+	<div class="container">
+		<h2>Legend</h2>
+		<div class="tsd-legend-group">
+			<ul class="tsd-legend">
+				<li class="tsd-kind-class"><span class="tsd-kind-icon">Class</span></li>
+				<li class="tsd-kind-class tsd-has-type-parameter"><span class="tsd-kind-icon">Class with type parameter</span></li>
+			</ul>
+			<ul class="tsd-legend">
+				<li class="tsd-kind-variable"><span class="tsd-kind-icon">Variable</span></li>
+			</ul>
+			<ul class="tsd-legend">
+				<li class="tsd-kind-enum"><span class="tsd-kind-icon">Enumeration</span></li>
+			</ul>
+			<ul class="tsd-legend">
+				<li class="tsd-kind-interface"><span class="tsd-kind-icon">Interface</span></li>
+			</ul>
+		</div>
+	</div>
+</footer>
+<div class="container tsd-generator">
+	<p>Generated using <a href="https://typedoc.org/" target="_blank">TypeDoc</a></p>
+</div>
+<div class="overlay"></div>
+<script src="assets/js/main.js"></script>
+</body>
+</html>
