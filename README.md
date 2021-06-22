@@ -9,7 +9,7 @@ A complete Dead by Daylight dataset.
 
 ## Getting Started
 
-Install `deadbydaylight` and save to your package.json in one easy step.
+Install `@stephenpoole/deadbydaylight` and save to your package.json in one easy step.
 
 With npm:
 
@@ -25,7 +25,7 @@ yarn add deadbydaylight
 
 ## Usage
 
-1. Import `deadbydaylight` into your application:
+1. Import `@stephenpoole/deadbydaylight` into your application:
 
 ```
 import Dbd from 'deadbydaylight';
@@ -34,7 +34,7 @@ import Dbd from 'deadbydaylight';
 2. Instantiate and grab some data:
 
 ```
-import Dbd, { Killer } from 'deadbydaylight';
+import Dbd, { Killer } from '@stephenpoole/deadbydaylight';
 
 const dbd = new Dbd();
 const nurse = dbd.killer(Killer.Nurse);
