@@ -45,12 +45,12 @@ console.log(nurse);
 
 ## Documentation
 
-You may find the type documentation here:
+You'll find the type documentation here:
 [Documentation](https://stephenpoole.github.io/deadbydaylight/deadbydaylight/)
 
 ## Images
 
-You may find the images used in-game at `Steam/common/steamapps/Dead By Daylight/DeadByDaylight/Icons/UI`.
+You'll find the images referenced by the `image` property on your computer at `C:\Program Files (x86)\Steam\steamapps\common\Dead by Daylight\DeadByDaylight\Icons\UI`.
 
 ## HTML
 
@@ -64,9 +64,23 @@ The classes used are `Highlight1`, `Highlight2`, `Highlight3` and `Highlight4`
 
 ## Locales
 
-Just like in-game, this library currently supports the following languages:
+Just like in-game, this library supports the following languages:
 
 English, Spanish, German, French, Italian, Japanese, Korean, Polish, Russian, Taiwanese, Turkish and Simplified Chinese.
+
+To set the locale, simply initiate with the `language` option
+
+```
+import Dbd, { Language } from '@stephenpoole/deadbydaylight';
+
+const dbd = new Dbd({ language: Language.Korean });
+```
+
+or to change the language after instantiation, call `changeLanguage()`
+
+```
+dbd.changeLanguage(language.Korean);
+```
 
 ## Data
 
