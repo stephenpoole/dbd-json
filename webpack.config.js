@@ -1,7 +1,6 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 const webpack = require("webpack");
 const path = require("path");
-const nodeExternals = require("webpack-node-externals");
 const Dotenv = require("dotenv-webpack");
 const CircularDependencyPlugin = require("circular-dependency-plugin");
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");

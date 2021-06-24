@@ -5,14 +5,6 @@ cache:
     directories:
         - node_modules
 deploy:
-    - provider: npm
-      email: stephenwpoole@gmail.com
-      api_key:
-          secure: b9q3XjgSfva16y6/Pusf+gPloOuDVuePWrOOobBvCZZfAwOpLAkisrkMEPn/ulJFIsL+3gvel+1i7+fM0WG6u2b7kTCdnbH4AmZOT13IHrvkfpzC4OXLiXZKARU4Dfm6A+mBhXSiES2ju8os1Qabm+inUFegKqCoX8eUdOaI65RqJGhUsFeElu4Wy5LfQVz0XQuFOlqPO8vXxG4JsSn39j57wcK+/IG3Yia9i8AY1GdzTmbFFZSuLRYWnQaNsAXegyHzMtdr9KFR4XH2j8ELBqyOuU+TKD1JfiHOw/WX7cWAXnYoZORvvIH7Q20bv0UwlUFrvSZ+GiZb6+CXn5AR7PZ76nIDhI28O18GhkrJLlrjqoMJLKo43I7m0tzF2QnbGn4hDAzHFIqBiVgimjmn+kERlad2gKIVlh6riBjUH+QpF8i56xBKPkleU0kEnszPhVBul8/1Uc/JApLwYtXVRBjPgFua8dxzhoO2t91rVGMrtStL4AnLefQmrFBL86lBz4nAO5aH5FGa4kDXIAp6Tjc1mc4v5jj8iu07lkFHrg2+nXkh2Ib/p2fl7YLQ4cp9pL1QBPKKxwQahhShI2AdlJljAS2iLQ8b11123JVseOO4SgqxgxA/sA9Q1MixU6v5PHAAMHadhCaLMzCnQq6cMG27c3HZPrKZAQlO8uCiBxw=
-      on:
-          branch: master
-          tags: true
-          repo: stephenpoole/deadbydaylight
     - provider: pages
       skip_cleanup: true
       github_token: $GITHUB_TOKEN
