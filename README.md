@@ -57,7 +57,7 @@ import Dbd from "@stephenpoole/deadbydaylight";
 2. Instantiate and grab some data:
 
 ```javascript
-import Dbd, { Language, Killer } from "@stephenpoole/deadbydaylight";
+import Dbd, { Killer } from "@stephenpoole/deadbydaylight";
 
 (async () => {
     const dbd = Dbd();
