@@ -106,7 +106,7 @@ In the browser globally:
 In the browser with webpack:
 
 ```
-import Dbd, { Language } from '@stephenpoole/deadbydaylight/ko';
+import Dbd from '@stephenpoole/deadbydaylight/ko';
 ```
 
 In a Node environment:
