@@ -4,7 +4,6 @@ const path = require("path");
 const nodeExternals = require("webpack-node-externals");
 const Dotenv = require("dotenv-webpack");
 const CircularDependencyPlugin = require("circular-dependency-plugin");
-const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 
 // eslint-disable-next-line @typescript-eslint/explicit-function-return-type
 const config = argv => ({
@@ -34,7 +33,7 @@ const config = argv => ({
 });
 
 const nodeConfig = {
-    entry: "./src/node.ts",
+    entry: "./node/index.ts",
     target: "node",
     externals: [nodeExternals()],
     output: {
@@ -52,7 +51,6 @@ const nodeConfig = {
 };
 
 const browserConfig = {
-    entry: "./src/browser.ts",
     target: "web",
     output: {
         path: path.resolve(__dirname, "./dist"),
@@ -69,7 +67,6 @@ const browserConfig = {
         new webpack.DefinePlugin({
             "process.env.TARGET": JSON.stringify("browser"),
         }),
-        new CleanWebpackPlugin(),
     ],
 };
 
@@ -81,11 +78,104 @@ module.exports = (env, argv) => {
         ...nodeConfig,
         plugins: base.plugins.concat(nodeConfig.plugins),
     };
-    const browser = {
+    const en = {
         ...base,
         ...browserConfig,
         plugins: base.plugins.concat(browserConfig.plugins),
+        output: {
+            ...browserConfig.output,
+            path: path.resolve(__dirname, "./en"),
+        },
+        entry: "./en/index.ts",
+    };
+    const es = {
+        ...en,
+        entry: "./es/index.ts",
+        output: {
+            ...en.output,
+            path: path.resolve(__dirname, "./es"),
+        },
+    };
+    const de = {
+        ...en,
+        entry: "./de/index.ts",
+        output: {
+            ...en.output,
+            path: path.resolve(__dirname, "./de"),
+        },
+    };
+    const fr = {
+        ...en,
+        entry: "./fr/index.ts",
+        output: {
+            ...en.output,
+            path: path.resolve(__dirname, "./fr"),
+        },
+    };
+    const it = {
+        ...en,
+        entry: "./it/index.ts",
+        output: {
+            ...en.output,
+            path: path.resolve(__dirname, "./it"),
+        },
+    };
+    const jp = {
+        ...en,
+        entry: "./jp/index.ts",
+        output: {
+            ...en.output,
+            path: path.resolve(__dirname, "./jp"),
+        },
+    };
+    const ko = {
+        ...en,
+        entry: "./ko/index.ts",
+        output: {
+            ...en.output,
+            path: path.resolve(__dirname, "./ko"),
+        },
+    };
+    const pl = {
+        ...en,
+        entry: "./pl/index.ts",
+        output: {
+            ...en.output,
+            path: path.resolve(__dirname, "./pl"),
+        },
+    };
+    const ru = {
+        ...en,
+        entry: "./ru/index.ts",
+        output: {
+            ...en.output,
+            path: path.resolve(__dirname, "./ru"),
+        },
+    };
+    const th = {
+        ...en,
+        entry: "./th/index.ts",
+        output: {
+            ...en.output,
+            path: path.resolve(__dirname, "./th"),
+        },
+    };
+    const tr = {
+        ...en,
+        entry: "./tr/index.ts",
+        output: {
+            ...en.output,
+            path: path.resolve(__dirname, "./tr"),
+        },
+    };
+    const zh = {
+        ...en,
+        entry: "./zh/index.ts",
+        output: {
+            ...en.output,
+            path: path.resolve(__dirname, "./zh"),
+        },
     };
 
-    return [browser, node];
+    return [en, es, de, fr, it, jp, ko, pl, ru, th, tr, zh, node];
 };

@@ -1,4 +1,4 @@
-import { ItemType, Language } from "./enum";
+import { ItemType } from "./enum";
 import { Killer, Survivor, Power, Item, Addon, Offering, Perk } from "../data.compiled/enum";
 import Factories from "./factories";
 import {
@@ -10,32 +10,14 @@ import {
     Power as PowerModel,
 } from "./factory/model";
 import Locale from "./locale";
-import { Resolver } from "./types";
+import { LocaleData } from "./types";
 
 class Dbd {
     locale!: Locale;
     factory!: Factories;
-    resolver: Resolver;
-    loading: Promise<void> | undefined;
 
-    constructor(resolver: Resolver, language = Language.English) {
-        this.resolver = resolver;
-        this.loading = this.changeLanguage(language);
-    }
-
-    whileFetchingLocale(): Promise<void> {
-        if (this.loading) {
-            return this.loading;
-        }
-
-        return Promise.resolve();
-    }
-
-    async changeLanguage(language: Language): Promise<void> {
-        this.locale = new Locale(this.resolver);
-        this.loading = this.locale.changeLanguage(language);
-        await this.whileFetchingLocale();
-        this.loading = undefined;
+    constructor(data: LocaleData) {
+        this.locale = new Locale(data);
         this.factory = new Factories(this.locale);
     }
 

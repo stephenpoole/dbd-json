@@ -5,3 +5,5 @@ scripts/locales
 coverage
 .nyc_output
 docs
+./src/**/*.d.ts
+./src/*.d.ts

@@ -41,7 +41,6 @@ In the browser globally
 (async () => {
     const { Language, Killer } = DeadByDaylight;
     const dbd = DeadByDaylight.Client();
-    await dbd.whileFetchingLocale();
     const nurse = dbd.killer(Killer.Nurse);
     console.log(nurse);
 })();
@@ -62,7 +61,6 @@ import Dbd, { Language, Killer } from "@stephenpoole/deadbydaylight";
 
 (async () => {
     const dbd = Dbd();
-    await dbd.whileFetchingLocale();
     const nurse = dbd.killer(Killer.Nurse);
     console.log(nurse);
 })();
@@ -95,28 +93,16 @@ The classes used are `Highlight1`, `Highlight2`, `Highlight3` and `Highlight4`
 
 Just like in-game, this library supports the following languages:
 
-English, Spanish, German, French, Italian, Japanese, Korean, Polish, Russian, Taiwanese, Turkish and Simplified Chinese.
+English (en), Spanish (es), German (de), French (fr), Italian (it), Japanese (jp), Korean (ko), Polish (pl), Russian (ru), Taiwanese (th), Turkish (tr and Simplified Chinese (zh).
 
 To set the locale
 
-1. Initiate with the `language` option
+1. Import the language-specific library
 
 ```
-import Dbd, { Language } from '@stephenpoole/deadbydaylight';
+import Dbd, { Language } from '@stephenpoole/deadbydaylight/ko';
 
-const dbd = new Dbd(Language.Korean);
-```
-
-or to change the language after instantiation, call `changeLanguage()`
-
-```
-dbd.changeLanguage(language.Korean);
-```
-
-2. Await the locale change, in this time additional locale files may be fetched by the library
-
-```
-await dbd.whileFetchingLocale();
+const dbd = new Dbd();
 ```
 
 ## Data

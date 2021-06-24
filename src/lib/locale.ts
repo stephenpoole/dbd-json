@@ -1,25 +1,19 @@
 import { Language } from "./enum";
-import { Addon, Item, LocaleData, Offering, Perk, Player, Power, Resolver } from "./types";
+import { Addon, Item, LocaleData, Offering, Perk, Player, Power } from "./types";
 
 class Locale {
     data!: LocaleData;
-    resolver: Resolver;
-    loaded = false;
 
-    constructor(resolver: Resolver) {
-        // eslint-disable-next-line new-cap
-        this.resolver = resolver;
+    constructor(data: LocaleData) {
+        this.changeLanguage(data);
     }
 
-    async changeLanguage(language: Language): Promise<void> {
+    async changeLanguage(data: LocaleData): Promise<void> {
         const currentLanguage = this.data ? this.data.language : undefined;
-        if (language === currentLanguage) {
+        if (data.language === currentLanguage) {
             return;
         }
 
-        this.loaded = false;
-        const data: LocaleData = await this.resolver.get(language);
-        this.loaded = true;
         this.data = data;
     }
 

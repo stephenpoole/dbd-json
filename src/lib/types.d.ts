@@ -1,5 +1,4 @@
 import { Difficulty, ItemType, Language, Rarity } from "./enum";
-
 interface BaseEntity {
     id: number;
     index: string;
@@ -7,43 +6,36 @@ interface BaseEntity {
     description: string;
     image: string;
 }
-
 interface Item extends BaseEntity {
     type: ItemType;
     rarity: Rarity;
     flavor?: string;
 }
-
 interface Addon extends BaseEntity {
     owner?: string;
     rarity: Rarity;
     flavor?: string;
     type?: ItemType;
 }
-
 interface Offering extends BaseEntity {
     flavor?: string;
     rarity: Rarity;
 }
-
 interface Perk extends BaseEntity {
     owner: string;
     flavor?: string;
     rarity: Rarity[];
     tiers: (string | number)[][];
 }
-
 interface Player extends BaseEntity {
     power?: string;
     perks: string[];
     difficulty: Difficulty;
 }
-
 interface Power extends BaseEntity {
     owner: string;
     flavor?: string;
 }
-
 interface LocaleData {
     items: Item[];
     killerAddons: Addon[];
@@ -58,5 +50,4 @@ interface LocaleData {
     survivors: Player[];
     language: Language;
 }
-
 export type { BaseEntity, Item, Addon, Offering, Perk, Player, Power, LocaleData };
