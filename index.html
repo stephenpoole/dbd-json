@@ -79,25 +79,23 @@
 				<a href="#usage" id="usage" style="color: inherit; text-decoration: none;">
 					<h2>Usage</h2>
 				</a>
-				<p>In the browser</p>
+				<p>In the browser globally</p>
 				<ol>
 					<li>Insert the script tag in your html head:</li>
 				</ol>
-				<pre><code class="language-html"><span style="color: #800000">&lt;script</span><span style="color: #000000FF"> </span><span style="color: #FF0000">src</span><span style="color: #000000FF">=</span><span style="color: #0000FF">&quot;https://cdn.jsdelivr.net/npm/@stephenpoole/deadbydaylight/dist/deadbydaylight.js&quot;</span><span style="color: #800000">&gt;&lt;/script&gt;</span>
+				<pre><code class="language-html"><span style="color: #800000">&lt;script</span><span style="color: #000000FF"> </span><span style="color: #FF0000">src</span><span style="color: #000000FF">=</span><span style="color: #0000FF">&quot;https://cdn.jsdelivr.net/npm/@stephenpoole/deadbydaylight/en/deadbydaylight.js&quot;</span><span style="color: #800000">&gt;&lt;/script&gt;</span>
 </code></pre>
 				<ol start="2">
 					<li>Instantiate and grab some data:</li>
 				</ol>
 				<pre><code class="language-javascript"><span style="color: #000000">(</span><span style="color: #0000FF">async</span><span style="color: #000000"> () </span><span style="color: #0000FF">=&gt;</span><span style="color: #000000"> {</span>
 <span style="color: #000000">    </span><span style="color: #0000FF">const</span><span style="color: #000000"> { </span><span style="color: #0070C1">Language</span><span style="color: #000000">, </span><span style="color: #0070C1">Killer</span><span style="color: #000000"> } = </span><span style="color: #001080">DeadByDaylight</span><span style="color: #000000">;</span>
-
-<span style="color: #000000">    </span><span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">dbd</span><span style="color: #000000"> = </span><span style="color: #0000FF">new</span><span style="color: #000000"> </span><span style="color: #001080">DeadByDaylight</span><span style="color: #000000">.</span><span style="color: #795E26">Client</span><span style="color: #000000">();</span>
-<span style="color: #000000">    </span><span style="color: #AF00DB">await</span><span style="color: #000000"> </span><span style="color: #001080">dbd</span><span style="color: #000000">.</span><span style="color: #795E26">setLanguage</span><span style="color: #000000">(</span><span style="color: #001080">Language</span><span style="color: #000000">.</span><span style="color: #001080">English</span><span style="color: #000000">);</span>
+<span style="color: #000000">    </span><span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">dbd</span><span style="color: #000000"> = </span><span style="color: #001080">DeadByDaylight</span><span style="color: #000000">.</span><span style="color: #795E26">Client</span><span style="color: #000000">();</span>
 <span style="color: #000000">    </span><span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">nurse</span><span style="color: #000000"> = </span><span style="color: #001080">dbd</span><span style="color: #000000">.</span><span style="color: #795E26">killer</span><span style="color: #000000">(</span><span style="color: #001080">Killer</span><span style="color: #000000">.</span><span style="color: #001080">Nurse</span><span style="color: #000000">);</span>
 <span style="color: #000000">    </span><span style="color: #001080">console</span><span style="color: #000000">.</span><span style="color: #795E26">log</span><span style="color: #000000">(</span><span style="color: #001080">nurse</span><span style="color: #000000">);</span>
 <span style="color: #000000">})();</span>
 </code></pre>
-				<p>In a node environment</p>
+				<p>In the browser with webpack</p>
 				<ol>
 					<li>Import <code>deadbydaylight</code> into your application:</li>
 				</ol>
@@ -109,12 +107,13 @@
 				<pre><code class="language-javascript"><span style="color: #AF00DB">import</span><span style="color: #000000"> </span><span style="color: #001080">Dbd</span><span style="color: #000000">, { </span><span style="color: #001080">Language</span><span style="color: #000000">, </span><span style="color: #001080">Killer</span><span style="color: #000000"> } </span><span style="color: #AF00DB">from</span><span style="color: #000000"> </span><span style="color: #A31515">&quot;@stephenpoole/deadbydaylight&quot;</span><span style="color: #000000">;</span>
 
 <span style="color: #000000">(</span><span style="color: #0000FF">async</span><span style="color: #000000"> () </span><span style="color: #0000FF">=&gt;</span><span style="color: #000000"> {</span>
-<span style="color: #000000">    </span><span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">dbd</span><span style="color: #000000"> = </span><span style="color: #0000FF">new</span><span style="color: #000000"> </span><span style="color: #795E26">Dbd</span><span style="color: #000000">();</span>
-<span style="color: #000000">    </span><span style="color: #AF00DB">await</span><span style="color: #000000"> </span><span style="color: #001080">dbd</span><span style="color: #000000">.</span><span style="color: #795E26">setLanguage</span><span style="color: #000000">(</span><span style="color: #001080">Language</span><span style="color: #000000">.</span><span style="color: #001080">English</span><span style="color: #000000">);</span>
+<span style="color: #000000">    </span><span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">dbd</span><span style="color: #000000"> = </span><span style="color: #795E26">Dbd</span><span style="color: #000000">();</span>
 <span style="color: #000000">    </span><span style="color: #0000FF">const</span><span style="color: #000000"> </span><span style="color: #0070C1">nurse</span><span style="color: #000000"> = </span><span style="color: #001080">dbd</span><span style="color: #000000">.</span><span style="color: #795E26">killer</span><span style="color: #000000">(</span><span style="color: #001080">Killer</span><span style="color: #000000">.</span><span style="color: #001080">Nurse</span><span style="color: #000000">);</span>
 <span style="color: #000000">    </span><span style="color: #001080">console</span><span style="color: #000000">.</span><span style="color: #795E26">log</span><span style="color: #000000">(</span><span style="color: #001080">nurse</span><span style="color: #000000">);</span>
 <span style="color: #000000">})();</span>
 </code></pre>
+				<p>In a Node environment</p>
+				<p>Refer to the <a href="https://github.com/stephenpoole/deadbydaylight.node">deadbydaylight.node repository</a> for instructions regarding Node.</p>
 				<a href="#documentation" id="documentation" style="color: inherit; text-decoration: none;">
 					<h2>Documentation</h2>
 				</a>
@@ -135,8 +134,16 @@
 					<h2>Locales</h2>
 				</a>
 				<p>Just like in-game, this library supports the following languages:</p>
-				<p>English, Spanish, German, French, Italian, Japanese, Korean, Polish, Russian, Taiwanese, Turkish and Simplified Chinese.</p>
-				<p>Language data is loaded dynamically when being set.</p>
+				<p>English (en), Spanish (es), German (de), French (fr), Italian (it), Japanese (jp), Korean (ko), Polish (pl), Russian (ru), Taiwanese (th), Turkish (tr and Simplified Chinese (zh).</p>
+				<p>To set the locale</p>
+				<p>In the browser with webpack:</p>
+				<pre><code><span style="color: #AF00DB">import</span><span style="color: #000000"> </span><span style="color: #001080">Dbd</span><span style="color: #000000">, { </span><span style="color: #001080">Language</span><span style="color: #000000"> } </span><span style="color: #AF00DB">from</span><span style="color: #000000"> </span><span style="color: #A31515">&#039;@stephenpoole/deadbydaylight/ko&#039;</span><span style="color: #000000">;</span>
+</code></pre>
+				<p>In a Node environment:</p>
+				<p>Refer to the <a href="https://github.com/stephenpoole/deadbydaylight.node">deadbydaylight.node repository</a> for instructions regarding Node.</p>
+				<p>In the browser globally:</p>
+				<pre><code class="language-html"><span style="color: #800000">&lt;script</span><span style="color: #000000FF"> </span><span style="color: #FF0000">src</span><span style="color: #000000FF">=</span><span style="color: #0000FF">&quot;https://cdn.jsdelivr.net/npm/@stephenpoole/deadbydaylight/ko/deadbydaylight.js&quot;</span><span style="color: #800000">&gt;&lt;/script&gt;</span>
+</code></pre>
 				<a href="#data" id="data" style="color: inherit; text-decoration: none;">
 					<h2>Data</h2>
 				</a>
@@ -350,133 +357,163 @@
 						<a href="modules.html">Modules</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/enum.html">enum</a>
+						<a href="modules/data_compiled_enum.html">data.compiled/enum</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factories.html">factories</a>
+						<a href="modules/de.html">de</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_base_factory.html">factory/base/factory</a>
+						<a href="modules/en.html">en</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_base_model.html">factory/base/model</a>
+						<a href="modules/es.html">es</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_base_modelfactory.html">factory/base/model<wbr>Factory</a>
+						<a href="modules/fr.html">fr</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_itemfactory.html">factory/item<wbr>Factory</a>
+						<a href="modules/it.html">it</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_killeraddonfactory.html">factory/killer<wbr>Addon<wbr>Factory</a>
+						<a href="modules/jp.html">jp</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_killerfactory.html">factory/killer<wbr>Factory</a>
+						<a href="modules/ko.html">ko</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_killerofferingfactory.html">factory/killer<wbr>Offering<wbr>Factory</a>
+						<a href="modules/lib.html">lib</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_killerperkfactory.html">factory/killer<wbr>Perk<wbr>Factory</a>
+						<a href="modules/lib_enum.html">lib/enum</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_model.html">factory/model</a>
+						<a href="modules/lib_factories.html">lib/factories</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_model_addon.html">factory/model/addon</a>
+						<a href="modules/lib_factory_base_factory.html">lib/factory/base/factory</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_model_item.html">factory/model/item</a>
+						<a href="modules/lib_factory_base_model.html">lib/factory/base/model</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_model_offering.html">factory/model/offering</a>
+						<a href="modules/lib_factory_base_modelfactory.html">lib/factory/base/model<wbr>Factory</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_model_perk.html">factory/model/perk</a>
+						<a href="modules/lib_factory_itemfactory.html">lib/factory/item<wbr>Factory</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_model_player.html">factory/model/player</a>
+						<a href="modules/lib_factory_killeraddonfactory.html">lib/factory/killer<wbr>Addon<wbr>Factory</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_model_power.html">factory/model/power</a>
+						<a href="modules/lib_factory_killerfactory.html">lib/factory/killer<wbr>Factory</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_powerfactory.html">factory/power<wbr>Factory</a>
+						<a href="modules/lib_factory_killerofferingfactory.html">lib/factory/killer<wbr>Offering<wbr>Factory</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_sharedofferingfactory.html">factory/shared<wbr>Offering<wbr>Factory</a>
+						<a href="modules/lib_factory_killerperkfactory.html">lib/factory/killer<wbr>Perk<wbr>Factory</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_survivoraddonfactory.html">factory/survivor<wbr>Addon<wbr>Factory</a>
+						<a href="modules/lib_factory_model.html">lib/factory/model</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_survivorfactory.html">factory/survivor<wbr>Factory</a>
+						<a href="modules/lib_factory_model_addon.html">lib/factory/model/addon</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_survivorofferingfactory.html">factory/survivor<wbr>Offering<wbr>Factory</a>
+						<a href="modules/lib_factory_model_item.html">lib/factory/model/item</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/factory_survivorperkfactory.html">factory/survivor<wbr>Perk<wbr>Factory</a>
+						<a href="modules/lib_factory_model_offering.html">lib/factory/model/offering</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/index.html">index</a>
+						<a href="modules/lib_factory_model_perk.html">lib/factory/model/perk</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/index_browser.html">index.browser</a>
+						<a href="modules/lib_factory_model_player.html">lib/factory/model/player</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/locale.html">locale</a>
+						<a href="modules/lib_factory_model_power.html">lib/factory/model/power</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/locale_browser.html">locale.browser</a>
+						<a href="modules/lib_factory_powerfactory.html">lib/factory/power<wbr>Factory</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/locales.html">locales</a>
+						<a href="modules/lib_factory_sharedofferingfactory.html">lib/factory/shared<wbr>Offering<wbr>Factory</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/locales_de.html">locales/de</a>
+						<a href="modules/lib_factory_survivoraddonfactory.html">lib/factory/survivor<wbr>Addon<wbr>Factory</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/locales_en.html">locales/en</a>
+						<a href="modules/lib_factory_survivorfactory.html">lib/factory/survivor<wbr>Factory</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/locales_es.html">locales/es</a>
+						<a href="modules/lib_factory_survivorofferingfactory.html">lib/factory/survivor<wbr>Offering<wbr>Factory</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/locales_fr.html">locales/fr</a>
+						<a href="modules/lib_factory_survivorperkfactory.html">lib/factory/survivor<wbr>Perk<wbr>Factory</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/locales_it.html">locales/it</a>
+						<a href="modules/lib_locale.html">lib/locale</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/locales_jp.html">locales/jp</a>
+						<a href="modules/lib_locales.html">lib/locales</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/locales_ko.html">locales/ko</a>
+						<a href="modules/lib_locales_de.html">lib/locales/de</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/locales_pl.html">locales/pl</a>
+						<a href="modules/lib_locales_en.html">lib/locales/en</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/locales_ru.html">locales/ru</a>
+						<a href="modules/lib_locales_es.html">lib/locales/es</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/locales_th.html">locales/th</a>
+						<a href="modules/lib_locales_fr.html">lib/locales/fr</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/locales_tr.html">locales/tr</a>
+						<a href="modules/lib_locales_it.html">lib/locales/it</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/locales_zh.html">locales/zh</a>
+						<a href="modules/lib_locales_jp.html">lib/locales/jp</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/resolver.html">resolver</a>
+						<a href="modules/lib_locales_ko.html">lib/locales/ko</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/types.html">types</a>
+						<a href="modules/lib_locales_pl.html">lib/locales/pl</a>
 					</li>
 					<li class=" tsd-kind-module">
-						<a href="modules/util.html">util</a>
+						<a href="modules/lib_locales_ru.html">lib/locales/ru</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/lib_locales_th.html">lib/locales/th</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/lib_locales_tr.html">lib/locales/tr</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/lib_locales_zh.html">lib/locales/zh</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/lib_types.html">lib/types</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/node.html">node</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/pl.html">pl</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/ru.html">ru</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/th.html">th</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/tr.html">tr</a>
+					</li>
+					<li class=" tsd-kind-module">
+						<a href="modules/zh.html">zh</a>
 					</li>
 				</ul>
 			</nav>
@@ -492,11 +529,12 @@
 		<h2>Legend</h2>
 		<div class="tsd-legend-group">
 			<ul class="tsd-legend">
-				<li class="tsd-kind-class"><span class="tsd-kind-icon">Class</span></li>
-				<li class="tsd-kind-class tsd-has-type-parameter"><span class="tsd-kind-icon">Class with type parameter</span></li>
+				<li class="tsd-kind-variable"><span class="tsd-kind-icon">Variable</span></li>
+				<li class="tsd-kind-function"><span class="tsd-kind-icon">Function</span></li>
 			</ul>
 			<ul class="tsd-legend">
-				<li class="tsd-kind-variable"><span class="tsd-kind-icon">Variable</span></li>
+				<li class="tsd-kind-class"><span class="tsd-kind-icon">Class</span></li>
+				<li class="tsd-kind-class tsd-has-type-parameter"><span class="tsd-kind-icon">Class with type parameter</span></li>
 			</ul>
 			<ul class="tsd-legend">
 				<li class="tsd-kind-enum"><span class="tsd-kind-icon">Enumeration</span></li>
