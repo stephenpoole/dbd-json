@@ -23,11 +23,12 @@
         "dist/**/*"
     ],
     "scripts": {
-        "start": "webpack --mode=production && yarn types && yarn copy-version",
-        "dev": "webpack --mode=development && yarn types && yarn copy-version",
+        "start": "webpack --mode=production && yarn types:browser",
+        "start:node": "webpack --mode=production && yarn types:node && yarn copy-version",
+        "dev": "webpack --mode=development && yarn types:browser && yarn types:node && yarn copy-version",
         "copy-version": "node ./scripts/version.js",
         "build": "node ./scripts/build.js",
-        "types": "yarn types:node && yarn types:en && yarn types:es && yarn types:de && yarn types:fr && yarn types:it && yarn types:jp && yarn types:ko && yarn types:pl && yarn types:ru && yarn types:th && yarn types:tr && yarn types:zh",
+        "types:browser": "yarn types:en && yarn types:es && yarn types:de && yarn types:fr && yarn types:it && yarn types:jp && yarn types:ko && yarn types:pl && yarn types:ru && yarn types:th && yarn types:tr && yarn types:zh",
         "types:en": "tsc -d --outDir \".\" -p \"./src/en\" --emitDeclarationOnly",
         "types:es": "tsc -d --outDir \".\" -p \"./src/es\" --emitDeclarationOnly",
         "types:de": "tsc -d --outDir \".\" -p \"./src/de\" --emitDeclarationOnly",
