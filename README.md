@@ -113,12 +113,6 @@ In a Node environment:
 
 Refer to the [deadbydaylight.node repository](https://github.com/stephenpoole/deadbydaylight.node) for instructions regarding Node.
 
-In the browser globally:
-
-```html
-<script src="https://cdn.jsdelivr.net/npm/@stephenpoole/deadbydaylight/ko/deadbydaylight.js"></script>
-```
-
 ## Data
 
 ### Killers
