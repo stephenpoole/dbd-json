@@ -4,6 +4,7 @@ const path = require("path");
 const nodeExternals = require("webpack-node-externals");
 const Dotenv = require("dotenv-webpack");
 const CircularDependencyPlugin = require("circular-dependency-plugin");
+const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 
 // eslint-disable-next-line @typescript-eslint/explicit-function-return-type
 const config = argv => ({
@@ -33,7 +34,7 @@ const config = argv => ({
 });
 
 const nodeConfig = {
-    entry: "./node/index.ts",
+    entry: "./src/node/index.ts",
     target: "node",
     externals: [nodeExternals()],
     output: {
@@ -53,7 +54,6 @@ const nodeConfig = {
 const browserConfig = {
     target: "web",
     output: {
-        path: path.resolve(__dirname, "./dist"),
         filename: "deadbydaylight.js",
         globalObject: "this",
         umdNamedDefine: true,
@@ -67,6 +67,7 @@ const browserConfig = {
         new webpack.DefinePlugin({
             "process.env.TARGET": JSON.stringify("browser"),
         }),
+        new CleanWebpackPlugin(),
     ],
 };
 
@@ -86,11 +87,11 @@ module.exports = (env, argv) => {
             ...browserConfig.output,
             path: path.resolve(__dirname, "./en"),
         },
-        entry: "./en/index.ts",
+        entry: "./src/en/index.ts",
     };
     const es = {
         ...en,
-        entry: "./es/index.ts",
+        entry: "./src/es/index.ts",
         output: {
             ...en.output,
             path: path.resolve(__dirname, "./es"),
@@ -98,7 +99,7 @@ module.exports = (env, argv) => {
     };
     const de = {
         ...en,
-        entry: "./de/index.ts",
+        entry: "./src/de/index.ts",
         output: {
             ...en.output,
             path: path.resolve(__dirname, "./de"),
@@ -106,7 +107,7 @@ module.exports = (env, argv) => {
     };
     const fr = {
         ...en,
-        entry: "./fr/index.ts",
+        entry: "./src/fr/index.ts",
         output: {
             ...en.output,
             path: path.resolve(__dirname, "./fr"),
@@ -114,7 +115,7 @@ module.exports = (env, argv) => {
     };
     const it = {
         ...en,
-        entry: "./it/index.ts",
+        entry: "./src/it/index.ts",
         output: {
             ...en.output,
             path: path.resolve(__dirname, "./it"),
@@ -122,7 +123,7 @@ module.exports = (env, argv) => {
     };
     const jp = {
         ...en,
-        entry: "./jp/index.ts",
+        entry: "./src/jp/index.ts",
         output: {
             ...en.output,
             path: path.resolve(__dirname, "./jp"),
@@ -130,7 +131,7 @@ module.exports = (env, argv) => {
     };
     const ko = {
         ...en,
-        entry: "./ko/index.ts",
+        entry: "./src/ko/index.ts",
         output: {
             ...en.output,
             path: path.resolve(__dirname, "./ko"),
@@ -138,7 +139,7 @@ module.exports = (env, argv) => {
     };
     const pl = {
         ...en,
-        entry: "./pl/index.ts",
+        entry: "./src/pl/index.ts",
         output: {
             ...en.output,
             path: path.resolve(__dirname, "./pl"),
@@ -146,7 +147,7 @@ module.exports = (env, argv) => {
     };
     const ru = {
         ...en,
-        entry: "./ru/index.ts",
+        entry: "./src/ru/index.ts",
         output: {
             ...en.output,
             path: path.resolve(__dirname, "./ru"),
@@ -154,7 +155,7 @@ module.exports = (env, argv) => {
     };
     const th = {
         ...en,
-        entry: "./th/index.ts",
+        entry: "./src/th/index.ts",
         output: {
             ...en.output,
             path: path.resolve(__dirname, "./th"),
@@ -162,7 +163,7 @@ module.exports = (env, argv) => {
     };
     const tr = {
         ...en,
-        entry: "./tr/index.ts",
+        entry: "./src/tr/index.ts",
         output: {
             ...en.output,
             path: path.resolve(__dirname, "./tr"),
@@ -170,7 +171,7 @@ module.exports = (env, argv) => {
     };
     const zh = {
         ...en,
-        entry: "./zh/index.ts",
+        entry: "./src/zh/index.ts",
         output: {
             ...en.output,
             path: path.resolve(__dirname, "./zh"),
