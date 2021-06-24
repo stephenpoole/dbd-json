@@ -1,9 +1,9 @@
 {
     "name": "@stephenpoole/deadbydaylight",
-    "version": "5.0.4",
+    "version": "5.0.5",
     "description": "A complete Dead by Daylight dataset.",
-    "main": "dist/deadbydaylight.js",
-    "types": "dist/browser.d.ts",
+    "main": "en/deadbydaylight.js",
+    "types": "en/index.d.ts",
     "exports": {
         ".": "./en/deadbydaylight.js",
         "./en": "./en/deadbydaylight.js",
