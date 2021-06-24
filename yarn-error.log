@@ -29,7 +29,7 @@ Trace:
 npm manifest: 
   {
       "name": "@stephenpoole/deadbydaylight",
-      "version": "5.0.13",
+      "version": "5.0.16",
       "description": "A complete Dead by Daylight dataset.",
       "main": "en/deadbydaylight.js",
       "types": "en/index.d.ts",
@@ -108,7 +108,6 @@ npm manifest:
           "@babel/register": "^7.0.0",
           "@istanbuljs/nyc-config-typescript": "^1.0.1",
           "@types/chai": "^4.2.19",
-          "@types/isomorphic-fetch": "^0.0.35",
           "@types/node": "^15.12.4",
           "@types/webpack": "^4.4.24",
           "@types/webpack-env": "^1.16.0",
