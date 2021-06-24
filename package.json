@@ -45,7 +45,7 @@
         "docs": "typedoc --excludeExternals --exclude \"**/node_modules/**\"  --name \"Dead By Daylight Database\" --out \"docs\" \"src\"",
         "coverage": "nyc --reporter=lcov yarn test",
         "snyk": "snyk protect",
-        "deploy": "yarn start && yarn publish"
+        "deploy": "yarn start && yarn test && yarn publish"
     },
     "repository": {
         "type": "git",

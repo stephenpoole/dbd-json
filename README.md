@@ -32,7 +32,7 @@ In the browser globally
 1. Insert the script tag in your html head:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@stephenpoole/deadbydaylight/dist/deadbydaylight.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@stephenpoole/deadbydaylight/en/deadbydaylight.js"></script>
 ```
 
 2. Instantiate and grab some data:
@@ -97,12 +97,20 @@ English (en), Spanish (es), German (de), French (fr), Italian (it), Japanese (jp
 
 To set the locale
 
-1. Import the language-specific library
+In the browser with webpack:
 
 ```
 import Dbd, { Language } from '@stephenpoole/deadbydaylight/ko';
+```
 
-const dbd = new Dbd();
+In a Node environment:
+
+Refer to the [deadbydaylight.node repository](https://github.com/stephenpoole/deadbydaylight.node) for instructions regarding Node.
+
+In the browser globally:
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/@stephenpoole/deadbydaylight/ko/deadbydaylight.js"></script>
 ```
 
 ## Data
