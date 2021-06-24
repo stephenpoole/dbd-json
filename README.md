@@ -97,6 +97,12 @@ English (en), Spanish (es), German (de), French (fr), Italian (it), Japanese (jp
 
 To set the locale
 
+In the browser globally:
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/@stephenpoole/deadbydaylight/ko/deadbydaylight.js"></script>
+```
+
 In the browser with webpack:
 
 ```
