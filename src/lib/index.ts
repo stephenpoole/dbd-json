@@ -53,11 +53,11 @@ class Dbd {
 
     offering(key: Offering): OfferingModel {
         let offering: OfferingModel = this.factory.survivorOffering.getModel(key);
-        if (offering) {
+        if (!offering.isEmpty) {
             return offering;
         }
         offering = this.factory.killerOffering.getModel(key);
-        if (offering) {
+        if (!offering.isEmpty) {
             return offering;
         }
         return this.factory.sharedOffering.getModel(key);
@@ -85,7 +85,7 @@ class Dbd {
 
     perk(key: Perk): PerkModel {
         const perk: PerkModel = this.factory.survivorPerk.getModel(key);
-        if (perk) {
+        if (!perk.isEmpty) {
             return perk;
         }
         return this.factory.killerPerk.getModel(key);

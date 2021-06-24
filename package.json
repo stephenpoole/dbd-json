@@ -1,6 +1,6 @@
 {
     "name": "@stephenpoole/deadbydaylight",
-    "version": "5.0.10",
+    "version": "5.0.14",
     "description": "A complete Dead by Daylight dataset.",
     "main": "en/deadbydaylight.js",
     "types": "en/index.d.ts",
@@ -20,7 +20,20 @@
         "./zh": "./zh/deadbydaylight.js"
     },
     "files": [
-        "dist/**/*"
+        "en/**/*",
+        "es/**/*",
+        "de/**/*",
+        "fr/**/*",
+        "it/**/*",
+        "jp/**/*",
+        "ko/**/*",
+        "pl/**/*",
+        "ru/**/*",
+        "th/**/*",
+        "tr/**/*",
+        "zh/**/*",
+        "lib/**/*",
+        "data.compiled/**/*"
     ],
     "scripts": {
         "start": "webpack --mode=production && yarn types:browser",
@@ -66,7 +79,6 @@
         "@babel/register": "^7.0.0",
         "@istanbuljs/nyc-config-typescript": "^1.0.1",
         "@types/chai": "^4.2.19",
-        "@types/isomorphic-fetch": "^0.0.35",
         "@types/node": "^15.12.4",
         "@types/webpack": "^4.4.24",
         "@types/webpack-env": "^1.16.0",
