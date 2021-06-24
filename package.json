@@ -24,8 +24,8 @@
     ],
     "scripts": {
         "start": "webpack --mode=production && yarn types:browser",
-        "start:node": "webpack --mode=production && yarn types:node && yarn copy-version",
-        "dev": "webpack --mode=development && yarn types:browser && yarn types:node && yarn copy-version",
+        "start:node": "webpack --config=webpack.node.config.js --mode=production && yarn types:node && yarn copy-version",
+        "dev": "webpack --mode=development && webpack --mode=development --config=webpack.node.config.js && yarn types:browser && yarn types:node && yarn copy-version",
         "copy-version": "node ./scripts/version.js",
         "build": "node ./scripts/build.js",
         "types:browser": "yarn types:en && yarn types:es && yarn types:de && yarn types:fr && yarn types:it && yarn types:jp && yarn types:ko && yarn types:pl && yarn types:ru && yarn types:th && yarn types:tr && yarn types:zh",
@@ -46,7 +46,7 @@
         "docs": "typedoc --excludeExternals --exclude \"**/node_modules/**\"  --name \"Dead By Daylight Database\" --out \"docs\" \"src\"",
         "coverage": "nyc --reporter=lcov yarn test",
         "snyk": "snyk protect",
-        "deploy": "yarn start && yarn test && yarn publish"
+        "deploy": "yarn start && yarn start:node && yarn test && yarn publish"
     },
     "repository": {
         "type": "git",

@@ -33,24 +33,6 @@ const config = argv => ({
     ],
 });
 
-const nodeConfig = {
-    entry: "./src/node/index.ts",
-    target: "node",
-    externals: [nodeExternals()],
-    output: {
-        path: path.resolve(__dirname, "../deadbydaylight.node/dist"),
-        filename: "index.js",
-        libraryTarget: "umd",
-        libraryExport: "default",
-        chunkFilename: "[name].js",
-    },
-    plugins: [
-        new webpack.DefinePlugin({
-            "process.env.TARGET": JSON.stringify("node"),
-        }),
-    ],
-};
-
 const browserConfig = {
     target: "web",
     output: {
@@ -74,11 +56,7 @@ const browserConfig = {
 // eslint-disable-next-line @typescript-eslint/explicit-function-return-type
 module.exports = (env, argv) => {
     const base = config(argv);
-    const node = {
-        ...base,
-        ...nodeConfig,
-        plugins: base.plugins.concat(nodeConfig.plugins),
-    };
+
     const en = {
         ...base,
         ...browserConfig,
@@ -178,5 +156,5 @@ module.exports = (env, argv) => {
         },
     };
 
-    return [en, es, de, fr, it, jp, ko, pl, ru, th, tr, zh, node];
+    return [en, es, de, fr, it, jp, ko, pl, ru, th, tr, zh];
 };
