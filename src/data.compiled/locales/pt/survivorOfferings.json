@@ -100,7 +100,7 @@
     },
     {
         "description": "Garante um bônus de <b>100%</b> de Pontos de Sangue na categoria Audácia.<br><li>Pessoal.</li><li>Acumulativo.</li>",
-        "name": "Sweet William Fresco",
+        "name": "Aroma de Sweet William",
         "flavor": "\"Um ramalhete de flores com pétalas rosas e miolo vermelho-sangue. Libera um aroma picante, como cravo-da-índia.\"",
         "id": 61,
         "index": "FRAGRANT_SWEET_WILLIAM",

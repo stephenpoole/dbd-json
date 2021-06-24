@@ -1,4 +1,4 @@
-import { PlayerType } from "../../../src";
+import { PlayerType } from "../../../src/en";
 import { Helpers } from "./";
 
 export class PropertyValidate {

@@ -100,7 +100,7 @@
     },
     {
         "description": "Conferisce il <b>100%</b> di bonus Punti Sangue nella categoria Coraggio.<br><li>Personale.</li><li>Cumulabile.</li>",
-        "name": "Garofano dei poeti fresco",
+        "name": "Garofano dei poeti profumato",
         "flavor": "\"Un mazzo di fiori dai petali chiari e dal cuore rosso sangue. Rilascia un profumo fortemente speziato, simile ai chiodi di garofano.\"",
         "id": 61,
         "index": "FRAGRANT_SWEET_WILLIAM",

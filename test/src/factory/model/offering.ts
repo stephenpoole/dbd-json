@@ -1,6 +1,6 @@
 import { expect } from "chai";
-import Factories from "../../../../src/factories";
-import Model from "../../../../src/factory/model/offering";
+import Factories from "../../../../src/lib/factories";
+import Model from "../../../../src/lib/factory/model/offering";
 
 const offering = {
     description:

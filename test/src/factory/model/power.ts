@@ -1,7 +1,8 @@
 import { expect } from "chai";
-import { Power, ModifierType } from "../../../../src/index.browser";
-import Factories from "../../../../src/factories";
-import Model from "../../../../src/factory/model/power";
+import { ModifierType } from "../../../../src/en";
+import { Power } from "../../../../src/lib/types";
+import Factories from "../../../../src/lib/factories";
+import Model from "../../../../src/lib/factory/model/power";
 
 const power = {
     description:

@@ -1,5 +1,5 @@
-import Data from "../../src/locales/en";
-import { ModifierType } from "../../src";
+import Data from "../../src/lib/locales/en";
+import { ModifierType } from "../../src/en";
 import { PropertyValidate, Helpers } from "./helpers";
 
 const { killerOfferings, sharedOfferings, survivorOfferings } = Data;

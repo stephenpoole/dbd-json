@@ -1,8 +1,9 @@
 import { expect } from "chai";
-import { Perk, ModifierType } from "../../../../src";
-import { Player } from "../../../../src/enum";
-import Factories from "../../../../src/factories";
-import Model from "../../../../src/factory/model/perk";
+import { ModifierType } from "../../../../src/en";
+import { Perk } from "../../../../src/lib/types";
+import { Player } from "../../../../src/lib/enum";
+import Factories from "../../../../src/lib/factories";
+import Model from "../../../../src/lib/factory/model/perk";
 
 const killer = {
     description:

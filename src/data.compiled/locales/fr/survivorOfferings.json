@@ -100,7 +100,7 @@
     },
     {
         "description": "Confère <b>100 %</b> de points de sang bonus dans la catégorie Audace.<br><li>Personnel.</li><li>Cumulable.</li>",
-        "name": "Œillet de poète frais",
+        "name": "Œillet de poète parfumé",
         "flavor": "« Des fleurs aux pétales roses et aux pistils rouge sang. Une forte odeur épicée de clou de girofle s'en dégage. »",
         "id": 61,
         "index": "FRAGRANT_SWEET_WILLIAM",

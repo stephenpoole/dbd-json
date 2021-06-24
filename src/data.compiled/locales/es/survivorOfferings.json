@@ -100,7 +100,7 @@
     },
     {
         "description": "Otorga un <b>100 %</b> de puntos de sangre extra en la categoría Audacia.<br><li>Personal.</li><li>Acumulable.</li>",
-        "name": "Minutisa Fresca",
+        "name": "Minutisa aromática",
         "flavor": "\"Un ramito de flores con pétalos color rosa y núcleo rojo sangre. Desprende un fuerte aroma a especias similar al clavo\".",
         "id": 61,
         "index": "FRAGRANT_SWEET_WILLIAM",

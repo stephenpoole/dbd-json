@@ -1,6 +1,6 @@
 import fs from "fs";
-import Data from "../../../src/locales/en";
-import { Rarity, Difficulty, PlayerType, ItemType } from "../../../src";
+import Data from "../../../src/lib/locales/en";
+import { Rarity, Difficulty, PlayerType, ItemType } from "../../../src/en";
 
 const { killers, survivors, survivorPerks, killerPerks } = Data;
 

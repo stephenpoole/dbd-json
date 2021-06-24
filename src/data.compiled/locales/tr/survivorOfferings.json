@@ -100,7 +100,7 @@
     },
     {
         "description": "Cesaret kategorisinde <b>%100</b> ilave Kan Puanı verir.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
-        "name": "Taze Hüsnüyusuf Çiçeği",
+        "name": "Kokulu Hüsnüyusuf Çiçeği",
         "flavor": "\"Pembe taçyaprakları ve ortasında kan rengi tepecik olan çiçeklerden oluşturulmuş bir demet. Karanfile benzeyen, güçlü ve baharatlı bir koku yayıyor.\"",
         "id": 61,
         "index": "FRAGRANT_SWEET_WILLIAM",

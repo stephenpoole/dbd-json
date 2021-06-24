@@ -100,7 +100,7 @@
     },
     {
         "description": "대담함 항목에서 블러드포인트를 <span class=\"Highlight4\">100%</span> 더 획득한다.<br><li>개인에게만 적용됨</li><li>중첩 가능</li>",
-        "name": "산뜻한 패랭이 꽃",
+        "name": "향기로운 패랭이 꽃",
         "flavor": " \"분홍빛의 꽃잎과 피처럼 붉은 꽃술의 꽃으로 만들어진 꽃다발. 매운 정향 같은 향을 뿜는다.\"",
         "id": 61,
         "index": "FRAGRANT_SWEET_WILLIAM",

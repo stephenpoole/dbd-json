@@ -1,8 +1,9 @@
 import { expect } from "chai";
-import { Addon, ItemType, ModifierType } from "../../../../src";
-import { Player } from "../../../../src/enum";
-import Factories from "../../../../src/factories";
-import Model from "../../../../src/factory/model/addon";
+import { ItemType, ModifierType } from "../../../../src/en";
+import { Addon } from "../../../../src/lib/types";
+import { Player } from "../../../../src/lib/enum";
+import Factories from "../../../../src/lib/factories";
+import Model from "../../../../src/lib/factory/model/addon";
 
 const killer = {
     description:

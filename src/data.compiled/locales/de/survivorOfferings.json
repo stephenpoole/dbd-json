@@ -100,7 +100,7 @@
     },
     {
         "description": "Gewährt <b>100 %</b> Bonus-Blutpunkte in der Kategorie „Tapferkeit“.<br><li>Betrifft nur den Besitzer.</li><li>Kombinierbar.</li>",
-        "name": "Frische Bartnelke",
+        "name": "Wohlriechende Bartnelke",
         "flavor": "„Blumen mit pinken Blütenblättern und einem blutroten Inneren. Verbreitet einen stark würzigen, nelkenähnlichen Duft.“",
         "id": 61,
         "index": "FRAGRANT_SWEET_WILLIAM",
