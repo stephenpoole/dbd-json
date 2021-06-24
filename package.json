@@ -84,7 +84,6 @@
         "eslint-plugin-import": "^2.16.0",
         "mocha": "^5.2.0",
         "nyc": "^15.1.0",
-        "renamer": "^3.2.1",
         "snyk": "^1.639.0",
         "source-map": "^0.7.3",
         "source-map-loader": "^3.0.0",
