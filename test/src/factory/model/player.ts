@@ -1,5 +1,5 @@
 import { expect } from "chai";
-import { ItemType, ModifierType } from "../../../../src";
+import { ItemType, ModifierType } from "../../../../src/index.browser";
 import { Player } from "../../../../src/enum";
 import Factories from "../../../../src/factories";
 import Model from "../../../../src/factory/model/player";

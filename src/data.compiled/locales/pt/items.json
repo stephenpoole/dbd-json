@@ -1,0 +1,241 @@
+[
+    {
+        "description": "Uma fileira de pequenos explosivos embrulhados em papel reforçado. Ao detonar, causa explosões barulhentas e luzes intensas. Pode ser usado como distração, como um meio de cegar ou para comemorações.<br><li><b>1 carga</b>.</li>",
+        "name": "Fogos de Artifício Chineses",
+        "id": 1,
+        "index": "CHINESE_FIRECRACKER",
+        "type": 6,
+        "rarity": 5,
+        "image": "iconItems_chineseFirecracker"
+    },
+    {
+        "description": "Uma lanterna normal, para iluminar o seu caminho no escuro.<br><li><b>8 s</b> de uso.</li>",
+        "name": "Lanterna",
+        "flavor": "\"A maior parte da sua bateria foi gasta de forma irresponsável pelo antigo dono.\"",
+        "id": 2,
+        "index": "FLASHLIGHT",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconItems_flashlight"
+    },
+    {
+        "description": "Uma lanterna com uma lente especial que adiciona uma tonalidade laranja e um pequeno fantasma ao feixe. <br><li><b>8 s</b> de uso. </li><li><b>Aumenta consideravelmente os</b> Fantasminhas Camaradas na sua vida.</li>",
+        "name": "Luz Fantasmagórica",
+        "flavor": "\"Feliz Doces ou Travessuras!\"",
+        "id": 3,
+        "index": "WILL_O_WISP",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconItems_flashlightHalloween"
+    },
+    {
+        "description": "Uma lanterna leve, com um bom cabo. Sua tecnologia eficiente produz uma luz poderosa, consomindo menos energia.<br><li><b>8 s de uso</b>.</li><li><b>Diminui ligeiramente</b> o consumo de bateria da lanterna.</li><li><b>Aumenta ligeiramente</b> a precisão.</li>",
+        "name": "Lanterna Esportiva",
+        "id": 4,
+        "index": "SPORT_FLASHLIGHT",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconItems_flashlightSport"
+    },
+    {
+        "description": "Uma lanterna robusta e pesada, bem forte.<br><li><b>12 s de uso</b>.</li><li><b>Diminui ligeiramente</b> a precisão.</li><li><b>Aumenta moderadamente</b> os efeitos do raio de luz contra o Assassino.</li><li><b>Aumenta moderadamente</b> a duração da cegueira.</li>",
+        "name": "Lanterna Utilitária",
+        "id": 5,
+        "index": "UTILITY_FLASHLIGHT",
+        "type": 1,
+        "rarity": 3,
+        "image": "iconItems_flashlightUtility"
+    },
+    {
+        "description": "O arco e corpo de uma chave, vibrando com poder. O poder da chave quebrada não pode ser ativado por si só. Vários objetos podem ser presos ao seu elo para canalizar seu poder de diversas maneiras. <br><li><b>10 s</b> de uso.</li>",
+        "name": "Chave Quebrada",
+        "id": 6,
+        "index": "BROKEN_KEY",
+        "type": 2,
+        "rarity": 2,
+        "image": "iconItems_brokenKey"
+    },
+    {
+        "description": "Uma chave comum e torta, que já teve muito poder. O poder da chave não pode ser ativado por si só. Vários objetos podem ser presos ao seu elo para canalizar o poder remanescente de diversas maneiras.<br><li><b>5 s</b> de uso.</li><li>Pode ser consumida para abrir escotilhas.</li>",
+        "name": "Chave Comum",
+        "id": 7,
+        "index": "DULL_KEY",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconItems_dullKey"
+    },
+    {
+        "description": "Uma chave manchada e torta, vibrando com poder ameaçador. A chave não pode ser ativado sozinho. Vários objetos podem ser anexados ao seu adereço, que canalizarão o poder da Chave-Mestra em vários efeitos.<br><li><b>30 s</b> de uso.</li><li>Pode ser consumida para abrir a escotilha.</li>",
+        "name": "Chave-Mestra",
+        "id": 8,
+        "index": "SKELETON_KEY",
+        "type": 2,
+        "rarity": 4,
+        "image": "iconItems_key"
+    },
+    {
+        "description": "Um velho pedaço de pergaminho feito de um material parecido com pele. Está enrolado e selado com uma faixa de couro sem cor. Segurar e canalizar o mapa ativa um grande potencial na habilidade de leitura de aura, que lentamente queima o mapa. Auras de geradores que você já encontrou são reveladas a você enquanto o mapa ainda tiver cargas.<br><li><b>20 s</b> de uso.</li><li>Comece com <b>1</b> gerador rastreado automaticamente.</li><li>Desbloqueie a capacidade de rastrear geradores dentro de um alcance de <b>8 m</b>.</li>",
+        "name": "Mapa",
+        "id": 9,
+        "index": "MAP",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconItems_map"
+    },
+    {
+        "description": "Um pedaço de pergaminho feito de pele estranhamente fresca. O sangue nas pontas ainda não secou. Está enrolado e selado com diversos cordões coloridos. Segurar e canalizar o mapa desbloqueia grande potencial na habilidade de Leitura de Aura que lentamente queima o mapa. Os objetos com aura que você já encontrou são revelados enquanto o mapa ainda tem carga. <br><li><b>20 s de uso</b>.</li><li>Comece com <b>3 objetos</b> automaticamente rastreados.</li><li>Libera a habilidade de <b>rastrear objetivos</b> dentro de um alcance de <b>8 m</b>.</li><li>Libera a habilidade de <b>rastrear escotilhas</b> dentro de um alcance de <b>8 m</b>.</li><li>Libera a habilidade de <b>rastrear os pertences do Assassino</b> em um alcance de <b>8 m</b>.</li><li>Libera a habilidade de <b>rastrear os Portões de Saída</b> em um alcance de <b>8 m</b>.</li>",
+        "name": "Mapa Arco-Íris",
+        "flavor": "\"Me desanima... Todo esse imensurável conhecimento e esforço exaustivo e ainda assim nada tangível, nada utilizável para sair desse pesadelo.\" — Diário de Vigo",
+        "id": 10,
+        "index": "RAINBOW_MAP",
+        "type": 3,
+        "rarity": 4,
+        "image": "iconItems_rainbowMap"
+    },
+    {
+        "description": "Um kit médico rudimentar que pode salvar vidas em emergências, mesmo com alguns itens faltando.<br><li><b>16 cargas</b>.</li><li><b>Aumenta moderadamente</b> a velocidade de cura.</li><li>Libera a ação de <b>autocura</b>.</li>",
+        "name": "Kit Médico de Acampamento",
+        "flavor": "\"Mal tem material suficiente para um curativo decente.\"",
+        "id": 11,
+        "index": "CAMPING_AID_KIT",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconItems_rundownAidKit"
+    },
+    {
+        "description": "Uma lancheira plástica decorada com adesivos fosforescentes de Dia das Bruxas e contendo equipamentos de primeiros socorros.<br><li><b>24 cargas.</b></li><li><b>Aumenta consideravelmente</b> sua velocidade para curar os outros.</li><li>Desbloqueia a ação de <b>autocura</b>.</li><li>Você fica <b>consideravelmente mais visível</b>.</li>",
+        "name": "Lancheira do Dia das Bruxas",
+        "flavor": "\"Segurança primeiro! Faça-se notar para receber um bom tratamento quando disser “travessuras ou gostosuras” no Halloween.\"",
+        "id": 12,
+        "index": "ALL_HALLOWS_EVE_LUNCHBOX",
+        "type": 4,
+        "rarity": 5,
+        "image": "iconItems_medkitHalloween"
+    },
+    {
+        "description": "Um kit de primeiros socorros básico, com o necessário para tratar desde ferimentos leves aos mais sérios.<br><li><b>24 cargas.</b></li><li><b>Aumenta consideravelmente</b> sua velocidade de cura de outras pessoas.</li><li>Desbloqueia a ação de <b>autocura</b>.</li>",
+        "name": "Kit de primeiros socorros",
+        "id": 13,
+        "index": "FIRST_AID_KIT",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconItems_firstAidKit"
+    },
+    {
+        "description": "Um kit médico considerável, bem organizado e equipado com os melhores suprimentos de emergência.<br><li><b>16 cargas</b>.</li><li><b>Aumenta incrivelmente</b> sua velocidade para curar os outros.</li><li><b>Aumenta incrivelmente</b> a velocidade com que você se cura.</li><li>Libera a ação de <b>autocura</b>.</li>",
+        "name": "Kit Médico Emergencial",
+        "flavor": "\"Existe cura pra quase tudo... mas não pra isso.\"",
+        "id": 14,
+        "index": "EMERGENCY_MED_KIT",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconItems_medkit"
+    },
+    {
+        "description": "Uma caixa de metal grande com suprimentos médicos para resgates de emergência em locais difíceis de alcançar, geralmente isolados.<br><li><b>32 cargas</b>.</li><li><b>Aumenta incrivelmente a</b> a velocidade de cura.</li><li><b>Aumenta moderadamente as</b> zonas de sucesso de Testes de Perícia.</li><li><b>Aumenta moderadamente as</b> zonas bônus de Testes de Perícia.</li><li>Libera a ação de <b>autocura</b>.</li>",
+        "name": "Kit Médico de Guarda-florestal",
+        "flavor": "\"Uma pequena placa com uma inscrição pode ser encontrada colada ao painel traseiro: VK.ID-3994723\"",
+        "id": 15,
+        "index": "RANGER_MED_KIT",
+        "type": 4,
+        "rarity": 3,
+        "image": "iconItems_rangersAidKit"
+    },
+    {
+        "description": "Caixa de metal contendo ferramentas em más condições que podem quebrar a qualquer momento. Mesmo sem treinamento, podem ser usadas para consertar ou quebrar componentes mecânicos diversos.<br><li><b>16 cargas</b>.</li><li><b>Aumenta moderadamente</b> a velocidade de reparo.</li><li><b>Diminui ligeiramente</b> as zonas de sucesso dos Testes de Perícia.</li><li>Libera a ação de <b>sabotagem</b>.</li>",
+        "name": "Ferramentas Gastas",
+        "flavor": "\"Você chama isso de ferramentas? Sério mesmo?\"",
+        "id": 16,
+        "index": "WORN_OUT_TOOLS",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconItems_toolboxWornOut"
+    },
+    {
+        "description": "Caixa de metal com um conjunto de ferramentas básicas. Mesmo sem treinamento, pode ser usada para consertar ou quebrar diversos componentes mecânicos.<br><li><b>20 cargas.</b></li><li><b>Aumenta moderadamente</b> a velocidade de reparo.</li><li>Libera a ação de <b>sabotagem</b></li><li><b>Aumenta ligeiramente</b> a velocidade de sabotagem.</li>",
+        "name": "Caixa de ferramentas",
+        "flavor": "\"Não se sabe ao certo de onde essas ferramentas surgiram. Foram trazidas por um de nós, ou pertenciam a um dos monstros?\"",
+        "id": 17,
+        "index": "TOOLBOX",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconItems_toolbox"
+    },
+    {
+        "description": "Caixa de metal com ferramentas mecânicas especializadas. Mesmo sem treinamento, podem ser utilizadas para consertar ou quebrar diversos componentes mecânicos.<br><li><b>16 cargas</b>.</li><li><b>Aumenta consideravelmente</b> a velocidade de reparo.</li><li>Libera a ação de <b>sabotagem</b>.</li><li><b>Diminui ligeiramente</b> a velocidade de sabotagem.</li>",
+        "name": "Caixa de Ferramentas de Mecânico",
+        "id": 18,
+        "index": "MECHANICS_TOOLBOX",
+        "type": 5,
+        "rarity": 2,
+        "image": "iconItems_toolboxMechanics"
+    },
+    {
+        "description": "Uma caixa de metal grande com ferramentas básicas e peças mecânicas extras. Mesmo sem treinamento, pode ser usada para consertar ou quebrar diversos componentes mecânicos.<br><li><b>32 cargas</b>.</li><li><b>Aumenta moderadamente</b> a velocidade de reparo.</li><li>Libera a ação de <b>sabotagem</b>.</li>",
+        "name": "Caixa de Ferramentas Espaçosa",
+        "id": 19,
+        "index": "COMMODIOUS_TOOLBOX",
+        "type": 5,
+        "rarity": 2,
+        "image": "iconItems_toolboxCommodious"
+    },
+    {
+        "description": "Caixa de metal com ferramentas de engenharia altamente especializadas. A maioria das ferramentas ainda pode ser usada por leigos para consertos rápidos ou para quebrar diferentes componentes mecânicos.<br><li><b>16 cargas</b>.</li><li><b>Aumenta incrivelmente</b> a velocidade de reparo.</li><li>Libera a ação de <b>sabotagem</b>.</li><li><b>Diminui moderadamente</b> a velocidade de sabotagem.</li>",
+        "name": "Caixa de Ferramentas de Engenheiro",
+        "flavor": "\\”Criei ferramentas incomparáveis e fiquei paralisado quando foram roubadas de mim. Essas são apenas réplicas fajutas, cuspidas pela Névoa.\" — Diário de Vigo",
+        "id": 20,
+        "index": "ENGINEERS_TOOLBOX",
+        "type": 5,
+        "rarity": 3,
+        "image": "iconItems_toolboxEngineers"
+    },
+    {
+        "description": "Uma caixa de metal que contém principalmente serras e alicates de pressão de vários tamanhos, mas também outras ferramentas. Ainda que a função dos objetos dessa caixa seja claramente destrutiva, eles também podem ser usados para reparar diversos componentes mecânicos.<br><li><b>24 cargas</b>.</li><li><b>Aumenta ligeiramente</b> a velocidade de reparo.</li><li>Libera a ação de <b>sabotagem</b>.</li><li><b>Aumenta consideravelmente</b> a velocidade de sabotagem.</li>",
+        "name": "Caixa de Ferramentas do Alex",
+        "flavor": "\"A maioria das ferramentas está indicada como \\'Propriedade do Alex\\'.\"",
+        "id": 21,
+        "index": "ALEXS_TOOLBOX",
+        "type": 5,
+        "rarity": 3,
+        "image": "iconItems_toolboxAlexs"
+    },
+    {
+        "description": "Uma decoração de mesa de jantar discreta e altamente explosiva. Detona com várias explosões barulhentas e luzes intensas. Pode ser usada como distração, para cegar ou em comemorações.<br><li><b>1 carga.</b></li>",
+        "name": "Bombinha de Inverno",
+        "id": 22,
+        "index": "WINTER_PARTY_STARTER",
+        "type": 6,
+        "rarity": 5,
+        "image": "iconItems_winterEventFirecracker"
+    },
+    {
+        "description": "Uma decoração de mesa de jantar discreta e altamente explosiva. Detona com várias explosões barulhentas e luzes intensas. Pode ser usada como distração, para cegar ou em comemorações.<br><li><b>1 carga.</b></li>",
+        "name": "Bombinha do Terceiro Aniversário",
+        "flavor": "\"Feliz aniversário! Vamos comemorar nossos três anos juntos!\"<br>– Equipe de Dead by Daylight",
+        "id": 23,
+        "index": "THIRD_YEAR_PARTY_STARTER",
+        "type": 6,
+        "rarity": 5,
+        "image": "iconItems_partyPopper"
+    },
+    {
+        "description": "Kit Médico festivo que explode em confete ao curar toda a vida de um Sobrevivente. Surpresa!<br><li><b>24 cargas</b>.</li><li><b>Aumenta consideravelmente</b> a velocidade com que você cura os outros.</li><li>Libera a ação de <b>autocura</b>.</li>",
+        "name": "Kit Médico de Aniversário",
+        "flavor": "\"Feliz aniversário! Que venham muitos mais!\"<br>— Equipe de Dead by Daylight",
+        "id": 24,
+        "index": "ANNIVERSARY_MED_KIT",
+        "type": 4,
+        "rarity": 5,
+        "image": "iconItems_medkit_anniversary2020"
+    },
+    {
+        "description": "Lanterna festiva que explode em confete ao ofuscar a visão de um Assassino. Surpresa!<br><li><b>8 s</b> de uso.</li>",
+        "name": "Lanterna de Aniversário",
+        "flavor": "\"Feliz aniversário! Que venham muitos mais!\"<br>— Equipe de Dead by Daylight",
+        "id": 25,
+        "index": "ANNIVERSARY_FLASHLIGHT",
+        "type": 1,
+        "rarity": 5,
+        "image": "iconItems_flashlight_anniversary2020"
+    }
+]

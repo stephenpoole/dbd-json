@@ -1,0 +1,2556 @@
+[
+    {
+        "description": "Unlocks potential in one's aura reading ability. Each time a generator is completed, The Killer's aura is revealed to you for <span class=\"Highlight1\">{0} seconds</span>.<br>When the last generator is powered the Killer's aura is revealed to you for <span class=\"Highlight2\">{1} seconds</span>.",
+        "name": "Dark Sense",
+        "flavor": "\"Take it from an old-timer: Slow down, don't rush and try not to worry so much! The best way to beat him is to know how he thinks.\" -Lost Tapes: Murf",
+        "id": 100,
+        "index": "DARK_SENSE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_darkSense",
+        "tiers": [
+            [
+                5,
+                5
+            ],
+            [
+                5,
+                7
+            ],
+            [
+                5,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "Unlocks potential in one's aura reading ability. Paranoia paired with the horror of failure drives you to avoid repeating the same mistakes.<br>The auras of <span class=\"Highlight1\">{0}</span> generators which are in close proximity to one another are revealed to you for <span class=\"Highlight2\">{1} seconds</span>, at the start of the match and each time a generator is completed.<br>If you are holding a map that can track generators, generators revealed by <i>Deja Vu</i> are added to the map.",
+        "name": "Deja Vu",
+        "id": 101,
+        "index": "DEJA_VU",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_dejaVu",
+        "tiers": [
+            [
+                3,
+                30
+            ],
+            [
+                3,
+                45
+            ],
+            [
+                3,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "The growing odds of a successful escape fill you with hope and give you wings. As soon as the exit gates are powered you gain a <span class=\"Highlight1\">{0}%</span> <b><i>Haste</i></b> status effect for <span class=\"Highlight3\">{1} seconds</span>.<br>",
+        "name": "Hope",
+        "flavor": "\"Buckle up, fuckos! Let's roll!\" -Lost Tapes: Nikki",
+        "id": 102,
+        "index": "HOPE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_hope",
+        "tiers": [
+            [
+                5,
+                120
+            ],
+            [
+                6,
+                120
+            ],
+            [
+                7,
+                120
+            ]
+        ]
+    },
+    {
+        "description": "Unlocks potential in one's aura reading ability. While you are on the hook, all Survivor's auras are revealed to all other Survivors. If The Killer is within a <span class=\"Highlight1\">{0} meter</span> range, The Killer's aura is revealed to all other Survivors.<br><br>While a Survivor other than you is on the hook, all other Survivors’ auras are revealed to you. If The Killer is within a <span class=\"Highlight1\">{0} meter</span> range of the hooked Survivor, The Killer's aura is revealed to you.",
+        "name": "Kindred",
+        "flavor": "“Be kind to one another. We’re all in this together.” -Lost Tapes: Sujan",
+        "id": 103,
+        "index": "KINDRED",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_kindred",
+        "tiers": [
+            [
+                8,
+                8
+            ],
+            [
+                12,
+                12
+            ],
+            [
+                16,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "Your running is light and soft, making your tracks harder to follow. Scratch marks stay visible <span class=\"Highlight1\">{0} seconds</span> less than normal.",
+        "name": "Lightweight",
+        "flavor": "\"Take it slow, he knows where you've been… just like I`ve always said: live slow and die old.\" -Lost Tapes: Dylan",
+        "id": 104,
+        "index": "LIGHTWEIGHT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_lightweight",
+        "tiers": [
+            [
+                1
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ]
+        ]
+    },
+    {
+        "description": "It is inconceivable to leave someone behind. Once at least one exit gate is opened, you gain the following effects:<br><li><span class=\"Highlight1\">{0}%</span> additional Bloodpoints for healing and unhooking other Survivors.</li><li><span class=\"Highlight2\">{1}%</span> bonus action speed when healing and unhooking other Survivors.</li><li>The auras of all other Survivors are revealed to you.</li>",
+        "name": "No One Left Behind",
+        "flavor": "\"...yeah, no shit. But I believe we can outsmart and overthrow him if we work together. Don't be predictable and selfish!\" -Lost Tapes: Clyde",
+        "id": 105,
+        "index": "NO_ONE_LEFT_BEHIND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_noOneLeftBehind",
+        "tiers": [
+            [
+                50,
+                30
+            ],
+            [
+                75,
+                40
+            ],
+            [
+                100,
+                50
+            ]
+        ]
+    },
+    {
+        "description": "Unlocks potential in one's aura reading ability. The auras of unopened chests and items in the environment are revealed to you when standing within a <span class=\"Highlight1\">{0} meter</span> range. Grants a <b>considerably</b> better chance at finding an item of higher rarity from chests.",
+        "name": "Plunderer's Instinct",
+        "flavor": "\"The pioneers used to loot these babies for hours.\" -Lost Tapes: Aizeyu",
+        "id": 106,
+        "index": "PLUNDERERS_INSTINCT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_plunderersInstinct",
+        "tiers": [
+            [
+                16
+            ],
+            [
+                24
+            ],
+            [
+                32
+            ]
+        ]
+    },
+    {
+        "description": "You have the undeniable capability to sense danger. Get an auditory warning when looking in the direction of the Killer in a <span class=\"Highlight1\">45 degree</span> cone within a range of <span class=\"Highlight2\">{0} meters</span>. Premonition has a cooldown of <span class=\"Highlight3\">{1} seconds</span> each time it activates.",
+        "name": "Premonition",
+        "flavor": "\"I have a bad feeling about this!\"",
+        "id": 107,
+        "index": "PREMONITION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_premonition",
+        "tiers": [
+            [
+                36,
+                60
+            ],
+            [
+                36,
+                45
+            ],
+            [
+                36,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "You are motivated in dire situations. Grants <span class=\"Highlight1\">{0}%</span> additional speed when repairing, sabotaging, healing, unhooking, vaulting, cleansing, opening exit gates, and unlocking while injured.",
+        "name": "Resilience",
+        "flavor": "\"Focus, even in these desperate times.\"",
+        "id": 108,
+        "index": "RESILIENCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_resilience",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                6
+            ],
+            [
+                9
+            ]
+        ]
+    },
+    {
+        "description": "You have developed an efficient way to get off hooks.<br><li>Grants up to <span class=\"Highlight1\">{0}</span> extra escape attempts on the hook.</li><li>Hook escape attempts have a <span class=\"Highlight2\">{1}%</span> increased chance to succeed.</li>",
+        "name": "Slippery Meat",
+        "id": 109,
+        "index": "SLIPPERY_MEAT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_slipperyMeat",
+        "tiers": [
+            [
+                3,
+                2
+            ],
+            [
+                3,
+                3
+            ],
+            [
+                3,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "You have the undeniable capability to sense danger. Get an auditory warning when looking in the direction of Totems in a <span class=\"Highlight1\">45-degree</span> cone within a range of <span class=\"Highlight2\">{0} meters</span>. Small Game has a cooldown of <span class=\"Highlight3\">{1} seconds</span> each time it activates. For each Dull Totem and Hex Totem cleansed by any player, gain a Token. Small Game's detection cone is reduced by <span class=\"Highlight4\">5 degrees</span> per token.",
+        "name": "Small Game",
+        "flavor": "\"Nope.\" -Lost Tapes: Andy",
+        "id": 110,
+        "index": "SMALL_GAME",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_smallGame",
+        "tiers": [
+            [
+                8,
+                15
+            ],
+            [
+                10,
+                12
+            ],
+            [
+                12,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "An unnatural tingle warns you of impending doom. Get notified when the Killer is looking directly in your direction and standing within a <span class=\"Highlight1\">{0} meter</span> range. While Spine Chill is active, Skill Check trigger odds are increased by <span class=\"Highlight2\">{1}%</span> with success zones reduced by <span class=\"Highlight3\">{2}%</span>. While Spine Chill is active your speed while repairing, sabotaging, healing, unhooking, vaulting, cleansing, opening exit gates, and unlocking is increased by <span class=\"Highlight4\">{3}%</span>.",
+        "name": "Spine Chill",
+        "flavor": "\"There is a voice that doesn't use words. Listen.\" -Lost Tapes: Sassy",
+        "id": 111,
+        "index": "SPINE_CHILL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_spineChill",
+        "tiers": [
+            [
+                36,
+                10,
+                10,
+                2
+            ],
+            [
+                36,
+                10,
+                10,
+                4
+            ],
+            [
+                36,
+                10,
+                10,
+                6
+            ]
+        ]
+    },
+    {
+        "description": "You perform at your best when you are under extreme stress. Great Skill Check success zones when repairing and healing get <span class=\"Highlight1\">{0}%</span> bigger when you are injured.",
+        "name": "This Is Not Happening",
+        "id": 112,
+        "index": "THIS_IS_NOT_HAPPENING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_thisIsNotHappening",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                20
+            ],
+            [
+                30
+            ]
+        ]
+    },
+    {
+        "description": "Helping others heightens your morale.<br><br>When you rescue a Survivor from a hook, gain a <span class=\"Highlight1\">{0}%</span> speed increase while healing others for <span class=\"Highlight3\">{1} seconds</span>.",
+        "name": "We'll make it",
+        "flavor": "\"I'm confident we can all escape in one piece if we help each other.\"",
+        "id": 113,
+        "index": "WELL_MAKE_IT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_wellMakeIt",
+        "tiers": [
+            [
+                100,
+                30
+            ],
+            [
+                100,
+                60
+            ],
+            [
+                100,
+                90
+            ]
+        ]
+    },
+    {
+        "description": "Unlocks potential in one's aura reading ability. Allies' auras are revealed to you when they are within a <span class=\"Highlight1\">{0} meter</span> range.",
+        "name": "Bond",
+        "flavor": "\"We have to work as a team, I need you to survive so that I can survive!\" -Dwight",
+        "id": 114,
+        "index": "BOND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DWIGHT_FAIRFIELD",
+        "image": "iconPerks_bond",
+        "tiers": [
+            [
+                20
+            ],
+            [
+                28
+            ],
+            [
+                36
+            ]
+        ]
+    },
+    {
+        "description": "For every other Survivor working on a generator within a <span class=\"Highlight2\">{1} meter</span> range, gain <span class=\"Highlight1\">{0}%</span> repair speed bonus. This same bonus is also applied to all other Survivors within range.<br>Gain <span class=\"Highlight3\">{2}%</span> more Bloodpoints for coop actions.<br>Survivors can only be affected by one Prove Thyself effect at a time.",
+        "name": "Prove Thyself",
+        "flavor": "\"Show me what you can do!\" -Dwight",
+        "id": 115,
+        "index": "PROVE_THYSELF",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DWIGHT_FAIRFIELD",
+        "image": "iconPerks_proveThyself",
+        "tiers": [
+            [
+                4,
+                15,
+                50
+            ],
+            [
+                4,
+                15,
+                75
+            ],
+            [
+                4,
+                15,
+                100
+            ]
+        ]
+    },
+    {
+        "description": "You're able to organize a team to cooperate more efficiently. Increases other Survivors' healing, sabotage, unhooking, cleansing, opening exit gates, and chest unlocking speeds by <span class=\"Highlight1\">{0}%</span> when they are within a <span class=\"Highlight2\">{1} meter</span> range from you.<br>Survivors can only be affected by one Leader effect at a time.<br>This effect persists on other Survivors for <span class=\"Highlight3\">{2} seconds</span> after leaving the Leader's effective perk range.",
+        "name": "Leader",
+        "id": 116,
+        "index": "LEADER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DWIGHT_FAIRFIELD",
+        "image": "iconPerks_leader",
+        "tiers": [
+            [
+                15,
+                8,
+                15
+            ],
+            [
+                20,
+                8,
+                15
+            ],
+            [
+                25,
+                8,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "You do not make as much noise as others when quickly vaulting over obstacles or hiding in lockers.<br><br>The vault and hide actions' noise detection and audio range is reduced by <span class=\"Highlight1\">{0}%</span>.<br><br>This effect can only trigger once every <span class=\"Highlight2\">{1} seconds</span>.",
+        "name": "Quick & Quiet",
+        "id": 117,
+        "index": "QUICK_AND_QUIET",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "MEG_THOMAS",
+        "image": "iconPerks_quickAndQuiet",
+        "tiers": [
+            [
+                100,
+                30
+            ],
+            [
+                100,
+                60
+            ],
+            [
+                100,
+                90
+            ]
+        ]
+    },
+    {
+        "description": "When starting to run, break into a sprint at <span class=\"Highlight1\">{0}%</span> of your normal running speed for a maximum of <span class=\"Highlight2\">{1} seconds</span>.<br>Causes the <i>Exhausted</i> status effect for <span class=\"Highlight4\">{2} seconds</span>.<br><i>Sprint Burst</i> cannot be used while <i>Exhausted</i>.<br>You do not recover from the <i>Exhausted</i> status effect while running.",
+        "name": "Sprint Burst",
+        "id": 118,
+        "index": "SPRINT_BURST",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "MEG_THOMAS",
+        "image": "iconPerks_sprintBurst",
+        "tiers": [
+            [
+                150,
+                3,
+                60
+            ],
+            [
+                150,
+                3,
+                50
+            ],
+            [
+                150,
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "You are fuelled by unexpected energy when on the verge of escape. <span class=\"Highlight1\">Instantly heal one <b>health state</b></span> and sprint at <span class=\"Highlight2\">{0}%</span> of your normal running speed for <span class=\"Highlight3\">{1} seconds</span> when the exit gates are powered. Adrenaline is on hold if you are disabled at the moment it should take effect and will activate when freed.<br><i>Adrenaline</i> will <b>wake you up</b> if you are asleep when it triggers.<br><i>Adrenaline</i> ignores the <i>Exhausted</i> status effect.<br>Causes the <i>Exhausted</i> status effect for <span class=\"Highlight4\">{2} seconds</span>.<br>You do not recover from the <i>Exhausted</i> status effect when running.",
+        "name": "Adrenaline",
+        "id": 119,
+        "index": "ADRENALINE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "MEG_THOMAS",
+        "image": "iconPerks_adrenaline",
+        "tiers": [
+            [
+                150,
+                5,
+                60
+            ],
+            [
+                150,
+                5,
+                50
+            ],
+            [
+                150,
+                5,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Unlocks potential in one's aura reading ability. Dying or injured allies' auras are revealed to you when within a <span class=\"Highlight1\">{0} meter</span> range. Empathy does not reveal auras of allies when they are in direct contact with the Killer.",
+        "name": "Empathy",
+        "id": 120,
+        "index": "EMPATHY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CLAUDETTE_MOREL",
+        "image": "iconPerks_empathy",
+        "tiers": [
+            [
+                64
+            ],
+            [
+                96
+            ],
+            [
+                128
+            ]
+        ]
+    },
+    {
+        "description": "You transform plants found around the campfire into tinctures that slow down bleeding. <b>Healing speed</b> and <b>healing item efficiency</b> are increased by <span class=\"Highlight1\">{0}%</span>.<br>",
+        "name": "Botany Knowledge",
+        "flavor": "\"Basic botany knowledge could save your life someday.\"",
+        "id": 121,
+        "index": "BOTANY_KNOWLEDGE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CLAUDETTE_MOREL",
+        "image": "iconPerks_botanyKnowledge",
+        "tiers": [
+            [
+                11
+            ],
+            [
+                22
+            ],
+            [
+                33
+            ]
+        ]
+    },
+    {
+        "description": "Unlocks the ability to heal yourself without a healing item at <span class=\"Highlight1\">{0}%</span> the normal healing speed. Increases the efficiency of healing item self-heal by <span class=\"Highlight3\">{1}%</span>.",
+        "name": "Self-Care",
+        "id": 122,
+        "index": "SELF_CARE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CLAUDETTE_MOREL",
+        "image": "iconPerks_selfCare",
+        "tiers": [
+            [
+                50,
+                10
+            ],
+            [
+                50,
+                15
+            ],
+            [
+                50,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "You're able to concentrate and enter a meditative-like state to numb some pain. Grunts of pain caused by injuries are reduced by <span class=\"Highlight1\">{0}%</span>.",
+        "name": "Iron Will",
+        "id": 123,
+        "index": "IRON_WILL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JAKE_PARK",
+        "image": "iconPerks_ironWill",
+        "tiers": [
+            [
+                50
+            ],
+            [
+                75
+            ],
+            [
+                100
+            ]
+        ]
+    },
+    {
+        "description": "Animals seem to trust you as they often stay calm in your presence. Reduces chances of alerting woodland creatures by <span class=\"Highlight1\">{0}%</span>.<br>Calm Spirit allows you to overcome the urge to scream.",
+        "name": "Calm Spirit",
+        "id": 124,
+        "index": "CALM_SPIRIT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JAKE_PARK",
+        "image": "iconPerks_calmSpirit",
+        "tiers": [
+            [
+                80
+            ],
+            [
+                90
+            ],
+            [
+                100
+            ]
+        ]
+    },
+    {
+        "description": "Unlocks potential in one's aura reading ability.<br><li>See hook auras in a <span class=\"Highlight1\">56 meter</span> radius from the pickup spot if a Survivor is being carried.</li><br>Unlocks the ability to sabotage hooks without a Toolbox.<br><li>Sabotaging a hook without a Toolbox takes <span class=\"Highlight2\">2.5 seconds</span>.</li><li>The sabotage action has a <span class=\"Highlight3\">{0} second</span> cooldown.</li>",
+        "name": "Saboteur",
+        "id": 125,
+        "index": "SABOTEUR",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JAKE_PARK",
+        "image": "iconPerks_saboteur",
+        "tiers": [
+            [
+                90
+            ],
+            [
+                75
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "Your agility is incomparable.<br><br>After falling from a height, cat-like reflexes reduce your stagger duration from falling by <span class=\"Highlight1\">{0}%</span> and reduce the volume of grunts from falling by <span class=\"Highlight1\">100%</span>. You start sprinting at <span class=\"Highlight2\">{1}%</span> your normal running speed for a maximum of <span class=\"Highlight3\">{2} seconds</span>.<br><br>Causes the <b>Exhausted</b> status effect for <span class=\"Highlight4\">{3} seconds</span>.<br><br><i>Balanced Landing</i> cannot be used while <b>Exhausted</b>.<br><br>You do not recover from the <b>Exhausted</b> status effect while running.<br>",
+        "name": "Balanced Landing",
+        "flavor": "\"I've jumped from higher places.\" -Nea",
+        "id": 126,
+        "index": "BALANCED_LANDING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEA_KARLSSON",
+        "image": "iconPerks_balancedLanding",
+        "tiers": [
+            [
+                75,
+                150,
+                3,
+                60
+            ],
+            [
+                75,
+                150,
+                3,
+                50
+            ],
+            [
+                75,
+                150,
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Years of evading the cops taught you a thing or two about stealth. Your movement speed while crouching is increased by <span class=\"Highlight1\">{0}%</span>.",
+        "name": "Urban Evasion",
+        "flavor": "\"The paint is still fresh but I'm long gone.\" -Nea",
+        "id": 127,
+        "index": "URBAN_EVASION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEA_KARLSSON",
+        "image": "iconPerks_urbanEvasion",
+        "tiers": [
+            [
+                90
+            ],
+            [
+                95
+            ],
+            [
+                100
+            ]
+        ]
+    },
+    {
+        "description": "Long nights out taught you to do a lot with what you've got. Reduce consumption rate of item charge by <span class=\"Highlight1\">{0}%</span> for you and allies within a <span class=\"Highlight2\">{1} meter</span> range. Once out of range, this effect persists for <span class=\"Highlight4\">{2} seconds.</span>",
+        "name": "Streetwise",
+        "flavor": "\"You're doing it wrong! Let me show you how it's done.\" -Nea",
+        "id": 128,
+        "index": "STREETWISE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEA_KARLSSON",
+        "image": "iconPerks_streetwise",
+        "tiers": [
+            [
+                15,
+                8,
+                15
+            ],
+            [
+                20,
+                8,
+                15
+            ],
+            [
+                25,
+                8,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "Unlocks potential in one's aura reading ability.<br>If you are the last Survivor remaining in the trial, you can see the aura of the Hatch within a <span class=\"Highlight1\">{0} meter</span> range.",
+        "name": "Left Behind",
+        "flavor": "\"I'm not horseshittin' around. I'm doing this alone!\" -Bill",
+        "id": 129,
+        "index": "LEFT_BEHIND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WILLIAM_OVERBECK",
+        "image": "iconPerks_leftBehind",
+        "tiers": [
+            [
+                24
+            ],
+            [
+                28
+            ],
+            [
+                32
+            ]
+        ]
+    },
+    {
+        "description": "You are fueled by unexpected energy when saving an ally from a hook.<br>Survivors you unhook gain the <b>Endurance</b> status effect for <span class=\"Highlight1\">{0} seconds</span>.<br>",
+        "name": "Borrowed Time",
+        "flavor": "\"Probably stings like hell, but it ain't gonna kill ya. Up and at 'em soldier. Time to move!\" — Bill Overbeck",
+        "id": 130,
+        "index": "BORROWED_TIME",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WILLIAM_OVERBECK",
+        "image": "iconPerks_borrowedTime",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                12
+            ],
+            [
+                15
+            ]
+        ]
+    },
+    {
+        "description": "Past battles have taught you a thing or two about survival.<br>Grants the ability to fully recover from the dying state <b>once per trial</b>. Increases dying recovery speed by <span class=\"Highlight1\">{0}%</span>.",
+        "name": "Unbreakable",
+        "flavor": "\"Goddammit, I am seriously FUBAR!\" -Bill",
+        "id": 131,
+        "index": "UNBREAKABLE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WILLIAM_OVERBECK",
+        "image": "iconPerks_unbreakable",
+        "tiers": [
+            [
+                25
+            ],
+            [
+                30
+            ],
+            [
+                35
+            ]
+        ]
+    },
+    {
+        "description": "Your few friends deserve the best protection.<br>When healing another Survivor in the dying state, your healing speed is increased by <span class=\"Highlight1\">100%.</span><br>Gain a token for performing any of the following actions:<li>Perform a Safe Hook Rescue</li><li>Take a hit to protect a Survivor</li><li>Rescue a Survivor by stunning the Killer with a pallet</li><li>Rescue a Survivor by blinding the Killer with a Flashlight</li>Gain a <span class=\"Highlight2\">25%</span> stackable bonus per token to all Bloodpoint gains up to a maximum of <span class=\"Highlight3\">{1}%</span>. The bonus Bloodpoints are only awarded post-trial.",
+        "name": "We're Gonna Live Forever",
+        "flavor": "“Come on then, let’s ‘ave it! I don’t give a shit pal.” -David King",
+        "id": 132,
+        "index": "WERE_GONNA_LIVE_FOREVER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_KING",
+        "image": "iconPerks_WereGonnaLiveForever",
+        "tiers": [
+            [
+                50
+            ],
+            [
+                75
+            ],
+            [
+                100
+            ]
+        ]
+    },
+    {
+        "description": "Activatable perk.<br>You can take a beating. When injured, tap into your adrenaline bank and dash forward quickly to avoid damage.<br><li>Press the <i>Active Ability</i> button while running to dash forward.</li><li>During the dash, you avoid damage.</li><li>Causes the <i>Exhausted</i> status effect for <span class=\"Highlight4\">{0} seconds</span>.<br>You do not recover from the <i>Exhausted</i> status effect while running.</li>",
+        "name": "Dead Hard",
+        "flavor": "“We were walkin’ through t’ginnel one night when a beer bottle flew past me, then another, and another. I thought to myself, “Gonna ’ave some fun ‘ere lads, let’s get stuck in!” It were a right dust up, I swear down!” -David King",
+        "id": 133,
+        "index": "DEAD_HARD",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_KING",
+        "image": "iconPerks_DeadHard",
+        "tiers": [
+            [
+                60
+            ],
+            [
+                50
+            ],
+            [
+                40
+            ]
+        ]
+    },
+    {
+        "description": "You are affected by the <span class=\"Highlight1\">Broken</span> status effect for the duration of the trial.<br>Your thick blood coagulates practically instantly. <li>You don't leave pools of blood.</li><li>Grunts of pain caused by injuries are reduced by <span class=\"Highlight2\">{0}%</span> at any time.</li><li>Grants the ability to fully recover from the dying state.</li>",
+        "name": "No Mither",
+        "flavor": "“I lost it. Just lamped him one. They went and banned me didn’t they. Went t’pub afterwards, had a few pints and moved on to the next chapter. I couldn’t be mithered with it all anyway, you know what I mean? Can’t be arsed.” -David King",
+        "id": 134,
+        "index": "NO_MITHER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_KING",
+        "image": "iconPerks_NoMither",
+        "tiers": [
+            [
+                0
+            ],
+            [
+                25
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "As more of your friends fall to the Killer, you become shrouded in isolation and the Killer's <b>aura reading abilities</b> towards you are disrupted.<br>Every time a fellow Survivor is killed or sacrificed, gain a token. For each token, your aura cannot be read by The Killer within a max range of <span class=\"Highlight1\">{0} meters</span> for each <b>killed</b> or <b>sacrificed</b> Survivor.<br><li><i>Increases your chances of being The Killer's Obsession.</i></li><li><i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i></li>",
+        "name": "Sole Survivor",
+        "flavor": "“It was the boogeyman.” -Laurie Strode",
+        "id": 135,
+        "index": "SOLE_SURVIVOR",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LAURIE_STRODE",
+        "image": "iconPerks_soleSurvivor",
+        "tiers": [
+            [
+                20
+            ],
+            [
+                22
+            ],
+            [
+                24
+            ]
+        ]
+    },
+    {
+        "description": "A supernatural bond links you to the Killer.<br><br>Whenever your aura is revealed to the Killer, the Killer's aura becomes visible to you and you gain a <span class=\"Highlight1\">{0}%</span> bonus to healing, repairing and cleansing speed.<br>If you are the Obsession, your aura is revealed to the killer for <span class=\"Highlight2\">3 seconds</span> once every <span class=\"Highlight3\">30 seconds</span><br>Increases your chances of being the Obsession.<br>",
+        "name": "Object of Obsession",
+        "flavor": "“He was watching me!” -Laurie Strode",
+        "id": 136,
+        "index": "OBJECT_OF_OBSESSION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LAURIE_STRODE",
+        "image": "iconPerks_objectOfObsession",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                4
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    {
+        "description": "Stab at your aggressor in an attempt to escape.<br>After being unhooked or unhooking yourself, <i>Decisive Strike</i> activates for <span class=\"Highlight1\">{0} seconds</span>.<br>While active, complete a Skill Check when grabbed by the Killer to escape, stunning them for <span class=\"Highlight1\">5 seconds</span>.<br><li>Succeeding or failing the Skill Check disables <i>Decisive Strike</i>.</li><li>You become the Obsession after stunning the Killer.</li><br>While active, the following interactions deactivate <i>Decisive Strike</i>:<li>Repairing a generator</li><li>Healing yourself or others</li><li>Cleansing a Totem</li><li>Sabotaging a hook</li><li>Unhooking others</li><br><li><i>Increases your chance to be the Obsession.</i></li><li><i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i></li>",
+        "name": "Decisive Strike",
+        "id": 137,
+        "index": "DECISIVE_STRIKE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LAURIE_STRODE",
+        "image": "iconPerks_decisiveStrike",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                50
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "Strengthens the potential of you and your team's aura reading abilities.<br><li>Increases aura reading ranges by <span class=\"Highlight1\">{0} meters</span>.</li><li>Survivors may only be affected by one <i>Open-Handed</i> effect at a time.</li>",
+        "name": "Open-Handed",
+        "flavor": "“Paying attention is what kept me alive through the years. That, and my good looks of course.” -Ace",
+        "id": 138,
+        "index": "OPEN_HANDED",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ACE_VISCONTI",
+        "image": "iconPerks_openHanded",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                12
+            ],
+            [
+                16
+            ]
+        ]
+    },
+    {
+        "description": "All will be well in the end; you just know it. Your confidence strengthens the feeling of hope for those around you. For each other Survivor still alive, grant a <span class=\"Highlight1\">{0}%</span> bonus of luck to all remaining Survivors.",
+        "name": "Up the Ante",
+        "flavor": "“What can I say? I’m just a very lucky guy… I’m sure some of it will rub off on you.” -Ace",
+        "id": 139,
+        "index": "UP_THE_ANTE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ACE_VISCONTI",
+        "image": "iconPerks_upTheAnte",
+        "tiers": [
+            [
+                1
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ]
+        ]
+    },
+    {
+        "description": "Lady Luck always seems to be throwing something good your way.<br>When retrieving an item from a chest, there is a <span class=\"Highlight1\">{0}%</span> chance that a <span class=\"Highlight2\">Very Rare</span> (or lower) add-on will be attached to it.<br><span class=\"Highlight3\">{1}%</span> chance of finding an add-on of <span class=\"Highlight4\">Uncommon</span> rarity (or lower).<br>When escaping, keep any add-ons your item has.",
+        "name": "Ace in the Hole",
+        "flavor": "“Everything that glitters isn’t gold. But gold isn't worth a damn in this place, so this should come in handy.” -Ace",
+        "id": 140,
+        "index": "ACE_IN_THE_HOLE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ACE_VISCONTI",
+        "image": "iconPerks_aceInTheHole",
+        "tiers": [
+            [
+                100,
+                10
+            ],
+            [
+                100,
+                25
+            ],
+            [
+                100,
+                50
+            ]
+        ]
+    },
+    {
+        "description": "You are apt at handling machinery with the greatest care and precision.<br>The noises caused by your repairs and their hearing distance are reduced by <span class=\"Highlight2\">{0} meters</span>. On a failed repair Skill Check, there is a <span class=\"Highlight1\">{1}%</span> chance the generator explosion will be prevented.",
+        "name": "Technician",
+        "flavor": "“I’m gonna stealth this one.” -Feng Min",
+        "id": 141,
+        "index": "TECHNICIAN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FENG_MIN",
+        "image": "iconPerks_technician",
+        "tiers": [
+            [
+                8,
+                5
+            ],
+            [
+                8,
+                4
+            ],
+            [
+                8,
+                3
+            ]
+        ]
+    },
+    {
+        "description": "After performing a <b>rushed</b> vault, break into a sprint at <span class=\"Highlight1\">{0}%</span> of your normal running speed for a maximum of <span class=\"Highlight2\">{1} seconds</span>. <br>Causes the <i>Exhausted</i> status effect for <span class=\"Highlight4\">{2} seconds</span>.<br><i>Lithe</i> cannot be used while <i>Exhausted</i>.<br>You do not recover from the <i>Exhausted</i> status effect while running.",
+        "name": "Lithe",
+        "flavor": "“U mad?” -Feng Min",
+        "id": 142,
+        "index": "LITHE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FENG_MIN",
+        "image": "iconPerks_lithe",
+        "tiers": [
+            [
+                150,
+                3,
+                60
+            ],
+            [
+                150,
+                3,
+                50
+            ],
+            [
+                150,
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Your acute senses are on high alert.<br>When the Killer performs a break action, the Killer is revealed to you for <span class=\"Highlight1\">{0} seconds</span>.",
+        "name": "Alert",
+        "flavor": "“I have true sight.” -Feng Min",
+        "id": 143,
+        "index": "ALERT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FENG_MIN",
+        "image": "iconPerks_alert",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ]
+    },
+    {
+        "description": "Unlocks potential in one's aura reading ability. Once all generators are powered, exit gates are revealed to you within a <span class=\"Highlight1\">{0} meter</span> range. While opening the exit gates, reveal your aura to other Survivors up to <span class=\"Highlight2\">{1} meters</span>.<br>While <i>Wake Up!</i> is active, you open the exit gates <span class=\"Highlight3\">{2}%</span> faster.",
+        "name": "Wake Up!",
+        "id": 144,
+        "index": "WAKE_UP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "QUENTIN_SMITH",
+        "image": "iconPerks_wakeUp",
+        "tiers": [
+            [
+                128,
+                128,
+                5
+            ],
+            [
+                128,
+                128,
+                10
+            ],
+            [
+                128,
+                128,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "You have a knack for finding medicine. Unlocking chests is <span class=\"Highlight1\">{0}%</span> faster and the noises this causes, along with their hearing distances, are reduced by <span class=\"Highlight2\">{1} meters.</span><br><i>Pharmacy</i> guarantees an Emergency Med-kit on your <b>first</b> unlocked chest.<br>",
+        "name": "Pharmacy",
+        "id": 145,
+        "index": "PHARMACY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "QUENTIN_SMITH",
+        "image": "iconPerks_pharmacy",
+        "tiers": [
+            [
+                40,
+                8
+            ],
+            [
+                60,
+                8
+            ],
+            [
+                80,
+                8
+            ]
+        ]
+    },
+    {
+        "description": "You look over your friends even in dire situations. You and your allies within a <span class=\"Highlight1\">{0} meter</span> range recover from the <b>Exhausted, Hemorrhage, Hindered</b> and <b>Blindness</b> status effects <span class=\"Highlight2\">{1}%</span> faster. Once out of range, this effect persists for <span class=\"Highlight4\">{2} seconds.</span><br>",
+        "name": "Vigil",
+        "id": 146,
+        "index": "VIGIL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "QUENTIN_SMITH",
+        "image": "iconPerks_vigil",
+        "tiers": [
+            [
+                8,
+                10,
+                15
+            ],
+            [
+                8,
+                15,
+                15
+            ],
+            [
+                8,
+                20,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "There is nothing stopping you. Your ferocious tenacity in dire situations allows you to crawl <span class=\"Highlight1\">{0}%</span> faster and recover at the same time.",
+        "name": "Tenacity",
+        "flavor": "\"What the hell is this? I'm taking this bastard down!\" -Detective David Tapp",
+        "id": 147,
+        "index": "TENACITY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_TAPP",
+        "image": "iconPerks_tenacity",
+        "tiers": [
+            [
+                30
+            ],
+            [
+                40
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "Unlocks potential in one's aura reading ability. When a generator is completed, the auras of generators, chests and Totems within <span class=\"Highlight1\">{0} meters</span> are revealed to you for <span class=\"Highlight2\">{1} seconds</span>.<br>If you are holding a Map that can track objectives, generators, chests and Totems revealed by <i>Detective's Hunch</i> are added to the Map.",
+        "name": "Detective's Hunch",
+        "flavor": "\"Are you able to tell us where you were last night?\" -Detective David Tapp",
+        "id": 148,
+        "index": "DETECTIVES_HUNCH",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_TAPP",
+        "image": "iconPerks_detectivesHunch",
+        "tiers": [
+            [
+                32,
+                10
+            ],
+            [
+                48,
+                10
+            ],
+            [
+                64,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "Getting close to the Killer fills you with determination. For each <span class=\"Highlight1\">{0} seconds</span> you are standing within the Killer Terror Radius and not in a chase, you gain a token up to a maximum of <span class=\"Highlight2\">{1} tokens</span>.<br>When <i>Stake Out</i> has at least <b>1 token</b>, Good Skill Checks are considered Great Skill Checks, consume <b>1 token</b>, and grant an additional <span class=\"Highlight3\">1%</span> bonus to generator repair progress.",
+        "name": "Stake Out",
+        "flavor": "\"I had you, I had you on your knees. You're runnin' scared because we had you. We're gonna close this case!\" -Detective David Tapp",
+        "id": 149,
+        "index": "STAKE_OUT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DAVID_TAPP",
+        "image": "iconPerks_stakeOut",
+        "tiers": [
+            [
+                15,
+                2
+            ],
+            [
+                15,
+                3
+            ],
+            [
+                15,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "When performing a fast vault or leaving a locker in a sprint, you leave no scratch marks for <span class=\"Highlight1\">{0} seconds</span>.<br><i>Dance With Me</i> has a cooldown of <span class=\"Highlight4\">{1} seconds</span>. ",
+        "name": "Dance With Me",
+        "flavor": "“Another show’s off and runnin’, <br>Dance with me, cuz there’s a storm a comin’, <br>Follow my boots, try to keep up,<br>Dance with me, until sun up.”<br>-Kate Denson's \"Dance With Me\"",
+        "id": 150,
+        "index": "DANCE_WITH_ME",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "KATE_DENSON",
+        "image": "iconPerks_danceWithMe",
+        "tiers": [
+            [
+                3,
+                60
+            ],
+            [
+                3,
+                50
+            ],
+            [
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Unlocks potential in one's aura reading ability. Auras of pallets, breakable walls, and vault locations are revealed to you when within a <span class=\"Highlight1\">{0} meter</span> range. <br><i>Windows of Opportunity</i> has a cooldown of <span class=\"Highlight1\">{1} seconds</span> when vaulting or dropping a pallet during a chase. ",
+        "name": "Windows of Opportunity",
+        "flavor": "“Rise and shine, work hard, carve out your name, <br>Take aim, pull the trigger, hit the bulls eye for fame, <br>Know the value of faith, an’ family, and don’t you complain,<br>Open wide, your windows of opportunity.”<br>-Kate Denson's \"Windows of Opportunity\"",
+        "id": 151,
+        "index": "WINDOWS_OF_OPPORTUNITY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "KATE_DENSON",
+        "image": "iconPerks_windowsOfOpportunity",
+        "tiers": [
+            [
+                20,
+                30
+            ],
+            [
+                20,
+                25
+            ],
+            [
+                20,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "You are a battler and do everything to escape a foe's grasp. Your struggling effects on The Killer are increased by <span class=\"Highlight1\">{0}%</span>. <br>You obscure The Killer's ability to see hook auras within <span class=\"Highlight1\">{1} meters</span>.",
+        "name": "Boil Over",
+        "flavor": "“Buck and Wild,<br> Swing to be free, <br>Your hands just can’t keep ahold of me.”<br>-Kate Denson’s “Boil Over”",
+        "id": 152,
+        "index": "BOIL_OVER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "KATE_DENSON",
+        "image": "iconPerks_boilOver",
+        "tiers": [
+            [
+                25,
+                10
+            ],
+            [
+                50,
+                12
+            ],
+            [
+                75,
+                14
+            ]
+        ]
+    },
+    {
+        "description": "Activatable perk.<br>Being within the Killer Terror Radius while not in a chase for <span class=\"Highlight1\">{0} seconds</span> activates <i>Diversion</i>.<br><li>Once <i>Diversion</i> is activated, press the <i>Active Ability</i> button while crouched and motionless to throw a pebble, which creates a distraction for The Killer at a distance of <span class=\"Highlight2\">20 meters</span>.</li><br><li>The perk timer resets once the ability has been activated.</li><br>The distraction consists of:<br><li>A loud noise notification</li><li>Scratch marks</li>",
+        "name": "Diversion",
+        "flavor": "“There’s what is easy and then there’s what is right. If you confuse the two, there’s no telling what you become.” -Adam Francis",
+        "id": 153,
+        "index": "DIVERSION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ADAM_FRANCIS",
+        "image": "iconPerks_diversion",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                35
+            ],
+            [
+                30
+            ]
+        ]
+    },
+    {
+        "description": "After performing a safe hook rescue on another Survivor, <i>Deliverance</i> activates.<br>You now have a <span class=\"Highlight1\">100%</span> chance of unhooking yourself during the escape attempt.<br>A successful <i>Deliverance</i> from the hook triggers the <span class=\"Highlight2\">Broken</span> status effect for <span class=\"Highlight3\">{0} seconds</span>.",
+        "name": "Deliverance",
+        "flavor": "“I was raised by a strict man who taught me how to make the best of a bad situation.” -Adam Francis",
+        "id": 154,
+        "index": "DELIVERANCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ADAM_FRANCIS",
+        "image": "iconPerks_deliverance",
+        "tiers": [
+            [
+                100
+            ],
+            [
+                80
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "You start the trial with a <span class=\"Highlight1\">-{1}%</span> progress penalty for Skill Checks to heal Survivors.<br>For every successful Skill Check while healing a Survivor, you receive a token up to a maximum of <span class=\"Highlight2\">{0} tokens</span>.<br>Each token grants you a <span class=\"Highlight1\">+{2}%</span> progress bonus.<br>Great Skill Checks cannot be performed while using <i>Autodidact</i>.<li><i>Autodidact</i> is not active when using a Med Kit to heal.</li>",
+        "name": "Autodidact",
+        "flavor": "“There’s no limit to what you can achieve, as long as you back it up with hard work.” -Adam Francis",
+        "id": 155,
+        "index": "AUTODIDACT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ADAM_FRANCIS",
+        "image": "iconPerks_autodidact",
+        "tiers": [
+            [
+                25,
+                3,
+                15
+            ],
+            [
+                25,
+                4,
+                15
+            ],
+            [
+                25,
+                5,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "Any time you are removed from a hook (escaped or saved), the hook breaks and the Killer's aura is shown to you for <span class=\"Highlight1\">{0} seconds</span>. A hook broken by this perk takes <span class=\"Highlight2\">180 seconds</span> to respawn.<br>",
+        "name": "Breakdown",
+        "flavor": "“Charge from the Belly of the Beast.”<br>Here's a sketch/painting on a piece of wood I saw by the side of the road. I felt like it got a story to tell. And it didn’t waste its second chance. –Jeff, ink and oil wash on slice of wood, 12x16",
+        "id": 156,
+        "index": "BREAKDOWN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JEFF_JOHANSEN",
+        "image": "iconPerks_breakdown",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    {
+        "description": "Unlocks potential in one's aura reading ability.<br><br>You see the aura of every Survivor that:<br><li>You rescue from a hook, or rescues you from a hook;</li><li>You complete a healing action on, or completes a healing action on you.</li><br>They also see your aura.<br><br>This occurs for up to <span class=\"Highlight1\">{0} Survivors</span>. All effects of <i>Aftercare</i> are reset when you are hooked by The Killer.<br>",
+        "name": "Aftercare",
+        "flavor": "“A Mercy that Rips the Storm.”<br>Oil work to honor my best buddies who happen to be the best musicians I know. Their first album is still my favorite. It got me through a dark time in my life. –Jeff, oil on canvas, 16x16",
+        "id": 157,
+        "index": "AFTERCARE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JEFF_JOHANSEN",
+        "image": "iconPerks_aftercare",
+        "tiers": [
+            [
+                1
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ]
+        ]
+    },
+    {
+        "description": "You start the trial with <span class=\"Highlight1\">{0} tokens</span>.<br><br>When your aura would be shown to The Killer, <i>Distortion</i> activates and a token is consumed.<br><br>For the next <span class=\"Highlight1\">{1} seconds</span> while <i>Distortion</i> is activated, you do not leave scratch marks and your aura will not be shown to The Killer.<br><li><i>Distortion</i> does not activate when you are in dying state or in a trap.</li><br>",
+        "name": "Distortion",
+        "flavor": "“Death Fooled by the Cloak of Falcon Feathers.”<br>Sketch inspired by a few sleepless nights during winter. Exploration of Norse mythology: bravery can conceal your flaws, even when you are at your most vulnerable. –Jeff, pencil on toned paper, 12x12",
+        "id": 158,
+        "index": "DISTORTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JEFF_JOHANSEN",
+        "image": "iconPerks_distortion",
+        "tiers": [
+            [
+                3,
+                6
+            ],
+            [
+                3,
+                8
+            ],
+            [
+                3,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "Sharing painful experiences has the power to heal.<br>While injured, healing a Survivor without using a Med-kit also heals you at a <span class=\"Highlight1\">{0}%</span> conversion rate.",
+        "name": "Solidarity",
+        "flavor": "“Showing up when things get rough, listening to people’s problems, and supporting those in need; that’s how you become stronger, that’s how you grow.” –Jane Romero",
+        "id": 159,
+        "index": "SOLIDARITY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JANE_ROMERO",
+        "image": "iconPerks_solidarity",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                45
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "Achieving goals boosts your confidence.<br>After a generator is completed, you leave no scratch marks for <span class=\"Highlight1\"> {0} seconds</span>.",
+        "name": "Poised",
+        "flavor": "“Ok, stay calm. Don’t overthink it and just keep moving forward: you got this. –Jane Romero",
+        "id": 160,
+        "index": "POISED",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JANE_ROMERO",
+        "image": "iconPerks_poised",
+        "tiers": [
+            [
+                6
+            ],
+            [
+                8
+            ],
+            [
+                10
+            ]
+        ]
+    },
+    {
+        "description": "When your mind is set, there better be no one standing in your way.<br><br>While standing in a locker, for <span class=\"Highlight1\">{0} seconds</span>, <i>Head On</i> activates.<br>While <i>Head On</i> is activated, perform a rush action to leave a locker to use <i>Head On</i>. If The Killer is standing within <i>Head On's</i> effective range, The Killer is stunned for <span class=\"Highlight1\">{1} seconds</span>.<br>Causes the <span class=\"Highlight3\">Exhausted</span> status effect for <span class=\"Highlight1\">{2} seconds</span>. <br>Head On cannot be used while Exhausted.<br>You do not recover from the <span class=\"Highlight3\">Exhausted</span> status effect while running. <br><i>Head On</i> cannot be used when you have idle crows.<br>",
+        "name": "Head On",
+        "flavor": "“People are remembered for the challenges they overcome. You can run away and forget what you’re capable of or you can face your fears and remind the world who you are.” –Jane Romero",
+        "id": 161,
+        "index": "HEAD_ON",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JANE_ROMERO",
+        "image": "iconPerks_headOn",
+        "tiers": [
+            [
+                3,
+                3,
+                60
+            ],
+            [
+                3,
+                3,
+                50
+            ],
+            [
+                3,
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "You have an uncanny ability to escape the inevitable.<br><br>While in dying state, <span class=\"Highlight1\">{0}%</span> of your recovery progression is converted into wiggle progression when you are picked up by The Killer, up to a maximum of <span class=\"Highlight2\">{1}%</span> total wiggle progression.<br>",
+        "name": "Flip-Flop",
+        "flavor": "\"Catch ya on the flip-flop.\" -Ash Williams",
+        "id": 162,
+        "index": "FLIP_FLOP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ASHLEY_J_WILLIAMS",
+        "image": "iconPerks_flipFlop",
+        "tiers": [
+            [
+                50,
+                40
+            ],
+            [
+                50,
+                45
+            ],
+            [
+                50,
+                50
+            ]
+        ]
+    },
+    {
+        "description": "Unlocks potential in one's aura reading ability. The recovery progress of dying Survivors can be determined by the intensity of their auras at a distance of up to <span class=\"Highlight1\">{0} meters</span>.<br><br>When you heal a Survivor from the dying state to injured, both the healed Survivor and yourself see The Killer's aura for a duration of <span class=\"Highlight2\">{1} seconds</span>.<br>",
+        "name": "Buckle Up",
+        "flavor": "“Ghost beaters never leave a man behind.\" -Ash Williams",
+        "id": 163,
+        "index": "BUCKLE_UP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ASHLEY_J_WILLIAMS",
+        "image": "iconPerks_buckleUp",
+        "tiers": [
+            [
+                48,
+                4
+            ],
+            [
+                48,
+                5
+            ],
+            [
+                48,
+                6
+            ]
+        ]
+    },
+    {
+        "description": "Evil has a way of always finding you.<br><br>After you earn <span class=\"Highlight1\">{0} </span>Protection Hit scoring events, <i>Mettle of Man</i> activates. <br><br>Once activated, the next occasion that would put you into the <b>dying state</b> from the <b>injured state</b> is ignored.<br><br>The next time you heal back to full health, your aura will be revealed to the Killer when you are further than <span class=\"Highlight2\">{1} meters</span> from the Killer.<br><br><i>Mettle of Man</i> will deactivate the next time you are put into the dying state.<br><i><li>Increases your chances to be the Killer’s Obsession.</li><li>The Killer can only be <b>obsessed</b> with one Survivor at a time.</li></i><br>",
+        "name": "Mettle of Man",
+        "flavor": "\"Evil has a bullseye on my back the size of Tiger Stadium.\" -Ash Williams",
+        "id": 164,
+        "index": "METTLE_OF_MAN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ASHLEY_J_WILLIAMS",
+        "image": "iconPerks_mettleOfMan",
+        "tiers": [
+            [
+                3,
+                12
+            ],
+            [
+                3,
+                14
+            ],
+            [
+                3,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "You seek justice and uncover the truth no matter what obstacle stands in your way.<br><br>The aura of the generator you are currently repairing is revealed to all other Survivors located within <span class=\"Highlight1\">{0} meters</span>.<br><br>If The Killer downs a Survivor while you are repairing a generator, you see the aura of all other Survivors for <span class=\"Highlight2\">{1} seconds</span>.<br>",
+        "name": "Better Together",
+        "flavor": "“Let’s burn that lab to the ground.” -Nancy Wheeler",
+        "id": 165,
+        "index": "BETTER_TOGETHER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NANCY_WHEELER",
+        "image": "iconPerks_betterTogether",
+        "tiers": [
+            [
+                32,
+                8
+            ],
+            [
+                32,
+                9
+            ],
+            [
+                32,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "When you have a goal in mind, there’s no turning back: better to ask forgiveness than permission. <br><br>You can see your own scratch marks at all times.<br><br>You walk <span class=\"Highlight1\">{0}%</span> faster.<br>",
+        "name": "Fixated",
+        "flavor": "\"I wanna finish what we started. I want to kill it.\" -Nancy Wheeler",
+        "id": 166,
+        "index": "FIXATED",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NANCY_WHEELER",
+        "image": "iconPerks_fixated",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                15
+            ],
+            [
+                20
+            ]
+        ]
+    },
+    {
+        "description": "You look inward and trust your instincts when you feel lost and alone.<br><br>Each time you complete a Totem cleanse action, <i>Inner Strength</i> activates. If you are already afflicted by the <b>Broken</b> status effect, <i>Inner Strength</i> does not activate.<br><br>While <i>Inner Strength</i> is active, hiding inside a locker for <span class=\"Highlight1\">{0} seconds</span> while injured automatically heals you from injured to healthy.<br><br><i>Inner Strength</i> becomes deactivated as soon as it has successfully triggered.<br>",
+        "name": "Inner Strength",
+        "flavor": "“All this time I’ve been trying so hard to pretend like everything’s fine, but it’s not.” -Nancy Wheeler",
+        "id": 167,
+        "index": "INNER_STRENGTH",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NANCY_WHEELER",
+        "image": "iconPerks_innerStrength",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                9
+            ],
+            [
+                8
+            ]
+        ]
+    },
+    {
+        "description": "While you have a reputation for being self-centered, you risk it all to help those in need.<br><br>When you unhook a Survivor, the unhooked Survivor leaves no scratch marks or blood trail for the next <span class=\"Highlight1\">{0} seconds</span>. You see The Killer's aura and The Killer sees your aura for <span class=\"Highlight2\">{1} seconds</span>.<br>",
+        "name": "Babysitter",
+        "flavor": "“I promised to keep you shitheads safe, and that’s exactly what I plan on doing.” -Steve Harrington",
+        "id": 168,
+        "index": "BABYSITTER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "STEVE_HARRINGTON",
+        "image": "iconPerks_babySitter",
+        "tiers": [
+            [
+                4,
+                4
+            ],
+            [
+                6,
+                4
+            ],
+            [
+                8,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "Life has taught you the importance of friendship which has given you strength.<br><br>While you are on the hook in the struggle phase, <i>Camaraderie</i> activates.<br><br>If another Survivor is within <span class=\"Highlight1\">{0} meters</span> of you while <i>Camaraderie</i> is activated, the hook timer is paused for <span class=\"Highlight2\">{1} seconds</span>.<br>",
+        "name": "Camaraderie",
+        "flavor": "\"So, remember once you get in there… pretend like you don’t care. There you go, you’re learning my friend. You’re learning.” -Steve Harrington",
+        "id": 169,
+        "index": "CAMARADERIE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "STEVE_HARRINGTON",
+        "image": "iconPerks_camaraderie",
+        "tiers": [
+            [
+                16,
+                26
+            ],
+            [
+                16,
+                30
+            ],
+            [
+                16,
+                34
+            ]
+        ]
+    },
+    {
+        "description": "When you have healed other Survivors for the equivalent of one health state, <i>Second Wind</i> activates. If you are already afflicted by the <span class=\"Highlight1\">Broken</span> status effect, <i>Second Wind</i> does not activate.<br><br>While <i>Second Wind</i> is activated, the next time you are unhooked or you unhook yourself, you are affected by the <span class=\"Highlight1\">Broken</span> status effect. After a total duration of <span class=\"Highlight2\">{0} seconds</span>, <i>Second Wind</i> automatically heals you from injured to healthy.<br><br><i>Second Wind</i> deactivates once you become healthy or if you are put into the dying state before <i>Second Wind</i> successfully triggers. You lose the <span class=\"Highlight1\">Broken</span> status effect.<br>",
+        "name": "Second Wind",
+        "flavor": "\"Yeah, that’s a no.\" -Steve Harrington",
+        "id": 170,
+        "index": "SECOND_WIND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "STEVE_HARRINGTON",
+        "image": "iconPerks_secondWind",
+        "tiers": [
+            [
+                28
+            ],
+            [
+                24
+            ],
+            [
+                20
+            ]
+        ]
+    },
+    {
+        "description": "You’ve had your share of scrapes and bruises, but luck’s always on your side.<br><br><i>Lucky Break</i> activates any time you are injured. While <i>Lucky Break</i> is active, you won’t leave trails of blood or scratch marks for a total of <span class=\"Highlight1\">{0} seconds</span>.<br><br><i>Lucky Break</i> is permanently deactivated for the remainder of the Trial once the total duration has elapsed.<br>",
+        "name": "Lucky Break",
+        "flavor": "“That’s not enough to beat me. Not even close.” -Yui Kimura ",
+        "id": 171,
+        "index": "LUCKY_BREAK",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUI_KIMURA",
+        "image": "iconPerks_luckyBreak",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                50
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "You stand up for yourself, using whatever’s on hand to gain an advantage.<br><br>Press and hold the <i>Active Ability button</i> for <span class=\"Highlight1\">{0} seconds</span> while standing beside a dropped pallet to reset it to its upright position.<br><br><i>Any Means Necessary</i> has a cooldown of <span class=\"Highlight2\">{1} seconds</span>.<br>",
+        "name": "Any Means Necessary",
+        "flavor": "“I’ll hit you with everything I’ve got. Then I’ll do it again.” -Yui Kimura ",
+        "id": 172,
+        "index": "ANY_MEANS_NECESSARY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUI_KIMURA",
+        "image": "iconPerks_anyMeansNecessary",
+        "tiers": [
+            [
+                4,
+                100
+            ],
+            [
+                4,
+                80
+            ],
+            [
+                4,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "You kick into high gear when someone’s in trouble, inspiring them to overcome any obstacle.<br><br>When within <span class=\"Highlight1\">{0} meters</span> of a carried Survivor, you gain the <span class=\"Highlight2\">Haste</span> status effect, moving at <span class=\"Highlight3\">{1}%</span> increased speed. The carried Survivor’s wiggle speed is increased by <span class=\"Highlight4\">{2}%</span>.<br>",
+        "name": "Breakout",
+        "flavor": "“Come, we’re going to rip our way out of this.” -Yui Kimura ",
+        "id": 173,
+        "index": "BREAKOUT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUI_KIMURA",
+        "image": "iconPerks_breakout",
+        "tiers": [
+            [
+                6,
+                5,
+                20
+            ],
+            [
+                6,
+                6,
+                20
+            ],
+            [
+                6,
+                7,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "You’ve learned that a quiet approach is sometimes best. <br><br>Once you are unhooked or escape from the hook, <i>Off the Record</i> activates for <span class=\"Highlight1\">{0} seconds</span>. <br><br>While <i>Off the Record</i> is active, your aura will not be shown to The Killer and grunts of pain caused by injuries are reduced by <span class=\"Highlight2\">{1}%</span>.<br>",
+        "name": "Off the Record",
+        "flavor": "\"Trust me, I investigate thoroughly and discreetly.\" -Zarina Kassir",
+        "id": 174,
+        "index": "OFF_THE_RECORD",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ZARINA_KASSIR",
+        "image": "iconPerks_offTheRecord",
+        "tiers": [
+            [
+                60,
+                100
+            ],
+            [
+                70,
+                100
+            ],
+            [
+                80,
+                100
+            ]
+        ]
+    },
+    {
+        "description": "You’ve noticed that people pay attention to whatever makes the loudest noise.<br><br>After repairing a generator for at least <span class=\"Highlight1\">{0} seconds</span>, it will be highlighted to you with a yellow aura. The generator stays highlighted until it is fully repaired, or you repair a new generator, or enter a locker. <br><br>Entering any locker will trigger a loud noise indicator for The Killer at the highlighted generator's location. <br><li><i>Red Herring</i> can only be triggered once every <span class=\"Highlight2\">{1} seconds</span>.</li><br>",
+        "name": "Red Herring",
+        "flavor": "\"The news edit out what is burdensome and complex, which is the truth.\" -Zarina Kassir",
+        "id": 175,
+        "index": "RED_HERRING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ZARINA_KASSIR",
+        "image": "iconPerks_redHerring",
+        "tiers": [
+            [
+                3,
+                60
+            ],
+            [
+                3,
+                50
+            ],
+            [
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "You risk life and injury for others.<br><br><i>For the People</i> is only active while at full health.<br><br>Press the <i>Active Ability button</i> while healing another Survivor without a med kit to instantly heal them from dying to injured, or from injured to healthy.<br><br>You become injured and receive the <b>Broken</b> status effect for <span class=\"Highlight1\">{0} seconds</span>.<br><br>You become the Obsession.<br><br>Equipping this perk <b>decreases</b> your chances to be The Killer’s Obsession at the start of the trial.<br>",
+        "name": "For the People",
+        "flavor": "\"We can write our own story and decide how it really ends.\" -Zarina Kassir",
+        "id": 176,
+        "index": "FOR_THE_PEOPLE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ZARINA_KASSIR",
+        "image": "iconPerks_forThePeople",
+        "tiers": [
+            [
+                110
+            ],
+            [
+                100
+            ],
+            [
+                90
+            ]
+        ]
+    },
+    {
+        "description": "You have been through immense hardship and you’re stronger for it.<br><br>Gain the <b>Endurance</b> status effect for <span class=\"Highlight1\">{0} seconds</span> after being healed or having recovered from the dying state.<br>While cursed by a Hex, you can fully recover from the dying state.<br><br>This effect can only trigger once every <span class=\"Highlight2\">30 seconds.</span>",
+        "name": "Soul Guard",
+        "id": 177,
+        "index": "SOUL_GUARD",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CHERYL_MASON",
+        "image": "iconPerks_soulGuard",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                6
+            ],
+            [
+                8
+            ]
+        ]
+    },
+    {
+        "description": "It’s as if a latent part of yourself has awakened. You feel like you can reach out beyond yourself for assistance.<br><br>When you or the Obsession are injured, you both see each other's auras.<br><br>After completing a healing action on the Obsession, or having the Obsession complete a healing action on you, you both gain a <span class=\"Highlight1\">{1}%</span> <b>Haste</b> status effect until no longer within <span class=\"Highlight2\">16m</span> of each other.<br><br>Reduces the odds of being the Obsession.<br><br>If you are the Obsession, this perk deactivates.",
+        "name": "Blood Pact",
+        "id": 178,
+        "index": "BLOOD_PACT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CHERYL_MASON",
+        "image": "iconPerks_bloodPact",
+        "tiers": [
+            [
+                5
+            ],
+            [
+                6
+            ],
+            [
+                7
+            ]
+        ]
+    },
+    {
+        "description": "You’re accustomed to being hunted by malicious forces, and you’ve begun using it to your advantage.<br><br><i>Repressed Alliance</i> activates after repairing generators for a total of <span class=\"Highlight1\">{0} seconds.</span><br><br>When repairing a generator while the perk is active, press the <i>Active Ability button</i> to call upon The Entity to block the generator for <span class=\"Highlight2\">{1} seconds.</span> The perk deactivates.<br><br>Affected generators will be revealed by a white aura to all Survivors.",
+        "name": "Repressed Alliance ",
+        "id": 179,
+        "index": "REPRESSED_ALLIANCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CHERYL_MASON",
+        "image": "iconPerks_repressedAlliance",
+        "tiers": [
+            [
+                80,
+                30
+            ],
+            [
+                70,
+                30
+            ],
+            [
+                60,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "You’re remarkably focused on your means of escape.<br><br>You see generator’s auras within <span class=\"Highlight1\">{0} meters</span>.<br><br>Anytime a generator is completed, <i>Visionary</i> is disabled for <span class=\"Highlight2\">{1} seconds</span>.",
+        "name": "Visionary",
+        "id": 180,
+        "index": "VISIONARY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FELIX_RICHTER",
+        "image": "iconPerks_visionary",
+        "tiers": [
+            [
+                32,
+                20
+            ],
+            [
+                32,
+                18
+            ],
+            [
+                32,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "You refuse to fail, even during your darkest hour.<br><br>For each injured, hooked, or dying Survivor, increase the speed of your healing and unhook actions by <span class=\"Highlight1\">{0}%</span>.<br>",
+        "name": "Desperate Measures",
+        "flavor": "\"When they come with a wrecking ball, build stronger walls.” —Felix Richter",
+        "id": 181,
+        "index": "DESPERATE_MEASURES",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FELIX_RICHTER",
+        "image": "iconPerks_desperateMeasures",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                12
+            ],
+            [
+                14
+            ]
+        ]
+    },
+    {
+        "description": "You know how to get the most out of your tools.<br><br>Once per trial, a depleted item will refill <span class=\"Highlight1\">{0}%</span> of its charges after <span class=\"Highlight2\">{1} seconds</span>.<br>",
+        "name": "Built to Last",
+        "flavor": "\"Architecture is the soul of civilization.” —Felix Richter",
+        "id": 182,
+        "index": "BUILT_TO_LAST",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "FELIX_RICHTER",
+        "image": "iconPerks_builtToLast",
+        "tiers": [
+            [
+                30,
+                10
+            ],
+            [
+                40,
+                10
+            ],
+            [
+                50,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "You have a careful eye that notices what many overlook.<br><br>Start the trial with <span class=\"Highlight1\">{0} tokens</span>. When a chest has already been opened, consume a token to rummage through it for an item. Rummaging can only be performed once per chest.<br><br>You rummage through chests <span class=\"Highlight2\">{1}%</span> faster.",
+        "name": "Appraisal",
+        "id": 183,
+        "index": "APPRAISAL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ELODIE_RAKOTO",
+        "image": "iconPerks_appraisal",
+        "tiers": [
+            [
+                3,
+                40
+            ],
+            [
+                3,
+                60
+            ],
+            [
+                3,
+                80
+            ]
+        ]
+    },
+    {
+        "description": "Your adventurous lifestyle requires moments of crafty misdirection.<br><br>Interacting with a locker while sprinting will trigger a loud noise notification at your location and cause you to leave no scratch marks for <span class=\"Highlight1\">{0} seconds</span>.<br><br>You no longer enter lockers while sprinting and while this perk is active.<br><br><i>Deception</i> can only be triggered once every <span class=\"Highlight2\">{1} seconds</span>.",
+        "name": "Deception",
+        "id": 184,
+        "index": "DECEPTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ELODIE_RAKOTO",
+        "image": "iconPerks_deception",
+        "tiers": [
+            [
+                3,
+                60
+            ],
+            [
+                3,
+                50
+            ],
+            [
+                3,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "You’ve never given up and you’re not about to start now.<br><br>While being carried by The Killer, reaching <span class=\"Highlight1\">{0}%</span> wiggle progress activates <i>Power Struggle</i>. While <i>Power Struggle</i> is active, you can drop a nearby, standing pallet to stun The Killer.<br>",
+        "name": "Power Struggle",
+        "flavor": "“I relied on others to protect me once and I lost everything. Never again.” —Élodie Rakoto",
+        "id": 185,
+        "index": "POWER_STRUGGLE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ELODIE_RAKOTO",
+        "image": "iconPerks_powerStruggle",
+        "tiers": [
+            [
+                35
+            ],
+            [
+                30
+            ],
+            [
+                35
+            ]
+        ]
+    },
+    {
+        "description": "Sometimes the sacrifice of others is necessary to get ahead.<br><br>Whenever another Survivor is hooked, you gain <span class=\"Highlight1\">{0} tokens.</span>You consume all tokens after a great Skill Check on a generator. Each token consumed grants a <span class=\"Highlight2\">{1}%</span> bonus progression for great Skill Checks when repairing generators.<br>",
+        "name": "Fast Track",
+        "flavor": "\"The weak are sacrificed first. It's nature, it's business... it's the truth most refuse to face.\" — Yun-Jin",
+        "id": 186,
+        "index": "FAST_TRACK",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUN_JIN_LEE",
+        "image": "iconPerks_FastTrack",
+        "tiers": [
+            [
+                1,
+                9
+            ],
+            [
+                2,
+                18
+            ],
+            [
+                3,
+                27
+            ]
+        ]
+    },
+    {
+        "description": "When your rival makes a mistake, you seize the opportunity.<br><br>After stunning the Killer with a pallet, break into a sprint at <span class=\"Highlight1\">{0}%</span> your normal running speed for <span class=\"Highlight2\">{1} seconds.</span><br>Causes the <b>Exhausted</b> status effect for <span class=\"Highlight3\">{2} seconds.</span><br>This perk cannot be used while <b>Exhausted</b>.<br>",
+        "name": "Smash Hit",
+        "flavor": "\"I've dealt with psychopaths in suits. You're just uglier and worse dressed.\" —Yun-Jin",
+        "id": 187,
+        "index": "SMASH_HIT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUN_JIN_LEE",
+        "image": "iconPerks_SmashHit",
+        "tiers": [
+            [
+                150,
+                4,
+                60
+            ],
+            [
+                150,
+                4,
+                50
+            ],
+            [
+                150,
+                4,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Life's unforgiving. Sometimes it's best to look out for yourself.<br><br>Whenever another Survivor within <span class=\"Highlight1\">{0} meters</span> of you gets hit by a basic attack or a special attack, <i>Self-Preservation</i> activates.<br>Your Scratch Marks, Pools of Blood and Grunts of Pain are hidden for <span class=\"Highlight2\">{1} seconds.</span><br>",
+        "name": "Self-Preservation",
+        "flavor": "\"Something I learned in the industry: when the axe is swinging, keep your head down.\" — Yun-Jin",
+        "id": 188,
+        "index": "SELF_PRESERVATION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "YUN_JIN_LEE",
+        "image": "iconPerks_Self-Preservation",
+        "tiers": [
+            [
+                16,
+                6
+            ],
+            [
+                16,
+                8
+            ],
+            [
+                16,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "You know how to withstand an enemy stronger than you, and it starts with hunting down and knocking out their support.<br><br>You cleanse totems <b>20%</b> faster. After cleansing a totem, you see the aura of the furthest totem from you for <span class=\"Highlight1\">{0} seconds</span> and you gain an additional <span class=\"Highlight2\">{1}%</span> stackable speed bonus to cleansing totems for the remainder of the trial.<br><br><span class= \"FlavorText\">\"I don't mind a little detective work.\" —Jill Valentine</span>",
+        "name": "Counterforce",
+        "id": 189,
+        "index": "COUNTERFORCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JILL_VALENTINE",
+        "image": "iconPerks_Counterforce",
+        "tiers": [
+            [
+                2,
+                20
+            ],
+            [
+                3,
+                20
+            ],
+            [
+                4,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "You've come back from near impossible odds... and you'll do it again.<br><br>Gain <span class=\"Highlight1\">{0}%</span> healing progress instantly after being unhooked or unhooking yourself.<br><br><span class= \"FlavorText\">\"It's my turn, bitch.\" —Jill Valentine</span>",
+        "name": "Resurgence",
+        "id": 190,
+        "index": "RESURGENCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JILL_VALENTINE",
+        "image": "iconPerks_Resurgence",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                45
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "When direct combat isn't an option, you still find ways to strike back.<br><br><i>Blast Mine</i> activates after completing a total of <span class=\"Highlight1\">{0}%</span> worth of repair progress on generators.<br>After repairing a generator for at least <span class=\"Highlight2\">{1} seconds</span>, press the <i>Ability button</i> to install a trap which stays active for <span class=\"Highlight3\">{2} seconds</span>. Affected generators will be revealed to all Survivors by a yellow aura. Only one trap can be active on a generator.<br><li>When the Killer damages a trapped generator, the trap explodes, stunning them and blinding anyone nearby. <i>Blast Mine</i> is then deactivated.</li><br><br><span class= \"FlavorText\">\"You want S.T.A.R.S.? I'll give you S.T.A.R.S.! \"  —Jill Valentine</span>",
+        "name": "Blast Mine",
+        "id": 191,
+        "index": "BLAST_MINE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "JILL_VALENTINE",
+        "image": "iconPerks_blastMine",
+        "tiers": [
+            [
+                66,
+                3,
+                35
+            ],
+            [
+                66,
+                3,
+                40
+            ],
+            [
+                66,
+                3,
+                45
+            ]
+        ]
+    },
+    {
+        "description": "Pain hurts you as much as anyone, but you'd prefer others don't know that.<br><br>When healing, you and the Survivor you're healing make no noise, including grunts of pain. There is no noise notification on failed healing skill checks and healing regresses by only <span class=\"Highlight1\">{0}%.</span><br><br><span class= \"FlavorText\">\"I can do this.\" —Leon S. Kennedy</span>",
+        "name": "Bite the Bullet",
+        "id": 192,
+        "index": "BITE_THE_BULLET",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEON_SCOTT_KENNEDY",
+        "image": "iconPerks_BiteTheBullet",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                2
+            ],
+            [
+                1
+            ]
+        ]
+    },
+    {
+        "description": "You've adapted to a world in chaos and making what you can from the debris.<br><br>After completing <span class=\"Highlight1\"> {0}%</span> progress on any generator, <i>Flashbang</i> activates.<br>Enter a locker while empty-handed and press the Ability button to craft a flash grenade.<br><li>1 charge.</li><li>Detonates with a loud bang and flashing light.</li><li>Creates a noise notification.</li><li>Can be used to distract or blind.</li><br>You leave the flash grenade behind when escaping the trial.<br><br><span class= \"FlavorText\">\"Get outta my face!\" —Leon S. Kennedy</span>",
+        "name": "Flashbang",
+        "id": 193,
+        "index": "FLASHBANG",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEON_SCOTT_KENNEDY",
+        "image": "iconPerks_Flashbang",
+        "tiers": [
+            [
+                70
+            ],
+            [
+                60
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "You keep a careful eye on objectives when they're slipping away.<br><br>Complete <span class=\"Highlight1\">{0}</span> good or great Skill Checks while repairing generators to activate <i>Rookie Spirit</i> for the remainder of the trial.<br>Once active, you can see the aura of regressing generators.<br><br><span class= \"FlavorText\">\"I'll stop this, lieutenant. I promise.\" —Leon S. Kennedy</span>",
+        "name": "Rookie Spirit",
+        "id": 194,
+        "index": "ROOKIE_SPIRIT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEON_SCOTT_KENNEDY",
+        "image": "iconPerks_RookieSpirit",
+        "tiers": [
+            [
+                5
+            ],
+            [
+                4
+            ],
+            [
+                3
+            ]
+        ]
+    }
+]

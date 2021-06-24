@@ -1,0 +1,503 @@
+[
+    {
+        "description": "Lente fina e larga, em perfeitas condições. Feita para espalhar o feixe da Lanterna, mas reduzindo o alcance da luz.<br><li><b>Alarga moderadamente</b> o feixe da Lanterna.</li><li><b>Diminui ligeiramente</b> o alcance do feixe da Lanterna.</li>",
+        "name": "Lentes Largas",
+        "id": 1,
+        "index": "WIDE_LENS",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_wideLens"
+    },
+    {
+        "description": "Lâmpada minúscula de Lanterna, porém de maior voltagem, que produz um feixe mais claro e poderoso.<br><li><b>Estreita ligeiramente</b> o raio do feixe da Lanterna.</li><li><b>Aumenta ligeiramente</b> o brilho visual do feixe.</li><li><b>Aumenta ligeiramente</b> a duração da Cegueira.</li>",
+        "name": "Lâmpada",
+        "flavor": "\"Nem mesmo a luz mais forte consegue atravessar a escuridão da Névoa Negra.\"",
+        "id": 2,
+        "index": "POWER_BULB",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_powerBulb"
+    },
+    {
+        "description": "Tira de couro enrolada na Lanterna para dar mais aderência.<br><li><b>Aumenta ligeiramente</b> a precisão da Lanterna.</li>",
+        "name": "Cabo de Couro",
+        "flavor": "\"Muitos caíram por causa de mãos suadas.\"",
+        "id": 3,
+        "index": "LEATHER_GRIP",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_leatherGrip"
+    },
+    {
+        "description": "Bateria comum de marca desconhecida.<br><li>Adiciona <b>2 s</b> de uso a uma Lanterna comum.</li>",
+        "name": "Bateria",
+        "flavor": "\"Mais uma bateria quase zerada.\"",
+        "id": 4,
+        "index": "BATTERY",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_battery"
+    },
+    {
+        "description": "Combinação de lente e refletor capaz de ampliar o feixe de uma Lanterna.<br><li><b>Aumenta moderadamente</b> o brilho visual do feixe.</li><li><b>Aumenta moderadamente</b> a duração da Cegueira.</li>",
+        "name": "Óptica RIT",
+        "flavor": "\"Que a luz os expulse do refúgio das sombras.\"",
+        "id": 5,
+        "index": "TIR_OPTIC",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_tirOptic"
+    },
+    {
+        "description": "Um apoio emborrachado feito especialmente para Lanternas.<br><li><b>Aumenta moderadamente</b> a precisão da Lanterna.</li>",
+        "name": "Apoio Emborrachado",
+        "id": 6,
+        "index": "RUBBER_GRIP",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_rubberGrip"
+    },
+    {
+        "description": "Filamento de lâmpada projetado para prolongar a vida útil da bateria de uma Lanterna.<br><li><b>Diminui moderadamente</b> o consumo da bateria da Lanterna.</li>",
+        "name": "Filamento de Amperagem Baixa",
+        "id": 7,
+        "index": "LOW_AMP_FILAMENT",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_threadedFilament"
+    },
+    {
+        "description": "Bateria de \"potência industrial\".<br><li>Adiciona <b>4 s</b> de uso a uma Lanterna comum.</li>",
+        "name": "Bateria Pesada",
+        "flavor": "\"Uma bateria feita para durar 8 horas dura apenas alguns segundos na Névoa Negra.\"",
+        "id": 8,
+        "index": "HEAVY_DUTY_BATTERY",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_heavyDutyBattery"
+    },
+    {
+        "description": "Lente grossa de vidro que foca a luz da Lanterna para deixá-la mais forte.<br><li><b>Aumenta ligeiramente</b> o alcance do feixe da Lanterna.</li><li><b>Estreita ligeiramente</b> o raio do feixe da Lanterna.</li><li><b>Aumenta ligeiramente</b> o brilho visual do feixe.</li><li><b>Aumenta ligeiramente</b> a duração da Cegueira.</li>",
+        "name": "Lente de Foco",
+        "id": 9,
+        "index": "FOCUS_LENS",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_focusLens"
+    },
+    {
+        "description": "Modelo recente e mais duradouro de bateria.<br><li>Adiciona <b>6 s</b> de uso a uma Lanterna comum.</li>",
+        "name": "Bateria de Longa Duração",
+        "id": 10,
+        "index": "LONG_LIFE_BATTERY",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconAddon_longLifeBattery"
+    },
+    {
+        "description": "Lâmpada química que gera uma luz clara e intensa.<br><li><b>Aumenta consideravelmente</b> o brilho visual do feixe.</li><li><b>Aumenta consideravelmente</b> a duração da Cegueira.</li>",
+        "name": "Lâmpada de Halogêneo Intensa",
+        "id": 11,
+        "index": "INTENSE_HALOGEN",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconAddon_intenseHalogen"
+    },
+    {
+        "description": "Uma lente larga feita de safira, intensifica o poder e aumenta o alcance do feixe da lanterna.<br><li><b>Abre moderadamente</b> o feixe da lanterna.</li><li><b>Aumenta ligeiramente</b> o feixe da lanterna.</li><li><b>Aumenta moderadamente</b> o brilho visual do feixe.</li><li><b>Aumenta moderadamente</b> a duração da cegueira.</li>",
+        "name": "Lente de Safira Superior",
+        "id": 12,
+        "index": "HIGH_END_SAPPHIRE_LENS",
+        "type": 1,
+        "rarity": 3,
+        "image": "iconAddon_highEndSapphireLens"
+    },
+    {
+        "description": "Lâmpada completamente opaca e pesada, de origem desconhecida. Emite uma luz fraca mesmo quando desligada.<br><li><b>Aumenta incrivelmente</b> o brilho visual do feixe.</li><li><b>Aumenta incrivelmente</b> a duração da Cegueira.</li><li><b>Aumenta ligeiramente</b> o consumo de bateria da Lanterna.</li>",
+        "name": "Lâmpada Esquisita",
+        "id": 13,
+        "index": "ODD_BULB",
+        "type": 1,
+        "rarity": 4,
+        "image": "iconAddon_oddBulb"
+    },
+    {
+        "description": "Corda com nós apertados, usada em rituais de oração. Pode ser amarrada à Chave.<br><li>Adiciona <b>10 s</b> de uso à Chave.</li>",
+        "name": "Cordão de Oração",
+        "flavor": "\"Reze o quanto quiser, suas palavras se perderão no meio da Névoa.\"",
+        "id": 14,
+        "index": "PRAYER_ROPE",
+        "type": 2,
+        "rarity": 0,
+        "image": "iconAddon_prayerRope"
+    },
+    {
+        "description": "Pérola branca porosa e arranhada. Uma argola minúscula permite prender a pérola à Chave.<br><li><b>Aumenta moderadamente</b> o alcance da habilidade de leitura de auras da Chave.</li>",
+        "name": "Pérola Arranhada",
+        "id": 15,
+        "index": "SCRATCHED_PEARL",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_scratchedPearl"
+    },
+    {
+        "description": "Cordão de contas foscas de tamanhos variados, usadas em rituais de oração. Pode ser amarrado à Chave.<br><li>Adiciona <b>15 s</b> de uso à Chave.</li>",
+        "name": "Terço",
+        "id": 16,
+        "index": "PRAYER_BEADS",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_prayerBeads"
+    },
+    {
+        "description": "Uma medalha de latão bastante gasta. Se já teve uma inscrição ou desenho gravado, a figura desapareceu completamente. Pode ser presa à Chave para ampliar sua habilidade de ler auras.<br><li>Revela <b>auras de Sobreviventes</b> dentro de um alcance de <b>24 m</b>.</li>",
+        "name": "Medalha Corroída",
+        "id": 17,
+        "index": "ERODED_TOKEN",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_tokenErroded"
+    },
+    {
+        "description": "Uma medalha de ouro com uma aparência gasta. Ambos os lados são lisos e sem nenhuma inscrição. Pode ser presa à Chave para aprimorar a habilidade de ler auras.<br><li>Revela <b>aura de Sobreviventes</b> quando estiver a <b>48 m</b> de alcance.</li>",
+        "name": "Medalha de Ouro",
+        "id": 18,
+        "index": "GOLD_TOKEN",
+        "type": 2,
+        "rarity": 2,
+        "image": "iconAddon_tokenGold"
+    },
+    {
+        "description": "Um chaveiro de aparência ordinária com um estranho brilho azul-escuro. O chaveiro vincula o portador à Chave, prevenindo a sua perda mesmo nos momentos mais sombrios.<br><li>Perca esse complemento ao morrer, e não a chave.</li>",
+        "name": "Anel de Tecido",
+        "id": 19,
+        "index": "WEAVED_RING",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_weavedRing"
+    },
+    {
+        "description": "Pedaço de vidro opaco que emite um ruído monótono, porém vibrante. Ao usar a Chave para abrir a Escotilha, o símbolo de vidro impede que a Chave se quebre, canalizando a energia da Névoa para dentro do vidro.<br><li>Ao destrancar a Escotilha, no lugar de perder a Chave, você perderá esse complemento.</li>",
+        "name": "Vidro Leitoso",
+        "id": 20,
+        "index": "MILKY_GLASS",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_milkyGlass"
+    },
+    {
+        "description": "Um âmbar vermelho-sangue com veias pretas. O âmbar é quente ao toque. Pode ser anexado à Chave, seu uso aprimora a habilidade de ler auras da Chave.<br><li>Revela <b>a aura do Assassino</b> quando estiver a <b>32 m</b> de alcance <b>a um grande custo</b> da energia da Chave.</li>",
+        "name": "Âmbar Ensanguentado",
+        "id": 21,
+        "index": "BLOOD_AMBER",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_bloodAmber"
+    },
+    {
+        "description": "Pedaço rasgado de um material fibroso. Vê-se no papel parte de um Mapa desbotado que, sem o resto, é inútil.<br><li>Adiciona <b>5 s de carga</b> para qualquer Mapa.</li>",
+        "name": "Adendo para o Mapa",
+        "id": 22,
+        "index": "MAP_ADDENDUM",
+        "type": 3,
+        "rarity": 0,
+        "image": "iconAddon_mapAddendum"
+    },
+    {
+        "description": "Um pequeno cabo elétrico. Ambas as extremidades estão muito danificadas, como se tivessem sido arrancadas à força de seu local original. Pode ser amarrado em um mapa para melhorar sua capacidade de leitura da aura.<br><li>Desbloqueia a habilidade de rastrear os <b>Portões de Saída</b>.</li>",
+        "name": "Fio Amarelo",
+        "id": 23,
+        "index": "YELLOW_WIRE",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_ropeYellow"
+    },
+    {
+        "description": "Carimbo de madeira com uma placa de borracha usado para marcar documentos. Não se sabe como ou por quem esse carimbo foi usado originalmente. Pode ser usado em Mapas.<br><li><b>Aumenta moderadamente</b> o alcance de rastreamento do Mapa.</li>",
+        "name": "Estampa Incomum",
+        "id": 24,
+        "index": "UNUSUAL_STAMP",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_stampUnusual"
+    },
+    {
+        "description": "Substância viscosa e translúcida, com um tom de lavanda. Essa geleia de origem desconhecida tem grande resistência ao calor.<br><li><b>Desacelera moderadamente</b> a velocidade com que o Mapa se queima.</li>",
+        "name": "Geleia Retardadora",
+        "id": 25,
+        "index": "RETARDANT_JELLY",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_retardantJelly"
+    },
+    {
+        "description": "Um barbante áspero e duro de cor vermelho escuro. Pode ser amarrado em volta do mapa para encantar sua habilidade de ler auras.<br><li>Desbloqueia a habilidade de rastrear <b>pertences do Assassino</b>.</li>",
+        "name": "Barbante Vermelho",
+        "id": 26,
+        "index": "RED_TWINE",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_ropeRed"
+    },
+    {
+        "description": "Uma conta estranha com um aro de ouro usada para aprimorar o mapa e marcar uma localização específica. O anel emite uma energia que pode ser sentida e vista pelos Sobreviventes.<br><li>Desbloqueia a Habilidade do Marcador na ação secundária.</li><li>Cria um marcador que pode ser visto por todos os Sobreviventes.</li>",
+        "name": "Conta de Vidro",
+        "id": 27,
+        "index": "GLASS_BEAD",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_beadGlass"
+    },
+    {
+        "description": "Selo esculpido em madeira clara e resistente. A inscrição que se encontra na base é incompreensível: \"kw'zvre'od\". Pode ser usado com um Mapa.<br><li><b>Aumenta consideravelmente</b> o alcance de rastreamento do Mapa.</li>",
+        "name": "Selo Estranho",
+        "id": 28,
+        "index": "ODD_STAMP",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconAddon_stampOdd"
+    },
+    {
+        "description": "Um cordão preto liso com uma aparência suave. Pode ser amarrado em um mapa para melhorar sua capacidade de leitura da aura.<br><li>Desbloqueia a habilidade de rastrear <b>Escotilha</b>.</li>",
+        "name": "Cordão de Seda Negra",
+        "id": 29,
+        "index": "BLACK_SILK_CORD",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconAddon_ropeBlack"
+    },
+    {
+        "description": "Um complexo conjunto de lentes aplicado a um aparelho surpreendentemente complicado. As engrenagens que controlam o foco das lentes se movem sozinhas como se focalizassem algo invisível para olhos humanos.<br><li>Todo Sobrevivente vê a aura gerada pelo mapa quando o dono ativa o mecanismo.</li>",
+        "name": "Conta de Cristal",
+        "id": 30,
+        "index": "CRYSTAL_BEAD",
+        "type": 3,
+        "rarity": 3,
+        "image": "iconAddon_beadCrystal"
+    },
+    {
+        "description": "Luvas médicas descartáveis que evitam a contaminação cruzada.<br><li><b>Aumentam moderadamente</b> o bônus de progresso ao realizar Ótimos Teste de Perícia.</li>",
+        "name": "Luvas de Borracha",
+        "id": 31,
+        "index": "RUBBER_GLOVES",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_gloves"
+    },
+    {
+        "description": "Fita médica usada para fechar pequenas feridas.<br><li><b>Aumenta ligeiramente</b> a velocidade de cura.</li>",
+        "name": "Bandagem Borboleta",
+        "id": 32,
+        "index": "BUTTERFLY_TAPE",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_butterflyTape"
+    },
+    {
+        "description": "Um pacote de ataduras comuns em kits de primeiros socorros.<br><li>Adiciona <b>8 cargas</b> ao Kit Médico.</li>",
+        "name": "Ataduras",
+        "id": 33,
+        "index": "BANDAGES",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_bandages"
+    },
+    {
+        "description": "Esponja comum, usada para estancar sangramentos e facilitar o acesso a feridas.<br><li><b>Aumenta consideravelmente</b> o bônus de progresso ao realizar Ótimos Testes de Perícia.</li>",
+        "name": "Esponja",
+        "id": 34,
+        "index": "SPONGE",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_sponge"
+    },
+    {
+        "description": "Pacote de bandagens que grudam sem precisar de clipes. Elas requerem menos reajustes e proporcionam uma cura mais rápida.<br><li>Adiciona <b>8 cargas</b> ao Kit Médico.</li><li><b>Aumenta ligeiramente</b> a velocidade de cura.</li>",
+        "name": "Tecido Autoaderente",
+        "id": 35,
+        "index": "SELF_ADHERENT_WRAP",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_selfAdherentWrap"
+    },
+    {
+        "description": "Não é exatamente um dispositivo médico, porém pode ser usado para fechar um ferimento de forma rápida e dolorosa.<br><li><b>Aumenta moderadamente</b> a chance de ativar um Teste de Perícia.</li><li>Concede <b>100% de Pontos de Sangue adicionais</b> a cada sucesso em Ótimos Testes de Perícia.</li><li><b>Aumenta ligeiramente</b> a velocidade de cura.</li>",
+        "name": "Linha e Agulha",
+        "id": 36,
+        "index": "NEEDLE_AND_THREAD",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_needAndThread"
+    },
+    {
+        "description": "Tesouras feitas para cortar tecidos facilmente.<br><li><b>Aumentam moderadamente</b> a velocidade de cura.</li>",
+        "name": "Tesouras Médicas",
+        "id": 37,
+        "index": "MEDICAL_SCISSORS",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_scissors"
+    },
+    {
+        "description": "Gaze esterilizada útil para tratar ferimentos diversos. Item comum em prontos-socorros.<br><li>Adiciona <b>12 cargas</b> ao Kit Médico.</li>",
+        "name": "Rolo de Gaze",
+        "id": 38,
+        "index": "GAUZE_ROLL",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_gauseRoll"
+    },
+    {
+        "description": "Um dispositivo médico usado para fechar e segurar tecidos corporais. Apesar de muito eficiente, a sutura cirúrgica é difícil de usar.<br><li><b>Aumenta consideravelmente</b> a chance de ativar um teste de perícia.</li><li>Concede <b>150% de Pontos de Sangue</b> adicionais por sucessos em ótimos testes de perícia.</li><li><b>Aumenta ligeiramente</b> a velocidade de cura.</li>",
+        "name": "Sutura Cirúrgica",
+        "id": 39,
+        "index": "SURGICAL_SUTURE",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_surgicalSuture"
+    },
+    {
+        "description": "Um conjunto de ataduras com gel para tratar feridas infeccionadas.<br><li>Adiciona <b>16 cargas</b> ao Kit Médico.</li>",
+        "name": "Compressas de Gel",
+        "id": 40,
+        "index": "GEL_DRESSINGS",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_gelDressings"
+    },
+    {
+        "description": "Compressa de alta absorção que impede o vazamento de fluidos corporais quando aplicada a grandes ferimentos abdominais.<br><li><b>Aumenta consideravelmente</b> a velocidade de cura.</li><li><b>Diminui as cargas</b> em <b>8</b>.</li>",
+        "name": "Compressa Abdominal",
+        "id": 41,
+        "index": "ABDOMINAL_DRESSING",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_abdominalDressing"
+    },
+    {
+        "description": "Pó branco com propriedades coagulantes. Aplique o agente a um machucado para parar a hemorragia.<br><li>Aperte o botão de <i>Ação Secundária</i> ao curar com o Kit Médico para usar o Agente Hemostático.</li><li>Ao receber o <i>Agente Hemostático</i>, Sobreviventes feridos ganham o efeito do estado <b>Resistência</b> por <b>8 s</b>.<li>Consome o Kit Médico ao usar.</li>",
+        "name": "Agente Hemostático",
+        "id": 42,
+        "index": "STYPTIC_AGENT",
+        "type": 4,
+        "rarity": 3,
+        "image": "iconAddon_stypticAgent"
+    },
+    {
+        "description": "Substância anti-hemorrágica que interrompe o sangramento em questão de segundos.<br><li>Aperte o botão de <i>Ação Secundária</i> ao curar com o Kit Médico para usar a Seringa Anti-Hemorrágica.</li><li>O Sobrevivente afetado ganhará um estado de saúde passivamente <b>16</b> s após o uso.</li><li>O tempo necessário pode ser modificado por vantagens, itens e complementos que afetem as <i>Velocidades de Cura</i>.</li><li>O efeito é cancelado caso o Sobrevivente mude de estado de saúde ou seja carregado.</li><li>Consome o Kit Médico ao usar.</li>",
+        "name": "Seringa Anti-Hemorrágica",
+        "id": 43,
+        "index": "ANTI_HEMORRHAGIC_SYRINGE",
+        "type": 4,
+        "rarity": 4,
+        "image": "iconAddon_syringe"
+    },
+    {
+        "description": "Ferramenta útil para fixar mangueiras ou segurar fios e impedir danos ou ferimentos.<br><li>Reduz os barulhos de seus reparos e o alcance sonoro deles em 8 m.</li>",
+        "name": "Alicate de Mola",
+        "id": 44,
+        "index": "SPRING_CLAMP",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_springClamp"
+    },
+    {
+        "description": "Molas, parafusos e engrenagens. Um monte de tralha inútil.<br><li>Adiciona <b>8 cargas</b> à Caixa de Ferramentas.</li>",
+        "name": "Sucata",
+        "id": 45,
+        "index": "SCRAPS",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_scraps"
+    },
+    {
+        "description": "Trapo comum. Limpo demais para não ser suspeito.<br><li><b>Aumenta ligeiramente</b> a velocidade de reparo da Caixa de Ferramentas.</li>",
+        "name": "Pano Limpo",
+        "id": 46,
+        "index": "CLEAN_RAG",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_cleanRag"
+    },
+    {
+        "description": "Carretel portátil, mas pesado, de fio de cobre.<br><li>Adiciona <b>12 cargas</b> à Caixa de Ferramentas.</li>",
+        "name": "Bobina de Arame",
+        "id": 47,
+        "index": "WIRE_SPOOL",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_spoolOfWire"
+    },
+    {
+        "description": "O tornel fornece acesso e flexibilidade para parafusos que estão fora do alcance, dentro de dispositivos mecânicos.<br><li><b>Aumenta moderadamente</b> a velocidade de reparo da Caixa de Ferramentas.</li>",
+        "name": "Soquete Móvel",
+        "id": 48,
+        "index": "SOCKET_SWIVELS",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_socketSwivels"
+    },
+    {
+        "description": "Luvas grossas que diminuem a destreza com as mãos, mas as protegem contra ferimentos.<br><li>Impede que o Assassino seja notificado ao sabotar um gancho com a caixa de ferramentas.</li>",
+        "name": "Luvas de Proteção",
+        "id": 49,
+        "index": "PROTECTIVE_GLOVES",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_protectiveGloves"
+    },
+    {
+        "description": "Alguém com pressa pintou o que parecem ser instruções de reparo nesta casca de madeira.<br><li>Elimina testes de perícia ao fazer consertos com a caixa de ferramentas.</li>",
+        "name": "Instruções",
+        "id": 50,
+        "index": "INSTRUCTIONS",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_instructions"
+    },
+    {
+        "description": "Uma chave inglesa ajustável com um cabo firme. Imprescindível em qualquer caixa de ferramentas.<br><li>Ganchos sabotados com a caixa de ferramentas levam 15 s a mais para reaparecer.</li>",
+        "name": "Chave Inglesa",
+        "id": 51,
+        "index": "GRIP_WRENCH",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_gripWrench"
+    },
+    {
+        "description": "Ferramenta de corte rudimentar feita de um fio de metal irregular e duas alças de madeira.<br><li><b>Aumenta ligeiramente</b> a velocidade de sabotagem da Caixa de Ferramentas.</li>",
+        "name": "Fio de Corte",
+        "id": 52,
+        "index": "CUTTING_WIRE",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_cuttingWire"
+    },
+    {
+        "description": "Serrinha de mão, montada com uma lâmina de cortar metal.<br><li><b>Aumenta moderadamente</b> a velocidade de sabotagem da Caixa de Ferramentas.</li>",
+        "name": "Serrote",
+        "id": 53,
+        "index": "HACKSAW",
+        "type": 5,
+        "rarity": 2,
+        "image": "iconAddon_metalSaw"
+    },
+    {
+        "description": "Esta intrincada peça mecânica parece estranhamente fora de lugar. É limpa e brilhante como se viesse direto da fábrica.<br><li>A ação <b>Reparo com Caixa de Ferramentas</b> é substituída por <b>Instalar Peça Nova em Folha</b>.</li><li>A instalação da <i>Peça Nova em Folha</i> vai reparar automaticamente <b>15%</b> do gerador em <b>5 s</b>.</li><li>Durante a instalação, você vai encontrar <b>2 testes de perícia difíceis</b>.</li><li>Passar em um teste de perícia resulta em <b>5% de progresso de reparo de gerador</b> adicional até o total de <b>25% de progresso de reparo de gerador</b>.</li><li><i>Este complemento é consumido ao usá-lo</i></li>",
+        "name": "Peça Nova em Folha",
+        "id": 54,
+        "index": "BRAND_NEW_PART",
+        "type": 5,
+        "rarity": 4,
+        "image": "iconAddon_brandNewPart"
+    },
+    {
+        "description": "Aliança de casamento gravada que emergiu da Névoa e ressoa com uma energia indescritível e incompreensível. <li>Revela a aura da Obsessão.</li><li>Diminui suas chances de ser a Obsessão do Assassino.</li><li>Acumulativo</li>",
+        "name": "Aliança de Casamento Exclusiva",
+        "id": 55,
+        "index": "UNIQUE_WEDDING_RING",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_uniqueRing"
+    }
+]

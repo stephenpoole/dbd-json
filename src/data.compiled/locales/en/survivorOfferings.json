@@ -1,0 +1,236 @@
+[
+    {
+        "description": "Grants <b>50%</b> bonus Bloodpoints in the Objective category.<br><li>Personal.</li><li>Stacks.</li>",
+        "name": "Bog Laurel Sachet",
+        "flavor": "\"A palm-sized hand-sewn sachet filled with dry leaves. Releases a faint tea-like aroma.\"",
+        "id": 50,
+        "index": "BOG_LAUREL_SACHET",
+        "rarity": 0,
+        "image": "iconFavors_bogLaurelSachet"
+    },
+    {
+        "description": "Grants <b>75%</b> bonus Bloodpoints in the Objective category.<br><li>Personal.</li><li>Stacks.</li>",
+        "name": "Fresh Bog Laurel",
+        "flavor": "\"A beautiful purple flower that grows in the midst of the tainted swamp. Releases a mild tea-like aroma.\"",
+        "id": 51,
+        "index": "FRESH_BOG_LAUREL",
+        "rarity": 1,
+        "image": "iconFavors_freshBogLaurel"
+    },
+    {
+        "description": "Grants <b>100%</b> bonus Bloodpoints in the Objective category.<br><li>Personal.</li><li>Stacks.</li>",
+        "name": "Fragrant Bog Laurel",
+        "flavor": "\"A beautiful purple flower that grows in the midst of the tainted swamp. Releases a strong tea-like aroma.\"",
+        "id": 52,
+        "index": "FRAGRANT_BOG_LAUREL",
+        "rarity": 2,
+        "image": "iconFavors_fragrantBogLaurel"
+    },
+    {
+        "description": "Grants <b>50%</b> bonus Bloodpoints in the Survival category.<br><li>Personal.</li><li>Stacks.</li>",
+        "name": "Crispleaf Amaranth Sachet",
+        "flavor": "\"A palm-sized hand-sewn sachet stuffed with bead-like grain. Amaranth is said to be everlasting.\"",
+        "id": 53,
+        "index": "CRISPLEAF_AMARANTH_SACHET",
+        "rarity": 0,
+        "image": "iconFavors_crispleafAmaranthSachet"
+    },
+    {
+        "description": "Grants <b>75%</b> bonus Bloodpoints in the Survival category.<br><li>Personal.</li><li>Stacks.</li>",
+        "name": "Fresh Crispleaf Amaranth",
+        "flavor": "\"The pale green leaves are highlighted with peculiar crimson veins. Amaranth is said to be everlasting.\"",
+        "id": 54,
+        "index": "FRESH_CRISPLEAF_AMARANTH",
+        "rarity": 1,
+        "image": "iconFavors_freshCrispleafAmaranth"
+    },
+    {
+        "description": "Grants <b>100%</b> bonus Bloodpoints in the Survival category.<br><li>Personal.</li><li>Stacks.</li>",
+        "name": "Fragrant Crispleaf Amaranth",
+        "flavor": "\"The pale green leaves are highlighted with peculiar crimson veins. Releases a strong radish aroma.\"",
+        "id": 55,
+        "index": "FRAGRANT_CRISPLEAF_AMARANTH",
+        "rarity": 2,
+        "image": "iconFavors_fragrantCrispleafAmaranth"
+    },
+    {
+        "description": "Grants <b>50%</b> bonus Bloodpoints in the Altruism category.<br><li>Personal.</li><li>Stacks.</li>",
+        "name": "Primrose Blossom Sachet",
+        "flavor": "\"A palm-sized hand-sewn sachet containing 4 gold petals. The primrose opens at the very last moment before the sun gives place to the night.\"",
+        "id": 56,
+        "index": "PRIMROSE_BLOSSOM_SACHET",
+        "rarity": 0,
+        "image": "iconFavors_primroseBlossomSachet"
+    },
+    {
+        "description": "Grants <b>75%</b> bonus Bloodpoints in the Altruism category.<br><li>Personal.</li><li>Stacks.</li>",
+        "name": "Fresh Primrose Blossom",
+        "flavor": "\"Golden flowers harvested at their peak. The primrose opens at the very last moment before the sun gives place to the night.\"",
+        "id": 57,
+        "index": "FRESH_PRIMROSE_BLOSSOM",
+        "rarity": 1,
+        "image": "iconFavors_freshPrimroseBlossom"
+    },
+    {
+        "description": "Grants <b>100%</b> bonus Bloodpoints in the Altruism category.<br><li>Personal.</li><li>Stacks.</li>",
+        "name": "Fragrant Primrose Blossom",
+        "flavor": "\"Golden flowers harvested at their peak. Releases a strong earthy and comforting aroma.\"",
+        "id": 58,
+        "index": "FRAGRANT_PRIMROSE_BLOSSOM",
+        "rarity": 2,
+        "image": "iconFavors_fragrantPrimroseBlossom"
+    },
+    {
+        "description": "Grants <b>50%</b> bonus Bloodpoints in the Boldness category.<br><li>Personal.</li><li>Stacks.</li>",
+        "name": "Sweet William Sachet",
+        "flavor": "\"A palm-sized hand-sewn sachet containing a mix of pale petals and glaucous bluish leaves. Releases a strong spicy, clove-like scent.\"",
+        "id": 59,
+        "index": "SWEET_WILLIAM_SACHET",
+        "rarity": 0,
+        "image": "iconFavors_sweetWilliamSachet"
+    },
+    {
+        "description": "Grants <b>75%</b> bonus Bloodpoints in the Boldness category.<br><li>Personal.</li><li>Stacks.</li>",
+        "name": "Fresh Sweet William",
+        "flavor": "\"A bunch of flowers with pink petals and a blood red core. Releases a spicy, clove-like scent.\"",
+        "id": 60,
+        "index": "FRESH_SWEET_WILLIAM",
+        "rarity": 1,
+        "image": "iconFavors_freshSweetWilliam"
+    },
+    {
+        "description": "Grants <b>100%</b> bonus Bloodpoints in the Boldness category.<br><li>Personal.</li><li>Stacks.</li>",
+        "name": "Fresh Sweet William",
+        "flavor": "\"A bunch of flowers with pink petals and a blood red core. Releases a strong spicy, clove-like scent.\"",
+        "id": 61,
+        "index": "FRAGRANT_SWEET_WILLIAM",
+        "rarity": 2,
+        "image": "iconFavors_fragrantSweetWilliam"
+    },
+    {
+        "description": "Grants <b>25%</b> bonus Bloodpoints in <b>all</b> categories to all Survivors.<br><li>Stacks.</li>",
+        "name": "Bound Envelope",
+        "flavor": "\"An opened envelope re-sealed and bound with 4 colored ribbons.\"",
+        "id": 62,
+        "index": "BOUND_ENVELOPE",
+        "rarity": 2,
+        "image": "iconFavors_boundEnvelope"
+    },
+    {
+        "description": "Grants <b>25%</b> bonus Bloodpoints in all categories.<br><li>Personal.</li><li>Stacks.</li>",
+        "name": "Sealed Envelope",
+        "flavor": "\"An unaddressed and unopened envelope yellowed by time. Its message will never be known.\"",
+        "id": 63,
+        "index": "SEALED_ENVELOPE",
+        "rarity": 1,
+        "image": "iconFavors_sealedEnvelope"
+    },
+    {
+        "description": "Grants <b>100%</b> bonus Bloodpoints in all categories.<br><li>Personal.</li><li>Stacks.</li>",
+        "name": "Escape! Cake",
+        "flavor": "\"This picture of a cake sure is real.\"",
+        "id": 64,
+        "index": "ESCAPE_CAKE",
+        "rarity": 1,
+        "image": "iconFavors_escapeCake"
+    },
+    {
+        "description": "<b>Slightly increases</b> luck.<br><li>Personal.</li><li>Stacks.</li>",
+        "name": "Chalk Pouch",
+        "flavor": "\"A small cotton pouch filled with a white chalky powder of unknown origin. Some believe it brings good fortune.\"",
+        "id": 65,
+        "index": "CHALK_POUCH",
+        "rarity": 0,
+        "image": "iconFavors_chalkPouch"
+    },
+    {
+        "description": "<b>Moderately increases</b> luck of <b>all</b> Survivors.<br><li>Stacks.</li>",
+        "name": "Cream Chalk Pouch",
+        "flavor": "\"A friable miniature statuette made of black salt representing a woman in a kneeling position offering a gift. Some believe it brings good fortune.\"",
+        "id": 66,
+        "index": "CREAM_CHALK_POUCH",
+        "rarity": 1,
+        "image": "iconFavors_creamChalkPouch"
+    },
+    {
+        "description": "<b>Considerably increases</b> luck.<br><li>Personal.</li><li>Stacks.</li>",
+        "name": "Ivory Chalk Pouch",
+        "flavor": "\"A small leather pouch displaying a straight white line hand-sewn on one of its sides. The bag is filled with an ivory chalky powder that shines under the moonlight. Some believe it brings good fortune.\"",
+        "id": 67,
+        "index": "IVORY_CHALK_POUCH",
+        "rarity": 2,
+        "image": "iconFavors_ivoryChalkPouch"
+    },
+    {
+        "description": "<b>Slightly increases</b> luck of <b>all</b> Survivors.<br><li>Stacks.</li>",
+        "name": "Salt Pouch",
+        "flavor": "\"A small cotton pouch filled with black salt crystals. Some believe it brings good fortune. Don't spill it.\"",
+        "id": 68,
+        "index": "SALT_POUCH",
+        "rarity": 1,
+        "image": "iconFavors_saltPouch"
+    },
+    {
+        "description": "<b>Considerably increases</b> luck of <b>all</b> Survivors.<br><li>Stacks.</li>",
+        "name": "Vigo's Jar of Salty Lips",
+        "flavor": "\"A tightly sealed glass jar containing torn human lips floating in a murky brine. Some believe it brings good fortune.\"",
+        "id": 69,
+        "index": "VIGOS_JAR_OF_SALTY_LIPS",
+        "rarity": 3,
+        "image": "iconFavors_jarOfSaltyLips"
+    },
+    {
+        "description": "Calls on The Entity to create <b>1</b> more chest.<br><li>Stacks.</li>",
+        "name": "Tarnished Coin",
+        "flavor": "\"A round piece of metal which has lost all sheen.\"",
+        "id": 70,
+        "index": "TARNISHED_COIN",
+        "rarity": 1,
+        "image": "iconFavors_tarnishedCoin"
+    },
+    {
+        "description": "Calls on The Entity to create <b>2</b> more chests.<br><li>Stacks.</li>",
+        "name": "Shiny Coin",
+        "flavor": "\"A clean and polished piece of gold.\"",
+        "id": 71,
+        "index": "SHINY_COIN",
+        "rarity": 3,
+        "image": "iconFavors_shinyCoin"
+    },
+    {
+        "description": "Calms The Entity and <b>Slightly increases</b> the <b>distance</b> between sacrificial hooks appearing in the world.<br><li>Stacks.</li>",
+        "name": "Petrified Oak",
+        "flavor": "\"A deteriorating piece of petrified wood.\"",
+        "id": 72,
+        "index": "PETRIFIED_OAK",
+        "rarity": 3,
+        "image": "iconFavors_petrifiedOak"
+    },
+    {
+        "description": "You start the trial with someone else.<br><li>Secret.</li>",
+        "name": "Shroud of Union",
+        "flavor": "\"A knotted piece of fabric.\"",
+        "id": 73,
+        "index": "SHROUD_OF_UNION",
+        "rarity": 1,
+        "image": "iconFavors_shroudOfUnion"
+    },
+    {
+        "description": "All Survivors start the trial together.<br><li>Secret.</li>",
+        "name": "Shroud of Binding",
+        "flavor": "\"A square and washed out piece of fabric with small knots on each end.\"",
+        "id": 74,
+        "index": "SHROUD_OF_BINDING",
+        "rarity": 3,
+        "image": "iconFavors_shroudOfBinding"
+    },
+    {
+        "description": "You start the trial as far as possible from the Killer.<br><li>Secret.</li>",
+        "name": "Vigo's Shroud",
+        "flavor": "\"I found marvels through the years in The Fog, but only now do I understand how to bend The Fog's irrefragable rules.\" -Vigo's Journal",
+        "id": 75,
+        "index": "VIGOS_SHROUD",
+        "rarity": 1,
+        "image": "iconFavors_vigosShroud"
+    }
+]

@@ -1,7 +1,7 @@
 node_modules
 .npmrc
 DeadByDaylight.locres.json
-localization/locales/*.json
+scripts/locales
 coverage
 .nyc_output
 docs

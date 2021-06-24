@@ -1,0 +1,503 @@
+[
+    {
+        "description": "Una sottile lente grandangolare in perfette condizioni. Progettata per diffondere la luce della torcia elettrica a spese del suo campo di efficacia.<br><li><b>Ingrandisce moderatamente</b> il fascio luminoso della torcia</li><li><b>Riduce leggermente</b> il campo del fascio luminoso della torcia.</li>",
+        "name": "Lente grandangolare",
+        "id": 1,
+        "index": "WIDE_LENS",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_wideLens"
+    },
+    {
+        "description": "Una piccola lampadina per torcia elettrica dotata di maggiore potenza, per un fascio luminoso più intenso e brillante.<br><li><b>Restringe leggermente</b> la portata del fascio luminoso della torcia.</li><li><b>Aumenta leggermente</b> la luminosità visiva del fascio luminoso.</li><li><b>Aumenta leggermente</b> la durata dell'accecamento.</li>",
+        "name": "Lampadina potente",
+        "flavor": "\"Neanche la luce più intensa può penetrare le tenebre della nebbia oscura.\"",
+        "id": 2,
+        "index": "POWER_BULB",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_powerBulb"
+    },
+    {
+        "description": "Una striscia di cuoio avvolta intorno alla torcia elettrica per una presa migliore.<br><li><b>Aumenta leggermente</b> la precisione della torcia.</li>",
+        "name": "Impugnatura di pelle",
+        "flavor": "\"In troppi sono caduti a causa di mani sudate.\"",
+        "id": 3,
+        "index": "LEATHER_GRIP",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_leatherGrip"
+    },
+    {
+        "description": "Una batteria standard di marca sconosciuta.<br><li>Aggiunge <b>2 secondi</b> di utilizzo a una torcia elettrica standard.</li>",
+        "name": "Batteria",
+        "flavor": "\"Un'altra batteria quasi scarica.\"",
+        "id": 4,
+        "index": "BATTERY",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_battery"
+    },
+    {
+        "description": "Una combinazione di lente e riflettore per amplificare il fascio luminoso della torcia elettrica.<br><li><b>Aumenta moderatamente</b> la luminosità visiva del fascio luminoso.</li><li><b>Aumenta moderatamente</b> la durata dell'accecamento.</li>",
+        "name": "Lente a riflessione interna totale",
+        "flavor": "\"Lascia che la luce li bruci e li spinga fuori dal loro tenebroso sudario.\"",
+        "id": 5,
+        "index": "TIR_OPTIC",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_tirOptic"
+    },
+    {
+        "description": "Un'impugnatura di gomma pensata specificatamente per aumentare la presa delle torce elettriche.<br><li><b>Aumenta moderatamente</b> la precisione della torcia elettrica.</li>",
+        "name": "Impugnatura di gomma",
+        "id": 6,
+        "index": "RUBBER_GRIP",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_rubberGrip"
+    },
+    {
+        "description": "Una lampada a incandescenza progettata per prolungare la durata della batteria di una torcia elettrica.<br><li><b>Diminuisce moderatamente</b> il consumo della batteria della torcia.</li>",
+        "name": "Filamento a basso amperaggio",
+        "id": 7,
+        "index": "LOW_AMP_FILAMENT",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_threadedFilament"
+    },
+    {
+        "description": "Una batteria contrassegnata con la dicitura \"lunga durata\".<br><li>Aggiunge <b>4 secondi</b> di utilizzo a una torcia elettrica standard.</li>",
+        "name": "Batteria alta potenza",
+        "flavor": "\"Una batteria della durata di 8 ore dura solo un paio di secondi nella nebbia oscura.\"",
+        "id": 8,
+        "index": "HEAVY_DUTY_BATTERY",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_heavyDutyBattery"
+    },
+    {
+        "description": "Una lente di vetro di un certo spessore, che concentra il fascio luminoso della torcia elettrica per incrementarne l'intensità.<br><li><b>Aumenta leggermente</b> il campo del fascio luminoso della torcia.</li><li><b>Aumenta leggermente</b> la portata del fascio luminoso della torcia.</li><li><b>Aumenta leggermente</b> la luminosità visiva del fascio luminoso.</li><li><b>Aumenta leggermente</b> la durata dell'accecamento.</li>",
+        "name": "Lenti focali",
+        "id": 9,
+        "index": "FOCUS_LENS",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_focusLens"
+    },
+    {
+        "description": "Un modello recente di batteria che dura più a lungo.<br><li>Aggiunge <b>6 secondi</b> di utilizzo a una torcia elettrica standard.</li>",
+        "name": "Batteria a lunga durata",
+        "id": 10,
+        "index": "LONG_LIFE_BATTERY",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconAddon_longLifeBattery"
+    },
+    {
+        "description": "Una lampada chimica che genera un'intensa luce chiara.<br><li><b>Aumenta considerevolmente</b> la luminosità visiva del fascio luminoso.</li><li><b>Aumenta considerevolmente</b> la durata dell'accecamento.</li>",
+        "name": "Lampada alogena ad alta intensità",
+        "id": 11,
+        "index": "INTENSE_HALOGEN",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconAddon_intenseHalogen"
+    },
+    {
+        "description": "Una lente ampia realizzata con zaffiro antigraffio, che ottimizza la potenza e la portata del fascio luminoso.<br><li><b>Ingrandisce moderatamente</b> il fascio luminoso della torcia elettrica.</li><li><b>Aumenta leggermente</b> il fascio luminoso della torcia elettrica.</li><li><b>Aumenta moderatamente</b> la luminosità visiva del fascio luminoso.</li><li><b>Aumenta moderatamente</b> la durata dell'accecamento.</li>",
+        "name": "Lenti di zaffiro esclusive",
+        "id": 12,
+        "index": "HIGH_END_SAPPHIRE_LENS",
+        "type": 1,
+        "rarity": 3,
+        "image": "iconAddon_highEndSapphireLens"
+    },
+    {
+        "description": "Una lampada pesante e completamente opaca di origine sconosciuta, che anche da spenta emette una tenue luce.<br><li><b>Aumenta straordinariamente</b> la luminosità visiva del fascio luminoso.</li><li><b>Aumenta straordinariamente</b> la durata dell'accecamento.</li><li><b>Aumenta leggermente</b> il consumo della batteria della torcia elettrica.</li>",
+        "name": "Lampada bizzarra",
+        "id": 13,
+        "index": "ODD_BULB",
+        "type": 1,
+        "rarity": 4,
+        "image": "iconAddon_oddBulb"
+    },
+    {
+        "description": "Corda fittamente intrecciata, usata nei rituali di preghiera. Può essere appesa alla Chiave.<br><li>Aggiunge <b>10 secondi</b> di utilizzo alla Chiave.</li>",
+        "name": "Corda da preghiera",
+        "flavor": "\"Prega quanto vuoi, le tue parole si perderanno lì nella Nebbia.\"",
+        "id": 14,
+        "index": "PRAYER_ROPE",
+        "type": 2,
+        "rarity": 0,
+        "image": "iconAddon_prayerRope"
+    },
+    {
+        "description": "Una perla bianca porosa e ricoperta di graffi. Un minuscolo anello di salto permette alla perla di essere collegata alla Chiave.<br><li><b>Aumenta moderatamente</b> il campo di lettura dell'aura della Chiave.</li>",
+        "name": "Perla graffiata",
+        "id": 15,
+        "index": "SCRATCHED_PEARL",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_scratchedPearl"
+    },
+    {
+        "description": "Una collana di perle opache di varie dimensioni utilizzate nei rituali di preghiera. Può essere appesa alla Chiave.<br><li>Aggiunge <b>15 secondi</b> di utilizzo alla Chiave.</li>",
+        "name": "Rosario",
+        "id": 16,
+        "index": "PRAYER_BEADS",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_prayerBeads"
+    },
+    {
+        "description": "Un medaglione di ottone notevolmente usurato. Qualunque disegno o incisione una volta presente su di esso è ora completamente scomparso. Può essere appeso alla Chiave utilizzando il suo anello di salto per incanalare l'abilità di lettura dell'aura della chiave.<br><li>Rivela l'<b>aura dei sopravvissuti</b> in un raggio di <b>24 metri</b>.</li>",
+        "name": "Medaglione eroso",
+        "id": 17,
+        "index": "ERODED_TOKEN",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_tokenErroded"
+    },
+    {
+        "description": "Un medaglione d'oro dall'aspetto sbiadito. Entrambe le facce sono lisce e prive di qualunque iscrizione. Può essere appeso alla Chiave usando il suo anello di salto per incanalare l'abilità di lettura dell'aura della chiave.<br><li>Rivela l'<b>aura dei sopravvissuti</b> in un raggio di <b>48 metri</b>.</li>",
+        "name": "Medaglione d'oro",
+        "id": 18,
+        "index": "GOLD_TOKEN",
+        "type": 2,
+        "rarity": 2,
+        "image": "iconAddon_tokenGold"
+    },
+    {
+        "description": "Un portachiavi dall'apparenza banale con un'insolita patina scura bluastra. L'anello lega la Chiave al suo utilizzatore, impedendogli di perderla, anche nei momenti più bui.<br><li>In caso di morte perdi questo accessorio, non la Chiave.</li>",
+        "name": "Anello di fissaggio",
+        "id": 19,
+        "index": "WEAVED_RING",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_weavedRing"
+    },
+    {
+        "description": "Questo pezzo di vetro opaco emette un rumore sordo vibrante. Quando si utilizza la chiave per aprire la botola oscura, il medaglione di vetro protegge la chiave dalla rottura, incanalando nel vetro l'energia della Nebbia.<br><li>Quando apri la botola oscura perdi questo accessorio, non la chiave.</li>",
+        "name": "Vetro opale",
+        "id": 20,
+        "index": "MILKY_GLASS",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_milkyGlass"
+    },
+    {
+        "description": "Un'ambra rosso sangue con venature nere. L'ambra è calda al tatto. Può essere appesa alla Chiave utilizzando il suo anello di salto per incanalare l'abilità di lettura dell'aura della chiave.<br><li>Rivela l'<b>aura del killer</b> in un raggio di <b>32 metri</b> con un <b>notevole consumo</b> dell'energia della Chiave.</li>",
+        "name": "Ambra sanguigna",
+        "id": 21,
+        "index": "BLOOD_AMBER",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_bloodAmber"
+    },
+    {
+        "description": "Un pezzo frammentato di un materiale spesso e fibroso. Su di esso vi è un disegno parziale e sbiadito, cosa che di per sé è piuttosto inutile.<br><li>Aggiunge <b>5 secondi</b> di carica a ogni mappa.</li>",
+        "name": "Frammento di mappa",
+        "id": 22,
+        "index": "MAP_ADDENDUM",
+        "type": 3,
+        "rarity": 0,
+        "image": "iconAddon_mapAddendum"
+    },
+    {
+        "description": "Un piccolo filo elettrico. Entrambe le estremità sono notevolmente danneggiate, come se fosse stato strappato con forza dal punto in cui era fissato. Può essere legato intorno a una mappa per migliorarne la capacità di lettura dell'aura.<br><li>Sblocca l'abilità di individuazione dei <b>cancelli di uscita</b>.</li>",
+        "name": "Cavo elettrico giallo",
+        "id": 23,
+        "index": "YELLOW_WIRE",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_ropeYellow"
+    },
+    {
+        "description": "Un timbro di legno dotato di un tampone di gomma reticolata e utilizzato per contrassegnare documenti. Non è chiaro come o da chi questo timbro sia stato utilizzato originariamente. Può essere usato con una mappa.<br><li><b>Aumenta moderatamente</b> la portata dell'abilità di individuazione degli obiettivi della mappa.</li>",
+        "name": "Timbro inusuale",
+        "id": 24,
+        "index": "UNUSUAL_STAMP",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_stampUnusual"
+    },
+    {
+        "description": "Una sostanza viscida e traslucida con una spettrale sfumatura lavanda. Questa gelatina di origine ignota è altamente resistente al calore.<br><li><b>Rallenta moderatamente</b> il tasso di combustione della mappa.</li>",
+        "name": "Gel ritardante",
+        "id": 25,
+        "index": "RETARDANT_JELLY",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_retardantJelly"
+    },
+    {
+        "description": "Un pezzo di spago ispido e ruvido di un colore rosso intenso. Può essere legato intorno ad una mappa per migliorare la sua abilità di lettura dell'aura.<br><li>Sblocca l'abilità di individuazione degli <b>effetti personali del killer</b>.</li>",
+        "name": "Spago Rosso",
+        "id": 26,
+        "index": "RED_TWINE",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_ropeRed"
+    },
+    {
+        "description": "Una strana lente bi-asferica circondata da un anello d'oro che può essere utilizzata per ingrandire la mappa e contrassegnare una specifica posizione. Il manufatto emette un'energia visibile e percepibile dai sopravvissuti.<br><li>Sblocca l'abilità contrassegno su un'azione secondaria.</li><li>Crea un contrassegno che può essere visto da tutti i sopravvissuti.</li>",
+        "name": "Lente di Visby di vetro",
+        "id": 27,
+        "index": "GLASS_BEAD",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_beadGlass"
+    },
+    {
+        "description": "Un timbro scolpito in un robusto legno chiaro. Il testo sulla sua base è incomprensibile: \"kw'zvre'od\". Può essere utilizzato con una mappa.<br><li><b>Aumenta considerevolmente</b> il raggio di individuazione degli obiettivi della mappa.</li>",
+        "name": "Timbro singolare",
+        "id": 28,
+        "index": "ODD_STAMP",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconAddon_stampOdd"
+    },
+    {
+        "description": "Un cordoncino nero liscio dall'aspetto morbido. Può essere legato intorno a una mappa per migliorare la sua capacità di lettura dell'aura.<br><li>Sblocca l'abilità di individuazione delle <b>serrature oscure</b>.</li>",
+        "name": "Corda di Seta Nera",
+        "id": 29,
+        "index": "BLACK_SILK_CORD",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconAddon_ropeBlack"
+    },
+    {
+        "description": "Un intricato insieme di lenti avvolto in un apparato sorprendentemente complesso. Gli ingranaggi che controllano la messa a fuoco delle lenti si muovono da soli per focalizzarsi su qualcosa di invisibile agli esseri umani.<br><li>Ogni sopravvissuto vede l'aura generata dalla mappa quando il proprietario l'attiva.</li>",
+        "name": "Lente di Visby di cristallo",
+        "id": 30,
+        "index": "CRYSTAL_BEAD",
+        "type": 3,
+        "rarity": 3,
+        "image": "iconAddon_beadCrystal"
+    },
+    {
+        "description": "Guanti medici monouso per evitare la contaminazione incrociata.<br><li><b>Aumentano moderatamente</b> il bonus avanzamento per aver completato i Test Abilità eccellenti.</li>",
+        "name": "Guanti di Gomma",
+        "id": 31,
+        "index": "RUBBER_GLOVES",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_gloves"
+    },
+    {
+        "description": "Adesivo di qualità medica per chiudere piccole ferite.<br><li><b>Aumenta leggermente</b> la velocità di guarigione.</li>",
+        "name": "Cerotto a Farfalla",
+        "id": 32,
+        "index": "BUTTERFLY_TAPE",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_butterflyTape"
+    },
+    {
+        "description": "Una confezione di bendaggi, in genere presenti nei kit di pronto soccorso.<br><li>Aggiunge <b>8 cariche</b> al kit medico.</li>",
+        "name": "Fasciature",
+        "id": 33,
+        "index": "BANDAGES",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_bandages"
+    },
+    {
+        "description": "Una banale spugna utilizzata per assorbire il sangue in eccesso, permettendo di accedere più facilmente alle ferite.<br><li><b>Aumenta considerevolmente</b> il bonus avanzamento per aver completato i Test Abilità eccellenti.</li>",
+        "name": "Spugna",
+        "id": 34,
+        "index": "SPONGE",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_sponge"
+    },
+    {
+        "description": "Una confezione di bende autofissanti, che non richiedono quindi l'ausilio di un gancio, per una medicazione più veloce e con meno riaggiustamenti.<br><li>Aggiunge <b>8 cariche</b> al kit medico.</li><li><b>Aumenta leggermente</b> la velocità di guarigione.</li>",
+        "name": "Benda autoaderente",
+        "id": 35,
+        "index": "SELF_ADHERENT_WRAP",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_selfAdherentWrap"
+    },
+    {
+        "description": "Non è esattamente un dispositivo medico, ma può essere comunque usato per chiudere una ferita in modo veloce e doloroso.<br><li><b>Aumenta moderatamente</b> la probabilità che appaia un Test Abilità.</li><li><b>100% di Punti Sangue bonus</b> quando completi i Test Abilità eccellenti.</li><li><b>Aumenta leggermente</b> la velocità di guarigione.</li>",
+        "name": "Ago e filo",
+        "id": 36,
+        "index": "NEEDLE_AND_THREAD",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_needAndThread"
+    },
+    {
+        "description": "Forbici progettate per tagliare i tessuti con facilità.<br><li><b>Aumentano moderatamente</b> la velocità di guarigione.</li>",
+        "name": "Forbici Mediche",
+        "id": 37,
+        "index": "MEDICAL_SCISSORS",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_scissors"
+    },
+    {
+        "description": "Una garza sterile usata per diversi tipi di ferite. Parte di un kit completo per il trattamento delle ferite. <br><li>Aggiunge <b>12 cariche</b> al kit medico.</li>",
+        "name": "Rotolo di garza",
+        "id": 38,
+        "index": "GAUZE_ROLL",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_gauseRoll"
+    },
+    {
+        "description": "Un dispositivo medico usato per contenere e isolare i tessuti corporei. Sebbene molto efficace, la sutura chirurgica è impegnativa da utilizzare.<br><li><b>Aumenta considerevolmente</b> la probabilità che appaia un Test Abilità.</li><li><b>Conferisce il 150% di Punti Sangue bonus</b> completando i Test Abilità eccellenti.</li><li><b>Aumenta leggermente</b> la velocità di guarigione.</li>",
+        "name": "Sutura chirurgica",
+        "id": 39,
+        "index": "SURGICAL_SUTURE",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_surgicalSuture"
+    },
+    {
+        "description": "Una confezione di cerotti in gel utilizzati per suturare ferite fortemente essudanti.<br><li>Aggiunge <b>16 cariche</b> al kit medico.</li>",
+        "name": "Medicazioni in gel",
+        "id": 40,
+        "index": "GEL_DRESSINGS",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_gelDressings"
+    },
+    {
+        "description": "Un tampone altamente assorbente che previene le fuoriuscite di liquido corporeo se applicato a una grossa ferita addominale.<br><li><b>Aumenta considerevolmente</b> la velocità di guarigione.</li><li><b>Riduce la carica</b> di <b>8</b> unità.</li>",
+        "name": "Medicazioni addominali",
+        "id": 41,
+        "index": "ABDOMINAL_DRESSING",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_abdominalDressing"
+    },
+    {
+        "description": "Una polvere bianca dalle proprietà coagulanti. Applica l'agente su una ferita per fermare l'emorragia.<br><li>Mentre effettui una cura con il kit medico, premi il pulsante <i>Azione secondaria</i> per usare l'agente emostatico.</li><li>Quando viene usato l'<i>agente emostatico</i> su un sopravvissuto ferito, questo riceve l'effetto <b>Tenacia</b> per <b>8 secondi</b>. <li>Consuma il kit medico.</li>",
+        "name": "Agente emostatico",
+        "id": 42,
+        "index": "STYPTIC_AGENT",
+        "type": 4,
+        "rarity": 3,
+        "image": "iconAddon_stypticAgent"
+    },
+    {
+        "description": "Una sostanza antiemorragica in grado di arrestare il sanguinamento in una manciata di secondi.<br><li>Mentre effettui una cura con il kit medico, premi il pulsante <i>Azione secondaria</i> per usare la siringa antiemorragica.</li><li>Il sopravvissuto in questione ottiene passivamente uno stato di salute <b>16</b> secondi dopo l'uso.</li><li>Sul tempo necessario influiscono competenze, oggetti e accessori in grado di modificare la <i>velocità di guarigione</i>.</li><li>Questo effetto viene annullato se il sopravvissuto cambia stato di salute o viene afferrato.</li><li>Consuma il kit medico.</li>",
+        "name": "Siringa antiemorragica",
+        "id": 43,
+        "index": "ANTI_HEMORRHAGIC_SYRINGE",
+        "type": 4,
+        "rarity": 4,
+        "image": "iconAddon_syringe"
+    },
+    {
+        "description": "Strumento utile per stringere tubi o mantenere i cavi in posizione per prevenire danni e lesioni.<br><li>I rumori generati dalle riparazioni e la distanza da cui è possibile udirli si riducono di 8 metri.</li>",
+        "name": "Morsetto a molla",
+        "id": 44,
+        "index": "SPRING_CLAMP",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_springClamp"
+    },
+    {
+        "description": "Molle, viti e ingranaggi. Perlopiù spazzatura inutilizzabile.<br><li>Aggiunge <b>8 cariche</b> alla cassetta degli attrezzi.</li>",
+        "name": "Scarti",
+        "id": 45,
+        "index": "SCRAPS",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_scraps"
+    },
+    {
+        "description": "Un banale strofinaccio. Sospettosamente pulito.<br><li><b>Aumenta leggermente</b> la velocità di riparazione della cassetta degli attrezzi.</li>",
+        "name": "Strofinaccio Pulito",
+        "id": 46,
+        "index": "CLEAN_RAG",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_cleanRag"
+    },
+    {
+        "description": "Una bobina di filo di rame, portatile ma pesante.<br><li>Aggiunge <b>12 cariche</b> alla cassetta degli attrezzi.</li>",
+        "name": "Bobina di Cavo Elettrico",
+        "id": 47,
+        "index": "WIRE_SPOOL",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_spoolOfWire"
+    },
+    {
+        "description": "I giunti oscillanti forniscono flessibilità per le viti che sono difficili da raggiungere, in fondo ai dispositivi meccanici.<br><li><b>Aumentano moderatamente</b> la velocità di riparazione della cassetta degli attrezzi.</li>",
+        "name": "Giunti oscillanti",
+        "id": 48,
+        "index": "SOCKET_SWIVELS",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_socketSwivels"
+    },
+    {
+        "description": "Guanti spessi che riducono la destrezza, ma proteggono le mani dalle ferite.<br><li>Impediscono al killer di ricevere una notifica quando saboti un gancio con la cassetta degli attrezzi.</li>",
+        "name": "Guanti di protezione",
+        "id": 49,
+        "index": "PROTECTIVE_GLOVES",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_protectiveGloves"
+    },
+    {
+        "description": "Qualcuno ha dipinto velocemente su questo pezzo di corteccia quelle che sembrano essere istruzioni di riparazione.<br><li>Elimina i Test Abilità quando ripari con la cassetta degli attrezzi.</li>",
+        "name": "Istruzioni",
+        "id": 50,
+        "index": "INSTRUCTIONS",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_instructions"
+    },
+    {
+        "description": "Una chiave inglese regolabile dalla presa resistente. Essenziale in qualsiasi cassetta degli attrezzi.<br><li>I ganci sabotati con la cassetta degli attrezzi richiedono 15 secondi in più per rigenerarsi.</li>",
+        "name": "Morsa",
+        "id": 51,
+        "index": "GRIP_WRENCH",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_gripWrench"
+    },
+    {
+        "description": "Un attrezzo da taglio rudimentale realizzato con cavi metallici seghettati e due manici di legno.<br><li><b>Aumenta leggermente</b> la velocità di sabotaggio della cassetta degli attrezzi.</li>",
+        "name": "Filo da taglio",
+        "id": 52,
+        "index": "CUTTING_WIRE",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_cuttingWire"
+    },
+    {
+        "description": "Una piccola sega a mano con lama metallica.<br><li><b>Aumenta moderatamente</b> la velocità di sabotaggio della cassetta degli attrezzi.</li>",
+        "name": "Sega per Metalli",
+        "id": 53,
+        "index": "HACKSAW",
+        "type": 5,
+        "rarity": 2,
+        "image": "iconAddon_metalSaw"
+    },
+    {
+        "description": "Questa complessa parte meccanica sembra stranamente fuori posto. È pulita e luccicante come se fosse appena uscita dalla fabbrica.<br><li>L'azione di <b>Riparazione</b> della cassetta degli attrezzi verrà sostituita con <b>Installa un pezzo nuovo</b>.</li><li>Installare un <i>pezzo nuovo</i> riparerà il <b>15%</b> di un generatore in un lasso di <b>5</b> secondi.</li><li>Durante l'installazione, verrai sottoposto a <b>2</b> Test Abilità dall'elevata difficoltà.</li><li>Completandoli, otterrai un progresso del <b>5%</b> per ciascuno, fino a un massimo del <b>25%</b> di progressi aggiunti.</li><li><i>Questo accessorio viene consumato dopo l'utilizzo</i></li>",
+        "name": "Pezzo nuovo",
+        "id": 54,
+        "index": "BRAND_NEW_PART",
+        "type": 5,
+        "rarity": 4,
+        "image": "iconAddon_brandNewPart"
+    },
+    {
+        "description": "Una fede nuziale incisa, emersa dalla nebbia e che riverbera di un'indescrivibile e incomprensibile energia.<li>Rivela l'aura dell'ossessione.</li><li>Riduce le possibilità di diventare l'ossessione del killer.</li>",
+        "name": "Fede nuziale particolare",
+        "id": 55,
+        "index": "UNIQUE_WEDDING_RING",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_uniqueRing"
+    }
+]

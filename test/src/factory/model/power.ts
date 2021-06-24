@@ -1,5 +1,5 @@
 import { expect } from "chai";
-import { Power, ModifierType } from "../../../../src";
+import { Power, ModifierType } from "../../../../src/index.browser";
 import Factories from "../../../../src/factories";
 import Model from "../../../../src/factory/model/power";
 

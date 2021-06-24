@@ -1,0 +1,503 @@
+[
+    {
+        "description": "완벽한 형태의 얇은 렌즈. 빛을 넓게 확산시키는 대신, 사거리는 좁아지도록 설계되었다.<br><li>손전등 빛의 범위가 <b>적당히 넓어진다</b>.</li><li>손전등 빛의 사정거리가 <b>약간 감소한다</b>.</li>",
+        "name": "와이드 렌즈",
+        "id": 1,
+        "index": "WIDE_LENS",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_wideLens"
+    },
+    {
+        "description": "손전등용 작은 전구. 더 많은 전력을 소모해서 밝고 강한 빛을 발산한다.<br><li>손전등의 빛의 반경이 <b>약간 좁아진다</b>.</li><li>손전등의 빛의 밝기가 <b>약간 증가한다</b>.</li><li>살인마의 실명 시간이 <b>약간 증가한다</b>.중첩 가능 </li>",
+        "name": "손전등용 전구",
+        "flavor": "\"어떤 강력한 빛도 검은 안개의 어둠을 밝힐 수는 없어.\"",
+        "id": 2,
+        "index": "POWER_BULB",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_powerBulb"
+    },
+    {
+        "description": "후레쉬를 감싸기 위한 가죽 조각. 이것을 두르고 있으면 쥐고 있기 편하다. <br><li>손전등의 정확도가 <b>약간 증가한다</b>.</li>",
+        "name": "가죽 손잡이",
+        "flavor": "\"손에 땀이 나서 자꾸만 떨어뜨리게 돼.\"",
+        "id": 3,
+        "index": "LEATHER_GRIP",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_leatherGrip"
+    },
+    {
+        "description": "제조사를 알 수 없는 평범한 배터리.<br><li>손전등의 사용 시간을 <b>2초</b> 늘려 준다.</li>",
+        "name": "배터리",
+        "flavor": "\"또 거의 다 쓴 배터리잖아.\"",
+        "id": 4,
+        "index": "BATTERY",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_battery"
+    },
+    {
+        "description": "손전등의 빛이 강해지도록 렌즈와 반사경이 잘 조립되어 있다.<br><li>살인마에 대한 손전등 빛의 밝기가 <b>적당히 증가한다.</b></li><li>실명 시간이 <b>적당히 증가한다</b>.</li>",
+        "name": "집중반사경",
+        "flavor": "\"저 괴물들이 두른 어둠의 장막을 빛으로 태워버리겠어.\"",
+        "id": 5,
+        "index": "TIR_OPTIC",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_tirOptic"
+    },
+    {
+        "description": "손전등의 그립감을 높이기 위한 특제 고무 손잡이.<br><li>손전등의 정확도가 <b>적당히 증가한다</b>.</li>",
+        "name": "고무 손잡이",
+        "id": 6,
+        "index": "RUBBER_GRIP",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_rubberGrip"
+    },
+    {
+        "description": "손전등의 배터리 수명을 절약할 수 있도록 설계된 필라멘트 전구.<br><li>손전등의 배터리 소모량이 <b>적당히 감소한다</b>.</li>",
+        "name": "저전압 필라멘트",
+        "id": 7,
+        "index": "LOW_AMP_FILAMENT",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_threadedFilament"
+    },
+    {
+        "description": "\"산업용 규격\"이라고 표기된 배터리.<br><li>손전등의 사용 시간을 <b>4초</b> 늘려 준다.</li>",
+        "name": "대용량 배터리",
+        "flavor": "\"배터리엔 8시간 사용할 수 있다고 적혀있지만 이 검은 안개에서는 단 몇초 정도 쓸 수 있을 뿐이다.\"",
+        "id": 8,
+        "index": "HEAVY_DUTY_BATTERY",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_heavyDutyBattery"
+    },
+    {
+        "description": "손전등의 빛을 한 곳에 더욱 강하게 집중 시킬 수 있도록 만들어진 두꺼운 유리 렌즈.<br><li>손전등 빛의 사정거리가 <b>약간 증가한다</b>.</li><li>손전등 빛의 반경이 <b>약간 좁아진다</b>.</li><li>손전등 빛의 밝기가 <b>약간 증가한다</b>.</li><li>실명 시간이 <b>약간 증가한다</b>.</li>",
+        "name": "포커스 렌즈",
+        "id": 9,
+        "index": "FOCUS_LENS",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_focusLens"
+    },
+    {
+        "description": "최신 배터리. 더 오랫동안 지속된다.<br><li>손전등의 사용 시간을 <b>6초</b> 늘려 준다.</li>",
+        "name": "오래 가는 배터리",
+        "id": 10,
+        "index": "LONG_LIFE_BATTERY",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconAddon_longLifeBattery"
+    },
+    {
+        "description": "강력하고 맑은 빛을 만들어내는 할로겐 전구.<br><li>손전등 빛의 밝기가 <b>상당히 증가한다</b>.</li><li>실명 시간이 <b>상당히 증가한다 </b>.</li>",
+        "name": "강력한 할로겐 전구",
+        "id": 11,
+        "index": "INTENSE_HALOGEN",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconAddon_intenseHalogen"
+    },
+    {
+        "description": "최고급 수정으로 만든 와이드 렌즈. 손전등에 부착해 최적의 출력을 발산한다.<br><li>손전등 빛의 범위가 <b>적당히 넓어진다</b>.</li><li>손전등 빛의 세기가 <b>약간 증가한다</b>.</li><li>손전등 빛의 밝기가 <b>적당히 증가한다</b>.</li><li>실명 시간이 <b>적당히 증가한다</b>.</li>",
+        "name": "최고급 수정 렌즈",
+        "id": 12,
+        "index": "HIGH_END_SAPPHIRE_LENS",
+        "type": 1,
+        "rarity": 3,
+        "image": "iconAddon_highEndSapphireLens"
+    },
+    {
+        "description": "정체를 알 수 없는 무겁고 불투명한 전구. 전원을 차단해도 희미한 빛이 흘러나온다.<br><li>손전등 빛의 밝기가 <b>엄청나게 증가한다</b>.</li><li>실명 시간이 <b>엄청나게 증가한다</b>.</li><li>손전등의 배터리 소모량이 <b>약간 증가한다</b>.</li>",
+        "name": "정체불명의 전구",
+        "id": 13,
+        "index": "ODD_BULB",
+        "type": 1,
+        "rarity": 4,
+        "image": "iconAddon_oddBulb"
+    },
+    {
+        "description": "기도 의식에 사용되는 단단하게 매듭지어진 끈. 열쇠에 부착할 수 있다.<br><li>열쇠의 사용 시간을 <b>10초</b> 늘려 준다.</li>",
+        "name": "의식용 매듭",
+        "flavor": "\"너의 기도는 안개 속에서 길을 잃고 헤매일 것이다.\"",
+        "id": 14,
+        "index": "PRAYER_ROPE",
+        "type": 2,
+        "rarity": 0,
+        "image": "iconAddon_prayerRope"
+    },
+    {
+        "description": "구멍나고 긁혀있는 흰색의 진주. 작은 고리를 이용해서 열쇠에 부착할 수 있다.<br><li>열쇠의 오라 감지 범위가 <b>적당히 증가한다</b>. </li>",
+        "name": "흠집 난 진주",
+        "id": 15,
+        "index": "SCRATCHED_PEARL",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_scratchedPearl"
+    },
+    {
+        "description": "다양한 크기의 어두운색의 구슬로 꿰어진 의식용 도구. 열쇠에 부착할 수 있다.<br><li>열쇠의 사용 시간을 <b>15초</b> 늘려 준다.</li>",
+        "name": "묵주",
+        "id": 16,
+        "index": "PRAYER_BEADS",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_prayerBeads"
+    },
+    {
+        "description": "심하게 마모된 동화. 한 때 어떤 글귀나 그림이 새겨져 있던 것 같지만 지금은 형체를 알아 볼 수 없다. 열쇠에 부착하면 특별한 오라를 느낄 수 있다.<br><li><b>24미터</b> 내에 있는 <b>다른 생존자의 오라</b>를 보여 준다.</li>",
+        "name": "침식된 토큰",
+        "id": 17,
+        "index": "ERODED_TOKEN",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_tokenErroded"
+    },
+    {
+        "description": "밋밋하게 생긴 금화. 양쪽면 모두 특별한 글귀가 써있지 않고 매끄럽다. 열쇠에 부착하면 특별한 오라를 느낄 수 있다.<br><li><span class=\"Highlight1\">48미터</span> 내에 있는 <b>다른 생존자의 오라</b>를 보여 준다.</li><li>중첩 가능</li>",
+        "name": "황금 토큰",
+        "id": 18,
+        "index": "GOLD_TOKEN",
+        "type": 2,
+        "rarity": 2,
+        "image": "iconAddon_tokenGold"
+    },
+    {
+        "description": "특이할 정도로 푸르스름하고 어두운 광택을 지녔지만 모양은 평범한 열쇠고리. 열쇠에 부착하면, 사용자는 어떤 최악의 상황에서도 열쇠를 잃어버리지 않는다.<br><li>당신이 사망했을 때, 열쇠를 잃는 대신 이 애드온을 잃는다.</li>",
+        "name": "열쇠고리",
+        "id": 19,
+        "index": "WEAVED_RING",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_weavedRing"
+    },
+    {
+        "description": "미세하게 떨리는 불투명한 유리조각. 열쇠로 검은 자물쇠를 열 때, 유리 토큰은 열쇠가 부러지지 않도록 하여 안개를 유리 속으로 빨아들인다.<br><li>검은 자물쇠를 열 경우, 열쇠를 잃는 대신 이 애드온을 잃는다.</li>",
+        "name": "하얀 빛깔 유리",
+        "id": 20,
+        "index": "MILKY_GLASS",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_milkyGlass"
+    },
+    {
+        "description": "피의 색을 닮아 붉고, 표면에 마치 혈관 같은 검은 줄무늬가 있다. 만지면 따뜻함이 느껴지는 호박옥. 열쇠에 부착하면 특별한 오라를 느낄 수 있다. <br><li>열쇠의 에너지를 <b>크게 소모해서</b> <span class=\"Highlight1\">32미터</span> 내에 있는 <b>살인마의 오라</b>를 볼 수 있다. </li>",
+        "name": "핏빛 호박",
+        "id": 21,
+        "index": "BLOOD_AMBER",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_bloodAmber"
+    },
+    {
+        "description": "두꺼운 섬유 소재의 지도 조각. 무언가 그려져 있지만, 색이 바래고 찢겨 쓸모는 없다.<br><li>지도의 사용 시간을 <b>5초</b> 증가시켜 준다. </li>",
+        "name": "지도 부록",
+        "id": 22,
+        "index": "MAP_ADDENDUM",
+        "type": 3,
+        "rarity": 0,
+        "image": "iconAddon_mapAddendum"
+    },
+    {
+        "description": "짧은 전선. 양쪽 끝을 힘으로 잡아 뜯은 것 처럼 심하게 훼손되어있다. 이 전선을 지도에 묶으면 오라를 느끼는 능력이 향상된다.<br><li><b>탈출구</b>의 위치를 탐색할 수 있는 능력이 활성화된다.</li>",
+        "name": "노란색 전선",
+        "id": 23,
+        "index": "YELLOW_WIRE",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_ropeYellow"
+    },
+    {
+        "description": "평행선의 음영 고무패드가 달려 있는 문서용 목제 도장. 어떤 용도로 누가 사용했는지는 알 수 없지만, 지도에 사용할 수 있다.<br><li>지도의 탐색 범위가 <b>적당히 증가한다</b>.</li>",
+        "name": "특이한 도장",
+        "id": 24,
+        "index": "UNUSUAL_STAMP",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_stampUnusual"
+    },
+    {
+        "description": "끈적하고 반투명한 젤리. 무엇으로 만들었는지는 알 수 없지만 열에 매우 강하고 어쩐지 섬뜩한 느낌의 라벤더 색이다.<br><li>지도가 소모되는 시간을 <b>적당히 늦춰 준다.</b></li>",
+        "name": "지연성 젤리",
+        "id": 25,
+        "index": "RETARDANT_JELLY",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_retardantJelly"
+    },
+    {
+        "description": "진홍색의 뻣뻣하고 거친 노끈. 이 끈을 지도에 묶으면 오라를 느끼는 능력이 향상된다.<br><li><b>살인마의 물건</b>의 위치를 탐색할 수 있는 능력이 활성화된다.</li>",
+        "name": "붉은색 노끈",
+        "id": 26,
+        "index": "RED_TWINE",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_ropeRed"
+    },
+    {
+        "description": "지도를 확대하고 특정 위치를 표시할 수 있도록 만들어진 황금 구슬로 꿴 표시기. 이 구슬은 다른 생존자들이 감지할 수 있는 특별한 빛을 발산한다. <br><li>지도의 추가 상호작용으로 표식을 남길 수 있다.</li><li>남긴 표식은 다른 모든 생존자들에게도 공유된다.</li>",
+        "name": "유리 구슬",
+        "id": 27,
+        "index": "GLASS_BEAD",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_beadGlass"
+    },
+    {
+        "description": "단단한 나무로 만들어진 도장. 하단에는 해석할 수 없는 글귀가 조각되어 있다: \"kw'zvre'od\\.\" 지도에 사용할 수 있다.<br><li>지도의 탐색 범위가 <b>상당히 증가한다</b>.</li>",
+        "name": "이상한 도장",
+        "id": 28,
+        "index": "ODD_STAMP",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconAddon_stampOdd"
+    },
+    {
+        "description": "매끈한 재질의 검은색 끈. 이 끈을 지도에 묶으면 오라를 느끼는 능력이 향상된다.<br><li><b>비상탈출구</b>의 위치를 탐색할 수 있는 능력이 활성화된다.</li>",
+        "name": "검은색 비단 끈",
+        "id": 29,
+        "index": "BLACK_SILK_CORD",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconAddon_ropeBlack"
+    },
+    {
+        "description": "렌즈 세트로 구성된 대단히 복잡한 장치. 렌즈의 초점을 조절하는 기어는 사람의 눈에 보이지 않는 무언가에 스스로 초점을 맞춘다.<br><li>지도를 활성화하면 보여지는 오라가 사용자뿐 아니라 모든 다른 생존자들에게도 공유된다.</li>",
+        "name": "수정 구슬",
+        "id": 30,
+        "index": "CRYSTAL_BEAD",
+        "type": 3,
+        "rarity": 3,
+        "image": "iconAddon_beadCrystal"
+    },
+    {
+        "description": "교차 오염을 방지하는 용도의 일회용 의료용 장갑.<br><li>스킬 체크 대성공을 통한 진척도 보너스가 <b>적당히 증가한다</b>.</li>",
+        "name": "의료용 장갑",
+        "id": 31,
+        "index": "RUBBER_GLOVES",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_gloves"
+    },
+    {
+        "description": "작은 상처를 봉합하는데 사용하는 의료용 테이프.<br><li>치료 속도가 <b>약간 상승한다</b>.</li>",
+        "name": "다공성 반창고",
+        "id": 32,
+        "index": "BUTTERFLY_TAPE",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_butterflyTape"
+    },
+    {
+        "description": "구급상자에서 흔히 찾을 수 있는 붕대.<br><li>구급상자에 <b>내구도 8</b>을 추가한다.</li>",
+        "name": "붕대",
+        "id": 33,
+        "index": "BANDAGES",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_bandages"
+    },
+    {
+        "description": "평범한 스펀지. 주변의 피를 흡수하여 상처 부위를 잘 확인할 수 있다.<br><li>스킬 체크 대성공을 통한 진척도 보너스가 <b>상당히 증가한다</b>.</li>",
+        "name": "스펀지",
+        "id": 34,
+        "index": "SPONGE",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_sponge"
+    },
+    {
+        "description": "클립이 필요 없이 스스로 고정되어 상처 부위를 빠르게 지혈이 가능한 붕대.<br><li>구급상자에 내구도를 <b>8</b> 추가한다.</li><li>치료 속도가 <b>약간 빨라진다</b>.</li>",
+        "name": "자기 접착 붕대",
+        "id": 35,
+        "index": "SELF_ADHERENT_WRAP",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_selfAdherentWrap"
+    },
+    {
+        "description": "공식적인 의료 도구는 아니다. 다소 고통스러운 방법이지만 빠르게 상처를 봉합할 수 있다.<br><li>스킬 체크 발생 빈도가 <b>적당히 증가한다</b>.</li><li>스킬 체크 대성공 시 <b>100%의 블러드포인트 보너스</b>를 받는다.</li><li>치료 속도가 <b>약간 증가한다</b>.</li>",
+        "name": "실과 바늘",
+        "id": 36,
+        "index": "NEEDLE_AND_THREAD",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_needAndThread"
+    },
+    {
+        "description": "붕대를 쉽게 자를 수 있게 만든 가위.<br><li>치료 속도가 <b>적당히 빨라진다.</b></li>",
+        "name": "의료용 가위",
+        "id": 37,
+        "index": "MEDICAL_SCISSORS",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_scissors"
+    },
+    {
+        "description": "다양한 상처에 활용할 수 있는 멸균 거즈. 종합 치료 용품의 구성품.<br><li>구급상자에 <b>내구도 12</b>를 추가한다.</li>",
+        "name": "거즈 두루마리",
+        "id": 38,
+        "index": "GAUZE_ROLL",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_gauseRoll"
+    },
+    {
+        "description": "절개된 부위를 봉합하는데 사용하는 의료용 도구. 매우 효과적이지만 사용하기 어렵다.<br><li>스킬 체크의 성공율이 <b>상당히 증가한다</b>.</li><li>스킬 체크 대성공 시 <b>150%의 블러드포인트 보너스</b>를 받는다.</li><li>치료 속도가 <b>약간 증가한다</b>.</li>",
+        "name": "수술용 봉합선",
+        "id": 39,
+        "index": "SURGICAL_SUTURE",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_surgicalSuture"
+    },
+    {
+        "description": "심한 삼출성 부상에 사용하는 젤 패드.<br><li>구급상자에 <b>내구도 16</b>을 추가한다.</li>",
+        "name": "젤 패드",
+        "id": 40,
+        "index": "GEL_DRESSINGS",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_gelDressings"
+    },
+    {
+        "description": "복부에 큰 상처가 생겼을 때, 체액이 새어나오는 것을 방지하는 용도로의 흡수력이 높은 패드.<br><li>치료 속도가 <b>상당히 빨라진다</b>.</li><li>내구도가 <b>8</b>만큼 <b>감소한다</b>.</li>",
+        "name": "압박 붕대",
+        "id": 41,
+        "index": "ABDOMINAL_DRESSING",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_abdominalDressing"
+    },
+    {
+        "description": "지혈 효과가 있는 하얀색 가루. 상처 부위에 바르면 출혈을 막을 수 있다.<br><li>치료받는 동안<i>추가 상호작용</i> 버튼을 누르면, 항출혈 주사기를 사용할 수 있는 구급상자를 사용할 수 있다.</li><li>부상당한 생존자에게 <i>항출혈제</i>를 사용했다면 그는 <b>8초</b> 동안 <b>인내</b> 상태 효과에 빠진다.<li>사용 중인 구급 상자가 소비된다.</li>",
+        "name": "항 출혈제",
+        "id": 42,
+        "index": "STYPTIC_AGENT",
+        "type": 4,
+        "rarity": 3,
+        "image": "iconAddon_stypticAgent"
+    },
+    {
+        "description": "단 몇 초면 출혈을 멎게 만드는 항출혈성 치료제.<br><li>치료받는 동안<i>추가 상호작용</i> 버튼을 누르면, 항출혈 주사기를 사용할 수 있는 구급상자를 사용할 수 있다.</li><li>치료제를 맞은 생존자는 <b>16</b>초 후 자동으로 건강 상태 하나를 회복한다.</li><li>필요 시간은 <i>치유 속도</i>에 영향을 미치는 기술과 애드온에 따라 달라진다.</li><li>이 효과는 효과를 받는 생존자의 건강 상태가 바뀌거나 살인마에게 잡히면 취소된다.</li><li>사용 중인 구급상자가 소비된다.</li>",
+        "name": "항 출혈 주사기",
+        "id": 43,
+        "index": "ANTI_HEMORRHAGIC_SYRINGE",
+        "type": 4,
+        "rarity": 4,
+        "image": "iconAddon_syringe"
+    },
+    {
+        "description": "호스를 조정하거나 전선을 고정하는데 유용한 도구. 피해이나 부상을 방지한다.<br><li>수리 소음과 들을 수 있는 거리가 8미터 감소한다.</li>",
+        "name": "스프링 클램프",
+        "id": 44,
+        "index": "SPRING_CLAMP",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_springClamp"
+    },
+    {
+        "description": "스프링, 나사, 톱니 등의 잡다한 부품.<br><li>공구상자에 <b>내구도를 8</b> 추가한다.</li>",
+        "name": "잡동사니",
+        "id": 45,
+        "index": "SCRAPS",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_scraps"
+    },
+    {
+        "description": "평범한 천 조각. 수상할 정도로 깨끗하다.<br><li>공구상자의 수리 속도가 <b>약간 빨라진다.</b></li>",
+        "name": "깨끗한 천",
+        "id": 46,
+        "index": "CLEAN_RAG",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_cleanRag"
+    },
+    {
+        "description": "휴대용으로 가지고 다닐 수 있지만 매우 무거운 무게를 자랑하는 철선.<br><li>공구상자에 <b>내구도를 12</b> 추가한다.</li>",
+        "name": "와이어 스풀",
+        "id": 47,
+        "index": "WIRE_SPOOL",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_spoolOfWire"
+    },
+    {
+        "description": "기계 장치 내부 깊숙한 곳의 볼트를 조정할 수 있는 도구.<br><li>공구상자의 수리 속도가 <b>적당히 빨라진다</b>.</li>",
+        "name": "회전고리 소켓",
+        "id": 48,
+        "index": "SOCKET_SWIVELS",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_socketSwivels"
+    },
+    {
+        "description": "손재주를 부릴 수 없게 되지만 부상으로부터 손을 보호해주는 두꺼운 장갑.<br><li>공구상자를 이용하여 갈고리를 파괴하는 동안 살인마에게 발각되지 않는다.</li>",
+        "name": "보호 장갑",
+        "id": 49,
+        "index": "PROTECTIVE_GLOVES",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_protectiveGloves"
+    },
+    {
+        "description": "누군가가 다급하게 수리 방법을 기록해둔 나무 껍질.<br><li>공구상자로 수리하는 동안 스킬 체크가 제거된다.</li>",
+        "name": "설명서",
+        "id": 50,
+        "index": "INSTRUCTIONS",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_instructions"
+    },
+    {
+        "description": "손잡이가 거친 조정용 렌치. 공구상자의 기본 구성품.<br><li>공구상자로 파괴된 갈고리는 재생성까지 15초가 걸린다.</li>",
+        "name": "그립 렌치",
+        "id": 51,
+        "index": "GRIP_WRENCH",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_gripWrench"
+    },
+    {
+        "description": "금속제 와이어의 양 끝에 나무 손잡이를 달아 만든 기본적인 절삭 도구.<br><li>공구상자를 이용한 파괴 공작 속도가 <b>약간 빨라진다</b>.</li>",
+        "name": "커팅용 와이어",
+        "id": 52,
+        "index": "CUTTING_WIRE",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_cuttingWire"
+    },
+    {
+        "description": "한 손으로 들어 사용할 수 있는 작은 쇠톱.<br><li>공구상자를 이용한 파괴 공작 속도가 <b>적당히 증가한다.</b></li>",
+        "name": "쇠톱",
+        "id": 53,
+        "index": "HACKSAW",
+        "type": 5,
+        "rarity": 2,
+        "image": "iconAddon_metalSaw"
+    },
+    {
+        "description": "매우 정교하게 설계된 새로운 부품. 발전기와 호환되지 않을 것만 같다. 생산공정을 갓 마치고 출품된 것처럼 깨끗하게 빛난다.<br><li><b>공구상자 수리</b> 상호작용이 <b>새로운 부품 장착</b>으로 대체된다.</li><li><i>새로운 부품 장착</i> 상호작용은 <b>5초</b> 동안 발전기 수리를 자동으로 <b>15%</b> 진전시킨다.</li><li>장착이 수행되는 동안 <b>어려운 스킬체크가 2번</b> 발동된다.</li><li>이 스킬 체크에 성공할 시 추가적으로 <b>발전기 수리를 5%</b> 더 진전시켜, <b>발전기를 최대 25% 수리한다.</b></li><li><i>이 애드온은 사용 후 소모된다.</i></li>",
+        "name": "새로운 부품",
+        "id": 54,
+        "index": "BRAND_NEW_PART",
+        "type": 5,
+        "rarity": 4,
+        "image": "iconAddon_brandNewPart"
+    },
+    {
+        "description": "설명할 수 없고 이해도 할 수 없는 기운이 서린 결혼반지. 글자가 새겨져 있으며 안갯속에서 나왔다.<li>집착 대상의 오라를 노출시킨다.</li><li>살인마의 집착에 걸려들 확률을 감소시킨다.</li><li>중첩 가능</li>",
+        "name": "특별한 웨딩 반지",
+        "id": 55,
+        "index": "UNIQUE_WEDDING_RING",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_uniqueRing"
+    }
+]

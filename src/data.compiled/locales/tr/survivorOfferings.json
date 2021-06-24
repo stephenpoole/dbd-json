@@ -1,0 +1,236 @@
+[
+    {
+        "description": "Hedef kategorisinde <b>%50</b> ilave Kan Puanı verir.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
+        "name": "Bataklık Defnesi Keseciği",
+        "flavor": "\"Kuru yapraklarla dolu, avuçiçi büyüklüğünde, elle dikilmiş bir kesecik. Çaya benzeyen hafif bir koku yayıyor.\"",
+        "id": 50,
+        "index": "BOG_LAUREL_SACHET",
+        "rarity": 0,
+        "image": "iconFavors_bogLaurelSachet"
+    },
+    {
+        "description": "Hedef kategorisinde <b>%75</b> ilave Kan Puanı verir.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
+        "name": "Taze Bataklık Defnesi",
+        "flavor": "\"Leş gibi bir bataklığın ortasında açmış güzel, mor bir çiçek. Çaya benzeyen, hafif bir koku yayıyor.\"",
+        "id": 51,
+        "index": "FRESH_BOG_LAUREL",
+        "rarity": 1,
+        "image": "iconFavors_freshBogLaurel"
+    },
+    {
+        "description": "Hedef kategorisinde <b>%100</b> ilave Kan Puanı verir.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
+        "name": "Kokulu Bataklık Defnesi",
+        "flavor": "\"Leş gibi bir bataklığın ortasında açmış güzel, mor bir çiçek. Çaya benzeyen, kuvvetli bir koku yayıyor.\"",
+        "id": 52,
+        "index": "FRAGRANT_BOG_LAUREL",
+        "rarity": 2,
+        "image": "iconFavors_fragrantBogLaurel"
+    },
+    {
+        "description": "Sağ Kalma kategorisinde <b>%50</b> ilave Kan Puanı verir.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
+        "name": "Horozibiği Keseciği",
+        "flavor": "\"Boncuk gibi tahıllarla dolu, avuçiçi büyüklüğünde, elle dikilmiş bir kesecik. Horozibiğinin ebedi olduğunu söylerler.\"",
+        "id": 53,
+        "index": "CRISPLEAF_AMARANTH_SACHET",
+        "rarity": 0,
+        "image": "iconFavors_crispleafAmaranthSachet"
+    },
+    {
+        "description": "Hayatta kalma kategorisinde <b>%75</b> ilave Kan Puanı verir.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
+        "name": "Taze Horozibiği",
+        "flavor": "\"Solmuş yeşil yaprakların üzerinde garip kızıl damarlar var. Horozibiğinin ebedi olduğunu söylerler.\"",
+        "id": 54,
+        "index": "FRESH_CRISPLEAF_AMARANTH",
+        "rarity": 1,
+        "image": "iconFavors_freshCrispleafAmaranth"
+    },
+    {
+        "description": "Hayatta kalma kategorisinde <b>%100</b> ilave Kan Puanı verir.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
+        "name": "Kokulu Horozibiği",
+        "flavor": "\"Solmuş yeşil yaprakların üzerinde garip kızıl damarlar var. Güçlü bir turp kokusu yayıyor.\"",
+        "id": 55,
+        "index": "FRAGRANT_CRISPLEAF_AMARANTH",
+        "rarity": 2,
+        "image": "iconFavors_fragrantCrispleafAmaranth"
+    },
+    {
+        "description": "Fedakârlık kategorisinde <b>%50</b> ilave Kan Puanı verir.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
+        "name": "Çiçekli Çanta",
+        "flavor": "\"İçinde 4 tane altın rengi taçyaprak olan, avuçiçi büyüklüğünde, elle dikilmiş bir kesecik. Çuhaçiçeği, güneş yerini aya devretmeden hemen önce açar.\"",
+        "id": 56,
+        "index": "PRIMROSE_BLOSSOM_SACHET",
+        "rarity": 0,
+        "image": "iconFavors_primroseBlossomSachet"
+    },
+    {
+        "description": "Fedakârlık kategorisinde <b>%75</b> ilave Kan Puanı verir.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
+        "name": "Taze Çuhaçiçeği",
+        "flavor": "\"Zirvedeyken toplanmış altın rengi çiçekler. Çuhaçiçeği, güneş yerini aya devretmeden hemen önce açar.\"",
+        "id": 57,
+        "index": "FRESH_PRIMROSE_BLOSSOM",
+        "rarity": 1,
+        "image": "iconFavors_freshPrimroseBlossom"
+    },
+    {
+        "description": "Fedakârlık kategorisinde <b>%100</b> ilave Kan Puanı verir.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
+        "name": "Kokulu Çuhaçiçeği",
+        "flavor": "\"Zirvedeyken toplanmış altın rengi çiçekler. Güçlü ve rahatlatıcı bir toprak kokusu yayıyor.\"",
+        "id": 58,
+        "index": "FRAGRANT_PRIMROSE_BLOSSOM",
+        "rarity": 2,
+        "image": "iconFavors_fragrantPrimroseBlossom"
+    },
+    {
+        "description": "Cesaret kategorisinde <b>%50</b> ilave Kan Puanı verir.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
+        "name": "Hüsnüyusuf Keseciği",
+        "flavor": "\"İçinde çeşitli solmuş taçyaprakların ve mat mavi yaprakların bulunduğu elle dikilmiş avuçiçi büyüklüğünde bir kese. Karanfile benzeyen, baharatlı ve güçlü bir koku yayıyor.\"",
+        "id": 59,
+        "index": "SWEET_WILLIAM_SACHET",
+        "rarity": 0,
+        "image": "iconFavors_sweetWilliamSachet"
+    },
+    {
+        "description": "Cesaret kategorisinde <b>%75</b> ilave Kan Puanı verir.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
+        "name": "Taze Hüsnüyusuf Çiçeği",
+        "flavor": "\"Pembe taçyaprakları ve ortasında kan rengi tepecik olan çiçeklerden oluşturulmuş bir demet. Karanfile benzeyen, baharatlı bir koku yayıyor.\"",
+        "id": 60,
+        "index": "FRESH_SWEET_WILLIAM",
+        "rarity": 1,
+        "image": "iconFavors_freshSweetWilliam"
+    },
+    {
+        "description": "Cesaret kategorisinde <b>%100</b> ilave Kan Puanı verir.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
+        "name": "Taze Hüsnüyusuf Çiçeği",
+        "flavor": "\"Pembe taçyaprakları ve ortasında kan rengi tepecik olan çiçeklerden oluşturulmuş bir demet. Karanfile benzeyen, güçlü ve baharatlı bir koku yayıyor.\"",
+        "id": 61,
+        "index": "FRAGRANT_SWEET_WILLIAM",
+        "rarity": 2,
+        "image": "iconFavors_fragrantSweetWilliam"
+    },
+    {
+        "description": "<b>Tüm</b> kategorilerde bütün Kurbanlara <b>%25</b> ilave Kan Puanı verir.<br><li>Etkisi birikir.</li>",
+        "name": "Bağlanmış Zarf",
+        "flavor": "\"Açıldıktan sonra tekrardan kapatılmış ve 4 renkli kurdeleyle bağlanmış bir zarf.\"",
+        "id": 62,
+        "index": "BOUND_ENVELOPE",
+        "rarity": 2,
+        "image": "iconFavors_boundEnvelope"
+    },
+    {
+        "description": "Tüm kategorilerde <b>%25</b> ilave Kan Puanı verir.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
+        "name": "Mühürlü Zarf",
+        "flavor": "\"Üzerinde gönderileceği adres yazmayan, zamanla sararmış ve açılmamış bir zarf. İçinde ne yazdığı asla bilinmeyecek.\"",
+        "id": 63,
+        "index": "SEALED_ENVELOPE",
+        "rarity": 1,
+        "image": "iconFavors_sealedEnvelope"
+    },
+    {
+        "description": "Tüm kategorilerde <b>%100</b> ilave Kan Puanı verir.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
+        "name": "Kaçış! Pastası",
+        "flavor": "\"Bu pastanın resmi kesinlikle gerçek.\"",
+        "id": 64,
+        "index": "ESCAPE_CAKE",
+        "rarity": 1,
+        "image": "iconFavors_escapeCake"
+    },
+    {
+        "description": "Şansını <b>biraz arttırır</b>.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
+        "name": "Tebeşir Kesesi",
+        "flavor": "\"Nereden geldiği bilinmeyen, beyaz tebeşire benzer bir tozla dolu küçük ve pamuklu bir kese. Bazıları iyi şans getirdiğine inanıyor.\"",
+        "id": 65,
+        "index": "CHALK_POUCH",
+        "rarity": 0,
+        "image": "iconFavors_chalkPouch"
+    },
+    {
+        "description": "<b>Tüm</b> Kurbanların şansını <b>orta seviyede arttırır</b>.<br><li>Etkisi birikir.</li>",
+        "name": "Krem Rengi Tebeşir Kesesi",
+        "flavor": "\"Diz çökmüş bir şekilde hediye veren bir kadını temsil eden, kara tuzdan yapılmış, kırılgan, minyatür bir heykel. Bazıları iyi şans getirdiğine inanıyor.\"",
+        "id": 66,
+        "index": "CREAM_CHALK_POUCH",
+        "rarity": 1,
+        "image": "iconFavors_creamChalkPouch"
+    },
+    {
+        "description": "Şansı <b>önemli ölçüde arttırır</b>.<br><li>Kişisel.</li><li>Etkisi birikir.</li>",
+        "name": "Fildişi Rengi Tebeşir Kesesi",
+        "flavor": "\"Bir tarafı düz, beyaz iplik kullanılarak elle dikilmiş küçük deri bir kese. Kese ay ışığında parlayan fildişi rengi tebeşire benzeyen bir tozla dolu. Bazıları iyi şans getirdiğine inanıyor.\"",
+        "id": 67,
+        "index": "IVORY_CHALK_POUCH",
+        "rarity": 2,
+        "image": "iconFavors_ivoryChalkPouch"
+    },
+    {
+        "description": "<b>Tüm</b> Kurbanların şansını <b>biraz arttırır</b>.<br><li>Etkisi birikir.</li>",
+        "name": "Tuz Kesesi",
+        "flavor": "\"Kara tuz kristalleriyle dolu, küçük ve pamuklu bir kese. Bazıları iyi şans getirdiğine inanıyor. Sakın dökme.\"",
+        "id": 68,
+        "index": "SALT_POUCH",
+        "rarity": 1,
+        "image": "iconFavors_saltPouch"
+    },
+    {
+        "description": "<b>Tüm</b> Kurbanların şansını <b>önemli ölçüde arttırır</b>.<br><li>Etkisi birikir.</li>",
+        "name": "Vigo'nun Tuzlu Dudak Kavanozu",
+        "flavor": "\"Bulanık bir suyun içinde yüzen insan dudaklarının olduğu, sıkıca kapatılmış, cam bir kavanoz. Bazıları iyi şans getirdiğine inanıyor.\"",
+        "id": 69,
+        "index": "VIGOS_JAR_OF_SALTY_LIPS",
+        "rarity": 3,
+        "image": "iconFavors_jarOfSaltyLips"
+    },
+    {
+        "description": "<b>1</b> sandığın daha ortaya çıkması için Mahluk'u çağırır.<br><li>Etkisi birikir.</li>",
+        "name": "Paslı Para",
+        "flavor": "\"Tüm pırıltısını kaybetmiş, yuvarlak bir metal parçası.\"",
+        "id": 70,
+        "index": "TARNISHED_COIN",
+        "rarity": 1,
+        "image": "iconFavors_tarnishedCoin"
+    },
+    {
+        "description": "<b>2</b> sandığın daha ortaya çıkması için Mahluk'u çağırır.<br><li>Etkisi birikir.</li>",
+        "name": "Parlak Para",
+        "flavor": "\"Temiz ve cilalı bir altın parçası.\"",
+        "id": 71,
+        "index": "SHINY_COIN",
+        "rarity": 3,
+        "image": "iconFavors_shinyCoin"
+    },
+    {
+        "description": "Mahluk'u sakinleştirerek kurban kancaları arasındaki <b>mesafeyi</b> <b>biraz arttırır</b>.<br><li>Etkisi birikir.</li>",
+        "name": "Fosil Meşe",
+        "flavor": "\"Kırıp dökülen bir fosil odun parçası.\"",
+        "id": 72,
+        "index": "PETRIFIED_OAK",
+        "rarity": 3,
+        "image": "iconFavors_petrifiedOak"
+    },
+    {
+        "description": "Mücadeleye başka biriyle birlikte başlarsın.<br><li>Gizli.</li>",
+        "name": "Birlik Pelerini",
+        "flavor": "\"Düğümlü bir kumaş parçası.\"",
+        "id": 73,
+        "index": "SHROUD_OF_UNION",
+        "rarity": 1,
+        "image": "iconFavors_shroudOfUnion"
+    },
+    {
+        "description": "Tüm Kurbanlar mücadeleye aynı yerde başlar.<br><li>Gizli.</li>",
+        "name": "Bağlama Pelerini",
+        "flavor": "\"Her iki tarafında da küçük düğümler bulunan, solmuş, kare şeklinde bir kumaş parçası.\"",
+        "id": 74,
+        "index": "SHROUD_OF_BINDING",
+        "rarity": 3,
+        "image": "iconFavors_shroudOfBinding"
+    },
+    {
+        "description": "Mücadeleye Katil'den olabildiğince uzak bir yerde başlarsın.<br><li>Gizli.</li>",
+        "name": "Vigo'nun Pelerini",
+        "flavor": "\"Sis'te geçirdiğim yıllarda birçok mucizeyle karşılaştım. Fakat Sis'in bükülemez kurallarını daha yeni anlıyorum.\" -Vigo'nun Günlüğü",
+        "id": 75,
+        "index": "VIGOS_SHROUD",
+        "rarity": 1,
+        "image": "iconFavors_vigosShroud"
+    }
+]

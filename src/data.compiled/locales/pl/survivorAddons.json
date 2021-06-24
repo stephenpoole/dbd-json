@@ -1,0 +1,503 @@
+[
+    {
+        "description": "Cienka, szeroka soczewka w idealnym stanie. Została zaprojektowana tak, aby poszerzać wiązkę światła kosztem jej zasięgu.<br><li><b>Umiarkowanie rozszerza</b> wiązkę światła latarki.</li><li><b>Nieznacznie zmniejsza</b> zasięg wiązki światła latarki.</li>",
+        "name": "Szeroka Soczewka",
+        "id": 1,
+        "index": "WIDE_LENS",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_wideLens"
+    },
+    {
+        "description": "Malutka żarówka latarki o większej mocy, która zapewnia jaśniejszą i silniejszą wiązkę światła.<br><li><b>Nieznacznie zwęża</b> wiązkę światła latarki.</li><li><b>Nieznacznie zwiększa</b> jasność światła latarki.</li><li><b>Nieznacznie zwiększa</b> czas trwania Oślepienia.</li>",
+        "name": "Mocna Żarówka",
+        "flavor": "„Nawet najsilniejsze światło nie przebije się przez ciemność czarnej mgły”.",
+        "id": 2,
+        "index": "POWER_BULB",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_powerBulb"
+    },
+    {
+        "description": "Skórzany pasek owinięty wokół latarki. Poprawia chwyt.<br><li><b>Nieznacznie zwiększa</b> celność latarki.</li>",
+        "name": "Skórzany Uchwyt",
+        "flavor": "„Zbyt wielu zginęło przez spocone dłonie”.",
+        "id": 3,
+        "index": "LEATHER_GRIP",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_leatherGrip"
+    },
+    {
+        "description": "Standardowa bateria nieznanej marki.<br><li>Wydłuża działanie zwykłej latarki o <b>2 s</b>.</li>",
+        "name": "Bateria",
+        "flavor": "„Kolejna niemalże wyczerpana bateria”.",
+        "id": 4,
+        "index": "BATTERY",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_battery"
+    },
+    {
+        "description": "Soczewka i reflektor wzmacniające wiązkę latarki.<br><li><b>Umiarkowanie zwiększają</b> jasność światła latarki.</li><li><b>Umiarkowanie wydłużają</b> czas trwania Oślepienia.</li>",
+        "name": "Jaskrawy Filtr",
+        "flavor": "„Niech światło wypali ich mroczną zasłonę”.",
+        "id": 5,
+        "index": "TIR_OPTIC",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_tirOptic"
+    },
+    {
+        "description": "Dopasowany gumowy uchwyt poprawiający chwyt latarki.<br><li><b>Umiarkowanie zwiększa</b> celność latarki.</li>",
+        "name": "Gumowy uchwyt",
+        "id": 6,
+        "index": "RUBBER_GRIP",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_rubberGrip"
+    },
+    {
+        "description": "Żarówka żarnikowa mająca przedłużać żywotność baterii.<br><li><b>Umiarkowanie zmniejsza</b> prędkość zużywania się baterii latarki.</li>",
+        "name": "Energooszczędna Żarówka",
+        "id": 7,
+        "index": "LOW_AMP_FILAMENT",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_threadedFilament"
+    },
+    {
+        "description": "Bateria oznaczona jako „przemysłowa siła”.<br><li>Wydłuża działanie zwykłej latarki o <b>4 s</b>.</li>",
+        "name": "Pojemna Bateria",
+        "flavor": "„Bateria, która według reklam może wytrzymać 8 godzin, wystarcza w czarnej mgle na zaledwie kilka sekund”.",
+        "id": 8,
+        "index": "HEAVY_DUTY_BATTERY",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_heavyDutyBattery"
+    },
+    {
+        "description": "Gruba szklana soczewka, która skupia wiązkę światła wydobywającego się z latarki. Zwiększa intensywność wiązki światła.<br><li><b>Nieznacznie zwiększa</b> zasięg wiązki światła latarki.</li><li><b>Nieznacznie zwęża</b> wiązkę światła latarki.</li><li><b>Nieznacznie zwiększa</b> jasność światła latarki.</li><li><b>Nieznacznie zwiększa</b> czas trwania Oślepienia.</li>",
+        "name": "Soczewka Skupiająca",
+        "id": 9,
+        "index": "FOCUS_LENS",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_focusLens"
+    },
+    {
+        "description": "Najnowszy model baterii, o zwiększonej trwałości.<br><li>Wydłuża działanie zwykłej latarki o <b>6 s</b>.</li>",
+        "name": "Długo trzymająca bateria",
+        "id": 10,
+        "index": "LONG_LIFE_BATTERY",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconAddon_longLifeBattery"
+    },
+    {
+        "description": "Chemiczna żarówka emitująca intensywnie jasne światło.<br><li><b>Znacząco zwiększa</b> jasność światła latarki.</li><li><b>Znacząco zwiększa</b> czas trwania Oślepienia.</li>",
+        "name": "Intensywny halogen",
+        "id": 11,
+        "index": "INTENSE_HALOGEN",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconAddon_intenseHalogen"
+    },
+    {
+        "description": "Szeroka soczewka wykonana z niedającego się zarysować szafiru, który optymalizuje moc i zasięg wiązki światła.<br><li><b>Średnio rozszerza</b> wiązkę światła latarki.</li><li><b>Nieznacznie zwiększa</b> rozmiar wiązki światła latarki.</li><li><b>Średnio zwiększa</b> jasność światła latarki.</li><li><b>Średnio zwiększa</b> czas trwania oślepienia.</li>",
+        "name": "Dalekosiężna szafirowa soczewka",
+        "id": 12,
+        "index": "HIGH_END_SAPPHIRE_LENS",
+        "type": 1,
+        "rarity": 3,
+        "image": "iconAddon_highEndSapphireLens"
+    },
+    {
+        "description": "Ciężka i nieprzezroczysta żarówka nieznanego pochodzenia. Emituje słabe światło nawet wtedy, gdy jest wyłączona.<br><li><b>Ogromnie zwiększa</b> jasność światła latarki.</li><li><b>Ogromnie wydłuża</b> czas trwania Oślepienia.</li><li><b>Nieznacznie zwiększa</b> prędkość zużywania się baterii latarki.</li>",
+        "name": "Dziwna żarówka",
+        "id": 13,
+        "index": "ODD_BULB",
+        "type": 1,
+        "rarity": 4,
+        "image": "iconAddon_oddBulb"
+    },
+    {
+        "description": "Ciasno spleciony sznurek używany podczas rytuałów modlitewnych. Można go przymocować do klucza.<br><li>Dodaje <b>10 sekund</b> do działania klucza.</li>",
+        "name": "Sznur Modlitewny",
+        "flavor": "„Módlcie się, ile dusza zapragnie. Wasze słowa znikają we Mgle”.",
+        "id": 14,
+        "index": "PRAYER_ROPE",
+        "type": 2,
+        "rarity": 0,
+        "image": "iconAddon_prayerRope"
+    },
+    {
+        "description": "Porowata i porysowana biała perła. Maleńki zaczep pozwala na przymocowanie perły do klucza.<br><li><b>Umiarkowanie zwiększa</b> zasięg odczytywania aur przez klucz.</li>",
+        "name": "Porysowana Perła",
+        "id": 15,
+        "index": "SCRATCHED_PEARL",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_scratchedPearl"
+    },
+    {
+        "description": "Naszyjnik wykonany z matowych koralików różnej wielkości. Używany podczas modlitewnych rytuałów. Może zostać przymocowany do klucza.<br><li>Dodaje <b>15 sekund</b> do działania klucza.</li>",
+        "name": "Różaniec",
+        "id": 16,
+        "index": "PRAYER_BEADS",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_prayerBeads"
+    },
+    {
+        "description": "Mocno zużyty żeton wykonany z mosiądzu. Jeśli kiedykolwiek coś na nim wygrawerowano, to napis ten zniknął bardzo dawno temu. Może zostać przymocowany do klucza, aby przekazać mu zdolność odczytywania aury.<br><li>Ujawnia <b>aury Ocalałych</b> znajdujących się w zasięgu <b>24 m</b> od ciebie.</li>",
+        "name": "Przeżarty Żeton",
+        "id": 17,
+        "index": "ERODED_TOKEN",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_tokenErroded"
+    },
+    {
+        "description": "Złoty, niespecjalnie wyróżniający się żeton. Obie jego strony są gładkie i pozbawione jakichkolwiek inskrypcji. Może zostać przymocowany do klucza, aby przekazać mu zdolność odczytywania aury.<br><li>Ujawnia <b>aury Ocalałych</b> znajdujących się w zasięgu <b>48 m</b> od ciebie.</li>",
+        "name": "Złoty Żeton",
+        "id": 18,
+        "index": "GOLD_TOKEN",
+        "type": 2,
+        "rarity": 2,
+        "image": "iconAddon_tokenGold"
+    },
+    {
+        "description": "Pospolita zawieszka na klucz o niezwykle granatowym połysku. Łączy energię klucza z energią użytkownika, uniemożliwiając utratę klucza nawet w najmroczniejszych czasach.<br><li>Gdy umrzesz podczas rozgrywki, nie stracisz dzierżonego przez siebie klucza; stracisz jedynie ten dodatek do przedmiotu.</li>",
+        "name": "Kółko na Klucze",
+        "id": 19,
+        "index": "WEAVED_RING",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_weavedRing"
+    },
+    {
+        "description": "Nieprzezroczysty kawałek szkła, który wydaje z siebie wibrujący dźwięk. Gdy używasz klucza do odblokowania włazu, szkło chroni klucz przed pęknięciem, przyjmując na siebie całą energię Mgły.<br><li>Otwierając właz, nie tracisz klucza; zamiast tego tracisz ten dodatek do przedmiotu.</li>",
+        "name": "Mętne Szkło",
+        "id": 20,
+        "index": "MILKY_GLASS",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_milkyGlass"
+    },
+    {
+        "description": "Szkarłatny bursztyn z czarnymi żyłkami. Jest ciepły w dotyku. Może zostać przymocowany do klucza, aby przekazać mu zdolność odczytywania aury.<br><li>Ujawnia <b>aurę zabójcy</b> znajdującego się w zasięgu <b>32 metrów</b> od ciebie. Użycie dodatku pochłania <b>ogromną ilość ładunków</b> wytrzymałości klucza.</li>",
+        "name": "Krwawy bursztyn",
+        "id": 21,
+        "index": "BLOOD_AMBER",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_bloodAmber"
+    },
+    {
+        "description": "Fragment grubego, włóknistego materiału. Narysowano na nim kawałek wyblakłej mapy, która sama w sobie jest bezużyteczna.<br><li>Dodaje <b>5 sekund</b> do wytrzymałości dowolnej mapy.</li>",
+        "name": "Dodatkowy Fragment",
+        "id": 22,
+        "index": "MAP_ADDENDUM",
+        "type": 3,
+        "rarity": 0,
+        "image": "iconAddon_mapAddendum"
+    },
+    {
+        "description": "Mały przewód elektryczny. Oba końce są mocno uszkodzone, tak jakby przewód został siłą wyrwany ze swojego pierwotnego miejsca. Może być zawiązany wokół mapy, aby zwiększyć jej zdolność odczytywania aury.<br><li>Umożliwia odczytywanie aur <b>bram wyjściowych</b>.</li>",
+        "name": "Żółty Kabel",
+        "id": 23,
+        "index": "YELLOW_WIRE",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_ropeYellow"
+    },
+    {
+        "description": "Drewniana pieczęć z gumowym spodem służąca do oznaczania dokumentów. Nie wiadomo, kto był jej pierwotnym właścicielem ani do czego ją stosował. Można używać razem z mapą.<br><li><b>Umiarkowanie zwiększa</b> zasięg oznaczania punktów z mapy.</li>",
+        "name": "Niepospolity Stempel",
+        "id": 24,
+        "index": "UNUSUAL_STAMP",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_stampUnusual"
+    },
+    {
+        "description": "Śluzowata półprzezroczysta substancja o paskudnym lawendowym odcieniu. Ta galaretowata masa nieznanego pochodzenia jest wyjątkowo odporna na wysokie temperatury.<br><li><b>Umiarkowanie spowalnia</b> spalanie się mapy.</li>",
+        "name": "Ognioodporna galareta",
+        "id": 25,
+        "index": "RETARDANT_JELLY",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_retardantJelly"
+    },
+    {
+        "description": "Brudny, szorstki kawałek sznurka w szkarłatnym kolorze. Może być zawiązany wokół mapy, aby wzmocnić jej zdolność odczytywania aury.<br><li>Umożliwia odczytywanie aur <b>przedmiotów należących do zabójcy</b>.</li>",
+        "name": "Czerwony Sznurek",
+        "id": 26,
+        "index": "RED_TWINE",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_ropeRed"
+    },
+    {
+        "description": "Dziwny, zdobiony złotem koralik, Może zostać użyty do powiększenia mapy i oznaczania konkretnej pozycji. Emituje energię, którą mogą odczuć i zobaczyć wszyscy Ocalali.<br><li>Po naciśnięciu przycisku drugiej akcji umieszcza znacznik.</li><li>Utworzony znacznik emituje jasne światło, które widzi każdy Ocalały.</li>",
+        "name": "Szklany Koralik",
+        "id": 27,
+        "index": "GLASS_BEAD",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_beadGlass"
+    },
+    {
+        "description": "Pieczęć wyciosana z wytrzymałego, jasnego drewna. Tekst znajdujący się u podstawy pieczęci jest niezrozumiały: „kw'zvre'od”. Można używać razem z mapą.<br><li><b>Znacznie zwiększa </b> zasięg oznaczania punktów z mapy.</li>",
+        "name": "Dziwny Stempel",
+        "id": 28,
+        "index": "ODD_STAMP",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconAddon_stampOdd"
+    },
+    {
+        "description": "Czarny, gładki przewód o łagodnym wyglądzie. Może być zawiązany wokół mapy, aby zwiększyć jej zdolność odczytywania aury.<br><li>Umożliwia odczytywanie <b>aury włazu</b>.</li>",
+        "name": "Jedwabny Czarny Sznur",
+        "id": 29,
+        "index": "BLACK_SILK_CORD",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconAddon_ropeBlack"
+    },
+    {
+        "description": "Skompikowany zestaw soczewek złożony w zadziwiające urządzenie. Kółka zębate kontrolują samonapędzające się soczewki, które skupiają się na czymś niewidzialnym dla ludzkiego oka.<br><li>Każdy Ocalały widzi aury obiektów ujawnianych przez mapę, kiedy jej posiadacz ją aktywuje.</li>",
+        "name": "Kryształowy Koralik",
+        "id": 30,
+        "index": "CRYSTAL_BEAD",
+        "type": 3,
+        "rarity": 3,
+        "image": "iconAddon_beadCrystal"
+    },
+    {
+        "description": "Jednorazowe rękawiczki medyczne noszone po to, aby uniknąć zanieczyszczenia krzyżowego.<br><li><b>Umiarkowanie zwiększają</b> bonus postępu za dobre zaliczenie testu umiejętności.</li>",
+        "name": "Gumowe Rękawiczki",
+        "id": 31,
+        "index": "RUBBER_GLOVES",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_gloves"
+    },
+    {
+        "description": "Taśma medyczna wysokiej jakości służąca do zamykania małych ran.<br><li><b>Nieznacznie przyspiesza</b> leczenie.</li>",
+        "name": "Plaster Motylkowy",
+        "id": 32,
+        "index": "BUTTERFLY_TAPE",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_butterflyTape"
+    },
+    {
+        "description": "Zestaw bandaży znajdujący się zazwyczaj w apteczkach pierwszej pomocy.<br><li>Dodaje <b>8 ładunków</b> do apteczki.</li>",
+        "name": "Bandaże",
+        "id": 33,
+        "index": "BANDAGES",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_bandages"
+    },
+    {
+        "description": "Pospolita gąbka służąca do pochłaniania dodatkowej ilości krwi. Zapewnia łatwiejszy dostęp do ran.<br><li><b>Znacznie zwiększa</b> bonus postępu za dobre zaliczenie testu umiejętności.</li>",
+        "name": "Gąbka",
+        "id": 34,
+        "index": "SPONGE",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_sponge"
+    },
+    {
+        "description": "Opakowanie bandaży, które przylegają do siebie bez potrzeby używania zacisków, co pozwala na szybsze i dokładniejsze opatrywanie ran.<br><li>Dodaje <b>8 ładunków</b> do apteczki.</li><li><b>Nieznacznie przyspiesza</b> leczenie.</li>",
+        "name": "Samoprzylepny bandaż",
+        "id": 35,
+        "index": "SELF_ADHERENT_WRAP",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_selfAdherentWrap"
+    },
+    {
+        "description": "Nie jest to wprawdzie profesjonalny sprzęt medyczny, ale nadaje się do szybkiego, choć bolesnego zamykania rany.<br><li><b>Umiarkowanie zwiększa </b> szansę na wywołanie testu umiejętności.</li><li><b>100$ dodatkowych Punktów Krwi</b> za wykonanie świetnego testu umiejętności.</li><li><b>Nieznacznie przyspiesza</b> leczenie.</li>",
+        "name": "Igła i nić",
+        "id": 36,
+        "index": "NEEDLE_AND_THREAD",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_needAndThread"
+    },
+    {
+        "description": "Nożyczki zaprojektowane do łatwego przecinania tkanin.<br><li><b>Umiarkowanie przyspieszają</b> leczenie.</li>",
+        "name": "Medyczne Nożyce",
+        "id": 37,
+        "index": "MEDICAL_SCISSORS",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_scissors"
+    },
+    {
+        "description": "Sterylna gaza używana do opatrywania różnych ran. Stanowi część zestawu pielęgnacyjnego.<br><li>Dodaje <b>12 ładunków</b> do apteczki.</li>",
+        "name": "Zwój gazy",
+        "id": 38,
+        "index": "GAUZE_ROLL",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_gauseRoll"
+    },
+    {
+        "description": "Szwy używane do zamykania ran i łączenia tkanki. Mimo że szwy chirurgiczne są bardzo skuteczne, są także trudne w użyciu.<br><li><b>Znacznie zwiększa</b> szansę na wywołanie testu umiejętności.</li><li><b>150% dodatkowych Punktów Krwi</b> otrzymywanych za świetne zaliczenie testu umiejętności.</li><li><b>Nieznacznie przyspiesza</b> leczenie.</li>",
+        "name": "Chirurgiczny szew",
+        "id": 39,
+        "index": "SURGICAL_SUTURE",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_surgicalSuture"
+    },
+    {
+        "description": "Opakowanie żelowych opatrunków stosowanych do opatrywania ciężkich ran.<br><li>Dodaje <b>16 ładunków</b> do apteczki.</li>",
+        "name": "Żelowy opatrunek",
+        "id": 40,
+        "index": "GEL_DRESSINGS",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_gelDressings"
+    },
+    {
+        "description": "Opatrunek o właściwościach absorpcyjnych, który zapobiega wyciekom płynów ustrojowych. Stosowany do opatrywania dużych ran brzucha.<br><li><b>Znacznie przyspiesza</b> leczenie.</li><li><b>Zmniejsza liczbę ładunków</b> o <b>8</b>.</li>",
+        "name": "Opatrunek na brzuch",
+        "id": 41,
+        "index": "ABDOMINAL_DRESSING",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_abdominalDressing"
+    },
+    {
+        "description": "Biały proszek o właściwościach koagulacyjnych. Po naniesieniu na ranę zatrzymuje krwotok.<br><li>Naciśnij przycisk <i>drugiej akcji</i> podczas leczenia apteczką, aby skorzystać z Odczynnika.</li><li>Ranny ocalały, na którym użyty zostanie <i>Odczynnik</i>, otrzymuje efekt <b>Wytrzymałość</b> na <b>8 sekund</b>. W tym czasie obrażenia, które wprowadziłyby ocalałego w stan agonii, wywołają zamiast tego efekt <b>głębokiej rany</b>. Ocalały ma <b>20 sekund</b>, aby się <i>uleczyć</i>.</li><li>Jeśli ocalały odniesie jakiekolwiek obrażenia podczas trwania efektu <b>głębokiej rany</b> lub jeśli czas efektu <b>głębokiej rany</b> dobiegnie końca, ocalały przejdzie natychmiast w stan agonii.</li><li>Zużywa apteczkę.</li>",
+        "name": "Odczynnik",
+        "id": 42,
+        "index": "STYPTIC_AGENT",
+        "type": 4,
+        "rarity": 3,
+        "image": "iconAddon_stypticAgent"
+    },
+    {
+        "description": "Substancja przeciwkrwotoczna, która w mgnieniu oka zatrzymuje krwawienie.<br><li>Naciśnij przycisk <i>drugiej akcji</i> podczas leczenia apteczką, aby skorzystać z zastrzyku tamującego krwawienie.</li><li>Ocalały podlegający działaniu substancji będzie biernie odzyskiwał zdrowie przez <b>16</b> sekund od użycia.</li><li>Wymagany czas jest modyfikowany przez umiejętności, przedmioty i dodatki, które wpływają na <i>prędkość leczenia</i>.</li><li>Efekt jest anulowany, gdy ocalały zmieni stan zdrowia lub zostanie podniesiony.</li><li>Zużywa apteczkę.</li>",
+        "name": "Zastrzyk Tamujący Krwawienie",
+        "id": 43,
+        "index": "ANTI_HEMORRHAGIC_SYRINGE",
+        "type": 4,
+        "rarity": 4,
+        "image": "iconAddon_syringe"
+    },
+    {
+        "description": "Użyteczne narzędzie służące do zaciskania gumowych węży ogrodowych i przytrzymywania drutów we właściwym miejscu. Zapobiega nieszczęśliwym wypadkom.<br><li>Hałasy wywoływane przez naprawy są ograniczone, a ich zasięg zmniejszony o 8 metrów.</li>",
+        "name": "Kleszcze",
+        "id": 44,
+        "index": "SPRING_CLAMP",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_springClamp"
+    },
+    {
+        "description": "Sprężyny, śruby i koła zębate. Przeważnie bezużyteczne śmieci.<br><li>Dodają <b>8 ładunków</b> do skrzynki z narzędziami.</li>",
+        "name": "Skrawki",
+        "id": 45,
+        "index": "SCRAPS",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_scraps"
+    },
+    {
+        "description": "Zwyczajna szmatka. Jest podejrzanie czysta.<br><li><b>Nieznacznie zwiększa</b> prędkość naprawy za pomocą skrzynki z narzędziami.</li>",
+        "name": "Czysta Szmatka",
+        "id": 46,
+        "index": "CLEAN_RAG",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_cleanRag"
+    },
+    {
+        "description": "Przenośna, bardzo ciężka szpula miedzianego drutu.<br><li>Dodaje <b>12 ładunków</b> do skrzynki z narzędziami.</li>",
+        "name": "Kłębek Drutu",
+        "id": 47,
+        "index": "WIRE_SPOOL",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_spoolOfWire"
+    },
+    {
+        "description": "Nasadka zapewniająca giętkość i elastyczność śrub znajdujących się głęboko w mechanicznych urządzeniach, poza zasięgiem jakichkolwiek narzędzi.<br><li><b>Umiarkowanie przyspiesza</b> naprawianie za pomocą skrzynki z narzędziami.</li>",
+        "name": "Nasadka przegubowa",
+        "id": 48,
+        "index": "SOCKET_SWIVELS",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_socketSwivels"
+    },
+    {
+        "description": "Grube rękawiczki, które zmniejszają zwinność, ale chronią ręce przed urazem.<br><li>Zapobiega informowaniu zabójcy o sabotowaniu haka za pomocą skrzynki z narzędziami.</li>",
+        "name": "Rękawice Ochronne",
+        "id": 49,
+        "index": "PROTECTIVE_GLOVES",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_protectiveGloves"
+    },
+    {
+        "description": "Na tym kawałku kory namalowano coś, co przypomina instrukcję naprawy.<br><li>Usuwa testy umiejętności podczas naprawy za pomocą skrzynki narzędziowej.</li>",
+        "name": "Instrukcje",
+        "id": 50,
+        "index": "INSTRUCTIONS",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_instructions"
+    },
+    {
+        "description": "Nastawny klucz z mocnym uchwytem. Niezbędny przyrząd w każdej skrzynce z narzędziami.<br><li>Haki sabotowane za pomocą skrzynki narzędziowej odnawiają się 15 sekund dłużej.</li>",
+        "name": "Zacisk",
+        "id": 51,
+        "index": "GRIP_WRENCH",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_gripWrench"
+    },
+    {
+        "description": "Podstawowe narzędzie tnące wykonane z metalowego drutu i dwóch drewnianych uchwytów.<br><li><b>Nieznacznie przyspiesza</b> sabotowanie za pomocą skrzynki z narzędziami.</li>",
+        "name": "Drut do cięcia",
+        "id": 52,
+        "index": "CUTTING_WIRE",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_cuttingWire"
+    },
+    {
+        "description": "Mała piła ręczna przymocowana do metalowego ostrza.<br><li><b>Umiarkowanie przyspiesza</b> sabotowanie za pomocą skrzynki z narzędziami.</li>",
+        "name": "Piła do Metalu",
+        "id": 53,
+        "index": "HACKSAW",
+        "type": 5,
+        "rarity": 2,
+        "image": "iconAddon_metalSaw"
+    },
+    {
+        "description": "Te skomplikowane mechaniczne części wydają się tu nie pasować. Są czyste i lśnią, jakby wyszły prosto z fabryki.<br><li><b>Naprawianie generatora</b> jest zastąpione akcją <b>Zamontuj Markowe Części</b>.</li><li>Akcja <i>Zamontuj Markowe Części</i> automatycznie naprawi <b>15%</b> generatora w przeciągu <b>5 sekund</b>.</li><li>W momencie montowania markowych części wywołane zostaną <b>2 trudne testy umiejętności</b>. </li><li>Każde udane trafienie takiego testu umiejętności zapewni dodatkowe <b>5% postępu w naprawie generatora</b> do maksymalnie <b>25%</b>.</li><li><i>Dodatek znika po użyciu.</i></li>",
+        "name": "Markowe Części",
+        "id": 54,
+        "index": "BRAND_NEW_PART",
+        "type": 5,
+        "rarity": 4,
+        "image": "iconAddon_brandNewPart"
+    },
+    {
+        "description": "Grawerowana obrączka ślubna pochodząca z Mgły, pulsująca nieopisaną i niepojętą energią. <li>Pokazuje aurę obsesji.</li><li>Zmniejsza szansę zostania obsesją zabójcy.</li>",
+        "name": "Niezwykła obrączka ślubna",
+        "id": 55,
+        "index": "UNIQUE_WEDDING_RING",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_uniqueRing"
+    }
+]

@@ -1,0 +1,2267 @@
+[
+    {
+        "description": "Desbloqueie a habilidade de leitura de aura. Cada vez que um gerador for reparado, Sobreviventes a <span class=\"Highlight1\">{0} m</span> do gerador completo serão revelados por <span class=\"Highlight2\">{1} s</span>.<br>Quando o último gerador for reparado, todas as auras dos Sobreviventes são reveladas por <span class=\"Highlight3\">{2} s</span>.",
+        "name": "Murmúrio Amargo",
+        "id": 1,
+        "index": "BITTER_MURMUR",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_bitterMurmur",
+        "tiers": [
+            [
+                16,
+                5,
+                5
+            ],
+            [
+                16,
+                5,
+                7
+            ],
+            [
+                16,
+                5,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "Libera o potencial da habilidade de leitura de auras. Você passa a ver as auras de Sobreviventes morrendo dentro de um alcance de <span class=\"Highlight1\">{0} m</span>.",
+        "name": "Caçador de Cervos",
+        "id": 2,
+        "index": "DEERSTALKER",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_deerstalker",
+        "tiers": [
+            [
+                12
+            ],
+            [
+                24
+            ],
+            [
+                36
+            ]
+        ]
+    },
+    {
+        "description": "Sua emanação horripilante atinge uma distância sobrenatural. Seu raio de terror cresce em <span class=\"Highlight1\">{0}%</span> e você recebe <span class=\"Highlight2\">{1}%</span> mais Pontos de Sangue por ações na categoria Destreza. ",
+        "name": "Angustiante",
+        "flavor": "\"Delicie-se com o medo deles.\"",
+        "id": 3,
+        "index": "DISTRESSING",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_distressing",
+        "tiers": [
+            [
+                22,
+                50
+            ],
+            [
+                24,
+                75
+            ],
+            [
+                26,
+                100
+            ]
+        ]
+    },
+    {
+        "description": "Destrava habilidade furtiva.<br><br>Permanecer imóvel por <span class=\"Highlight1\">{0} s</span> concede a você o efeito do estado <b>Indetectável</b> até se mover ou agir novamente.",
+        "name": "Insidioso",
+        "id": 4,
+        "index": "INSIDIOUS",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_insidious",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                3
+            ],
+            [
+                2
+            ]
+        ]
+    },
+    {
+        "description": "Feitiço que ganha força drenando a esperança. O Totem Enfeitiçado lhe dá novas energias quando os Sobreviventes estiverem prestes a escapar.<br>Assim que ativarem os Portões de Saída, esse Feitiço anima um Totem Inofensivo, caso ainda haja algum no mapa.</br><br>Enquanto o Feitiço se mantiver ativo,<li>os Sobreviventes sofrem o efeito de estado <b><i>Exposto</i></b>.</li><li>Você também ganha mais <span class=\"Highlight1\">{0}%</span> de velocidade de movimento.</li><br>O Feitiço só cessa se o Totem correspondente for purificado.<br>",
+        "name": "Feitiço: Ninguém Escapa da Morte",
+        "flavor": "\"E a fera ficou mais rápida e mais forte, como se o chicote umbroso da Entidade lhe fustigasse o lombo.\"",
+        "id": 5,
+        "index": "HEX_NO_ONE_ESCAPES_DEATH",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_noOneEscapesDeath",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "Feitiço que ganha força drenando a esperança. A falsa esperança dos Sobreviventes enche você de entusiasmo e fortalece seus totens. Um ponto de progressão é concedido para cada Totem Inofensivo e Totem Enfeitiçado no mapa. <br><li>Para cada ponto de progressão, receba <span class=\"Highlight1\">{0}%</span> mais Pontos de Sangue por realizar ações da categoria Caçador.</li><li>Para cada ficha, a velocidade de purificação dos Sobreviventes reduz em <span class=\"Highlight2\">{1}%</span>.</li><li>Receba uma notificação quando alguém começar a purificar um Totem de Feitiço.</li><br><i>Os efeitos do Feitiço permanecerão enquanto o Totem correspondente estiver ativo.</i>",
+        "name": "Feitiço: Emoção da Caçada",
+        "id": 6,
+        "index": "HEX_THRILL_OF_THE_HUNT",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_thrillOfTheHunt",
+        "tiers": [
+            [
+                6,
+                4
+            ],
+            [
+                8,
+                5
+            ],
+            [
+                10,
+                6
+            ]
+        ]
+    },
+    {
+        "description": "Seus cuidados fervorosos dos ganchos do porão atiçaram o interesse da Entidade. Os ganchos do porão concedem os seguintes bônus:<br><li>Progresso da Entidade <span class=\"Highlight1\">{0}%</span> mais rápido.</li><li><span class=\"Highlight2\">{1}%</span> a mais de dificuldade em tentativas de fuga.</li><li><span class=\"Highlight3\">{2}%</span> a mais de penalidade para fugas malsucedidas.</li>",
+        "name": "Santuário Monstruoso",
+        "flavor": "\"E então você saberá que não há escapatória. Quem fica pendurado nas profundezas encara o sombrio.\"",
+        "id": 7,
+        "index": "MONSTROUS_SHRINE",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_monstrousShrine",
+        "tiers": [
+            [
+                3,
+                5,
+                3
+            ],
+            [
+                6,
+                10,
+                6
+            ],
+            [
+                9,
+                15,
+                9
+            ]
+        ]
+    },
+    {
+        "description": "Você sabe onde bater para fazer o adversário sangrar. Ferimentos causados por <i>ataques básicos</i> infligem os efeitos do estado <b>Dilacerado</b> e <b>Hemorragia</b>. A <b>Hemorragia</b> aumenta <span class=\"Highlight\">{0}</span> a frequência de sangramento do Sobrevivente.<br>O efeito <b>Hemorragia</b> causado por <i>Açougueiro Desleixado</i> cessará quando o Sobrevivente for totalmente curado.",
+        "name": "Açougueiro Desleixado",
+        "flavor": "\"Está na natureza sádica. Não há morte rápida, pois esta abominação se deleita no obsceno espetáculo de nosso sofrimento agonizante.\"",
+        "tiers": [
+            [
+                "ligeiramente"
+            ],
+            [
+                "moderadamente"
+            ],
+            [
+                "consideravelmente"
+            ]
+        ],
+        "id": 8,
+        "index": "SLOPPY_BUTCHER",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_sloppyButcher"
+    },
+    {
+        "description": "Os corvos encontrados no mundo podem se comunicar diretamente com você. <span class=\"Highlight1\">{0}%</span> das vezes, corvos grasnando são uma indicação visual quando você estiver num raio de <span class=\"Highlight2\">{1} m</span>.<br><i>Espiões das Sombras</i> tem um tempo de recarga de <span class=\"Highlight3\">{2} s.</span> ",
+        "name": "Espiões das Sombras",
+        "flavor": "\"Eles nos atormentam das sombras, ferindo nossas mentes com cada crocito.\"",
+        "id": 9,
+        "index": "SPIES_FROM_THE_SHADOWS",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_spiesFromTheShadows",
+        "tiers": [
+            [
+                100,
+                20,
+                5
+            ],
+            [
+                100,
+                28,
+                5
+            ],
+            [
+                100,
+                36,
+                5
+            ]
+        ]
+    },
+    {
+        "description": "Você se recupera mais rápido de ataques perdidos com sua arma principal. O tempo de recarga após <i>ataques básicos</i> perdidos diminui em <span class=\"Highlight1\">{0}%</span>.",
+        "name": "Implácavel",
+        "id": 10,
+        "index": "UNRELENTING",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_unrelenting",
+        "tiers": [
+            [
+                20
+            ],
+            [
+                25
+            ],
+            [
+                30
+            ]
+        ]
+    },
+    {
+        "description": "Você compreende a voz da Entidade parcialmente de vez em quando, ao ouvir os sussurros dela num raio de <span class=\"Highlight1\">{0} m</span> de um Sobrevivente.",
+        "name": "Sussurros",
+        "flavor": "\"As motivações da Névoa são obscuras, mas é inegável que ela costuma ficar do lado da besta.\" — Caderno",
+        "id": 11,
+        "index": "WHISPERS",
+        "owner": "NOONE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_whispers",
+        "tiers": [
+            [
+                48
+            ],
+            [
+                40
+            ],
+            [
+                32
+            ]
+        ]
+    },
+    {
+        "description": "Você é extremamente sensível à respiração de suas presas. A respiração de Sobreviventes machucados é <span class=\"Highlight1\">{0}%</span> mais alta e a respiração normal é <span class=\"Highlight2\">{1}%</span> mais alta.",
+        "name": "Estridor",
+        "flavor": "“Se você não parar e recuperar o fôlego... ela o fará.”",
+        "id": 12,
+        "index": "STRIDOR",
+        "owner": "NURSE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "image": "iconPerks_stridor",
+        "tiers": [
+            [
+                25,
+                0
+            ],
+            [
+                50,
+                0
+            ],
+            [
+                50,
+                25
+            ]
+        ]
+    },
+    {
+        "description": "A coragem deles se esvai diante da morte inevitável.<br>Todos os Sobreviventes perdem <span class=\"Highlight1\">{0}%</span> de velocidade nas ações de reparo, sabotagem e purificação de totem para cada colega ferido, morrendo ou enganchado, chegando a até <span class=\"Highlight1\">{1}%</span> de penalidade.",
+        "name": "Tanatofobia",
+        "flavor": "\"Ela brinca conosco e saboreia nossa dor.\"",
+        "id": 13,
+        "index": "THANATOPHOBIA",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NURSE",
+        "image": "iconPerks_thatanophobia",
+        "tiers": [
+            [
+                4,
+                16
+            ],
+            [
+                4.5,
+                18
+            ],
+            [
+                5,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "Desbloqueie a habilidade de leitura de aura. As auras dos Sobreviventes que estão curando ou sendo curadas são reveladas a você quando estão a uma distância de <span class=\"Highlight1\">{0} m</span>.",
+        "name": "Chamado da Enfermeira",
+        "flavor": "“Ainda ligada aos fragmentos de sua vida passada, ela é atraída por aqueles que precisam de ajuda.”",
+        "id": 14,
+        "index": "A_NURSES_CALLING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NURSE",
+        "image": "iconPerks_aNursesCalling",
+        "tiers": [
+            [
+                20
+            ],
+            [
+                24
+            ],
+            [
+                28
+            ]
+        ]
+    },
+    {
+        "description": "Sua mera presença causa um imenso pavor. A chance de gerar testes de perícia para Sobreviventes no seu raio de terror ao reparar ou curar cresce em <span class=\"Highlight1\">{0}%</span>, com zonas de sucesso reduzidas em <span class=\"Highlight2\">{1}%</span>.",
+        "name": "Presença Desconcertante",
+        "flavor": "\"É uma presença que nos atinge.\"",
+        "id": 15,
+        "index": "UNNERVING_PRESENCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRAPPER",
+        "image": "iconPerks_unnervingPresence",
+        "tiers": [
+            [
+                10,
+                40
+            ],
+            [
+                10,
+                50
+            ],
+            [
+                10,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "Sua grande força permite que você sobrepuje as defesas de suas presas. Destrua <b>barricadas, geradores e objetos quebráveis</b> <span class=\"Highlight1\">{0}%</span> mais rápido.",
+        "name": "Força Brutal",
+        "flavor": "\"São mais do que meros músculos. Um poder obscuro motiva a besta.\"",
+        "id": 16,
+        "index": "BRUTAL_STRENGTH",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRAPPER",
+        "image": "iconPerks_brutalStrength",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                15
+            ],
+            [
+                20
+            ]
+        ]
+    },
+    {
+        "description": "Você fica animado pensando no enganchamento da presa. Aumenta a velocidade de movimento enquanto estiver transportando corpos em <span class=\"Highlight1\">{0}%</span>. Enquanto estiver transportando um corpo, seu raio de terror cresce em <span class=\"Highlight2\">{1} m</span>.",
+        "name": "Agitação",
+        "flavor": "\"Em algum momento, o desejo de nos colocar no gancho ficou mais importante que o desejo de nos matar.\"",
+        "id": 17,
+        "index": "AGITATION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRAPPER",
+        "image": "iconPerks_agitation",
+        "tiers": [
+            [
+                6,
+                6
+            ],
+            [
+                12,
+                8
+            ],
+            [
+                18,
+                12
+            ]
+        ]
+    },
+    {
+        "description": "Suas precisas habilidades de rastreamento lhe permitem aprimorar as perturbações deixadas pelos Sobreviventes enquanto eles correm.<br>Marcas deixadas pelos Sobreviventes irão aparecer <span class=\"Highlight\">{0}</span> mais juntas.",
+        "name": "Predador",
+        "flavor": "\"Nunca fique parado e espere estar sempre dois passos à frente da besta.\" — Caderno",
+        "tiers": [
+            [
+                "ligeiramente"
+            ],
+            [
+                "moderadamente"
+            ],
+            [
+                "consideravelmente"
+            ]
+        ],
+        "id": 18,
+        "index": "PREDATOR",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WRAITH",
+        "image": "iconPerks_predator"
+    },
+    {
+        "description": "Como um cão de caça, você sente o cheiro de sangue a uma grande distância. Marcas de sangue fresco ficam <span class=\"Highlight1\">bem</span> mais discerníveis do que o normal e podem ser rastreadas por <span class=\"Highlight2\">{0} s</span> a mais do que de costume.",
+        "name": "Cão de Caça",
+        "flavor": "\"Seixos cintilantes à luz da lua; minha vida goteja em um rastro tão fácil de seguir.\"",
+        "id": 19,
+        "index": "BLOODHOUND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WRAITH",
+        "image": "iconPerks_bloodhound",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "Você tem uma visão afiada na escuridão da noite. Seu campo de visão é <span class=\"Highlight2\">{0} graus</span> mais amplo do que o normal.<br><i>Não cumulativo com outros aumentos de campo de visão.</i>",
+        "name": "Nascido das Sombras",
+        "flavor": "\"Brilhando na mais sombria escuridão, os olhos dele atravessam a noite e ferroam sua alma.\"",
+        "id": 20,
+        "index": "SHADOWBORN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "WRAITH",
+        "image": "iconPerks_shadowborn",
+        "tiers": [
+            [
+                9
+            ],
+            [
+                12
+            ],
+            [
+                15
+            ]
+        ]
+    },
+    {
+        "description": "Você é resistente à dor. Você reduz a duração de <b>atordoamentos causados por barricadas</b> em <span class=\"Highlight1\">{0}%</span>.",
+        "name": "Resistência",
+        "flavor": "He stops at nothing.",
+        "id": 21,
+        "index": "ENDURING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HILLBILLY",
+        "image": "iconPerks_enduring",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                45
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "Ao contrário de outras criaturas da Névoa, você se adaptou à luz. Você é imune à Cegueira causada por lanternas, fogos de artifício, Granadas de Luz e Minas Explosivas. Sobreviventes que tentarem cegar você terão as auras reveladas por <span class=\"Highlight1\">{0} s.</span>",
+        "name": "Nascido da Luz",
+        "flavor": "\"Esses monstros... eles se adaptam! Eles ressurgem com poderes novos e estranhos.\" — Diário de Vigo",
+        "id": 22,
+        "index": "LIGHTBORN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HILLBILLY",
+        "image": "iconPerks_lightborn",
+        "tiers": [
+            [
+                6
+            ],
+            [
+                8
+            ],
+            [
+                10
+            ]
+        ]
+    },
+    {
+        "description": "Quando o reparo do Gerador chega a <span class=\"Highlight1\">{0}%</span>, dispara um sinal sonoro alto e você recebe o efeito do estado <b>Indetectável</b> por <span class=\"Highlight2\">{2} s</span>.",
+        "name": "Aprimorador",
+        "flavor": "\"O Caipira faz ferramentas impressionantes com sucata. Ferramentas pensadas para nos mutilar com criatividade...\" — Caderno",
+        "id": 23,
+        "index": "TINKERER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HILLBILLY",
+        "image": "iconPerks_tinkerer",
+        "tiers": [
+            [
+                70,
+                12
+            ],
+            [
+                70,
+                14
+            ],
+            [
+                70,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "Você fica <b>obcecado</b> por um Sobrevivente.<br>Ganhe um ponto de progressão a cada vez que acertar alguém que não seja a Obsessão com um <i>ataque básico</i>. <br>Cada ponto de progressão proporciona <span class=\"Highlight1\">{0}%</span> acumuláveis de tempo de recarga reduzido para <i>ataques básicos</i> bem sucedidos. Você pode ganhar até <span class=\"Highlight2\">{1}</span> pontos de progressão.<br>Acertar sua Obsessão com um <i>ataque básico</i>, contudo, fará você perder <span class=\"Highlight3\">{2}</span> pontos de progressão. <br>Você não pode ganhar pontos de progressão se sua Obsessão for sacrificada ou morta.<br><li><i>O Assassino só pode ficar <b>obcecado</b> com um Sobrevivente de cada vez.</i></li>",
+        "name": "Deixe o melhor pro final",
+        "flavor": "\"A Morte chegou à sua pequena cidade, xerife.\" — Dr. Sam Loomis",
+        "id": 24,
+        "index": "SAVE_THE_BEST_FOR_LAST",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SHAPE",
+        "image": "iconPerks_saveTheBestForLast",
+        "tiers": [
+            [
+                5,
+                8,
+                4
+            ],
+            [
+                5,
+                8,
+                3
+            ],
+            [
+                5,
+                8,
+                2
+            ]
+        ]
+    },
+    {
+        "description": "Você fica <b>obcecado</b> por um Sobrevivente.<br>Toda vez que persegue sua obsessão e a deixa fugir, você recebe um ponto de progressão até um máximo de {0} pontos.<br>Cada ponto aumenta sua velocidade de movimento em <span class=\"Highlight1\">{1}%</span>.<br>Executar um <i>ataque básico</i> ou <i>Ataque Especial</i> gasta um ponto.<br><li><i>O Assassino só pode ficar <b>obcecado</b> por um Sobrevivente de cada vez.</i></li>",
+        "name": "Brinque com a sua comida",
+        "flavor": "\"Você os enganou, não é Michael? Mas não a mim.\" — Dr. Sam Loomis",
+        "id": 25,
+        "index": "PLAY_WITH_YOUR_FOOD",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SHAPE",
+        "image": "iconPerks_playWithYourFood",
+        "tiers": [
+            [
+                3,
+                3
+            ],
+            [
+                3,
+                4
+            ],
+            [
+                3,
+                5
+            ]
+        ]
+    },
+    {
+        "description": "Você fica <b>obcecado</b> por um Sobrevivente.<br>Sua obsessão ganha um bônus de <span class=\"Highlight1\">{0}%</span> de velocidade de ação para desenganchar e curar outros Sobreviventes.<br>Sempre que enganchar um Sobrevivente que não seja a Obsessão, se a Obsessão estiver viva, você ganha um ponto de progressão.<br>Se a Obsessão estiver viva, todos os Sobreviventes que não forem a Obsessão sofrem uma penalidade de <span class=\"Highlight2\">{1}%</span> nas velocidades de Reparo, Cura e Sabotagem para cada ponto de progressão.<br><li><i>O Assassino só pode ficar obcecado com um Sobrevivente de cada vez.</i></li>",
+        "name": "Perdendo a Esperança",
+        "flavor": "This isn't a man...",
+        "id": 26,
+        "index": "DYING_LIGHT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SHAPE",
+        "image": "iconPerks_dyingLight",
+        "tiers": [
+            [
+                33,
+                2
+            ],
+            [
+                33,
+                2.5
+            ],
+            [
+                33,
+                3
+            ]
+        ]
+    },
+    {
+        "description": "Feitiço que prejudica a habilidade de leitura de auras. Atingir um Sobrevivente com um <i>ataque básico</i> enquanto o Totem Enfeitiçado estiver ativo aplicará o efeito do estado <b>Cegueira</b>. Esse efeito vale para os últimos <span class=\"Highlight1\">{0}</span> Sobreviventes atingidos.<br><i>Os efeitos do Feitiço permanecerão enquanto o Totem correspondente estiver ativo.</i>",
+        "name": "Feitiço: O Terceiro Selo",
+        "flavor": "\"Ela tocou a sua pele. Você carrega a marca da bruxa!\"",
+        "id": 27,
+        "index": "HEX_THE_THIRD_SEAL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HAG",
+        "image": "iconPerks_theThirdSeal",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "Um Feitiço que afeta o progresso de todos os reparos dos Sobreviventes nos geradores. Todos os geradores são afetados pelo <i>Feitiço: Arruinar</i>. Se um gerador não estiver sendo reparado por um Sobrevivente, o progresso dele começará a regredir imediata e automaticamente a um ritmo de <span class=\"Highlight1\">{0}%</span> da velocidade de regressão normal.<br><br><i>Os efeitos do Feitiço permanecerão enquanto o Totem correspondente estiver ativo.</i><br>",
+        "name": "Feitiço: Arruinar",
+        "flavor": "\"Você foi amaldiçoado. Isso trará sua ruína.\"",
+        "id": 28,
+        "index": "HEX_RUIN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HAG",
+        "image": "iconPerks_ruin",
+        "tiers": [
+            [
+                100
+            ],
+            [
+                150
+            ],
+            [
+                200
+            ]
+        ]
+    },
+    {
+        "description": "Feitiço que ganha força drenando a esperança. A falsa esperança dos Sobreviventes atiça sua fome. Quando um Sobrevivente for resgatado de um gancho a pelo menos <span class=\"Highlight1\">24 m</span> de distância, um ponto de progressão será associada à habilidade Devorar Esperança.<br><li><span class=\"Highlight3\">2 pontos de progressão </span>: <span class=\"Highlight3\">10 s</span> após enganchar um Sobrevivente, você ganhará <span class=\"Highlight2\">{0}%</span> de <b><i>Celeridade</i></b> por <span class=\"Highlight3\">10 s</span>.</li><li><span class=\"Highlight3\">3 pontos de progressão </span>: Causa o efeito <b><i>Exposto</i></b> nos Sobreviventes.</li><li><span class=\"Highlight2\">5 pontos de progressão </span>: Concede a habilidade de matar Sobreviventes com suas próprias mãos.</li><br><i>Os efeitos do Feitiço permanecerão enquanto o Totem correspondente estiver ativo.</i><br>",
+        "name": "Feitiço: Devorar Esperança",
+        "flavor": "\"Se você não fizer nada, será responsável pelo sangue derramado. Se salvar alguém, a fome dela aumentará.\"",
+        "id": 29,
+        "index": "HEX_DEVOUR_HOPE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HAG",
+        "image": "iconPerks_devourHope",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ]
+    },
+    {
+        "description": "Sua presença inspira um grande medo. Sobreviventes dentro do seu raio de terror sofrem de ineficiência.<br>As taxas de consumo de itens de Sobreviventes afetados aumentam em <span class=\"Highlight1\">{0}%</span>.",
+        "name": "Presença Esmagadora",
+        "flavor": "\"Merda! Eu deixei cair a gaze!\"",
+        "id": 30,
+        "index": "OVERWHELMING_PRESENCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DOCTOR",
+        "image": "iconPerks_overwhelmingPresence",
+        "tiers": [
+            [
+                80
+            ],
+            [
+                90
+            ],
+            [
+                100
+            ]
+        ]
+    },
+    {
+        "description": "Meticuloso na abordagem, aterrorizante nas ações.<br>Enquanto estiver em perseguição, você ganhará mais <span class=\"Highlight1\">{0} m</span> de raio de terror. Sem perseguir ninguém, você perderá <span class=\"Highlight2\">{0} m</span> de raio de terror, mas ganhará mais <span class=\"Highlight3\">{1} graus</span> de campo de visão.<br><i>O ganho de campo de visão não é cumulativo.</i>",
+        "name": "Monitore & Abuse",
+        "flavor": "\"É hora do tratamento!\" — O Médico",
+        "id": 31,
+        "index": "MONITOR_AND_ABUSE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DOCTOR",
+        "image": "iconPerks_monitorAndAbuse",
+        "tiers": [
+            [
+                8,
+                8,
+                3
+            ],
+            [
+                8,
+                8,
+                5
+            ],
+            [
+                8,
+                8,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "O ódio pelo progresso te alimenta.<br>Sobrecarregue um gerador ao realizar a ação de <b>Danificar Gerador</b>. O próximo Sobrevivente a interagir com o gerador será obrigado a passar por um Teste de Perícia <span class=\"Highlight1\">extremamente</span> difícil. Falhar nesse Teste de Perícia resultará numa redução de progresso adicional de <span class=\"Highlight2\">{0}%</span>.<br>Passar no Teste de Perícia não gera progresso, mas evita a explosão do gerador.",
+        "name": "Sobrecarga",
+        "flavor": "\"É uma armadilha. Mas uma armadilha inevitável...\" — O Médico",
+        "id": 32,
+        "index": "OVERCHARGE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DOCTOR",
+        "image": "iconPerks_generatorOvercharge",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ]
+    },
+    {
+        "description": "Seu desejo de matar é tão intenso que sua conexão com a Entidade se perde por um instante, tornando você totalmente imprevisível.<br><br>Concede o efeito <b>Indetectável</b> assim que você ganha Sede de Sangue Nível 1. O efeito do estado é removido assim que você perde a Sede de Sangue.<br><br><li>Ganhe <span class=\"Highlight1\">{0}%</span> mais Pontos de Sangue por ações na categoria Caçador.</li>",
+        "name": "Besta da Caça",
+        "flavor": "\"Pra onde ela foi?\"",
+        "id": 33,
+        "index": "BEAST_OF_PREY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HUNTRESS",
+        "image": "iconPerks_BeastOfPrey",
+        "tiers": [
+            [
+                30
+            ],
+            [
+                40
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "Libera o potencial da habilidade de leitura de auras. As auras dos Sobreviventes são reveladas a você por <span class=\"Highlight1\">{0} s</span> quando eles entram no porão e você está a mais do que <span class=\"Highlight2\">{1} m</span> de distância da entrada do porão.<br>A habilidade <i>Instinto Territorial</i> pode ser ativada apenas uma vez a cada <span class=\"Highlight3\">{2} s</span>.",
+        "name": "Instinto Territorial",
+        "id": 34,
+        "index": "TERRITORIAL_IMPERATIVE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HUNTRESS",
+        "image": "iconPerks_TerritorialImperative",
+        "tiers": [
+            [
+                3,
+                32,
+                30
+            ],
+            [
+                3,
+                32,
+                25
+            ],
+            [
+                3,
+                32,
+                20
+            ]
+        ]
+    },
+    {
+        "description": "Um Feitiço cujo poder tem as raízes no desespero. Sua caçada é uma irresistível canção de pavor que atrapalha a atenção de sua presa. Os Sobreviventes recebem uma redução de <span class=\"Highlight1\">{0}%</span> como penalidade quando erram um Teste de Perícia enquanto curam ou reparam.<br>Cada vez que um Sobrevivente é enganchado, a Canção de Ninar da Caçadora fica mais forte. Ela afeta os alertas dos testes de perícia de cura e de reparo:<br><li><b>1 a 4 pontos de progressão:</b> o tempo entre o aviso e o Teste de Perícia fica mais curto.</li><li><b>5 pontos de progressão:</b> sem aviso do Teste de Perícia.</li><br><i>Os efeitos do Feitiço permanecerão enquanto o Totem correspondente estiver ativo.</i>",
+        "name": "Feitiço: Canção de Ninar da Caçadora",
+        "id": 35,
+        "index": "HEX_HUNTRESS_LULLABY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "HUNTRESS",
+        "image": "iconPerks_HuntressLullaby",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                4
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    {
+        "description": "Os ferimentos dolorosos causados pelos seus ataques brutais dificultam gritar por ajuda.<br>Sobreviventes que entram no estado Morrendo devido a seus ataques básicos não são revelados a outros Sobreviventes quando estão além de <span class=\"Highlight1\">{2} m</span> de alcance.<br>Sobreviventes que entram no estado Morrendo devido a seus ataques básicos rastejam <span class=\"Highlight2\">{1}% mais devagar</span> por <span class=\"Highlight3\">{0} s</span>.<br>Durante este período, os Sobreviventes são afetados pelo efeito do estado <b>Cegueira</b>.",
+        "name": "Nocaute",
+        "flavor": "\"Ah, essa arma não presta. A tradição é... na marreta! Entendeu, assim é melhor. Eles morrem melhor assim.\" — Nubbins Sawyer",
+        "id": 36,
+        "index": "KNOCK_OUT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CANNIBAL",
+        "image": "iconPerks_knockOut",
+        "tiers": [
+            [
+                32,
+                50,
+                15
+            ],
+            [
+                24,
+                50,
+                15
+            ],
+            [
+                16,
+                50,
+                15
+            ]
+        ]
+    },
+    {
+        "description": "Uma conexão profunda com a Entidade libera o potencial de habilidade de leitura de auras. Quando um sobrevivente for enganchado, as auras de todos os outros Sobreviventes serão reveladas a você por <span class=\"Highlight1\">{0} s</span>, caso estejam a mais de <span class=\"Highlight2\">{1} m</span> do gancho.<br><li>Toda vez que um Sobrevivente for enganchado pela primeira vez, você receberá um bônus cumulativo de <span class=\"Highlight3\">{2}%</span> em todos os ganhos de Pontos de Sangue, até um máximo de <span class=\"Highlight4\">{3}%</span>.<br>O bônus aos Pontos de Sangue só será concedido no final da partida.</li>",
+        "name": "Churrasco com Chili",
+        "flavor": "\"Eu não tenho prazer em matar. Só acho que há coisas que devemos fazer, não importa se gostamos ou não.\" — Drayton Sawyer",
+        "id": 37,
+        "index": "BARBECUE_AND_CHILI",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CANNIBAL",
+        "image": "iconPerks_BBQAndChili",
+        "tiers": [
+            [
+                4,
+                40,
+                25,
+                50
+            ],
+            [
+                4,
+                40,
+                25,
+                75
+            ],
+            [
+                4,
+                40,
+                25,
+                100
+            ]
+        ]
+    },
+    {
+        "description": "Seus ataques perversos fazem os Sobreviventes soltarem seus itens. O item perdido é consumido pela Entidade após <span class=\"Highlight1\">{0} s</span> se não for pego.<br>Revela os itens no chão a <span class=\"Highlight2\">{1} m</span> com uma aura branca. A aura dos itens vai ficando avermelhada, até serem consumidos pela Entidade.",
+        "name": "A Morte de Franklin",
+        "flavor": "\"Sally, estou ouvindo algo. Pare! Pare!\" – Franklin",
+        "id": 38,
+        "index": "FRANKLINS_DEMISE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CANNIBAL",
+        "image": "iconPerks_franklinsLoss",
+        "tiers": [
+            [
+                150,
+                32
+            ],
+            [
+                120,
+                32
+            ],
+            [
+                90,
+                32
+            ]
+        ]
+    },
+    {
+        "description": "A pressão para não perder a presa começa a aumentar, você é tomado pelo ódio e se enche de determinação. Toda vez que os Sobreviventes concluírem o reparo de um gerador, o poder da Motivação crescerá.<br><li>Para cada gerador concluído, você receberá um bônus cumulativo de <span class=\"Highlight1\">{0}%</span> de velocidade para as ações de pegar, soltar, pular por cima de janelas ou barricadas, danificar geradores e quebrar barricadas pelo resto da partida.</li>",
+        "name": "Motivação",
+        "id": 39,
+        "index": "FIRE_UP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NIGHTMARE",
+        "image": "iconPerks_fireUp",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                3.5
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "Você fica <b>obcecado</b> por um Sobrevivente. A cada vez que golpear sua Obsessão com um <i>ataque básico</i>, você aumenta o tempo de abertura dos Portões de Saída em <span class=\"Highlight1\">{0} s</span> até um máximo de <span class=\"Highlight2\">{1} s adicionais</span>.<br>A Obsessão não é afetada pela vantagem <i>Lembre-se de Mim.</i><br><li<i>>O Assassino só pode ficar <b>obcecado</b> com um Sobrevivente de cada vez.</i></li>",
+        "name": "Lembre-se de Mim",
+        "id": 40,
+        "index": "REMEMBER_ME",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NIGHTMARE",
+        "image": "iconPerks_rememberMe",
+        "tiers": [
+            [
+                4,
+                8
+            ],
+            [
+                4,
+                12
+            ],
+            [
+                4,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "Assim que um Portão de Saída é aberto, o Guardião Sanguinário é ativado. As auras dos Sobreviventes localizados dentro das áreas de Saída são reveladas a você. <br>Uma vez por partida, enganchar um Sobrevivente enquanto o Guardião Sanguinário está ativo invoca A Entidade para bloquear as duas saídas para todos os Sobreviventes por <span class=\"Highlight1\">{0} s</span>.",
+        "name": "Guardião Sanguinário",
+        "id": 41,
+        "index": "BLOOD_WARDEN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NIGHTMARE",
+        "image": "iconPerks_bloodWarden",
+        "tiers": [
+            [
+                30
+            ],
+            [
+                40
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "Suas modificações engenhosas nos Ganchos avisam quando eles são adulterados.<br><li>Receba uma notificação caso alguém comece a sabotar um Gancho.</li><li>Ao carregar um Sobrevivente, você poderá ver a aura de qualquer outro no raio de <span class=\"Highlight1\">{0} m</span> de um Gancho.</li>",
+        "name": "Truque do Carrasco",
+        "flavor": "\"Sem desculpas, sem erros... e sem choro.\" — Amanda Young",
+        "id": 42,
+        "index": "HANGMANS_TRICK",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "PIG",
+        "image": "iconPerks_hangmansTrick",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                4
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    {
+        "description": "Libera o potencial da habilidade de leitura de auras. Uma aura branca destacará todos os geradores em regresso. Assim que o regresso acabar, uma aura amarela destacará os geradores por <span class=\"Highlight1\">{0} s</span>.<br>O barulho feito por reparos ao gerador soa por mais <span class=\"Highlight2\">{1} m</span>.",
+        "name": "Vigilância",
+        "flavor": "\"Vai se comportar?\" — Amanda Young",
+        "id": 43,
+        "index": "SURVEILLANCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "PIG",
+        "image": "iconPerks_surveillance",
+        "tiers": [
+            [
+                8,
+                8
+            ],
+            [
+                12,
+                8
+            ],
+            [
+                16,
+                8
+            ]
+        ]
+    },
+    {
+        "description": "Quando um Sobrevivente resgatar outro de um Gancho a pelo menos <span class=\"Highlight1\">{0} m</span> de distância de você, a habilidade <i>Faça a sua Escolha</i> faz o Sobrevivente gritar e aplica o efeito do estado <b><i>Exposto</i></b> nele por <span class=\"Highlight2\">{1} s</span>.<br><i>Faça a sua Escolha</i> tem um tempo de recarga de <span class=\"Highlight3\">{2} s</span>. ",
+        "name": "Faça a sua Escolha",
+        "flavor": "\"Você ficaria surpreso com as ferramentas que podem salvar uma vida.\" — Amanda Young",
+        "id": 44,
+        "index": "MAKE_YOUR_CHOICE",
+        "rarity": [
+            2,
+            2,
+            3
+        ],
+        "owner": "PIG",
+        "image": "iconPerks_makeYourChoice",
+        "tiers": [
+            [
+                32,
+                40,
+                40
+            ],
+            [
+                32,
+                50,
+                50
+            ],
+            [
+                32,
+                60,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "Sua força ao carregar Sobreviventes torna fugas quase impossíveis. Efeitos de resistência de Sobreviventes são reduzidos em <span class=\"Highlight1\">{0}%</span>. O tempo para fugir de suas mãos é aumentado em <span class=\"Highlight2\">{1}%</span>.",
+        "name": "Pegada de Ferro",
+        "id": 45,
+        "index": "IRON_GRASP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NOONE",
+        "image": "iconPerks_ironGrasp",
+        "tiers": [
+            [
+                75,
+                4
+            ],
+            [
+                75,
+                8
+            ],
+            [
+                75,
+                12
+            ]
+        ]
+    },
+    {
+        "description": "Sua presença inspira grande medo. Sobreviventes dentro do seu Raio de Terror têm uma penalidade de <span class=\"Highlight1\">{0}%</span> na velocidade de progresso da cura.<br>",
+        "name": "Coulrofobia",
+        "id": 46,
+        "index": "COULROPHOBIA",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CLOWN",
+        "image": "iconPerks_coulrophobia",
+        "tiers": [
+            [
+                30
+            ],
+            [
+                40
+            ],
+            [
+                50
+            ]
+        ]
+    },
+    {
+        "description": "Uma profunda conexão com a Entidade libera grande poder. Após enganchar um Sobrevivente, o próximo gerador que você danificar regride instantaneamente em <span class=\"Highlight1\">{0}%</span> do progresso total. A regressão normal do gerador ocorre após o dano.<br><i>E Assim Gira o Carrossel</i> fica ativo por <span class=\"Highlight1\">{1} s</span> após o Sobrevivente ser enganchado.",
+        "name": "E Assim Gira o Carrossel",
+        "id": 47,
+        "index": "POP_GOES_THE_WEASEL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "CLOWN",
+        "image": "iconPerks_popGoesTheWeasel",
+        "tiers": [
+            [
+                25,
+                35
+            ],
+            [
+                25,
+                40
+            ],
+            [
+                25,
+                45
+            ]
+        ]
+    },
+    {
+        "description": "Sua velocidade ao pular é <span class=\"Highlight1\">{0}%</span> maior.<br>A execução dessa ação faz com que A Entidade bloqueie aquele local por <span class=\"Highlight1\">{1} s</span>.<br>Apenas 1 local pode ser bloqueado dessa maneira por vez. O local de pulo só fica bloqueado para Sobreviventes. <br>Não afeta barricadas.",
+        "name": "Enganei Você!",
+        "id": 48,
+        "index": "BAMBOOZLE",
+        "rarity": [
+            1,
+            2,
+            2
+        ],
+        "owner": "CLOWN",
+        "image": "iconPerks_bamboozle",
+        "tiers": [
+            [
+                5,
+                8
+            ],
+            [
+                10,
+                12
+            ],
+            [
+                15,
+                16
+            ]
+        ]
+    },
+    {
+        "description": "Cada barricada que você quebra aumenta a ira da Entidade.<br>Depois de quebrar <span class=\"Highlight1\">{0} barricadas</span>, a próxima vez que for atordoado por uma barricada, a Entidade quebrará instantaneamente a barricada.<br>Você ainda sofre com a penalidade do efeito de atordoamento.",
+        "name": "Fúria Espiritual",
+        "flavor": "\"Fúria é o sangue dela.\"",
+        "id": 49,
+        "index": "SPIRIT_FURY",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SPIRIT",
+        "image": "iconPerks_spiritFury",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                3
+            ],
+            [
+                2
+            ]
+        ]
+    },
+    {
+        "description": "Dois Totens Enfeitiçados aprisionados aparecerão na Partida.<br>Quando qualquer um dos dois for purificado por um Sobrevivente, todos os Sobreviventes sofrerão o <span class=\"Highlight3\">efeito do estado Exposto</span> por <span class=\"Highlight1\"> {0} s</span>. <br>O Totem Enfeitiçado aprisionado restante vira imediatamente um Totem Inofensivo.<br>",
+        "name": "Feitiço: Terreno Assombrado",
+        "flavor": "\"A casa dela foi profanada.\"",
+        "id": 50,
+        "index": "HEX_HAUNTED_GROUND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SPIRIT",
+        "image": "iconPerks_hauntedGround",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                50
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "Você fica <b>obcecado</b> por um Sobrevivente.<br>Cada vez que um gerador é completado, sua obsessão (um Sobrevivente) vê sua aura por <span class=\"Highlight1\"> {0} s</span>.<br>Cada vez que um gerador é completado, a localização de todos os Sobreviventes é revelada por <span class=\"Highlight2\"> {1} s</span>.<br>Uma vez que todos os geradores estejam completos, a obsessão tem o efeito do estado <span class=\"Highlight3\">Exposto</span> e o Assassino pode <span class=\"Highlight3\">matar</span> a Obsessão.<br><li><i>O Assassino só pode ficar obcecado com um Sobrevivente de cada vez.</i></li>",
+        "name": "Rancor",
+        "id": 51,
+        "index": "RANCOR",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "SPIRIT",
+        "image": "iconPerks_hatred",
+        "tiers": [
+            [
+                5,
+                3
+            ],
+            [
+                4,
+                3
+            ],
+            [
+                3,
+                3
+            ]
+        ]
+    },
+    {
+        "description": "Qualquer Gerador a até <span class=\"Highlight1\">{0} m</span> que esteja sendo reparado por dois ou mais Sobreviventes é marcado por uma aura amarela. Quando o Gerador é marcado pela primeira vez, Discordância o faz emitir um alto sinal sonoro. Quando o Gerador sair do alcance ou deixar de ser reparado por dois ou mais Sobreviventes, a aura permanecerá por mais <span class=\"Highlight2\">4 s</span>.<br>",
+        "name": "Discordância",
+        "flavor": ".\"Espertinhos acabam sendo mortos. Sempre cuidamos disso.\" — A Legião",
+        "id": 52,
+        "index": "DISCORDANCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEGION",
+        "image": "iconPerks_discordance",
+        "tiers": [
+            [
+                64
+            ],
+            [
+                96
+            ],
+            [
+                128
+            ]
+        ]
+    },
+    {
+        "description": "Ao carregar um Sobrevivente, você não sofre tempo de recarga por não acertar <i>ataques básicos</i> e acertar outro Sobrevivente com um <i>ataque básico</i> pausa o tempo que o Sobrevivente carregado tem para se debater em <span class=\"Highlight1\">{0} s</span>.<br>",
+        "name": "Persistência Insana",
+        "flavor": "\"Não tem mais como fugir. A gente manja demais.\" — A Legião",
+        "id": 53,
+        "index": "MAD_GRIT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEGION",
+        "image": "iconPerks_madGrit",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "Você abre armários <span class=\"Highlight1\">{0}%</span> mais rápido.<br><br>Sobreviventes que saírem dos armários sofrerão o efeito do estado Exposto por <span class=\"Highlight1\">{2} s</span> e gritarão, revelando a própria localização por <span class=\"Highlight1\">{1} s</span>.<br>",
+        "name": "Dama de Ferro",
+        "flavor": "\"Aqui não é lugar de covarde.\" — A Legião",
+        "id": 54,
+        "index": "IRON_MAIDEN",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "LEGION",
+        "image": "iconPerks_ironMaiden",
+        "tiers": [
+            [
+                30,
+                30,
+                4
+            ],
+            [
+                40,
+                30,
+                4
+            ],
+            [
+                50,
+                30,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "Suas orações invocam um poder sombrio que interfere nas chances de sobrevivência dos Sobreviventes. A Entidade bloqueia os <span class=\"Highlight1\">{0} geradores</span> mais distantes por <span class=\"Highlight1\">{1} s</span> no começo da partida.<br>Ficam irreparáveis durante esse tempo. Geradores afetados são realçados por uma aura branca.<br>",
+        "name": "Intervenção Corrompida",
+        "flavor": "\"Que seja do conhecimento de todos que os Deuses amaldiçoarão os infiéis.\" (A Tábua de Adiris, 3:7)",
+        "id": 55,
+        "index": "CORRUPT_INTERVENTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "PLAGUE",
+        "image": "iconPerks_corruptIntervention",
+        "tiers": [
+            [
+                3,
+                80
+            ],
+            [
+                3,
+                100
+            ],
+            [
+                3,
+                120
+            ]
+        ]
+    },
+    {
+        "description": "Os gritos dos ímpios enchem você de júbilo.<br>Quando você deixa um Sobrevivente no estado Morrendo, os demais Sobreviventes dentro do seu Raio de Terror começam a gritar, revelando onde estão por <span class=\"Highlight1\">{0} s</span>.",
+        "name": "Pavor Contagiante",
+        "flavor": "\"O horror subjuga o coração dos infiéis, que se lamuriam aos pés dos caídos.\" (Hino de Louvor, 11:4)",
+        "id": 56,
+        "index": "INFECTIOUS_FRIGHT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "PLAGUE",
+        "image": "iconPerks_infectiousFright",
+        "tiers": [
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    {
+        "description": "A demonstração dos seus Poderes cria uma espiral de pânico que assola todos os lugares.<br><br>Você fica obcecado por um Sobrevivente. Usar o <i>ataque básico</i> na Obsessão transfere seu Raio de Terror para a Obsessão por <span class=\"Highlight2\">{1} s</span> com um raio de <span class=\"Highlight1\">{0} m</span>. Durante esse tempo, você receberá o efeito do estado <b>Indetectável</b>.<br><br>O Sobrevivente que recebeu o Raio de Terror também é considerado \"dentro do Raio de Terror\" para outros propósitos.<br><br><li><i>O Assassino só pode ficar <b>obcecado</b> com um Sobrevivente de cada vez.</i></li><br>",
+        "name": "Devoção Sombria",
+        "flavor": "\"E o terror tomará conta de um rebelde infiel, que anunciará em falso a minha chegada.\" (A Tábua de Adiris, 48:9)",
+        "id": 57,
+        "index": "DARK_DEVOTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "PLAGUE",
+        "image": "iconPerks_darkDevotion",
+        "tiers": [
+            [
+                20,
+                32
+            ],
+            [
+                25,
+                32
+            ],
+            [
+                30,
+                32
+            ]
+        ]
+    },
+    {
+        "description": "Seus sentidos ficam aguçados no domínio sombrio da Entidade.<br><br>Libera o potencial da habilidade de leitura de auras. Se algum Sobrevivente realizar uma ação rápida num raio de <span class=\"Highlight1\">48 m</span> de onde você está, a aura dele aparecerá por <span class=\"Highlight2\">{0} s</span>.<br><br><i>Sou Todo Ouvidos</i> só é ativado a cada <span class=\"Highlight3\">{1} s</span>.<br>",
+        "name": "Sou Todo Ouvidos",
+        "flavor": "\"Não precisa se preocupar. Passei a vida toda me preparando para isso.\" — Ghost Face",
+        "id": 58,
+        "index": "IM_ALL_EARS",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "GHOST",
+        "image": "iconPerks_imAllEars",
+        "tiers": [
+            [
+                6,
+                60
+            ],
+            [
+                6,
+                50
+            ],
+            [
+                6,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Seus planos sombrios e jeito astuto atiçam A Entidade.<br><br>Quando você pega um Sobrevivente, todos os Geradores que não estiverem sendo reparados por Sobreviventes são bloqueados pela Entidade e ficam irreparáveis por <span class=\"Highlight1\">{0} s</span>. Os Geradores afetados ficam realçados por uma aura branca.<br><br>Só é possível usar <i>Tremores de Terror</i> a cada <span class=\"Highlight2\">{1} s</span>.<br>",
+        "name": "Tremores de Terror",
+        "flavor": "\"A noite me auxilia... e aqui, ela é eterna.\" – Ghost Face",
+        "id": 59,
+        "index": "THRILLING_TREMORS",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "GHOST",
+        "image": "iconPerks_thrillingTremors",
+        "tiers": [
+            [
+                16,
+                100
+            ],
+            [
+                16,
+                80
+            ],
+            [
+                16,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "Você fica <b>obcecado</b> por um Sobrevivente. Esgueira-se em meio às sombras, eliminando as vítimas uma a uma. Quando a sua Obsessão vai para o gancho, a <i>Perseguição Furtiva</i> ganha um ponto de progressão, podendo acumular até <span class=\"Highlight1\">{0} pontos</span>.<br><br>Cada ponto de progressão reduz o seu Raio de Terror em <span class=\"Highlight2\">{1} m</span> durante uma perseguição.<br><br>Quando um Sobrevivente resgata a Obsessão do gancho, ele se torna a nova Obsessão. Você perderá todos os pontos de progressão se a Obsessão for sacrificada ou morrer.<br><br><li><i>O Assassino só pode ficar <b>obcecado</b> por um Sobrevivente de cada vez.</i></li><br>",
+        "name": "Perseguição Furtiva",
+        "flavor": "\"Você não faz ideia do que planejei para você. Vai ficar nas manchetes por semanas... Vou fazer questão disso.\" — Ghost Face",
+        "id": 60,
+        "index": "FURTIVE_CHASE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "GHOST",
+        "image": "iconPerks_furtiveChase",
+        "tiers": [
+            [
+                2,
+                4
+            ],
+            [
+                3,
+                4
+            ],
+            [
+                4,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "Sua presença misteriosa carrega o ar e interfere com a tecnologia.<br><br>Deixar um Sobrevivente no estado Morrendo com um <i>ataque básico</i> faz todos os geradores em um raio de <span class=\"Highlight1\">{0} m</span> explodirem e começarem a regredir instantaneamente. Geradores afetados por Pico de Tensão imediatamente perdem <span class=\"Highlight2\">{1}%</span> do progresso.<li><i>Pico de Tensão</i> só pode ser ativado uma vez a cada <span class=\"Highlight3\">{2} s</span>.</li><br>",
+        "name": "Pico de Tensão",
+        "flavor": "\"A criatura parece ter alguma influência desconhecida sobre a eletricidade e eletrônicos próximos.” — Laboratório Nacional de Hawkins",
+        "id": 61,
+        "index": "SURGE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEMOGORGON",
+        "image": "iconPerks_surge",
+        "tiers": [
+            [
+                32,
+                8,
+                60
+            ],
+            [
+                32,
+                8,
+                50
+            ],
+            [
+                32,
+                8,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Sua presença angustiante drena e enfraquece a presa.<br><br>Sobreviventes são afetados pelo efeito do estado de <b>Exaustão</b> quando reparam geradores.<br><br>Os temporizadores do efeito do estado de <b>Exaustão</b> são pausados enquanto o Sobrevivente repara um gerador. Após terminar o reparo, o Sobrevivente é afetado pelo efeito do estado de <b>Exaustão</b> por <span class=\"Highlight2\">{1} s</span>.<br>",
+        "name": "Invasor Mental",
+        "flavor": "\"A aparente habilidade telepática do espécime pode evocar sentimentos de pavor e fadiga em indivíduos próximos\". — Laboratório Nacional de Hawkins",
+        "id": 62,
+        "index": "MINDBREAKER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEMOGORGON",
+        "image": "iconPerks_mindBreaker",
+        "tiers": [
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ]
+    },
+    {
+        "description": "Seus laços com o sobrenatural se manifestam quando sua presa tenta fugir.<br><br>Sempre que um gerador é concluído, todas as janelas e todos os pontos de pulo em um raio de alcance de <span class=\"Highlight1\">{0} m</span> do gerador concluído ficam bloqueados para todos os Sobreviventes pelos próximos <span class=\"Highlight2\">{1} s</span>. <br><br>Durante esse período, você poderá ver a aura dos pontos de pulo bloqueados pelo <i>Limite Cruel</i>.<br>",
+        "name": "Limite Cruel",
+        "flavor": "\"Parece que o espécime é capaz de afetar o estado dos objetos próximos, como se eles existissem em outra forma, em uma dimensão paralela à nossa.\" — Laboratório Nacional de Hawkins",
+        "id": 63,
+        "index": "CRUEL_LIMITS",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEMOGORGON",
+        "image": "iconPerks_cruelConfinement",
+        "tiers": [
+            [
+                32,
+                20
+            ],
+            [
+                32,
+                25
+            ],
+            [
+                32,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "Libera o potencial da habilidade de leitura de auras. Sua mente está alerta, deixando você atento aos pontos-chave do campo de batalha.<br><br>As auras de todas as barricadas, paredes destrutíveis e locais de pulo em um raio de <span class=\"Highlight1\">{0} m</span> são reveladas a você.<br>",
+        "name": "Táticas Zanshin",
+        "flavor": "\"Dentro da força do seu inimigo, está a fraqueza.\" — A Doutrina de Renjiro, 12:5",
+        "id": 64,
+        "index": "ZANSHIN_TACTICS",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ONI",
+        "image": "iconPerks_zanshinTactics",
+        "tiers": [
+            [
+                24
+            ],
+            [
+                28
+            ],
+            [
+                32
+            ]
+        ]
+    },
+    {
+        "description": "A agonia de um é infligida a outros.<br><br>Quando enganchar um Sobrevivente, todos os Sobreviventes feridos sofrerão do efeito do estado <span class=\"Highlight1\">Hemorragia</span> e <span class=\"Highlight1\">Exaustão</span> por <span class=\"Highlight2\">{0} s</span>.<br><br><i>Eco Sanguíneo</i> tem um tempo de recarga de <span class=\"Highlight3\">{1} s.</span><br>",
+        "name": "Eco Sanguíneo",
+        "flavor": "\"Ataque um inimigo com precisão, e os aliados dele também sentirão.\" — A Doutrina de Renjiro 6:3",
+        "id": 65,
+        "index": "BLOOD_ECHO",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ONI",
+        "image": "iconPerks_bloodEcho",
+        "tiers": [
+            [
+                45,
+                80
+            ],
+            [
+                45,
+                70
+            ],
+            [
+                45,
+                60
+            ]
+        ]
+    },
+    {
+        "description": "Você busca vingança contra aqueles que o prejudicaram. O Sobrevivente que cegar ou atordoar você com uma barricada ou um armário se tornará sua Obsessão.<br><br>Sempre que um novo Sobrevivente se torna a Obsessão, ele é afetado pelo efeito do estado <span class=\"Highlight1\">Alheio</span> por <span class=\"Highlight2\">{0} s</span>, e a aura dele é revelada a você por <span class=\"Highlight3\">{1} s</span>.<br><br><li><i>O Assassino só pode ficar <b>obcecado</b> por um Sobrevivente de cada vez.</i></li><br>",
+        "name": "Nêmesis",
+        "flavor": "\"Somente um tolo cuspiria na cara de um demônio e declararia vitória.\" — A Doutrina de Renjiro 4:9",
+        "id": 66,
+        "index": "NEMESIS",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "ONI",
+        "image": "iconPerks_nemesis",
+        "tiers": [
+            [
+                40,
+                4
+            ],
+            [
+                50,
+                4
+            ],
+            [
+                60,
+                4
+            ]
+        ]
+    },
+    {
+        "description": "Você tem talento para identificar engrenagens bem lubrificadas.<br><br>Após atingir um Sobrevivente <span class=\"Highlight1\">{0}</span> vezes com o seu <i>ataque básico,</i> você ativa <i>Coroa dentada</i> por <span class=\"Highlight2\">{1} s</span>.<br><br>Enquanto a <i>Coroa Dentada</i> estiver ativa, toda vez que um Sobrevivente completar um Bom Teste de Perícia durante um conserto, o gerador emitirá uma aura amarela enquanto estiver sendo consertado.<br>",
+        "name": "Coroa Dentada",
+        "flavor": "\"Às vezes, a melhor obra de um homem é a que causa a morte dele.\" — Administrador da Prisão",
+        "id": 67,
+        "index": "GEARHEAD",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEATHSLINGER",
+        "image": "iconPerks_gearHead",
+        "tiers": [
+            [
+                2,
+                20
+            ],
+            [
+                2,
+                25
+            ],
+            [
+                2,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "Você fica <b>obcecado</b> por um Sobrevivente.<br><br>Após enganchar a Obsessão, você ativa a <i>Garantia do Morto</i> por <span class=\"Highlight1\">{0} s</span>. <br><br>Se um Sobrevivente interromper o conserto de um gerador antes do fim, enquanto a habilidade estiver ativada, a Entidade bloqueia o gerador até o fim do efeito da <i>Garantia do Morto</i>. <br><br>Os geradores afetados ficam realçados por uma aura branca.<br><br><i>O Assassino só pode ficar <b>obcecado</b> por um Sobrevivente de cada vez.</i><br>",
+        "name": "Garantia do Morto",
+        "flavor": "\"Já vi a cara que um homem faz quando percebe que está prestes a morrer.\" — Caleb Quinn",
+        "id": 68,
+        "index": "DEAD_MANS_SWITCH",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEATHSLINGER",
+        "image": "iconPerks_deadManSwitch",
+        "tiers": [
+            [
+                35
+            ],
+            [
+                40
+            ],
+            [
+                45
+            ]
+        ]
+    },
+    {
+        "description": "Um feitiço que é ativado ao ser destruído. Quem se opuser a você será punido.<br><br>Se algum Sobrevivente purificar um Totem Simples, sofrerá o efeito do estado <b>Alheio</b> por <span class=\"Highlight1\">{0} s</span>.<br><br>Se algum Totem Enfeitiçado for purificado, incluindo este, as auras de todos os Sobreviventes aparecerão por <span class=\"Highlight2\">{1} s</span>.<br>",
+        "name": "Feitiço: Retribuição",
+        "flavor": "\"Seu palerma, você acabou de puxar o gatilho na própria cabeça.\" — Caleb Quinn",
+        "id": 69,
+        "index": "HEX_RETRIBUTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "DEATHSLINGER",
+        "image": "iconPerks_hexRetribution",
+        "tiers": [
+            [
+                35,
+                10
+            ],
+            [
+                40,
+                10
+            ],
+            [
+                45,
+                10
+            ]
+        ]
+    },
+    {
+        "description": "Os que obstruírem o dever sofrerão um severo julgamento.<br><br>Sobreviventes que receberem um acerto de proteção sofrerão do efeito do estado <b>Quebrado</b> por <span class=\"Highlight1\">{0} s.</span>",
+        "name": "Penitência Forçada",
+        "id": 70,
+        "index": "FORCED_PENANCE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "EXECUTIONER",
+        "image": "iconPerks_forcedPenance",
+        "tiers": [
+            [
+                60
+            ],
+            [
+                70
+            ],
+            [
+                80
+            ]
+        ]
+    },
+    {
+        "description": "Você sabe guiar suas vítimas por um caminho de dor e punição.<br><br>Após chutar um gerador, você fica <b>Indetectável</b> até o gerador parar de regredir ou um Sobrevivente ser ferido ou colocado no estado Morrendo por qualquer meio. Durante esse período, a aura amarela do gerador aparece para os Sobreviventes.<br><br>Esse efeito só pode ser ativado uma vez a cada <span class=\"Highlight1\">{2} s.</span>",
+        "name": "Trilha do Tormento",
+        "id": 71,
+        "index": "TRAIL_OF_TORMENT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "EXECUTIONER",
+        "image": "iconPerks_trailOfTorment",
+        "tiers": [
+            [
+                80
+            ],
+            [
+                70
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "Sofrer juntos é o destino daqueles cujas vidas estão entrelaçadas em escuridão.<br><br>Quando um Sobrevivente cura outro em 1 estado de saúde a pelo menos <span class=\"Highlight1\">{0} m</span> do Assassino, o Sobrevivente que estiver curando gritará, ativando <i>Letalidade</i> pelos próximos <span class=\"Highlight2\">{1} s.</span> Durante este período, o Sobrevivente sofrerá do efeito do estado <b>Alheio</b> se ficar a mais de <span class=\"Highlight3\">{2} m</span> do Sobrevivente curado. ",
+        "name": "Letalidade",
+        "id": 72,
+        "index": "DEATHBOUND",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "EXECUTIONER",
+        "image": "iconPerks_deathbound",
+        "tiers": [
+            [
+                32,
+                60,
+                16
+            ],
+            [
+                32,
+                60,
+                12
+            ],
+            [
+                32,
+                60,
+                8
+            ]
+        ]
+    },
+    {
+        "description": "Após chutar um gerador, o primeiro Sobrevivente que interagir com ele pelos próximos <span class=\"Highlight1\">{0} s</span> gritará, revelando sua localização por <span class=\"Highlight2\">{1} s</span> e sofrendo o efeito do estado <b>Exposto</b> por <span class=\"Highlight3\">{2} s</span>.<br><br><i>Garra do Dragão</i> tem um tempo de recarga de <span class=\"Highlight4\">{3} s</span>.<br>",
+        "name": "Garra do Dragão",
+        "flavor": "\"Este composto tem tanto potencial... até o menor traço causa efeitos anormais.\" — Diário de Talbot Grimes",
+        "id": 73,
+        "index": "DRAGONS_GRIP",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "BLIGHT",
+        "image": "iconPerks_dragonsGrip",
+        "tiers": [
+            [
+                30,
+                4,
+                60,
+                120
+            ],
+            [
+                30,
+                4,
+                60,
+                100
+            ],
+            [
+                30,
+                4,
+                60,
+                80
+            ]
+        ]
+    },
+    {
+        "description": "Um feitiço que obtém a graça da Entidade quando sangue é derramado.<br><br>Quando um Sobrevivente é atingido por um <i>ataque básico</i>, barricadas a <span class=\"Highlight1\">{0} m</span> de onde você está são mantidas no lugar pela Entidade por <span class=\"Highlight2\">{1} s</span>. Essas barricadas não podem ser derrubadas.<br><br><i>Feitiço: Graça do Sangue</i> possui um tempo de recarga de <span class=\"Highlight3\">{2} s</span>.<br>",
+        "name": "Feitiço: Graça do Sangue",
+        "flavor": "\"Não seria um arroubo da imaginação sugerir que as provações são uma espécie de resposta biológica.\" — Diário de Talbot Grimes",
+        "id": 74,
+        "index": "HEX_BLOOD_FAVOR",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "BLIGHT",
+        "image": "iconPerks_hexBloodFavor",
+        "tiers": [
+            [
+                16,
+                15,
+                60
+            ],
+            [
+                16,
+                15,
+                50
+            ],
+            [
+                16,
+                15,
+                40
+            ]
+        ]
+    },
+    {
+        "description": "Enquanto <i>Feitiço: Imortal</i> estiver ativo, ele revelará as auras dos Sobreviventes a <span class=\"Highlight1\">{0} m</span> de um Totem Simples.<br><br>Quando outro Totem Enfeitiçado for purificado, o Feitiço dele será transferido ao Totem com Feitiço: Imortal, desativando o Feitiço: Imortal no processo. Os pontos de progressão do Feitiço transferido virão junto.",
+        "name": "Feitiço: Imortal",
+        "id": 75,
+        "index": "HEX_UNDYING",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "BLIGHT",
+        "image": "iconPerks_hexUndying",
+        "tiers": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "description": "Você protege o pouco que tem e fica de olho em qualquer alteração nas suas reservas.<br><br>Os Sobreviventes revelam onde estão ao interagirem com um baú ou ao pegarem um item a até <span class=\"Highlight1\">{0} m</span> de você.<br><br>A partida começa com até <span class=\"Highlight1\">{1}</span> baús adicionais no cenário.",
+        "name": "Acumulador",
+        "id": 76,
+        "index": "HOARDER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TWINS",
+        "image": "iconPerks_Hoarder",
+        "tiers": [
+            [
+                32,
+                2
+            ],
+            [
+                48,
+                2
+            ],
+            [
+                64,
+                2
+            ]
+        ]
+    },
+    {
+        "description": "A vida foi difícil para você, por isso você dificulta a dos outros.<br><br>Ao danificar um gerador, até <span class=\"Highlight1\">{0}</span> outros geradores aleatórios começam a regredir.<br><br>Se um desses geradores estiver sendo reparado, aciona um Teste de Perícia difícil para cada um dos Sobreviventes que o estiverem reparando.<br><br><i>Opressão</i> tem um tempo de recarga de <span class=\"Highlight2\">{1}</span> s. <br>",
+        "name": "Opressão",
+        "flavor": "\"Danem-se eles que só nos trariam danação.\" — Charlotte Deshayes",
+        "id": 77,
+        "index": "OPPRESSION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TWINS",
+        "image": "iconPerks_Oppression",
+        "tiers": [
+            [
+                3,
+                120
+            ],
+            [
+                3,
+                100
+            ],
+            [
+                3,
+                80
+            ]
+        ]
+    },
+    {
+        "description": "Conforme o fim se aproxima, mais você quer matar.<br><br>Toda vez que um gerador for concluído, Coup de Grâce ficará mais forte e você ganhará um ponto de progressão.<br><br>Consuma um ponto de progressão para aumentar a distância da sua próxima investida em <span class=\"Highlight1\">{0}%</span>.",
+        "name": "Coup de Grâce",
+        "id": 78,
+        "index": "COUP_DE_GRACE",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TWINS",
+        "image": "iconPerks_coupDeGrace",
+        "tiers": [
+            [
+                40
+            ],
+            [
+                50
+            ],
+            [
+                60
+            ]
+        ]
+    },
+    {
+        "description": "Sua presença de palco inigualável deixa todo mundo bobo.<br><br>Enquanto você carrega um Sobrevivente, todos os outros dentro do seu Raio de Terror sofrem do efeito do estado <b>Exposto</b>.<br>O efeito persiste por <span class=\"Highlight1\">{0} s</span> nos Sobreviventes que deixam o seu Raio de Terror, assim como nos que estão dentro desse raio no momento em que você engancha ou solta o Sobrevivente que está carregando.<br><i>Deslumbre</i> entra em uma recarga de <span class=\"Highlight2\">{1} s</span> depois que você solta um Sobrevivente.<br>",
+        "name": "Deslumbre",
+        "flavor": "\"Aproveite bem este momento. Chegar tão perto é pra poucos.\" — Ji-Woon Hak",
+        "id": 79,
+        "index": "STARSTRUCK",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRICKSTER",
+        "image": "iconPerks_Starstruck",
+        "tiers": [
+            [
+                26,
+                26
+            ],
+            [
+                28,
+                28
+            ],
+            [
+                30,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "Feitiço que garante que a ralé continue seguindo o mestre.<br><br>Após um Sobrevivente realizar um pulo <b>rápido</b> por uma janela, ela ficará bloqueada pela Entidade por <span class=\"Highlight1\">{0} s</span>.<br><br><i>Os efeitos do Feitiço permanecerão enquanto o Totem correspondente estiver ativo.</i><br>",
+        "name": "Feitiço: Controle da Plateia",
+        "flavor": "\"Você não manda em nada aqui. Gente da sua laia nunca mandou em nada.\" — Ji-Woon Hak",
+        "id": 80,
+        "index": "HEX_CROWD_CONTROL",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRICKSTER",
+        "image": "iconPerks_HexCrowdControl",
+        "tiers": [
+            [
+                10
+            ],
+            [
+                12
+            ],
+            [
+                14
+            ]
+        ]
+    },
+    {
+        "description": "Não é todo mundo que ganha acesso fácil ao camarim.<br><br><i>Sem Saída</i> acumula um ponto de progressão quando você engancha um Sobrevivente pela primeira vez.<br>Depois que o último gerador é reparado, a Entidade bloqueia as duas alavancas do Portão de Saída por <span class=\"Highlight1\">{0} s</span>, mais <span class=\"Highlight2\">{1} s</span> adicionais para cada ponto de progressão obtido.<br>",
+        "name": "Sem Saída",
+        "flavor": "\"Esse som que seu sangue fez quando jorrou... Deixa eu ouvir ele de novo.\" — Ji-Woon Hak",
+        "id": 81,
+        "index": "NO_WAY_OUT",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "TRICKSTER",
+        "image": "iconPerks_NoWayOut",
+        "tiers": [
+            [
+                4,
+                26
+            ],
+            [
+                6,
+                34
+            ],
+            [
+                8,
+                42
+            ]
+        ]
+    },
+    {
+        "description": "Você foi feito para rastrear e eliminar alvos.<br><br>No começo da partida, a aura dos Sobreviventes se revela para você por <span class=\"Highlight1\">{0} s.</span><br><br><span class= \"FlavorText\">\"Ele sabe o que quer e não vai parar enquanto não conseguir.\" — Carlos Oliveira<\\span>",
+        "name": "Perseguidor Mortífero",
+        "id": 82,
+        "index": "LETHAL_PURSUER",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEMESIS",
+        "image": "iconPerks_lethalPursuer",
+        "tiers": [
+            [
+                7
+            ],
+            [
+                8
+            ],
+            [
+                9
+            ]
+        ]
+    },
+    {
+        "description": "Você sabe como brutalizar um membro da equipe para causar pânico.<br><br>Sempre que você colocar um Sobrevivente saudável no estado Ferido com um ataque básico, todos os Sobreviventes feridos sofrerão do efeito do estado <b>Alheio</b> por <span class=\"Highlight1\">{0} s.</span><br><I>Histeria</i> só ocorre uma vez a cada <span class=\"Highlight2\">{1} s.</span><br><br><span class= \"FlavorText\">\"Foi mal por ter ficado agitado ali. É que eu não sabia bem o que esperar.\" — Robert Kendo",
+        "name": "Histeria",
+        "id": 83,
+        "index": "HYSTERIA",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEMESIS",
+        "image": "iconPerks_hysteria",
+        "tiers": [
+            [
+                20,
+                30
+            ],
+            [
+                25,
+                30
+            ],
+            [
+                30,
+                30
+            ]
+        ]
+    },
+    {
+        "description": "O Parasita NE-α lhe confere a inteligência e a percepção necessárias para bolar armadilhas.<br><br>Após chutar um gerador, a aura dele ficará destacada em amarelo. Ao deixar um Sobrevivente no estado Morrendo com um ataque básico, todos os geradores afetados explodirão, regredindo o progresso deles em <span class=\"Highlight1\">{0}%</span> e fazendo com que suas auras desapareçam.<br>Os Sobreviventes que estiverem reparando algum gerador que venha a explodir gritarão e sofrerão do efeito do estado Incapacitado por <span class=\"Highlight2\">{1} s</span>.<br><i>Erupção</i> tem um tempo de recarga de <span class=\"Highlight3\">{2} s.</span><br><br><span class= \"FlavorText\">\"Ele sabe usar armas?\" — Jill Valentine",
+        "name": "Erupção",
+        "id": 84,
+        "index": "ERUPTION",
+        "rarity": [
+            1,
+            2,
+            3
+        ],
+        "owner": "NEMESIS",
+        "image": "iconPerks_eruption",
+        "tiers": [
+            [
+                6,
+                12,
+                30
+            ],
+            [
+                6,
+                14,
+                30
+            ],
+            [
+                6,
+                16,
+                30
+            ]
+        ]
+    }
+]

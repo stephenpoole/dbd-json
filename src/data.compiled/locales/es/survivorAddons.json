@@ -1,0 +1,503 @@
+[
+    {
+        "description": "Una lente delgada y amplia en perfectas condiciones. Diseñada para ensanchar el haz de la linterna al precio de reducir su alcance.<br><li><b>Ensancha moderadamente</b> el haz de la linterna.</li><li><b>Reduce ligeramente</b> el alcance del haz de la linterna.</li>",
+        "name": "Lente ancha",
+        "id": 1,
+        "index": "WIDE_LENS",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_wideLens"
+    },
+    {
+        "description": "Una diminuta bombilla de mayor potencia para emitir un haz más brillante y potente.<br><li><b>Estrecha ligeramente</b> la anchura del haz de la linterna.</li><li><b>Aumenta ligeramente</b> el brillo del haz de la linterna.</li><li><b>Aumenta ligeramente</b> la duración de la ceguera.</li>",
+        "name": "Bombilla de alta potencia",
+        "flavor": "\"Ni siquiera la luz más poderosa puede atravesar la oscuridad de la niebla negra\".",
+        "id": 2,
+        "index": "POWER_BULB",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_powerBulb"
+    },
+    {
+        "description": "Una tira de cuero atada alrededor de la linterna para mayor agarre.<br><li><b>Aumenta ligeramente</b> la precisión de la linterna.</li>",
+        "name": "Mango de cuero",
+        "flavor": "\"Demasiados han caído por culpa de unas manos sudorosas\".",
+        "id": 3,
+        "index": "LEATHER_GRIP",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_leatherGrip"
+    },
+    {
+        "description": "Una pila estándar de marca desconocida.<br><li>Añade <b>2 segundos</b> de uso a una linterna normal.</li>",
+        "name": "Pila",
+        "flavor": "\"Otra pila casi sin carga\".",
+        "id": 4,
+        "index": "BATTERY",
+        "type": 1,
+        "rarity": 0,
+        "image": "iconAddon_battery"
+    },
+    {
+        "description": "Una combinación de lente y reflector que magnifica el haz de la linterna.<br><li><b>Aumenta moderadamente</b> el brillo del haz de la linterna.</li><li><b>Aumenta moderadamente</b> la duración de la ceguera.</li>",
+        "name": "Lentes TIR",
+        "flavor": "\"Que la luz los libere de su manto de oscuridad\".",
+        "id": 5,
+        "index": "TIR_OPTIC",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_tirOptic"
+    },
+    {
+        "description": "Un mango de goma ideal para conseguir un mejor agarre con la linterna.<br><li><b>Aumenta moderadamente</b> la precisión de la linterna.</li>",
+        "name": "Mango de goma",
+        "id": 6,
+        "index": "RUBBER_GRIP",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_rubberGrip"
+    },
+    {
+        "description": "Una bombilla incandescente diseñada para extender la vida útil de una pila para linterna.<br><li><b>Reduce moderadamente</b> el consumo de la pila para linterna.</li>",
+        "name": "Filamento de Bajo Amperaje",
+        "id": 7,
+        "index": "LOW_AMP_FILAMENT",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_threadedFilament"
+    },
+    {
+        "description": "Una pila etiquetada como \"de uso industrial\".<br><li>Añade <b>4 segundos</b> de uso a una linterna estándar.</li>",
+        "name": "Pila de gran autonomía",
+        "flavor": "\"Una pila que anuncian que dura 8 horas, en la niebla negra tiene una autonomía de apenas un par de segundos\".",
+        "id": 8,
+        "index": "HEAVY_DUTY_BATTERY",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_heavyDutyBattery"
+    },
+    {
+        "description": "Una lente de cristal gruesa que concentra el haz de la linterna para incrementar su intensidad.<br><li><b>Aumenta ligeramente</b> el alcance del haz de la linterna.</li><li><b>Estrecha ligeramente</b> la anchura del haz de la linterna.</li><li><b>Aumenta ligeramente</b> el brillo del haz de la linterna.</li><li><b>Aumenta ligeramente</b> la duración de la ceguera.</li>",
+        "name": "Lente de enfoque",
+        "id": 9,
+        "index": "FOCUS_LENS",
+        "type": 1,
+        "rarity": 1,
+        "image": "iconAddon_focusLens"
+    },
+    {
+        "description": "Un modelo reciente de pila que dura más tiempo.<br><li>Añade <b>6 segundos</b> de uso a una linterna común.</li>",
+        "name": "Pila de larga duración",
+        "id": 10,
+        "index": "LONG_LIFE_BATTERY",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconAddon_longLifeBattery"
+    },
+    {
+        "description": "Una bombilla química que genera una intensa luz clara.<br><li><b>Aumenta considerablemente</b> el brillo del haz de la linterna.</li><li><b>Aumenta considerablemente</b> la duración de la ceguera.</li>",
+        "name": "Halógeno potente",
+        "id": 11,
+        "index": "INTENSE_HALOGEN",
+        "type": 1,
+        "rarity": 2,
+        "image": "iconAddon_intenseHalogen"
+    },
+    {
+        "description": "Una lente grande hecha de zafiro resistente a los arañazos que optimiza la potencia y el alcance del haz de la linterna.<br><li><b>Ensancha moderadamente</b> el haz de la linterna.</li><li><b>Aumenta ligeramente</b> el haz de la linterna.</li><li><b>Aumenta moderadamente</b> el brillo del haz de la linterna.</li><li><b>Aumenta moderadamente</b> la duración de la ceguera.</li>",
+        "name": "Lente de zafiro de calidad superior",
+        "id": 12,
+        "index": "HIGH_END_SAPPHIRE_LENS",
+        "type": 1,
+        "rarity": 3,
+        "image": "iconAddon_highEndSapphireLens"
+    },
+    {
+        "description": "Una bombilla dura y totalmente opaca de origen desconocido que emite una luz mortecina incluso cuando está apagada.<br><li><b>Aumenta tremendamente</b> el brillo del haz de la linterna.</li><li><b>Aumenta tremendamente</b> la duración de la ceguera.</li><li><b>Aumenta ligeramente</b> el consumo de energía de la linterna.</li>",
+        "name": "Bombilla rara",
+        "id": 13,
+        "index": "ODD_BULB",
+        "type": 1,
+        "rarity": 4,
+        "image": "iconAddon_oddBulb"
+    },
+    {
+        "description": "Una cuerda bien tejida que se usa en rituales de oración. Se puede atar a la llave.<br><li>Añade <b>10 segundos</b> de uso a la llave.</li>",
+        "name": "Cordón de oración",
+        "flavor": "\"Reza todo lo que quieras, que tus palabras se perderán allá en lo alto, entre la niebla\".",
+        "id": 14,
+        "index": "PRAYER_ROPE",
+        "type": 2,
+        "rarity": 0,
+        "image": "iconAddon_prayerRope"
+    },
+    {
+        "description": "Una perla blanca porosa y rayada. Se acopla a la llave mediante una pequeña anilla de engarce.<br><li><b>Aumenta moderadamente</b> el alcance de la percepción de auras de la llave.</li>",
+        "name": "Perla rayada",
+        "id": 15,
+        "index": "SCRATCHED_PEARL",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_scratchedPearl"
+    },
+    {
+        "description": "Una cadena de cuentas opacas de varios tamaños utilizada en oraciones rituales. Se puede unir a la llave.<br><li>Añade <b>15 segundos</b> de uso a la llave.</li>",
+        "name": "Rosario",
+        "id": 16,
+        "index": "PRAYER_BEADS",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_prayerBeads"
+    },
+    {
+        "description": "Un distintivo muy desgastado hecho de latón. Si en algún momento llegó a tener alguna inscripción o dibujo grabados, ya se han borrado completamente. Se puede unir a la llave utilizando la anilla de engarce para conseguir que pueda percibir auras.<br><li>Revela el <b>aura de los supervivientes</b> en un radio de <b>24 metros</b>.</li>",
+        "name": "Distintivo erosionado",
+        "id": 17,
+        "index": "ERODED_TOKEN",
+        "type": 2,
+        "rarity": 1,
+        "image": "iconAddon_tokenErroded"
+    },
+    {
+        "description": "Un distintivo de oro bastante simple. Ambas caras están lisas y sin ninguna inscripción. Se puede unir a la llave utilizando la anilla de engarce para conseguir que pueda percibir auras.<br><li>Revela el <b>aura de los supervivientes</b> en un radio de <b>48 metros</b>.</li>",
+        "name": "Distintivo de oro",
+        "id": 18,
+        "index": "GOLD_TOKEN",
+        "type": 2,
+        "rarity": 2,
+        "image": "iconAddon_tokenGold"
+    },
+    {
+        "description": "Un aro de llavero común y corriente en apariencia, con un lustre azul oscuro inusual. El aro vincula la llave al usuario, lo que evita su pérdida incluso en los tiempos más oscuros.<br><li>No pierdas la llave al morir, sacrifica este accesorio en su lugar.</li>",
+        "name": "Anilla entrelazada",
+        "id": 19,
+        "index": "WEAVED_RING",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_weavedRing"
+    },
+    {
+        "description": "Esta pieza opaca de vidrio emite un ligero sonido vibrante. Cuando usas la llave para desbloquear la trampilla, la pieza de vidrio absorbe la energía de la niebla para evitar que la llave se rompa.<br><li>No pierdas la llave cuando abras la trampilla, sacrifica este accesorio en su lugar.</li>",
+        "name": "Vidrio opalescente",
+        "id": 20,
+        "index": "MILKY_GLASS",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_milkyGlass"
+    },
+    {
+        "description": "Un ámbar color rojo sangre con vetas negras. El ámbar es tibio al tacto. Se puede unir a la llave utilizando la anilla de engarce para conseguir que pueda percibir auras.<br><li>Revela el <b>aura del asesino</b> en un radio de <b>32 metros</b> a un <b>gran coste</b> de la energía de la llave.</li>",
+        "name": "Ámbar de Sangre",
+        "id": 21,
+        "index": "BLOOD_AMBER",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_bloodAmber"
+    },
+    {
+        "description": "Un trozo de un grueso material fibroso. Tiene un mapa incompleto y descolorido dibujado en él que, por sí mismo, no sirve para nada.<br><li>Añade <b>5 segundos de carga</b> a cualquier mapa.</li>",
+        "name": "Apéndice de Mapa",
+        "id": 22,
+        "index": "MAP_ADDENDUM",
+        "type": 3,
+        "rarity": 0,
+        "image": "iconAddon_mapAddendum"
+    },
+    {
+        "description": "Un cable eléctrico pequeño. Ambos extremos están muy dañados, como si lo hubieran arrancado violentamente de su lugar. Se puede atar alrededor de un mapa para mejorar su capacidad de percepción de auras.<br><li>Permite localizar <b>puertas de salida</b>.</li>",
+        "name": "Cable amarillo",
+        "id": 23,
+        "index": "YELLOW_WIRE",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_ropeYellow"
+    },
+    {
+        "description": "Un sello de madera con una almohadilla de goma de líneas entrecruzadas. Sirve para marcar documentos. No se sabe quién lo utilizaba originalmente ni para qué. Puede usarse con un mapa.<br><li><b>Aumenta moderadamente</b> el alcance de la capacidad de búsqueda del mapa.</li>",
+        "name": "Sello inusual",
+        "id": 24,
+        "index": "UNUSUAL_STAMP",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_stampUnusual"
+    },
+    {
+        "description": "Una baba viscosa y traslúcida con un desagradable tono lavanda. Pese a su origen desconocido, es muy resistente al calor.<br><li><b>Ralentiza moderadamente</b> el ritmo al que se quema el mapa.</li>",
+        "name": "Gelatina retardante",
+        "id": 25,
+        "index": "RETARDANT_JELLY",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_retardantJelly"
+    },
+    {
+        "description": "Un erizado y áspero pedazo de cordel de color carmesí. Se puede atar alrededor de un mapa con el fin de mejorar su habilidad para ver auras.<br><li>Desbloquea la habilidad para rastrear las <b>pertenencias del asesino</b>.</li>",
+        "name": "Cordel Rojo",
+        "id": 26,
+        "index": "RED_TWINE",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_ropeRed"
+    },
+    {
+        "description": "Una extraña lupa ribeteada de oro que puede usarse para magnificar el mapa y marcar una posición específica. La lupa emite una energía que los supervivientes pueden percibir.<br><li>Permite usar la habilidad Marcador como acción secundaria.</li><li>Crea un marcador que puede ser visto por todos los supervivientes.</li>",
+        "name": "Lupa de vidrio",
+        "id": 27,
+        "index": "GLASS_BEAD",
+        "type": 3,
+        "rarity": 1,
+        "image": "iconAddon_beadGlass"
+    },
+    {
+        "description": "Un sello tallado en un bloque de madera dorada. El texto escrito en su base resulta incomprensible: \"kw'zvre'od\". Puede usarse con un mapa.<br><li><b>Aumenta considerablemente</b> el alcance de la capacidad de búsqueda del mapa.</li>",
+        "name": "Sello extraño",
+        "id": 28,
+        "index": "ODD_STAMP",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconAddon_stampOdd"
+    },
+    {
+        "description": "Una cuerda negra lisa de una apariencia suave. Puede amarrarse alrededor de un mapa para mejorar su habilidad de análisis de auras.<br><li>Desbloquea la habilidad para rastrear <b>candados negros</b>.</li>",
+        "name": "Cuerda de Seda Negra",
+        "id": 29,
+        "index": "BLACK_SILK_CORD",
+        "type": 3,
+        "rarity": 2,
+        "image": "iconAddon_ropeBlack"
+    },
+    {
+        "description": "Un intrincado juego de lentes envuelto en un dispositivo impresionantemente complejo. Los engranajes que controlan el foco de las lentes se mueven por sí solos para apuntar a algo invisible para los humanos.<br><li>Todos los supervivientes ven el aura que genera el mapa cuando el portador lo activa.</li>",
+        "name": "Lupa de cristal",
+        "id": 30,
+        "index": "CRYSTAL_BEAD",
+        "type": 3,
+        "rarity": 3,
+        "image": "iconAddon_beadCrystal"
+    },
+    {
+        "description": "Guantes estériles desechables para evitar contaminaciones.<br><li><b>Aumenta moderadamente</b> la bonificación de progreso al realizar pruebas de habilidad excelentes.</li>",
+        "name": "Guantes de Goma",
+        "id": 31,
+        "index": "RUBBER_GLOVES",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_gloves"
+    },
+    {
+        "description": "Esparadrapo que se usa para cerrar heridas menores.<br><li><b>Aumenta ligeramente</b> la velocidad de curación.</li>",
+        "name": "Sutura Adhesiva",
+        "id": 32,
+        "index": "BUTTERFLY_TAPE",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_butterflyTape"
+    },
+    {
+        "description": "Paquete de apósitos muy habitual en botiquines de primeros auxilios.<br><li>Añade <b>8 cargas</b> al botiquín.</li>",
+        "name": "Vendajes",
+        "id": 33,
+        "index": "BANDAGES",
+        "type": 4,
+        "rarity": 0,
+        "image": "iconAddon_bandages"
+    },
+    {
+        "description": "Esponja común y corriente que sirve para absorber el exceso de sangre y facilitar el acceso a las heridas.<br><li><b>Aumenta considerablemente</b> la bonificación de progreso al realizar pruebas de habilidad excelentes.</li>",
+        "name": "Esponja",
+        "id": 34,
+        "index": "SPONGE",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_sponge"
+    },
+    {
+        "description": "Un paquete de vendas autoadhesivas que evitan el uso de pinzas, lo que permite un vendaje más rápido que requiere menos reajustes.<br><li>Añade <b>8 cargas</b> al botiquín.</li><li><b>Aumenta ligeramente</b> la velocidad de curación.</li>",
+        "name": "Venda adhesiva",
+        "id": 35,
+        "index": "SELF_ADHERENT_WRAP",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_selfAdherentWrap"
+    },
+    {
+        "description": "No es que sea un instrumento médico, pero se puede usar para cerrar una herida de manera rápida y dolorosa.<br><li><b>Aumenta moderadamente</b> la probabilidad de activar una prueba de habilidad.</li><li><b>100 % de puntos de sangre adicionales</b> al realizar pruebas de habilidad excelentes.</li><li><b>Aumenta ligeramente</b> la velocidad de curación.</li>",
+        "name": "Aguja e hilo",
+        "id": 36,
+        "index": "NEEDLE_AND_THREAD",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_needAndThread"
+    },
+    {
+        "description": "Tijeras diseñadas para cortar la tela fácilmente.<br><li><b>Aumentan moderadamente</b> la velocidad de curación.</li>",
+        "name": "Tijeras Médicas",
+        "id": 37,
+        "index": "MEDICAL_SCISSORS",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_scissors"
+    },
+    {
+        "description": "Una gasa estéril que se puede usar para diversas heridas. Forma parte de un sistema completo de tratamiento.<br><li>Añade <b>12 cargas</b> al botiquín.</li>",
+        "name": "Rollo de gasa",
+        "id": 38,
+        "index": "GAUZE_ROLL",
+        "type": 4,
+        "rarity": 1,
+        "image": "iconAddon_gauseRoll"
+    },
+    {
+        "description": "Un artilugio médico que sirve para cerrar y mantener en su sitio los tejidos corporales. Es muy efectivo, pero no resulta nada fácil de usar.<br><li><b>Aumenta considerablemente</b> la probabilidad de que aparezca una prueba de habilidad.</li><li><b>150 % de puntos de sangre adicionales </b> al realizar pruebas de habilidad excelentes.</li><li><b>Aumenta ligeramente</b> la velocidad de curación.</li>",
+        "name": "Sutura quirúrgica",
+        "id": 39,
+        "index": "SURGICAL_SUTURE",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_surgicalSuture"
+    },
+    {
+        "description": "Un gel que forma apósitos para tratar heridas que sangran con intensidad.<br><li>Añade <b>16 cargas</b> al botiquín.</li>",
+        "name": "Apósitos de hidrogel",
+        "id": 40,
+        "index": "GEL_DRESSINGS",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_gelDressings"
+    },
+    {
+        "description": "Una venda con gran capacidad de absorción que evita la pérdida de fluidos corporales cuando se aplica sobre heridas abdominales de gran tamaño.<br><li><b>Aumenta considerablemente</b> la velocidad de curación.</li><li><b>Reduce las cargas</b> en <b>8</b>.</li>",
+        "name": "Apósito abdominal",
+        "id": 41,
+        "index": "ABDOMINAL_DRESSING",
+        "type": 4,
+        "rarity": 2,
+        "image": "iconAddon_abdominalDressing"
+    },
+    {
+        "description": "Un polvo blanco con propiedades coagulantes. Aplica la sustancia a una herida para detener la hemorragia.<br><li>Pulsa el botón de <i>acción secundaria</i> mientras estás curando con el botiquín para usar el astringente.</li><li>Al usarlo<i></i> sobre un superviviente herido, se le aplica el efecto de estado <b>Resistencia</b> durante <b>8 segundos</b>. <li>Consume por completo el botiquín.</li>",
+        "name": "Astringente",
+        "id": 42,
+        "index": "STYPTIC_AGENT",
+        "type": 4,
+        "rarity": 3,
+        "image": "iconAddon_stypticAgent"
+    },
+    {
+        "description": "Una sustancia antihemorrágica que detiene el sangrado en cuestión de segundos.<br><li>Pulsa el botón de <i>acción secundaria</i> mientras estás curando con el botiquín para usar la jeringa antihemorrágica.</li><li>El superviviente afectado obtendrá un estado de salud de forma pasiva una vez transcurridos <b>16</b> segundos desde su uso.</li><li>El tiempo necesario varía en función de las habilidades, los objetos y accesorios que afecten a la <i>velocidad de curación</i>.</li><li>Este efecto se cancela si el superviviente afectado cambia de estado de salud o si el asesino lo agarra.</li><li>Consume por completo el botiquín.</li>",
+        "name": "Jeringa antihemorrágica",
+        "id": 43,
+        "index": "ANTI_HEMORRHAGIC_SYRINGE",
+        "type": 4,
+        "rarity": 4,
+        "image": "iconAddon_syringe"
+    },
+    {
+        "description": "Una herramienta útil para sujetar tubos o alambres y así evitar heridas.<br><li>Tus reparaciones hacen menos ruido y la distancia desde la que se oyen se reduce en 8 metros.</li>",
+        "name": "Alicates",
+        "id": 44,
+        "index": "SPRING_CLAMP",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_springClamp"
+    },
+    {
+        "description": "Muelles, tornillos y ruedas dentadas. Chatarra inútil en su mayoría.<br><li>Añade <b>8 cargas</b> a la caja de herramientas.</li>",
+        "name": "Chatarra",
+        "id": 45,
+        "index": "SCRAPS",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_scraps"
+    },
+    {
+        "description": "Un trapo común y corriente. Sospechosamente limpio.<br><li><b>Aumenta ligeramente</b> la velocidad de reparación de la caja de herramientas.</li>",
+        "name": "Trapo Limpio",
+        "id": 46,
+        "index": "CLEAN_RAG",
+        "type": 5,
+        "rarity": 0,
+        "image": "iconAddon_cleanRag"
+    },
+    {
+        "description": "Un pesado carrete portátil de alambre de cobre.<br><li>Añade <b>12 cargas</b> a la caja de herramientas.</li>",
+        "name": "Carrete de Alambre",
+        "id": 47,
+        "index": "WIRE_SPOOL",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_spoolOfWire"
+    },
+    {
+        "description": "Los mangos articulados proporcionan flexibilidad a la hora de manipular tornillos que están fuera de alcance en el interior de aparatos mecánicos.<br><li><b>Aumenta moderadamente</b> la velocidad de reparación con la caja de herramientas.</li>",
+        "name": "Llave articulada",
+        "id": 48,
+        "index": "SOCKET_SWIVELS",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_socketSwivels"
+    },
+    {
+        "description": "Guantes gruesos que reducen la habilidad con las manos, pero las protegen contra lesiones.<br><li>Evitan que se notifique al asesino cuando se sabotea un gancho con una caja de herramientas.</li>",
+        "name": "Guantes protectores",
+        "id": 49,
+        "index": "PROTECTIVE_GLOVES",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_protectiveGloves"
+    },
+    {
+        "description": "Alguien se dio prisa en pintar lo que parecen ser instrucciones de reparación en este trozo de corteza.<br><li>Elimina las pruebas de habilidad al reparar con la caja de herramientas.</li>",
+        "name": "Instrucciones",
+        "id": 50,
+        "index": "INSTRUCTIONS",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_instructions"
+    },
+    {
+        "description": "Unos alicates ajustables de mango fuerte. Esenciales en cualquier caja de herramientas.<br><li>Los ganchos saboteados usando la caja de herramientas tardan 15 segundos más en reaparecer.</li>",
+        "name": "Alicate de Presión",
+        "id": 51,
+        "index": "GRIP_WRENCH",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_gripWrench"
+    },
+    {
+        "description": "Una rudimentaria herramienta de dos mangos hecha para cortar con alambres dentados.<br><li><b>Aumenta ligeramente</b> la velocidad de sabotaje con la caja de herramientas.</li>",
+        "name": "Alambre para cortar",
+        "id": 52,
+        "index": "CUTTING_WIRE",
+        "type": 5,
+        "rarity": 1,
+        "image": "iconAddon_cuttingWire"
+    },
+    {
+        "description": "Un pequeño serrucho con una cuchilla de metal.<br><li><b>Aumenta moderadamente</b> la velocidad de sabotaje de la caja de herramientas.</li>",
+        "name": "Serrucho de Metal",
+        "id": 53,
+        "index": "HACKSAW",
+        "type": 5,
+        "rarity": 2,
+        "image": "iconAddon_metalSaw"
+    },
+    {
+        "description": "Esta intrincada pieza metálica no parece encajar en este lugar. Está limpia y reluciente, como recién salida de fábrica.<br><li>La acción <b>Reparar con caja de herramientas</b> se sustituye por <b>Instalar recambio nuevo</b>.</li><li>Al instalar el <i>recambio nuevo</i> se reparará de forma automática un <b>15 %</b> del generador en un proceso que dura <b>5 segundos</b>.</li><li>Durante la instalación se activarán <b>2 pruebas de habilidad difíciles</b>.</li><li>Cada prueba de habilidad que superes te concederá un <b>5 % de progreso de reparación</b> adicional, hasta un total máximo del <b>25 %</b>.</li><li><i>Este accesorio se consume tras el uso</i></li>",
+        "name": "Recambio Nuevo",
+        "id": 54,
+        "index": "BRAND_NEW_PART",
+        "type": 5,
+        "rarity": 4,
+        "image": "iconAddon_brandNewPart"
+    },
+    {
+        "description": "Un anillo de boda grabado que surgió de la niebla y que rezuma una energía indescriptible e incomprensible. <li>Revela el aura de la obsesión.</li><li>Reduce las posibilidades de convertirte en la obsesión del asesino.</li>",
+        "name": "Anillo de boda único",
+        "id": 55,
+        "index": "UNIQUE_WEDDING_RING",
+        "type": 2,
+        "rarity": 3,
+        "image": "iconAddon_uniqueRing"
+    }
+]
