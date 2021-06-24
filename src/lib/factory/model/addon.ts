@@ -2,10 +2,11 @@ import { Addon as AddonType } from "../../types";
 import { ItemType, ModifierType, Player, Rarity } from "../../enum";
 import Model from "../base/model";
 import PlayerModel from "./player";
+import EmptyPlayerModel from "./emptyPlayer";
 
 class Addon extends Model<AddonType> {
     modifier: ModifierType = ModifierType.Addon;
-    protected _owner: PlayerModel | undefined;
+    protected _owner: PlayerModel | EmptyPlayerModel = new EmptyPlayerModel(this.factories);
 
     get id(): number {
         return this.data.id;
@@ -39,11 +40,8 @@ class Addon extends Model<AddonType> {
         return typeof this.data.type !== "undefined" ? this.data.type : ItemType.Empty;
     }
 
-    get owner(): PlayerModel | undefined {
-        if (this._owner) {
-            return this._owner;
-        }
-        return undefined;
+    get owner(): PlayerModel | EmptyPlayerModel {
+        return this._owner;
     }
 
     get player(): Player {

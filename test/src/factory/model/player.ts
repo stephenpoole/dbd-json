@@ -95,7 +95,7 @@ describe("#playerModel", () => {
     it("should not return a power given a survivor", () => {
         const model = new Model(factoriesMock as unknown as Factories, survivor);
         model.initialize();
-        expect(model.power).to.be.undefined;
+        expect(model.power.isEmpty).to.be.true;
     });
 
     it("should not return perks", () => {

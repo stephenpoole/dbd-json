@@ -68,13 +68,4 @@ describe("#powerModel", () => {
         model.initialize();
         expect(model.owner).to.not.be.undefined;
     });
-
-    it("should not call setOwner if model is empty", () => {
-        const model = new Model(
-            factoriesMock as unknown as Factories,
-            { owner: power.owner } as unknown as Power
-        );
-        model.initialize();
-        expect(model.owner).to.be.undefined;
-    });
 });

@@ -34,7 +34,7 @@ class Item extends Model<ItemTypeModel> {
     }
 
     get flavor(): string | undefined {
-        return this.data.flavor;
+        return this.data?.flavor;
     }
 }
 

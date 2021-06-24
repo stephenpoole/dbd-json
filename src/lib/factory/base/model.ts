@@ -26,11 +26,7 @@ class Model<T extends BaseEntity> {
         this.initialized = true;
     }
 
-    freeze(): void {
-        this.frozen = true;
-    }
-
-    get index(): string {
+    get index(): string | undefined {
         return this.data.index;
     }
 

@@ -2,10 +2,11 @@ import { Perk as PerkType } from "../../types";
 import Model from "../base/model";
 import { ModifierType, Player, Rarity } from "../../enum";
 import PlayerModel from "./player";
+import EmptyPlayerModel from "./emptyPlayer";
 
 class Perk extends Model<PerkType> {
     modifier: ModifierType = ModifierType.Perk;
-    protected _owner: PlayerModel | undefined;
+    protected _owner: PlayerModel | EmptyPlayerModel = new EmptyPlayerModel(this.factories);
     protected _tierIndex = 2;
 
     get id(): number {
@@ -25,14 +26,11 @@ class Perk extends Model<PerkType> {
     }
 
     get flavor(): string | undefined {
-        return this.data.flavor;
+        return this.data?.flavor;
     }
 
-    get owner(): PlayerModel | undefined {
-        if (this._owner) {
-            return this._owner;
-        }
-        return undefined;
+    get owner(): PlayerModel | EmptyPlayerModel {
+        return this._owner;
     }
 
     get player(): Player {

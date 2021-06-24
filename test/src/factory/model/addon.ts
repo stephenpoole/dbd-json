@@ -117,7 +117,7 @@ describe("#addonModel", () => {
     it("should return an undefined owner given a survivor", () => {
         const model = new Model(factoriesMock as unknown as Factories, survivor);
         model.initialize();
-        expect(model.owner).to.be.undefined;
+        expect(model.owner.isEmpty).to.be.true;
     });
 
     it("should return a Player.Killer player given a killer", () => {
@@ -130,14 +130,5 @@ describe("#addonModel", () => {
         const model = new Model(factoriesMock as unknown as Factories, survivor);
         model.initialize();
         expect(model.player).to.equal(Player.Survivor);
-    });
-
-    it("should not call setOwner if model is empty", () => {
-        const model = new Model(
-            factoriesMock as unknown as Factories,
-            { owner: killer.owner } as unknown as Addon
-        );
-        model.initialize();
-        expect(model.owner).to.be.undefined;
     });
 });

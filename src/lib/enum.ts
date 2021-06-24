@@ -11,6 +11,7 @@ const enum Rarity {
     VeryRare,
     UltraRare,
     Event,
+    None,
 }
 
 const enum Difficulty {

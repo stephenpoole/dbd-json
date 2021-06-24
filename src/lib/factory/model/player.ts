@@ -2,12 +2,19 @@ import { Player as PlayerType } from "../../types";
 import Model from "../base/model";
 import { Difficulty, ModifierType, Player as PlayerEnum } from "../../enum";
 import PerkModel from "./perk";
+import EmptyPerkModel from "./emptyPerk";
 import PowerModel from "./power";
+import EmptyPowerModel from "./emptyPower";
 
 class Player extends Model<PlayerType> {
     modifier: ModifierType = ModifierType.Player;
-    protected _perks: PerkModel[] | undefined;
-    protected _power: PowerModel | undefined;
+    protected _perks: (PerkModel | EmptyPerkModel)[] = [
+        new EmptyPerkModel(this.factories),
+        new EmptyPerkModel(this.factories),
+        new EmptyPerkModel(this.factories),
+    ];
+
+    protected _power: PowerModel | EmptyPowerModel = new EmptyPowerModel(this.factories);
 
     get id(): number {
         return this.data.id;
@@ -33,18 +40,12 @@ class Player extends Model<PlayerType> {
         return this.data.difficulty;
     }
 
-    get perks(): PerkModel[] {
-        if (this._perks) {
-            return this._perks;
-        }
-        return [];
+    get perks(): (PerkModel | EmptyPerkModel)[] {
+        return this._perks;
     }
 
-    get power(): PowerModel | undefined {
-        if (this._power) {
-            return this._power;
-        }
-        return undefined;
+    get power(): PowerModel | EmptyPowerModel {
+        return this._power;
     }
 
     get player(): PlayerEnum {
@@ -68,15 +69,18 @@ class Player extends Model<PlayerType> {
         const { killerPerk, survivorPerk } = this.factories;
         this._perks = perks.map(value =>
             this.player === PlayerEnum.Killer
-                ? killerPerk.getModel(value)
-                : survivorPerk.getModel(value)
+                ? (killerPerk.getModel(value) as PerkModel)
+                : (survivorPerk.getModel(value) as PerkModel)
         );
     }
 
     protected setPower(power: string | undefined): void {
         if (power) {
             const { power: factory } = this.factories;
-            this._power = this.player === PlayerEnum.Killer ? factory.getModel(power) : undefined;
+            this._power =
+                this.player === PlayerEnum.Killer
+                    ? (factory.getModel(power) as PowerModel)
+                    : new EmptyPowerModel(this.factories);
         }
     }
 }

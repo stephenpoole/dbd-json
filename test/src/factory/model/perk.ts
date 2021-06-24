@@ -136,15 +136,6 @@ describe("#perkModel", () => {
         expect(model.player).to.equal(Player.Survivor);
     });
 
-    it("should not call setOwner if model is empty", () => {
-        const model = new Model(
-            factoriesMock as unknown as Factories,
-            { owner: killer.owner } as unknown as Perk
-        );
-        model.initialize();
-        expect(model.owner).to.be.undefined;
-    });
-
     it("should default to the 3rd perk", () => {
         const model = new Model(factoriesMock as unknown as Factories, survivor);
         model.initialize();

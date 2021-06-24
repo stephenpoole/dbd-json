@@ -1,11 +1,12 @@
 import { Offering } from "../types";
 import OfferingModel from "./model/offering";
+import EmptyOfferingModel from "./model/emptyOffering";
 import ModelFactory from "./base/modelFactory";
 import Factories from "../factories";
 
-class SharedOfferingFactory extends ModelFactory<OfferingModel, Offering> {
+class SharedOfferingFactory extends ModelFactory<OfferingModel, EmptyOfferingModel, Offering> {
     constructor(data: Offering[], factories: Factories) {
-        super(factories, OfferingModel, data);
+        super(factories, OfferingModel, EmptyOfferingModel, data);
     }
 }
 

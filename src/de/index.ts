@@ -28,13 +28,33 @@ import {
     Perk as PerkModel,
     Player as PlayerModel,
     Power as PowerModel,
+    EmptyAddon as EmptyAddonModel,
+    EmptyItem as EmptyItemModel,
+    EmptyOffering as EmptyOfferingModel,
+    EmptyPerk as EmptyPerkModel,
+    EmptyPlayer as EmptyPlayerModel,
+    EmptyPower as EmptyPowerModel,
 } from "../lib/factory/model";
 import { Player, LocaleData } from "../lib/types";
 import Lib from "../lib";
 import de from "../lib/locales/de";
 
 const Client = (): Lib => new Lib(de);
-export { Client, AddonModel, ItemModel, OfferingModel, PerkModel, PlayerModel, PowerModel };
+export {
+    Client,
+    AddonModel,
+    ItemModel,
+    OfferingModel,
+    PerkModel,
+    PlayerModel,
+    PowerModel,
+    EmptyAddonModel,
+    EmptyItemModel,
+    EmptyOfferingModel,
+    EmptyPerkModel,
+    EmptyPlayerModel,
+    EmptyPowerModel,
+};
 export {
     Killer,
     Power,

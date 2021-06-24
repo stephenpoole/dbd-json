@@ -8,6 +8,12 @@ import {
     Perk as PerkModel,
     Player as PlayerModel,
     Power as PowerModel,
+    EmptyAddon as EmptyAddonModel,
+    EmptyItem as EmptyItemModel,
+    EmptyOffering as EmptyOfferingModel,
+    EmptyPerk as EmptyPerkModel,
+    EmptyPlayer as EmptyPlayerModel,
+    EmptyPower as EmptyPowerModel,
 } from "./factory/model";
 import Locale from "./locale";
 import { LocaleData } from "./types";
@@ -21,7 +27,7 @@ class Dbd {
         this.factory = new Factories(this.locale);
     }
 
-    item(key: Item): ItemModel {
+    item(key: Item): ItemModel | EmptyItemModel {
         return this.factory.item.getModel(key);
     }
 
@@ -29,8 +35,8 @@ class Dbd {
         return this.factory.item.getAllModels();
     }
 
-    addon(key: Addon): AddonModel {
-        const addon: AddonModel = this.factory.survivorAddon.getModel(key);
+    addon(key: Addon): AddonModel | EmptyAddonModel {
+        const addon = this.factory.survivorAddon.getModel(key);
         if (!addon.isEmpty) {
             return addon;
         }
@@ -51,8 +57,8 @@ class Dbd {
         return this.factory.killerAddon.getAllModels();
     }
 
-    offering(key: Offering): OfferingModel {
-        let offering: OfferingModel = this.factory.survivorOffering.getModel(key);
+    offering(key: Offering): OfferingModel | EmptyOfferingModel {
+        let offering = this.factory.survivorOffering.getModel(key);
         if (!offering.isEmpty) {
             return offering;
         }
@@ -75,7 +81,7 @@ class Dbd {
         return { ...sharedOfferings, ...killerOfferings };
     }
 
-    power(key: Power): PowerModel {
+    power(key: Power): PowerModel | EmptyPowerModel {
         return this.factory.power.getModel(key as string);
     }
 
@@ -83,8 +89,8 @@ class Dbd {
         return this.factory.power.getAllModels();
     }
 
-    perk(key: Perk): PerkModel {
-        const perk: PerkModel = this.factory.survivorPerk.getModel(key);
+    perk(key: Perk): PerkModel | EmptyPerkModel {
+        const perk = this.factory.survivorPerk.getModel(key);
         if (!perk.isEmpty) {
             return perk;
         }
@@ -105,7 +111,7 @@ class Dbd {
         return this.factory.survivorPerk.getAllModels();
     }
 
-    survivor(key: Survivor): PlayerModel {
+    survivor(key: Survivor): PlayerModel | EmptyPlayerModel {
         return this.factory.survivor.getModel(key);
     }
 
@@ -113,7 +119,7 @@ class Dbd {
         return this.factory.survivor.getAllModels();
     }
 
-    killer(key: Killer): PlayerModel {
+    killer(key: Killer): PlayerModel | EmptyPlayerModel {
         return this.factory.killer.getModel(key);
     }
 

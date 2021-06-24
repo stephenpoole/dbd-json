@@ -2,10 +2,11 @@ import { Power as PowerType } from "../../types";
 import Model from "../base/model";
 import { ModifierType, Player } from "../../enum";
 import PlayerModel from "./player";
+import EmptyPlayerModel from "./emptyPlayer";
 
 class Power extends Model<PowerType> {
     modifier: ModifierType = ModifierType.Power;
-    protected _owner: PlayerModel | undefined;
+    protected _owner: PlayerModel | EmptyPlayerModel = new EmptyPlayerModel(this.factories);
 
     get id(): number {
         return this.data.id;
@@ -28,14 +29,11 @@ class Power extends Model<PowerType> {
     }
 
     get flavor(): string | undefined {
-        return this.data.flavor;
+        return this.data?.flavor;
     }
 
-    get owner(): PlayerModel | undefined {
-        if (this._owner) {
-            return this._owner;
-        }
-        return undefined;
+    get owner(): PlayerModel | EmptyPlayerModel {
+        return this._owner;
     }
 
     get player(): Player {
