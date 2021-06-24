@@ -93,7 +93,7 @@ The classes used are `Highlight1`, `Highlight2`, `Highlight3` and `Highlight4`
 
 Just like in-game, this library supports the following languages:
 
-English (en), Spanish (es), German (de), French (fr), Italian (it), Japanese (jp), Korean (ko), Polish (pl), Russian (ru), Taiwanese (th), Turkish (tr and Simplified Chinese (zh).
+English (en), Spanish (es), German (de), French (fr), Italian (it), Japanese (jp), Korean (ko), Polish (pl), Russian (ru), Taiwanese (th), Turkish (tr) and Simplified Chinese (zh).
 
 To set the locale
 
