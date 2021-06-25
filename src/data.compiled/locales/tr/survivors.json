@@ -2,6 +2,7 @@
     {
         "description": "Müttefiklerinin yerini bulabilen ve verimliliklerini arttırabilen, gergin bir lider.<BR><BR>Kişisel avantajları <B>Bağ</B>, <B>Kendini Kanıtla</B> ve <B>Lider</B> sayesinde, diğer Kurbanlara yaklaşabilir ve hem onların hem de kendi eylemlerine bonuslar verebilir.",
         "name": "Dwight Fairfield",
+        "story": "Müttefiklerinin yerini bulabilen ve verimliliklerini arttırabilen, gergin bir lider.<BR><BR>Kişisel avantajları <B>Bağ</B>, <B>Kendini Kanıtla</B> ve <B>Lider</B> sayesinde, diğer Kurbanlara yaklaşabilir ve hem onların hem de kendi eylemlerine bonuslar verebilir.",
         "id": 1,
         "index": "DWIGHT_FAIRFIELD",
         "difficulty": 0,
@@ -15,6 +16,7 @@
     {
         "description": "Çoğu Katil'den koşarak kaçabilen, enerjik bir atlet.<BR><BR>Kişisel avantajları <B>Hızlı ve Sessiz</B>, <B>Ani Depar</B> ve <B>Adrenalin</B> sayesinde, kovalamalardan kaçarken ve Katil'le arasını açarken hep bir adım önde olur.",
         "name": "Meg Thomas",
+        "story": "Çoğu Katil'den koşarak kaçabilen, enerjik bir atlet.<BR><BR>Kişisel avantajları <B>Hızlı ve Sessiz</B>, <B>Ani Depar</B> ve <B>Adrenalin</B> sayesinde, kovalamalardan kaçarken ve Katil'le arasını açarken hep bir adım önde olur.",
         "id": 2,
         "index": "MEG_THOMAS",
         "difficulty": 0,
@@ -28,6 +30,7 @@
     {
         "description": "Hayatta kalma şansını hem kendisi hem de takım arkadaşları için arttırabilen, çalışkan bir botanik uzmanı.<BR><BR>Kişisel avantajları <B>Empati</B>, <B>Bitkibilim</B> ve <B>Kişisel Bakım</B> sayesinde, yaralı Kurbanları fark edebilir, takım arkadaşlarını ve kendini çok daha etkili bir şekilde iyileştirebilir.",
         "name": "Claudette Morel",
+        "story": "Hayatta kalma şansını hem kendisi hem de takım arkadaşları için arttırabilen, çalışkan bir botanik uzmanı.<BR><BR>Kişisel avantajları <B>Empati</B>, <B>Bitkibilim</B> ve <B>Kişisel Bakım</B> sayesinde, yaralı Kurbanları fark edebilir, takım arkadaşlarını ve kendini çok daha etkili bir şekilde iyileştirebilir.",
         "id": 3,
         "index": "CLAUDETTE_MOREL",
         "difficulty": 0,
@@ -41,6 +44,7 @@
     {
         "description": "Çoğu durumda kendine hâkim olabilen, yalnız bir hayatta kalma uzmanı.<BR><BR>Kişisel avantajları <B>Demir İrade</B>, <B>Sakin Ruh</B> ve <B>Sabotajcı</B> sayesinde, çevrede daha etkili şekilde hareket edebilir ve yaralansa bile hayatta kalabilir.",
         "name": "Jake Park",
+        "story": "Çoğu durumda kendine hâkim olabilen, yalnız bir hayatta kalma uzmanı.<BR><BR>Kişisel avantajları <B>Demir İrade</B>, <B>Sakin Ruh</B> ve <B>Sabotajcı</B> sayesinde, çevrede daha etkili şekilde hareket edebilir ve yaralansa bile hayatta kalabilir.",
         "id": 4,
         "index": "JAKE_PARK",
         "difficulty": 1,
@@ -54,6 +58,7 @@
     {
         "description": "Kaçmakta ve saklanmakta hiç zorlanmayan bir sokak sanatçısı.<BR><BR>Kişisel avantajları <B>Dört Ayak Üstüne</B>, <B>Arka Sokaklar</B> ve <B>Hayat Okulu</B> sayesinde hedefleri tamamlamak ve tehlikeden hızla sıyrılmakta ustadır.",
         "name": "Nea Karlsson",
+        "story": "Kaçmakta ve saklanmakta hiç zorlanmayan bir sokak sanatçısı.<BR><BR>Kişisel avantajları <B>Dört Ayak Üstüne</B>, <B>Arka Sokaklar</B> ve <B>Hayat Okulu</B> sayesinde hedefleri tamamlamak ve tehlikeden hızla sıyrılmakta ustadır.",
         "id": 5,
         "index": "NEA_KARLSSON",
         "difficulty": 1,
@@ -67,6 +72,7 @@
     {
         "description": "Zorlu durumlarla başa çıkmaya alışkın, yaşlı bir asker.<BR><BR>Kişisel avantajları <B>Sona Kalan</B>, <B>Sayılı Gün</B> ve <B>Yıkılmaz</B> sayesinde, zorlu durumlarda çok daha sağlam bir duruş sergiler.",
         "name": "William \"Bill\" Overbeck",
+        "story": "Zorlu durumlarla başa çıkmaya alışkın, yaşlı bir asker.<BR><BR>Kişisel avantajları <B>Sona Kalan</B>, <B>Sayılı Gün</B> ve <B>Yıkılmaz</B> sayesinde, zorlu durumlarda çok daha sağlam bir duruş sergiler.",
         "id": 6,
         "index": "WILLIAM_OVERBECK",
         "difficulty": 2,
@@ -80,6 +86,7 @@
     {
         "description": "Yüksek riskli hareketlerinin olumlu sonuçlarını gören, kaba bir kavgacı.<BR><BR>Kişisel avantajları <B>Bize Bir Şey Olmaz</B>, <B>Kum Torbası</B> ve <B>Takma Kafaya</B>; daha agresif, düşmanla yüzleşmeyi ödüllendiren bir oynanış tarzını ödüllendirir ama onu tehlikeyle daha sık karşı karşıya bırakır.",
         "name": "David King",
+        "story": "Yüksek riskli hareketlerinin olumlu sonuçlarını gören, kaba bir kavgacı.<BR><BR>Kişisel avantajları <B>Bize Bir Şey Olmaz</B>, <B>Kum Torbası</B> ve <B>Takma Kafaya</B>; daha agresif, düşmanla yüzleşmeyi ödüllendiren bir oynanış tarzını ödüllendirir ama onu tehlikeyle daha sık karşı karşıya bırakır.",
         "id": 7,
         "index": "DAVID_KING",
         "difficulty": 1,
@@ -93,6 +100,7 @@
     {
         "description": "Her türlü zorlukla mücadele etmeye hazır, kararlı bir Kurban.<BR><BR>Kişisel avantajları <B>Bir Başına</B>, <B>Derin Saplantı</B> ve <B>Can Havli</B> sayesinde, açığa çıkma tehlikesi altında olsa da çok güçlü hayatta kalma yeteneklerine sahiptir.",
         "name": "Laurie Strode",
+        "story": "Her türlü zorlukla mücadele etmeye hazır, kararlı bir Kurban.<BR><BR>Kişisel avantajları <B>Bir Başına</B>, <B>Derin Saplantı</B> ve <B>Can Havli</B> sayesinde, açığa çıkma tehlikesi altında olsa da çok güçlü hayatta kalma yeteneklerine sahiptir.",
         "id": 8,
         "index": "LAURIE_STRODE",
         "difficulty": 2,
@@ -106,6 +114,7 @@
     {
         "description": "Takımının hayatta kalma ihtimalini arttıran, şanslı bir kumarbaz.<BR><BR>Kişisel avantajları <B>Güçlü El</B>, <B>Yüksek Bahis</B> ve <B>Son Koz</B> sayesinde, tüm Kurbanların Şansını arttırır ve sandıkları açmalarına yardım eder.",
         "name": "Ace Visconti",
+        "story": "Takımının hayatta kalma ihtimalini arttıran, şanslı bir kumarbaz.<BR><BR>Kişisel avantajları <B>Güçlü El</B>, <B>Yüksek Bahis</B> ve <B>Son Koz</B> sayesinde, tüm Kurbanların Şansını arttırır ve sandıkları açmalarına yardım eder.",
         "id": 9,
         "index": "ACE_VISCONTI",
         "difficulty": 0,
@@ -119,6 +128,7 @@
     {
         "description": "Zor durumlara stratejisiyle çabucak uyum sağlayabilen, hedef odaklı bir rekabet tutkunu.<BR><BR>Kişisel avantajları <B>Teknisyen</B>, <B>Kıvrak</B> ve <B>Pür Dikkat</B>; jeneratörleri tamir etmesine ve Katil'in yerini belirlemesine yardım eder.",
         "name": "Feng Min",
+        "story": "Zor durumlara stratejisiyle çabucak uyum sağlayabilen, hedef odaklı bir rekabet tutkunu.<BR><BR>Kişisel avantajları <B>Teknisyen</B>, <B>Kıvrak</B> ve <B>Pür Dikkat</B>; jeneratörleri tamir etmesine ve Katil'in yerini belirlemesine yardım eder.",
         "id": 10,
         "index": "FENG_MIN",
         "difficulty": 0,
@@ -132,6 +142,7 @@
     {
         "description": "Takımının hayatta kalma yeteneğini ve toparlanma hızını arttıran, cesur bir rüya yolcusu.<BR><BR>Kişisel avantajları <B>Aç Gözünü!</B>, <B>Eczacı</B> ve <B>Gece Nöbeti</B> sayesinde, Kurbanların Çıkış Kapılarını bulmalarına ve daha kolay iyileşmelerine yardım eder.",
         "name": "Quentin Smith",
+        "story": "Takımının hayatta kalma yeteneğini ve toparlanma hızını arttıran, cesur bir rüya yolcusu.<BR><BR>Kişisel avantajları <B>Aç Gözünü!</B>, <B>Eczacı</B> ve <B>Gece Nöbeti</B> sayesinde, Kurbanların Çıkış Kapılarını bulmalarına ve daha kolay iyileşmelerine yardım eder.",
         "id": 11,
         "index": "QUENTIN_SMITH",
         "difficulty": 0,
@@ -145,8 +156,9 @@
     {
         "description": "Hedefleri daha hızlı bulabilen ve tamamlayabilen takıntılı bir dedektif.<BR><BR>Kişisel avantajları <B>Azim</B>, <B>Dedektif Sezgisi</B> ve <B>Kedi-Fare</B> sayesinde görevine daha iyi odaklanabilir ve hızla iyileşebilir.",
         "name": "Dedektif Tapp",
+        "story": "Hedefleri daha hızlı bulabilen ve tamamlayabilen takıntılı bir dedektif.<BR><BR>Kişisel avantajları <B>Azim</B>, <B>Dedektif Sezgisi</B> ve <B>Kedi-Fare</B> sayesinde görevine daha iyi odaklanabilir ve hızla iyileşebilir.",
         "id": 12,
-        "index": "DAVID_TAPP",
+        "index": "DETECTIVE_TAPP",
         "difficulty": 1,
         "perks": [
             "TENACITY",
@@ -158,6 +170,7 @@
     {
         "description": "Çevresindeki her şeyi en iyi şekilde değerlendirebilen, umut dolu bir şarkı yazarı. <br><br>Kişisel avantajları <b>Dans Edelim</b>, <b>Fırsat Penceresi</b> ve <b>Yılmak Yok</b> sayesinde, en zorlu durumlardan bile kaçabilecek sağduyu ve cesareti bulabilir.",
         "name": "Kate Denson",
+        "story": "Çevresindeki her şeyi en iyi şekilde değerlendirebilen, umut dolu bir şarkı yazarı. <br><br>Kişisel avantajları <b>Dans Edelim</b>, <b>Fırsat Penceresi</b> ve <b>Yılmak Yok</b> sayesinde, en zorlu durumlardan bile kaçabilecek sağduyu ve cesareti bulabilir.",
         "id": 13,
         "index": "KATE_DENSON",
         "difficulty": 0,
@@ -171,6 +184,7 @@
     {
         "description": "Yeni durumlara hızla adapte olup uygun stratejileri geliştirebilen becerikli bir öğretmen. <br><br>Kişisel avantajları <b>Şaşırtmaca</b>, <b>Kurtuluş</b> ve <b>Öz Öğrenim</b> sayesinde, Katil'in dikkatini dağıtabilir, en çaresiz durumlarda bile hayatta kalabilir ve mücadele devam ettikçe yeteneklerini geliştirebilir.",
         "name": "Adam Francis",
+        "story": "Yeni durumlara hızla adapte olup uygun stratejileri geliştirebilen becerikli bir öğretmen. <br><br>Kişisel avantajları <b>Şaşırtmaca</b>, <b>Kurtuluş</b> ve <b>Öz Öğrenim</b> sayesinde, Katil'in dikkatini dağıtabilir, en çaresiz durumlarda bile hayatta kalabilir ve mücadele devam ettikçe yeteneklerini geliştirebilir.",
         "id": 14,
         "index": "ADAM_FRANCIS",
         "difficulty": 1,
@@ -184,6 +198,7 @@
     {
         "description": "Şartlar imkânsızlığa işaret ettiğinde bile sarsılmayan, sessiz bir sanatçı.<br><br>Kişisel avantajları <b>Kırıp Geçir</b>, <b>Arayı Açmayalım</b> ve <b>Saptırma</b> sayesinde varlığını Katil'den saklamasına yardım eden, keskin bir gözlem yeteneğine sahiptir.",
         "name": "Jeff Johansen",
+        "story": "Şartlar imkânsızlığa işaret ettiğinde bile sarsılmayan, sessiz bir sanatçı.<br><br>Kişisel avantajları <b>Kırıp Geçir</b>, <b>Arayı Açmayalım</b> ve <b>Saptırma</b> sayesinde varlığını Katil'den saklamasına yardım eden, keskin bir gözlem yeteneğine sahiptir.",
         "id": 15,
         "index": "JEFF_JOHANSEN",
         "difficulty": 1,
@@ -197,6 +212,7 @@
     {
         "description": "Tüm engellere rağmen mücadeleye doğrudan atılan, etkileyici bir ünlü.<br><br>Kişisel avantajları <b>Dayanışma</b>, <b>Özgüvenli</b> ve <b>Bodoslama</b> sayesinde, başkalarına da kendine de yardım edebilecek, tehlikeli durumlardan kaçabilecek esnek yeteneklere sahiptir.",
         "name": "Jane Romero",
+        "story": "Tüm engellere rağmen mücadeleye doğrudan atılan, etkileyici bir ünlü.<br><br>Kişisel avantajları <b>Dayanışma</b>, <b>Özgüvenli</b> ve <b>Bodoslama</b> sayesinde, başkalarına da kendine de yardım edebilecek, tehlikeli durumlardan kaçabilecek esnek yeteneklere sahiptir.",
         "id": 16,
         "index": "JANE_ROMERO",
         "difficulty": 1,
@@ -210,6 +226,7 @@
     {
         "description": "Ukala ve dik başlı, \"yalnız bir kurt.\" Hayatta kalmak için yaratılmış bir adam.<br><br>Kişisel avantajları <b>Ben Kaçar</b>, <b>Ayaklan</b> ve <b>Yüreklilik</b> sayesinde acıya ve zorluğa ek dayanıklılık kazanır, ayrıca arkadaşlarını zor durumlardan kurtarabilir. ",
         "name": "Ashley J. Williams",
+        "story": "Ukala ve dik başlı, \"yalnız bir kurt.\" Hayatta kalmak için yaratılmış bir adam.<br><br>Kişisel avantajları <b>Ben Kaçar</b>, <b>Ayaklan</b> ve <b>Yüreklilik</b> sayesinde acıya ve zorluğa ek dayanıklılık kazanır, ayrıca arkadaşlarını zor durumlardan kurtarabilir. ",
         "id": 17,
         "index": "ASHLEY_J_WILLIAMS",
         "difficulty": 0,
@@ -223,6 +240,7 @@
     {
         "description": "Kritik gözlemler yapabilen ve diğerlerinin kaçırabileceği ayrıntıları yakalayabilen, hevesli bir gazeteci.<br><br>Kişisel avantajları <b>Birlikten Kuvvet Doğar</b>, <b>Kafayı Bozmuş</b> ve <b>İçindeki Güç</b> beklenmedik zorlukların üstesinden gelmesi için gerekli olan bilgileri ve cesareti ona veriyor.",
         "name": "Nancy Wheeler",
+        "story": "Kritik gözlemler yapabilen ve diğerlerinin kaçırabileceği ayrıntıları yakalayabilen, hevesli bir gazeteci.<br><br>Kişisel avantajları <b>Birlikten Kuvvet Doğar</b>, <b>Kafayı Bozmuş</b> ve <b>İçindeki Güç</b> beklenmedik zorlukların üstesinden gelmesi için gerekli olan bilgileri ve cesareti ona veriyor.",
         "id": 18,
         "index": "NANCY_WHEELER",
         "difficulty": 0,
@@ -236,6 +254,7 @@
     {
         "description": "Diğer Kurbanları koruyabilen ve onlara yardım edebilen, bunları yaparken de kendine özgü zekâsını ve alaycılığını asla kaybetmeyen eski bir sporcu.<br><br>Kişisel avantajları <b>Bakıcı</b>, <b>Yoldaşlık</b> ve <b>Sık Dişini</b> dikkat dağıtmasına, acıya dayanmasına ve çatışmaya geri dönmesine yardımcı oluyor.",
         "name": "Steve Harrington",
+        "story": "Diğer Kurbanları koruyabilen ve onlara yardım edebilen, bunları yaparken de kendine özgü zekâsını ve alaycılığını asla kaybetmeyen eski bir sporcu.<br><br>Kişisel avantajları <b>Bakıcı</b>, <b>Yoldaşlık</b> ve <b>Sık Dişini</b> dikkat dağıtmasına, acıya dayanmasına ve çatışmaya geri dönmesine yardımcı oluyor.",
         "id": 19,
         "index": "STEVE_HARRINGTON",
         "difficulty": 0,
@@ -249,6 +268,7 @@
     {
         "description": "\"Tecrübeli bir sokak yarışçısı. Zorlu durumlarda hem kendine hem diğer Kurbanlara avantaj sağlayabiliyor.<br><br>Kişisel avantajları <b>Şansın Güldü</b>, <b>Mümkün Mertebe</b> ve <b>Sökün Et</b> sayesinde kan izlerini gizleyebiliyor, devrilen paletleri kaldırabiliyor ve zor durumdaki Kurbanlara yardımcı olabiliyor.",
         "name": "Yui Kimura",
+        "story": "\"Tecrübeli bir sokak yarışçısı. Zorlu durumlarda hem kendine hem diğer Kurbanlara avantaj sağlayabiliyor.<br><br>Kişisel avantajları <b>Şansın Güldü</b>, <b>Mümkün Mertebe</b> ve <b>Sökün Et</b> sayesinde kan izlerini gizleyebiliyor, devrilen paletleri kaldırabiliyor ve zor durumdaki Kurbanlara yardımcı olabiliyor.",
         "id": 20,
         "index": "YUI_KIMURA",
         "difficulty": 1,
@@ -262,6 +282,7 @@
     {
         "description": "Kurnazlığı sayesinde gizlenip diğer Kurbanlara yardımcı olabilen gözü pek bir belgeselci.<br><br>Kişisel avantajları <b>Kayıtlara Geçmesin</b>, <b>Yem</b> ve <b>Halk için</b>, tehlikeyle yüz yüze geldiğinde saklı kalmasına, dikkat dağıtmasına ve kendi güvenliğini hiçe sayarak diğerlerini çabucak iyileştirmesine yardımcı olur.",
         "name": "Zarina Kassir",
+        "story": "Kurnazlığı sayesinde gizlenip diğer Kurbanlara yardımcı olabilen gözü pek bir belgeselci.<br><br>Kişisel avantajları <b>Kayıtlara Geçmesin</b>, <b>Yem</b> ve <b>Halk için</b>, tehlikeyle yüz yüze geldiğinde saklı kalmasına, dikkat dağıtmasına ve kendi güvenliğini hiçe sayarak diğerlerini çabucak iyileştirmesine yardımcı olur.",
         "id": 21,
         "index": "ZARINA_KASSIR",
         "difficulty": 1,
@@ -275,6 +296,7 @@
     {
         "description": "Dehşetin ne olduğunu adı gibi bilen genç Cheryl Mason, hem kendini hem de takımını cesaretlendiriyor.<br><br>Kişisel avantajları <b>Ruh Muhafızı</b>, <b>Kan Yemini</b> ve <b>Bastırılmış Direniş</b> sayesinde muazzam zorlukların üstesinden geliyor, takım arkadaşlarıyla iletişim halinde kalıyor ve hedefleri planlıyor.",
         "name": "Cheryl Mason",
+        "story": "Dehşetin ne olduğunu adı gibi bilen genç Cheryl Mason, hem kendini hem de takımını cesaretlendiriyor.<br><br>Kişisel avantajları <b>Ruh Muhafızı</b>, <b>Kan Yemini</b> ve <b>Bastırılmış Direniş</b> sayesinde muazzam zorlukların üstesinden geliyor, takım arkadaşlarıyla iletişim halinde kalıyor ve hedefleri planlıyor.",
         "id": 22,
         "index": "CHERYL_MASON",
         "difficulty": 0,
@@ -288,6 +310,7 @@
     {
         "description": "Bitmek bilmeyen kararlılığını kullanarak bir plan oluşturan ve diğer Kurbanlara yardımcı olan vizyoner bir mimar.<br><br>Kişisel avantajları <b>Vizyoner</b>, <b>Son Çare</b> ve <b>Kalıcı Yapı</b> jeneratörlerin yerlerini belirlemesini, Kurbanları kurtarmasını ve araçları en iyi şekilde kullanmasını sağlıyor.",
         "name": "Felix Richter",
+        "story": "Bitmek bilmeyen kararlılığını kullanarak bir plan oluşturan ve diğer Kurbanlara yardımcı olan vizyoner bir mimar.<br><br>Kişisel avantajları <b>Vizyoner</b>, <b>Son Çare</b> ve <b>Kalıcı Yapı</b> jeneratörlerin yerlerini belirlemesini, Kurbanları kurtarmasını ve araçları en iyi şekilde kullanmasını sağlıyor.",
         "id": 23,
         "index": "FELIX_RICHTER",
         "difficulty": 1,
@@ -301,6 +324,7 @@
     {
         "description": "Bir okültizm araştırmacısı olarak, hayatta kalmak için büyük bir inatçılık gösterebilir ve kurnaz hilelere başvurabilir.<br><br>Kişisel avantajları <b>Değerleme</b>, <b>Aldatmaca</b> ve <b>Güç Mücadelesi</b> Katillerden kaçmak için bir B planına sahip olmasını ve nesnelerle yeni şekillerde etkileşime geçmesini sağlar. ",
         "name": "Élodie Rakoto",
+        "story": "Bir okültizm araştırmacısı olarak, hayatta kalmak için büyük bir inatçılık gösterebilir ve kurnaz hilelere başvurabilir.<br><br>Kişisel avantajları <b>Değerleme</b>, <b>Aldatmaca</b> ve <b>Güç Mücadelesi</b> Katillerden kaçmak için bir B planına sahip olmasını ve nesnelerle yeni şekillerde etkileşime geçmesini sağlar. ",
         "id": 24,
         "index": "ELODIE_RAKOTO",
         "difficulty": 1,
@@ -314,6 +338,7 @@
     {
         "description": "Zorlu zamanlarda bile amaçlarına ulaşabilen, çıkarlarına fazlasıyla düşkün bir prodüktör.<br><br>Kişisel avantajları <b>Kısa Yol</b>, <b>Hit Parça</b> ve <b>Kendi Bacağından</b> sayesinde diğerleri zarar görürken yeteneklerini geliştirebiliyor ve peşine düşenlerden hızlıca kurtulabiliyor. ",
         "name": "Yun-Jin Lee",
+        "story": "Zorlu zamanlarda bile amaçlarına ulaşabilen, çıkarlarına fazlasıyla düşkün bir prodüktör.<br><br>Kişisel avantajları <b>Kısa Yol</b>, <b>Hit Parça</b> ve <b>Kendi Bacağından</b> sayesinde diğerleri zarar görürken yeteneklerini geliştirebiliyor ve peşine düşenlerden hızlıca kurtulabiliyor. ",
         "id": 25,
         "index": "YUN_JIN_LEE",
         "difficulty": 0,
@@ -327,6 +352,7 @@
     {
         "description": "Jill Valentine, birçok organik biyolojik silaha başarıyla karşı gelen S.T.A.R.S. ekibinin kurucularından biri.<br><br>Kişisel avantajları <b>Karşı Güç</b>, <b>Diriliş</b> ve <b>Tuzak Mayın</b> doğrudan olmasa da Katil'e karşılık vermesini sağlıyor ve takım arkadaşlarına güçlü bir destek sunuyor. ",
         "name": "Jill Valentine",
+        "story": "Jill Valentine, birçok organik biyolojik silaha başarıyla karşı gelen S.T.A.R.S. ekibinin kurucularından biri.<br><br>Kişisel avantajları <b>Karşı Güç</b>, <b>Diriliş</b> ve <b>Tuzak Mayın</b> doğrudan olmasa da Katil'e karşılık vermesini sağlıyor ve takım arkadaşlarına güçlü bir destek sunuyor. ",
         "id": 26,
         "index": "JILL_VALENTINE",
         "difficulty": 1,
@@ -340,6 +366,7 @@
     {
         "description": "Leon S. Kennedy, Raccoon City'deki felaket sırasında elinden gelenin çok daha fazlasını yapmış bir çaylak polis memuru.<br><br>Kişisel avantajları <b>Sık Dişini</b>, <b>Ses Bombası</b> ve <b>Acemilik Hevesi</b> ağrıyı yok saymasını, Katil'i sersemletmesini ve kaybedilen hedefleri takip etmesini sağlıyor. ",
         "name": "Leon S. Kennedy",
+        "story": "Leon S. Kennedy, Raccoon City'deki felaket sırasında elinden gelenin çok daha fazlasını yapmış bir çaylak polis memuru.<br><br>Kişisel avantajları <b>Sık Dişini</b>, <b>Ses Bombası</b> ve <b>Acemilik Hevesi</b> ağrıyı yok saymasını, Katil'i sersemletmesini ve kaybedilen hedefleri takip etmesini sağlıyor. ",
         "id": 27,
         "index": "LEON_SCOTT_KENNEDY",
         "difficulty": 1,

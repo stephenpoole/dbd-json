@@ -16,6 +16,7 @@ class EmptyPlayer extends Model<PlayerType> {
     difficulty: Difficulty = Difficulty.None;
     perks = [undefined, undefined, undefined];
     power = undefined;
+    story = undefined;
     player = PlayerEnum.None;
 }
 

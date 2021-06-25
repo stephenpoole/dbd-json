@@ -1277,7 +1277,7 @@
             2,
             3
         ],
-        "owner": "DAVID_TAPP",
+        "owner": "DETECTIVE_TAPP",
         "image": "iconPerks_tenacity",
         "tiers": [
             [
@@ -1302,7 +1302,7 @@
             2,
             3
         ],
-        "owner": "DAVID_TAPP",
+        "owner": "DETECTIVE_TAPP",
         "image": "iconPerks_detectivesHunch",
         "tiers": [
             [
@@ -1330,7 +1330,7 @@
             2,
             3
         ],
-        "owner": "DAVID_TAPP",
+        "owner": "DETECTIVE_TAPP",
         "image": "iconPerks_stakeOut",
         "tiers": [
             [
@@ -2530,7 +2530,7 @@
         ]
     },
     {
-        "description": "Bacznie obserwujesz cele, gdy uciekają.<br><br>Ukończ <span class=\"Highlight1\">{0}</span> dobre lub świetne testy umiejętności podczas naprawiania generatora, aby aktywować <i>Zapał Nowicjusza</i> do końca próby.<br>Po aktywacji widzisz aurę generatorów, których stan ulega pogorszeniu.<br><br><span class= \"FlavorText\">„Powstrzymam to, poruczniku, obiecuję”. – Leon S. Kennedy</span>",
+        "description": "Bacznie obserwujesz cele, gdy uciekają.<br><br>Ukończ <span class=\"Highlight1\">{0}</span> dobrych lub świetnych testów umiejętności podczas naprawiania generatora, aby aktywować <i>Zapał Nowicjusza</i> do końca próby.<br>Po aktywacji widzisz aurę generatorów, których stan ulega pogorszeniu.<br><br><span class= \"FlavorText\">„Powstrzymam to, poruczniku, obiecuję”. – Leon S. Kennedy</span>",
         "name": "Zapał Nowicjusza",
         "id": 194,
         "index": "ROOKIE_SPIRIT",

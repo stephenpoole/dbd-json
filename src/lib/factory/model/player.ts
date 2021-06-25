@@ -20,6 +20,7 @@ class Player extends Model<PlayerType> {
     name!: string;
     description!: string;
     image!: string;
+    story!: string;
     player!: PlayerEnum;
     difficulty!: Difficulty;
 
@@ -37,13 +38,14 @@ class Player extends Model<PlayerType> {
     }
 
     protected assign(): void {
-        const { id, index, name, description, image, difficulty } = this.data;
+        const { id, index, name, description, image, difficulty, story } = this.data;
         this.id = id;
         this.index = index;
         this.name = name;
         this.description = description;
         this.image = image;
         this.difficulty = difficulty;
+        this.story = story;
 
         const power = this.data.power;
         const hasPower = typeof power === "string" && power.length > 0;

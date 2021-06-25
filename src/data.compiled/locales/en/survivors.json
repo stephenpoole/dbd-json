@@ -2,6 +2,7 @@
     {
         "description": "A nervous leader, able to locate his allies and increase their effectiveness.<BR><BR>His personal perks, <B>Bond</B>, <B>Prove Thyself</B> and <B>Leader</B>, allow him to get in proximity of other Survivors and provide bonuses to their actions as well as his own.",
         "name": "Dwight Fairfield",
+        "story": "A nervous leader, able to locate his allies and increase their effectiveness.<BR><BR>His personal perks, <B>Bond</B>, <B>Prove Thyself</B> and <B>Leader</B>, allow him to get in proximity of other Survivors and provide bonuses to their actions as well as his own.",
         "id": 1,
         "index": "DWIGHT_FAIRFIELD",
         "difficulty": 0,
@@ -15,6 +16,7 @@
     {
         "description": "An energetic athlete, able to outrun most Killers.<BR><BR>Her personal perks, <B>Quick & Quiet</B>, <B>Sprint Burst</B> and <B>Adrenaline</B>, give her advantage to escape chases and put distance between herself and the Killer.",
         "name": "Meg Thomas",
+        "story": "An energetic athlete, able to outrun most Killers.<BR><BR>Her personal perks, <B>Quick & Quiet</B>, <B>Sprint Burst</B> and <B>Adrenaline</B>, give her advantage to escape chases and put distance between herself and the Killer.",
         "id": 2,
         "index": "MEG_THOMAS",
         "difficulty": 0,
@@ -28,6 +30,7 @@
     {
         "description": "A studious botanist, able to boost her team's survivability as well as her own.<BR><BR>Her personal perks, <B>Empathy</B>, <B>Botany Knowledge</B> and <B>Self Care</B>, allow her to spot injured Survivors and heal her team and herself more effectively.",
         "name": "Claudette Morel",
+        "story": "A studious botanist, able to boost her team's survivability as well as her own.<BR><BR>Her personal perks, <B>Empathy</B>, <B>Botany Knowledge</B> and <B>Self Care</B>, allow her to spot injured Survivors and heal her team and herself more effectively.",
         "id": 3,
         "index": "CLAUDETTE_MOREL",
         "difficulty": 0,
@@ -41,6 +44,7 @@
     {
         "description": "A solitary survivalist, able to hold his own in most situations.<BR><BR>His personal perks, <B>Iron Will</B>, <B>Calm Spirit</B> and <B>Saboteur</B>, allow him to more effectively move about the environment and survive while injured.",
         "name": "Jake Park",
+        "story": "A solitary survivalist, able to hold his own in most situations.<BR><BR>His personal perks, <B>Iron Will</B>, <B>Calm Spirit</B> and <B>Saboteur</B>, allow him to more effectively move about the environment and survive while injured.",
         "id": 4,
         "index": "JAKE_PARK",
         "difficulty": 1,
@@ -54,6 +58,7 @@
     {
         "description": "An urban artist, able to easily escape and hide.<BR><BR>Her personal perks, <B>Balanced Landing</B>, <B>Urban Evasion</B> and <B>Streetwise</B>, make her well suited to completing objectives and rapid evasion.",
         "name": "Nea Karlsson",
+        "story": "An urban artist, able to easily escape and hide.<BR><BR>Her personal perks, <B>Balanced Landing</B>, <B>Urban Evasion</B> and <B>Streetwise</B>, make her well suited to completing objectives and rapid evasion.",
         "id": 5,
         "index": "NEA_KARLSSON",
         "difficulty": 1,
@@ -67,6 +72,7 @@
     {
         "description": "An old soldier, accustomed to dealing with critical situations.<BR><BR>His personal perks, <B>Left Behind</B>, <B>Borrowed Time</B> and <B>Unbreakable</B>, make him more powerful in dire moments.",
         "name": "William \"Bill\" Overbeck",
+        "story": "An old soldier, accustomed to dealing with critical situations.<BR><BR>His personal perks, <B>Left Behind</B>, <B>Borrowed Time</B> and <B>Unbreakable</B>, make him more powerful in dire moments.",
         "id": 6,
         "index": "WILLIAM_OVERBECK",
         "difficulty": 2,
@@ -80,6 +86,7 @@
     {
         "description": "A rugged scrapper, rewarding high-risk play.<BR><BR>His personal perks, <B>We're Gonna Live Forever</B>, <B>Dead Hard</B> and <B>No Mither</B>, reward an aggressive, confrontational playstyle but leave him vulnerable.",
         "name": "David King",
+        "story": "A rugged scrapper, rewarding high-risk play.<BR><BR>His personal perks, <B>We're Gonna Live Forever</B>, <B>Dead Hard</B> and <B>No Mither</B>, reward an aggressive, confrontational playstyle but leave him vulnerable.",
         "id": 7,
         "index": "DAVID_KING",
         "difficulty": 1,
@@ -93,6 +100,7 @@
     {
         "description": "A determined Survivor, prepared to weather any challenge.<BR><BR>Her personal perks, <B>Sole Survivor</B>, <B>Object of Obsession</B> and <B>Decisive Strike</B>, grant her powerful survival abilities at the cost of leaving her exposed.",
         "name": "Laurie Strode",
+        "story": "A determined Survivor, prepared to weather any challenge.<BR><BR>Her personal perks, <B>Sole Survivor</B>, <B>Object of Obsession</B> and <B>Decisive Strike</B>, grant her powerful survival abilities at the cost of leaving her exposed.",
         "id": 8,
         "index": "LAURIE_STRODE",
         "difficulty": 2,
@@ -106,6 +114,7 @@
     {
         "description": "A lucky gambler, improving the odds of the entire team.<BR><BR>His personal perks, <B>Open Handed</B>, <B>Up the Ante</B> and <B>Ace in the Hole</B>, boost the Luck of all Survivors and help with unlocking chests.",
         "name": "Ace Visconti",
+        "story": "A lucky gambler, improving the odds of the entire team.<BR><BR>His personal perks, <B>Open Handed</B>, <B>Up the Ante</B> and <B>Ace in the Hole</B>, boost the Luck of all Survivors and help with unlocking chests.",
         "id": 9,
         "index": "ACE_VISCONTI",
         "difficulty": 0,
@@ -119,6 +128,7 @@
     {
         "description": "An objective-focused competitor who can quickly adapt her strategy to meet a vast range of challenging situations.<BR><BR>Her personal perks, <B>Technician</B>, <B>Lithe</B> and <B>Alert</B>, help her with repairing generators and locating the Killer.",
         "name": "Feng Min",
+        "story": "An objective-focused competitor who can quickly adapt her strategy to meet a vast range of challenging situations.<BR><BR>Her personal perks, <B>Technician</B>, <B>Lithe</B> and <B>Alert</B>, help her with repairing generators and locating the Killer.",
         "id": 10,
         "index": "FENG_MIN",
         "difficulty": 0,
@@ -132,6 +142,7 @@
     {
         "description": "A resolute dreamwalker, increasing the survivability and recovery of his team.<BR><BR>His personal perks, <B>Wake Up!</B>, <B>Pharmacy</B> and <B>Vigil</B>, help Survivors locate exit gates and recover more easily.",
         "name": "Quentin Smith",
+        "story": "A resolute dreamwalker, increasing the survivability and recovery of his team.<BR><BR>His personal perks, <B>Wake Up!</B>, <B>Pharmacy</B> and <B>Vigil</B>, help Survivors locate exit gates and recover more easily.",
         "id": 11,
         "index": "QUENTIN_SMITH",
         "difficulty": 0,
@@ -145,8 +156,9 @@
     {
         "description": "An obsessed detective, able to locate and complete objectives faster.<BR><BR>His personal perks, <B>Tenacity</B>, <B>Detective's Hunch</B> and <B>Stake Out</B>, make him objective-focused and able to rapidly recover.",
         "name": "Detective Tapp",
+        "story": "An obsessed detective, able to locate and complete objectives faster.<BR><BR>His personal perks, <B>Tenacity</B>, <B>Detective's Hunch</B> and <B>Stake Out</B>, make him objective-focused and able to rapidly recover.",
         "id": 12,
-        "index": "DAVID_TAPP",
+        "index": "DETECTIVE_TAPP",
         "difficulty": 1,
         "perks": [
             "TENACITY",
@@ -158,6 +170,7 @@
     {
         "description": "A hopeful songbird, able to make the most of her surroundings. <br><br>Her personal perks, <b>Dance With Me</b>, <b>Windows of Opportunity</b> and <b>Boil Over</b>, grant her the foresight and feistiness to escape even the most dire situations.",
         "name": "Kate Denson",
+        "story": "A hopeful songbird, able to make the most of her surroundings. <br><br>Her personal perks, <b>Dance With Me</b>, <b>Windows of Opportunity</b> and <b>Boil Over</b>, grant her the foresight and feistiness to escape even the most dire situations.",
         "id": 13,
         "index": "KATE_DENSON",
         "difficulty": 0,
@@ -171,6 +184,7 @@
     {
         "description": "A resourceful teacher, able to adapt to new circumstances and develop strategies accordingly. <br><br>His personal perks, <b>Diversion</b>, <b>Deliverance</b> and <b>Autodidact</b>, help him to distract The Killer, survive desperate situations, and become more skilled as the trial continues.",
         "name": "Adam Francis",
+        "story": "A resourceful teacher, able to adapt to new circumstances and develop strategies accordingly. <br><br>His personal perks, <b>Diversion</b>, <b>Deliverance</b> and <b>Autodidact</b>, help him to distract The Killer, survive desperate situations, and become more skilled as the trial continues.",
         "id": 14,
         "index": "ADAM_FRANCIS",
         "difficulty": 1,
@@ -184,6 +198,7 @@
     {
         "description": "A quiet artist, standing steadfast against impossible odds.<br><br>His personal perks, <b>Breakdown</b>, <b>Aftercare</b> and <b>Distortion</b>, give him observational advantages and help to hide his presence from The Killer.",
         "name": "Jeff Johansen",
+        "story": "A quiet artist, standing steadfast against impossible odds.<br><br>His personal perks, <b>Breakdown</b>, <b>Aftercare</b> and <b>Distortion</b>, give him observational advantages and help to hide his presence from The Killer.",
         "id": 15,
         "index": "JEFF_JOHANSEN",
         "difficulty": 1,
@@ -197,6 +212,7 @@
     {
         "description": "An influential celebrity, going against the grain to tackle challenges head on.<br><br>Her personal perks, <b>Solidarity</b>, <b>Poised</b> and <b>Head On</b>, give her a flexible skillset that allow her to help others, as well as herself, to escape dangerous situations.",
         "name": "Jane Romero",
+        "story": "An influential celebrity, going against the grain to tackle challenges head on.<br><br>Her personal perks, <b>Solidarity</b>, <b>Poised</b> and <b>Head On</b>, give her a flexible skillset that allow her to help others, as well as herself, to escape dangerous situations.",
         "id": 16,
         "index": "JANE_ROMERO",
         "difficulty": 1,
@@ -210,6 +226,7 @@
     {
         "description": "An \"alone wolf,\" cocky and headstrong; a man built for survival.<br><br>His personal perks, <b>Flip-Flop</b>, <b>Buckle Up</b> and <b>Mettle of Man</b>, give him additional resilience to pain and hardship, as well as the ability to help his friends out of sticky situations. ",
         "name": "Ashley J. Williams",
+        "story": "An \"alone wolf,\" cocky and headstrong; a man built for survival.<br><br>His personal perks, <b>Flip-Flop</b>, <b>Buckle Up</b> and <b>Mettle of Man</b>, give him additional resilience to pain and hardship, as well as the ability to help his friends out of sticky situations. ",
         "id": 17,
         "index": "ASHLEY_J_WILLIAMS",
         "difficulty": 0,
@@ -223,6 +240,7 @@
     {
         "description": "An aspiring journalist, able to make acute observations and gain insights that others may miss.<br><br>Her personal perks, <b>Better Together</b>, <b>Fixated</b> and <b>Inner Strength</b>, give her the information and courage she needs to tackle unexpected challenges.",
         "name": "Nancy Wheeler",
+        "story": "An aspiring journalist, able to make acute observations and gain insights that others may miss.<br><br>Her personal perks, <b>Better Together</b>, <b>Fixated</b> and <b>Inner Strength</b>, give her the information and courage she needs to tackle unexpected challenges.",
         "id": 18,
         "index": "NANCY_WHEELER",
         "difficulty": 0,
@@ -236,6 +254,7 @@
     {
         "description": "A former jock, able to protect and support his fellow Survivors while providing his own brand of humor.<br><br>His personal perks, <b>Babysitter</b>, <b>Camaraderie</b> and <b>Second Wind</b>, enable him to distract Killers, tolerate pain, and get back into the fight.",
         "name": "Steve Harrington",
+        "story": "A former jock, able to protect and support his fellow Survivors while providing his own brand of humor.<br><br>His personal perks, <b>Babysitter</b>, <b>Camaraderie</b> and <b>Second Wind</b>, enable him to distract Killers, tolerate pain, and get back into the fight.",
         "id": 19,
         "index": "STEVE_HARRINGTON",
         "difficulty": 0,
@@ -249,6 +268,7 @@
     {
         "description": "A hardened street racer, able to gain advantages for her and her fellow Survivors in challenging situations.<br><br>Her personal perks, <b>Lucky Break</b>, <b>Any Means Necessary</b> and <b>Breakout</b>, enable her to cover her blood trails, reset dropped pallets, and assist helpless Survivors.",
         "name": "Yui Kimura",
+        "story": "A hardened street racer, able to gain advantages for her and her fellow Survivors in challenging situations.<br><br>Her personal perks, <b>Lucky Break</b>, <b>Any Means Necessary</b> and <b>Breakout</b>, enable her to cover her blood trails, reset dropped pallets, and assist helpless Survivors.",
         "id": 20,
         "index": "YUI_KIMURA",
         "difficulty": 1,
@@ -262,6 +282,7 @@
     {
         "description": "A plucky documentarian, able to use her street smarts to avoid detection and greatly assist other Survivors.<br><br>Her personal perks, <b>Off The Record</b>, <b>Red Herring</b> and <b>For the People</b>, help her remain hidden in the face of danger, create distractions, and quickly heal others by forgoing her own safety.",
         "name": "Zarina Kassir",
+        "story": "A plucky documentarian, able to use her street smarts to avoid detection and greatly assist other Survivors.<br><br>Her personal perks, <b>Off The Record</b>, <b>Red Herring</b> and <b>For the People</b>, help her remain hidden in the face of danger, create distractions, and quickly heal others by forgoing her own safety.",
         "id": 21,
         "index": "ZARINA_KASSIR",
         "difficulty": 1,
@@ -275,6 +296,7 @@
     {
         "description": "Cheryl Mason is a young veteran of terror, emboldening both herself and her team.<br><br>Her personal perks, <b>Soul Guard</b>, <b>Blood Pact</b>, and <b>Repressed Alliance</b>, allow her to survive through immense hardship, stay in contact with team members, and plan objectives.",
         "name": "Cheryl Mason",
+        "story": "Cheryl Mason is a young veteran of terror, emboldening both herself and her team.<br><br>Her personal perks, <b>Soul Guard</b>, <b>Blood Pact</b>, and <b>Repressed Alliance</b>, allow her to survive through immense hardship, stay in contact with team members, and plan objectives.",
         "id": 22,
         "index": "CHERYL_MASON",
         "difficulty": 0,
@@ -288,6 +310,7 @@
     {
         "description": "A visionary architect, able to use his relentless determination to form a plan and help other Survivors.<br><br>His personal perks, <b>Visionary</b>, <b>Desperate Measures</b>, and <b>Built to Last</b>, help him reveal generators, rescue Survivors, and get the most from his tools.",
         "name": "Felix Richter",
+        "story": "A visionary architect, able to use his relentless determination to form a plan and help other Survivors.<br><br>His personal perks, <b>Visionary</b>, <b>Desperate Measures</b>, and <b>Built to Last</b>, help him reveal generators, rescue Survivors, and get the most from his tools.",
         "id": 23,
         "index": "FELIX_RICHTER",
         "difficulty": 1,
@@ -301,6 +324,7 @@
     {
         "description": "An occult investigator, able to use cunning tricks and stubborn resolve to keep herself alive.<br><br>Her personal perks, <b>Appraisal</b>, <b>Deception</b>, and <b>Power Struggle</b>, allow her to interact with objects in new ways, all while having a backup plan to escape Killers. ",
         "name": "Élodie Rakoto",
+        "story": "An occult investigator, able to use cunning tricks and stubborn resolve to keep herself alive.<br><br>Her personal perks, <b>Appraisal</b>, <b>Deception</b>, and <b>Power Struggle</b>, allow her to interact with objects in new ways, all while having a backup plan to escape Killers. ",
         "id": 24,
         "index": "ELODIE_RAKOTO",
         "difficulty": 1,
@@ -314,6 +338,7 @@
     {
         "description": "A self-interested music producer, able to advance her goals during turbulent times.<br><br>Her personal perks, <b>Fast Track</b>, <b>Smash Hit</b>, and <b>Self-Preservation</b>, allow her to improve her abilities when others are harmed, and quickly escape from a chase. ",
         "name": "Yun-Jin Lee",
+        "story": "A self-interested music producer, able to advance her goals during turbulent times.<br><br>Her personal perks, <b>Fast Track</b>, <b>Smash Hit</b>, and <b>Self-Preservation</b>, allow her to improve her abilities when others are harmed, and quickly escape from a chase. ",
         "id": 25,
         "index": "YUN_JIN_LEE",
         "difficulty": 0,
@@ -327,6 +352,7 @@
     {
         "description": "Jill Valentine is a founding member of S.T.A.R.S. who has triumphed over countless bio-organic weapons.<br><br>Her personal perks, <b>Counterforce</b>, <b>Resurgence</b>, and <b>Blast Mine</b>, allow her to indirectly fight back, while offering strong support to her teammates. ",
         "name": "Jill Valentine",
+        "story": "Jill Valentine is a founding member of S.T.A.R.S. who has triumphed over countless bio-organic weapons.<br><br>Her personal perks, <b>Counterforce</b>, <b>Resurgence</b>, and <b>Blast Mine</b>, allow her to indirectly fight back, while offering strong support to her teammates. ",
         "id": 26,
         "index": "JILL_VALENTINE",
         "difficulty": 1,
@@ -340,6 +366,7 @@
     {
         "description": "Leon S. Kennedy is a rookie police officer who went beyond the call of duty during the outbreak in Raccoon City.<br><br>His personal perks, <b>Bite the Bullet</b>, <b>Flashbang</b>, and <b>Rookie Spirit</b>, allow him to ignore pain, disorient the Killer, and track objectives being lost. ",
         "name": "Leon S. Kennedy",
+        "story": "Leon S. Kennedy is a rookie police officer who went beyond the call of duty during the outbreak in Raccoon City.<br><br>His personal perks, <b>Bite the Bullet</b>, <b>Flashbang</b>, and <b>Rookie Spirit</b>, allow him to ignore pain, disorient the Killer, and track objectives being lost. ",
         "id": 27,
         "index": "LEON_SCOTT_KENNEDY",
         "difficulty": 1,

@@ -1,4 +1,4 @@
-import { PlayerType } from "../../../src/en";
+import { ItemType, PlayerType } from "../../../src/en";
 import { Helpers } from "./";
 
 export class PropertyValidate {
@@ -43,6 +43,9 @@ export class PropertyValidate {
             });
             it("should not be empty", function (done) {
                 Helpers.isNotEmpty(done, value.name);
+            });
+            it("should not be a locale id", function (done) {
+                Helpers.isNotLocaleId(done, value.name);
             });
             if (value.id !== 101 && value.id !== 403) {
                 // the only repeated addon is Speed Limiter between billy and bubba
@@ -144,8 +147,31 @@ export class PropertyValidate {
             it("should not be empty", function (done) {
                 Helpers.isNotEmpty(done, value.description);
             });
+            it("should not be a locale id", function (done) {
+                Helpers.isNotLocaleId(done, value.description);
+            });
             it("should be unique", function (done) {
                 Helpers.unique(done, value.description, "description", arr);
+            });
+        });
+    }
+
+    static story(value, arr) {
+        return describe("#story", function () {
+            it("should exist", function (done) {
+                Helpers.exists(done, value, "story");
+            });
+            it("should be a string", function (done) {
+                Helpers.isString(done, value.story);
+            });
+            it("should not be empty", function (done) {
+                Helpers.isNotEmpty(done, value.story);
+            });
+            it("should not be a locale id", function (done) {
+                Helpers.isNotLocaleId(done, value.story);
+            });
+            it("should be unique", function (done) {
+                Helpers.unique(done, value.story, "story", arr);
             });
         });
     }

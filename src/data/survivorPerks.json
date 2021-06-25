@@ -570,7 +570,7 @@
         "index": "TENACITY",
         "name": "695699614FA33E13C8BE48ADC2C7ED3A",
         "rarity": [1, 2, 3],
-        "owner": "DAVID_TAPP",
+        "owner": "DETECTIVE_TAPP",
         "description": "F5023E1F4AE77C7618D3C793C3D41F0C",
         "image": "iconPerks_tenacity",
         "tiers": [[30], [40], [50]]
@@ -580,7 +580,7 @@
         "index": "DETECTIVES_HUNCH",
         "name": "20B6B2D547E4445F6EB2ABA03E5FEF0D",
         "rarity": [1, 2, 3],
-        "owner": "DAVID_TAPP",
+        "owner": "DETECTIVE_TAPP",
         "description": "ED9026A74A2CB9D279EF17A9C4532891",
         "image": "iconPerks_detectivesHunch",
         "tiers": [
@@ -594,7 +594,7 @@
         "index": "STAKE_OUT",
         "name": "0D2C37B2497A2E3D5EAF2190D607EF40",
         "rarity": [1, 2, 3],
-        "owner": "DAVID_TAPP",
+        "owner": "DETECTIVE_TAPP",
         "description": "B978C63F490A0A4D2FC5B18D37C63723",
         "image": "iconPerks_stakeOut",
         "tiers": [

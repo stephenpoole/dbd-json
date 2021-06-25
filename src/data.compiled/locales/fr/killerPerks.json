@@ -554,7 +554,7 @@
         ]
     },
     {
-        "description": "Contrairement aux autres créatures de la brume, vous n’êtes plus aussi sensible à la lumière. Vous êtes immunisé à l’aveuglement provoqué par les lampes de poche et les pétards. L’aura des survivants qui tentent de vous aveugler est révélée pendant <span class=\"Highlight1\">{0} secondes.</span>",
+        "description": "Contrairement aux autres créatures de la brume, vous n’êtes plus aussi sensible à la lumière. Vous êtes immunisé à l’aveuglement provoqué par les lampes de poche, les pétards, les grenades aveuglantes et les mines explosives. L’aura des survivants qui tentent de vous aveugler est révélée pendant <span class=\"Highlight1\">{0} secondes.</span>",
         "name": "Résistance à la lumière",
         "flavor": "« Ces monstres... Ils s’adaptent ! Ils développent d’étranges capacités. » - Journal de Vigo",
         "id": 22,
@@ -1413,9 +1413,9 @@
         ]
     },
     {
-        "description": "Vous ouvrez les casiers <span class=\"Highlight1\">{0} %</span> plus vite.<br><br>Quand un survivant sort d'un casier, il souffre de l'effet de statut À découvert pendant <span class=\"Highlight1\">{2} secondes</span> et sa position est révélée pendant <span class=\"Highlight1\">{1} secondes</span>.<br>",
+        "description": "Vous ouvrez les casiers <span class=\"Highlight1\">{0} %</span> plus vite.<br><br>Quand un survivant sort d’un casier, il souffre de l’effet de statut À découvert pendant <span class=\"Highlight1\">{2} secondes</span> et crie, ce qui révèle et sa position pendant <span class=\"Highlight1\">{1} secondes</span>.<br>",
         "name": "Vierge de fer",
-        "flavor": "« Ce n'est pas un endroit pour les lâches. » - La Légion",
+        "flavor": "« Ce n’est pas un endroit pour les lâches. » - La Légion",
         "id": 54,
         "index": "IRON_MAIDEN",
         "rarity": [
@@ -2182,7 +2182,7 @@
         ]
     },
     {
-        "description": "Vous avez été conçu pour traquer et éliminer vos cibles.<br><br>Au début de la partie, l’aura de tous les survivants est dévoilée pendant <spanclass=\"Highlight1\">{0} secondes.</span><br><br><span class= \"FlavorText\">« ... il sait ce qu’il veut et il n’abandonnera pas avant de réussir. » — Carlos Oliveira<\\span>",
+        "description": "Vous avez été conçu pour traquer et éliminer vos cibles.<br><br>Au début de la partie, vous voyez l’aura de tous les survivants pendant <span class=\"Highlight1\">{0} secondes.</span><br><br><span class= \"FlavorText\">« ... il sait ce qu’il veut et il n’abandonnera pas avant de réussir. » — Carlos Oliveira<\\span>",
         "name": "Poursuivant meurtrier",
         "id": 82,
         "index": "LETHAL_PURSUER",

@@ -1277,7 +1277,7 @@
             2,
             3
         ],
-        "owner": "DAVID_TAPP",
+        "owner": "DETECTIVE_TAPP",
         "image": "iconPerks_tenacity",
         "tiers": [
             [
@@ -1302,7 +1302,7 @@
             2,
             3
         ],
-        "owner": "DAVID_TAPP",
+        "owner": "DETECTIVE_TAPP",
         "image": "iconPerks_detectivesHunch",
         "tiers": [
             [
@@ -1330,7 +1330,7 @@
             2,
             3
         ],
-        "owner": "DAVID_TAPP",
+        "owner": "DETECTIVE_TAPP",
         "image": "iconPerks_stakeOut",
         "tiers": [
             [
@@ -2452,7 +2452,7 @@
         ]
     },
     {
-        "description": "Lorsque le combat direct n’est pas une option, vous trouvez toujours un moyen de contre-attaquer.<br><br><i>Mine explosive</i> s’active après avoir terminé un total de <span class=\"Highlight1\">{0} %</span> de segments de progression de réparation des générateurs.<br>Après avoir réparé un générateur pendant au moins 3 secondes, appuyez sur le <i>bouton de capacité</i> pour installer un piège qui reste actif pendant <span class=\"Highlight2\">{2} secondes</span>. L’aura des générateurs affectés est révélée en jaune à tous les survivants. Un seul piège peut être actif sur un générateur.<br><li>Lorsque le tueur frappe un générateur piégé, le piège explose, étourdissant et aveuglant quiconque se trouve à proximité. <i>Mine explosive</i> est alors désactivée.</li><br><br><span class= \"FlavorText\">« Tu veux les S.T.A.R.S. ? Je vais te faire goûter aux S.T.A.R.S. ! » - Jill Valentine</span>",
+        "description": "Lorsque le combat direct n’est pas une option, vous trouvez toujours un moyen de contre-attaquer.<br><br><i>Mine explosive</i> s’active après avoir terminé un total de <span class=\"Highlight1\">{0} %</span> de segments de progression de réparation des générateurs.<br>Après avoir réparé un générateur pendant au moins <span class=\"Highlight2\">{1} secondes</span>, appuyez sur le <i>bouton de capacité</i> pour installer un piège qui reste actif pendant <span class=\"Highlight3\">{2} secondes</span>. L’aura des générateurs affectés est révélée en jaune à tous les survivants. Un seul piège peut être actif sur un générateur.<br><li>Lorsque le tueur frappe un générateur piégé, le piège explose, étourdissant et aveuglant quiconque se trouve à proximité. <i>Mine explosive</i> est alors désactivée.</li><br><br><span class= \"FlavorText\">« Tu veux les S.T.A.R.S. ? Je vais te faire goûter aux S.T.A.R.S. ! » - Jill Valentine</span>",
         "name": "Mine explosive",
         "id": 191,
         "index": "BLAST_MINE",
@@ -2506,7 +2506,7 @@
         ]
     },
     {
-        "description": "Vous vous êtes adapté à un monde en proie au chaos et vous tirez le meilleur parti des débris alentour.<br><br>Après avoir atteint {0} % de progression sur un générateur, <i>Grenade aveuglante</i> s’active.<br>Entrez dans un casier les mains vides et appuyez sur le bouton de capacité pour fabriquer une grenade aveuglante.<br><li>1 charge.</li><li>Explose avec fracas dans une lueur aveuglante.</li><li>Génère une notification sonore.</li><li>Peut servir à distraire ou à aveugler.</li><br>Vous abandonnez la grenade aveuglante derrière vous lorsque vous vous échappez de la partie.<br><br><span class= \"FlavorText\">« Hors de ma vue » — Leon S. Kennedy</span>",
+        "description": "Vous vous êtes adapté à un monde en proie au chaos et vous tirez le meilleur parti des débris alentour.<br><br>Après avoir atteint <span class=\"Highlight1\"> {0} %</span> de progression sur un générateur, <i>Grenade aveuglante</i> s’active.<br>Entrez dans un casier les mains vides et appuyez sur le bouton de capacité pour fabriquer une grenade aveuglante.<br><li>1 charge.</li><li>Explose avec fracas dans une lueur aveuglante.</li><li>Génère une notification sonore.</li><li>Peut servir à distraire ou à aveugler.</li><br>Vous abandonnez la grenade aveuglante derrière vous lorsque vous vous échappez de la partie.<br><br><span class= \"FlavorText\">« Hors de ma vue » — Leon S. Kennedy</span>",
         "name": "Grenade aveuglante",
         "id": 193,
         "index": "FLASHBANG",

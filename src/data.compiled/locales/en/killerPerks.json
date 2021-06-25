@@ -996,7 +996,7 @@
         ]
     },
     {
-        "description": "Your vicious attacks make Survivors drop their item on impact. The lost item will be consumed by The Entity after <span class=\"Highlight1\">{0} seconds</span> if it is not picked up.<br>Reveal  items on the ground within <span class=\"Highlight2\">{1} meters</span> with a white aura. The aura of items on the ground fade to red until they are consumed by The Entity.",
+        "description": "Your vicious attacks make Survivors drop their item on impact. While on the ground, it takes up to <span class=\"Highlight1\">{0} seconds</span> for the item to <b>lose all of its charges</b> if it is not picked up.<br>Reveal  items on the ground within <span class=\"Highlight2\">{1} meters</span> with a white aura. The Aura will slowly fade to red until the Item is empty of charges.",
         "name": "Franklin's Demise",
         "flavor": "\"Sally, I hear something. Stop! Stop!\" -Franklin",
         "id": 38,

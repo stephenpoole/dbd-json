@@ -68,6 +68,12 @@ describe("#emptyPlayerModel", () => {
         expect(model.power).to.be.undefined;
     });
 
+    it("should return a undefined story", () => {
+        const model = new Model(factoriesMock as unknown as Factories, player as unknown as Player);
+        model.initialize();
+        expect(model.story).to.be.undefined;
+    });
+
     it("should return undefined perks", () => {
         const model = new Model(factoriesMock as unknown as Factories, player as unknown as Player);
         model.initialize();

@@ -90,14 +90,24 @@ const compileStrings = async language => {
     // killers
     const killers = await load("../src/data/killers.json");
     let output = killers
-        .map(({ description, ...data }) => {
-            if (description in keys) {
+        .map(({ description, story, name, ...data }) => {
+            if (description in keys && story in keys && name in keys) {
                 return {
                     description: keys[description],
+                    name: keys[name],
+                    story: keys[story],
                     ...data,
                 };
-            } else {
-                console.error(`killers (${data.name}) description ${description} did not exist`);
+            }
+
+            if (!(description in keys)) {
+                console.error(`killers (${data.index}) description ${description} did not exist`);
+            }
+            if (!(name in keys)) {
+                console.error(`killers (${data.index}) name ${name} did not exist`);
+            }
+            if (!(story in keys)) {
+                console.error(`killers (${data.index}) story ${story} did not exist`);
             }
         })
         .filter(item => !!item);
@@ -136,11 +146,12 @@ const compileStrings = async language => {
     // survivors
     const survivors = await load("../src/data/survivors.json");
     output = survivors
-        .map(({ description, name, ...data }) => {
-            if (description in keys && name in keys) {
+        .map(({ description, name, story, ...data }) => {
+            if (description in keys && story in keys && name in keys) {
                 return {
                     description: keys[description],
                     name: keys[name],
+                    story: keys[story],
                     ...data,
                 };
             }
@@ -150,6 +161,9 @@ const compileStrings = async language => {
             }
             if (!(name in keys)) {
                 console.error(`survivors (${data.index}) name ${name} did not exist`);
+            }
+            if (!(story in keys)) {
+                console.error(`survivors (${data.index}) story ${story} did not exist`);
             }
         })
         .filter(item => !!item);

@@ -1277,7 +1277,7 @@
             2,
             3
         ],
-        "owner": "DAVID_TAPP",
+        "owner": "DETECTIVE_TAPP",
         "image": "iconPerks_tenacity",
         "tiers": [
             [
@@ -1302,7 +1302,7 @@
             2,
             3
         ],
-        "owner": "DAVID_TAPP",
+        "owner": "DETECTIVE_TAPP",
         "image": "iconPerks_detectivesHunch",
         "tiers": [
             [
@@ -1330,7 +1330,7 @@
             2,
             3
         ],
-        "owner": "DAVID_TAPP",
+        "owner": "DETECTIVE_TAPP",
         "image": "iconPerks_stakeOut",
         "tiers": [
             [
@@ -2401,7 +2401,7 @@
         ]
     },
     {
-        "description": "Sabes resistir ante un enemigo más fuerte que tú: lo principal es dar caza y acabar con sus refuerzos.<br><br>Purifica tótems un <b>20 %</b> más rápido. Tras purificar un tótem, ves el aura del tótem más lejano a ti durante <span class=\"Highlight1\">{0} segundos</span> y obtienes un <span class=\"Highlight2\">{1} %</span> de velocidad adicional acumulable para purificar tótems para el resto de la partida.<br><br><span class= \"FlavorText\">\"No me desagrada hacer un poco de detective\". (Jill Valentine)</span>",
+        "description": "Sabes resistir ante un enemigo más fuerte que tú, lo principal es dar caza y acabar con sus refuerzos.<br><br>Purifica tótems un <b>20 %</b> más rápido. Tras purificar un tótem, ves el aura del tótem más lejano a ti durante <span class=\"Highlight1\">{0} segundos</span> y obtienes un <span class=\"Highlight2\">{1} %</span> de velocidad adicional acumulable para purificar tótems para el resto de la partida.<br><br><span class= \"FlavorText\">\"No me desagrada hacer un poco de detective\". (Jill Valentine)</span>",
         "name": "Contrafuerza",
         "id": 189,
         "index": "COUNTERFORCE",

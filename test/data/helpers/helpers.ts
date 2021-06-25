@@ -59,6 +59,12 @@ export class Helpers {
         return passed;
     }
 
+    static isNotLocaleId(done, value) {
+        const passed = !(typeof value === "string" && value.length === 32);
+        this.resolve(done, passed);
+        return passed;
+    }
+
     static isStringOrNumber(done, value) {
         this.resolve(done, this.isString(undefined, value) || this.isNumber(undefined, value));
     }

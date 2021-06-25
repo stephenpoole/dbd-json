@@ -86,6 +86,12 @@ describe("#playerModel", () => {
         expect(model.difficulty).to.equal(killer.difficulty);
     });
 
+    it("should return a story", () => {
+        const model = new Model(factoriesMock as unknown as Factories, killer);
+        model.initialize();
+        expect(model.story).to.equal(killer.story);
+    });
+
     it("should return a power given a killer", () => {
         const model = new Model(factoriesMock as unknown as Factories, killer);
         model.initialize();

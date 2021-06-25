@@ -21,6 +21,7 @@ describe("#killers", function () {
                 PropertyValidate._name(item, killers);
                 PropertyValidate.description(item, killers);
                 PropertyValidate.difficulty(item, killers);
+                PropertyValidate.story(item, killers);
                 PropertyValidate.power(item, killers);
                 PropertyValidate.image(item, killers, ModifierType.Player);
 

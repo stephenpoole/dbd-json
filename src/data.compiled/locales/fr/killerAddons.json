@@ -1324,7 +1324,7 @@
         "image": "iconAddon_roseRoot"
     },
     {
-        "description": "Gants en cuir tanné qui protègent les mains et assurent les prises.<br><li><b>Réduit modérément</b> le temps de recharge des hachettes dans un casier.</li><li>Non cumulable.</li>",
+        "description": "Gants en cuir tanné qui protègent les mains et assurent les prises.<br><li><b>Réduit modérément</b> le temps de recharge des hachettes dans un casier.</li>",
         "name": "Gants en peau de daim",
         "id": 360,
         "index": "DEERSKIN_GLOVES",
@@ -3464,7 +3464,7 @@
         "image": "iconAddon_waxDoll"
     },
     {
-        "description": "La pointe rouillée affilée d’une lance, souillée du sang de sa dernière victime.<li><b>Augmente légèrement</b> le nombre total de fois où les <b>Rites du jugement</b> peuvent être effectués.</li>",
+        "description": "La pointe rouillée et affilée d’une lance. Elle est souillée du sang de sa dernière victime.<li><b>Augmente modérément</b> le nombre de fois où il est possible de procéder aux <b>Rites du jugement</b>.</li>",
         "name": "Fer de lance ",
         "id": 955,
         "index": "SPEARHEAD",
@@ -4175,7 +4175,7 @@
         "image": "iconAddon_visitorWristband"
     },
     {
-        "description": "Un manuel qui compile les techniques de combat rapproché du S.T.A.R.S., annoté par Chris Redfield.<li>L’aura des zombies devient jaune pendant <b>6 secondes</b> après avoir frappé un survivant.</li>",
+        "description": "Un manuel qui compile les techniques de combat rapproché du S.T.A.R.S. Annoté par Chris Redfield.<li>L’aura des zombies devient jaune pendant <b>6 secondes</b> après avoir frappé un survivant.</li>",
         "name": "Manuel de combat du S.T.A.R.S.",
         "id": 1151,
         "index": "STARS_FIELD_COMBAT_MANUAL",
@@ -4295,7 +4295,7 @@
         "image": "iconAddon_lickerTongue"
     },
     {
-        "description": "Un parasite utilisé pour développer les Nemesis types T, capable de prendre le contrôle du cerveau de son hôte.<li>Les survivants contaminés souffrent de l’effet de statut <b>Inconscient</b>.",
+        "description": "Un parasite utilisé pour développer les Nemesis types T, capable de prendre le contrôle du cerveau de son hôte.<li>Lorsqu’il est affecté par l’effet Contamination, un survivant souffre de l’effet de statut <b>Inconscient</b> pendant 60 secondes.",
         "name": "Parasite Ne-α",
         "id": 1164,
         "index": "NE_A_PARSITE",

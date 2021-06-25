@@ -4184,7 +4184,7 @@
         "image": "iconAddon_starsFieldCombatManual"
     },
     {
-        "description": "Insumo médico que sofreu no caos que tomou conta de Raccoon City.<li><b>Aumenta moderadamente</b> o tempo que leva para os Sobreviventes injetarem a Vacina.</li><li><b>Aumenta ligeiramente</b> o tempo do efeito de Instinto Assassino quando os Sobreviventes usam a Vacina.</li>",
+        "description": "Insumo médico danificado no caos que tomou conta de Raccoon City.<li><b>Aumenta moderadamente</b> o tempo que leva para os Sobreviventes injetarem a Vacina.</li><li><b>Aumenta ligeiramente</b> o tempo do efeito de Instinto Assassino quando os Sobreviventes usam a Vacina.</li>",
         "name": "Seringa Danificada",
         "id": 1152,
         "index": "DAMAGED_SYRINGE",

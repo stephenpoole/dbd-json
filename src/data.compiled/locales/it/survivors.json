@@ -2,6 +2,7 @@
     {
         "description": "Un leader nervoso in grado di localizzare i suoi alleati e aumentarne l'efficacia.<BR><BR>Le sue competenze personali, <B>Legame</B>, <B>Mettiti alla Prova</B> e <B>Leader</B>, gli consentono di avvicinarsi agli altri sopravvissuti e fornire bonus alle loro azioni e alle proprie.",
         "name": "Dwight Fairfield",
+        "story": "Un leader nervoso in grado di localizzare i suoi alleati e aumentarne l'efficacia.<BR><BR>Le sue competenze personali, <B>Legame</B>, <B>Mettiti alla Prova</B> e <B>Leader</B>, gli consentono di avvicinarsi agli altri sopravvissuti e fornire bonus alle loro azioni e alle proprie.",
         "id": 1,
         "index": "DWIGHT_FAIRFIELD",
         "difficulty": 0,
@@ -15,6 +16,7 @@
     {
         "description": "Un'atleta energica in grado di seminare la maggior parte dei killer.<BR><BR>Le sue competenze personali, <B>Veloce e silenzioso</B>, <B>Scatto improvviso</B> e <B>Adrenalina</B>, rappresentano un vantaggio all'ora di scappare e distanziare il killer che la insegue.",
         "name": "Meg Thomas",
+        "story": "Un'atleta energica in grado di seminare la maggior parte dei killer.<BR><BR>Le sue competenze personali, <B>Veloce e silenzioso</B>, <B>Scatto improvviso</B> e <B>Adrenalina</B>, rappresentano un vantaggio all'ora di scappare e distanziare il killer che la insegue.",
         "id": 2,
         "index": "MEG_THOMAS",
         "difficulty": 0,
@@ -28,6 +30,7 @@
     {
         "description": "Una botanica studiosa in grado di aumentare la capacità di sopravvivere della sua squadra e la sua, ovviamente.<BR><BR>Le sue competenze personali, <B>Empatia</B>, <B>Conoscenze botaniche</B> e <B>Cura di sé</B>, le permettono di individuare sopravvissuti feriti e di curare più efficacemente sé stessa e la propria squadra.",
         "name": "Claudette Morel",
+        "story": "Una botanica studiosa in grado di aumentare la capacità di sopravvivere della sua squadra e la sua, ovviamente.<BR><BR>Le sue competenze personali, <B>Empatia</B>, <B>Conoscenze botaniche</B> e <B>Cura di sé</B>, le permettono di individuare sopravvissuti feriti e di curare più efficacemente sé stessa e la propria squadra.",
         "id": 3,
         "index": "CLAUDETTE_MOREL",
         "difficulty": 0,
@@ -41,6 +44,7 @@
     {
         "description": "Un survivalista solitario in grado di cavarsela nella maggior parte delle situazioni.<BR><BR>Le sue competenze personali, <B>Volontà di ferro</B>, <B>Spirito calmo</B> e <B>Sabotatore</B>, gli consentono di muoversi in maniera più efficace nella mappa e di sopravvivere quando è ferito.",
         "name": "Jake Park",
+        "story": "Un survivalista solitario in grado di cavarsela nella maggior parte delle situazioni.<BR><BR>Le sue competenze personali, <B>Volontà di ferro</B>, <B>Spirito calmo</B> e <B>Sabotatore</B>, gli consentono di muoversi in maniera più efficace nella mappa e di sopravvivere quando è ferito.",
         "id": 4,
         "index": "JAKE_PARK",
         "difficulty": 1,
@@ -54,6 +58,7 @@
     {
         "description": "Un'artista di strada in grado di scappare e nascondersi facilmente.<BR><BR>Le sue competenze personali, <B>Atterraggio bilanciato</B>, <B>Evasione urbana</B> e <B>Saper stare al mondo</B>, la rendono perfetta per completare gli obiettivi e filarsela alla svelta.",
         "name": "Nea Karlsson",
+        "story": "Un'artista di strada in grado di scappare e nascondersi facilmente.<BR><BR>Le sue competenze personali, <B>Atterraggio bilanciato</B>, <B>Evasione urbana</B> e <B>Saper stare al mondo</B>, la rendono perfetta per completare gli obiettivi e filarsela alla svelta.",
         "id": 5,
         "index": "NEA_KARLSSON",
         "difficulty": 1,
@@ -67,6 +72,7 @@
     {
         "description": "Un vecchio soldato avvezzo ad affrontare situazioni critiche.<BR><BR>Le sue competenze personali, <B>Ultima speranza</B>, <B>Tempo prezioso</B> e <B>Volontà d'acciaio</B>, lo rendono più forte nei momenti disperati.",
         "name": "William \"Bill\" Overbeck",
+        "story": "Un vecchio soldato avvezzo ad affrontare situazioni critiche.<BR><BR>Le sue competenze personali, <B>Ultima speranza</B>, <B>Tempo prezioso</B> e <B>Volontà d'acciaio</B>, lo rendono più forte nei momenti disperati.",
         "id": 6,
         "index": "WILLIAM_OVERBECK",
         "difficulty": 2,
@@ -80,6 +86,7 @@
     {
         "description": "Un attaccabrighe robusto amante del rischio.<BR><BR>Le sue competenze personali, <B>Vivremo per sempre</B>, <B>Morto stecchito</B> e <B>Nessuna bega</B>, premiano lo stile di gioco aggressivo e provocatore, ma lo lasciano vulnerabile.",
         "name": "David King",
+        "story": "Un attaccabrighe robusto amante del rischio.<BR><BR>Le sue competenze personali, <B>Vivremo per sempre</B>, <B>Morto stecchito</B> e <B>Nessuna bega</B>, premiano lo stile di gioco aggressivo e provocatore, ma lo lasciano vulnerabile.",
         "id": 7,
         "index": "DAVID_KING",
         "difficulty": 1,
@@ -93,6 +100,7 @@
     {
         "description": "Una sopravvissuta ostinata, pronta a superare ogni sfida.<BR><BR>Le sue competenze personali, <B>Unico sopravvissuto</B>, <B>Oggetto dell'ossessione</B> e <B>Colpo decisivo</B>, le conferiscono potenti abilità di sopravvivenza, ma la lasciano esposta ai pericoli.",
         "name": "Laurie Strode",
+        "story": "Una sopravvissuta ostinata, pronta a superare ogni sfida.<BR><BR>Le sue competenze personali, <B>Unico sopravvissuto</B>, <B>Oggetto dell'ossessione</B> e <B>Colpo decisivo</B>, le conferiscono potenti abilità di sopravvivenza, ma la lasciano esposta ai pericoli.",
         "id": 8,
         "index": "LAURIE_STRODE",
         "difficulty": 2,
@@ -106,6 +114,7 @@
     {
         "description": "Uno scommettitore fortunato che migliora le probabilità dell'intera squadra.<BR><BR>Le sue competenze personali, <B>Carte Scoperte</B>, <B>Alza la posta</B> e <B>Asso nella manica</B>, aumentano la fortuna di tutti i sopravvissuti e aiutano a sbloccare le casse.",
         "name": "Ace Visconti",
+        "story": "Uno scommettitore fortunato che migliora le probabilità dell'intera squadra.<BR><BR>Le sue competenze personali, <B>Carte Scoperte</B>, <B>Alza la posta</B> e <B>Asso nella manica</B>, aumentano la fortuna di tutti i sopravvissuti e aiutano a sbloccare le casse.",
         "id": 9,
         "index": "ACE_VISCONTI",
         "difficulty": 0,
@@ -119,6 +128,7 @@
     {
         "description": "Un'accanita giocatrice in grado di modificare la sua strategia rapidamente per adattarsi alle situazioni più impegnative.<BR><BR>Le sue competenze personali <B>Tecnico</B>, <B>Agilità</B> e <B>Allerta</B> l'aiutano a riparare i generatori e a individuare il killer.",
         "name": "Feng Min",
+        "story": "Un'accanita giocatrice in grado di modificare la sua strategia rapidamente per adattarsi alle situazioni più impegnative.<BR><BR>Le sue competenze personali <B>Tecnico</B>, <B>Agilità</B> e <B>Allerta</B> l'aiutano a riparare i generatori e a individuare il killer.",
         "id": 10,
         "index": "FENG_MIN",
         "difficulty": 0,
@@ -132,6 +142,7 @@
     {
         "description": "Un risoluto viaggiatore nei sogni che aumenta la capacità di sopravvivere e recuperare della sua squadra.<BR><BR>Le sue competenze personali, <B>Sveglia!</B>, <B>Farmacia</B> e <B>Veglia</B>, aiutano i sopravvissuti a localizzare i cancelli d'uscita e recuperare più facilmente.",
         "name": "Quentin Smith",
+        "story": "Un risoluto viaggiatore nei sogni che aumenta la capacità di sopravvivere e recuperare della sua squadra.<BR><BR>Le sue competenze personali, <B>Sveglia!</B>, <B>Farmacia</B> e <B>Veglia</B>, aiutano i sopravvissuti a localizzare i cancelli d'uscita e recuperare più facilmente.",
         "id": 11,
         "index": "QUENTIN_SMITH",
         "difficulty": 0,
@@ -145,8 +156,9 @@
     {
         "description": "Un detective ossessionato in grado di localizzare e completare gli obiettivi più velocemente.<BR><BR>Le sue competenze personali, <B>Tenacia</B>, <B>Intuizione del detective</B> e <B>Sotto controllo</B>, gli permettono di recuperare rapidamente e concentrarsi sugli obiettivi.",
         "name": "Detective Tapp",
+        "story": "Un detective ossessionato in grado di localizzare e completare gli obiettivi più velocemente.<BR><BR>Le sue competenze personali, <B>Tenacia</B>, <B>Intuizione del detective</B> e <B>Sotto controllo</B>, gli permettono di recuperare rapidamente e concentrarsi sugli obiettivi.",
         "id": 12,
-        "index": "DAVID_TAPP",
+        "index": "DETECTIVE_TAPP",
         "difficulty": 1,
         "perks": [
             "TENACITY",
@@ -158,6 +170,7 @@
     {
         "description": "Un Usignolo della speranza, in grado di sfruttare al meglio gli ambienti circostanti. <br><br>Le sue competenze personali, <b>Balla con me</b>, <b>Momenti propizi</b> e <b>Perdi le staffe</b>, le garantiscono la lungimiranza e l'esuberanza necessarie a sfuggire alle situazioni peggiori.",
         "name": "Kate Denson",
+        "story": "Un Usignolo della speranza, in grado di sfruttare al meglio gli ambienti circostanti. <br><br>Le sue competenze personali, <b>Balla con me</b>, <b>Momenti propizi</b> e <b>Perdi le staffe</b>, le garantiscono la lungimiranza e l'esuberanza necessarie a sfuggire alle situazioni peggiori.",
         "id": 13,
         "index": "KATE_DENSON",
         "difficulty": 0,
@@ -171,6 +184,7 @@
     {
         "description": "Un insegnante pieno di risorse, capace di adattarsi a nuove circostanze e sviluppare strategie di conseguenza. <br><br>Le sue competenze personali, <b>Diversivo</b>, <b>Liberazione</b> e <b>Autoapprendimento</b>, lo aiutano a distrarre il killer, a sopravvivere a situazioni disperate e a diventare più abile nel corso della prova.",
         "name": "Adam Francis",
+        "story": "Un insegnante pieno di risorse, capace di adattarsi a nuove circostanze e sviluppare strategie di conseguenza. <br><br>Le sue competenze personali, <b>Diversivo</b>, <b>Liberazione</b> e <b>Autoapprendimento</b>, lo aiutano a distrarre il killer, a sopravvivere a situazioni disperate e a diventare più abile nel corso della prova.",
         "id": 14,
         "index": "ADAM_FRANCIS",
         "difficulty": 1,
@@ -184,6 +198,7 @@
     {
         "description": "Un artista pacato, incrollabile nelle circostanze avverse.<br><br>Le sue competenze personali, <b>Collasso</b>, <b>Convalescenza</b> e <b>Stravolgimento</b>, gli conferiscono dei vantaggi di osservazione e lo aiutano a nascondersi dal killer.",
         "name": "Jeff Johansen",
+        "story": "Un artista pacato, incrollabile nelle circostanze avverse.<br><br>Le sue competenze personali, <b>Collasso</b>, <b>Convalescenza</b> e <b>Stravolgimento</b>, gli conferiscono dei vantaggi di osservazione e lo aiutano a nascondersi dal killer.",
         "id": 15,
         "index": "JEFF_JOHANSEN",
         "difficulty": 1,
@@ -197,6 +212,7 @@
     {
         "description": "Una celebrità influente, che è andata contro tutti per affrontare le sfide che aveva davanti.<br><br>Le sue competenze personali, <b>Solidarietà</b>, <b>Compostezza</b> e <b>Frontale</b>, le conferiscono un set di abilità flessibili che le permette di aiutare gli altri, e se stessa, a cavarsela in situazioni pericolose.",
         "name": "Jane Romero",
+        "story": "Una celebrità influente, che è andata contro tutti per affrontare le sfide che aveva davanti.<br><br>Le sue competenze personali, <b>Solidarietà</b>, <b>Compostezza</b> e <b>Frontale</b>, le conferiscono un set di abilità flessibili che le permette di aiutare gli altri, e se stessa, a cavarsela in situazioni pericolose.",
         "id": 16,
         "index": "JANE_ROMERO",
         "difficulty": 1,
@@ -210,6 +226,7 @@
     {
         "description": "Un \"lupo solitario\", vanitoso e determinato; un uomo fatto per sopravvivere.<br><br>Le sue competenze personali, <b>Ritorno</b>, <b>Allaccia le cinture</b> e <b>Coraggio dell'uomo</b>, gli conferiscono resistenza aggiuntiva a dolore e avversità, insieme all'abilità di aiutare i suoi amici a uscire da situazioni complicate. ",
         "name": "Ashley J. Williams",
+        "story": "Un \"lupo solitario\", vanitoso e determinato; un uomo fatto per sopravvivere.<br><br>Le sue competenze personali, <b>Ritorno</b>, <b>Allaccia le cinture</b> e <b>Coraggio dell'uomo</b>, gli conferiscono resistenza aggiuntiva a dolore e avversità, insieme all'abilità di aiutare i suoi amici a uscire da situazioni complicate. ",
         "id": 17,
         "index": "ASHLEY_J_WILLIAMS",
         "difficulty": 0,
@@ -223,6 +240,7 @@
     {
         "description": "Un'aspirante giornalista in grado di fare acute osservazioni e capire ciò che sfugge all'occhio altrui.<br><br>Le sue competenze personali, <b>L'unione fa la forza</b>, <b>Fissata</b> e <b>Forza interiore</b>, le donano le informazioni e il coraggio necessari per fronteggiare sfide inaspettate.",
         "name": "Nancy Wheeler",
+        "story": "Un'aspirante giornalista in grado di fare acute osservazioni e capire ciò che sfugge all'occhio altrui.<br><br>Le sue competenze personali, <b>L'unione fa la forza</b>, <b>Fissata</b> e <b>Forza interiore</b>, le donano le informazioni e il coraggio necessari per fronteggiare sfide inaspettate.",
         "id": 18,
         "index": "NANCY_WHEELER",
         "difficulty": 0,
@@ -236,6 +254,7 @@
     {
         "description": "Un ex atleta in grado di proteggere e assistere i compagni sopravvissuti, senza far mai mancare il suo personalissimo umorismo.<br><br>Le sue competenze personali, <b>Babysitter</b>, <b>Cameratismo</b>e <b>Nuova energia</b>, lo aiutano a creare diversivi, sopportare il dolore e tornare a combattere.",
         "name": "Steve Harrington",
+        "story": "Un ex atleta in grado di proteggere e assistere i compagni sopravvissuti, senza far mai mancare il suo personalissimo umorismo.<br><br>Le sue competenze personali, <b>Babysitter</b>, <b>Cameratismo</b>e <b>Nuova energia</b>, lo aiutano a creare diversivi, sopportare il dolore e tornare a combattere.",
         "id": 19,
         "index": "STEVE_HARRINGTON",
         "difficulty": 0,
@@ -249,6 +268,7 @@
     {
         "description": "Una pilota da strada che sa il fatto suo, in grado di superare le sfide più impegnative e soccorrere gli altri sopravvissuti in difficoltà.<br><br>Le sue competenze personali <b>Colpo di fortuna</b>, <b>A ogni costo</b> ed <b>Evasione</b> le permettono di coprire le sue tracce di sangue, ripristinare i bancali lanciati e aiutare i sopravvissuti indifesi.",
         "name": "Yui Kimura",
+        "story": "Una pilota da strada che sa il fatto suo, in grado di superare le sfide più impegnative e soccorrere gli altri sopravvissuti in difficoltà.<br><br>Le sue competenze personali <b>Colpo di fortuna</b>, <b>A ogni costo</b> ed <b>Evasione</b> le permettono di coprire le sue tracce di sangue, ripristinare i bancali lanciati e aiutare i sopravvissuti indifesi.",
         "id": 20,
         "index": "YUI_KIMURA",
         "difficulty": 1,
@@ -262,6 +282,7 @@
     {
         "description": "Un'impavida documentarista in grado di sfruttare l'arguzia per evitare di essere individuata ed essere di grande aiuto agli altri sopravvissuti.<br><br>Le sue competenze personali, <b>In via ufficiosa</b>, <b>Depistaggio</b> e <b>Per il popolo</b>, la aiutano a nascondersi dai pericoli, creare diversivi e curare gli altri a costo della propria vita.",
         "name": "Zarina Kassir",
+        "story": "Un'impavida documentarista in grado di sfruttare l'arguzia per evitare di essere individuata ed essere di grande aiuto agli altri sopravvissuti.<br><br>Le sue competenze personali, <b>In via ufficiosa</b>, <b>Depistaggio</b> e <b>Per il popolo</b>, la aiutano a nascondersi dai pericoli, creare diversivi e curare gli altri a costo della propria vita.",
         "id": 21,
         "index": "ZARINA_KASSIR",
         "difficulty": 1,
@@ -275,6 +296,7 @@
     {
         "description": "Cheryl Mason è una giovane ma navigata veterana del terrore, in grado di infondere coraggio in sé stessa e nella sua squadra.<br><br>Le sue competenze personali, <b>Guardia spirituale</b>, <b>Patto di sangue</b> e <b>Alleanza repressa</b>, le permettono di sopravvivere tra insormontabili difficoltà, restare in contatto con gli altri membri della squadra e mettere a punto efficaci strategie.",
         "name": "Cheryl Mason",
+        "story": "Cheryl Mason è una giovane ma navigata veterana del terrore, in grado di infondere coraggio in sé stessa e nella sua squadra.<br><br>Le sue competenze personali, <b>Guardia spirituale</b>, <b>Patto di sangue</b> e <b>Alleanza repressa</b>, le permettono di sopravvivere tra insormontabili difficoltà, restare in contatto con gli altri membri della squadra e mettere a punto efficaci strategie.",
         "id": 22,
         "index": "CHERYL_MASON",
         "difficulty": 0,
@@ -288,6 +310,7 @@
     {
         "description": "Un architetto visionario capace di sfruttare la sua implacabile determinazione per ideare piani con cui aiutare gli altri sopravvissuti.<br><br>Le sue competenze personali <b>Visionario</b>, <b>Estremi rimedi</b> e <b>Costruito per durare</b> lo aiutano a rivelare i generatori, soccorrere i sopravvissuti e sfruttare al meglio la sua strumentazione.",
         "name": "Felix Richter",
+        "story": "Un architetto visionario capace di sfruttare la sua implacabile determinazione per ideare piani con cui aiutare gli altri sopravvissuti.<br><br>Le sue competenze personali <b>Visionario</b>, <b>Estremi rimedi</b> e <b>Costruito per durare</b> lo aiutano a rivelare i generatori, soccorrere i sopravvissuti e sfruttare al meglio la sua strumentazione.",
         "id": 23,
         "index": "FELIX_RICHTER",
         "difficulty": 1,
@@ -301,6 +324,7 @@
     {
         "description": "Un'investigatrice dell'occulto sopravvissuta grazie ad astuzia e caparbietà impareggiabili.<br><br>Le sue competenze personali <b>Stima</b>, <b>Raggiro</b> e <b>Lotta di potere</b> le permettono di interagire con gli oggetti in modi differenti, avendo sempre un piano B per sfuggire ai killer.",
         "name": "Élodie Rakoto",
+        "story": "Un'investigatrice dell'occulto sopravvissuta grazie ad astuzia e caparbietà impareggiabili.<br><br>Le sue competenze personali <b>Stima</b>, <b>Raggiro</b> e <b>Lotta di potere</b> le permettono di interagire con gli oggetti in modi differenti, avendo sempre un piano B per sfuggire ai killer.",
         "id": 24,
         "index": "ELODIE_RAKOTO",
         "difficulty": 1,
@@ -314,6 +338,7 @@
     {
         "description": "Una produttrice musicale egocentrica che pensa ai propri interessi anche nei momenti più turbolenti.<br><br>Le sue competenze personali <b>Impazienza</b>, <b>Hit di successo</b> e <b>Autoprotezione</b> migliorano le abilità per sfuggire più rapidamente da un inseguimento quando gli altri sono feriti. ",
         "name": "Yun-Jin Lee",
+        "story": "Una produttrice musicale egocentrica che pensa ai propri interessi anche nei momenti più turbolenti.<br><br>Le sue competenze personali <b>Impazienza</b>, <b>Hit di successo</b> e <b>Autoprotezione</b> migliorano le abilità per sfuggire più rapidamente da un inseguimento quando gli altri sono feriti. ",
         "id": 25,
         "index": "YUN_JIN_LEE",
         "difficulty": 0,
@@ -327,6 +352,7 @@
     {
         "description": "Jill Valentine è uno dei membri fondatori della S.T.A.R.S. con alle spalle innumerevoli vittorie contro le armi bio-organiche.<br><br>Le sue competenze personali <b>Controforza</b>, <b>Reviviscenza</b> e <b>Mina esplosiva</b> le permettono di rispondere indirettamente agli attacchi, al contempo offrendo grande supporto ai suoi compagni. ",
         "name": "Jill Valentine",
+        "story": "Jill Valentine è uno dei membri fondatori della S.T.A.R.S. con alle spalle innumerevoli vittorie contro le armi bio-organiche.<br><br>Le sue competenze personali <b>Controforza</b>, <b>Reviviscenza</b> e <b>Mina esplosiva</b> le permettono di rispondere indirettamente agli attacchi, al contempo offrendo grande supporto ai suoi compagni. ",
         "id": 26,
         "index": "JILL_VALENTINE",
         "difficulty": 1,
@@ -340,6 +366,7 @@
     {
         "description": "Leon S. Kennedy è un poliziotto alle prime armi che dimostrò tutto la sua devozione alla causa durante l'epidemia di Raccoon City.<br><br>Le sue competenze personali <b>Stringi i denti</b>, <b>Granata stordente</b> e <b>Recluta</b> gli consentono di ignorare il dolore, disorientare il killer e ritrovare gli obiettivi perduti. ",
         "name": "Leon S. Kennedy",
+        "story": "Leon S. Kennedy è un poliziotto alle prime armi che dimostrò tutto la sua devozione alla causa durante l'epidemia di Raccoon City.<br><br>Le sue competenze personali <b>Stringi i denti</b>, <b>Granata stordente</b> e <b>Recluta</b> gli consentono di ignorare il dolore, disorientare il killer e ritrovare gli obiettivi perduti. ",
         "id": 27,
         "index": "LEON_SCOTT_KENNEDY",
         "difficulty": 1,

@@ -20,6 +20,7 @@ describe("#survivors", function () {
                 PropertyValidate.id(item, survivors);
                 PropertyValidate._name(item, survivors);
                 PropertyValidate.description(item, survivors);
+                PropertyValidate.story(item, survivors);
                 PropertyValidate.difficulty(item, survivors);
                 PropertyValidate.image(item, survivors, ModifierType.Player);
 

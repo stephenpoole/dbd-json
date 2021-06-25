@@ -37,6 +37,7 @@ interface Player extends BaseEntity {
     power?: string;
     perks: string[];
     difficulty: Difficulty;
+    story: string;
 }
 
 interface Power extends BaseEntity {

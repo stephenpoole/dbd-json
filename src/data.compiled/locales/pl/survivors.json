@@ -2,6 +2,7 @@
     {
         "description": "Nerwowy lider posiadający zdolność lokalizowania swoich sojuszników. Zwiększa także efektywność ocalałych.<br><br>Jego przyswajalne umiejętności: <b>Więź</b>, <b>Wykaż się</b> i <b>Lider</b> ułatwiają odnajdywanie pozostałych ocalałych i zapewniają bonus w postaci szybszego wykonywania czynności. Wspomniana premia dotyczy zarówno sojuszników, jak i samego użytkownika umiejętności.",
         "name": "Dwight Fairfield",
+        "story": "Nerwowy lider posiadający zdolność lokalizowania swoich sojuszników. Zwiększa także efektywność ocalałych.<br><br>Jego przyswajalne umiejętności: <b>Więź</b>, <b>Wykaż się</b> i <b>Lider</b> ułatwiają odnajdywanie pozostałych ocalałych i zapewniają bonus w postaci szybszego wykonywania czynności. Wspomniana premia dotyczy zarówno sojuszników, jak i samego użytkownika umiejętności.",
         "id": 1,
         "index": "DWIGHT_FAIRFIELD",
         "difficulty": 0,
@@ -15,6 +16,7 @@
     {
         "description": "Energiczna lekkoatletka. Jest w stanie prześcignąć większość zabójców.<br><br>Jej przyswajalne umiejętności: <b>Szybko i Cicho</b>, <b>Sprint</b> i <b>Adrenalina</b> zapewniają przewagę podczas pościgów i skutecznie zwiększają dystans między ocalałym a zabójcą.",
         "name": "Meg Thomas",
+        "story": "Energiczna lekkoatletka. Jest w stanie prześcignąć większość zabójców.<br><br>Jej przyswajalne umiejętności: <b>Szybko i Cicho</b>, <b>Sprint</b> i <b>Adrenalina</b> zapewniają przewagę podczas pościgów i skutecznie zwiększają dystans między ocalałym a zabójcą.",
         "id": 2,
         "index": "MEG_THOMAS",
         "difficulty": 0,
@@ -28,6 +30,7 @@
     {
         "description": "Zagorzała botaniczka zapewniająca swojej drużynie (i sobie samej) większe szanse na przetrwanie.<br><br>Jej przyswajalne umiejętności: <b>Empatia</b>, <b>Wiedza Botaniczna</b> i <b>Samoopatrywanie</b> pozwalają dostrzec aury rannych ocalałych i sprawiają, że leczenie zarówno sojuszników, jak i siebie jest bardziej efektywne i szybsze.",
         "name": "Claudette Morel",
+        "story": "Zagorzała botaniczka zapewniająca swojej drużynie (i sobie samej) większe szanse na przetrwanie.<br><br>Jej przyswajalne umiejętności: <b>Empatia</b>, <b>Wiedza Botaniczna</b> i <b>Samoopatrywanie</b> pozwalają dostrzec aury rannych ocalałych i sprawiają, że leczenie zarówno sojuszników, jak i siebie jest bardziej efektywne i szybsze.",
         "id": 3,
         "index": "CLAUDETTE_MOREL",
         "difficulty": 0,
@@ -41,6 +44,7 @@
     {
         "description": "Samotny surwiwalista przygotowany na każdą ewentualność.<BR><BR>Jego przyswajalne umiejętności: <B>Żelazna Wola</B>, <B>Spokojny Duch</B> i <B>Sabotażysta</B> umożliwiają bezpieczniejsze poruszanie się po mapie i zwiększają szanse na przetrwanie w sytuacji, gdy jest się rannym.",
         "name": "Jake Park",
+        "story": "Samotny surwiwalista przygotowany na każdą ewentualność.<BR><BR>Jego przyswajalne umiejętności: <B>Żelazna Wola</B>, <B>Spokojny Duch</B> i <B>Sabotażysta</B> umożliwiają bezpieczniejsze poruszanie się po mapie i zwiększają szanse na przetrwanie w sytuacji, gdy jest się rannym.",
         "id": 4,
         "index": "JAKE_PARK",
         "difficulty": 1,
@@ -54,6 +58,7 @@
     {
         "description": "Miejska artystka, dla której ucieczka i ukrywanie się to chleb powszedni.<BR><BR>Jej przyswajalne umiejętności: <B>Miękkie Lądowanie</B>, <B>Skryta</B> i <B>Wiedza Uliczna</B> ułatwiają realizację celów głównych gry i unikanie konfrontacji z zabójcą.",
         "name": "Nea Karlsson",
+        "story": "Miejska artystka, dla której ucieczka i ukrywanie się to chleb powszedni.<BR><BR>Jej przyswajalne umiejętności: <B>Miękkie Lądowanie</B>, <B>Skryta</B> i <B>Wiedza Uliczna</B> ułatwiają realizację celów głównych gry i unikanie konfrontacji z zabójcą.",
         "id": 5,
         "index": "NEA_KARLSSON",
         "difficulty": 1,
@@ -67,6 +72,7 @@
     {
         "description": "Były żołnierz, który opanował do perfekcji sztukę przetrwania w bardzo trudnych warunkach. <br><br>Jego przyswajalne umiejętności: <b>Porzucony</b>, <b>Pożyczony Czas</b> i <b>Niezłomny</b> wzmacniają sojuszników (i jego samego), gdy znajdują się w nieciekawych sytuacjach.",
         "name": "William „Bill” Overbeck",
+        "story": "Były żołnierz, który opanował do perfekcji sztukę przetrwania w bardzo trudnych warunkach. <br><br>Jego przyswajalne umiejętności: <b>Porzucony</b>, <b>Pożyczony Czas</b> i <b>Niezłomny</b> wzmacniają sojuszników (i jego samego), gdy znajdują się w nieciekawych sytuacjach.",
         "id": 6,
         "index": "WILLIAM_OVERBECK",
         "difficulty": 2,
@@ -80,6 +86,7 @@
     {
         "description": "Potężny mięśniak lubujący się w ostrej rozgrywce.<br><br>Jego przyswajalne umiejętności: <b>Będziemy Żyć Wiecznie</b>, <b>Twarda Sztuka</b> i <b>Bez Biadolenia</b> nagradzają agresywny i konfrontacyjny styl gry, ale czynią go podatnym na obrażenia.",
         "name": "David King",
+        "story": "Potężny mięśniak lubujący się w ostrej rozgrywce.<br><br>Jego przyswajalne umiejętności: <b>Będziemy Żyć Wiecznie</b>, <b>Twarda Sztuka</b> i <b>Bez Biadolenia</b> nagradzają agresywny i konfrontacyjny styl gry, ale czynią go podatnym na obrażenia.",
         "id": 7,
         "index": "DAVID_KING",
         "difficulty": 1,
@@ -93,6 +100,7 @@
     {
         "description": "Zdeterminowana ocalała gotowa zmierzyć się z każdym możliwym wyzwaniem.<BR><BR>Jej przyswajalne umiejętności: <B>Ostatnia Ocalała</B>, <B>Obiekt Obsesji</B> i <B>Ostateczny Cios</B> zapewniają duże szanse na przetrwanie, ale okupione są tym, że pozostaje się często na widoku.",
         "name": "Laurie Strode",
+        "story": "Zdeterminowana ocalała gotowa zmierzyć się z każdym możliwym wyzwaniem.<BR><BR>Jej przyswajalne umiejętności: <B>Ostatnia Ocalała</B>, <B>Obiekt Obsesji</B> i <B>Ostateczny Cios</B> zapewniają duże szanse na przetrwanie, ale okupione są tym, że pozostaje się często na widoku.",
         "id": 8,
         "index": "LAURIE_STRODE",
         "difficulty": 2,
@@ -106,6 +114,7 @@
     {
         "description": "Hazardzista, którego szczęście nie opuszcza nawet na krok. Zapewnia swojej drużynie większe szanse na przetrwanie.<BR><BR>Jego wyjątkowe umiejętności: <B>Otwarte karty</B>, <B>Podnieść stawkę</B> i <B>As w rękawie</B> zwiększają szczęście wszystkich ocalałych i ułatwiają odblokowywanie skrzyń.",
         "name": "Ace Visconti",
+        "story": "Hazardzista, którego szczęście nie opuszcza nawet na krok. Zapewnia swojej drużynie większe szanse na przetrwanie.<BR><BR>Jego wyjątkowe umiejętności: <B>Otwarte karty</B>, <B>Podnieść stawkę</B> i <B>As w rękawie</B> zwiększają szczęście wszystkich ocalałych i ułatwiają odblokowywanie skrzyń.",
         "id": 9,
         "index": "ACE_VISCONTI",
         "difficulty": 0,
@@ -119,6 +128,7 @@
     {
         "description": "Uwielbia rywalizację. Potrafi szybko dostosować swoją strategię, aby poradzić sobie w trudnych sytuacjach.<BR><BR>Jej przyswajalne umiejętności: <B>Technik</B>, <B>Gibka</B> i <B>Zaalarmowana</B> ułatwiają naprawę generatorów i lokalizowanie zabójcy.",
         "name": "Feng Min",
+        "story": "Uwielbia rywalizację. Potrafi szybko dostosować swoją strategię, aby poradzić sobie w trudnych sytuacjach.<BR><BR>Jej przyswajalne umiejętności: <B>Technik</B>, <B>Gibka</B> i <B>Zaalarmowana</B> ułatwiają naprawę generatorów i lokalizowanie zabójcy.",
         "id": 10,
         "index": "FENG_MIN",
         "difficulty": 0,
@@ -132,6 +142,7 @@
     {
         "description": "Zdeterminowany lunatyk zapewniający swojej drużynie większe szanse na przetrwanie. Potrafi też sprawić, że drużyna szybciej odzyskuje siły.<BR><BR>Jego umiejętności: <B>Pobudka!</B>, <B>Farmacja</B> i <B>Czuwanie</B> ułatwiają Ocalałym lokalizowanie bram wyjściowych i umożliwiają szybszą regenerację.",
         "name": "Quentin Smith",
+        "story": "Zdeterminowany lunatyk zapewniający swojej drużynie większe szanse na przetrwanie. Potrafi też sprawić, że drużyna szybciej odzyskuje siły.<BR><BR>Jego umiejętności: <B>Pobudka!</B>, <B>Farmacja</B> i <B>Czuwanie</B> ułatwiają Ocalałym lokalizowanie bram wyjściowych i umożliwiają szybszą regenerację.",
         "id": 11,
         "index": "QUENTIN_SMITH",
         "difficulty": 0,
@@ -145,8 +156,9 @@
     {
         "description": "Detektyw z obsesją. Potrafi lokalizować cele i wypełniać szybciej zadania główne.<br><br>Jego przyswajalne umiejętności: <b>Wytrwałość</b>, <b>Przeczucie Detektywa</b> i <b>Nadzór</b> ułatwiają wypełnianie celów głównych gry i umożliwiają szybką regenerację.",
         "name": "Detektyw Tapp",
+        "story": "Detektyw z obsesją. Potrafi lokalizować cele i wypełniać szybciej zadania główne.<br><br>Jego przyswajalne umiejętności: <b>Wytrwałość</b>, <b>Przeczucie Detektywa</b> i <b>Nadzór</b> ułatwiają wypełnianie celów głównych gry i umożliwiają szybką regenerację.",
         "id": 12,
-        "index": "DAVID_TAPP",
+        "index": "DETECTIVE_TAPP",
         "difficulty": 1,
         "perks": [
             "TENACITY",
@@ -158,6 +170,7 @@
     {
         "description": "Piosenkarka o złotym sercu. <br><br>Jej przyswajalne umiejętności: <b>Zatańcz Ze Mną</b>, <b>Ostatnia Szansa</b> i <b>Do Utraty Tchu</b> umożliwiają dostrzeganie obiektów znajdujących się na mapie i zwiększają szansę na udaną ucieczkę z objęcia Zabójcy.",
         "name": "Kate Denson",
+        "story": "Piosenkarka o złotym sercu. <br><br>Jej przyswajalne umiejętności: <b>Zatańcz Ze Mną</b>, <b>Ostatnia Szansa</b> i <b>Do Utraty Tchu</b> umożliwiają dostrzeganie obiektów znajdujących się na mapie i zwiększają szansę na udaną ucieczkę z objęcia Zabójcy.",
         "id": 13,
         "index": "KATE_DENSON",
         "difficulty": 0,
@@ -171,6 +184,7 @@
     {
         "description": "Zaradny nauczyciel potrafiący dostosować się bez trudu do nowych warunków, opracowując coraz to nowsze strategie przetrwania.<br><br>Jego przyswajalne umiejętności: <b>Dywersja</b>, <b>Wybawienie</b> i <b>Samouk</b> pomagają odwracać uwagę zabójcy, umożliwiają przetrwanie w ciężkich warunkach i zapewniają przewagę w późniejszych etapach rozgrywki.",
         "name": "Adam Francis",
+        "story": "Zaradny nauczyciel potrafiący dostosować się bez trudu do nowych warunków, opracowując coraz to nowsze strategie przetrwania.<br><br>Jego przyswajalne umiejętności: <b>Dywersja</b>, <b>Wybawienie</b> i <b>Samouk</b> pomagają odwracać uwagę zabójcy, umożliwiają przetrwanie w ciężkich warunkach i zapewniają przewagę w późniejszych etapach rozgrywki.",
         "id": 14,
         "index": "ADAM_FRANCIS",
         "difficulty": 1,
@@ -184,6 +198,7 @@
     {
         "description": "Cichy artysta nieugięty w obliczu największych trudności.<br><br>Jego przyswajalne umiejętności: <b>przełamanie</b>, <b>druga pomoc</b> i <b>zakłócenie</b>, dają mu obserwacyjną przewagę i pomagają ukryć się przed zabójcą.",
         "name": "Jeff Johansen",
+        "story": "Cichy artysta nieugięty w obliczu największych trudności.<br><br>Jego przyswajalne umiejętności: <b>przełamanie</b>, <b>druga pomoc</b> i <b>zakłócenie</b>, dają mu obserwacyjną przewagę i pomagają ukryć się przed zabójcą.",
         "id": 15,
         "index": "JEFF_JOHANSEN",
         "difficulty": 1,
@@ -197,6 +212,7 @@
     {
         "description": "Wpływowa celebrytka idąca pod prąd, by stawić czoła trudnościom.<br><br>Jej umiejętności – <b>Solidarność</b>, <b>Opanowanie</b> i <b>Determinacja</b> – pomagają jej i innym w ucieczce z niebezpiecznych sytuacji.",
         "name": "Jane Romero",
+        "story": "Wpływowa celebrytka idąca pod prąd, by stawić czoła trudnościom.<br><br>Jej umiejętności – <b>Solidarność</b>, <b>Opanowanie</b> i <b>Determinacja</b> – pomagają jej i innym w ucieczce z niebezpiecznych sytuacji.",
         "id": 16,
         "index": "JANE_ROMERO",
         "difficulty": 1,
@@ -210,6 +226,7 @@
     {
         "description": "Zarozumiały samotnik, uparty, stworzony, by przetrwać.<br><br>Dzięki umiejętnościom <b>Mijanka</b>, <b>Zapnij Pasy</b> i <b>Ludzki Zapał</b> jest bardziej odporny na ból oraz trudności i potrafi wyciągnąć przyjaciół z nieprzyjemnej sytuacji.",
         "name": "Ashley J. Williams",
+        "story": "Zarozumiały samotnik, uparty, stworzony, by przetrwać.<br><br>Dzięki umiejętnościom <b>Mijanka</b>, <b>Zapnij Pasy</b> i <b>Ludzki Zapał</b> jest bardziej odporny na ból oraz trudności i potrafi wyciągnąć przyjaciół z nieprzyjemnej sytuacji.",
         "id": 17,
         "index": "ASHLEY_J_WILLIAMS",
         "difficulty": 0,
@@ -223,6 +240,7 @@
     {
         "description": "Początkująca, przenikliwa dziennikarka umiejąca zauważać to, co inni często pomijają.<br><br>Jej osobiste umiejętności, <b>Razem Raźniej</b>, <b>Fiksacja</b> i <b>Wewnętrzna Siła</b>, zapewniają jej dodatkowe dane oraz odwagę potrzebną do mierzenia się z nieoczekiwanymi wyzwaniami.",
         "name": "Nancy Wheeler",
+        "story": "Początkująca, przenikliwa dziennikarka umiejąca zauważać to, co inni często pomijają.<br><br>Jej osobiste umiejętności, <b>Razem Raźniej</b>, <b>Fiksacja</b> i <b>Wewnętrzna Siła</b>, zapewniają jej dodatkowe dane oraz odwagę potrzebną do mierzenia się z nieoczekiwanymi wyzwaniami.",
         "id": 18,
         "index": "NANCY_WHEELER",
         "difficulty": 0,
@@ -236,6 +254,7 @@
     {
         "description": "Były sportowiec, który jest w stanie chronić innych ocalałych i pomagać im, zachowując specyficzne poczucie humoru.<br><br>Jego przyswajalne umiejętności, <b>Niańka</b>, <b>Koleżeństwo</b> i <b>Drugi Oddech</b>, pomagają mu odwracać uwagę zabójcy, znosić ból i powracać do walki.",
         "name": "Steve Harrington",
+        "story": "Były sportowiec, który jest w stanie chronić innych ocalałych i pomagać im, zachowując specyficzne poczucie humoru.<br><br>Jego przyswajalne umiejętności, <b>Niańka</b>, <b>Koleżeństwo</b> i <b>Drugi Oddech</b>, pomagają mu odwracać uwagę zabójcy, znosić ból i powracać do walki.",
         "id": 19,
         "index": "STEVE_HARRINGTON",
         "difficulty": 0,
@@ -249,6 +268,7 @@
     {
         "description": "Twarda uczestniczka wyścigów ulicznych, umiejąca zdobyć przewagę dla siebie i innych ocalałych w trudnych sytuacjach. Dzięki osobistym umiejętnościom <b>Łut szczęścia</b>, <b>Po trupach do celu</b> i <b>Ucieczka</b> potrafi ukrywać pozostawiane za sobą ślady krwi, podnosić palety i pomagać bezradnym ocalałym.",
         "name": "Yui Kimura",
+        "story": "Twarda uczestniczka wyścigów ulicznych, umiejąca zdobyć przewagę dla siebie i innych ocalałych w trudnych sytuacjach. Dzięki osobistym umiejętnościom <b>Łut szczęścia</b>, <b>Po trupach do celu</b> i <b>Ucieczka</b> potrafi ukrywać pozostawiane za sobą ślady krwi, podnosić palety i pomagać bezradnym ocalałym.",
         "id": 20,
         "index": "YUI_KIMURA",
         "difficulty": 1,
@@ -262,6 +282,7 @@
     {
         "description": "Odważna dokumentalistka wykorzystująca swój uliczny spryt do unikania wykrycia i wspierania innych ocalałych.<br><br>Jej wyjątkowe umiejętności <b>Nieoficjalnie</b>, <b>Fałszywy Trop</b> i <b>Za Ludzi</b> pomagają jej pozostać w ukryciu w obliczu zagrożenia, odwracać uwagę zabójcy i szybko leczyć innych z narażeniem własnego bezpieczeństwa.",
         "name": "Zarina Kassir",
+        "story": "Odważna dokumentalistka wykorzystująca swój uliczny spryt do unikania wykrycia i wspierania innych ocalałych.<br><br>Jej wyjątkowe umiejętności <b>Nieoficjalnie</b>, <b>Fałszywy Trop</b> i <b>Za Ludzi</b> pomagają jej pozostać w ukryciu w obliczu zagrożenia, odwracać uwagę zabójcy i szybko leczyć innych z narażeniem własnego bezpieczeństwa.",
         "id": 21,
         "index": "ZARINA_KASSIR",
         "difficulty": 1,
@@ -275,6 +296,7 @@
     {
         "description": "Cheryl Mason to młoda kobieta, która wyszła z przerażających sytuacji i potrafi dodać odwagi sobie i zespołowi.<br><br>Jej wyjątkowe umiejętności, <b>Strażnik duszy</b>, <b>Pakt krwi</b> oraz <b>Stłumiony sojusz</b>, umożliwiają jej przetrwanie największych trudności, pozostanie w kontakcie z członkami zespołu i planowanie celów.",
         "name": "Cheryl Mason",
+        "story": "Cheryl Mason to młoda kobieta, która wyszła z przerażających sytuacji i potrafi dodać odwagi sobie i zespołowi.<br><br>Jej wyjątkowe umiejętności, <b>Strażnik duszy</b>, <b>Pakt krwi</b> oraz <b>Stłumiony sojusz</b>, umożliwiają jej przetrwanie największych trudności, pozostanie w kontakcie z członkami zespołu i planowanie celów.",
         "id": 22,
         "index": "CHERYL_MASON",
         "difficulty": 0,
@@ -288,6 +310,7 @@
     {
         "description": "Prawdziwy wizjoner wśród architektów. Dzięki niezwykłej determinacji potrafi ułożyć plan i pomóc innym ocalałym.<br><br>Jego umiejętności specjalne, <b>Wizjoner</b>, <b>Desperacki krok</b> oraz <b>Trwałość przede wszystkim</b>, pozwalają mu odkrywać generatory, ratować ocalałych i maksymalnie wykorzystywać posiadane narzędzia.",
         "name": "Feliks Richter",
+        "story": "Prawdziwy wizjoner wśród architektów. Dzięki niezwykłej determinacji potrafi ułożyć plan i pomóc innym ocalałym.<br><br>Jego umiejętności specjalne, <b>Wizjoner</b>, <b>Desperacki krok</b> oraz <b>Trwałość przede wszystkim</b>, pozwalają mu odkrywać generatory, ratować ocalałych i maksymalnie wykorzystywać posiadane narzędzia.",
         "id": 23,
         "index": "FELIX_RICHTER",
         "difficulty": 1,
@@ -301,6 +324,7 @@
     {
         "description": "Badaczka wiedzy tajemnej korzystająca ze sprytnych sztuczek i determinacji, aby pozostać przy życiu.<br><br>Jej umiejętności specjalne – <b>Ocena sytuacji</b>, <b>Oszustwo</b> i <b>Intensywna walka</b> – udostępniają zupełnie nowe sposoby używania przedmiotów i dają dodatkowy plan ucieczki przed zabójcami. ",
         "name": "Élodie Rakoto",
+        "story": "Badaczka wiedzy tajemnej korzystająca ze sprytnych sztuczek i determinacji, aby pozostać przy życiu.<br><br>Jej umiejętności specjalne – <b>Ocena sytuacji</b>, <b>Oszustwo</b> i <b>Intensywna walka</b> – udostępniają zupełnie nowe sposoby używania przedmiotów i dają dodatkowy plan ucieczki przed zabójcami. ",
         "id": 24,
         "index": "ELODIE_RAKOTO",
         "difficulty": 1,
@@ -314,6 +338,7 @@
     {
         "description": "Skupiona na sobie producentka muzyczna umiejąca realizować cele w trudnych czasach.<br><br>Jej umiejętności specjalne – <b>Szybka Ścieżka</b>, <b>Przebój</b> i <b>Instynkt Samozachowawczy</b> – pozwalają jej poprawiać swoje zdolności i szybko uciekać przed pościgiem, gdy innym dzieje się krzywda. ",
         "name": "Yun-Jin Lee",
+        "story": "Skupiona na sobie producentka muzyczna umiejąca realizować cele w trudnych czasach.<br><br>Jej umiejętności specjalne – <b>Szybka Ścieżka</b>, <b>Przebój</b> i <b>Instynkt Samozachowawczy</b> – pozwalają jej poprawiać swoje zdolności i szybko uciekać przed pościgiem, gdy innym dzieje się krzywda. ",
         "id": 25,
         "index": "YUN_JIN_LEE",
         "difficulty": 0,
@@ -327,6 +352,7 @@
     {
         "description": "Jill Valentine jest założycielką S.T.A.R.S. Odniosła zwycięstwo nad niezliczonymi broniami organicznymi.<br><br>Jej umiejętności specjalne – <b>Przeciwdziałanie</b>, <b>Odrodzenie</b> i <b>Mina</b> – umożliwiają jej pośrednią walkę i zapewnianie znacznego wsparcia reszcie zespołu. ",
         "name": "Jill Valentine",
+        "story": "Jill Valentine jest założycielką S.T.A.R.S. Odniosła zwycięstwo nad niezliczonymi broniami organicznymi.<br><br>Jej umiejętności specjalne – <b>Przeciwdziałanie</b>, <b>Odrodzenie</b> i <b>Mina</b> – umożliwiają jej pośrednią walkę i zapewnianie znacznego wsparcia reszcie zespołu. ",
         "id": 26,
         "index": "JILL_VALENTINE",
         "difficulty": 1,
@@ -340,6 +366,7 @@
     {
         "description": "Leon S. Kennedy to młody policjant, który wykazał się wielką gorliwością w trakcie wypadku w Raccoon City.<br><br>Jego umiejętności specjalne – <b>Zaciśnięte Zęby</b>, <b>Granat Błyskowy</b> i <b>Zapał Nowicjusza</b> – pozwalają mu ignorować ból, rozpraszać zabójcę i śledzić utracone cele. ",
         "name": "Leon S. Kennedy",
+        "story": "Leon S. Kennedy to młody policjant, który wykazał się wielką gorliwością w trakcie wypadku w Raccoon City.<br><br>Jego umiejętności specjalne – <b>Zaciśnięte Zęby</b>, <b>Granat Błyskowy</b> i <b>Zapał Nowicjusza</b> – pozwalają mu ignorować ból, rozpraszać zabójcę i śledzić utracone cele. ",
         "id": 27,
         "index": "LEON_SCOTT_KENNEDY",
         "difficulty": 1,

@@ -3310,7 +3310,7 @@
         "image": "iconAddon_jawSmasher"
     },
     {
-        "description": "A can of clipped and sweetened tobacco leaves lifted from a gutted body in Glenvale. Stimulates the nervous system.<li><b>Moderately decreases</b> the stun duration when Survivor’s break free from the Speargun.</li>",
+        "description": "A can of clipped and sweetened tobacco leaves lifted from a gutted body in Glenvale. Stimulates the nervous system.<li><b>Moderately decreases</b> the stun duration when Survivors break free from the Speargun.</li>",
         "name": "Chewing Tobacco",
         "id": 908,
         "index": "CHEWING_TOBACCO",
@@ -3847,7 +3847,7 @@
         "image": "iconAddon_ceremonialCandelabrum"
     },
     {
-        "description": "An eyeball that belonged to a cat eaten by the starving Deshayes’ family. Victor hid it from his mother, using it as a toy.<br><br><li>Victor's shrieks stop when Pounce is fully charged.</li>",
+        "description": "An eyeball that belonged to a cat eaten by the starving Deshayes’ family. Victor hid it from his mother, using it as a toy.<br><br><li>After fully charging Pounce, Victor roams silently.</li>",
         "name": "Cat’s Eye",
         "id": 1056,
         "index": "CATS_EYE",
