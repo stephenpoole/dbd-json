@@ -1,6 +1,6 @@
 {
     "name": "@stephenpoole/deadbydaylight",
-    "version": "5.0.19",
+    "version": "5.0.110",
     "description": "A complete Dead by Daylight dataset.",
     "main": "en/deadbydaylight.js",
     "types": "en/index.d.ts",
