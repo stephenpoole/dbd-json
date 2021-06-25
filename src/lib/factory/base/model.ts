@@ -1,13 +1,14 @@
 import Factories from "../../factories";
 import { BaseEntity } from "../../types";
 
-class Model<T extends BaseEntity> {
+class Model<T extends BaseEntity | Partial<BaseEntity>> {
     data: T;
     factories: Factories;
     initialized = false;
     frozen = false;
+    index: string;
 
-    constructor(factories: Factories, data?: T) {
+    constructor(factories: Factories, data: T) {
         if (data) {
             this.data = data;
         } else {
@@ -19,15 +20,12 @@ class Model<T extends BaseEntity> {
                 image: "",
             } as T;
         }
+        this.index = this.data.index!;
         this.factories = factories;
     }
 
     initialize(): void {
         this.initialized = true;
-    }
-
-    get index(): string | undefined {
-        return this.data.index;
     }
 
     get isEmpty(): boolean {

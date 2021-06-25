@@ -1,6 +1,5 @@
 import { expect } from "chai";
 import { ItemType, ModifierType } from "../../../../src/en";
-import { Addon } from "../../../../src/lib/types";
 import { Player } from "../../../../src/lib/enum";
 import Factories from "../../../../src/lib/factories";
 import Model from "../../../../src/lib/factory/model/addon";
@@ -87,7 +86,7 @@ describe("#addonModel", () => {
     it("should return an Empty type given a killer", () => {
         const model = new Model(factoriesMock as unknown as Factories, killer);
         model.initialize();
-        expect(model.type).to.equal(ItemType.Empty);
+        expect(model.type).to.equal(ItemType.None);
     });
 
     it("should return a type given a survivor", () => {

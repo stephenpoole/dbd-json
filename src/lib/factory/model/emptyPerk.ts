@@ -1,54 +1,23 @@
 import { Perk as PerkType } from "../../types";
 import Model from "../base/model";
 import { ModifierType, Player, Rarity } from "../../enum";
+import Factories from "../../../lib/factories";
 
 class EmptyPerk extends Model<PerkType> {
+    constructor(factories: Factories) {
+        super(factories, {} as unknown as PerkType);
+    }
+
     modifier: ModifierType = ModifierType.Perk;
-    protected _tierIndex = 2;
-
-    get id(): undefined {
-        return undefined;
-    }
-
-    get index(): undefined {
-        return undefined;
-    }
-
-    get name(): undefined {
-        return undefined;
-    }
-
-    get image(): undefined {
-        return undefined;
-    }
-
-    get flavor(): undefined {
-        return undefined;
-    }
-
-    get owner(): undefined {
-        return undefined;
-    }
-
-    get player(): Player {
-        return Player.None;
-    }
-
-    get tier(): number {
-        return this._tierIndex + 1;
-    }
-
-    get rarity(): Rarity {
-        return Rarity.None;
-    }
-
-    get description(): undefined {
-        return undefined;
-    }
-
-    get isEmpty(): boolean {
-        return true;
-    }
+    id = undefined;
+    name = undefined;
+    image = undefined;
+    flavor = undefined;
+    owner = undefined;
+    player: Player = Player.None;
+    tier = 3;
+    rarity: Rarity = Rarity.None;
+    description = undefined;
 }
 
 export default EmptyPerk;

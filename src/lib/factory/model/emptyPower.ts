@@ -1,43 +1,21 @@
 import { Power as PowerType } from "../../types";
 import Model from "../base/model";
 import { ModifierType, Player } from "../../enum";
-import PlayerModel from "./player";
+import Factories from "../../../lib/factories";
 
 class EmptyPower extends Model<PowerType> {
+    constructor(factories: Factories) {
+        super(factories, {} as unknown as PowerType);
+    }
+
     modifier: ModifierType = ModifierType.Power;
-    protected _owner: PlayerModel | undefined;
-
-    get id(): undefined {
-        return undefined;
-    }
-
-    get index(): undefined {
-        return undefined;
-    }
-
-    get name(): undefined {
-        return undefined;
-    }
-
-    get description(): undefined {
-        return undefined;
-    }
-
-    get image(): undefined {
-        return undefined;
-    }
-
-    get flavor(): undefined {
-        return undefined;
-    }
-
-    get owner(): undefined {
-        return undefined;
-    }
-
-    get player(): Player {
-        return Player.None;
-    }
+    id = undefined;
+    name = undefined;
+    description = undefined;
+    image = undefined;
+    flavor = undefined;
+    owner = undefined;
+    player = Player.None;
 }
 
 export default EmptyPower;

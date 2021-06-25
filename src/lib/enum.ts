@@ -18,10 +18,11 @@ const enum Difficulty {
     Easy,
     Intermediate,
     Hard,
+    None,
 }
 
 const enum ItemType {
-    Empty,
+    None,
     Flashlight,
     Key,
     Map,

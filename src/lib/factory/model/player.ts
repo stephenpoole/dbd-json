@@ -5,56 +5,27 @@ import PerkModel from "./perk";
 import EmptyPerkModel from "./emptyPerk";
 import PowerModel from "./power";
 import EmptyPowerModel from "./emptyPower";
+import Factories from "../../../lib/factories";
 
 class Player extends Model<PlayerType> {
     modifier: ModifierType = ModifierType.Player;
-    protected _perks: (PerkModel | EmptyPerkModel)[] = [
+    perks: (PerkModel | EmptyPerkModel)[] = [
         new EmptyPerkModel(this.factories),
         new EmptyPerkModel(this.factories),
         new EmptyPerkModel(this.factories),
     ];
 
-    protected _power: PowerModel | EmptyPowerModel = new EmptyPowerModel(this.factories);
+    power: PowerModel | EmptyPowerModel = new EmptyPowerModel(this.factories);
+    id!: number;
+    name!: string;
+    description!: string;
+    image!: string;
+    player!: PlayerEnum;
+    difficulty!: Difficulty;
 
-    get id(): number {
-        return this.data.id;
-    }
-
-    get index(): string {
-        return this.data.index;
-    }
-
-    get name(): string {
-        return this.data.name;
-    }
-
-    get description(): string {
-        return this.data.description;
-    }
-
-    get image(): string {
-        return this.data.image;
-    }
-
-    get difficulty(): Difficulty {
-        return this.data.difficulty;
-    }
-
-    get perks(): (PerkModel | EmptyPerkModel)[] {
-        return this._perks;
-    }
-
-    get power(): PowerModel | EmptyPowerModel {
-        return this._power;
-    }
-
-    get player(): PlayerEnum {
-        const hasPower = typeof this.data.power === "string" && this.data.power.length > 0;
-        if (hasPower) {
-            return PlayerEnum.Killer;
-        }
-
-        return PlayerEnum.Survivor;
+    constructor(factories: Factories, data: PlayerType) {
+        super(factories, data);
+        this.assign();
     }
 
     initialize(): void {
@@ -65,9 +36,23 @@ class Player extends Model<PlayerType> {
         }
     }
 
+    protected assign(): void {
+        const { id, index, name, description, image, difficulty } = this.data;
+        this.id = id;
+        this.index = index;
+        this.name = name;
+        this.description = description;
+        this.image = image;
+        this.difficulty = difficulty;
+
+        const power = this.data.power;
+        const hasPower = typeof power === "string" && power.length > 0;
+        this.player = hasPower ? PlayerEnum.Killer : PlayerEnum.Survivor;
+    }
+
     protected setPerks(perks: string[]): void {
         const { killerPerk, survivorPerk } = this.factories;
-        this._perks = perks.map(value =>
+        this.perks = perks.map(value =>
             this.player === PlayerEnum.Killer
                 ? (killerPerk.getModel(value) as PerkModel)
                 : (survivorPerk.getModel(value) as PerkModel)
@@ -77,7 +62,7 @@ class Player extends Model<PlayerType> {
     protected setPower(power: string | undefined): void {
         if (power) {
             const { power: factory } = this.factories;
-            this._power =
+            this.power =
                 this.player === PlayerEnum.Killer
                     ? (factory.getModel(power) as PowerModel)
                     : new EmptyPowerModel(this.factories);

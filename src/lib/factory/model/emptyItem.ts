@@ -1,45 +1,21 @@
 import { Item as ItemTypeModel } from "../../types";
 import Model from "../base/model";
 import { ModifierType, Rarity, ItemType } from "../../enum";
+import Factories from "../../../lib/factories";
 
 class EmptyItem extends Model<ItemTypeModel> {
+    constructor(factories: Factories) {
+        super(factories, {} as unknown as ItemTypeModel);
+    }
+
     modifier: ModifierType = ModifierType.Item;
-
-    get id(): undefined {
-        return undefined;
-    }
-
-    get index(): undefined {
-        return undefined;
-    }
-
-    get name(): undefined {
-        return undefined;
-    }
-
-    get description(): undefined {
-        return undefined;
-    }
-
-    get image(): undefined {
-        return undefined;
-    }
-
-    get type(): ItemType {
-        return ItemType.Empty;
-    }
-
-    get rarity(): Rarity {
-        return Rarity.None;
-    }
-
-    get flavor(): undefined {
-        return undefined;
-    }
-
-    get isEmpty(): boolean {
-        return true;
-    }
+    id = undefined;
+    name = undefined;
+    description = undefined;
+    image = undefined;
+    type: ItemType = ItemType.None;
+    rarity: Rarity = Rarity.None;
+    flavor = undefined;
 }
 
 export default EmptyItem;

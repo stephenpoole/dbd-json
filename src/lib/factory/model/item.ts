@@ -1,40 +1,32 @@
 import { Item as ItemTypeModel } from "../../types";
 import Model from "../base/model";
 import { ModifierType, Rarity, ItemType } from "../../enum";
+import Factories from "../../../lib/factories";
 
 class Item extends Model<ItemTypeModel> {
     modifier: ModifierType = ModifierType.Item;
+    id!: number;
+    name!: string;
+    description!: string;
+    image!: string;
+    type!: ItemType;
+    rarity!: Rarity;
+    flavor: string | undefined;
 
-    get id(): number {
-        return this.data.id;
+    constructor(factories: Factories, data: ItemTypeModel) {
+        super(factories, data);
+        this.assign();
     }
 
-    get index(): string {
-        return this.data.index;
-    }
-
-    get name(): string {
-        return this.data.name;
-    }
-
-    get description(): string {
-        return this.data.description;
-    }
-
-    get image(): string {
-        return this.data.image;
-    }
-
-    get type(): ItemType {
-        return this.data.type;
-    }
-
-    get rarity(): Rarity {
-        return this.data.rarity;
-    }
-
-    get flavor(): string | undefined {
-        return this.data?.flavor;
+    protected assign(): void {
+        const { id, name, description, image, type, rarity, flavor } = this.data;
+        this.id = id;
+        this.name = name;
+        this.description = description;
+        this.image = image;
+        this.type = type;
+        this.rarity = rarity;
+        this.flavor = flavor;
     }
 }
 

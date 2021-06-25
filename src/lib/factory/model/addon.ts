@@ -3,64 +3,47 @@ import { ItemType, ModifierType, Player, Rarity } from "../../enum";
 import Model from "../base/model";
 import PlayerModel from "./player";
 import EmptyPlayerModel from "./emptyPlayer";
+import Factories from "../../../lib/factories";
 
 class Addon extends Model<AddonType> {
     modifier: ModifierType = ModifierType.Addon;
-    protected _owner: PlayerModel | EmptyPlayerModel = new EmptyPlayerModel(this.factories);
+    owner: PlayerModel | EmptyPlayerModel = new EmptyPlayerModel(this.factories);
+    id!: number;
+    name!: string;
+    description!: string;
+    image!: string;
+    flavor: string | undefined;
+    type!: ItemType;
+    rarity!: Rarity;
+    player!: Player;
 
-    get id(): number {
-        return this.data.id;
-    }
-
-    get index(): string {
-        return this.data.index;
-    }
-
-    get name(): string {
-        return this.data.name;
-    }
-
-    get description(): string {
-        return this.data.description;
-    }
-
-    get image(): string {
-        return this.data.image;
-    }
-
-    get rarity(): Rarity {
-        return this.data.rarity;
-    }
-
-    get flavor(): string | undefined {
-        return this.data?.flavor;
-    }
-
-    get type(): ItemType {
-        return typeof this.data.type !== "undefined" ? this.data.type : ItemType.Empty;
-    }
-
-    get owner(): PlayerModel | EmptyPlayerModel {
-        return this._owner;
-    }
-
-    get player(): Player {
-        if (this._owner) {
-            const power = this._owner.data.power;
-            const hasPower = typeof power === "string" && power.length > 0;
-            if (hasPower) {
-                return Player.Killer;
-            }
-        }
-
-        return Player.Survivor;
+    constructor(factories: Factories, data: AddonType) {
+        super(factories, data);
+        this.assign();
     }
 
     initialize(): void {
         if (!this.isEmpty) {
             this.setOwner(this.data.owner);
+            this.assign();
             super.initialize();
         }
+    }
+
+    protected assign(): void {
+        const { id, index, name, description, image, rarity, flavor, type } = this.data;
+        this.id = id;
+        this.index = index;
+        this.name = name;
+        this.description = description;
+        this.image = image;
+        this.rarity = rarity;
+        this.flavor = flavor;
+        this.type = typeof type !== "undefined" ? type : ItemType.None;
+
+        const power = this.owner.data.power;
+        const hasPower = typeof power === "string" && power.length > 0;
+        this.player = hasPower ? Player.Killer : Player.Survivor;
     }
 
     protected setOwner(owner: string | undefined): void {
@@ -69,9 +52,9 @@ class Addon extends Model<AddonType> {
             const isKiller = killer.exists(owner);
 
             if (isKiller) {
-                this._owner = killer.getModel(owner);
+                this.owner = killer.getModel(owner);
             } else {
-                this._owner = survivor.getModel(owner);
+                this.owner = survivor.getModel(owner);
             }
         }
     }

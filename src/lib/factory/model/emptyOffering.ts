@@ -1,41 +1,20 @@
 import { Offering as OfferingType } from "../../types";
 import Model from "../base/model";
 import { ModifierType, Rarity } from "../../enum";
+import Factories from "../../../lib/factories";
 
 class EmptyOffering extends Model<OfferingType> {
+    constructor(factories: Factories) {
+        super(factories, {} as unknown as OfferingType);
+    }
+
     modifier: ModifierType = ModifierType.Offering;
-
-    get id(): undefined {
-        return undefined;
-    }
-
-    get index(): undefined {
-        return undefined;
-    }
-
-    get name(): undefined {
-        return undefined;
-    }
-
-    get description(): undefined {
-        return undefined;
-    }
-
-    get image(): undefined {
-        return undefined;
-    }
-
-    get rarity(): Rarity {
-        return Rarity.None;
-    }
-
-    get flavor(): undefined {
-        return undefined;
-    }
-
-    get isEmpty(): boolean {
-        return true;
-    }
+    id = undefined;
+    name = undefined;
+    description = undefined;
+    image = undefined;
+    rarity: Rarity = Rarity.None;
+    flavor = undefined;
 }
 
 export default EmptyOffering;

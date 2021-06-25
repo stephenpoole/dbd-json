@@ -1,36 +1,30 @@
 import { Offering as OfferingType } from "../../types";
 import Model from "../base/model";
 import { ModifierType, Rarity } from "../../enum";
+import Factories from "../../../lib/factories";
 
 class Offering extends Model<OfferingType> {
     modifier: ModifierType = ModifierType.Offering;
+    id!: number;
+    name!: string;
+    description!: string;
+    image!: string;
+    rarity!: Rarity;
+    flavor: string | undefined;
 
-    get id(): number {
-        return this.data.id;
+    constructor(factories: Factories, data: OfferingType) {
+        super(factories, data);
+        this.assign();
     }
 
-    get index(): string {
-        return this.data.index;
-    }
-
-    get name(): string {
-        return this.data.name;
-    }
-
-    get description(): string {
-        return this.data.description;
-    }
-
-    get image(): string {
-        return this.data.image;
-    }
-
-    get rarity(): Rarity {
-        return this.data.rarity;
-    }
-
-    get flavor(): string | undefined {
-        return this.data.flavor;
+    protected assign(): void {
+        const { id, name, description, image, rarity, flavor } = this.data;
+        this.id = id;
+        this.name = name;
+        this.description = description;
+        this.image = image;
+        this.rarity = rarity;
+        this.flavor = flavor;
     }
 }
 

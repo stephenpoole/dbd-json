@@ -3,63 +3,27 @@ import Model from "../base/model";
 import { ModifierType, Player, Rarity } from "../../enum";
 import PlayerModel from "./player";
 import EmptyPlayerModel from "./emptyPlayer";
+import Factories from "../../../lib/factories";
 
 class Perk extends Model<PerkType> {
     modifier: ModifierType = ModifierType.Perk;
-    protected _owner: PlayerModel | EmptyPlayerModel = new EmptyPlayerModel(this.factories);
-    protected _tierIndex = 2;
+    owner: PlayerModel | EmptyPlayerModel = new EmptyPlayerModel(this.factories);
+    id!: number;
+    name!: string;
+    description!: string;
+    image!: string;
+    flavor: string | undefined;
+    rarity!: Rarity;
+    player!: Player;
+    tier!: number;
 
-    get id(): number {
-        return this.data.id;
+    constructor(factories: Factories, data: PerkType) {
+        super(factories, data);
+        this.assign(3);
     }
 
-    get index(): string {
-        return this.data.index;
-    }
-
-    get name(): string {
-        return this.data.name;
-    }
-
-    get image(): string {
-        return this.data.image;
-    }
-
-    get flavor(): string | undefined {
-        return this.data?.flavor;
-    }
-
-    get owner(): PlayerModel | EmptyPlayerModel {
-        return this._owner;
-    }
-
-    get player(): Player {
-        const isKiller = this.factories.killer.exists(this.index);
-        if (isKiller) {
-            return Player.Killer;
-        }
-
-        return Player.Survivor;
-    }
-
-    get tier(): number {
-        return this._tierIndex + 1;
-    }
-
-    get rarity(): Rarity {
-        return this.data.rarity[this._tierIndex];
-    }
-
-    get description(): string {
-        return this.data.description
-            .split(/\{[0-9]{1,2}\}/g)
-            .reduce<string>((prev, current, index, arr) => {
-                const isLastIndex = index === arr.length - 1;
-                if (isLastIndex) {
-                    return `${prev}${current}`;
-                }
-                return `${prev}${current}${this.data.tiers[this._tierIndex][index]}`;
-            }, "");
+    setTier(tier: number): void {
+        this.assign(tier);
     }
 
     initialize(): void {
@@ -69,12 +33,34 @@ class Perk extends Model<PerkType> {
         }
     }
 
-    setTier(tier: number): void {
-        const index = tier - 1;
-        const max = this.data.rarity.length - 1;
-        if (index >= 0 && index <= max) {
-            this._tierIndex = tier - 1;
+    protected assign(tier: number): void {
+        const { id, index, name, description, image, rarity, flavor, tiers } = this.data;
+        this.id = id;
+        this.index = index;
+        this.name = name;
+        this.description = description;
+        this.image = image;
+        this.flavor = flavor;
+        if (tier < 1) {
+            this.tier = 1;
+        } else if (tier > rarity.length) {
+            this.tier = rarity.length;
+        } else {
+            this.tier = tier;
         }
+        this.rarity = rarity[this.tier - 1];
+
+        const isKiller = this.factories.killer.exists(this.index);
+        this.player = isKiller ? Player.Killer : Player.Survivor;
+        this.description = description
+            .split(/\{[0-9]{1,2}\}/g)
+            .reduce<string>((prev, current, index, arr) => {
+                const isLastIndex = index === arr.length - 1;
+                if (isLastIndex) {
+                    return `${prev}${current}`;
+                }
+                return `${prev}${current}${tiers[this.tier - 1][index]}`;
+            }, "");
     }
 
     protected setOwner(owner: string): void {
@@ -83,9 +69,9 @@ class Perk extends Model<PerkType> {
             const isKiller = killer.exists(owner);
 
             if (isKiller) {
-                this._owner = killer.getModel(owner);
+                this.owner = killer.getModel(owner);
             } else {
-                this._owner = survivor.getModel(owner);
+                this.owner = survivor.getModel(owner);
             }
         }
     }

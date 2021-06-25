@@ -1,6 +1,5 @@
 import { expect } from "chai";
 import { ModifierType } from "../../../../src/en";
-import { Power } from "../../../../src/lib/types";
 import Factories from "../../../../src/lib/factories";
 import Model from "../../../../src/lib/factory/model/power";
 
