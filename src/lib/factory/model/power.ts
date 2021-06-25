@@ -39,7 +39,7 @@ class Power extends Model<PowerType> {
 
     protected setOwner(owner: string): void {
         if (owner) {
-            this.owner = this.factories.killer.getModel(owner);
+            this.owner = this.factories.killer.getModel(owner, 1);
         }
     }
 }

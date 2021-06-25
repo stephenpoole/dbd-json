@@ -21,6 +21,7 @@ class ModelFactory<
     model: ModelParamSignature<C, T>;
     emptyModel: EmptyModelParamSignature<D, T>;
     factories: Factories;
+    instances: (C | D)[] = [];
 
     constructor(
         factories: Factories,
@@ -34,13 +35,25 @@ class ModelFactory<
         this.factories = factories;
     }
 
-    getModel(key: string): C | D {
+    getModel(key: string, depth = 0): C | D {
         const data = super.get(key);
 
         if (data) {
-            // eslint-disable-next-line new-cap
-            const instance = new this.model(this.factories, data);
-            instance.initialize();
+            let instance;
+            if (depth === 0) {
+                // eslint-disable-next-line new-cap
+                instance = new this.model(this.factories, data);
+                instance.initialize();
+                return instance;
+            }
+
+            instance = this.instances.find(item => item.index === key);
+            if (!instance) {
+                // eslint-disable-next-line new-cap
+                instance = new this.model(this.factories, data);
+                this.instances.push(instance);
+                instance.initialize();
+            }
             return instance;
         }
 

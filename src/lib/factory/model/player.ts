@@ -54,8 +54,8 @@ class Player extends Model<PlayerType> {
         const { killerPerk, survivorPerk } = this.factories;
         this.perks = perks.map(value =>
             this.player === PlayerEnum.Killer
-                ? (killerPerk.getModel(value) as PerkModel)
-                : (survivorPerk.getModel(value) as PerkModel)
+                ? (killerPerk.getModel(value, 1) as PerkModel)
+                : (survivorPerk.getModel(value, 1) as PerkModel)
         );
     }
 
@@ -64,7 +64,7 @@ class Player extends Model<PlayerType> {
             const { power: factory } = this.factories;
             this.power =
                 this.player === PlayerEnum.Killer
-                    ? (factory.getModel(power) as PowerModel)
+                    ? (factory.getModel(power, 1) as PowerModel)
                     : new EmptyPowerModel(this.factories);
         }
     }

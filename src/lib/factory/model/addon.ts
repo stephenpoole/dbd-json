@@ -52,9 +52,9 @@ class Addon extends Model<AddonType> {
             const isKiller = killer.exists(owner);
 
             if (isKiller) {
-                this.owner = killer.getModel(owner);
+                this.owner = killer.getModel(owner, 1);
             } else {
-                this.owner = survivor.getModel(owner);
+                this.owner = survivor.getModel(owner, 1);
             }
         }
     }
