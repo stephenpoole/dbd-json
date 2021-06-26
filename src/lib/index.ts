@@ -27,7 +27,7 @@ class Dbd {
         this.factory = new Factories(this.locale);
     }
 
-    item(key: Item): ItemModel | EmptyItemModel {
+    item(key: string | Item): ItemModel | EmptyItemModel {
         return this.factory.item.getModel(key);
     }
 
@@ -35,7 +35,7 @@ class Dbd {
         return this.factory.item.getAllModels();
     }
 
-    addon(key: Addon): AddonModel | EmptyAddonModel {
+    addon(key: string | Addon): AddonModel | EmptyAddonModel {
         const addon = this.factory.survivorAddon.getModel(key);
         if (!addon.isEmpty) {
             return addon;
@@ -43,21 +43,21 @@ class Dbd {
         return this.factory.killerAddon.getModel(key);
     }
 
-    survivorAddons(key?: ItemType): AddonModel[] {
+    survivorAddons(key?: string | ItemType): AddonModel[] {
         if (typeof key === "number") {
             return this.factory.survivorAddon.getModelsByType(key);
         }
         return this.factory.survivorAddon.getAllModels();
     }
 
-    killerAddons(key?: Killer): AddonModel[] {
+    killerAddons(key?: string | Killer): AddonModel[] {
         if (typeof key === "number") {
             return this.factory.killerAddon.getModelsByOwner(key);
         }
         return this.factory.killerAddon.getAllModels();
     }
 
-    offering(key: Offering): OfferingModel | EmptyOfferingModel {
+    offering(key: string | Offering): OfferingModel | EmptyOfferingModel {
         let offering = this.factory.survivorOffering.getModel(key);
         if (!offering.isEmpty) {
             return offering;
@@ -81,7 +81,7 @@ class Dbd {
         return { ...sharedOfferings, ...killerOfferings };
     }
 
-    power(key: Power): PowerModel | EmptyPowerModel {
+    power(key: string | Power): PowerModel | EmptyPowerModel {
         return this.factory.power.getModel(key as string);
     }
 
@@ -89,7 +89,7 @@ class Dbd {
         return this.factory.power.getAllModels();
     }
 
-    perk(key: Perk): PerkModel | EmptyPerkModel {
+    perk(key: string | Perk): PerkModel | EmptyPerkModel {
         const perk = this.factory.survivorPerk.getModel(key);
         if (!perk.isEmpty) {
             return perk;
@@ -97,21 +97,21 @@ class Dbd {
         return this.factory.killerPerk.getModel(key);
     }
 
-    killerPerks(key?: Killer): PerkModel[] {
+    killerPerks(key?: string | Killer): PerkModel[] {
         if (typeof key === "string") {
             return this.factory.killerPerk.getModelsByOwner(key);
         }
         return this.factory.killerPerk.getAllModels();
     }
 
-    survivorPerks(key?: Survivor): PerkModel[] {
+    survivorPerks(key?: string | Survivor): PerkModel[] {
         if (typeof key === "string") {
             return this.factory.survivorPerk.getModelsByOwner(key);
         }
         return this.factory.survivorPerk.getAllModels();
     }
 
-    survivor(key: Survivor): PlayerModel | EmptyPlayerModel {
+    survivor(key: string | Survivor): PlayerModel | EmptyPlayerModel {
         return this.factory.survivor.getModel(key);
     }
 
@@ -119,7 +119,7 @@ class Dbd {
         return this.factory.survivor.getAllModels();
     }
 
-    killer(key: Killer): PlayerModel | EmptyPlayerModel {
+    killer(key: string | Killer): PlayerModel | EmptyPlayerModel {
         return this.factory.killer.getModel(key);
     }
 

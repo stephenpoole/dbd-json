@@ -8,7 +8,13 @@ class Factory<T extends BaseEntity> {
     }
 
     get(key: string): T | undefined {
-        const item = this.data.find(value => value.index === key);
+        let item = this.data.find(value => value.index === key);
+        if (item) {
+            return item;
+        }
+
+        const lowerCaseKey = key.toLowerCase();
+        item = this.data.find(value => value.name.toLowerCase() === lowerCaseKey);
         return item;
     }
 
