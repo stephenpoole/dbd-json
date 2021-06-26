@@ -124,6 +124,7 @@ Refer to the [deadbydaylight.node repository](https://github.com/stephenpoole/de
         name: "The Shape", (string, required)
         difficulty: 2, (number, required, of type Difficulty)
         power: "EVIL_WITHIN", (string, required, of type powers[].index)
+        story: "Some humans are simply bad seeds. Seeds infused with a distilled...", (string, required)
         description:
             "A haunting Killer, intent on monitoring survivors from a distance to feed his power, %bEvil Within%/b. The more he stalks, the stronger and faster he becomes.", (string, required)
         perks: [
@@ -142,6 +143,7 @@ Refer to the [deadbydaylight.node repository](https://github.com/stephenpoole/de
         index: "NEA_KARLSSON", (string, required)
         name: "Nea Karlsson", (string, required)
         difficulty: 1, (number, required, of type Difficulty)
+        story: "Nea grew up in the small town of Hjo in Sweden. She had a...", (string, required)
         description:
             "An urban artist, able to easily escape and hide.", (string, required)
         perks: [
