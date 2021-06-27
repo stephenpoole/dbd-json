@@ -63,8 +63,14 @@ class ModelFactory<
         return instance;
     }
 
-    getModels(keys: string[]): (C | D)[] {
-        return keys.map(key => this.getModel(key));
+    getRandomModel(): C {
+        const data = this.random();
+        // eslint-disable-next-line new-cap
+        return new this.model(this.factories, data);
+    }
+
+    getModels(keys: string[]): C[] {
+        return keys.map(key => this.getModel(key) as C);
     }
 
     getAllModels(): C[] {

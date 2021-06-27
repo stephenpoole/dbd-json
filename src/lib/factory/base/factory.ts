@@ -18,6 +18,10 @@ class Factory<T extends BaseEntity> {
         return item;
     }
 
+    random(): T {
+        return this.data[Math.floor(Math.random() * this.data.length)];
+    }
+
     exists(key: string): boolean {
         return !!this.get(key);
     }
