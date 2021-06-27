@@ -1150,7 +1150,7 @@
         ]
     },
     {
-        "description": "Quand un survivant en libère un autre d’un crochet, à au moins <span class=\"Highlight1\">{0} mètres</span> de vous, <i>Prise de décision</i> force le survivant à crier et lui applique l’effet de statut <b><i>À découvert</i></b> pendant <span class=\"Highlight2\">{1} secondes</span>.<br><i>Prise de décision</i> a un temps de récupération de <span class=\"Highlight3\">{2} secondes</span>. ",
+        "description": "Quand un survivant en libère un autre d’un crochet, à au moins <span class=\"Highlight1\">{0} mètres</span> de vous, <i>Prise de décision</i> force le survivant à crier et lui applique l’effet de statut <b><i>À découvert</i></b> pendant <span class=\"Highlight2\">{1} secondes</span>.<br><i>Prise de décision</i> a un temps de récupération de <span class=\"Highlight3\">{2} secondes</span>.",
         "name": "Prise de décision",
         "flavor": "« Vous seriez surpris de savoir quel genre d’outils peuvent vous sauver la vie » -Amanda Young",
         "id": 44,
@@ -1903,7 +1903,7 @@
         ]
     },
     {
-        "description": "Ceux dont la vie est entrelacée dans les ténèbres sont destinés à souffrir ensemble.<br><br>Quand un survivant soigne un segment de santé d’un autre survivant à au moins <span class=\"Highlight1\">{0} mètres</span> du tueur, le survivant qui effectue l’action de soin se met à crier, révélant leur position et activant <i>Lien mortel</i> pendant les <span class=\"Highlight2\">{1} secondes suivantes.</span> Pendant ce temps, le survivant souffre de l’effet de statut <b>Inconscient</b> quand il est à plus de <span class=\"Highlight3\">{2} mètres</span> du survivant soigné. ",
+        "description": "Ceux dont la vie est entrelacée dans les ténèbres sont destinés à souffrir ensemble.<br><br>Quand un survivant soigne un segment de santé d’un autre survivant à au moins <span class=\"Highlight1\">{0} mètres</span> du tueur, le survivant qui effectue l’action de soin se met à crier, révélant leur position et activant <i>Lien mortel</i> pendant les <span class=\"Highlight2\">{1} secondes suivantes.</span> Pendant ce temps, le survivant souffre de l’effet de statut <b>Inconscient</b> quand il est à plus de <span class=\"Highlight3\">{2} mètres</span> du survivant soigné.",
         "name": "Lien mortel",
         "id": 72,
         "index": "DEATHBOUND",

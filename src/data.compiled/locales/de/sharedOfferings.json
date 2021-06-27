@@ -46,7 +46,7 @@
     },
     {
         "description": "Bittet den Entitus um <b>dunkelstes Mondlicht</b>.",
-        "name": "Neumondbouquet ",
+        "name": "Neumondbouquet",
         "flavor": "\"Geh besser wieder schlafen, heute Nacht scheint der Mond nicht.\"",
         "id": 6,
         "index": "NEW_MOON_BOUQUET",
@@ -361,7 +361,7 @@
     },
     {
         "description": "<b>Erhöht enorm</b> die Chance, bei Verbrennungen zum Hawkins National Laboratory geschickt zu werden.",
-        "name": "Laborausweis vom Hawkins National Laboratory ",
+        "name": "Laborausweis vom Hawkins National Laboratory",
         "flavor": "„Ein durchnässter und blutverschmierter Ausweis mit einer Seriennummer.“",
         "id": 42,
         "index": "HAWKINS_NATIONAL_LABORATORY_ID",

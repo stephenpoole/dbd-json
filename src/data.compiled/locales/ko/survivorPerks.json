@@ -189,7 +189,7 @@
         ]
     },
     {
-        "description": "위험을 감지하는 능력을 습득한다. <span class=\"Highlight3\">{1} 초</span>마다 한 번씩, 자신이 바라보는 전방 <span class=\"Highlight1\">45도</span>, <span class=\"Highlight2\">{0}미터</span> 원뿔형 범위 안에 살인마가 있다면 소리로 알림을 받게 된다. ",
+        "description": "위험을 감지하는 능력을 습득한다. <span class=\"Highlight3\">{1} 초</span>마다 한 번씩, 자신이 바라보는 전방 <span class=\"Highlight1\">45도</span>, <span class=\"Highlight2\">{0}미터</span> 원뿔형 범위 안에 살인마가 있다면 소리로 알림을 받게 된다.",
         "name": "불길한 예감",
         "flavor": "\"느낌이 좋지 않아, 뭔가 오고 있어!\"",
         "id": 107,
@@ -1916,7 +1916,7 @@
     {
         "description": "적과 싸우면서 상처가 나고 멍도 들었지만, 운이 항상 따른다.<br><br><i>행운</i> 능력은 부상당했을 때 발동된다. <i>행운</i>이 활성화되는 동안 최대 <span class=\"Highlight1\">{0}초</span> 동안 피를 흘리지 않거나 발자국을 남기지 않고, <br><br>능력 활성 시간을 모두 사용하면 희생제가 종료될 때까지 <i>행운</i> 능력은 비활성화된다.<br>",
         "name": "행운",
-        "flavor": "“그 실력으론 날 이길 수 없다. 근처도 오지 못하겠지.” -유이 키무라 ",
+        "flavor": "“그 실력으론 날 이길 수 없다. 근처도 오지 못하겠지.” -유이 키무라",
         "id": 171,
         "index": "LUCKY_BREAK",
         "rarity": [
@@ -1941,7 +1941,7 @@
     {
         "description": "다른 누군가에게 의존하지 않으며, 손이 닿는 것 중에 도움이 될 만한 건 뭐든 활용한다.<br><br>떨어진 판자 옆에 서있는 상태에서 <i>능력 활성화 버튼</i>을 <span class=\"Highlight1\">{0}초 동안</span> 길게 눌러 판자를 다시 세울 수 있다.<br><br><i>필요하다면 무엇이든</i>은 <span class=\"Highlight2\">{1}초</span>의 재사용 대기시간을 가진다.<br>",
         "name": "필요하다면 무엇이든",
-        "flavor": "“내 모든 것을 담아 다시 공격해주지. 그리고 반복할 거다.” -유이 키무라 ",
+        "flavor": "“내 모든 것을 담아 다시 공격해주지. 그리고 반복할 거다.” -유이 키무라",
         "id": 172,
         "index": "ANY_MEANS_NECESSARY",
         "rarity": [
@@ -1969,7 +1969,7 @@
     {
         "description": "누군가에게 도움이 필요하면 빠르게 움직일 수 있으며, 이 모습을 본 사람들은 장애물을 뛰어넘을 수 있는 힘을 얻는다.<br><br><span class=\"Highlight1\">{0}미터</span> 내에 살인마에게 붙잡힌 생존자가 있는 경우 <span class=\"Highlight2\">이동 속도 증가</span> 효과가 발동되어 <span class=\"Highlight3\">{1}%</span> 더 빨라지고, 붙잡힌 생존자의 몸부림 속도도 <span class=\"Highlight4\">{2}%</span> 더 빨라진다.<br>",
         "name": "탈출",
-        "flavor": "“어서 와라, 결판을 지을 시간이다.” -유이 키무라 ",
+        "flavor": "“어서 와라, 결판을 지을 시간이다.” -유이 키무라",
         "id": 173,
         "index": "BREAKOUT",
         "rarity": [
@@ -2128,7 +2128,7 @@
     },
     {
         "description": "악의적인 세력에 쫓기는 데 익숙해져 있는 당신은 그것을 이제 자신에게 유리하게 이용하기 시작한다.<br><br>발전기 수리 후 총 <span class=\"Highlight1\">{0}초</span> 동안 <i>억압된 동맹</i>이 활성화된다.<br><br>해당 기술이 활성화된 동안 발전기를 수리하면, <i>능력 활성화 버튼</i>을 눌러 엔티티를 소환하여 발전기를 <span class=\"Highlight2\">{1}초</span> 동안 차단하게 할 수 있다. 기술이 비활성화된다.<br><br>영향을 받은 발전기는 모든 생존자들에게 흰 오라를 드러낸다.",
-        "name": "억압된 동맹 ",
+        "name": "억압된 동맹",
         "id": 179,
         "index": "REPRESSED_ALLIANCE",
         "rarity": [

@@ -46,7 +46,7 @@
     },
     {
         "description": "Calls upon The Entity for the <b>darkest moonlight</b>.",
-        "name": "New Moon Bouquet ",
+        "name": "New Moon Bouquet",
         "flavor": "\"Better go back to sleep, there is no moon this night.\"",
         "id": 6,
         "index": "NEW_MOON_BOUQUET",
@@ -361,7 +361,7 @@
     },
     {
         "description": "<b>Tremendously increases</b> the chance to be sent to Hawkins National Laboratory when burnt.",
-        "name": "Hawkins National Laboratory I.D. ",
+        "name": "Hawkins National Laboratory I.D.",
         "flavor": "\"A soggy, bloodstained identification card with a serial number.\"",
         "id": 42,
         "index": "HAWKINS_NATIONAL_LABORATORY_ID",

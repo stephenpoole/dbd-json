@@ -1348,7 +1348,7 @@
         ]
     },
     {
-        "description": "Ao pular uma janela ou sair de um armário rapidamente, você não deixa marcas por <span class=\"Highlight1\">{0} s</span>.<br><i>Dance Comigo</i> tem um tempo de recarga de <span class=\"Highlight4\">{1} s</span>. ",
+        "description": "Ao pular uma janela ou sair de um armário rapidamente, você não deixa marcas por <span class=\"Highlight1\">{0} s</span>.<br><i>Dance Comigo</i> tem um tempo de recarga de <span class=\"Highlight4\">{1} s</span>.",
         "name": "Dance Comigo",
         "flavor": "\"Outro show começou e já to indo, <br>Dance Comigo, porque há uma tempestade vindo, <br>Siga meus passos, tente acompanhar,<br>Dance Comigo, até o sol raiar.”<br>— \"Dance Comigo\\”, de Kate Denson",
         "id": 150,
@@ -1376,7 +1376,7 @@
         ]
     },
     {
-        "description": "Libera o potencial da habilidade de leitura de auras. Você passa a enxergar as auras de barricadas e janelas dentro de um raio de <span class=\"Highlight1\">{0} m</span>. <br><i>Janelas de Oportunidade</i> precisa recarregar por <span class=\"Highlight1\">{1} s</span> após você pular por uma janela ou barricada ou após você derrubar uma barricada durante uma perseguição. ",
+        "description": "Libera o potencial da habilidade de leitura de auras. Você passa a enxergar as auras de barricadas e janelas dentro de um raio de <span class=\"Highlight1\">{0} m</span>. <br><i>Janelas de Oportunidade</i> precisa recarregar por <span class=\"Highlight1\">{1} s</span> após você pular por uma janela ou barricada ou após você derrubar uma barricada durante uma perseguição.",
         "name": "Janelas de Oportunidades",
         "flavor": "\"Já é amanhecer, marque seu nome, saia da cama, <br>Prepare, mire, atire e acerte na fama, <br>Reconheça, sem drama, o valor da família, dá fé e da amizade,<br>Abra, para todos, suas janelas de oportunidade.\"<br>— \"Janelas de Oportunidade\" de Kate Denson",
         "id": 151,
@@ -1917,7 +1917,7 @@
     {
         "description": "Arranhões e contusões não são novidade para você, mas a sorte está sempre do seu lado.<br><br><i>Golpe de Sorte</i> se ativa sempre que você se machuca. Enquanto <i>Golpe de Sorte</i> estiver ativado, você não deixará marcas nem rastros de sangue por um total de <span class=\"Highlight1\">{0} s</span>.<br><br><i>Golpe de Sorte</i> será permanentemente desativado pelo restante da partida após a duração total da vantagem terminar.<br>",
         "name": "Golpe de Sorte",
-        "flavor": "\"Isso não basta para me derrotar. Nem de longe.\" — Yui Kimura ",
+        "flavor": "\"Isso não basta para me derrotar. Nem de longe.\" — Yui Kimura",
         "id": 171,
         "index": "LUCKY_BREAK",
         "rarity": [
@@ -1942,7 +1942,7 @@
     {
         "description": "Você se defende, usando o que estiver à mão para obter uma vantagem.<br><br>Pressione e segure o <i>botão de Habilidade Ativa</i> por <span class=\"Highlight1\">{0} s</span> enquanto estiver próximo a uma barricada caída para restaurá-la à posição normal.<br><br><i>Custe o que Custar</i> tem um tempo de recarga de <span class=\"Highlight2\">{1} s</span>.<br>",
         "name": "Custe o Que Custar",
-        "flavor": "\"Vou acertar você com tudo. E depois vou acertar de novo.\" — Yui Kimura ",
+        "flavor": "\"Vou acertar você com tudo. E depois vou acertar de novo.\" — Yui Kimura",
         "id": 172,
         "index": "ANY_MEANS_NECESSARY",
         "rarity": [
@@ -1970,7 +1970,7 @@
     {
         "description": "Você entra em velocidade máxima quando alguém está com problemas, inspirando a todos a superar qualquer obstáculo.<br><br>Sempre que estiver a <span class=\"Highlight1\">{0} m</span> de um Sobrevivente que estiver sendo carregado, você obtém o efeito do estado <span class=\"Highlight2\">Celeridade</span>, aumentando em <span class=\"Highlight3\">{1}%</span> a sua velocidade de movimento. A velocidade em que o Sobrevivente carregado se debate aumenta em <span class=\"Highlight4\">{2}%</span>.<br>",
         "name": "Fuga",
-        "flavor": "\"Venha, vamos abrir caminho para longe daqui.\" — Yui Kimura ",
+        "flavor": "\"Venha, vamos abrir caminho para longe daqui.\" — Yui Kimura",
         "id": 173,
         "index": "BREAKOUT",
         "rarity": [
@@ -2129,7 +2129,7 @@
     },
     {
         "description": "Você está acostumada a ser perseguida por forças maliciosas e sabe tirar proveito da situação.<br><br><i>Aliança Reprimida</i> se ativa após você consertar geradores por um total de <span class=\"Highlight1\">{0} s.</span><br><br>Ao consertar um gerador com a vantagem ativada, aperte o <i>botão de Habilidade Ativa</i> para chamar a Entidade para bloquear o gerador por <span class=\"Highlight2\">{1} s.</span> A vantagem, então, se desativa.<br><br>Os geradores afetados aparecerão com uma aura branca para todos os Sobreviventes.",
-        "name": "Aliança Reprimida ",
+        "name": "Aliança Reprimida",
         "id": 179,
         "index": "REPRESSED_ALLIANCE",
         "rarity": [

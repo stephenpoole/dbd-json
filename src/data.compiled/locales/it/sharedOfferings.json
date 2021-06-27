@@ -46,7 +46,7 @@
     },
     {
         "description": "Invoca l'Entità per il <b>chiaro di luna più tenebroso</b>.",
-        "name": "Bouquet della Luna nuova ",
+        "name": "Bouquet della Luna nuova",
         "flavor": "\"Meglio tornare a dormire, non c'è luna questa notte.\"",
         "id": 6,
         "index": "NEW_MOON_BOUQUET",
@@ -361,7 +361,7 @@
     },
     {
         "description": "Se bruciata, <b>aumenta straordinariamente</b> le possibilità di essere inviato al Laboratorio Nazionale di Hawkins.",
-        "name": "Carta d'identità del Laboratorio Nazionale di Hawkins ",
+        "name": "Carta d'identità del Laboratorio Nazionale di Hawkins",
         "flavor": "\"Una carta d'identità fradicia e sporca di sangue, con tanto di numero seriale.\"",
         "id": 42,
         "index": "HAWKINS_NATIONAL_LABORATORY_ID",

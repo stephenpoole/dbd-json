@@ -1978,7 +1978,7 @@
         "image": "iconAddon_robinFeather"
     },
     {
-        "description": "Part of the standard Clown apparel; the cut fingers allow for dexterous manipulations.\n<li>Changes thrown bottle arc.</li>\n",
+        "description": "Part of the standard Clown apparel; the cut fingers allow for dexterous manipulations.\n<li>Changes thrown bottle arc.</li>",
         "name": "Fingerless Parade Gloves",
         "id": 552,
         "index": "FINGERLESS_PARADE_GLOVES",
@@ -2755,7 +2755,7 @@
     },
     {
         "description": "Black straps that keep everything in place while on the prowl.<br><li><b>Slightly increases</b> movement speed while Crouched.</li>",
-        "name": "Cinch Straps ",
+        "name": "Cinch Straps",
         "id": 758,
         "index": "CINCH_STRAPS",
         "owner": "GHOST",
@@ -3063,7 +3063,7 @@
     {
         "description": "Had the rope been stronger, it would have likely held Kazan. As it was, he escaped and butchered his captors.<li><b>Slightly increases</b> the distance that Blood Orb auras can be detected.</li>",
         "name": "Rotting Rope",
-        "flavor": "\"Though Death is focused, he has been known to blink.\" -Renjiro's Doctrine 14:5 ",
+        "flavor": "\"Though Death is focused, he has been known to blink.\" -Renjiro's Doctrine 14:5",
         "id": 851,
         "index": "ROTTING_ROPE",
         "owner": "ONI",
@@ -3239,7 +3239,7 @@
     },
     {
         "description": "A grimy piece of burlap. Spit and elbow grease was enough to wipe down the speargun in the heat of a shootout.<li><b>Slightly decreases</b> the Speargun’s cool-down time after missed shots.</li>",
-        "name": "Spit Polish Rag ",
+        "name": "Spit Polish Rag",
         "id": 900,
         "index": "SPIT_POLISH_RAG",
         "owner": "DEATHSLINGER",
@@ -3248,7 +3248,7 @@
     },
     {
         "description": "A tincture of oils and extracts purchased from a travelling salesman. Purported to cure all that ails you.<li><b>Slightly increases</b> the Speargun’s Reeling speed.</li>",
-        "name": "Snake Oil ",
+        "name": "Snake Oil",
         "id": 901,
         "index": "SNAKE_OIL",
         "owner": "DEATHSLINGER",
@@ -3266,7 +3266,7 @@
     },
     {
         "description": "An old ammo belt Caleb altered for his specialized weaponry. Still holds the fine red dirt of the Arizona Territory desert.<li><b>Slightly increases</b> the Speargun’s Reload speed.</li>",
-        "name": "Modified Ammo Belt ",
+        "name": "Modified Ammo Belt",
         "id": 903,
         "index": "MODIFIED_AMMO_BELT",
         "owner": "DEATHSLINGER",
@@ -3275,7 +3275,7 @@
     },
     {
         "description": "A railroad spike that Caleb fastened to the front of the Speargun during a moment of morbid curiosity. The dull tip prevents it from cleanly piercing its target.<li>Hitting a speared Survivor inflicts the <b>Mangled</b> status effect.</li>",
-        "name": "Rusted Spike ",
+        "name": "Rusted Spike",
         "id": 904,
         "index": "RUSTED_SPIKE",
         "owner": "DEATHSLINGER",
@@ -3293,7 +3293,7 @@
     },
     {
         "description": "A silver badge taken from the corpse of a lawman in Arizona Territory who interfered with the Hellshire Gang’s bounties.<li><b>Slighty reduces</b> the Terror Radius while aiming down the Speargun’s sights.</li><li><b>Slightly reduces</b> movement speed while aiming down the Speargun’s sights.</li><span class=\"FlavorText\">“Get your prayers in, you’ll be swinging by noon.” -Caleb Quinn</span>",
-        "name": "Marshal's Badge ",
+        "name": "Marshal's Badge",
         "id": 906,
         "index": "MARSHALS_BADGE",
         "owner": "DEATHSLINGER",
@@ -3302,7 +3302,7 @@
     },
     {
         "description": "The bullet that ripped through Caleb’s jaw during a frenzied shootout. It brings back a burning desire for revenge.<li><b>Slightly increases</b> movement speed while aiming down the Speargun’s sights.</li><span class=\"FlavorText\">\"You called death to your door the instant you done me wrong.\" -Caleb Quinn</span>",
-        "name": "Jaw Smasher ",
+        "name": "Jaw Smasher",
         "id": 907,
         "index": "JAW_SMASHER",
         "owner": "DEATHSLINGER",
@@ -3320,7 +3320,7 @@
     },
     {
         "description": "The dull jangle of the keys evokes a furious memory within Caleb.<li><b>Moderately increases</b> the Speargun’s Reload speed.</li>",
-        "name": "Warden’s Keys ",
+        "name": "Warden’s Keys",
         "id": 909,
         "index": "WARDENS_KEYS",
         "owner": "DEATHSLINGER",
@@ -3329,7 +3329,7 @@
     },
     {
         "description": "The yellowed remains of a wanted poster for Mason Kelly. Kept Caleb focused on the hunt.<li><b>Moderately increases</b> movement speed while aiming down the Speargun’s sights.</li><span class=\"FlavorText\">\"You'll be met with a fierce reckoning, swear it on my mum’s grave.\" -Caleb Quinn</span>",
-        "name": "Wanted Poster ",
+        "name": "Wanted Poster",
         "id": 910,
         "index": "WANTED_POSTER",
         "owner": "DEATHSLINGER",
@@ -3338,7 +3338,7 @@
     },
     {
         "description": "A can holding a small amount of oil to reduce friction in machinery. Early models of the Speargun were notorious for jamming, and oil had to be readily available.<li><b>Moderately decreases</b> the Speargun's cool-down time after missed shots.</li>",
-        "name": "Tin Oil Can ",
+        "name": "Tin Oil Can",
         "id": 911,
         "index": "TIN_OIL_CAN",
         "owner": "DEATHSLINGER",
@@ -3347,7 +3347,7 @@
     },
     {
         "description": "Angered with a bounty who fled twice before, Caleb twisted thorn branches onto a spear and let it loose.<li>Survivors who break free from the Speargun are inflicted with the <b>Mangled</b> status effect.</li>",
-        "name": "Honey Locust Thorns ",
+        "name": "Honey Locust Thorns",
         "id": 912,
         "index": "HONEY_LOCUST_THORNS",
         "owner": "DEATHSLINGER",
@@ -3419,7 +3419,7 @@
     },
     {
         "description": "Found in a refrigerator. It’s engraved with a disgusting, bloated face.<li><b>Slightly increases</b> the duration <b>Rites of Judgment</b> trails remain in the environment.</li>",
-        "name": "Lead Ring ",
+        "name": "Lead Ring",
         "id": 950,
         "index": "LEAD_RING",
         "owner": "EXECUTIONER",
@@ -3428,7 +3428,7 @@
     },
     {
         "description": "A butterfly found on a bed at Wood Side Apartments. It’s frail and nearly falls apart when touched.<li><b>Slightly increases</b> the recharge rate of <b>Rites of Judgment</b>.</li>",
-        "name": "Dead Butterfly ",
+        "name": "Dead Butterfly",
         "id": 951,
         "index": "DEAD_BUTTERFLY",
         "owner": "EXECUTIONER",
@@ -3437,7 +3437,7 @@
     },
     {
         "description": "Found in the basement of Brookhaven Hospital. It’s engraved with a picture of a spider.<li><b>Slightly increases</b> the total amount of time that <b>Rites of Judgment</b> can be performed.</li>",
-        "name": "Copper Ring ",
+        "name": "Copper Ring",
         "flavor": "“I was locked up inside the basement’s basement. It was so small and dark, and I was so afraid. I dropped my precious ring. But I’ll never, ever go back there.”",
         "id": 952,
         "index": "COPPER_RING",
@@ -3447,7 +3447,7 @@
     },
     {
         "description": "A nylon strap that was used to restrain a victim to a metal frame. The color makes it difficult to see the blood soaked into it.<li><b>Slightly increases</b> the reach of <b>Punishment of the Damned</b>.</li>",
-        "name": "Black Strap ",
+        "name": "Black Strap",
         "id": 953,
         "index": "BLACK_STRAP",
         "owner": "EXECUTIONER",
@@ -3456,7 +3456,7 @@
     },
     {
         "description": "A doll carved from wax, handcrafted by a prisoner who would soon face their judgment.<li><b>Moderately increases</b> the reach of <b>Punishment of the Damned</b>.</li>",
-        "name": "Wax Doll ",
+        "name": "Wax Doll",
         "id": 954,
         "index": "WAX_DOLL",
         "owner": "EXECUTIONER",
@@ -3465,7 +3465,7 @@
     },
     {
         "description": "The sharp, rusted tip of a spear. It’s flaked with blood from its last victim.<li><b>Moderately increases</b> the total amount of time that <b>Rites of Judgment</b> can be performed.</li>",
-        "name": "Spearhead ",
+        "name": "Spearhead",
         "id": 955,
         "index": "SPEARHEAD",
         "owner": "EXECUTIONER",
@@ -3474,7 +3474,7 @@
     },
     {
         "description": "A shred of pink, leopard print fabric. It’s difficult to tell what it was used for.<li><b>Slightly increases</b> the duration of <i>Killer Instinct</i> when triggered by <b>Rites of Judgment</b>.</li>",
-        "name": "Leopard-Print Fabric  ",
+        "name": "Leopard-Print Fabric",
         "flavor": "“It doesn’t matter who I am. I’m here for you, James.” -Maria",
         "id": 956,
         "index": "LEOPARD_PRINT_FABRIC",
@@ -3484,7 +3484,7 @@
     },
     {
         "description": "A videotape of two lovers vacationing in Silent Hill. Despite its sentimental value, it was left behind in the Lakeview Hotel.<li><b>Moderately increases</b> the recharge rate of <b>Rites of Judgment</b>.</li>",
-        "name": "Forgotten Videotape ",
+        "name": "Forgotten Videotape",
         "id": 957,
         "index": "FORGOTTEN_VIDEOTAPE",
         "owner": "EXECUTIONER",
@@ -3493,7 +3493,7 @@
     },
     {
         "description": "A music box with a figure from the fairy tale Cinderella. Found inside a suitcase adorned with stickers from multiple destinations.<li><b>Moderately increases</b> the duration <b>Rites of Judgment</b> trails remain in the environment.</li>",
-        "name": "Cinderella Music Box ",
+        "name": "Cinderella Music Box",
         "id": 958,
         "index": "CINDERELLA_MUSIC_BOX",
         "owner": "EXECUTIONER",
@@ -3502,7 +3502,7 @@
     },
     {
         "description": "A photograph of two figures in red hoods. Entitled Crimson and White Banquet for the Gods.<li><b>Considerably increases</b> the recharge rate of <b>Rites of Judgment</b>.</li>",
-        "name": "Valtiel Sect Photograph ",
+        "name": "Valtiel Sect Photograph",
         "id": 959,
         "index": "VALTIEL_SECT_PHOTOGRAPH",
         "owner": "EXECUTIONER",
@@ -3511,7 +3511,7 @@
     },
     {
         "description": "A metal tablet engraved with Aztec figures.<li><b>Considerably increases</b> the total amount of time that <b>Rites of Judgment</b> can be performed.</li>",
-        "name": "Tablet of the Oppressor ",
+        "name": "Tablet of the Oppressor",
         "id": 960,
         "index": "TABLET_OF_THE_OPPRESSOR",
         "owner": "EXECUTIONER",
@@ -3520,7 +3520,7 @@
     },
     {
         "description": "A painting of an imposing figure wearing a steel pyramid atop his head. Victims are caged in the background.<li><b>Moderately increases</b> the duration of <i>Killer Instinct</i> when triggered by <b>Rites of Judgment</b>.</li>",
-        "name": "Misty Day, Remains of Judgment ",
+        "name": "Misty Day, Remains of Judgment",
         "flavor": "\"It’s him...”",
         "id": 961,
         "index": "MISTY_DAY_REMAINS_OF_JUDGMENT",
@@ -3530,7 +3530,7 @@
     },
     {
         "description": "The smooth grey foot of a mannequin, brutally torn from its leg.<li><b>Considerably increases</b> the duration <b>Rites of Judgment</b> trails remain in the environment.</li>",
-        "name": "Mannequin Foot ",
+        "name": "Mannequin Foot",
         "id": 962,
         "index": "MANNEQUIN_FOOT",
         "owner": "EXECUTIONER",
@@ -3538,8 +3538,8 @@
         "image": "iconAddon_mannequinFoot"
     },
     {
-        "description": "\t\nA diagram of the Lakeview Hotel. Red flames are painted over this place of guilt.<li><b>Considerably increases</b> the reach of <b>Punishment of the Damned</b>.</li>",
-        "name": "Burning Man Painting ",
+        "description": "A diagram of the Lakeview Hotel. Red flames are painted over this place of guilt.<li><b>Considerably increases</b> the reach of <b>Punishment of the Damned</b>.</li>",
+        "name": "Burning Man Painting",
         "id": 963,
         "index": "BURNING_MAN_PAINTING",
         "owner": "EXECUTIONER",
@@ -3548,7 +3548,7 @@
     },
     {
         "description": "A fresh egg, strikingly red in color. About the size of a quail’s egg.<li><b>Considerably increases</b> the duration of <i>Killer Instinct</i> when triggered by <b>Rites of Judgment</b>.</li>",
-        "name": "Scarlet Egg ",
+        "name": "Scarlet Egg",
         "flavor": "\"I’ve never been so scared in my whole life! You couldn’t care less about me... could you?” -Maria",
         "id": 964,
         "index": "SCARLET_EGG",
@@ -3558,7 +3558,7 @@
     },
     {
         "description": "An old-looking egg, colored reddish orange. About the size of a quail’s egg.<li>Survivors affected by <b>Rites of Judgment</b> suffer from the <b>Blindness</b> status effect for <b>60 seconds</b>.</li>",
-        "name": "Rust-colored Egg ",
+        "name": "Rust-colored Egg",
         "flavor": "“James... You made me happy.” -Mary",
         "id": 965,
         "index": "RUST_COLORED_EGG",
@@ -3568,7 +3568,7 @@
     },
     {
         "description": "A book about the history and legends of Silent Hill and the surrounding area.<li>Survivors affected by <b>Rites of Judgment</b> suffer from the <b>Oblivious</b> status effect for <b>15 seconds</b>.</li><span class=\"FlavorText\">“They called this place ‘The Place of the Silent Spirits.’”</span>",
-        "name": "Lost Memories Book ",
+        "name": "Lost Memories Book",
         "id": 966,
         "index": "LOST_MEMORIES_BOOK",
         "owner": "EXECUTIONER",
@@ -3587,7 +3587,7 @@
     },
     {
         "description": "An ancient looking goblet carved from pure obsidian.<li><b>The Executioner</b> gains the <b>Undetectable</b> status effect when standing on a <b>Rites of Judgment</b> trail.</li>",
-        "name": "Obsidian Goblet ",
+        "name": "Obsidian Goblet",
         "flavor": "“Forgive me for waking you. But without you, I just can’t go on.” -James Sunderland",
         "id": 968,
         "index": "OBSIDIAN_GOBLET",
@@ -3597,7 +3597,7 @@
     },
     {
         "description": "A talisman with an odd design inscribed on it. The Entity’s influence seems to have altered it.<li>When sending a Survivor to a <b>Cage of Atonement</b>, the auras of all Survivors suffering from <i>Torment</i> are revealed for <b>6 seconds.</b></li>",
-        "name": "Iridescent Seal of Metatron ",
+        "name": "Iridescent Seal of Metatron",
         "flavor": "\"This magic square, with strong protective and dispelling properties, is called the 'Virun VII Crest' or the 'Seal of Metatron'.”",
         "id": 969,
         "index": "IRIDESCENT_SEAL_OF_METATRON",
@@ -3607,7 +3607,7 @@
     },
     {
         "description": "A pill that’s utterly ineffective... or is it?<br><br><li><b>Moderately decreases</b> movement speed while Rushing.</li><li>Gain <b>100%</b> bonus Bloodpoints on Rush score events.</li>",
-        "name": "Placebo Tablet ",
+        "name": "Placebo Tablet",
         "id": 1000,
         "index": "PLACEBO_TABLET",
         "owner": "BLIGHT",
@@ -3616,7 +3616,7 @@
     },
     {
         "description": "A poisonous plant that sparked Talbot’s interest in chemistry. It rekindles deeply buried memories.<br><br><li><b>Slightly increases</b> recovery speed after a Rush.</li>",
-        "name": "Foxglove ",
+        "name": "Foxglove",
         "id": 1001,
         "index": "FOXGLOVE",
         "owner": "BLIGHT",
@@ -3625,7 +3625,7 @@
     },
     {
         "description": "This early sample failed to achieve desired results but demonstrated surprising effects regardless.<br><br><li>Automatically face the nearest Survivor within <b>16 meters</b> after a Slam.</li>",
-        "name": "Compound Seven ",
+        "name": "Compound Seven",
         "id": 1002,
         "index": "COMPOUND_SEVEN",
         "owner": "BLIGHT",
@@ -3643,7 +3643,7 @@
     },
     {
         "description": "The remnants of Talbot’s notes, they still contain some valuable information within.<br><br><li><b>Decreases</b> the amount of available Rush tokens by <b>1.</b></li><li><b>Moderately increases</b> token regeneration rate.</li>",
-        "name": "Shredded Notes ",
+        "name": "Shredded Notes",
         "id": 1004,
         "index": "SHREDDED_NOTES",
         "owner": "BLIGHT",
@@ -3652,7 +3652,7 @@
     },
     {
         "description": "Dried pustula petals ground into a fine dust.<br><br><li><b>Moderately increases</b> Slam duration.</li>",
-        "name": "Pustula Dust ",
+        "name": "Pustula Dust",
         "id": 1005,
         "index": "PUSTULA_DUST",
         "owner": "BLIGHT",
@@ -3679,7 +3679,7 @@
     },
     {
         "description": "A rat that briefly returned to life when injected with serum, becoming aggressive and uncontrollable.<br><br><li><b>Moderately increases</b> Rush speed for each consecutive Rush.</li>",
-        "name": "Blighted Rat ",
+        "name": "Blighted Rat",
         "id": 1008,
         "index": "BLIGHTED_RAT",
         "owner": "BLIGHT",
@@ -3688,7 +3688,7 @@
     },
     {
         "description": "Regular sea salt that has momentarily passed through the spirit world, altering its properties in the process.<br><br><li><b>Moderately increases</b> turn rate while Rushing.</li>",
-        "name": "Umbra Salts ",
+        "name": "Umbra Salts",
         "id": 1009,
         "index": "UMBRA_SALTS",
         "owner": "BLIGHT",
@@ -3696,8 +3696,8 @@
         "image": "iconAddon_umbraSalts"
     },
     {
-        "description": "A mixture made with dried roses from the exceedingly rare New Moon Bouquet.<br><br><li><b>Considerably increases</b> Slam duration.</li> ",
-        "name": "Rose Tonic ",
+        "description": "A mixture made with dried roses from the exceedingly rare New Moon Bouquet.<br><br><li><b>Considerably increases</b> Slam duration.</li>",
+        "name": "Rose Tonic",
         "id": 1010,
         "index": "ROSE_TONIC",
         "owner": "BLIGHT",
@@ -3706,7 +3706,7 @@
     },
     {
         "description": "A serum that's fatal to humans. It evokes beneficial qualities in those who are... something more.<br><br><li>When initiating a Slam, reveal the aura of Survivors within <b>8 meters</b> of the collision location for <b>3 seconds</b>.</li>",
-        "name": "Compound Twenty-One ",
+        "name": "Compound Twenty-One",
         "id": 1011,
         "index": "COMPOUND_TWENTY_ONE",
         "owner": "BLIGHT",
@@ -3715,7 +3715,7 @@
     },
     {
         "description": "A dead crow that has been grotesquely mutated by blight serum.<br><br><li><b>Considerably increases</b> Rush speed for each consecutive Rush.</li>",
-        "name": "Blighted Crow ",
+        "name": "Blighted Crow",
         "id": 1012,
         "index": "BLIGHTED_CROW",
         "owner": "BLIGHT",
@@ -3724,7 +3724,7 @@
     },
     {
         "description": "A hormone removed from an unwilling subject’s adrenal gland. Though it provides a jolt of energy, it can fatigue its user.<br><br><li><b>Tremendously reduces</b> turn rate while Rushing.</li><li><b>Tremendously increases</b> token regeneration rate.</li><li><b>Increases</b> the amount of available Rush tokens by <b>2.</b></li><li><b>Considerably increases</b> maximum look angle while Rushing.</li><br>",
-        "name": "Adrenaline Vial ",
+        "name": "Adrenaline Vial",
         "flavor": "\"Please, don't do this...\"",
         "id": 1013,
         "index": "ADRENALINE_VIAL",
@@ -3734,7 +3734,7 @@
     },
     {
         "description": "The journal of a man who claimed to have returned from the Void. The knowledge within has practical applications.<br><br><li>Gain the <b>Undetectable</b> status effect while Rushing.</li><br>",
-        "name": "Vigo's Journal ",
+        "name": "Vigo's Journal",
         "flavor": "\"In a wasteland of forgotten dreams and endless routine, the man with a way out is God.\" —Talbot Grimes",
         "id": 1014,
         "index": "VIGOS_JOURNAL",
@@ -3744,7 +3744,7 @@
     },
     {
         "description": "Talbot used this stone to carve what he believed was his research into the opium den’s walls.<br><br><li>Hitting a Survivor with a Lethal Rush will call upon The Entity to block pallets within a <b>12 meter</b> radius of your location for <b>6 seconds</b>.</li><br>",
-        "name": "Summoning Stone ",
+        "name": "Summoning Stone",
         "flavor": "\"Death is only the beginning.\"",
         "id": 1015,
         "index": "SUMMONING_STONE",
@@ -3754,7 +3754,7 @@
     },
     {
         "description": "A chemical squeezed from the pineal gland of a recently deceased Survivor.<br><br><li>During a Rush, the moment you enter the <b>16-meter</b> radius around a Survivor who is repairing or healing, trigger a <b>tremendously</b> difficult Skill Check for that Survivor. Can activate once per Survivor per Rush. Does not trigger for a Rush starting within <b>16 meters</b> of the Survivor.</li><br>",
-        "name": "Soul Chemical ",
+        "name": "Soul Chemical",
         "flavor": "\"...suspected to cause atypical alterations in neural rhythmic activity.\" —Unlabeled mystery school text",
         "id": 1016,
         "index": "SOUL_CHEMICAL",
@@ -3764,7 +3764,7 @@
     },
     {
         "description": "A ring given to chemists graduating from the London School of Medicine. It’s a reminder of unrestrained ambition.<br><br><li>Hitting a Survivor with a Lethal Rush will instantly recharge all Rush tokens.</li><br>",
-        "name": "Alchemist’s Ring ",
+        "name": "Alchemist’s Ring",
         "flavor": "\"The student is accused of grave robbing with the intent of unsanctioned scientific testing.\" —Faculty reprimand of Talbot Grimes, 1838",
         "id": 1017,
         "index": "ALCHEMISTS_RING",
@@ -3784,7 +3784,7 @@
     },
     {
         "description": "Talbot’s penultimate attempt at a serum. Though it did not facilitate his escape, it did have powerful side effects.<br><br><li>Any Survivor within <b>16 meters</b> of a Slam will suffer from the <b>Hindered</b> status effect for <b>3 seconds</b>.</li><li>Slamming pallets or breakable walls will destroy them and stun The Blight for <b>1.5 seconds.</b></li><br>",
-        "name": "Compound Thirty-Three ",
+        "name": "Compound Thirty-Three",
         "flavor": "\"Time is scarce. Let this be the one...\" —Talbot Grimes",
         "id": 1019,
         "index": "COMPOUND_THIRTY_THREE",
@@ -3874,7 +3874,7 @@
         "image": "iconAddon_babyTeeth"
     },
     {
-        "description": "A shoddily carved rattle that Victor cried over until his mother stole it for him. It’s entirely too heavy to be trusted to a child.<br><br><li>Survivors who remove Victor suffer from the <b>Broken</b> status effect for <b>20 seconds.</b></li> ",
+        "description": "A shoddily carved rattle that Victor cried over until his mother stole it for him. It’s entirely too heavy to be trusted to a child.<br><br><li>Survivors who remove Victor suffer from the <b>Broken</b> status effect for <b>20 seconds.</b></li>",
         "name": "Weighty Rattle",
         "id": 1059,
         "index": "WEIGHTY_RATTLE",
@@ -4258,7 +4258,7 @@
         "image": "iconAddon_tyrantGore"
     },
     {
-        "description": "A sample of the T-Virus developed by Umbrella Corporation, it causes extreme mutations and brain damage in its subjects.<li><b>Considerably increases</b> mutation rate when destroying zombies with Tentacle Strike. ",
+        "description": "A sample of the T-Virus developed by Umbrella Corporation, it causes extreme mutations and brain damage in its subjects.<li><b>Considerably increases</b> mutation rate when destroying zombies with Tentacle Strike.",
         "name": "T-Virus Sample",
         "id": 1160,
         "index": "T_VIRUS_SAMPLE",
@@ -4277,7 +4277,7 @@
     },
     {
         "description": "The tangled remnants of a plant infected with the T-Virus, it killed one of the researchers who developed it.<li><b>Considerably increases</b> time for Survivors to open Supply Cases.",
-        "name": "Plant 43 Vines ",
+        "name": "Plant 43 Vines",
         "id": 1162,
         "index": "PLANT_43_VINES",
         "owner": "NEMESIS",

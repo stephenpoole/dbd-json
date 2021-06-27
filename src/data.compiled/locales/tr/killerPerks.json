@@ -219,7 +219,7 @@
         "image": "iconPerks_sloppyButcher"
     },
     {
-        "description": "Çevredeki kargalar seninle doğrudan iletişim kuruyor. <span class=\"Highlight2\">{1} metre</span> mesafede öten kargalar <span class=\"Highlight1\">%{0}</span> oranla sana görsel işaretler sunar.<br><i>Gölgelerin Casusları</i> <span class=\"Highlight3\">{2} saniye</span> bekleme süresine sahiptir. ",
+        "description": "Çevredeki kargalar seninle doğrudan iletişim kuruyor. <span class=\"Highlight2\">{1} metre</span> mesafede öten kargalar <span class=\"Highlight1\">%{0}</span> oranla sana görsel işaretler sunar.<br><i>Gölgelerin Casusları</i> <span class=\"Highlight3\">{2} saniye</span> bekleme süresine sahiptir.",
         "name": "Gölgelerin Casusları",
         "flavor": "\"Gölgelerde geziyorlar, çığlıkları zihnimizi ele geçiriyor.\"",
         "id": 9,
@@ -1162,7 +1162,7 @@
         ]
     },
     {
-        "description": "Bir Kurban, başkasını senden en az <span class=\"Highlight1\">{0} metre</span> uzakta kancadan kurtardığında <i>Kararını Ver</i> kurtaran kişinin çığlık atmasına neden olur ve ona <span class=\"Highlight2\">{1} saniyeliğine</span> <b><i>Zayıf</i></b> durum etkisi uygular.<br><i>Kararını Ver</i>'in <span class=\"Highlight3\">{2} saniyelik</span> bekleme süresi bulunur. ",
+        "description": "Bir Kurban, başkasını senden en az <span class=\"Highlight1\">{0} metre</span> uzakta kancadan kurtardığında <i>Kararını Ver</i> kurtaran kişinin çığlık atmasına neden olur ve ona <span class=\"Highlight2\">{1} saniyeliğine</span> <b><i>Zayıf</i></b> durum etkisi uygular.<br><i>Kararını Ver</i>'in <span class=\"Highlight3\">{2} saniyelik</span> bekleme süresi bulunur.",
         "name": "Kararını Ver",
         "flavor": "\"Hayat kurtarmanın ne çok yolu var bir bilsen...\" -Amanda Young",
         "id": 44,
@@ -1915,7 +1915,7 @@
         ]
     },
     {
-        "description": "Hayatları karanlıkta birleşenlerin kaderinde birlikte acı çekmek var.<br><br>Bir Kurban, başka bir Kurban'ı Katil'den en az <span class=\"Highlight1\">{0} metre</span> uzaktayken bir sağlık aşaması iyileştirirse, iyileştiren Kurban çığlık atarak konumunu belli eder ve <span class=\"Highlight2\">{1} saniyeliğine</span> <i>Ölüm Kalım</i> devreye girer. O sırada Kurban, iyileştirilen Kurban'dan <span class=\"Highlight3\">{2} metreden</span> fazla uzaklaştığı anda <b>Bihaber</b> durum etkisi altına girer. ",
+        "description": "Hayatları karanlıkta birleşenlerin kaderinde birlikte acı çekmek var.<br><br>Bir Kurban, başka bir Kurban'ı Katil'den en az <span class=\"Highlight1\">{0} metre</span> uzaktayken bir sağlık aşaması iyileştirirse, iyileştiren Kurban çığlık atarak konumunu belli eder ve <span class=\"Highlight2\">{1} saniyeliğine</span> <i>Ölüm Kalım</i> devreye girer. O sırada Kurban, iyileştirilen Kurban'dan <span class=\"Highlight3\">{2} metreden</span> fazla uzaklaştığı anda <b>Bihaber</b> durum etkisi altına girer.",
         "name": "Ölüm Kalım",
         "id": 72,
         "index": "DEATHBOUND",

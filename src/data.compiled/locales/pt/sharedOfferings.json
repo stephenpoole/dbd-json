@@ -46,7 +46,7 @@
     },
     {
         "description": "Invoca a Entidade pelo <b>luar mais escuro</b>.",
-        "name": "Buquê da Lua Nova ",
+        "name": "Buquê da Lua Nova",
         "flavor": "\"Melhor voltar a dormir, não tem lua essa noite.\"",
         "id": 6,
         "index": "NEW_MOON_BOUQUET",
@@ -361,7 +361,7 @@
     },
     {
         "description": "<b>Aumenta incrivelmente</b> a chance de ser enviado para o Laboratório Nacional de Hawkins quando queimado.",
-        "name": "Laboratório Nacional de Hawkins ",
+        "name": "Laboratório Nacional de Hawkins",
         "flavor": "\"Uma carteira de identidade ensopada de sangue com um número de série.\"",
         "id": 42,
         "index": "HAWKINS_NATIONAL_LABORATORY_ID",

@@ -214,7 +214,7 @@
         "image": "iconPerks_sloppyButcher"
     },
     {
-        "description": "The crows found in the world can communicate with you directly. <span class=\"Highlight1\">{0}%</span> of the time, cawing crows give you a visual cue when you are within a <span class=\"Highlight2\">{1} meter</span> range.<br><i>Spies From The Shadows</i> has a cooldown of <span class=\"Highlight3\">{2} seconds.</span> ",
+        "description": "The crows found in the world can communicate with you directly. <span class=\"Highlight1\">{0}%</span> of the time, cawing crows give you a visual cue when you are within a <span class=\"Highlight2\">{1} meter</span> range.<br><i>Spies From The Shadows</i> has a cooldown of <span class=\"Highlight3\">{2} seconds.</span>",
         "name": "Spies from the Shadows",
         "flavor": "\"In the shadows they torment, scarring our minds with each scream.\"",
         "id": 9,
@@ -1152,7 +1152,7 @@
         ]
     },
     {
-        "description": "When a Survivor rescues another from a hook at least <span class=\"Highlight1\">{0} meters</span> away from you, <i>Make your Choice</i> causes the Survivor to scream and applies the <b><i>Exposed</i></b> status effect to them for <span class=\"Highlight2\">{1} seconds</span>.<br><i>Make your Choice</i> has a cooldown of <span class=\"Highlight3\">{2} seconds</span>. ",
+        "description": "When a Survivor rescues another from a hook at least <span class=\"Highlight1\">{0} meters</span> away from you, <i>Make your Choice</i> causes the Survivor to scream and applies the <b><i>Exposed</i></b> status effect to them for <span class=\"Highlight2\">{1} seconds</span>.<br><i>Make your Choice</i> has a cooldown of <span class=\"Highlight3\">{2} seconds</span>.",
         "name": "Make your Choice",
         "flavor": "\"You'd be surprised what tools can save a life.\" -Amanda Young",
         "id": 44,
@@ -1805,7 +1805,7 @@
     },
     {
         "description": "You become <b>obsessed</b> with one Survivor.<br><br>After hooking the Obsession, <i>Dead Man’s Switch</i> activates for the next <span class=\"Highlight1\">{0} seconds</span>. <br><br>While activated, any Survivor that stops repairing a generator before it is fully repaired causes The Entity to block the generator until <i>Dead Man’s Switch's</i> effect ends. <br><br>Affected generators are highlighted by a white aura.<br><br><i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i><br>",
-        "name": "Dead Man’s Switch\t",
+        "name": "Dead Man’s Switch",
         "flavor": "\"I've seen the look on a man's face when he realizes he's going to die.\" -Caleb Quinn",
         "id": 68,
         "index": "DEAD_MANS_SWITCH",
@@ -1905,7 +1905,7 @@
         ]
     },
     {
-        "description": "Those whose lives are intertwined in darkness are destined to suffer together.<br><br>When a Survivor heals another Survivor for one health state at least <span class=\"Highlight1\">{0} meters</span> away from the Killer, the Survivor performing the healing action will scream, revealing their location and activating <i>Deathbound</i> for the next <span class=\"Highlight2\">{1} seconds.</span> During that time, the Survivor will suffer from the <b>Oblivious</b> status effect when further than <span class=\"Highlight3\">{2} meters</span> away from the healed Survivor. ",
+        "description": "Those whose lives are intertwined in darkness are destined to suffer together.<br><br>When a Survivor heals another Survivor for one health state at least <span class=\"Highlight1\">{0} meters</span> away from the Killer, the Survivor performing the healing action will scream, revealing their location and activating <i>Deathbound</i> for the next <span class=\"Highlight2\">{1} seconds.</span> During that time, the Survivor will suffer from the <b>Oblivious</b> status effect when further than <span class=\"Highlight3\">{2} meters</span> away from the healed Survivor.",
         "name": "Deathbound",
         "id": 72,
         "index": "DEATHBOUND",

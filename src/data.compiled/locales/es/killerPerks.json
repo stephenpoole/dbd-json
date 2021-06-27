@@ -1152,7 +1152,7 @@
         ]
     },
     {
-        "description": "Cuando un superviviente rescata a otro de un gancho a una distancia de al menos <span class=\"Highlight1\">{0} metros</span> de ti, <i>Toma una decisión</i> hace gritar al superviviente y le aplica el efecto de estado <b><i>Vulnerabilidad</i></b> durante <span class=\"Highlight2\">{1} segundos</span>.<br><i>Toma una decisión</i> tiene un tiempo de recarga de <span class=\"Highlight3\">{2} segundos</span>. ",
+        "description": "Cuando un superviviente rescata a otro de un gancho a una distancia de al menos <span class=\"Highlight1\">{0} metros</span> de ti, <i>Toma una decisión</i> hace gritar al superviviente y le aplica el efecto de estado <b><i>Vulnerabilidad</i></b> durante <span class=\"Highlight2\">{1} segundos</span>.<br><i>Toma una decisión</i> tiene un tiempo de recarga de <span class=\"Highlight3\">{2} segundos</span>.",
         "name": "Toma una decisión",
         "flavor": "\"Te sorprenderían las herramientas que pueden salvar vidas\". (Amanda Young)",
         "id": 44,
@@ -1905,7 +1905,7 @@
         ]
     },
     {
-        "description": "Aquellos cuyas vidas se entrelazan en la oscuridad están destinados a sufrir juntos.<br><br>Cuando un superviviente cura un estado de salud a otro a al menos <span class=\"Highlight1\">{0} metros</span> del asesino, el superviviente que esté realizando la curación gritará, revelará su ubicación y activará <i>Vínculo mortal</i> durante los siguientes <span class=\"Highlight2\">{1} segundos.</span> Durante ese tiempo, el superviviente sufrirá el efecto de estado <b>Inconsciencia</b> cuando esté a más de <span class=\"Highlight3\">{2} metros</span> del superviviente al que ha curado. ",
+        "description": "Aquellos cuyas vidas se entrelazan en la oscuridad están destinados a sufrir juntos.<br><br>Cuando un superviviente cura un estado de salud a otro a al menos <span class=\"Highlight1\">{0} metros</span> del asesino, el superviviente que esté realizando la curación gritará, revelará su ubicación y activará <i>Vínculo mortal</i> durante los siguientes <span class=\"Highlight2\">{1} segundos.</span> Durante ese tiempo, el superviviente sufrirá el efecto de estado <b>Inconsciencia</b> cuando esté a más de <span class=\"Highlight3\">{2} metros</span> del superviviente al que ha curado.",
         "name": "Vínculo mortal",
         "id": 72,
         "index": "DEATHBOUND",

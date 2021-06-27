@@ -1269,7 +1269,7 @@
     {
         "description": "Nie ma nic, co mogłoby cię powstrzymać. W beznadziejnych sytuacjach twoja nadludzka wytrwałość sprawia, że czołgasz się <span class=\"Highlight1\">{0}%</span> szybciej. Oprócz tego możesz się jednocześnie regenerować.<br>",
         "name": "Wytrwałość",
-        "flavor": " „Co to jest, do diabła? Nie ma co, pokażę temu czemuś gdzie raki zimują!” – Detektyw David Tapp",
+        "flavor": "„Co to jest, do diabła? Nie ma co, pokażę temu czemuś gdzie raki zimują!” – Detektyw David Tapp",
         "id": 147,
         "index": "TENACITY",
         "rarity": [
@@ -1917,7 +1917,7 @@
     {
         "description": "Masz wiele zadrapań i siniaków, ale szczęście zawsze się do ciebie uśmiecha.<br><br><i>Łut Szczęścia</i> aktywuje się za każdym razem, gdy odniesiesz obrażenia. Kiedy <i>Łut Szczęścia</i> jest aktywny, nie zostawiasz za sobą plam krwi ani czerwonych zarysowań przez łącznie <span class=\"Highlight1\">{0} s</span>.<br><br><i>Łut Szczęścia</i> zostaje na stałe wyłączony do końca próby po wykorzystaniu całego czasu.<br>",
         "name": "Łut Szczęścia",
-        "flavor": "„To zdecydowanie za mało, żeby mnie pokonać”. – Yui Kimura ",
+        "flavor": "„To zdecydowanie za mało, żeby mnie pokonać”. – Yui Kimura",
         "id": 171,
         "index": "LUCKY_BREAK",
         "rarity": [
@@ -1942,7 +1942,7 @@
     {
         "description": "Walczysz o swoje, korzystając ze wszystkiego, co masz pod ręką, by zyskać przewagę.<br><br>Naciśnij <i>przycisk aktywnej umiejętności</i> i przytrzymaj go przez <span class=\"Highlight1\">{0} s</span>, stojąc obok przewróconej palety, aby z powrotem ją postawić.<br><br>Umiejętność <i>Po Trupach do Celu</i> odnawia się po upływie <span class=\"Highlight2\">{1} s</span>.<br>",
         "name": "Po Trupach do Celu",
-        "flavor": "„Zaatakuję Cię wszystkim, co mam. Później zrobię to jeszcze raz”. – Yui Kimura ",
+        "flavor": "„Zaatakuję Cię wszystkim, co mam. Później zrobię to jeszcze raz”. – Yui Kimura",
         "id": 172,
         "index": "ANY_MEANS_NECESSARY",
         "rarity": [
@@ -1970,7 +1970,7 @@
     {
         "description": "Pracujesz na wyższych obrotach, gdy ktoś ma kłopoty, i inspirujesz innych do radzenia sobie z problemami.<br><br>W odległości <span class=\"Highlight1\">{0} m</span> od niesionego ocalałego otrzymujesz efekt <span class=\"Highlight2\">Pośpiech</span> i poruszasz się z prędkością zwiększoną o <span class=\"Highlight3\">{1}%</span>. Prędkość szamotania się niesionego ocalałego zostaje zwiększona o <span class=\"Highlight4\">{2}%</span>.<br>",
         "name": "Ucieczka",
-        "flavor": "„Chodź, jakoś się z tego wygrzebiemy”. – Yui Kimura ",
+        "flavor": "„Chodź, jakoś się z tego wygrzebiemy”. – Yui Kimura",
         "id": 173,
         "index": "BREAKOUT",
         "rarity": [
@@ -2129,7 +2129,7 @@
     },
     {
         "description": "Unikanie złowrogich mocy nie jest dla ciebie niczym nowym i potrafisz obrócić to na własną korzyść.<br><br><i>Stłumiony sojusz</i> aktywuje się po naprawianiu generatorów przez łącznie <span class=\"Highlight1\">{0} s.</span><br><br>Podczas naprawy generatora z aktywną umiejętnością naciśnij <i>przycisk aktywnej umiejętności</i>, aby wezwać Byt i zablokować generator na <span class=\"Highlight2\">{1} s.</span> Umiejętność wyłącza się.<br><br>Zablokowane generatory zostaną podświetlone białą aurą dla wszystkich ocalałych.",
-        "name": "Stłumiony sojusz ",
+        "name": "Stłumiony sojusz",
         "id": 179,
         "index": "REPRESSED_ALLIANCE",
         "rarity": [

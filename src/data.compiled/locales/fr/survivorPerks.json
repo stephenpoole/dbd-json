@@ -1348,7 +1348,7 @@
         ]
     },
     {
-        "description": "Lors d'un saut d'obstacle rapide ou si vous quittez un casier en vitesse, vous ne laissez pas de marques d'éraflure pendant <span class=\"Highlight1\">{0} secondes</span>.<br><i>Danse avec moi</i> a un temps de récupération de <span class=\"Highlight4\">{1} secondes</span>. ",
+        "description": "Lors d'un saut d'obstacle rapide ou si vous quittez un casier en vitesse, vous ne laissez pas de marques d'éraflure pendant <span class=\"Highlight1\">{0} secondes</span>.<br><i>Danse avec moi</i> a un temps de récupération de <span class=\"Highlight4\">{1} secondes</span>.",
         "name": "Danse avec moi",
         "flavor": "« Un autre spectacle est monté, <br>Danse avec moi car la tempête va éclater, <br>Suis mes pas, essaie de m'imiter,<br>Danse avec moi jusqu'à l'aurore tant espérée. »<br> - « Danse avec moi » de Kate Denson",
         "id": 150,
@@ -1376,7 +1376,7 @@
         ]
     },
     {
-        "description": "Débloque le potentiel de repérage d'aura. L'aura des palettes, des murs destructibles et des sauts d'obstacles vous est révélée dans un rayon de <span class=\"Highlight1\">{0} mètres</span>. <br><i>Parfaite occasion</i> a un temps de récupération de <span class=\"Highlight1\">{1} secondes</span> lorsque vous faites tomber une palette ou lors d'un saut d'obstacles pendant une poursuite. ",
+        "description": "Débloque le potentiel de repérage d'aura. L'aura des palettes, des murs destructibles et des sauts d'obstacles vous est révélée dans un rayon de <span class=\"Highlight1\">{0} mètres</span>. <br><i>Parfaite occasion</i> a un temps de récupération de <span class=\"Highlight1\">{1} secondes</span> lorsque vous faites tomber une palette ou lors d'un saut d'obstacles pendant une poursuite.",
         "name": "Parfaite occasion",
         "flavor": "« Haut les cœurs, travaillez dur, faites-vous un nom, <br>Visez, tirez, le centre de la cible fera votre renom, <br>Sachez la valeur de la foi, de la famille et interdit d'être grognon, <br>Ouvrez grand, voici venue votre parfaite occasion. »<br> - « Fenêtre d'opportunité » de Kate Denson",
         "id": 151,
@@ -1917,7 +1917,7 @@
     {
         "description": "Vous avez encaissé votre lot de coups et de bleus, mais la chance a toujours été de votre côté.<br><br><i>Coup de chance</i> s’active quand vous êtes blessé. Tant que <i>Coup de chance</i> est actif, vous ne laissez pas de traces de sang ni de marques d’éraflures pendant un total de <span class=\"Highlight1\">{0} secondes</span>.<br><br>Une fois cette durée écoulée, <i>Coup de chance</i> est désactivé de manière permanente pour le reste de la partie.<br>",
         "name": "Coup de chance",
-        "flavor": "« Ça ne suffit pas pour me vaincre. Loin de là. » - Yui Kimura ",
+        "flavor": "« Ça ne suffit pas pour me vaincre. Loin de là. » - Yui Kimura",
         "id": 171,
         "index": "LUCKY_BREAK",
         "rarity": [
@@ -1942,7 +1942,7 @@
     {
         "description": "Vous vous battez pour vous-même, utilisant tout ce qui vous passe par la main pour avoir l’avantage.<br><br>Appuyez et maintenez le <i>bouton de capacité active</i> pendant <span class=\"Highlight1\">{0} secondes</span> à côté d’une palette lâchée pour la réinitialiser en position verticale.<br><br><i>Par tous les moyens</i> a un temps de recharge de <span class=\"Highlight2\">{1} secondes</span>.<br>",
         "name": "Par tous les moyens",
-        "flavor": "« Je vais te frapper de toutes mes forces. Et après, je vais recommencer. » - Yui Kimura ",
+        "flavor": "« Je vais te frapper de toutes mes forces. Et après, je vais recommencer. » - Yui Kimura",
         "id": 172,
         "index": "ANY_MEANS_NECESSARY",
         "rarity": [
@@ -1970,7 +1970,7 @@
     {
         "description": "Quand quelqu’un a des problèmes, vous vous donnez à fond et vous poussez les autres à surmonter les obstacles.<br><br>À <span class=\"Highlight1\">{0} mètres</span> maximum d’un survivant transporté, vous bénéficiez de l’effet de statut <span class=\"Highlight2\">Rapidité</span>, votre vitesse de mouvement augmente de <span class=\"Highlight3\">{1} %</span> et la vitesse de gigotement du survivant transporté augmente de <span class=\"Highlight4\">{2} %</span>.<br>",
         "name": "Fugue",
-        "flavor": "« Allez, on va se tailler une sortie. » - Yui Kimura ",
+        "flavor": "« Allez, on va se tailler une sortie. » - Yui Kimura",
         "id": 173,
         "index": "BREAKOUT",
         "rarity": [
@@ -2129,7 +2129,7 @@
     },
     {
         "description": "Vous avez l'habitude que des forces maléfiques vous poursuivent et vous avez commencé à l’utiliser à votre avantage.<br><br><i>Alliance inhibée</i> s’active après avoir réparé des générateurs pendant un total de <span class=\"Highlight1\">{0} secondes.</span><br><br>Quand vous réparez un générateur avec la compétence active, appuyez sur le <i>bouton de capacité active</i> pour faire appel à l’Entité afin de bloquer le générateur pendant <span class=\"Highlight2\">{1} secondes.</span> La compétence se désactive.<br><br>Les générateurs affectés sont indiqués par une aura blanche à tous les survivants.",
-        "name": "Alliance inhibée ",
+        "name": "Alliance inhibée",
         "id": 179,
         "index": "REPRESSED_ALLIANCE",
         "rarity": [

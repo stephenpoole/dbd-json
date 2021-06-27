@@ -54,7 +54,7 @@
         ]
     },
     {
-        "description": "Sua emanação horripilante atinge uma distância sobrenatural. Seu raio de terror cresce em <span class=\"Highlight1\">{0}%</span> e você recebe <span class=\"Highlight2\">{1}%</span> mais Pontos de Sangue por ações na categoria Destreza. ",
+        "description": "Sua emanação horripilante atinge uma distância sobrenatural. Seu raio de terror cresce em <span class=\"Highlight1\">{0}%</span> e você recebe <span class=\"Highlight2\">{1}%</span> mais Pontos de Sangue por ações na categoria Destreza.",
         "name": "Angustiante",
         "flavor": "\"Delicie-se com o medo deles.\"",
         "id": 3,
@@ -214,7 +214,7 @@
         "image": "iconPerks_sloppyButcher"
     },
     {
-        "description": "Os corvos encontrados no mundo podem se comunicar diretamente com você. <span class=\"Highlight1\">{0}%</span> das vezes, corvos grasnando são uma indicação visual quando você estiver num raio de <span class=\"Highlight2\">{1} m</span>.<br><i>Espiões das Sombras</i> tem um tempo de recarga de <span class=\"Highlight3\">{2} s.</span> ",
+        "description": "Os corvos encontrados no mundo podem se comunicar diretamente com você. <span class=\"Highlight1\">{0}%</span> das vezes, corvos grasnando são uma indicação visual quando você estiver num raio de <span class=\"Highlight2\">{1} m</span>.<br><i>Espiões das Sombras</i> tem um tempo de recarga de <span class=\"Highlight3\">{2} s.</span>",
         "name": "Espiões das Sombras",
         "flavor": "\"Eles nos atormentam das sombras, ferindo nossas mentes com cada crocito.\"",
         "id": 9,
@@ -1152,7 +1152,7 @@
         ]
     },
     {
-        "description": "Quando um Sobrevivente resgatar outro de um Gancho a pelo menos <span class=\"Highlight1\">{0} m</span> de distância de você, a habilidade <i>Faça a sua Escolha</i> faz o Sobrevivente gritar e aplica o efeito do estado <b><i>Exposto</i></b> nele por <span class=\"Highlight2\">{1} s</span>.<br><i>Faça a sua Escolha</i> tem um tempo de recarga de <span class=\"Highlight3\">{2} s</span>. ",
+        "description": "Quando um Sobrevivente resgatar outro de um Gancho a pelo menos <span class=\"Highlight1\">{0} m</span> de distância de você, a habilidade <i>Faça a sua Escolha</i> faz o Sobrevivente gritar e aplica o efeito do estado <b><i>Exposto</i></b> nele por <span class=\"Highlight2\">{1} s</span>.<br><i>Faça a sua Escolha</i> tem um tempo de recarga de <span class=\"Highlight3\">{2} s</span>.",
         "name": "Faça a sua Escolha",
         "flavor": "\"Você ficaria surpreso com as ferramentas que podem salvar uma vida.\" — Amanda Young",
         "id": 44,
@@ -1905,7 +1905,7 @@
         ]
     },
     {
-        "description": "Sofrer juntos é o destino daqueles cujas vidas estão entrelaçadas em escuridão.<br><br>Quando um Sobrevivente cura outro em 1 estado de saúde a pelo menos <span class=\"Highlight1\">{0} m</span> do Assassino, o Sobrevivente que estiver curando gritará, ativando <i>Letalidade</i> pelos próximos <span class=\"Highlight2\">{1} s.</span> Durante este período, o Sobrevivente sofrerá do efeito do estado <b>Alheio</b> se ficar a mais de <span class=\"Highlight3\">{2} m</span> do Sobrevivente curado. ",
+        "description": "Sofrer juntos é o destino daqueles cujas vidas estão entrelaçadas em escuridão.<br><br>Quando um Sobrevivente cura outro em 1 estado de saúde a pelo menos <span class=\"Highlight1\">{0} m</span> do Assassino, o Sobrevivente que estiver curando gritará, ativando <i>Letalidade</i> pelos próximos <span class=\"Highlight2\">{1} s.</span> Durante este período, o Sobrevivente sofrerá do efeito do estado <b>Alheio</b> se ficar a mais de <span class=\"Highlight3\">{2} m</span> do Sobrevivente curado.",
         "name": "Letalidade",
         "id": 72,
         "index": "DEATHBOUND",

@@ -1348,7 +1348,7 @@
         ]
     },
     {
-        "description": "Beim Durchführen eines schnellen Sprungs oder beim Verlassen eines Schließschranks mit einem Sprint, hinterlässt du für <span class=\"Highlight1\">{0} Sekunden</span> keine Kratzspuren.<br><i>„Tanz mit mir“</i> hat einen Cooldown von <span class=\"Highlight4\">{1} Sekunden</span>. ",
+        "description": "Beim Durchführen eines schnellen Sprungs oder beim Verlassen eines Schließschranks mit einem Sprint, hinterlässt du für <span class=\"Highlight1\">{0} Sekunden</span> keine Kratzspuren.<br><i>„Tanz mit mir“</i> hat einen Cooldown von <span class=\"Highlight4\">{1} Sekunden</span>.",
         "name": "Tanz mit mir",
         "flavor": "„Bereit für die nächste Show, <br>tanz mit mir, ja, genauso. <br>Mach’s mir nach, ’ne Pause gibt’s nicht,<br>tanz mit mir, bis der Tag anbricht.“<br>-Kate Densons „Tanz mit mir“",
         "id": 150,
@@ -1376,7 +1376,7 @@
         ]
     },
     {
-        "description": "Entfesselt das Potenzial der Aurawahrnehmungsfähigkeit. Auren von Paletten, zerstörbaren Wänden und Objekten, über die gesprungen werden kann, werden dir innerhalb eines Umkreises von <span class=\"Highlight1\">{0} Metern</span> angezeigt. <br><i>Gelegenheiten nutzen</i> hat eine Abklingzeit von <span class=\"Highlight1\">{1} Sekunden</span> beim Springen oder Umstoßen einer Palette während einer Jagd. ",
+        "description": "Entfesselt das Potenzial der Aurawahrnehmungsfähigkeit. Auren von Paletten, zerstörbaren Wänden und Objekten, über die gesprungen werden kann, werden dir innerhalb eines Umkreises von <span class=\"Highlight1\">{0} Metern</span> angezeigt. <br><i>Gelegenheiten nutzen</i> hat eine Abklingzeit von <span class=\"Highlight1\">{1} Sekunden</span> beim Springen oder Umstoßen einer Palette während einer Jagd.",
         "name": "Gelegenheit nutzen",
         "flavor": "„Arbeite hart und mit Geschick, <br>verlier dein Ziel nicht aus dem Blick. <br>Der Erfolg ist nicht mehr weit,<br>nutze die Gelegenheit.“<br>– Kate Densons \"Gelegenheit nutzen\"",
         "id": 151,
@@ -1917,7 +1917,7 @@
     {
         "description": "Du hast schon reichlich Kratzer und Prellungen abbekommen, aber das Glück ist immer auf deiner Seite.<br><br><i>Glück gehabt</i> wird immer dann aktiviert, wenn du verletzt bist. Solange <i>Glück gehabt</i> aktiv ist, hinterlässt du für insgesamt <span class=\"Highlight1\">{0} Sekunden</span> keine Blutspuren oder Kratzspuren.<br><br><i>Glück gehabt</i> wird für den Rest der Prüfung dauerhaft deaktiviert, wenn die Gesamtdauer verstrichen ist.<br>",
         "name": "Glück gehabt",
-        "flavor": "„Das reicht nicht, um mich zu schlagen. Nicht einmal ansatzweise.“ –Yui Kimura ",
+        "flavor": "„Das reicht nicht, um mich zu schlagen. Nicht einmal ansatzweise.“ –Yui Kimura",
         "id": 171,
         "index": "LUCKY_BREAK",
         "rarity": [
@@ -1970,7 +1970,7 @@
     {
         "description": "Wenn jemand in der Klemme steckt, schaltest du einen Gang hoch und inspirierst ihn, jedes Hindernis zu überwinden.<br><br>Im Umkreis von <span class=\"Highlight1\">{0} Metern</span> um einen getragenen Überlebenden erhältst du den Statuseffekt <span class=\"Highlight2\">Eile</span> und bewegst dich mit <span class=\"Highlight3\">{1} %</span> höherer Geschwindigkeit. Die Geschwindigkeit beim Herauswinden des Überlebenden erhöht sich um <span class=\"Highlight4\">{2} %</span>.<br>",
         "name": "Ausbruch",
-        "flavor": "„Komm, wir werden schon einen Weg hier heraus finden.“ –Yui Kimura ",
+        "flavor": "„Komm, wir werden schon einen Weg hier heraus finden.“ –Yui Kimura",
         "id": 173,
         "index": "BREAKOUT",
         "rarity": [
@@ -2129,7 +2129,7 @@
     },
     {
         "description": "Du bist daran gewöhnt, von boshaften Kräften gejagt zu werden, und du hast angefangen, dies zu deinem Vorteil zu nutzen.<br><br><i>Verdrängtes Bündnis</i> wird aktiviert, nach dem Generatoren für insgesamt <span class=\"Highlight1\">{0} Sekunden</span> repariert wurden.<br><br>Reparierst du einen Generator, während dieses Talent aktiv ist, kannst du die <i>Taste für die aktive Fähigkeit</i> drücken, um den Entitus zu rufen, damit er den Generator für <span class=\"Highlight2\">{1} Sekunden</span> blockiert. Das Talent wird dann deaktiviert.<br><br>Betroffene Generatoren sind für alle Überlebenden anhand einer weißen Aura zu erkennen.",
-        "name": "Verdrängtes Bündnis ",
+        "name": "Verdrängtes Bündnis",
         "id": 179,
         "index": "REPRESSED_ALLIANCE",
         "rarity": [

@@ -46,7 +46,7 @@
     },
     {
         "description": "<b>Ay ışığını en karanlık seviyeye</b> getirmesi için Mahluk'u çağırır.",
-        "name": "Yeniay Buketi ",
+        "name": "Yeniay Buketi",
         "flavor": "\"En iyisi uykuma geri döneyim. Nasılsa bu gece havada ay yok.\"",
         "id": 6,
         "index": "NEW_MOON_BOUQUET",
@@ -361,7 +361,7 @@
     },
     {
         "description": "Yakıldığında Hawkins Ulusal Laboratuvarı'na gönderilme ihtimalini <b>olağanüstü düzeyde</b> arttırır.",
-        "name": "Hawkins Ulusal Laboratuvarı Kimlik Kartı ",
+        "name": "Hawkins Ulusal Laboratuvarı Kimlik Kartı",
         "flavor": "\"Islak, kan lekeli ve seri numarası olan bir kimlik kartı.\"",
         "id": 42,
         "index": "HAWKINS_NATIONAL_LABORATORY_ID",

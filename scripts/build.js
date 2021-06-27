@@ -93,9 +93,9 @@ const compileStrings = async language => {
         .map(({ description, story, name, ...data }) => {
             if (description in keys && story in keys && name in keys) {
                 return {
-                    description: keys[description],
-                    name: keys[name],
-                    story: keys[story],
+                    description: keys[description].trim(),
+                    name: keys[name].trim(),
+                    story: keys[story].trim(),
                     ...data,
                 };
             }
@@ -124,8 +124,8 @@ const compileStrings = async language => {
         .map(({ name, description, ...data }) => {
             if (description in keys && name in keys) {
                 return {
-                    description: keys[description],
-                    name: keys[name],
+                    description: keys[description].trim(),
+                    name: keys[name].trim(),
                     ...data,
                 };
             }
@@ -149,9 +149,9 @@ const compileStrings = async language => {
         .map(({ description, name, story, ...data }) => {
             if (description in keys && story in keys && name in keys) {
                 return {
-                    description: keys[description],
-                    name: keys[name],
-                    story: keys[story],
+                    description: keys[description].trim(),
+                    name: keys[name].trim(),
+                    story: keys[story].trim(),
                     ...data,
                 };
             }
@@ -181,9 +181,9 @@ const compileStrings = async language => {
             if (description in keys && name in keys) {
                 const { description: newDescription, flavor } = getFlavorText(keys[description]);
                 return {
-                    description: newDescription,
-                    name: keys[name],
-                    ...(flavor && { flavor }),
+                    description: newDescription.trim(),
+                    name: keys[name].trim(),
+                    ...(flavor && { flavor: flavor.trim() }),
                     ...data,
                 };
             }
@@ -208,9 +208,9 @@ const compileStrings = async language => {
             if (description in keys && name in keys) {
                 const { description: newDescription, flavor } = getFlavorText(keys[description]);
                 return {
-                    description: newDescription,
-                    name: keys[name],
-                    ...(flavor && { flavor }),
+                    description: newDescription.trim(),
+                    name: keys[name].trim(),
+                    ...(flavor && { flavor: flavor.trim() }),
                     ...data,
                 };
             }
@@ -237,9 +237,9 @@ const compileStrings = async language => {
             if (description in keys && name in keys) {
                 const { description: newDescription, flavor } = getFlavorText(keys[description]);
                 return {
-                    description: newDescription,
-                    name: keys[name],
-                    ...(flavor && { flavor }),
+                    description: newDescription.trim(),
+                    name: keys[name].trim(),
+                    ...(flavor && { flavor: flavor.trim() }),
                     ...data,
                 };
             }
@@ -266,9 +266,9 @@ const compileStrings = async language => {
             if (description in keys && name in keys) {
                 const { description: newDescription, flavor } = getFlavorText(keys[description]);
                 return {
-                    description: newDescription,
-                    name: keys[name],
-                    ...(flavor && { flavor }),
+                    description: newDescription.trim(),
+                    name: keys[name].trim(),
+                    ...(flavor && { flavor: flavor.trim() }),
                     ...data,
                 };
             }
@@ -295,9 +295,9 @@ const compileStrings = async language => {
             if (description in keys && name in keys) {
                 const { description: newDescription, flavor } = getFlavorText(keys[description]);
                 return {
-                    description: newDescription,
-                    name: keys[name],
-                    ...(flavor && { flavor }),
+                    description: newDescription.trim(),
+                    name: keys[name].trim(),
+                    ...(flavor && { flavor: flavor.trim() }),
                     ...data,
                 };
             }
@@ -324,9 +324,9 @@ const compileStrings = async language => {
             if (description in keys && name in keys) {
                 const { description: newDescription, flavor } = getFlavorText(keys[description]);
                 return {
-                    description: newDescription,
-                    name: keys[name],
-                    ...(flavor && { flavor }),
+                    description: newDescription.trim(),
+                    name: keys[name].trim(),
+                    ...(flavor && { flavor: flavor.trim() }),
                     ...data,
                 };
             }
@@ -353,9 +353,9 @@ const compileStrings = async language => {
             if (description in keys && name in keys) {
                 const { description: newDescription, flavor } = getFlavorText(keys[description]);
                 return {
-                    description: newDescription,
-                    name: keys[name],
-                    ...(flavor && { flavor }),
+                    description: newDescription.trim(),
+                    name: keys[name].trim(),
+                    ...(flavor && { flavor: flavor.trim() }),
                     ...data,
                 };
             }
@@ -439,9 +439,9 @@ const compileStrings = async language => {
             if (description in keys && name in keys) {
                 const { description: newDescription, flavor } = getFlavorText(keys[description]);
                 return {
-                    description: newDescription,
-                    name: keys[name],
-                    ...(flavor && { flavor }),
+                    description: newDescription.trim(),
+                    name: keys[name].trim(),
+                    ...(flavor && { flavor: flavor.trim() }),
                     ...data,
                 };
             }

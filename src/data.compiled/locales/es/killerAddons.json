@@ -1978,7 +1978,7 @@
         "image": "iconAddon_robinFeather"
     },
     {
-        "description": "Parte del atuendo habitual del Payaso. Los dedos cortados aportan mayor facilidad de movimientos.\n<li>Cambian el ángulo de lanzamiento de botellas.</li>\n",
+        "description": "Parte del atuendo habitual del Payaso. Los dedos cortados aportan mayor facilidad de movimientos.\n<li>Cambian el ángulo de lanzamiento de botellas.</li>",
         "name": "Guantes sin dedos",
         "id": 552,
         "index": "FINGERLESS_PARADE_GLOVES",
@@ -2755,7 +2755,7 @@
     },
     {
         "description": "Correas negras que lo mantienen todo en su sitio mientras andas al acecho.<br><li><b>Aumenta ligeramente</b> la velocidad de movimiento mientras estás en cuclillas.</li>",
-        "name": "Correas de sujeción ",
+        "name": "Correas de sujeción",
         "id": 758,
         "index": "CINCH_STRAPS",
         "owner": "GHOST",
@@ -3063,7 +3063,7 @@
     {
         "description": "Si la cuerda hubiera sido más fuerte, Kazan seguramente no hubiera podido liberarse. Pero no fue el caso, así que consiguió escaparse y asesinó a sus secuestradores.<li><b>Aumenta ligeramente</b> la distancia a la que se puede detectar las auras de los orbes de sangre.</li>",
         "name": "Cuerda podrida",
-        "flavor": "\"Aunque la muerte siempre está observando, se sabe que a veces parpadea\". (Doctrina de Renjiro, 14:5) ",
+        "flavor": "\"Aunque la muerte siempre está observando, se sabe que a veces parpadea\". (Doctrina de Renjiro, 14:5)",
         "id": 851,
         "index": "ROTTING_ROPE",
         "owner": "ONI",
@@ -3239,7 +3239,7 @@
     },
     {
         "description": "Un mugriento jirón de arpillera. Bastaba con un escupitajo y con frotar un poco para limpiar el lanzaarpones en el fragor de un tiroteo.<li><b>Reduce ligeramente</b> el tiempo de recarga del lanzaarpones tras errar el tiro.</li>",
-        "name": "Trapo pulidor ensalivado ",
+        "name": "Trapo pulidor ensalivado",
         "id": 900,
         "index": "SPIT_POLISH_RAG",
         "owner": "DEATHSLINGER",
@@ -3248,7 +3248,7 @@
     },
     {
         "description": "Una tintura elaborada a base de aceites y extractos, comprada a un vendedor ambulante. Supuestamente cura cualquier dolencia.<li><b>Aumenta ligeramente</b> la velocidad de recogida del lanzaarpones.</li>",
-        "name": "Aceite de serpiente ",
+        "name": "Aceite de serpiente",
         "id": 901,
         "index": "SNAKE_OIL",
         "owner": "DEATHSLINGER",
@@ -3266,7 +3266,7 @@
     },
     {
         "description": "Una cartuchera antigua, modificada por Caleb para usarla con su armamento especializado. Sigue conteniendo tierra fina y roja del desierto de Arizona.<li><b>Aumenta ligeramente</b> la velocidad de recarga del lanzaarpones.</li>",
-        "name": "Cartuchera modificada ",
+        "name": "Cartuchera modificada",
         "id": 903,
         "index": "MODIFIED_AMMO_BELT",
         "owner": "DEATHSLINGER",
@@ -3275,7 +3275,7 @@
     },
     {
         "description": "Un clavo de ferrocarril que Caleb amarró al frontal del lanzaarpones en un momento de curiosidad morbosa. La punta roma evita que se clave limpiamente en su objetivo.<li>Golpear a un superviviente arponeado inflige el efecto de estado <b>Laceración</b>.</li>",
-        "name": "Clavo oxidado ",
+        "name": "Clavo oxidado",
         "id": 904,
         "index": "RUSTED_SPIKE",
         "owner": "DEATHSLINGER",
@@ -3293,7 +3293,7 @@
     },
     {
         "description": "Una placa plateada recogida del cuerpo de un agente del orden público que había metido las narices en los asuntos de la banda de Hellshire en Arizona.<li><b>Reduce ligeramente</b> el radio de terror mientras apuntas con la mira del lanzaarpones.</li><li><b>Reduce ligeramente</b> la velocidad de movimiento mientras apuntas con la mira del lanzaarpones.</li><span class=\"FlavorText\">\"Ve rezando lo que sepas, estarás colgando del cuello antes del mediodía\". (Caleb Quinn)</span>",
-        "name": "Placa de sheriff ",
+        "name": "Placa de sheriff",
         "id": 906,
         "index": "MARSHALS_BADGE",
         "owner": "DEATHSLINGER",
@@ -3302,7 +3302,7 @@
     },
     {
         "description": "La bala que atravesó la mandíbula de Caleb durante un frenético tiroteo. Revive un vehemente deseo de venganza.<li><b>Aumenta ligeramente</b> la velocidad de movimiento mientras apuntas con la mira del lanzaarpones.</li><span class=\"FlavorText\">\"Llamaste a la muerte a tu puerta en el instante en que me agraviaste\". (Caleb Quinn)</span>",
-        "name": "Destrozamandíbulas ",
+        "name": "Destrozamandíbulas",
         "id": 907,
         "index": "JAW_SMASHER",
         "owner": "DEATHSLINGER",
@@ -3320,7 +3320,7 @@
     },
     {
         "description": "El leve tintineo de las llaves evoca furibundos recuerdos en Caleb.<li><b>Aumenta moderadamente</b> la velocidad de recarga del lanzaarpones.</li>",
-        "name": "Llaves del alcaide ",
+        "name": "Llaves del alcaide",
         "id": 909,
         "index": "WARDENS_KEYS",
         "owner": "DEATHSLINGER",
@@ -3329,7 +3329,7 @@
     },
     {
         "description": "Los amarillentos restos de un cartel de \"Se busca\" que muestra a Mason Kelly. Mantenía a Caleb centrado en la caza.<li><b>Aumenta moderadamente</b> la velocidad de movimiento mientras apuntas con la mira del lanzaarpones.</li><span class=\"FlavorText\">\"Vas a desear no haber nacido, te lo juro por la memoria de mi madre\". (Caleb Quinn)</span>",
-        "name": "Cartel de \"Se busca\" ",
+        "name": "Cartel de \"Se busca\"",
         "id": 910,
         "index": "WANTED_POSTER",
         "owner": "DEATHSLINGER",
@@ -3338,7 +3338,7 @@
     },
     {
         "description": "Una lata con una pequeña cantidad de aceite para reducir la fricción en la maquinaria. Los primeros modelos de lanzaarpones tenían la mala reputación de atascarse y hacía falta tener aceite a mano.<li><b>Reduce moderadamente</b> el tiempo de recarga del lanzaarpones tras errar el tiro.</li>",
-        "name": "Lata de aceite ",
+        "name": "Lata de aceite",
         "id": 911,
         "index": "TIN_OIL_CAN",
         "owner": "DEATHSLINGER",
@@ -3347,7 +3347,7 @@
     },
     {
         "description": "Encolerizado por un botín que ya se le había escapado dos veces, Caleb retorció ramas espinosas alrededor de un arpón y lo soltó.<li>Los supervivientes que se liberen del lanzaarpones sufren el efecto de estado <b>Laceración</b>.</li>",
-        "name": "Espinas de acacia ",
+        "name": "Espinas de acacia",
         "id": 912,
         "index": "HONEY_LOCUST_THORNS",
         "owner": "DEATHSLINGER",
@@ -3419,7 +3419,7 @@
     },
     {
         "description": "Encontrado en un refrigerador. Lleva grabado un repugnante rostro hinchado.<li><b>Aumenta ligeramente</b> la duración de los rastros de <b>Ritos de sentencia</b> en el entorno.</li>",
-        "name": "Anillo de plomo ",
+        "name": "Anillo de plomo",
         "id": 950,
         "index": "LEAD_RING",
         "owner": "EXECUTIONER",
@@ -3428,7 +3428,7 @@
     },
     {
         "description": "Una mariposa encontrada en una cama de los apartamentos Wood Side. Es frágil y casi se deshace al tocarla.<li><b>Aumenta ligeramente</b> el tiempo necesario para recargar <b>Ritos de sentencia</b>.</li>",
-        "name": "Mariposa muerta ",
+        "name": "Mariposa muerta",
         "id": 951,
         "index": "DEAD_BUTTERFLY",
         "owner": "EXECUTIONER",
@@ -3437,7 +3437,7 @@
     },
     {
         "description": "Encontrado en el sótano del hospital Brookhaven. Tiene grabada la imagen de una araña.<li><b>Aumenta ligeramente</b> el tiempo total que se puede usar <b>Ritos de sentencia</b>.</li>",
-        "name": "Anillo de cobre ",
+        "name": "Anillo de cobre",
         "flavor": "\"Estaba encerrado en el sótano del sótano. Era tan pequeño y oscuro y yo sentía tanto temor. Se me cayó mi precioso anillo. Pero nunca jamás volveré allí\".",
         "id": 952,
         "index": "COPPER_RING",
@@ -3447,7 +3447,7 @@
     },
     {
         "description": "Una correa de nailon que se usó para sujetar a una víctima contra una estructura de metal. Su color hace que resulte difícil ver la sangre que la recubre.<li><b>Aumenta ligeramente</b> el alcance de <b>Castigo de los condenados</b>.</li>",
-        "name": "Correa negra ",
+        "name": "Correa negra",
         "id": 953,
         "index": "BLACK_STRAP",
         "owner": "EXECUTIONER",
@@ -3456,7 +3456,7 @@
     },
     {
         "description": "Una muñeca tallada de cera, hecha a mano por un prisionero que no tardaría en afrontar su sentencia.<li><b>Aumenta moderadamente</b> el alcance de <b>Castigo de los condenados</b>.</li>",
-        "name": "Muñeca de cera ",
+        "name": "Muñeca de cera",
         "id": 954,
         "index": "WAX_DOLL",
         "owner": "EXECUTIONER",
@@ -3465,7 +3465,7 @@
     },
     {
         "description": "La punta afilada y oxidada de una lanza. Está manchada con sangre de su última víctima.<li><b>Aumenta moderadamente</b> el tiempo total que se puede usar <b>Ritos de sentencia</b>.</li>",
-        "name": "Punta de lanza ",
+        "name": "Punta de lanza",
         "id": 955,
         "index": "SPEARHEAD",
         "owner": "EXECUTIONER",
@@ -3474,7 +3474,7 @@
     },
     {
         "description": "Un trozo de tela estampada de leopardo rosa. Cuesta saber para qué se usaba.<li><b>Aumenta ligeramente</b> la duración de <i>Instinto asesino</i> cuando se activa mediante <b>Ritos de sentencia</b>.</li>",
-        "name": "Tela estampada de leopardo  ",
+        "name": "Tela estampada de leopardo",
         "flavor": "\"No importa quién sea yo... Estoy aquí para ti, James\". (Maria)",
         "id": 956,
         "index": "LEOPARD_PRINT_FABRIC",
@@ -3484,7 +3484,7 @@
     },
     {
         "description": "Una cinta de vídeo de una pareja de vacaciones en Silent Hill. A pesar de su valor sentimental, se la dejaron en el hotel Lakeview.<li><b>Aumenta moderadamente</b> el tiempo necesario para recargar <b>Ritos de sentencia</b>.</li>",
-        "name": "Cinta de vídeo olvidada ",
+        "name": "Cinta de vídeo olvidada",
         "id": 957,
         "index": "FORGOTTEN_VIDEOTAPE",
         "owner": "EXECUTIONER",
@@ -3493,7 +3493,7 @@
     },
     {
         "description": "Una caja de música con una figura del cuento de la Cenicienta. Estaba dentro de una maleta adornada con pegatinas de varios destinos.<li><b>Aumenta moderadamente</b> la duración de los rastros de <b>Ritos de sentencia</b> en el entorno.</li>",
-        "name": "Caja de música \"Cenicienta\" ",
+        "name": "Caja de música \"Cenicienta\"",
         "id": 958,
         "index": "CINDERELLA_MUSIC_BOX",
         "owner": "EXECUTIONER",
@@ -3502,7 +3502,7 @@
     },
     {
         "description": "Una fotografía que muestra a dos figuras con capuchas rojas. Se titula \"Carmesí y Banquete Blanco para los Dioses\".<li><b>Aumenta considerablemente</b> el tiempo necesario para recargar <b>Ritos de sentencia</b>.</li>",
-        "name": "Fotografía de la secta de Valtiel ",
+        "name": "Fotografía de la secta de Valtiel",
         "id": 959,
         "index": "VALTIEL_SECT_PHOTOGRAPH",
         "owner": "EXECUTIONER",
@@ -3511,7 +3511,7 @@
     },
     {
         "description": "Una tablilla metálica con figuras aztecas grabadas.<li><b>Aumenta considerablemente</b> el tiempo total que se puede usar <b>Ritos de sentencia</b>.</li>",
-        "name": "Tablilla del \"Opresor\" ",
+        "name": "Tablilla del \"Opresor\"",
         "id": 960,
         "index": "TABLET_OF_THE_OPPRESSOR",
         "owner": "EXECUTIONER",
@@ -3520,7 +3520,7 @@
     },
     {
         "description": "Un cuadro de una figura imponente que lleva una pirámide de acero en la cabeza. Hay víctimas enjauladas en el fondo.<li><b>Aumenta moderadamente</b> la duración de <i>Instinto asesino</i> cuando se activa mediante <b>Ritos de sentencia</b>.</li>",
-        "name": "Día neblinoso, restos del Juicio ",
+        "name": "Día neblinoso, restos del Juicio",
         "flavor": "\"Es él...\".",
         "id": 961,
         "index": "MISTY_DAY_REMAINS_OF_JUDGMENT",
@@ -3530,7 +3530,7 @@
     },
     {
         "description": "El pie gris de un maniquí, arrancado brutalmente de su pierna.<li><b>Aumenta considerablemente</b> la duración de los rastros de <b>Ritos de sentencia</b> en el entorno.</li>",
-        "name": "Pie de maniquí ",
+        "name": "Pie de maniquí",
         "id": 962,
         "index": "MANNEQUIN_FOOT",
         "owner": "EXECUTIONER",
@@ -3539,7 +3539,7 @@
     },
     {
         "description": "Un diagrama del hotel Lakeview. Hay llamas pintadas por todo este lugar impío.<li><b>Aumenta considerablemente</b> la distancia de Castigo de los condenados.</li>",
-        "name": "Pintura de hombre ardiendo ",
+        "name": "Pintura de hombre ardiendo",
         "id": 963,
         "index": "BURNING_MAN_PAINTING",
         "owner": "EXECUTIONER",
@@ -3548,7 +3548,7 @@
     },
     {
         "description": "Un huevo fresco de un color rojo muy llamativo. Tiene el tamaño de un huevo de codorniz.<li><b>Aumenta considerablemente</b> la duración de <i>Instinto asesino</i> cuando se activa mediante <b>Ritos de sentencia</b>.</li>",
-        "name": "Huevo escarlata ",
+        "name": "Huevo escarlata",
         "flavor": "\"¡Nunca había estado tan asustada en toda mi vida! No te importo lo más mínimo, ¿no es cierto?\". (Maria)",
         "id": 964,
         "index": "SCARLET_EGG",
@@ -3558,7 +3558,7 @@
     },
     {
         "description": "Un huevo que parece viejo, de color naranja rojizo. Tiene el tamaño de un huevo de codorniz.<li>Los supervivientes afectados por <b>Ritos de sentencia</b> sufren el efecto de estado <b>Ceguera</b> durante <b>60 segundos</b>.</li>",
-        "name": "Huevo color de orín ",
+        "name": "Huevo color de orín",
         "flavor": "\"James... me hiciste muy feliz\". (Mary)",
         "id": 965,
         "index": "RUST_COLORED_EGG",
@@ -3568,7 +3568,7 @@
     },
     {
         "description": "Un libro acerca de la historia y leyendas de Silent Hill y del área circundante.<li>Los supervivientes afectados por <b>Ritos de sentencia</b> sufren el efecto de estado <b>Inconsciencia</b> durante <b>15 segundos</b>.</li><span class=\"FlavorText\">\"A este lugar lo llamaban 'El Lugar de los Espíritus Silenciosos'\".</span>",
-        "name": "Libro \"Memorias perdidas\" ",
+        "name": "Libro \"Memorias perdidas\"",
         "id": 966,
         "index": "LOST_MEMORIES_BOOK",
         "owner": "EXECUTIONER",
@@ -3577,7 +3577,7 @@
     },
     {
         "description": "Un libro de autor desconocido sobre un dios antiguo.<li>Los supervivientes heridos afectados por <i>Tormento</i> sufren el efecto de estado <b>Hemorragia</b>.</li>",
-        "name": "Libro \"Ceremonia Crimson\" ",
+        "name": "Libro \"Ceremonia Crimson\"",
         "flavor": "\"Habla. Yo soy el Crimson. Las mentiras y la niebla no son ellas sino yo\".",
         "id": 967,
         "index": "CRIMSON_CEREMONY_COOK",
@@ -3587,7 +3587,7 @@
     },
     {
         "description": "Copa de aspecto antiguo tallada en obsidiana pura.<li><b>El Verdugo</b> obtiene el efecto de estado <b>Indetectable</b> al permanecer inmóvil sobre un rastro de <b>Ritos de sentencia</b>.</li>",
-        "name": "Copa de obsidiana ",
+        "name": "Copa de obsidiana",
         "flavor": "\"Perdóname por haberte despertado. Pero sin ti, nada tiene sentido\". (James Sunderland)",
         "id": 968,
         "index": "OBSIDIAN_GOBLET",
@@ -3597,7 +3597,7 @@
     },
     {
         "description": "Un talismán con un diseño extraño. Parece que la influencia del Ente lo ha alterado.<li>Al enviar a un superviviente a una <b>Jaula de expiación</b>, las auras de todos los supervivientes que sufran <i>Tormento</i> se revelan durante <b>6 segundos</b>.</li>",
-        "name": "Sello de Metatrón iridiscente ",
+        "name": "Sello de Metatrón iridiscente",
         "flavor": "\"Este cuadrado mágico, con fuertes propiedades protectoras y disipadoras, es llamado el 'Emblema Virun VII' o el 'Sello de Metatrón'\".",
         "id": 969,
         "index": "IRIDESCENT_SEAL_OF_METATRON",
@@ -3607,7 +3607,7 @@
     },
     {
         "description": "Una píldora totalmente ineficaz... ¿o no?<br><br><li><b>Disminuye moderadamente</b> la velocidad de movimiento durante una Acometida.</li><li>Gana un <b>100%</b> de Puntos de sangre extra durante los eventos de puntuación de Acometida.",
-        "name": "Placebo ",
+        "name": "Placebo",
         "id": 1000,
         "index": "PLACEBO_TABLET",
         "owner": "BLIGHT",
@@ -3615,8 +3615,8 @@
         "image": "iconAddon_placeboTablet"
     },
     {
-        "description": "Una planta venenosa que despertó el interés de Talbot por la química. Reaviva recuerdos que estaban profundamente enterrados.<br><br><li><b>Aumenta ligeramente</b> la velocidad de recuperación después de una Acometida.</li> ",
-        "name": "Dedalera ",
+        "description": "Una planta venenosa que despertó el interés de Talbot por la química. Reaviva recuerdos que estaban profundamente enterrados.<br><br><li><b>Aumenta ligeramente</b> la velocidad de recuperación después de una Acometida.</li>",
+        "name": "Dedalera",
         "id": 1001,
         "index": "FOXGLOVE",
         "owner": "BLIGHT",
@@ -3625,7 +3625,7 @@
     },
     {
         "description": "Esta primera muestra no arrojó los resultados esperados, pero, a pesar de todo, demostró unos efectos sorprendentes.<br><br><li>Haz frente automáticamente al superviviente más cercano en un radio de <b>16 metros</b> después de un Topetazo.</li>",
-        "name": "Compuesto siete ",
+        "name": "Compuesto siete",
         "id": 1002,
         "index": "COMPOUND_SEVEN",
         "owner": "BLIGHT",
@@ -3643,7 +3643,7 @@
     },
     {
         "description": "Los restos de las notas de Talbot. Aún contienen información valiosa.<br><br><li><b>Disminuye</b> en <b>1</b> la cantidad de distintivos de Acometida. </li><li><b>Aumenta moderadamente</b> la velocidad de regeneración de distintivos.</li>",
-        "name": "Notas destrozadas ",
+        "name": "Notas destrozadas",
         "id": 1004,
         "index": "SHREDDED_NOTES",
         "owner": "BLIGHT",
@@ -3652,7 +3652,7 @@
     },
     {
         "description": "Pétalos secos de pústula, convertidos en un polvo fino.<br><br><li><b>Aumenta moderadamente</b> la duración del Topetazo.</li>",
-        "name": "Polvo de pústula ",
+        "name": "Polvo de pústula",
         "id": 1005,
         "index": "PUSTULA_DUST",
         "owner": "BLIGHT",
@@ -3669,7 +3669,7 @@
         "image": "iconAddon_plagueBile"
     },
     {
-        "description": "Una espina bastante grande, extraída de una úlcera visceral. Segrega una toxina leve.<br><br><li><b>Aumenta moderadamente</b> la velocidad de recuperación después de una Acometida.</li> ",
+        "description": "Una espina bastante grande, extraída de una úlcera visceral. Segrega una toxina leve.<br><br><li><b>Aumenta moderadamente</b> la velocidad de recuperación después de una Acometida.</li>",
         "name": "Espina ulcerosa",
         "id": 1007,
         "index": "CANKER_THORN",
@@ -3679,7 +3679,7 @@
     },
     {
         "description": "Una rata que resucitó momentáneamente al inocularle el suero, pero en un estado agresivo e incontrolable.<br><br><li><b>Aumenta moderadamente</b> la velocidad de Acometida con cada Acometida consecutiva.</li>",
-        "name": "Rata deteriorada ",
+        "name": "Rata deteriorada",
         "id": 1008,
         "index": "BLIGHTED_RAT",
         "owner": "BLIGHT",
@@ -3688,7 +3688,7 @@
     },
     {
         "description": "Sal marina común que ha atravesado momentáneamente el mundo espiritual, lo cual ha alterado sus propiedades.<br><br><li><b>Aumenta moderadamente</b> la velocidad de giro al usar Acometida.</li>",
-        "name": "Sales umbrías ",
+        "name": "Sales umbrías",
         "id": 1009,
         "index": "UMBRA_SALTS",
         "owner": "BLIGHT",
@@ -3697,7 +3697,7 @@
     },
     {
         "description": "Una mezcla elaborada a partir de rosas secas procedentes del ramillete de luna nueva tan difícil de encontrar.<br><br><li><b>Aumenta considerablemente</b> la duración de Topetazo.</li>",
-        "name": "Tónico de rosas ",
+        "name": "Tónico de rosas",
         "id": 1010,
         "index": "ROSE_TONIC",
         "owner": "BLIGHT",
@@ -3706,7 +3706,7 @@
     },
     {
         "description": "Un suero letal para los humanos que evoca cualidades beneficiosas para los que son... algo más.<br><br><li>Al iniciar un Topetazo, revelas durante <b>3 segundos</b> el aura de los supervivientes que se hallen en un radio de <b>8 metros</b> del lugar de la colisión.</li>",
-        "name": "Compuesto veintiuno ",
+        "name": "Compuesto veintiuno",
         "id": 1011,
         "index": "COMPOUND_TWENTY_ONE",
         "owner": "BLIGHT",
@@ -3714,8 +3714,8 @@
         "image": "iconAddon_compoundTwentyOne"
     },
     {
-        "description": "Un cuervo muerto que ha mutado de forma grotesca debido al suero del Deterioro.<br><br><li><b>Aumenta considerablemente</b> la velocidad de Acometida con cada Acometida consecutiva.</li> ",
-        "name": "Cuervo deteriorado ",
+        "description": "Un cuervo muerto que ha mutado de forma grotesca debido al suero del Deterioro.<br><br><li><b>Aumenta considerablemente</b> la velocidad de Acometida con cada Acometida consecutiva.</li>",
+        "name": "Cuervo deteriorado",
         "id": 1012,
         "index": "BLIGHTED_CROW",
         "owner": "BLIGHT",
@@ -3724,7 +3724,7 @@
     },
     {
         "description": "Una hormona extraída de la glándula suprarrenal de un sujeto reticente. Aumenta los niveles de energía, pero puede causar fatiga.<br><br><li><b>Reduce tremendamente</b> la velocidad de giro durante Acometida.</li><li><b>Aumenta tremendamente</b> la velocidad a la que se regeneran los distintivos. <b>Aumenta</b> la cantidad de distintivos de Acometida en <b>2.<b>Aumenta considerablemente</b> el ángulo de vista máximo durante Acometida.</li><br>",
-        "name": "Vial de adrenalina ",
+        "name": "Vial de adrenalina",
         "flavor": "\"Por favor, no lo hagas...\".",
         "id": 1013,
         "index": "ADRENALINE_VIAL",
@@ -3734,7 +3734,7 @@
     },
     {
         "description": "El diario de un hombre que decía haber vuelto desde el Vacío. Los conocimientos que alberga tienen aplicaciones prácticas.<br><br><li>Se te aplica el efecto de estado <b>Indetectable</b> mientras usas Acometida.</li><br>",
-        "name": "Diario de Vigo ",
+        "name": "Diario de Vigo",
         "flavor": "\"En un páramo de sueños olvidados y de rutinas interminables, el hombre que tiene una salida es Dios\". (Talbot Grimes)",
         "id": 1014,
         "index": "VIGOS_JOURNAL",
@@ -3744,7 +3744,7 @@
     },
     {
         "description": "Talbot usó esta piedra para tallar lo que creía que era su investigación sobre las paredes del fumadero de opio.<br><br><li>Golpear a un superviviente con Acometida letal invocará al Ente para que bloquee los palés que estén a una distancia máxima de <b>12 metros</b> de tu ubicación durante <b>6 segundos</b>.</li><br>",
-        "name": "Piedra de invocación ",
+        "name": "Piedra de invocación",
         "flavor": "\"La muerte solo es el comienzo\".",
         "id": 1015,
         "index": "SUMMONING_STONE",
@@ -3754,7 +3754,7 @@
     },
     {
         "description": "Una sustancia química extraída de la glándula pineal de un superviviente recién fallecido.<br><br><li>Durante una acometida, cuando entras en el radio de <b>16 metros</b> de un superviviente que esté reparando algo o curándose, activa una prueba de habilidad <b>tremendamente</b> difícil para ese superviviente. Se puede activar una vez por superviviente y acometida. No activa una acometida que comience en un radio de <b>16 metros</b> del superviviente.</li><br>",
-        "name": "Sustancia química del alma ",
+        "name": "Sustancia química del alma",
         "flavor": "\"... se sospecha que produce alteraciones en la actividad rítmica neuronal\".\\ (Texto académico sobre un misterio sin etiquetar)",
         "id": 1016,
         "index": "SOUL_CHEMICAL",
@@ -3764,7 +3764,7 @@
     },
     {
         "description": "Un anillo que se les otorga a los que se gradúan como químicos en la Facultad de Medicina de Londres. Es el recuerdo de una ambición descontrolada.<br><br><li>Golpear a un superviviente con una Acometida letal regenerará instantáneamente todos los distintivos de Acometida.</li><br>",
-        "name": "Anillo de alquimista ",
+        "name": "Anillo de alquimista",
         "flavor": "\"Al estudiante se le acusa de saquear tumbas con el fin de llevar a cabo experimentos científicos no autorizados\". (Amonestación estudiantil de Talbot Grimes, 1838)",
         "id": 1017,
         "index": "ALCHEMISTS_RING",
@@ -3784,7 +3784,7 @@
     },
     {
         "description": "El penúltimo intento de suero de Talbot. Aunque no le facilitó la huida, tenía efectos secundarios poderosos.<br><br><li>Cualquier superviviente en un radio de <b>16 metros</b> de un Topetazo sufrirá el efecto <b>Entorpecimiento</b> durante <b>3 segundos</b>.</li><li>Golpear elementos destruíbles y palés los destruirá y aturdirá al Deterioro durante <b>1,5 segundos.</b></li><br>",
-        "name": "Compuesto treinta y tres ",
+        "name": "Compuesto treinta y tres",
         "flavor": "\"El tiempo escasea. Este objetivo me vale...\". (Talbot Grimes)",
         "id": 1019,
         "index": "COMPOUND_THIRTY_THREE",
@@ -3874,7 +3874,7 @@
         "image": "iconAddon_babyTeeth"
     },
     {
-        "description": "Un sonajero tosco del que Victor se encaprichó, por lo que su madre tuvo que robarlo. Pesa mucho y no es aconsejable dejárselo a un niño.<br><br><li>Los supervivientes que eliminan a Victor sufren el efecto de estado <b>Desesperanza</b> durante <b>20 segundos.</b></li> ",
+        "description": "Un sonajero tosco del que Victor se encaprichó, por lo que su madre tuvo que robarlo. Pesa mucho y no es aconsejable dejárselo a un niño.<br><br><li>Los supervivientes que eliminan a Victor sufren el efecto de estado <b>Desesperanza</b> durante <b>20 segundos.</b></li>",
         "name": "Sonajero pesado",
         "id": 1059,
         "index": "WEIGHTY_RATTLE",
@@ -4258,7 +4258,7 @@
         "image": "iconAddon_tyrantGore"
     },
     {
-        "description": "Una muestra del virus T, desarrollado por la corporación Umbrella, que provoca mutaciones abominables y daños cerebrales en los sujetos de pruebas.<li><b>Aumenta considerablemente</b> la tasa de mutación al destruir zombis con Golpe de tentáculo. ",
+        "description": "Una muestra del virus T, desarrollado por la corporación Umbrella, que provoca mutaciones abominables y daños cerebrales en los sujetos de pruebas.<li><b>Aumenta considerablemente</b> la tasa de mutación al destruir zombis con Golpe de tentáculo.",
         "name": "Muestra del virus T",
         "id": 1160,
         "index": "T_VIRUS_SAMPLE",
@@ -4277,7 +4277,7 @@
     },
     {
         "description": "Los restos enredados de una planta infectada con el virus T que mató a uno de sus investigadores.<li><b>Aumenta considerablemente</b> el tiempo que tienen los supervivientes para abrir las cajas de suministros.",
-        "name": "Vid de planta 43 ",
+        "name": "Vid de planta 43",
         "id": 1162,
         "index": "PLANT_43_VINES",
         "owner": "NEMESIS",

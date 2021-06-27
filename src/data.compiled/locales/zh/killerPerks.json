@@ -213,7 +213,7 @@
         "image": "iconPerks_sloppyButcher"
     },
     {
-        "description": "该区域的乌鸦可以直接和你交流。<span class=\"Highlight1\">{0}%</span>的时间里，当你在<span class=\"Highlight2\">{1}米</span>范围内时，鸣叫的乌鸦会给你一个可视化提示。<br><i>鬼鸦谍影</i>的冷却时间为 <span class=\"Highlight3\">{2}秒。</span> ",
+        "description": "该区域的乌鸦可以直接和你交流。<span class=\"Highlight1\">{0}%</span>的时间里，当你在<span class=\"Highlight2\">{1}米</span>范围内时，鸣叫的乌鸦会给你一个可视化提示。<br><i>鬼鸦谍影</i>的冷却时间为 <span class=\"Highlight3\">{2}秒。</span>",
         "name": "鬼鸦谍影",
         "flavor": "“它们所盘旋的阴影里，每一声哀嚎都让我们胆颤心惊。”",
         "id": 9,
@@ -1903,7 +1903,7 @@
         ]
     },
     {
-        "description": "那些在黑暗中纠缠在一起的人注定要一起受苦。<br><br>当有逃生者在距离杀手至少<span class=\"Highlight1\">{0}米</span>范围外治疗另一名逃生者一层健康状态时，进行治疗的逃生者会发出尖叫声，在接下来的<span class=\"Highlight2\">{1}秒</span>内暴露其位置并激活<i>死亡约束</i>。在此期间，该名逃生者距离被治疗的逃生者超过<span class=\"Highlight3\">{2}米</span>时，就会受到<b>浑然不觉</b>状态影响。 ",
+        "description": "那些在黑暗中纠缠在一起的人注定要一起受苦。<br><br>当有逃生者在距离杀手至少<span class=\"Highlight1\">{0}米</span>范围外治疗另一名逃生者一层健康状态时，进行治疗的逃生者会发出尖叫声，在接下来的<span class=\"Highlight2\">{1}秒</span>内暴露其位置并激活<i>死亡约束</i>。在此期间，该名逃生者距离被治疗的逃生者超过<span class=\"Highlight3\">{2}米</span>时，就会受到<b>浑然不觉</b>状态影响。",
         "name": "死亡约束",
         "id": 72,
         "index": "DEATHBOUND",

@@ -1978,7 +1978,7 @@
         "image": "iconAddon_robinFeather"
     },
     {
-        "description": "Die abgeschnittenen Finger sind Teil der standardmäßigen Clown-Bekleidung und erlauben geschickte Manipulationen.\n<li>Ändert die Flugbahn der geworfenen Flasche.</li>\n",
+        "description": "Die abgeschnittenen Finger sind Teil der standardmäßigen Clown-Bekleidung und erlauben geschickte Manipulationen.\n<li>Ändert die Flugbahn der geworfenen Flasche.</li>",
         "name": "Fingerlose Paradehandschuhe",
         "id": 552,
         "index": "FINGERLESS_PARADE_GLOVES",
@@ -2755,7 +2755,7 @@
     },
     {
         "description": "Schwarze Gurte, die alles an Ort und Stelle halten, wenn man auf Beute aus ist.<br><li><b>Erhöht leicht</b> die Bewegungsgeschwindigkeit, während du dich geduckt bewegst.</li>",
-        "name": "Sattelgurte ",
+        "name": "Sattelgurte",
         "id": 758,
         "index": "CINCH_STRAPS",
         "owner": "GHOST",
@@ -3063,7 +3063,7 @@
     {
         "description": "Wäre das Seil stärker gewesen, hätte es Kazan vermutlich festgehalten. So aber konnte er entkommen und seine Häscher abschlachten.<li><b>Erhöht leicht</b> die Distanz, in der die Auren von Blutkugeln entdeckt werden können.</li>",
         "name": "Zerfallendes Seil",
-        "flavor": "„Obwohl der Tod fokussiert ist, kennt er die Teleportation.“ –Renjiros Doktrin 14, 5 ",
+        "flavor": "„Obwohl der Tod fokussiert ist, kennt er die Teleportation.“ –Renjiros Doktrin 14, 5",
         "id": 851,
         "index": "ROTTING_ROPE",
         "owner": "ONI",
@@ -3239,7 +3239,7 @@
     },
     {
         "description": "Ein schmuddeliges Stück Sackleinen. Spucke und Ellbogenschmalz haben gereicht, um in einem heißen Gefecht die Harpune abzuwischen.<li><b>Verringert leicht</b> die Abklingzeit der Harpune.</li>",
-        "name": "Poliertuch ",
+        "name": "Poliertuch",
         "id": 900,
         "index": "SPIT_POLISH_RAG",
         "owner": "DEATHSLINGER",
@@ -3248,7 +3248,7 @@
     },
     {
         "description": "Eine Tinktur aus Ölen und Extrakten, die von einem fahrenden Händler stammen. Sie soll angeblich alles heilen, was einen plagt.<li><b>Erhöht leicht</b> die Rückziehgeschwindigkeit der Harpune.</li>",
-        "name": "Schlangenöl ",
+        "name": "Schlangenöl",
         "id": 901,
         "index": "SNAKE_OIL",
         "owner": "DEATHSLINGER",
@@ -3266,7 +3266,7 @@
     },
     {
         "description": "Ein alter Munitionsgürtel, der an Calebs speziellen Waffen angepasst ist. Es klebt noch immer das feine rote Dreck der Wüste Arizonas daran.<li><b>Erhöht leicht</b> die Nachladegeschwindigkeit der Harpune.</li>",
-        "name": "Modifizierter Munitionsgürtel ",
+        "name": "Modifizierter Munitionsgürtel",
         "id": 903,
         "index": "MODIFIED_AMMO_BELT",
         "owner": "DEATHSLINGER",
@@ -3275,7 +3275,7 @@
     },
     {
         "description": "Ein Schwellennagel, den Caleb in einem Moment krankhafter Neugier vorne an der Harpune befestigte. Die stumpfe Spitze verhindert, dass das Ziel sauber durchbohrt wird.<li>Trifft man damit einen aufgespießten Überlebenden, erleidet er den Statuseffekt <b>Zerfleischt</b>.</li>",
-        "name": "Rostiger Nagel ",
+        "name": "Rostiger Nagel",
         "id": 904,
         "index": "RUSTED_SPIKE",
         "owner": "DEATHSLINGER",
@@ -3293,7 +3293,7 @@
     },
     {
         "description": "Ein silbernes Abzeichen vom Leichnam eines Gesetzeshüters aus Arizona, der sich in die Angelegenheiten der Hellshire-Bande eingemischt hatte.<li><b>Verkleinert leicht</b> den Terrorradius, während durchs Visier der Harpune gezielt wird.</li><li><b>Verringert leicht</b> die Bewegungsgeschwindigkeit, während durchs Visier der Harpune gezielt wird.</li><span class=\"FlavorText\">„Sprich ein letztes Gebet, denn zu Mittag wirst du hängen.“ – Caleb Quinn</span>",
-        "name": "Abzeichen des Marshals ",
+        "name": "Abzeichen des Marshals",
         "id": 906,
         "index": "MARSHALS_BADGE",
         "owner": "DEATHSLINGER",
@@ -3302,7 +3302,7 @@
     },
     {
         "description": "Die Kugel, die Calebs Kiefer bei einer wilden Schießerei durchbohrte. Sie bringt den drängenden Wunsch nach Rache zurück.<li><b>Erhöht leicht</b> die Bewegungsgeschwindigkeit, während durchs Visier der Harpune gezielt wird.</li><span class=\"FlavorText\">„Mit dieser Schandtat an mir hast du dir den Tod ins Haus geholt.“ – Caleb Quinn</span>",
-        "name": "Kieferbrecher ",
+        "name": "Kieferbrecher",
         "id": 907,
         "index": "JAW_SMASHER",
         "owner": "DEATHSLINGER",
@@ -3320,7 +3320,7 @@
     },
     {
         "description": "Das dumpfe Klimpern der Schlüssel lässt in Caleb heftige Erinnerungen hochkochen.<li><b>Erhöht moderat</b> die Nachladegeschwindigkeit der Harpune.</li>",
-        "name": "Direktorenschlüssel ",
+        "name": "Direktorenschlüssel",
         "id": 909,
         "index": "WARDENS_KEYS",
         "owner": "DEATHSLINGER",
@@ -3329,7 +3329,7 @@
     },
     {
         "description": "Die vergilbten Überreste eines Steckbriefs von Mason Kelly, haben Caleb bei der Jagd auf Trab gehalten.<li><b>Erhöht moderat</b> die Bewegungsgeschwindigkeit, wenn durchs Visier der Harpune gezielt wird.</li><span class=\"FlavorText\">„Die Abrechnung wird gewaltig, das schwöre ich beim Grab meiner Mutter.“ – Caleb Quinn</span>",
-        "name": "Steckbrief ",
+        "name": "Steckbrief",
         "id": 910,
         "index": "WANTED_POSTER",
         "owner": "DEATHSLINGER",
@@ -3338,7 +3338,7 @@
     },
     {
         "description": "Eine Dose mit einer kleinen Menge Öl, mit dem die Reibung bei Maschinen verringert werden kann. Frühe Modelle der Harpune hatten regelmäßig Ladehemmungen, und Öl musste daher ständig griffbereit sein.<li><b>Verringert moderat</b> die Abklingzeit der Harpune, nach Fehlschüssen.</li>",
-        "name": "Öldose ",
+        "name": "Öldose",
         "id": 911,
         "index": "TIN_OIL_CAN",
         "owner": "DEATHSLINGER",
@@ -3347,7 +3347,7 @@
     },
     {
         "description": "Voller Wut über ein Opfer, das zuvor schon zweimal geflohen war, drehte Caleb Dornenzweige zu einem Pfeil zusammen, um ihn ins Ziel zu jagen.<li>Überlebende, die sich von einem Pfeil der Harpune losreißen können, erleiden den Statuseffekt <b>Zerfleischt</b>.</li>",
-        "name": "Dornenpfeil ",
+        "name": "Dornenpfeil",
         "id": 912,
         "index": "HONEY_LOCUST_THORNS",
         "owner": "DEATHSLINGER",
@@ -3419,7 +3419,7 @@
     },
     {
         "description": "In einem Kühlschrank gefunden. Ein abscheuliches aufgedunsenes Gesicht ist darauf zu sehen.<li><b>Verlängert leicht</b> den Zeitraum, in dem die Pfade von <b>Riten des Urteils</b> in der Umgebung verbleiben.</li>",
-        "name": "Bleiring ",
+        "name": "Bleiring",
         "id": 950,
         "index": "LEAD_RING",
         "owner": "EXECUTIONER",
@@ -3428,7 +3428,7 @@
     },
     {
         "description": "Ein Schmetterling, der auf einem Bett in den Wood Side Apartments gefunden wurde. Er fällt fast auseinander, wenn man ihn berührt.<li><b>Verlängert leicht</b> die Aufladerate von <b>Riten des Urteils</b>.</li>",
-        "name": "Toter Schmetterling ",
+        "name": "Toter Schmetterling",
         "id": 951,
         "index": "DEAD_BUTTERFLY",
         "owner": "EXECUTIONER",
@@ -3437,7 +3437,7 @@
     },
     {
         "description": "Gefunden im Keller des Krankenhauses Brookhaven. Das Bild einer Spinne ist darauf eingraviert.<li><b>Verlängert leicht</b> die Gesamtdauer, in der <b>Riten des Urteils</b> genutzt werden kann.</li>",
-        "name": "Kupferring ",
+        "name": "Kupferring",
         "flavor": "„Ich war im Keller des Kellers eingesperrt. Dort war es so eng und dunkel, und ich hatte so große Angst. Zwar habe ich meinen wertvollen Ring dort verloren, aber ich werde nie wieder dorthin zurückkehren.“",
         "id": 952,
         "index": "COPPER_RING",
@@ -3447,7 +3447,7 @@
     },
     {
         "description": "Ein Nylonriemen, mit dem ein Opfer an einem Metallrahmen festgebunden war. Durch die Farbe ist es schwierig, davon aufgesaugtes Blut zu erkennen.<li><b>Erhöht leicht</b> die Reichweite von <b>Bestrafung der Verdammten</b>.</li>",
-        "name": "Schwarzer Riemen ",
+        "name": "Schwarzer Riemen",
         "id": 953,
         "index": "BLACK_STRAP",
         "owner": "EXECUTIONER",
@@ -3456,7 +3456,7 @@
     },
     {
         "description": "Eine aus Wachs geformte Puppe, die von einem Gefangenen angefertigt wurde, der kurz darauf sein Urteil empfing.<li><b>Vergrößert moderat</b> die Reichweite von <b>Bestrafung der Verdammten</b>.</li>",
-        "name": "Wachspuppe ",
+        "name": "Wachspuppe",
         "id": 954,
         "index": "WAX_DOLL",
         "owner": "EXECUTIONER",
@@ -3465,7 +3465,7 @@
     },
     {
         "description": "Die scharfe, rostige Spitze eines Speers. Es klebt noch Blut von ihrem letzten Opfer daran.<li><b>Verlängert moderat</b> die Gesamtdauer, in der <b>Riten des Urteils</b> ausgeführt werden kann.</li>",
-        "name": "Speerspitze ",
+        "name": "Speerspitze",
         "id": 955,
         "index": "SPEARHEAD",
         "owner": "EXECUTIONER",
@@ -3474,7 +3474,7 @@
     },
     {
         "description": "Ein rosa Stofffetzen mit Druck im Leopardenmuster. Schwer zu sagen, wofür er benutzt wurde.<li><b>Verlängert leicht</b> die Dauer der Wirkung von <i>Killerinstinkt</i>, wenn dieser Effekt durch <b>Riten des Urteils</b> ausgelöst wurde.</li>",
-        "name": "Stoff mit Leopardenmuster  ",
+        "name": "Stoff mit Leopardenmuster",
         "flavor": "„Es ist egal, wer ich bin. Ich bin wegen dir hier, James.“ – Maria",
         "id": 956,
         "index": "LEOPARD_PRINT_FABRIC",
@@ -3484,7 +3484,7 @@
     },
     {
         "description": "Eine Videokassette von einem Liebespaar, das in Silent Hill Urlaub macht. Trotz ihres ideellen Wertes, wurde sie im Lakeview Hotel zurückgelassen.<li><b>Verlängert moderat</b> die Aufladerate von <b>Riten des Urteils</b>.</li>",
-        "name": "Vergessene Videokassette ",
+        "name": "Vergessene Videokassette",
         "id": 957,
         "index": "FORGOTTEN_VIDEOTAPE",
         "owner": "EXECUTIONER",
@@ -3493,7 +3493,7 @@
     },
     {
         "description": "Eine Spieluhr mit einer Figur aus dem Märchen „Aschenputtel“. Sie stammt aus einem Koffer, der mit Aufklebern zahlreicher Reiseziele versehen war.<li><b>Verlängert moderat</b> den Zeitraum, in dem die Pfade von <b>Riten des Urteils</b> in der Umgebung verbleiben.</li>",
-        "name": "Spieldose „Aschenputtel“ ",
+        "name": "Spieldose „Aschenputtel“",
         "id": 958,
         "index": "CINDERELLA_MUSIC_BOX",
         "owner": "EXECUTIONER",
@@ -3502,7 +3502,7 @@
     },
     {
         "description": "Ein Foto von zwei Personen mit roten Kapuzen. Der Titel lautet „Blutrotes und Weißes Bankett für die Götter“.<li><b>Erhöht deutlich</b> die Aufladerate von <b>Riten des Urteils</b>.</li>",
-        "name": "Foto der Valtiel-Sekte ",
+        "name": "Foto der Valtiel-Sekte",
         "id": 959,
         "index": "VALTIEL_SECT_PHOTOGRAPH",
         "owner": "EXECUTIONER",
@@ -3511,7 +3511,7 @@
     },
     {
         "description": "Eine Metalltafel mit eingravierten Aztekenfiguren.<li><b>Verlängert deutlich</b> die Gesamtdauer, in der <b>Riten des Urteils</b> ausgeführt werden kann.</li>",
-        "name": "Tafel „Der Unterdrücker“ ",
+        "name": "Tafel „Der Unterdrücker“",
         "id": 960,
         "index": "TABLET_OF_THE_OPPRESSOR",
         "owner": "EXECUTIONER",
@@ -3520,7 +3520,7 @@
     },
     {
         "description": "Ein Gemälde von einer imposanten Figur, die eine Stahlpyramide auf ihrem Kopf trägt. Im Hintergrund sind Opfer in einen Käfig gesperrt.<li><b>Verlängert moderat</b> die Dauer der Wirkung von <i>Killerinstinkt</i>, wenn dieser durch <b>Riten des Urteils</b> ausgelöst wurde.</li>",
-        "name": "Nebliger Tag, Nachlass des Urteils ",
+        "name": "Nebliger Tag, Nachlass des Urteils",
         "flavor": "„Das ist er ...“",
         "id": 961,
         "index": "MISTY_DAY_REMAINS_OF_JUDGMENT",
@@ -3530,7 +3530,7 @@
     },
     {
         "description": "Der glatte graue Fuß einer Schaufensterpuppe, brutal vom Bein abgerissen.<li><b>Verlängert deutlich</b> den Zeitraum, in dem die Pfade von <b>Riten des Urteils</b> in der Umgebung verbleiben.</li>",
-        "name": "Schaufensterpuppenfuß ",
+        "name": "Schaufensterpuppenfuß",
         "id": 962,
         "index": "MANNEQUIN_FOOT",
         "owner": "EXECUTIONER",
@@ -3539,7 +3539,7 @@
     },
     {
         "description": "Ein Diagramm des Lakeview Hotels. Rote Flammen wurden über diesen Ort der Schuld gemalt.<li><b>Erhöht deutlich</b> die Reichweite von „Bestrafung der Verdammten“.</li>",
-        "name": "Bild „Brennender Mann“ ",
+        "name": "Bild „Brennender Mann“",
         "id": 963,
         "index": "BURNING_MAN_PAINTING",
         "owner": "EXECUTIONER",
@@ -3548,7 +3548,7 @@
     },
     {
         "description": "Ein frisches Ei, das auffallend rot ist. Es hat etwa die Größe eines Wachteleis.<li><b>Verlängert deutlich</b> die Dauer von <i>Killerinstinkt</i>, wenn dieser durch <b>Riten des Urteils</b> ausgelöst wurde.</li>",
-        "name": "Scharlachrotes Ei ",
+        "name": "Scharlachrotes Ei",
         "flavor": "„In meinem ganzen Leben hatte ich noch nie so viel Angst! Ich bin dir wirklich völlig egal, ... oder?“ – Maria",
         "id": 964,
         "index": "SCARLET_EGG",
@@ -3558,7 +3558,7 @@
     },
     {
         "description": "Ein seltsam aussehendes Ei in einem rötlichen Orange. Es hat etwa die Größe eines Wachteleis.<li>Überlebende, die von <b>Riten des Urteils</b> betroffen sind, erleiden den Statuseffekt <b>Erblindung</b>, und zwar für <b>60 Sekunden</b>.</li>",
-        "name": "Rostfarbenes Ei ",
+        "name": "Rostfarbenes Ei",
         "flavor": "„James, ... du hast mich glücklich gemacht.“ – Mary",
         "id": 965,
         "index": "RUST_COLORED_EGG",
@@ -3568,7 +3568,7 @@
     },
     {
         "description": "Ein Buch über die Geschichte und die Legenden von Silent Hill und der umliegenden Gegend.<li>Überlebende, die von <b>Riten des Urteils</b> betroffen sind, leiden unter dem Statuseffekt <b>Ahnungslos</b>, und zwar für <b>15 Sekunden</b>.</li><span class=\"FlavorText\">„Sie nannten diesen Ort den ‚Ort der stillen Gespenster‘.“</span>",
-        "name": "Buch „Verlorene Erinnerungen“ ",
+        "name": "Buch „Verlorene Erinnerungen“",
         "id": 966,
         "index": "LOST_MEMORIES_BOOK",
         "owner": "EXECUTIONER",
@@ -3577,7 +3577,7 @@
     },
     {
         "description": "Ein Buch über einen uralten Gott. Autor unbekannt.<li>Verletzte Überlebende, die von <i>Folter</i> betroffen sind, erleiden den Statuseffekt <b>Blutung</b>.</li>",
-        "name": "Buch „Blutrote Zeremonie“ ",
+        "name": "Buch „Blutrote Zeremonie“",
         "flavor": "„Sprich. Ich bin der Blutrote. Die Lügen und Nebel sind nicht sie sondern ich.“",
         "id": 967,
         "index": "CRIMSON_CEREMONY_COOK",
@@ -3587,7 +3587,7 @@
     },
     {
         "description": "Ein alt aussehender Kelch, der aus purem Obsidian geformt wurde.<li>Der <b>Henker</b> erhält den Statuseffekt <b>Unentdeckbar</b>, wenn er auf einem Pfad von <b>Riten des Urteils</b> steht.</li>",
-        "name": "Obsidiankelch ",
+        "name": "Obsidiankelch",
         "flavor": "„Verzeih, dass ich dich geweckt habe. Aber ohne dich kann ich einfach nicht weitermachen.“ – James Sunderland",
         "id": 968,
         "index": "OBSIDIAN_GOBLET",
@@ -3597,7 +3597,7 @@
     },
     {
         "description": "Ein Talisman mit einem merkwürdigen Design darauf. Der Einfluss des Entitus scheint es verändert zu haben.<li>Wenn du einen Überlebenden in einen <b>Bußkäfig</b> schickst, werden die Auren aller Überlebenden, die an <i>Folter</i> leiden für <b>6 Sekunden</b> angezeigt.</li>",
-        "name": "Schillerndes Metatron-Siegel ",
+        "name": "Schillerndes Metatron-Siegel",
         "flavor": "„Dieses magische Quadrat mit starken schützenden und bannenden Eigenschaften wird ‚Virun-Wappen VII‘ oder auch ‚Metatron-Siegel‘ genannt.“",
         "id": 969,
         "index": "IRIDESCENT_SEAL_OF_METATRON",
@@ -3607,7 +3607,7 @@
     },
     {
         "description": "Eine völlig wirkungslose Pille ... oder?<b>Verringert moderat</b> die Bewegungsgeschwindigkeit beim Stürmen.</li><li>Verdiene <b>100%</b> Bonus-Blutpunkte bei Sturm-Punkteereignissen.</li>",
-        "name": "Placebo-Tablette ",
+        "name": "Placebo-Tablette",
         "id": 1000,
         "index": "PLACEBO_TABLET",
         "owner": "BLIGHT",
@@ -3615,8 +3615,8 @@
         "image": "iconAddon_placeboTablet"
     },
     {
-        "description": "Eine giftige Pflanze, die Talbots Interesse an Chemie entfacht hat. Sie lässt tief vergrabene Erinnerungen wieder aufflammen.<br><br><li><b>Erhöht leicht</b> die Wiederherstellungsrate nach einem Sturm.</li> ",
-        "name": "Fingerhut ",
+        "description": "Eine giftige Pflanze, die Talbots Interesse an Chemie entfacht hat. Sie lässt tief vergrabene Erinnerungen wieder aufflammen.<br><br><li><b>Erhöht leicht</b> die Wiederherstellungsrate nach einem Sturm.</li>",
+        "name": "Fingerhut",
         "id": 1001,
         "index": "FOXGLOVE",
         "owner": "BLIGHT",
@@ -3625,7 +3625,7 @@
     },
     {
         "description": "Diese frühe Probe hat zwar nicht die gewünschten Ergebnisse geliefert, aber trotzdem überraschende Effekte gezeigt.<br><br><li>Richte dich nach einer Ramme automatisch in Richtung des nächsten Überlebenden im Umkreis von <b>16 Metern</b> aus.</li>",
-        "name": "Präparat Sieben ",
+        "name": "Präparat Sieben",
         "id": 1002,
         "index": "COMPOUND_SEVEN",
         "owner": "BLIGHT",
@@ -3643,7 +3643,7 @@
     },
     {
         "description": "Die Reste von Talbots Notizen. Es sind immer noch einige wertvolle Informationen darin enthalten.<br><br><li><b>Verringert</b> die Menge der verfügbaren Sturm-Zähler um <b>1.</b></li><li><b>Erhöht moderat</b> die Geschwindigkeit, mit der Zähler sich regenerieren.</li>",
-        "name": "Zerfetzte Notizen ",
+        "name": "Zerfetzte Notizen",
         "id": 1004,
         "index": "SHREDDED_NOTES",
         "owner": "BLIGHT",
@@ -3652,7 +3652,7 @@
     },
     {
         "description": "Getrocknete Blütenblätter der Pustelblume, die zu feinem Mehl verarbeitet wurden.<br><br><li><b>Erhöht moderat</b> die Dauer der Ramme.</li>",
-        "name": "Pustelmehl ",
+        "name": "Pustelmehl",
         "id": 1005,
         "index": "PUSTULA_DUST",
         "owner": "BLIGHT",
@@ -3669,7 +3669,7 @@
         "image": "iconAddon_plagueBile"
     },
     {
-        "description": "Ein ansehnlicher Dorn, der von einem Viszeralgeschwür abgeschnitten wurde. Er sondert ein mildes Gift ab.<br><br><li><b>Erhöht moderat</b> die Wiederherstellungsrate nach einem Sturm.</li> ",
+        "description": "Ein ansehnlicher Dorn, der von einem Viszeralgeschwür abgeschnitten wurde. Er sondert ein mildes Gift ab.<br><br><li><b>Erhöht moderat</b> die Wiederherstellungsrate nach einem Sturm.</li>",
         "name": "Geschwürdorn",
         "id": 1007,
         "index": "CANKER_THORN",
@@ -3679,7 +3679,7 @@
     },
     {
         "description": "Eine Ratte, die kurzzeitig ins Leben zurückkehrte, als ihr Serum injiziert wurde. Sie wurde aber aggressiv und unkontrollierbar.<br><br><li><b>Erhöht moderat</b> die Sturm-Geschwindigkeit für den jeweils darauffolgenden Sturm.</li>",
-        "name": "Verfaulte Ratte ",
+        "name": "Verfaulte Ratte",
         "id": 1008,
         "index": "BLIGHTED_RAT",
         "owner": "BLIGHT",
@@ -3688,7 +3688,7 @@
     },
     {
         "description": "Gewöhnliches Meeressalz, das vorübergehend durch die Geisterwelt bewegt wurde, wodurch es seine Eigenschaften verändert hatte.<br><br><li><b>Erhöht moderat</b> die Wenderate beim Stürmen.</li>",
-        "name": "Umbrasalz ",
+        "name": "Umbrasalz",
         "id": 1009,
         "index": "UMBRA_SALTS",
         "owner": "BLIGHT",
@@ -3697,7 +3697,7 @@
     },
     {
         "description": "Eine Mischung aus getrockneten Rosen vom außerordentlich seltenen Neumondbouquet.<br><br><li><b>Verlängert deutlich</b> die Dauer der Ramme.</li>",
-        "name": "Rosentonikum ",
+        "name": "Rosentonikum",
         "id": 1010,
         "index": "ROSE_TONIC",
         "owner": "BLIGHT",
@@ -3706,7 +3706,7 @@
     },
     {
         "description": "Ein für Menschen tödliches Serum. In jenen, die ... besonders sind, ruft es vorteilhafte Qualitäten hervor.<br><br><li>Beim Einleiten einer Ramme, enthüllt es die Auren der Überlebenden im Umkreis von <b>8 Metern</b> vom Ausgangspunkt der Kollision, und zwar für <b>3 Sekunden</b>.</li>",
-        "name": "Präparat Einundzwanzig ",
+        "name": "Präparat Einundzwanzig",
         "id": 1011,
         "index": "COMPOUND_TWENTY_ONE",
         "owner": "BLIGHT",
@@ -3714,8 +3714,8 @@
         "image": "iconAddon_compoundTwentyOne"
     },
     {
-        "description": "Eine tote Krähe, die auf groteske Weise durch ein Fäuleserum mutiert ist.<br><br><li><b>Erhöht deutlich</b> die Sturm-Geschwindigkeit für den jeweils darauffolgenden Sturm.</li> ",
-        "name": "Verfaulte Krähe ",
+        "description": "Eine tote Krähe, die auf groteske Weise durch ein Fäuleserum mutiert ist.<br><br><li><b>Erhöht deutlich</b> die Sturm-Geschwindigkeit für den jeweils darauffolgenden Sturm.</li>",
+        "name": "Verfaulte Krähe",
         "id": 1012,
         "index": "BLIGHTED_CROW",
         "owner": "BLIGHT",
@@ -3724,7 +3724,7 @@
     },
     {
         "description": "\"Ein Hormon, das einem Subjekt gegen seinen Willen aus der Nebenniere entnommen wurde. Obwohl es für einen Energieschub sorgt, kann es beim Nutzer zu Ermüdung führen.<br><br><li><b>Verringert deutlich</b> die Wenderate beim Stürmen.</li><li><b>Erhöht deutlich</b> \ndie Geschwindigkeit, mit der Zähler sich regenerieren.</li><li><b>Erhöht</b> die Anzahl verfügbarer Sturm-Zähler um <b>2.</b></li><li><b>Erhöht</b> den maximalen Blickwinkel beim Stürmen.</li><br><br><span class=\"\"FlavorText\"\">\"\"Bitte mach das nicht ...\"\"</span>\"",
-        "name": "Adrenalinfläschchen ",
+        "name": "Adrenalinfläschchen",
         "id": 1013,
         "index": "ADRENALINE_VIAL",
         "owner": "BLIGHT",
@@ -3733,7 +3733,7 @@
     },
     {
         "description": "Das Tagebuch eines Mannes, der behauptet, aus der Leere zurückgekehrt zu sein. Das Wissen, das darin aufgeschrieben ist, bietet praktischen Nutzen.<br><br><li>Du erhältst beim Stürmen den Statuseffekt <b>Unentdeckbar</b>.</li><br>",
-        "name": "Vigos Tagebuch ",
+        "name": "Vigos Tagebuch",
         "flavor": "\"In einer Wüste aus vergessenen Träumen und endloser Routine ist Gott derjenige, der den Ausweg kennt.\" – Talbot Grimes",
         "id": 1014,
         "index": "VIGOS_JOURNAL",
@@ -3743,7 +3743,7 @@
     },
     {
         "description": "Talbot hatte diesen Stein verwendet, um etwas in die Wände der Opiumhöhle zu kratzen, das er für seine Forschung hielt.<br><br><li>Triffst du einen Überlebenden mit einem Tödlichen Sturm, wird der Entitus gerufen, damit er im Radius von <b>12 Metern</b> um deine Position für <b>6 Sekunden</b> Paletten blockiert.</li><br>",
-        "name": "Beschwörungsstein ",
+        "name": "Beschwörungsstein",
         "flavor": "\"Der Tod ist erst der Anfang.\"",
         "id": 1015,
         "index": "SUMMONING_STONE",
@@ -3753,7 +3753,7 @@
     },
     {
         "description": "Eine Chemikalie, die aus der Pinealdrüse eines kürzlich verstorbenen Überlebenden gepresst wurde.<br><br><li>Während eines Sturms wird in dem Moment, in dem du einen Umkreis von <b>16 Metern</b> um einen Überlebenden betrittst, der repariert oder heilt, ein <b>enorm</b> schwieriger Fähigkeitscheck für diesen Überlebenden ausgelöst. Kann einmal pro Überlebenden und pro Sturm aktiviert werden. Wird nicht bei einem Sturm ausgelöst, der innerhalb eines Umkreises von <b>16 Metern</b> um den Überlebenden beginnt.</li><br>",
-        "name": "Seelenchemikalie ",
+        "name": "Seelenchemikalie",
         "flavor": "\"... steht unter Verdacht, atypische Veränderungen in der Aktivität der neuralen Rhythmik zu verursachen.\" – Nicht näher benannter Text der Geheimschule",
         "id": 1016,
         "index": "SOUL_CHEMICAL",
@@ -3763,7 +3763,7 @@
     },
     {
         "description": "Ein Ring, wie er Chemikern beim Abschluss an der London School of Medicine überreicht wird. Er ist eine Erinnerung daran, niemals nachzulassen.<br><br><li><b>Einen Überlebenden mit einem “Tödlichen Sturm” zu treffen, lädt sofort alle Sturm-Zähler auf.</li><br>",
-        "name": "Alchemistenring ",
+        "name": "Alchemistenring",
         "flavor": "\"Der Student wird der Grabräuberei und der Absicht nicht genehmigter wissenschaftlicher Tests bezichtigt.\" – Tadel der Fakultät an Talbot Grimes, 1838",
         "id": 1017,
         "index": "ALCHEMISTS_RING",
@@ -3783,7 +3783,7 @@
     },
     {
         "description": "Talbots ultimativer Versuch eines Serums. Es ermöglichte zwar nicht seine Flucht, verursachte aber starke Nebenwirkungen.<br><br><li>Jeder Überlebende im Umkreis von<b>16 Metern</b> einer Ramme, erleidet den <b>Eingeschränkt</b>-Statuseffekt für <b>3 Sekunden</b>.</li><li>Zuschlagende Paletten und zerstörbare Wände werden sie vernichten und die Fäule für <b>1.5 Sekunden</b> betäuben.</li><br>",
-        "name": "Präparat Dreiunddreißig ",
+        "name": "Präparat Dreiunddreißig",
         "flavor": "\"Die Zeit wird knapp. Hoffentlich ist es das jetzt ...\" – Talbot Grimes",
         "id": 1019,
         "index": "COMPOUND_THIRTY_THREE",
@@ -3873,7 +3873,7 @@
         "image": "iconAddon_babyTeeth"
     },
     {
-        "description": "Eine minderwertig hergestellte Rassel, wegen der Victor weinte, bis seine Mutter sie für ihn stahl. Für Kinderhände ist sie allerdings viel zu schwer.<br><br><li>Überlebende, die Victor entfernen, erleiden <b>20</b> Sekunden lang den Statuseffekt <b>Gebrochen</b>.</li> ",
+        "description": "Eine minderwertig hergestellte Rassel, wegen der Victor weinte, bis seine Mutter sie für ihn stahl. Für Kinderhände ist sie allerdings viel zu schwer.<br><br><li>Überlebende, die Victor entfernen, erleiden <b>20</b> Sekunden lang den Statuseffekt <b>Gebrochen</b>.</li>",
         "name": "Schwere Rassel",
         "id": 1059,
         "index": "WEIGHTY_RATTLE",
@@ -4257,7 +4257,7 @@
         "image": "iconAddon_tyrantGore"
     },
     {
-        "description": "Eine Probe des T-Virus, das von der Umbrella Corporation entwickelt wird. Verursacht extreme Mutationen und Hirnschäden bei den Versuchspersonen.<li><b>Erhöht deutlich</b> die Mutationsrate, wenn Zombies mit Tentakelschlag zerstört werden. ",
+        "description": "Eine Probe des T-Virus, das von der Umbrella Corporation entwickelt wird. Verursacht extreme Mutationen und Hirnschäden bei den Versuchspersonen.<li><b>Erhöht deutlich</b> die Mutationsrate, wenn Zombies mit Tentakelschlag zerstört werden.",
         "name": "T-Virus-Probe",
         "id": 1160,
         "index": "T_VIRUS_SAMPLE",
@@ -4276,7 +4276,7 @@
     },
     {
         "description": "Die verschlungenen Überreste einer mit dem T-Virus infizierten Pflanze, die einen der Wissenschaftler, die sie entwickelt haben, getötet hat.<li><b>Erhöht deutlich</b> die Zeit, die Überlebende zum Öffnen von Vorratskoffern brauchen.",
-        "name": "Ranken von Gewächs 43 ",
+        "name": "Ranken von Gewächs 43",
         "id": 1162,
         "index": "PLANT_43_VINES",
         "owner": "NEMESIS",

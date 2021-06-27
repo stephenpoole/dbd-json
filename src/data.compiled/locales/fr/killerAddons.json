@@ -1978,7 +1978,7 @@
         "image": "iconAddon_robinFeather"
     },
     {
-        "description": "Pièce d’un costume de Clown normal, les bouts des doigts coupés confèrent une grande dextérité.\n<li>Change l’arc du lancer de bouteille.</li>\n",
+        "description": "Pièce d’un costume de Clown normal, les bouts des doigts coupés confèrent une grande dextérité.\n<li>Change l’arc du lancer de bouteille.</li>",
         "name": "Mitaines de parade",
         "id": 552,
         "index": "FINGERLESS_PARADE_GLOVES",
@@ -2755,7 +2755,7 @@
     },
     {
         "description": "Sangles noires qui maintiennent tout en place pendant la traque.<br><li><b>Augmente légèrement</b> la vitesse de mouvement accroupi.</li>",
-        "name": "Sangles ",
+        "name": "Sangles",
         "id": 758,
         "index": "CINCH_STRAPS",
         "owner": "GHOST",
@@ -3063,7 +3063,7 @@
     {
         "description": "Si la corde avait été plus solide, elle aurait pu contenir Kazan. Malheureusement, il est parvenu à s’échapper avant de massacrer ses ravisseurs.<li><b>Augmente légèrement</b> la distance de détection de l’aura des orbes de sang.</li>",
         "name": "Corde en décomposition",
-        "flavor": "« Bien que la mort soit nette, il est du genre à sourciller. » - Doctrine de Renjiro 14:5 ",
+        "flavor": "« Bien que la mort soit nette, il est du genre à sourciller. » - Doctrine de Renjiro 14:5",
         "id": 851,
         "index": "ROTTING_ROPE",
         "owner": "ONI",
@@ -3239,7 +3239,7 @@
     },
     {
         "description": "Un morceau de toile crasseux. Un peu de salive et d’huile de coude ont suffi à nettoyer le fusil harpon dans le feu d’une fusillade.<li><b>Réduit légèrement</b> le temps de récupération du fusil harpon.</li>",
-        "name": "Tissu d'astiquage ",
+        "name": "Tissu d'astiquage",
         "id": 900,
         "index": "SPIT_POLISH_RAG",
         "owner": "DEATHSLINGER",
@@ -3248,7 +3248,7 @@
     },
     {
         "description": "Une teinture d’huiles et d’extraits censée soigner tous les maux, achetée à un vendeur ambulant.<li><b>Augmente légèrement</b> la vitesse de moulinet du fusil harpon.</li>",
-        "name": "Poudre de perlimpinpin ",
+        "name": "Poudre de perlimpinpin",
         "id": 901,
         "index": "SNAKE_OIL",
         "owner": "DEATHSLINGER",
@@ -3266,7 +3266,7 @@
     },
     {
         "description": "Une vieille ceinture à munitions modifiée par Caleb pour son armement spécialisé. Elle est encore couverte de la fine poussière rouge du désert du Territoire de l’Arizona.<li><b>Augmente légèrement</b> la vitesse de recharge du fusil harpon.</li>",
-        "name": "Ceinture à munitions modifiée ",
+        "name": "Ceinture à munitions modifiée",
         "id": 903,
         "index": "MODIFIED_AMMO_BELT",
         "owner": "DEATHSLINGER",
@@ -3275,7 +3275,7 @@
     },
     {
         "description": "Un crampon de chemin de fer fixé par Caleb à l’avant du fusil harpon dans un moment de curiosité morbide. Sa pointe émoussée l’empêche de transpercer proprement sa cible.<li>Frapper un survivant harponné lui inflige l’effet de statut <b>Estropiement</b>.</li>",
-        "name": "Crampon rouillé ",
+        "name": "Crampon rouillé",
         "id": 904,
         "index": "RUSTED_SPIKE",
         "owner": "DEATHSLINGER",
@@ -3293,7 +3293,7 @@
     },
     {
         "description": "Un insigne en argent pris sur le cadavre d’un policier qui chercha à toucher les primes du gang de Hellshire sur le Territoire de l’Arizona.<li><b>Réduit modérément</b> le rayon de terreur en ciblant à l’aide du viseur du fusil harpon.</li><li><b>Réduit légèrement</b> la vitesse de mouvement en ciblant à l’aide du viseur du fusil harpon.</li><span class=\"FlavorText\">« Fais tes prières, tu pendras au bout d’une corde à midi pile. » - Caleb Quinn</span>",
-        "name": "Insigne de Marshal ",
+        "name": "Insigne de Marshal",
         "id": 906,
         "index": "MARSHALS_BADGE",
         "owner": "DEATHSLINGER",
@@ -3302,7 +3302,7 @@
     },
     {
         "description": "La balle qui traversa la mâchoire de Caleb pendant une fusillade frénétique. Elle lui rappelle son désir brûlant de vengeance.<li><b>Augmente légèrement</b> la vitesse de mouvement en ciblant à l’aide du viseur du fusil harpon.</li><span class=\"FlavorText\">« Tu as invité la mort à te rendre visite dès que tu m’as fait du tort. » - Caleb Quinn</span>",
-        "name": "Casseur de mâchoires ",
+        "name": "Casseur de mâchoires",
         "id": 907,
         "index": "JAW_SMASHER",
         "owner": "DEATHSLINGER",
@@ -3320,7 +3320,7 @@
     },
     {
         "description": "Pour Caleb, le cliquetis sourd des clés évoque de violents souvenirs.<li><b>Augmente modérément</b> la vitesse de recharge du fusil harpon.</li>",
-        "name": "Clés du directeur ",
+        "name": "Clés du directeur",
         "id": 909,
         "index": "WARDENS_KEYS",
         "owner": "DEATHSLINGER",
@@ -3329,7 +3329,7 @@
     },
     {
         "description": "Les restes jaunis d'un avis de recherche au nom de Mason Kelly, qui a permis à Caleb de rester concentré sur sa traque.<li><b>Augmente modérément</b> la vitesse de mouvement en ciblant à l'aide du viseur du fusil harpon.</li><span class=\"FlavorText\">« L'addition va être salée, je le jure sur la tombe de ma mère. » - Caleb Quinn</span>",
-        "name": "Avis de recherche ",
+        "name": "Avis de recherche",
         "id": 910,
         "index": "WANTED_POSTER",
         "owner": "DEATHSLINGER",
@@ -3338,7 +3338,7 @@
     },
     {
         "description": "Un bidon contenant une faible quantité d’huile pour réduire la friction de la machinerie. Les premiers modèles du fusil harpon s’enrayaient facilement, et l’huile devait être à portée de main.<li><b>Réduit modérément</b> le temps de récupération du fusil harpon.</li>",
-        "name": "Bidon d'huile ",
+        "name": "Bidon d'huile",
         "id": 911,
         "index": "TIN_OIL_CAN",
         "owner": "DEATHSLINGER",
@@ -3347,7 +3347,7 @@
     },
     {
         "description": "Énervé d’avoir laissé filer une prime à deux reprises, Caleb façonna des branches d’épineux en une lance qu’il planta au sol.<li>Les survivants qui se libèrent d’un harpon souffrent de l’effet de statut <b>Estropiement</b>.</li>",
-        "name": "Épines de févier épineux ",
+        "name": "Épines de févier épineux",
         "id": 912,
         "index": "HONEY_LOCUST_THORNS",
         "owner": "DEATHSLINGER",
@@ -3419,7 +3419,7 @@
     },
     {
         "description": "Trouvé dans un réfrigérateur, un visage bouffi répugnant est gravé dessus.<li><b>Augmente légèrement</b> la durée des pistes des <b>Rites du jugement</b> dans l’environnement.</li>",
-        "name": "Anneau d’étain ",
+        "name": "Anneau d’étain",
         "id": 950,
         "index": "LEAD_RING",
         "owner": "EXECUTIONER",
@@ -3428,7 +3428,7 @@
     },
     {
         "description": "Trouvé sur un lit dans les appartements Woodside, un papillon fragile et qui risque de tomber en morceaux au moindre contact.<li><b>Augmente légèrement</b> la vitesse de recharge des <b>Rites du jugement</b>.</li>",
-        "name": "Papillon mort ",
+        "name": "Papillon mort",
         "id": 951,
         "index": "DEAD_BUTTERFLY",
         "owner": "EXECUTIONER",
@@ -3437,7 +3437,7 @@
     },
     {
         "description": "Trouvée dans la cave de l’hôpital Brookhaven, un dessin d’araignée est gravé dessus.<li><b>Augmente légèrement</b> le nombre de fois total où les <b>Rites du jugement</b> peuvent être effectués.</li>",
-        "name": "Anneau de cuivre ",
+        "name": "Anneau de cuivre",
         "flavor": "« J’étais enfermée dans le sous-sol du sous-sol. J’y étais tellement à l’étroit et il y faisait si sombre... j’avais si peur. J’ai perdu ma bague chérie. Mais je n’y retournerai jamais plus. »",
         "id": 952,
         "index": "COPPER_RING",
@@ -3447,7 +3447,7 @@
     },
     {
         "description": "Une sangle en nylon utilisée pour retenir une victime à une structure en métal. Il est difficile de distinguer le sang qui la recouvre en raison de sa couleur.<li><b>Augmente légèrement</b> la portée de <b>Châtiment des damnés</b>.</li>",
-        "name": "Sangle noire ",
+        "name": "Sangle noire",
         "id": 953,
         "index": "BLACK_STRAP",
         "owner": "EXECUTIONER",
@@ -3456,7 +3456,7 @@
     },
     {
         "description": "Une poupée de cire sculptée à la main par un prisonnier qui affronterait bientôt son verdict.<li><b>Augmente modérément</b> la portée de <b>Châtiment des damnés</b>.</li>",
-        "name": "Poupée de cire ",
+        "name": "Poupée de cire",
         "id": 954,
         "index": "WAX_DOLL",
         "owner": "EXECUTIONER",
@@ -3465,7 +3465,7 @@
     },
     {
         "description": "La pointe rouillée et affilée d’une lance. Elle est souillée du sang de sa dernière victime.<li><b>Augmente modérément</b> le nombre de fois où il est possible de procéder aux <b>Rites du jugement</b>.</li>",
-        "name": "Fer de lance ",
+        "name": "Fer de lance",
         "id": 955,
         "index": "SPEARHEAD",
         "owner": "EXECUTIONER",
@@ -3474,7 +3474,7 @@
     },
     {
         "description": "Un morceau de tissu rose à imprimé léopard. Difficile de savoir ce à quoi il a pu servir.<li><b>Augmente légèrement</b> la durée d’<i>Instinct de tueur</i> suite à une activation par <b>Rites du jugement</b>.</li>",
-        "name": "Tissu à imprimé léopard  ",
+        "name": "Tissu à imprimé léopard",
         "flavor": "« Peu importe qui je suis, je suis là pour toi, James. » - Maria",
         "id": 956,
         "index": "LEOPARD_PRINT_FABRIC",
@@ -3484,7 +3484,7 @@
     },
     {
         "description": "Une cassette vidéo de deux amants en vacances à Silent Hill. Malgré sa valeur sentimentale, elle a été laissée à l’hôtel Lakeview.<li><b>Augmente modérément</b> la vitesse de recharge des <b>Rites du jugement</b>.</li>",
-        "name": "Cassette vidéo oubliée ",
+        "name": "Cassette vidéo oubliée",
         "id": 957,
         "index": "FORGOTTEN_VIDEOTAPE",
         "owner": "EXECUTIONER",
@@ -3493,7 +3493,7 @@
     },
     {
         "description": "Une boîte à musique avec un personnage du conte de Cendrillon. Trouvée à l’intérieur d’une valise décorée d’autocollants de multiples destinations.<li><b>Augmente modérément</b> la durée des pistes des <b>Rites du jugement</b> dans l’environnement.</li>",
-        "name": "Boîte à musique « Cendrillon » ",
+        "name": "Boîte à musique « Cendrillon »",
         "id": 958,
         "index": "CINDERELLA_MUSIC_BOX",
         "owner": "EXECUTIONER",
@@ -3502,7 +3502,7 @@
     },
     {
         "description": "La photographie de deux silhouettes vêtues de capuches rouges intitulée Banquet cramoisi et blanc en l’honneur des Dieux.<li><b>Augmente considérablement</b> la vitesse de recharge des <b>Rites du jugement</b>.</li>",
-        "name": "Photographie de la secte de Valtiel ",
+        "name": "Photographie de la secte de Valtiel",
         "id": 959,
         "index": "VALTIEL_SECT_PHOTOGRAPH",
         "owner": "EXECUTIONER",
@@ -3511,7 +3511,7 @@
     },
     {
         "description": "Une tablette en métal sur laquelle sont gravées des représentations aztèques.<li><b>Augmente considérablement</b> le nombre total de fois où les <b>Rites du jugement</b> peuvent être effectués.</li>",
-        "name": "Tablette de l’Oppresseur ",
+        "name": "Tablette de l’Oppresseur",
         "id": 960,
         "index": "TABLET_OF_THE_OPPRESSOR",
         "owner": "EXECUTIONER",
@@ -3520,7 +3520,7 @@
     },
     {
         "description": "La peinture d’une silhouette imposante qui porte une pyramide d’acier sur la tête. En arrière-plan, des victimes sont enfermées dans des cages.<li><b>Augmente modérément</b> la durée d’<i>Instinct de tueur</i> suite à une activation par <b>Rites du jugement</b>.</li>",
-        "name": "Jour de brume, restes du Jugement ",
+        "name": "Jour de brume, restes du Jugement",
         "flavor": "« C’est lui... »",
         "id": 961,
         "index": "MISTY_DAY_REMAINS_OF_JUDGMENT",
@@ -3530,7 +3530,7 @@
     },
     {
         "description": "Le pied gris et lisse d’un mannequin, brutalement arraché de sa jambe.<li><b>Augmente considérablement</b> la durée des pistes des <b>Rites du jugement</b> dans l’environnement.</li>",
-        "name": "Pied de mannequin ",
+        "name": "Pied de mannequin",
         "id": 962,
         "index": "MANNEQUIN_FOOT",
         "owner": "EXECUTIONER",
@@ -3539,7 +3539,7 @@
     },
     {
         "description": "Un schéma de l’hôtel Lakeview. Des flammes rouges sont peintes sur ce lieu empli de culpabilité.<li><b>Augmente considérablement</b> la portée de Châtiment des damnés.</li>",
-        "name": "Peinture de l’homme en feu ",
+        "name": "Peinture de l’homme en feu",
         "id": 963,
         "index": "BURNING_MAN_PAINTING",
         "owner": "EXECUTIONER",
@@ -3548,7 +3548,7 @@
     },
     {
         "description": "Un œuf frais rouge de la taille approximative d’un œuf de caille.<li><b>Augmente considérablement</b> la durée d’<i>Instinct de tueur</i> suite à une activation par <b>Rites du jugement</b>.</li>",
-        "name": "Œuf écarlate ",
+        "name": "Œuf écarlate",
         "flavor": "« Je n’ai jamais eu aussi peur de toute ma vie ! Tu te fichais complètement de moi... n’est-ce pas ? » - Maria",
         "id": 964,
         "index": "SCARLET_EGG",
@@ -3558,7 +3558,7 @@
     },
     {
         "description": "De couleur orange rougeâtre, cet œuf de la taille approximative d’un œuf de caille semble vieux.<li>Les survivants affectés par <b>Rites du jugement</b> souffrent de l’effet de statut <b>Aveuglement</b> pendant <b>60 secondes</b>.</li>",
-        "name": "Œuf couleur rouille ",
+        "name": "Œuf couleur rouille",
         "flavor": "« James... Tu m’as rendue heureuse. » - Mary",
         "id": 965,
         "index": "RUST_COLORED_EGG",
@@ -3568,7 +3568,7 @@
     },
     {
         "description": "Parle de l’histoire, des légendes de Silent Hill et des environs.<li>Les survivants affectés par <b>Rites du jugement</b> souffrent de l’effet de statut <b>Inconscient</b> pendant <b>15 secondes</b>.</li><span class=\"FlavorText\">« Ils appellent cet endroit le Refuge des âmes muettes. »</span>",
-        "name": "Livre « Souvenirs perdus » ",
+        "name": "Livre « Souvenirs perdus »",
         "id": 966,
         "index": "LOST_MEMORIES_BOOK",
         "owner": "EXECUTIONER",
@@ -3577,7 +3577,7 @@
     },
     {
         "description": "Un livre sur un dieu ancien, d’un auteur inconnu.<li>Les survivants blessés affectés par <i>Tourment</i> souffrent de l’effet de statut <b>Hémorragie</b>.</li>",
-        "name": "Livre « Cérémonie Crimson » ",
+        "name": "Livre « Cérémonie Crimson »",
         "flavor": "« Parle. Je suis le grand Crimson. Maître du mensonge et du brouillard. »",
         "id": 967,
         "index": "CRIMSON_CEREMONY_COOK",
@@ -3587,7 +3587,7 @@
     },
     {
         "description": "Une coupe d’aspect ancien, en obsidienne pure.<li><b>Le Bourreau</b> gagne l’effet de statut <b>Indétectable</b> quand il se trouve sur une piste des <b>Rites du jugement</b>.</li>",
-        "name": "Coupe en obsidienne ",
+        "name": "Coupe en obsidienne",
         "flavor": "« Pardon de t’avoir réveillé. Mais sans toi, je n’ai plus envie de vivre. » - James Sunderland",
         "id": 968,
         "index": "OBSIDIAN_GOBLET",
@@ -3597,7 +3597,7 @@
     },
     {
         "description": "Un talisman gravé d’un motif étrange. L’influence de l’Entité semble l’avoir altéré.<li>Lorsque vous envoyez un survivant dans une <b>Cage d’expiation</b>, l’aura de tous les survivants souffrant de <i>Tourment</i> est révélée pendant <b>6 secondes</b>.</li>",
-        "name": "Sceau de Métatron iridescent ",
+        "name": "Sceau de Métatron iridescent",
         "flavor": "« Ce carré magique aux puissantes propriétés protectrices et de dissipation est connu comme l’Emblème Virun VII ou Sceau de Métatron. »",
         "id": 969,
         "index": "IRIDESCENT_SEAL_OF_METATRON",
@@ -3606,8 +3606,8 @@
         "image": "iconAddon_IridescentSeal"
     },
     {
-        "description": "Une pilule complètement inefficace... ou pas ?<br><br><li><b>Diminue modérément</b> la vitesse lors d’une Ruée.</li><li>Gagne <b>100%</b> plus de points de sang sur les évènements de Ruées.</li> ",
-        "name": "Comprimé placebo ",
+        "description": "Une pilule complètement inefficace... ou pas ?<br><br><li><b>Diminue modérément</b> la vitesse lors d’une Ruée.</li><li>Gagne <b>100%</b> plus de points de sang sur les évènements de Ruées.</li>",
+        "name": "Comprimé placebo",
         "id": 1000,
         "index": "PLACEBO_TABLET",
         "owner": "BLIGHT",
@@ -3616,7 +3616,7 @@
     },
     {
         "description": "Une plante toxique qui a éveillé l’intérêt de Talbot pour la chimie. Elle ravive des souvenirs profondément enfouis.<br><br><li><b>Augmente légèrement</b> la vitesse de rétablissement après une Ruée.</li>",
-        "name": "Digitale ",
+        "name": "Digitale",
         "id": 1001,
         "index": "FOXGLOVE",
         "owner": "BLIGHT",
@@ -3625,7 +3625,7 @@
     },
     {
         "description": "Cet échantillon des premiers jours ne put atteindre les résultats espérés mais démontra néanmoins des effets surprenants.<br><br><li>Fait automatiquement face au survivant le plus proche après un Impact dans un rayon de <b>16 mètres</b>.</li>",
-        "name": "Composé n° 7 ",
+        "name": "Composé n° 7",
         "id": 1002,
         "index": "COMPOUND_SEVEN",
         "owner": "BLIGHT",
@@ -3643,7 +3643,7 @@
     },
     {
         "description": "Ce qu’il reste des notes de Talbot... Elles renferment encore de précieuses informations.<br><br><li><b>Réduit</b> la quantité de jetons de Ruée de <b>1.</b></li><li><b>Augmente modérément</b> la régénération de jetons.</li>",
-        "name": "Notes déchirées ",
+        "name": "Notes déchirées",
         "id": 1004,
         "index": "SHREDDED_NOTES",
         "owner": "BLIGHT",
@@ -3652,7 +3652,7 @@
     },
     {
         "description": "Pétales de pustulas séchés broyés en une fine poussière.<br><br><li><b>Augmente modérément</b> la durée d’Impact.</li>",
-        "name": "Poussière de pustulas ",
+        "name": "Poussière de pustulas",
         "id": 1005,
         "index": "PUSTULA_DUST",
         "owner": "BLIGHT",
@@ -3669,7 +3669,7 @@
         "image": "iconAddon_plagueBile"
     },
     {
-        "description": "Une épine de belle taille, arrachée d’un ulcère viscéral et qui sécrète une légère toxine.<br><br><li><b>Augmente modérément</b> la vitesse de rétablissment après une Ruée.</li> ",
+        "description": "Une épine de belle taille, arrachée d’un ulcère viscéral et qui sécrète une légère toxine.<br><br><li><b>Augmente modérément</b> la vitesse de rétablissment après une Ruée.</li>",
         "name": "Ronce d’ulcère",
         "id": 1007,
         "index": "CANKER_THORN",
@@ -3679,7 +3679,7 @@
     },
     {
         "description": "Un rat qui a brièvement repris vie après une injection de sérum, devenant alors agressif et incontrôlable.<br><br><li><b>Augmente modérément</b> la vitesse de chaque Ruée consécutive.</li>",
-        "name": "Rat du Fléau ",
+        "name": "Rat du Fléau",
         "id": 1008,
         "index": "BLIGHTED_RAT",
         "owner": "BLIGHT",
@@ -3688,7 +3688,7 @@
     },
     {
         "description": "Du sel de mer normal qui a traversé le monde des esprits pendant un instant, ce qui a altéré ses propriétés.<br><br><li><b>Augmente modérément</b> la vitesse de rotation pendant une Ruée.</li>",
-        "name": "Sels des ombres ",
+        "name": "Sels des ombres",
         "id": 1009,
         "index": "UMBRA_SALTS",
         "owner": "BLIGHT",
@@ -3697,7 +3697,7 @@
     },
     {
         "description": "Un mélange composé des roses séchées de l'extrêmement rare Bouquet de nouvelle lune.<br><br><li><b>Augmente considérablement</b> la durée d’Impact.</li>",
-        "name": "Tonifiant aux roses ",
+        "name": "Tonifiant aux roses",
         "id": 1010,
         "index": "ROSE_TONIC",
         "owner": "BLIGHT",
@@ -3706,7 +3706,7 @@
     },
     {
         "description": "Un sérum, mortel pour les humains, qui éveille des qualités bénéfiques chez ceux qui sont... différents.<br><br><li>Lors d’un Impact, révèle l’aura des survivants jusqu'à <b>8 mètres</b> du point de collision pendant <b>3 secondes</b>.</li>",
-        "name": "Composé n° 21 ",
+        "name": "Composé n° 21",
         "id": 1011,
         "index": "COMPOUND_TWENTY_ONE",
         "owner": "BLIGHT",
@@ -3714,8 +3714,8 @@
         "image": "iconAddon_compoundTwentyOne"
     },
     {
-        "description": "Un corbeau mort aux mutations grotesques provoquées par le sérum du Fléau.<br><br><li><b>Augmente considérablement</b> la vitesse de chaque Ruée consécutive.</li> \n",
-        "name": "Corbeau du Fléau ",
+        "description": "Un corbeau mort aux mutations grotesques provoquées par le sérum du Fléau.<br><br><li><b>Augmente considérablement</b> la vitesse de chaque Ruée consécutive.</li>",
+        "name": "Corbeau du Fléau",
         "id": 1012,
         "index": "BLIGHTED_CROW",
         "owner": "BLIGHT",
@@ -3724,7 +3724,7 @@
     },
     {
         "description": "Une hormone extraite de la glande surrénale d’un sujet réticent. Bien qu’elle fournisse une poussée d’énergie, elle peut fatiguer son utilisateur.<br><br><li><b>Réduit énormément</b> la rotation durant une Ruée.</li><li><b>Augmente énormément</b> la régénération de jetons de Ruée. </li><li><b>Augmente</b> la quantité de jetons de Ruée de <b>2.</b></li><li><b>Augmente considérablement</b> l’angle maximal de vue lors d’une Ruée.</li><br>",
-        "name": "Fiole d’adrénaline ",
+        "name": "Fiole d’adrénaline",
         "flavor": "« S’il vous plaît, ne faites pas ça... »",
         "id": 1013,
         "index": "ADRENALINE_VIAL",
@@ -3734,7 +3734,7 @@
     },
     {
         "description": "Le journal d’un homme qui affirmait être revenu du Néant. Les informations qu’il contient ont des applications pratiques.<br><br><li>Gagnez l’effet de statut <b>Indétectable</b> pendant une Ruée.</li><br>",
-        "name": "Journal de Vigo ",
+        "name": "Journal de Vigo",
         "flavor": "« Au milieu d’un désert de rêves oubliés et de routine perpétuelle, l’homme avec une échappatoire est un dieu. » - Talbot Grimes",
         "id": 1014,
         "index": "VIGOS_JOURNAL",
@@ -3744,7 +3744,7 @@
     },
     {
         "description": "Talbot a utilisé cette pierre pour graver ce qu’il pensait être ses recherches sur les murs de la fumerie d’opium.<br><br><li>Frapper un survivant avec une Ruée mortelle invoque l’Entité pour bloquer les palettes dans un rayon de <b>12 mètres</b> autour de votre position pendant <b>6 secondes</b>.</li><br>",
-        "name": "Pierre d’invocation ",
+        "name": "Pierre d’invocation",
         "flavor": "« La mort n’est que le commencement. »",
         "id": 1015,
         "index": "SUMMONING_STONE",
@@ -3754,7 +3754,7 @@
     },
     {
         "description": "Une substance chimique tirée de la glande pinéale d’un survivant récemment décédé.<br><br><li>Pendant une Ruée, quand vous entrez dans le rayon de <b>16 mètres</b> d’un survivant en train de réparer ou soigner, vous déclenchez pour ce dernier un test d’habileté d’une difficulté <b>énorme</b>. Peut être activé une fois par survivant par Ruée. Ne se déclenche pas suite à une Ruée qui commence à moins de <b>16 mètres</b> du survivant.</li><br>",
-        "name": "Substance d’âme ",
+        "name": "Substance d’âme",
         "flavor": "« ... soupçonné de provoquer des altérations atypiques de l’activité rythmique neuronale. » - Mystérieux travail d’études non attribué",
         "id": 1016,
         "index": "SOUL_CHEMICAL",
@@ -3764,7 +3764,7 @@
     },
     {
         "description": "Un anneau donné aux chimistes diplômés de l’école de médecine de Londres... C'est un rappel de l'ambition sans frein.<br><br><li>Frapper une victime lors d’une Ruée mortelle recharge instantanément tous les jetons de Ruée.</li><br>",
-        "name": "Anneau d’alchimiste ",
+        "name": "Anneau d’alchimiste",
         "flavor": "« L’étudiant est accusé de pillage de tombes dans le but d’effectuer des tests scientifiques non autorisés. » — Réprimande de Talbot Grimes, 1838",
         "id": 1017,
         "index": "ALCHEMISTS_RING",
@@ -3784,7 +3784,7 @@
     },
     {
         "description": "Avant-dernière tentative de Talbot pour concevoir un sérum. Même s’il n'a pas facilité sa fuite, il infligeait de puissants effets secondaires.<br><br><li>Tout Survivant dans un rayon de <b>16 mètres</b> d’un Impact souffrira de l’effet de statut <b>Entrave</b> pendant <b>3 secondes</b>.</li><li>Effectuer une Ruée sur une palette ou un mur destructible le brisera et étourdira le Fléau durant <b>1.5 secondes.</b></li><br>",
-        "name": "Composé n° 33 ",
+        "name": "Composé n° 33",
         "flavor": "« Le temps manque. Espérons que ça marche cette fois... » - Talbot Grimes",
         "id": 1019,
         "index": "COMPOUND_THIRTY_THREE",
@@ -3874,7 +3874,7 @@
         "image": "iconAddon_babyTeeth"
     },
     {
-        "description": "Un hochet mal taillé pour lequel Victor a pleuré jusqu’à ce que sa mère le vole. Beaucoup trop lourd pour le confier à un enfant.<br><br><li>Les survivants qui se débarrassent de Victor souffrent de l’effet de statut <b>Brisé</b> pendant <b>20 secondes.</b></li> ",
+        "description": "Un hochet mal taillé pour lequel Victor a pleuré jusqu’à ce que sa mère le vole. Beaucoup trop lourd pour le confier à un enfant.<br><br><li>Les survivants qui se débarrassent de Victor souffrent de l’effet de statut <b>Brisé</b> pendant <b>20 secondes.</b></li>",
         "name": "Hochet lourd",
         "id": 1059,
         "index": "WEIGHTY_RATTLE",
@@ -4258,7 +4258,7 @@
         "image": "iconAddon_tyrantGore"
     },
     {
-        "description": "Un échantillon du virus T développé par Umbrella Corporation. Il inflige des mutations extrêmes et des lésions cérébrales aux sujets.<li><b>Augmente considérablement</b> le taux de mutation en détruisant des zombies avec Coup de tentacule. ",
+        "description": "Un échantillon du virus T développé par Umbrella Corporation. Il inflige des mutations extrêmes et des lésions cérébrales aux sujets.<li><b>Augmente considérablement</b> le taux de mutation en détruisant des zombies avec Coup de tentacule.",
         "name": "Échantillon du virus T",
         "id": 1160,
         "index": "T_VIRUS_SAMPLE",
@@ -4277,7 +4277,7 @@
     },
     {
         "description": "Les restes enchevêtrés d’une plante infectée par le virus T. Elle a tué l’un des scientifiques responsables de son développement.<li><b>Augmente considérablement</b> le temps requis par les survivants pour ouvrir des caisses de ravitaillement.",
-        "name": "Lianes de plante 43 ",
+        "name": "Lianes de plante 43",
         "id": 1162,
         "index": "PLANT_43_VINES",
         "owner": "NEMESIS",

@@ -1096,7 +1096,7 @@
         ]
     },
     {
-        "description": "La precisione e l'efficacia nelle manutenzioni sono il tuo marchio di fabbrica.<br>Il rumore prodotto dalle tue riparazioni e la distanza a cui può essere sentito sono ridotti di <span class=\"Highlight2\">{0} metri</span>. Se fallisci un Test Abilità, le possibilità che il generatore non esploda sono del <span class=\"Highlight1\">{1}%</span>. ",
+        "description": "La precisione e l'efficacia nelle manutenzioni sono il tuo marchio di fabbrica.<br>Il rumore prodotto dalle tue riparazioni e la distanza a cui può essere sentito sono ridotti di <span class=\"Highlight2\">{0} metri</span>. Se fallisci un Test Abilità, le possibilità che il generatore non esploda sono del <span class=\"Highlight1\">{1}%</span>.",
         "name": "Tecnico",
         "flavor": "\"Sarò furtiva come un ninja.\" - Feng Min",
         "id": 141,
@@ -2129,7 +2129,7 @@
     },
     {
         "description": "Essere preda di forze maligne è divenuta una consuetudine e hai iniziato a sfruttare la situazione a tuo vantaggio.<br><br><i>Alleanza repressa</i> si attiva dopo aver riparato i generatori per un totale di <span class=\"Highlight1\">{0} secondi.</span><br><br>Quando ripari un generatore mentre la competenza è attiva, premi il <i>pulsante abilità attiva</i> per invocare l'Entità e bloccare il generatore per <span class=\"Highlight2\">{1} secondi</span>. La competenza si disattiva.<br><br>I generatori interessati verranno rivelati a tutti i sopravvissuti da un'aura bianca.",
-        "name": "Alleanza repressa ",
+        "name": "Alleanza repressa",
         "id": 179,
         "index": "REPRESSED_ALLIANCE",
         "rarity": [

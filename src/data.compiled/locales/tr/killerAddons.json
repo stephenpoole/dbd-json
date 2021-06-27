@@ -1978,7 +1978,7 @@
         "image": "iconAddon_robinFeather"
     },
     {
-        "description": "Standart Palyaço kostümünün bir parçası. Kesik parmaklar, ustaca hile yapmasına olanak sağlar.\n<li>Şişe fırlatma açısını değiştirir.</li>\n",
+        "description": "Standart Palyaço kostümünün bir parçası. Kesik parmaklar, ustaca hile yapmasına olanak sağlar.\n<li>Şişe fırlatma açısını değiştirir.</li>",
         "name": "Parmaksız Gösteri Eldiveni",
         "id": 552,
         "index": "FINGERLESS_PARADE_GLOVES",
@@ -2755,7 +2755,7 @@
     },
     {
         "description": "Sinsice dolaşırken her şeyin yerli yerinde durmasını sağlayan siyah kayışlar.<br><li>Eğildiğinde sahip olduğun hareket hızını <b>biraz arttırır</b>.</li>",
-        "name": "Kavrama Kayışı ",
+        "name": "Kavrama Kayışı",
         "id": 758,
         "index": "CINCH_STRAPS",
         "owner": "GHOST",
@@ -3063,7 +3063,7 @@
     {
         "description": "Halat biraz daha güçlü olsaydı belki Kazan'ı zapt etmeye yeterdi. Nihayetinde Kazan kaçtı ve onu esir alanları kılıçtan geçirdi.<li>Kan Kürelerinin harelerinin tespit edilme mesafesini <b>biraz arttırır</b>.</li>",
         "name": "Çürüyen İp",
-        "flavor": "\"Ölüm çok dikkatli olsa da arada bir göz kırptığı da görülmüştür.\" -Renjiro'nun Doktrini 14:5 ",
+        "flavor": "\"Ölüm çok dikkatli olsa da arada bir göz kırptığı da görülmüştür.\" -Renjiro'nun Doktrini 14:5",
         "id": 851,
         "index": "ROTTING_ROPE",
         "owner": "ONI",
@@ -3239,7 +3239,7 @@
     },
     {
         "description": "Bir parça pis çuval bezi. Silahlı çatışmanın telaşında Zıpkın Tüfeği'ni temizlemek için tükürük ve alın teri iş görüyordu.<li>Başarısız atışlardan sonra Zıpkın Tüfeği'nin bekleme süresini <b>biraz azaltır</b>.</li>",
-        "name": "Tükürüklü Bez ",
+        "name": "Tükürüklü Bez",
         "id": 900,
         "index": "SPIT_POLISH_RAG",
         "owner": "DEATHSLINGER",
@@ -3248,7 +3248,7 @@
     },
     {
         "description": "Seyyar satıcıdan alınmış, yağ ve özütlerden oluşan bir sıvı. Başına gelen tüm husumetleri iyileştireceği iddia ediliyor.<li>Zıpkın Tüfeği'nin sarma hızını <b>biraz arttırır</b>.</li>",
-        "name": "Yılan Yağı ",
+        "name": "Yılan Yağı",
         "id": 901,
         "index": "SNAKE_OIL",
         "owner": "DEATHSLINGER",
@@ -3266,7 +3266,7 @@
     },
     {
         "description": "Caleb'ın özel silahları için modifiye ettiği eski bir fişeklik. Hâlâ Arizona Bölgesi'ne ait ince kırmızı kumla dolu.<li>Zıpkın Tüfeği'ni doldurma hızını <b>biraz arttırır</b>.</li>",
-        "name": "Modifiye Fişeklik ",
+        "name": "Modifiye Fişeklik",
         "id": 903,
         "index": "MODIFIED_AMMO_BELT",
         "owner": "DEATHSLINGER",
@@ -3275,7 +3275,7 @@
     },
     {
         "description": "Caleb'ın gaza gelip hastalıklı bir merakla Zıpkın Tüfeği'nin önüne iliştirdiği tren rayı çivisi. Körleşmiş ucu, hedefini temiz şekilde delip geçmesini engelliyor.<li>Zıpkınlanmış bir Kurban'a vurmak, <b>Ağır Yaralı</b> durum etkisi uygular.</li>",
-        "name": "Paslı Çivi ",
+        "name": "Paslı Çivi",
         "id": 904,
         "index": "RUSTED_SPIKE",
         "owner": "DEATHSLINGER",
@@ -3293,7 +3293,7 @@
     },
     {
         "description": "Arizona'da Hellshire Çetesi'nin işine karışan bir kanun adamının cesedinden sökülmüş gümüş bir rozet.<li>Zıpkın Tüfeği ile yakınlaştırılarak nişan alındığında dehşet alanını <b>biraz azaltır</b>.</li><li>Zıpkın Tüfeği ile yakınlaştırılarak nişan alındığında hareket hızını <b>biraz azaltır</b>.</li><span class=\"FlavorText\">\"Öğleye kalmadan sallandırılacaksın, son duanı et.\" -Caleb Quinn</span>",
-        "name": "Polis Şefinin Rozeti ",
+        "name": "Polis Şefinin Rozeti",
         "id": 906,
         "index": "MARSHALS_BADGE",
         "owner": "DEATHSLINGER",
@@ -3302,7 +3302,7 @@
     },
     {
         "description": "Çılgın bir silahlı çatışma esnasında Caleb'ın çenesini delip geçen mermi. Yakıcı intikam duyguları uyandırır.<li>Zıpkın Tüfeği ile yakınlaştırılarak nişan alındığında hareket hızını <b>biraz arttırır</b>.</li><span class=\"FlavorText\">\"Bana yanlış yapan, ölümü evine davet eder.\" -Caleb Quinn</span>",
-        "name": "Çene Ezici ",
+        "name": "Çene Ezici",
         "id": 907,
         "index": "JAW_SMASHER",
         "owner": "DEATHSLINGER",
@@ -3320,7 +3320,7 @@
     },
     {
         "description": "Tekinsiz anahtar şıkırtıları, Caleb'a öfke dolu bir anıyı hatırlatıyor.<li>Zıpkın Tüfeği'ni doldurma hızını <b>orta seviyede</b> arttırır.</li>",
-        "name": "Gardiyanın Anahtarları ",
+        "name": "Gardiyanın Anahtarları",
         "id": 909,
         "index": "WARDENS_KEYS",
         "owner": "DEATHSLINGER",
@@ -3329,7 +3329,7 @@
     },
     {
         "description": "Mason Kelly'ye ait bir aranıyor posterinden geri kalan sararmış parçalar. Caleb'ın odaklanmasını sağlardı.<li>Zıpkın Tüfeği ile yakınlaştırılarak nişan alındığında hareket hızını <b>orta seviyede</b> arttırır.</li><span class=\"FlavorText\">\"Anamın ölüsü üzerine yemin ederim ki belanı bulacaksın.\" -Caleb Quinn</span>",
-        "name": "Aranıyor Posteri ",
+        "name": "Aranıyor Posteri",
         "id": 910,
         "index": "WANTED_POSTER",
         "owner": "DEATHSLINGER",
@@ -3338,7 +3338,7 @@
     },
     {
         "description": "Makine sürtünmesini önleyen az miktarda yağla dolu bir teneke. Zıpkın Tüfeği'nin eski modelleri sıkça tutukluk yapmasıyla meşhurdu ve yağ bulundurmak, olmazsa olmazlardandı.<li>Başarısız atışlardan sonra Zıpkın Tüfeği'nin bekleme süresini <b>orta seviyede azaltır</b>.</li>",
-        "name": "Teneke Yağdanlık ",
+        "name": "Teneke Yağdanlık",
         "id": 911,
         "index": "TIN_OIL_CAN",
         "owner": "DEATHSLINGER",
@@ -3347,7 +3347,7 @@
     },
     {
         "description": "Daha önce iki kez elinden kaçan bir suçluya kızan Caleb, dikenli dallar doladığı bir zıpkını fırlattı.<li>Zıpkın Tüfeği'nden kurtulan Kurbanlara <b>Ağır Yaralı</b> durum etkisi uygulanır.</li>",
-        "name": "Gladiçya Dikenleri ",
+        "name": "Gladiçya Dikenleri",
         "id": 912,
         "index": "HONEY_LOCUST_THORNS",
         "owner": "DEATHSLINGER",
@@ -3419,7 +3419,7 @@
     },
     {
         "description": "Bir buzdolabında bulunmuş. Üzerine şiş, iğrenç bir surat oyulmuş.<li><b>Azap Yolu</b>'nun bıraktığı izlerin ortamda kalma süresini <b>biraz arttırır</b>.</li>",
-        "name": "Kurşun Yüzük ",
+        "name": "Kurşun Yüzük",
         "id": 950,
         "index": "LEAD_RING",
         "owner": "EXECUTIONER",
@@ -3428,7 +3428,7 @@
     },
     {
         "description": "Wood Side Apartmanları'nda bir yatağın üzerinde bulunmuş bir kelebek. Çok narin, dokununca parçalanacak gibi oluyor.<li><b>Azap Yolu</b>'nun yenilenme hızını <b>biraz arttırır</b>.</li>",
-        "name": "Ölü Kelebek ",
+        "name": "Ölü Kelebek",
         "id": 951,
         "index": "DEAD_BUTTERFLY",
         "owner": "EXECUTIONER",
@@ -3437,7 +3437,7 @@
     },
     {
         "description": "Brookhaven Hastanesi'nin bodrumunda bulunmuş. Üzerine bir örümcek resmi oyulmuş.<li><b>Azap Yolu</b>'nun toplam kullanım süresini <b>biraz arttırır</b>.</li>",
-        "name": "Bakır Yüzük ",
+        "name": "Bakır Yüzük",
         "flavor": "\"Bodrumun da bodrum katında hapistim. O kadar küçük ve karanlıktı, o kadar korkuyordum ki. Kıymetli yüzüğümü orada düşürdüm. Ama oraya bir daha asla dönmem.\"",
         "id": 952,
         "index": "COPPER_RING",
@@ -3447,7 +3447,7 @@
     },
     {
         "description": "Bir kurbanı metal bir çerçeveye bağlamak için kullanılmış naylon bir kayış. Ne kadar kanlı olduğu, rengi yüzünden anlaşılmıyor.<li><b>Lanetlilerin Cezası</b>'nın menzilini <b>biraz arttırır</b>.</li>",
-        "name": "Siyah Kayış ",
+        "name": "Siyah Kayış",
         "id": 953,
         "index": "BLACK_STRAP",
         "owner": "EXECUTIONER",
@@ -3456,7 +3456,7 @@
     },
     {
         "description": "Kısa süre sonra cezasını çekecek bir mahkûmun balmumundan oyduğu el yapımı bir bebek.<li><b>Lanetlilerin Cezası</b>'nın menzilini <b>orta seviyede arttırır</b>.</li>",
-        "name": "Balmumu Bebek ",
+        "name": "Balmumu Bebek",
         "id": 954,
         "index": "WAX_DOLL",
         "owner": "EXECUTIONER",
@@ -3465,7 +3465,7 @@
     },
     {
         "description": "Bir mızrağın keskin, paslı ucu. Son kurbanının kanı, üzerinde kurumuş.<li><b>Azap Yolu</b>'nun toplam kullanım süresini <b>orta seviyede arttırır</b>.</li>",
-        "name": "Mızrak Ucu ",
+        "name": "Mızrak Ucu",
         "id": 955,
         "index": "SPEARHEAD",
         "owner": "EXECUTIONER",
@@ -3474,7 +3474,7 @@
     },
     {
         "description": "Pembe, leopar desenli bir kumaş parçası. Ne için kullanıldığını anlamak zor.<li><b>Azap Yolu</b> tarafından tetiklendiğinde <i>Katil İçgüdüsü</i>'nün süresini <b>biraz arttırır</b>.</li>",
-        "name": "Leopar Desenli Kumaş  ",
+        "name": "Leopar Desenli Kumaş",
         "flavor": "\"Kim olduğumun önemi yok. Yanındayım, James.\" -Maria",
         "id": 956,
         "index": "LEOPARD_PRINT_FABRIC",
@@ -3484,7 +3484,7 @@
     },
     {
         "description": "İki sevgilinin Silent Hill'deki tatilinin kaydedildiği bir video kaset. Manevi değerine karşın Lakeview Oteli'nde bırakılmış.<li><b>Azap Yolu</b>'nun yenilenme hızını <b>orta seviyede arttırır</b>.</li>",
-        "name": "Unutulmuş Kaset ",
+        "name": "Unutulmuş Kaset",
         "id": 957,
         "index": "FORGOTTEN_VIDEOTAPE",
         "owner": "EXECUTIONER",
@@ -3493,7 +3493,7 @@
     },
     {
         "description": "Külkedisi masalından bir figürle süslenmiş bir müzik kutusu. Pek çok ülkeye ait seyahat etiketleriyle süslenmiş bir valizin içinde bulunmuş.<li><b>Azap Yolu</b>'nun bıraktığı izlerin ortamda kalma süresini <b>orta seviyede arttırır</b>.</li>",
-        "name": "Külkedisi Müzik Kutusu ",
+        "name": "Külkedisi Müzik Kutusu",
         "id": 958,
         "index": "CINDERELLA_MUSIC_BOX",
         "owner": "EXECUTIONER",
@@ -3502,7 +3502,7 @@
     },
     {
         "description": "Kırmızı kukuletalı iki siluetin fotoğrafı. İsmi Tanrılar İçin Kızıl ve Beyaz Şölen.<li><b>Azap Yolu</b>'nun yenilenme hızını <b>önemli ölçüde arttırır</b>.</li>",
-        "name": "Valtiel Tarikatı Fotoğrafı ",
+        "name": "Valtiel Tarikatı Fotoğrafı",
         "id": 959,
         "index": "VALTIEL_SECT_PHOTOGRAPH",
         "owner": "EXECUTIONER",
@@ -3511,7 +3511,7 @@
     },
     {
         "description": "Üzerine Aztek desenleri kazınmış metal bir tablet.<li><b>Azap Yolu</b>'nun toplam kullanım süresini <b>önemli ölçüde arttırır</b>.</li>",
-        "name": "Despotun Tableti ",
+        "name": "Despotun Tableti",
         "id": 960,
         "index": "TABLET_OF_THE_OPPRESSOR",
         "owner": "EXECUTIONER",
@@ -3520,7 +3520,7 @@
     },
     {
         "description": "Başına çelik bir piramit takmış, ürkütücü bir figürü tasvir eden bir tablo. Arka planda kafesler içinde kurbanlar var.<li><b>Azap Yolu</b> tarafından tetiklendiğinde <i>Katil İçgüdüsü</i>'nün süresini <b>orta seviyede arttırır</b>.</li>",
-        "name": "Sisli Gün, Yargıdan Kalanlar ",
+        "name": "Sisli Gün, Yargıdan Kalanlar",
         "flavor": "\"Bu o...\"",
         "id": 961,
         "index": "MISTY_DAY_REMAINS_OF_JUDGMENT",
@@ -3530,7 +3530,7 @@
     },
     {
         "description": "Bir vitrin mankeninin bacağından vahşice koparılmış, pürüzsüz, gri ayak.<li><b>Azap Yolu</b>'nun bıraktığı izlerin ortamda kalma süresini <b>önemli ölçüde arttırır</b>.</li>",
-        "name": "Manken Ayağı ",
+        "name": "Manken Ayağı",
         "id": 962,
         "index": "MANNEQUIN_FOOT",
         "owner": "EXECUTIONER",
@@ -3539,7 +3539,7 @@
     },
     {
         "description": "Lakeview Oteli'nin bir krokisi. Bu suçluluk dolu yerin üzerine kırmızı alevler çizilmiş.<li>Lanetlilerin Cezası'nın mesafesini <b>önemli ölçüde</b> arttırır.</li>",
-        "name": "Yanan Adam Tablosu ",
+        "name": "Yanan Adam Tablosu",
         "id": 963,
         "index": "BURNING_MAN_PAINTING",
         "owner": "EXECUTIONER",
@@ -3548,7 +3548,7 @@
     },
     {
         "description": "Çarpıcı bir kırmızılıkta, taze bir yumurta. Büyüklüğü bıldırcın yumurtası kadar.<li><b>Azap Yolu</b> tarafından tetiklendiğinde <i>Katil İçgüdüsü</i>'nün süresini <b>önemli ölçüde arttırır</b>.</li>",
-        "name": "Kızıl Yumurta ",
+        "name": "Kızıl Yumurta",
         "flavor": "\"Ömrümde böyle korkmamıştım! Beni hiç umursamıyorsun... değil mi?\" -Maria",
         "id": 964,
         "index": "SCARLET_EGG",
@@ -3558,7 +3558,7 @@
     },
     {
         "description": "Kırmızımsı turuncu renkte, bayat görünümlü bir yumurta. Büyüklüğü bıldırcın yumurtası kadar.<li><b>Azap Yolu</b>'ndan etkilenen Kurbanlar <b>60 saniyeliğine</b> <b>Körlük</b> durum etkisi altına girer.</li>",
-        "name": "Pas Rengi Yumurta ",
+        "name": "Pas Rengi Yumurta",
         "flavor": "\"James... Beni mutlu ettin.\" -Mary",
         "id": 965,
         "index": "RUST_COLORED_EGG",
@@ -3568,7 +3568,7 @@
     },
     {
         "description": "Silent Hill'le çevresindeki bölgenin tarihi ve efsaneleri hakkında bir kitap.<li><b>Azap Yolu</b>'ndan etkilenen Kurbanlar <b>15 saniyeliğine</b> <b>Bihaber</b> durum etkisi altına girer.</li><span class=\"FlavorText\">\"Buraya 'Sessiz Ruhların Mekânı' derlerdi.\"</span>",
-        "name": "Kayıp Hatıralar Kitabı ",
+        "name": "Kayıp Hatıralar Kitabı",
         "id": 966,
         "index": "LOST_MEMORIES_BOOK",
         "owner": "EXECUTIONER",
@@ -3577,7 +3577,7 @@
     },
     {
         "description": "Kadim bir tanrı hakkında bir kitap. Yazarı bilinmiyor.<li><i>Azap</i> durum etkisi altındaki yaralı Kurbanlar <b>Kan Kaybı</b> durum etkisi altına girer.</li>",
-        "name": "Kızıl Tören Kitabı ",
+        "name": "Kızıl Tören Kitabı",
         "flavor": "\"Konuş. Ben Kızıl Kişi'yim. Yalanlar ve sis onlar değil, benim.\"",
         "id": 967,
         "index": "CRIMSON_CEREMONY_COOK",
@@ -3587,7 +3587,7 @@
     },
     {
         "description": "Som obsidiyenden oyulmuş, antik görünümlü bir kadeh.<li><b>Cellat</b>, <b>Azap Yolu</b>'nun izi üzerinde dururken <b>Tespit Edilemez</b> durum etkisini kazanır.</li>",
-        "name": "Obsidiyen Kadeh ",
+        "name": "Obsidiyen Kadeh",
         "flavor": "\"Uyandırdığım için özür dilerim. Ama sensiz devam edemiyorum.\" -James Sunderland",
         "id": 968,
         "index": "OBSIDIAN_GOBLET",
@@ -3597,7 +3597,7 @@
     },
     {
         "description": "Üzerine tuhaf bir desen kazınmış bir tılsım. Mahluk'un etkisi onu değiştirmiş gibi.<li>Bir Kurban'ı <b>Kefaret Kafesi</b>'ne gönderirken, <i>Azap</i> etkisindeki tüm Kurbanların hareleri <b>6 saniyeliğine</b> görünür olur.</li>",
-        "name": "Metatron'un Parıltılı Mührü ",
+        "name": "Metatron'un Parıltılı Mührü",
         "flavor": "\"Güçlü koruma ve def etme özelliklerine sahip bu büyülü kareye 'VII. Virun'un Tuğrası' ya da 'Metatron'un Mührü' denir.\"",
         "id": 969,
         "index": "IRIDESCENT_SEAL_OF_METATRON",
@@ -3607,7 +3607,7 @@
     },
     {
         "description": "Hiçbir işe yaramayan bir hap... mı acaba?<br><br><li>Akın sırasında hareket hızını <b>orta seviyede azaltır</b>.</li><li>Akın skor etkinliklerinde <b>%100</b> bonus Kan Puanı kazan.</li>",
-        "name": "Teselli İlacı ",
+        "name": "Teselli İlacı",
         "id": 1000,
         "index": "PLACEBO_TABLET",
         "owner": "BLIGHT",
@@ -3615,8 +3615,8 @@
         "image": "iconAddon_placeboTablet"
     },
     {
-        "description": "Talbot'ın kimyaya olan ilgisini alevlendiren zehirli bir bitki. Unutulmuş anıları geri getirir.<br><br><li>Akın sonrasında iyileşme hızını <b>biraz arttırır</b>.</li> ",
-        "name": "Yüksükotu ",
+        "description": "Talbot'ın kimyaya olan ilgisini alevlendiren zehirli bir bitki. Unutulmuş anıları geri getirir.<br><br><li>Akın sonrasında iyileşme hızını <b>biraz arttırır</b>.</li>",
+        "name": "Yüksükotu",
         "id": 1001,
         "index": "FOXGLOVE",
         "owner": "BLIGHT",
@@ -3624,8 +3624,8 @@
         "image": "iconAddon_foxglove"
     },
     {
-        "description": "Deneyin başlarında hazırlanan bu numune istenen sonucu vermese de şaşırtıcı etkilere sebep oldu.<br><br><li>Çarpma'dan sonra <b>16 metre</b> çevresinde en yakındaki Kurban'la yüz yüze gelirsin.</li> ",
-        "name": "Yedinci Bileşik ",
+        "description": "Deneyin başlarında hazırlanan bu numune istenen sonucu vermese de şaşırtıcı etkilere sebep oldu.<br><br><li>Çarpma'dan sonra <b>16 metre</b> çevresinde en yakındaki Kurban'la yüz yüze gelirsin.</li>",
+        "name": "Yedinci Bileşik",
         "id": 1002,
         "index": "COMPOUND_SEVEN",
         "owner": "BLIGHT",
@@ -3643,7 +3643,7 @@
     },
     {
         "description": "Talbot'ın notlarından geriye kalanlar; hâlâ çok değerli bilgiler içeriyorlar.<br><br><li>Kullanılabilir Akın nişanlarının sayısını <b>1</b> <b>azaltır</b></li><li>Nişanların yenilenme süresini <b>orta seviyede arttırır</b>.</li>",
-        "name": "Yırtılmış Notlar ",
+        "name": "Yırtılmış Notlar",
         "id": 1004,
         "index": "SHREDDED_NOTES",
         "owner": "BLIGHT",
@@ -3652,7 +3652,7 @@
     },
     {
         "description": "Toz haline getirilmiş kurutulmuş püstül yaprakları.<br><br><li>Çarpma süresini <b>orta seviyede arttırır</b>.</li>",
-        "name": "Püstül Tozu ",
+        "name": "Püstül Tozu",
         "id": 1005,
         "index": "PUSTULA_DUST",
         "owner": "BLIGHT",
@@ -3660,7 +3660,7 @@
         "image": "iconAddon_pustulaDust"
     },
     {
-        "description": "Veba'nın saflaştırılmış ve çeşitli kimyasallarla işlem görmüş safrasından bir numune.<br><br><li>Akın esnasında dönme hızını <b>biraz arttırır</b>.</li> ",
+        "description": "Veba'nın saflaştırılmış ve çeşitli kimyasallarla işlem görmüş safrasından bir numune.<br><br><li>Akın esnasında dönme hızını <b>biraz arttırır</b>.</li>",
         "name": "Veba Safrası",
         "id": 1006,
         "index": "PLAGUE_BILE",
@@ -3669,7 +3669,7 @@
         "image": "iconAddon_plagueBile"
     },
     {
-        "description": "İç organları saran bir mantar hastalığından alınmış diken parçası. Hafif bir toksin salgılıyor.<br><br><li>Akın sonrasında iyileşme hızını <b>orta seviyede arttırır</b>.</li> ",
+        "description": "İç organları saran bir mantar hastalığından alınmış diken parçası. Hafif bir toksin salgılıyor.<br><br><li>Akın sonrasında iyileşme hızını <b>orta seviyede arttırır</b>.</li>",
         "name": "Mantar Dikeni",
         "id": 1007,
         "index": "CANKER_THORN",
@@ -3678,8 +3678,8 @@
         "image": "iconAddon_cankerThorn"
     },
     {
-        "description": "Serum verildikten sonra kısa bir süreliğine hayata dönerek saldırgan ve kontrol edilemez olan bir sıçan.<br><br><li>Arka arkaya kullanılan her Akın için Akın hızını <b>orta seviyede arttırır</b>.</li> ",
-        "name": "Marazlı Sıçan ",
+        "description": "Serum verildikten sonra kısa bir süreliğine hayata dönerek saldırgan ve kontrol edilemez olan bir sıçan.<br><br><li>Arka arkaya kullanılan her Akın için Akın hızını <b>orta seviyede arttırır</b>.</li>",
+        "name": "Marazlı Sıçan",
         "id": 1008,
         "index": "BLIGHTED_RAT",
         "owner": "BLIGHT",
@@ -3687,8 +3687,8 @@
         "image": "iconAddon_blightedRat"
     },
     {
-        "description": "Bir anlığına ruhlar âlemine geçtiği için yapısı değişmiş sıradan deniz tuzu.<br><br><li>Akın esnasında dönme hızını <b>orta seviyede arttırır</b>.</li> ",
-        "name": "Gölge Tuzu ",
+        "description": "Bir anlığına ruhlar âlemine geçtiği için yapısı değişmiş sıradan deniz tuzu.<br><br><li>Akın esnasında dönme hızını <b>orta seviyede arttırır</b>.</li>",
+        "name": "Gölge Tuzu",
         "id": 1009,
         "index": "UMBRA_SALTS",
         "owner": "BLIGHT",
@@ -3696,8 +3696,8 @@
         "image": "iconAddon_umbraSalts"
     },
     {
-        "description": "Aşırı nadir Yeniay Buketi'nin kurutulmuş güllerinden yapılan bir karışım.<br><br><li>Çarpma süresini <b>önemli ölçüde arttırır</b>.</li> ",
-        "name": "Gül Toniği ",
+        "description": "Aşırı nadir Yeniay Buketi'nin kurutulmuş güllerinden yapılan bir karışım.<br><br><li>Çarpma süresini <b>önemli ölçüde arttırır</b>.</li>",
+        "name": "Gül Toniği",
         "id": 1010,
         "index": "ROSE_TONIC",
         "owner": "BLIGHT",
@@ -3706,7 +3706,7 @@
     },
     {
         "description": "İnsanlar için ölümcül olan bir serum. Bazılarında ise faydalı özellikler ortaya çıkarır. Gözle görünenden fazlası olanlarda...<br><br><li>Çarpma başlatıldığında, çarpışma noktasının <b>8 metrelik</b> alanında yer alan Kurbanların harelerini <b>3 saniyeliğine</b> açığa çıkarır.</li>",
-        "name": "Yirmi Birinci Bileşik ",
+        "name": "Yirmi Birinci Bileşik",
         "id": 1011,
         "index": "COMPOUND_TWENTY_ONE",
         "owner": "BLIGHT",
@@ -3714,8 +3714,8 @@
         "image": "iconAddon_compoundTwentyOne"
     },
     {
-        "description": "Maraz serumu yüzünden mutasyon geçirmiş ölü bir karga.<br><br><li>Arka arkaya kullanılan her Akın için Akın hızını <b>önemli ölçüde arttırır</b>.</li> ",
-        "name": "Marazlı Karga ",
+        "description": "Maraz serumu yüzünden mutasyon geçirmiş ölü bir karga.<br><br><li>Arka arkaya kullanılan her Akın için Akın hızını <b>önemli ölçüde arttırır</b>.</li>",
+        "name": "Marazlı Karga",
         "id": 1012,
         "index": "BLIGHTED_CROW",
         "owner": "BLIGHT",
@@ -3724,7 +3724,7 @@
     },
     {
         "description": "Bir kişinin böbreküstü bezinden zorla alınmış bir hormon. Bir enerji patlaması yaratsa da kullanan kişiyi bitkin düşürebilir.<br><br><li>Nişanların yenilenme süresini <b>olağanüstü düzeyde arttırır</b>.</li><li>Kullanılabilir Akın nişanlarının sayısını <b>2</b> <b>arttırır</b>.</li><li>Akın sırasında maksimum bakış açısını <b>önemli ölçüde arttırır</b></li><br>",
-        "name": "Adrenalin Şişesi ",
+        "name": "Adrenalin Şişesi",
         "flavor": "\"Lütfen, yapma bunu...\"\\",
         "id": 1013,
         "index": "ADRENALINE_VIAL",
@@ -3734,7 +3734,7 @@
     },
     {
         "description": "Hiçlik'ten geri gelmeyi başardığını iddia eden bir adamın günlüğü. İçerisinde bulunan bilgiler gerçekten de işe yarayabilir.<br><br><li>Akın esnasında <b>Tespit Edilemez</b> durum etkisini kazanırsın.</li><br>",
-        "name": "Vigo'nun Günlüğü ",
+        "name": "Vigo'nun Günlüğü",
         "flavor": "\"Unutulmuş hayaller ve bitmeyen rutinlerden oluşan bir çölde çıkışı bilen tek kişi tanrıdır.\" -Talbot Grimes",
         "id": 1014,
         "index": "VIGOS_JOURNAL",
@@ -3744,7 +3744,7 @@
     },
     {
         "description": "Talbot bu taşı kullanarak araştırması olduğunu düşündüğü şeyleri afyon evinin duvarlarına kazıdı.<br><br><li>Ölümcül Akın'la bir Kurban'a vurmak Mahluk'u çağırarak <b>6 saniyeliğine</b> <b>12 metre</b> yakınındaki tüm paletleri engeller.</li><br>",
-        "name": "Çağırma Taşı ",
+        "name": "Çağırma Taşı",
         "flavor": "\"Ölüm sadece bir başlangıç.\"",
         "id": 1015,
         "index": "SUMMONING_STONE",
@@ -3754,7 +3754,7 @@
     },
     {
         "description": "Yakın zamanda ölmüş bir Kurban'ın epifiz bezinden çıkarılmış bir kimyasal.<br><br><li>Akın gerçekleştirilirken, tamir veya iyileştirme yapan bir Kurban'ın <b>16 metre</b> yakınına girdiğin anda, o Kurban için <b>olağanüstü düzeyde</b> zor bir Beceri Denemesi tetiklenir. Her Akın'da bir Kurban için bir kere etkinleştirilebilir. Akın gerçekleştirildiği sırada <b>16 metre</b> yakınında bulunan Kurbanlar için etkinleştirilmez.</li><br>",
-        "name": "Ruh Kimyasalı ",
+        "name": "Ruh Kimyasalı",
         "flavor": "\"...nöral ritmik etkinlikte atipik değişimlere sebep olduğundan şüpheleniliyor.\" -İsimsiz, gizemli okul notu",
         "id": 1016,
         "index": "SOUL_CHEMICAL",
@@ -3764,7 +3764,7 @@
     },
     {
         "description": "Londra Tıp Okulu'ndan mezun olan kimyagerlere verilen bir yüzük. Asla bitmeyen hırs duygusunu temsil eder.<br><br><li>Ölümcül Akın'la bir Kurban'a vurmak, tüm Akın nişanlarını anında yeniler.</li><br>",
-        "name": "Simyacı Yüzüğü ",
+        "name": "Simyacı Yüzüğü",
         "flavor": "\"Öğrenci, izinsiz bilimsel deneyler yapmak amacıyla mezar soymakla suçlanıyor.\" -Talbot Grimes'ın fakülteden aldığı kınama, 1838",
         "id": 1017,
         "index": "ALCHEMISTS_RING",
@@ -3784,7 +3784,7 @@
     },
     {
         "description": "Talbot'ın sondan bir önceki serum denemesi. Kaçmasına yardımcı olmasa da çok güçlü yan etkilere sahipti.<br><br><li>Çarpma'nın en fazla <b>16 metre</b> yakınında bulunan tüm Kurbanlar <b>3 saniyeliğine</b> <b>Topal</b> durum etkisi altına girer.</li><li>Paletleri veya yıkılabilir duvarları çarpmak onları yok eder ve Maraz'ı <b>1,5 saniye</b> için sersemletir.</li><br>",
-        "name": "Otuz Üçüncü Bileşik ",
+        "name": "Otuz Üçüncü Bileşik",
         "flavor": "\"Zamanım azalıyor. Umarım bu sefer olur...\" -Talbot Grimes",
         "id": 1019,
         "index": "COMPOUND_THIRTY_THREE",
@@ -3874,7 +3874,7 @@
         "image": "iconAddon_babyTeeth"
     },
     {
-        "description": "Victor'un, annesi onun için çalana kadar durmadan ağladığı, basitçe oyulmuş bir çıngırak. Bir çocuğun eline verilemeyecek kadar ağır.<br><br><li>Victor'dan kurtulan Kurbanlar, <b>20 saniye</b> boyunca <b>Sakat</b> durum etkisine girer.</li> ",
+        "description": "Victor'un, annesi onun için çalana kadar durmadan ağladığı, basitçe oyulmuş bir çıngırak. Bir çocuğun eline verilemeyecek kadar ağır.<br><br><li>Victor'dan kurtulan Kurbanlar, <b>20 saniye</b> boyunca <b>Sakat</b> durum etkisine girer.</li>",
         "name": "Ağır Çıngırak",
         "id": 1059,
         "index": "WEIGHTY_RATTLE",
@@ -4258,7 +4258,7 @@
         "image": "iconAddon_tyrantGore"
     },
     {
-        "description": "Umbrella Corporation tarafından üretilen T-Virus örneği. Deneklerde ekstrem mutasyona ve beyin hasarına sebep oluyor.<li>Dokunaç Darbesi'yle zombi yok edildiğinde mutasyon oranını <b>önemli ölçüde arttırır</b>. ",
+        "description": "Umbrella Corporation tarafından üretilen T-Virus örneği. Deneklerde ekstrem mutasyona ve beyin hasarına sebep oluyor.<li>Dokunaç Darbesi'yle zombi yok edildiğinde mutasyon oranını <b>önemli ölçüde arttırır</b>.",
         "name": "T-Virus Örneği",
         "id": 1160,
         "index": "T_VIRUS_SAMPLE",
@@ -4277,7 +4277,7 @@
     },
     {
         "description": "T-Virus bulaşmış bir bitkinin birbirine dolanmış kalıntıları. Kendisini geliştiren araştırmacılardan birini öldürmüş.<li>Kurbanların Erzak Kutusu açma süresini <b>önemli ölçüde arttırır</b>.",
-        "name": "Plant 43 Sarmaşıkları ",
+        "name": "Plant 43 Sarmaşıkları",
         "id": 1162,
         "index": "PLANT_43_VINES",
         "owner": "NEMESIS",

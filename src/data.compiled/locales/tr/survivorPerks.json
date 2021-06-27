@@ -1348,7 +1348,7 @@
         ]
     },
     {
-        "description": "Hızlı bir atlama gerçekleştirirken veya koşarak bir dolaptan çıkarken <span class=\"Highlight1\">{0} saniyeliğine</span> hiç çizik bırakmazsın.<br><i>Dans Edelim</i>, <span class=\"Highlight4\">{1} saniye</span> bekleme süresine sahiptir. ",
+        "description": "Hızlı bir atlama gerçekleştirirken veya koşarak bir dolaptan çıkarken <span class=\"Highlight1\">{0} saniyeliğine</span> hiç çizik bırakmazsın.<br><i>Dans Edelim</i>, <span class=\"Highlight4\">{1} saniye</span> bekleme süresine sahiptir.",
         "name": "Dans Edelim",
         "flavor": "\"Gösteri başladı seçtim seni, <br>Dans edelim yarınlar yok gibi, <br>Ritim hızlandı yetişmeye çalış,<br>Dans edelim yok bundan kaçış.\"<br>-Kate Denson'dan \"Dans Edelim\"",
         "id": 150,
@@ -1917,7 +1917,7 @@
     {
         "description": "Epey yara bere aldın ama talih senden yana.<br><br>Her yaralandığında <i>Şansın Güldü</i> devreye girer. <i>Şansın Güldü</i> etkinken toplam <span class=\"Highlight1\">{0} saniyeliğine</span> kan izi ya da çizik bırakmazsın.<br><br><i>Şansın Güldü</i>, toplam süresi dolduğunda mücadele boyunca bir daha etkinleşmez.<br>",
         "name": "Şansın Güldü",
-        "flavor": "\"Bunlar beni yenmeye yetmez. Yanına bile yaklaşamaz.\" -Yui Kimura ",
+        "flavor": "\"Bunlar beni yenmeye yetmez. Yanına bile yaklaşamaz.\" -Yui Kimura",
         "id": 171,
         "index": "LUCKY_BREAK",
         "rarity": [
@@ -1942,7 +1942,7 @@
     {
         "description": "Avantaj sağlamak için eline ne geçirirsen kullanarak kendini koruyorsun.<br><br>Düşmüş bir paleti kaldırmak için, yanında dururken <i>Etkin Yetenek butonuna</i> <span class=\"Highlight1\">{0} saniye</span> boyunca bas.<br><br><i>Mümkün Mertebe</i> sadece her <span class=\"Highlight2\">{1} saniyede</span> bir tetiklenebilir.<br>",
         "name": "Her Şey Mübah",
-        "flavor": "\"Sana elime geçirdiğim her şeyle saldıracağım. Sonra yine aynı şeyi yapacağım.\" -Yui Kimura ",
+        "flavor": "\"Sana elime geçirdiğim her şeyle saldıracağım. Sonra yine aynı şeyi yapacağım.\" -Yui Kimura",
         "id": 172,
         "index": "ANY_MEANS_NECESSARY",
         "rarity": [
@@ -1970,7 +1970,7 @@
     {
         "description": "Birinin başı dertteyse gözün başka bir şey görmez oluyor ve ona her zorluğun üstesinden gelmesi için ilham veriyorsun.<br><br>Taşınmakta olan bir Kurban'ın <span class=\"Highlight1\">{0} metre</span> yakınında olduğun zaman <span class=\"Highlight2\">Sürat</span> durum etkisini kazanırsın ve hareket hızın <span class=\"Highlight3\">%{1}</span> artar. Taşınan Kurban'ın çırpınma hızı ise <span class=\"Highlight4\">%{2}</span> artar.<br>",
         "name": "Şaha Kalk",
-        "flavor": "\"Gel, birlikte bu işin içinden çıkacağız.\" -Yui Kimura ",
+        "flavor": "\"Gel, birlikte bu işin içinden çıkacağız.\" -Yui Kimura",
         "id": 173,
         "index": "BREAKOUT",
         "rarity": [
@@ -2129,7 +2129,7 @@
     },
     {
         "description": "Kötü niyetli güçlerce kovalanmaya alışık olduğun için bu durumu lehine kullanmaya başladın.<br><br><i>Bastırılmış Direniş</i>, toplamda <span class=\"Highlight1\">{0} saniye</span> boyunca jeneratör tamir edildiğinde etkinleşir.<br><br>Bu avantaj etkinken jeneratör tamir ediyorsan <i>Etkin Yetenek butonuna</i> basarak Mahluk'u çağırıp jeneratörü <span class=\"Highlight2\">{1} saniyeliğine</span> engelleyebilirsin. Avantaj devre dışı kalır.<br><br>Etki altındaki jeneratörler tüm Kurbanlara beyaz hareli olarak görünür.",
-        "name": "Bastırılmış Direniş ",
+        "name": "Bastırılmış Direniş",
         "id": 179,
         "index": "REPRESSED_ALLIANCE",
         "rarity": [

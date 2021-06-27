@@ -214,7 +214,7 @@
         "image": "iconPerks_sloppyButcher"
     },
     {
-        "description": "Die in der Welt gefundenen Krähen können direkt mit dir kommunizieren. <span class=\"Highlight1\">{0} %</span> der Zeit geben dir krächzende Krähen einen visuellen Hinweis, wenn du dich im Umkreis von <span class=\"Highlight2\">{1} Meter(n)</span> befindest.<br><i>Spione des Schattens</i> hat einen Cooldown von <span class=\"Highlight3\">{2} Sekunden.</span> ",
+        "description": "Die in der Welt gefundenen Krähen können direkt mit dir kommunizieren. <span class=\"Highlight1\">{0} %</span> der Zeit geben dir krächzende Krähen einen visuellen Hinweis, wenn du dich im Umkreis von <span class=\"Highlight2\">{1} Meter(n)</span> befindest.<br><i>Spione des Schattens</i> hat einen Cooldown von <span class=\"Highlight3\">{2} Sekunden.</span>",
         "name": "Spione des Schattens",
         "flavor": "„In den Schatten quälen sie, unsere Gedanken mit jedem Schrei vernarbend.“",
         "id": 9,
@@ -1152,7 +1152,7 @@
         ]
     },
     {
-        "description": "Wenn ein Überlebender einen anderen mindestens <span class=\"Highlight1\">{0} Meter</span> von dir entfernt vom Haken rettet, löst <i>Triff deine Wahl</i> den Statuseffekt <b><i>Gefährdet</i></b> aus und wendet ihn für <span class=\"Highlight2\">{1} Sekunden</span> auf den Retter an.<br><i>Triff deine Wahl</i> hat eine Abklingzeit von <span class=\"Highlight3\">{2} Sekunden</span>. ",
+        "description": "Wenn ein Überlebender einen anderen mindestens <span class=\"Highlight1\">{0} Meter</span> von dir entfernt vom Haken rettet, löst <i>Triff deine Wahl</i> den Statuseffekt <b><i>Gefährdet</i></b> aus und wendet ihn für <span class=\"Highlight2\">{1} Sekunden</span> auf den Retter an.<br><i>Triff deine Wahl</i> hat eine Abklingzeit von <span class=\"Highlight3\">{2} Sekunden</span>.",
         "name": "Triff deine Wahl",
         "flavor": "\"Du wärst überrascht, welche Werkzeuge Leben retten können.\" – Amanda Young",
         "id": 44,
@@ -1905,7 +1905,7 @@
         ]
     },
     {
-        "description": "Es ist das Schicksal aller, deren Leben mit der Dunkelheit verflochten sind, gemeinsam zu leiden.<br><br>Heilt ein Überlebender einen anderen Überlebenden um einen Gesundheitsstatus, und zwar in einer Entfernung von mindestens <span class=\"Highlight1\">{0} Metern</span> vom Killer, so schreit der Überlebende, der die Heilungsaktion ausführt, und aktiviert <i>Todgeweiht</i> für die nächsten <span class=\"Highlight2\">{1} Sekunden</span>. In dieser Zeit leidet der Überlebende am Statuseffekt <b>Ahnungslos</b>, sofern er weiter als <span class=\"Highlight3\">{2} Meter</span> vom geheilten Überlebenden entfernt ist. ",
+        "description": "Es ist das Schicksal aller, deren Leben mit der Dunkelheit verflochten sind, gemeinsam zu leiden.<br><br>Heilt ein Überlebender einen anderen Überlebenden um einen Gesundheitsstatus, und zwar in einer Entfernung von mindestens <span class=\"Highlight1\">{0} Metern</span> vom Killer, so schreit der Überlebende, der die Heilungsaktion ausführt, und aktiviert <i>Todgeweiht</i> für die nächsten <span class=\"Highlight2\">{1} Sekunden</span>. In dieser Zeit leidet der Überlebende am Statuseffekt <b>Ahnungslos</b>, sofern er weiter als <span class=\"Highlight3\">{2} Meter</span> vom geheilten Überlebenden entfernt ist.",
         "name": "Todgeweiht",
         "id": 72,
         "index": "DEATHBOUND",

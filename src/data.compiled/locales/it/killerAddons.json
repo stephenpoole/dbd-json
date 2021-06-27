@@ -1978,7 +1978,7 @@
         "image": "iconAddon_robinFeather"
     },
     {
-        "description": "Parte dell'abbigliamento standard del Clown, questi guanti senza dita consentono abili manipolazioni.\n<li>Modifica la parabola disegnata dal lancio della bottiglia.</li>\n",
+        "description": "Parte dell'abbigliamento standard del Clown, questi guanti senza dita consentono abili manipolazioni.\n<li>Modifica la parabola disegnata dal lancio della bottiglia.</li>",
         "name": "Guanti eleganti senza dita",
         "id": 552,
         "index": "FINGERLESS_PARADE_GLOVES",
@@ -2755,7 +2755,7 @@
     },
     {
         "description": "Cinghie nere che tengono tutto al proprio posto, anche negli agguati più sfrenati.<br><li><b>Aumenta leggermente</b> la velocità di movimento quando sei abbassato.</li>",
-        "name": "Cinghie ",
+        "name": "Cinghie",
         "id": 758,
         "index": "CINCH_STRAPS",
         "owner": "GHOST",
@@ -3239,7 +3239,7 @@
     },
     {
         "description": "Un brandello di iuta sudicio. Con un po' di saliva e olio di gomito, è stato possibile ripulire il fucile dopo una violenta sparatoria.<li><b>Riduce leggermente</b> il tempo di recupero del fucile a fiocina dopo dei colpi a vuoto.</li>",
-        "name": "Straccio insalivato ",
+        "name": "Straccio insalivato",
         "id": 900,
         "index": "SPIT_POLISH_RAG",
         "owner": "DEATHSLINGER",
@@ -3248,7 +3248,7 @@
     },
     {
         "description": "Una tintura di oli ed estratti acquistata da un mercante ambulante, che la spacciava come cura contro ogni male.<li><b>Aumenta leggermente</b> la velocità del mulinello del fucile a fiocina.</li>",
-        "name": "Olio di serpente ",
+        "name": "Olio di serpente",
         "id": 901,
         "index": "SNAKE_OIL",
         "owner": "DEATHSLINGER",
@@ -3266,7 +3266,7 @@
     },
     {
         "description": "Una vecchia cintura per munizioni modificata da Caleb per le sue speciali armi. È ancora visibile la sottile terra rossa tipica del deserto del Territorio dell'Arizona.<li><b>Aumenta leggermente</b> la velocità di ricarica del fucile a fiocina.</li>",
-        "name": "Cintura per munizioni modificata ",
+        "name": "Cintura per munizioni modificata",
         "id": 903,
         "index": "MODIFIED_AMMO_BELT",
         "owner": "DEATHSLINGER",
@@ -3275,7 +3275,7 @@
     },
     {
         "description": "Un chiodo da rotaia che Caleb legò alla parte anteriore del fucile a fiocina durante un periodo di macabra curiosità. La punta smussata evita una perforazione netta. <li>Colpire un sopravvissuto trafitto infligge l'effetto <b>Lacerazione</b>.</li>",
-        "name": "Chiodo arrugginito ",
+        "name": "Chiodo arrugginito",
         "id": 904,
         "index": "RUSTED_SPIKE",
         "owner": "DEATHSLINGER",
@@ -3293,7 +3293,7 @@
     },
     {
         "description": "Un distintivo d'argento trovato sul cadavere di uno sceriffo del Territorio dell'Arizona che si intromise nelle taglie appartenenti alla banda Hellshire.<li><b>Riduce leggermente</b> il raggio di terrore quando usi il mirino del fucile a fiocina.</li><li><b>Riduce leggermente</b> la velocità di movimento quando usi il mirino del fucile a fiocina.</li><span class=\"FlavorText\">\"Inizia a recitare le tue preghiere, perché entro mezzanotte penzolerai con un cappio alla gola.\" - Caleb Quinn</span>",
-        "name": "Distintivo da sceriffo ",
+        "name": "Distintivo da sceriffo",
         "id": 906,
         "index": "MARSHALS_BADGE",
         "owner": "DEATHSLINGER",
@@ -3302,7 +3302,7 @@
     },
     {
         "description": "Il proiettile che perforò la mascella di Caleb durante una tremenda sparatoria. Risveglia un ardente desiderio di vendetta.<li><b>Aumenta leggermente</b> la velocità di movimento quando usi il mirino del fucile a fiocina.</li><span class=\"FlavorText\">\"Nel momento stesso in cui mi hai commesso un torto, non hai fatto altro che attirare la morte direttamente alla tua porta.\" - Caleb Quinn</span>",
-        "name": "Mascella crivellata ",
+        "name": "Mascella crivellata",
         "id": 907,
         "index": "JAW_SMASHER",
         "owner": "DEATHSLINGER",
@@ -3320,7 +3320,7 @@
     },
     {
         "description": "Il tintinnio sordo delle chiave rievoca in Caleb ricordi furiosi.<li><b>Aumenta moderatamente</b> la velocità di ricarica del fucile a fiocina.</li>",
-        "name": "Chiavi del direttore ",
+        "name": "Chiavi del direttore",
         "id": 909,
         "index": "WARDENS_KEYS",
         "owner": "DEATHSLINGER",
@@ -3329,7 +3329,7 @@
     },
     {
         "description": "I resti ormai ingialliti di un manifesto di una taglia posta su Mason Kelly. È servito molto a Caleb per restare concentrato durante la caccia.<li><b>Aumenta moderatamente</b> la velocità di movimento quando usi il mirino del fucile a fiocina.</li><span class=\"FlavorText\">\"Andrai incontro a un atroce destino. Lo giuro sulla tomba di mia madre.\" - Caleb Quinn</span>",
-        "name": "Manifesto da ricercato ",
+        "name": "Manifesto da ricercato",
         "id": 910,
         "index": "WANTED_POSTER",
         "owner": "DEATHSLINGER",
@@ -3338,7 +3338,7 @@
     },
     {
         "description": "Una lattina contenente una piccola quantità di olio per ridurre l'attrito negli apparecchi meccanici. I primi modelli del fucile a fiocina erano noti per i frequenti inceppamenti, ragion per cui era necessario avere dell'olio sempre a portata di mano.<li><b>Riduce moderatamente</b> il tempo di recupero del fucile a fiocina dopo dei colpi a vuoto.</li>",
-        "name": "Lattina d'olio ",
+        "name": "Lattina d'olio",
         "id": 911,
         "index": "TIN_OIL_CAN",
         "owner": "DEATHSLINGER",
@@ -3347,7 +3347,7 @@
     },
     {
         "description": "Nero di rabbia per essersi lasciato sfuggire una taglia per ben due volte, Caleb intrecciò dei rametti di rovi su una fiocina e ne sfrutto le massime potenzialità. <li>I sopravvissuti che si liberano dal fucile a fiocina subiscono l'effetto <b>Lacerazione</b>.</li>",
-        "name": "Rovi dello spino di Giuda ",
+        "name": "Rovi dello spino di Giuda",
         "id": 912,
         "index": "HONEY_LOCUST_THORNS",
         "owner": "DEATHSLINGER",
@@ -3419,7 +3419,7 @@
     },
     {
         "description": "Rinvenuto in un frigorifero. Vi è inciso un ripugnante volto rigonfio.<li><b>Aumenta leggermente</b> la durata per cui rimarrà attiva la scia dei <b>Riti del Giudizio</b>.</li>",
-        "name": "Anello di piombo ",
+        "name": "Anello di piombo",
         "id": 950,
         "index": "LEAD_RING",
         "owner": "EXECUTIONER",
@@ -3428,7 +3428,7 @@
     },
     {
         "description": "Una farfalla trovata su un letto in uno degli appartamenti Woodside. Talmente delicata che rischia di sgretolarsi al minimo tocco.<li><b>Aumenta leggermente</b> il tasso di ricarica dei <b>Riti del Giudizio</b>.</li>",
-        "name": "Farfalla morta ",
+        "name": "Farfalla morta",
         "id": 951,
         "index": "DEAD_BUTTERFLY",
         "owner": "EXECUTIONER",
@@ -3437,7 +3437,7 @@
     },
     {
         "description": "Rinvenuto nel seminterrato dell'ospedale di Brookhaven. Ha un'incisione a forma di ragno.<li><b>Aumenta leggermente</b> il lasso di tempo totale in cui è possibile eseguire i <b>Riti del Giudizio</b>.</li>",
-        "name": "Anello di rame ",
+        "name": "Anello di rame",
         "flavor": "\"Ero rinchiuso nel seminterrato del seminterrato. Era così piccolo e buio e avevo così tanta paura. Ho fatto cadere il mio prezioso anello. Ma mai, e poi mai tornerò lì dentro.\"",
         "id": 952,
         "index": "COPPER_RING",
@@ -3447,7 +3447,7 @@
     },
     {
         "description": "Una cinghia in nylon usata per legare le vittime a una struttura metallica. Il colore non permette di discernere il sangue di cui è intrisa.<li><b>Aumenta leggermente</b> la portata del <b>Castigo dei dannati</b>.</li>",
-        "name": "Cinghia nera ",
+        "name": "Cinghia nera",
         "id": 953,
         "index": "BLACK_STRAP",
         "owner": "EXECUTIONER",
@@ -3456,7 +3456,7 @@
     },
     {
         "description": "Una bambola in cera realizzata da un prigioniero pronto a ricevere la sentenza.<li><b>Aumenta moderatamente</b> la portata del <b>Castigo dei dannati</b>.</li>",
-        "name": "Bambola di cera ",
+        "name": "Bambola di cera",
         "id": 954,
         "index": "WAX_DOLL",
         "owner": "EXECUTIONER",
@@ -3465,7 +3465,7 @@
     },
     {
         "description": "La punta acuminata e arrugginita di una lancia. C'è ancora il sangue dell'ultima malcapitata vittima.<li><b>Aumenta moderatamente</b> il lasso di tempo totale in cui è possibile eseguire i <b>Riti del Giudizio</b>.</li>",
-        "name": "Punta di lancia ",
+        "name": "Punta di lancia",
         "id": 955,
         "index": "SPEARHEAD",
         "owner": "EXECUTIONER",
@@ -3474,7 +3474,7 @@
     },
     {
         "description": "Un pezzo di stoffa rosa leopardata. Non si capisce per cosa fosse usato.<li><b>Aumenta leggermente</b> la durata dell'<i>Istinto del killer</i> se attivato dai <b>Riti del Giudizio</b>.</li>",
-        "name": "Tessuto leopardato  ",
+        "name": "Tessuto leopardato",
         "flavor": "\"Non importa chi sono. Sono qui per te, James.\" - Maria",
         "id": 956,
         "index": "LEOPARD_PRINT_FABRIC",
@@ -3484,7 +3484,7 @@
     },
     {
         "description": "Una videocassetta di due innamorati in vacanza a Silent Hill, lasciata al Lakeview Hotel nonostante il valore affettivo.<li><b>Aumenta moderatamente</b> il tasso di ricarica dei <b>Riti del Giudizio</b>.</li>",
-        "name": "Videocassetta dimenticata ",
+        "name": "Videocassetta dimenticata",
         "id": 957,
         "index": "FORGOTTEN_VIDEOTAPE",
         "owner": "EXECUTIONER",
@@ -3493,7 +3493,7 @@
     },
     {
         "description": "Un carillon su cui è raffigurata Cenerentola, preso da una valigetta con adesivi di svariate mete turistiche.<li><b>Aumenta moderatamente</b> la durata per cui rimarrà attiva la scia dei <b>Riti del Giudizio</b>.</li>",
-        "name": "Carillon con Cenerentola ",
+        "name": "Carillon con Cenerentola",
         "id": 958,
         "index": "CINDERELLA_MUSIC_BOX",
         "owner": "EXECUTIONER",
@@ -3502,7 +3502,7 @@
     },
     {
         "description": "Una fotografia di due figure rosse incappucciate dal titolo \"Banchetto Rosso e Bianco per gli Dei\".<li><b>Aumenta considerevolmente</b> il tasso di ricarica dei <b>Riti del Giudizio</b>.</li>",
-        "name": "Fotografia della Setta di Valtiel ",
+        "name": "Fotografia della Setta di Valtiel",
         "id": 959,
         "index": "VALTIEL_SECT_PHOTOGRAPH",
         "owner": "EXECUTIONER",
@@ -3511,7 +3511,7 @@
     },
     {
         "description": "Una tavoletta in metallo su cui sono incisi simboli aztechi.<li><b>Aumenta considerevolmente</b> il lasso di tempo totale in cui è possibile eseguire i <b>Riti del Giudizio</b>.</li>",
-        "name": "Tavola de \"L'Oppressore\" ",
+        "name": "Tavola de \"L'Oppressore\"",
         "id": 960,
         "index": "TABLET_OF_THE_OPPRESSOR",
         "owner": "EXECUTIONER",
@@ -3520,7 +3520,7 @@
     },
     {
         "description": "Un dipinto di una figura imponente con una piramide d'acciaio in testa. Sullo sfondo si notano persone in gabbia.<li><b>Aumenta moderatamente</b> la durata dell'<i>Istinto del killer</i> se attivato dai <b>Riti del Giudizio</b>.</li>",
-        "name": "Giornata nebbiosa, resti del Giudizio ",
+        "name": "Giornata nebbiosa, resti del Giudizio",
         "flavor": "\"È lui...\"",
         "id": 961,
         "index": "MISTY_DAY_REMAINS_OF_JUDGMENT",
@@ -3530,7 +3530,7 @@
     },
     {
         "description": "Il piede levigato di un manichino grigio, strappato con forza dalla gamba.<li><b>Aumenta considerevolmente</b> la durata per cui rimarrà attiva la scia dei <b>Riti del Giudizio</b>.</li>",
-        "name": "Piede di manichino ",
+        "name": "Piede di manichino",
         "id": 962,
         "index": "MANNEQUIN_FOOT",
         "owner": "EXECUTIONER",
@@ -3539,7 +3539,7 @@
     },
     {
         "description": "Un grafico del Lakeview Hotel, su cui sono dipinte fiamme di un rosso acceso.<li><b>Aumenta considerevolmente</b> la distanza del Castigo dei dannati.</li>",
-        "name": "Dipinto \"Uomo che Brucia\" ",
+        "name": "Dipinto \"Uomo che Brucia\"",
         "id": 963,
         "index": "BURNING_MAN_PAINTING",
         "owner": "EXECUTIONER",
@@ -3548,7 +3548,7 @@
     },
     {
         "description": "Un uovo fresco di un rosso vivace, grande quanto un uovo di quaglia.<li><b>Aumenta considerevolmente</b> la durata dell'<i>Istinto del killer</i> se attivato dai <b>Riti del Giudizio</b>.</li>",
-        "name": "Uovo scarlatto ",
+        "name": "Uovo scarlatto",
         "flavor": "\"Non ho mai avuto tanta paura in vita mia! Tu te ne freghi di me, vero? - Maria",
         "id": 964,
         "index": "SCARLET_EGG",
@@ -3558,7 +3558,7 @@
     },
     {
         "description": "Un uovo rossastro-arancione piuttosto strano, grande quanto un uovo di quaglia.<li>I sopravvissuti affetti dai <b>Riti del Giudizio</b> subiscono l'effetto di <b>Accecamento</b> per <b>60 secondi</b>.</li>",
-        "name": "Uovo color ruggine ",
+        "name": "Uovo color ruggine",
         "flavor": "\"James... Mi hai resa felice.\" - Mary",
         "id": 965,
         "index": "RUST_COLORED_EGG",
@@ -3568,7 +3568,7 @@
     },
     {
         "description": "Libro sulle storie e leggende di Silent Hill e delle zone circostanti.<li>I sopravvissuti affetti dai <b>Riti del Giudizio</b> subiscono l'effetto di <b>Ignaro</b> per <b>15 secondi</b>.</li><span class=\"FlavorText\">\"Chiamavano questo luogo \"Il Posto degli Spiriti Silenziosi\".\"</span>",
-        "name": "Libro \"Antiche Memorie\" ",
+        "name": "Libro \"Antiche Memorie\"",
         "id": 966,
         "index": "LOST_MEMORIES_BOOK",
         "owner": "EXECUTIONER",
@@ -3577,7 +3577,7 @@
     },
     {
         "description": "Un libro che narra di un'antica divinità, di autore ignoto.<li>I sopravvissuti feriti affetti dal <i>Tormento</i> subiscono l'effetto dell'<b>Emorragia</b>.</li>",
-        "name": "Libro \"Cerimonia Rossa\" ",
+        "name": "Libro \"Cerimonia Rossa\"",
         "flavor": "\"Parla. Io sono Quello Rosso. Le menzogne e la nebbia non sono loro bensì io.\"",
         "id": 967,
         "index": "CRIMSON_CEREMONY_COOK",
@@ -3587,7 +3587,7 @@
     },
     {
         "description": "Un calice dall'aspetto molto antico fatto di pura ossidiana.<li><b>Il Boia</b> riceve l'effetto di <b>Impercettibile</b> quando si trova su una scia dei <b>Riti del Giudizio</b>.</li>",
-        "name": "Calice di ossidiana ",
+        "name": "Calice di ossidiana",
         "flavor": "\"Scusami per averti svegliato. Ma senza di te non vado avanti.\" - James Sunderland",
         "id": 968,
         "index": "OBSIDIAN_GOBLET",
@@ -3597,7 +3597,7 @@
     },
     {
         "description": "Un talismano con una strana incisione, probabilmente alterata dall'influsso dell'Entità.<li>Quando rinchiudi un sopravvissuto in una <b>Gabbia della Redenzione</b>, le auree di tutti i sopravvissuti affetti dal <i>Tormento</i> ti vengono rivelate per <b>6 secondi.</b></li>",
-        "name": "Sigillo di Metatron iridescente ",
+        "name": "Sigillo di Metatron iridescente",
         "flavor": "\"Questo potente riquadro magico dalle proprietà dissipanti e protettive è chiamato \"Elmo di Virun VII\", detto anche \"Sigillo di Metatron\".\"",
         "id": 969,
         "index": "IRIDESCENT_SEAL_OF_METATRON",
@@ -3606,8 +3606,8 @@
         "image": "iconAddon_IridescentSeal"
     },
     {
-        "description": "Una pillola del tutto inefficace... forse.<br><br><li><b>Riduce leggermente</b> la velocità di movimento durante un Impeto.</li><li>Guadagna <b>100%</b> Punti Sangue bonus sugli eventi Impeto.</li> ",
-        "name": "Compressa placebo ",
+        "description": "Una pillola del tutto inefficace... forse.<br><br><li><b>Riduce leggermente</b> la velocità di movimento durante un Impeto.</li><li>Guadagna <b>100%</b> Punti Sangue bonus sugli eventi Impeto.</li>",
+        "name": "Compressa placebo",
         "id": 1000,
         "index": "PLACEBO_TABLET",
         "owner": "BLIGHT",
@@ -3616,7 +3616,7 @@
     },
     {
         "description": "La pianta venefica da cui nacque l'interesse di Talbot per la chimica. Rievoca ricordi sepolti.<br><br><li><b>Aumenta leggermente</b> la velocità di recupero dopo un Impeto.</li>",
-        "name": "Digitale ",
+        "name": "Digitale",
         "id": 1001,
         "index": "FOXGLOVE",
         "owner": "BLIGHT",
@@ -3625,7 +3625,7 @@
     },
     {
         "description": "Questo campione iniziale non portò i risultati sperati, ma dimostrò comunque effetti sorprendenti.<br><br><li>Affonta automaticamente il sopravvissuto più vicino entro <b>16 metri</b> dopo uno Schianto.</li>",
-        "name": "Composto 7 ",
+        "name": "Composto 7",
         "id": 1002,
         "index": "COMPOUND_SEVEN",
         "owner": "BLIGHT",
@@ -3643,7 +3643,7 @@
     },
     {
         "description": "I resti degli appunti di Talbot. Contengono ancora preziosissime informazioni.<br><br><li><b>Diminuisce </b> la quantità di token Impeto di <b>1.</b></li><li><b> Aumenta moderatamente</b> la velocità di rigenerazione dei token.</li>",
-        "name": "Appunti rovinati ",
+        "name": "Appunti rovinati",
         "id": 1004,
         "index": "SHREDDED_NOTES",
         "owner": "BLIGHT",
@@ -3652,7 +3652,7 @@
     },
     {
         "description": "Petali di pustole essiccati e polverizzati finemente.<br><br><li><b>Accelera moderatamente</b> la durata dello Schianto.</li>",
-        "name": "Polvere di pustole ",
+        "name": "Polvere di pustole",
         "id": 1005,
         "index": "PUSTULA_DUST",
         "owner": "BLIGHT",
@@ -3678,8 +3678,8 @@
         "image": "iconAddon_cankerThorn"
     },
     {
-        "description": "Un ratto che è tornato brevemente in vita dopo un'iniezione di siero, diventando aggressivo e incontrollabile.<br><br><li><b>Aumenta moderatamente</b> la velocità dell'Impeto per ciascun Impeto consecutivo.</li> ",
-        "name": "Ratto infettato ",
+        "description": "Un ratto che è tornato brevemente in vita dopo un'iniezione di siero, diventando aggressivo e incontrollabile.<br><br><li><b>Aumenta moderatamente</b> la velocità dell'Impeto per ciascun Impeto consecutivo.</li>",
+        "name": "Ratto infettato",
         "id": 1008,
         "index": "BLIGHTED_RAT",
         "owner": "BLIGHT",
@@ -3688,7 +3688,7 @@
     },
     {
         "description": "Comunissimo sale marino che ha brevemente attraversato il mondo degli spiriti, processo che ne ha alterato le proprietà.<br><br><li><b>Aumenta moderatamente</b> la velocità di rotazione durante un Impeto.</li>",
-        "name": "Sali ombrosi ",
+        "name": "Sali ombrosi",
         "id": 1009,
         "index": "UMBRA_SALTS",
         "owner": "BLIGHT",
@@ -3697,7 +3697,7 @@
     },
     {
         "description": "Un miscuglio di rose essiccate prese dal rarissimo bouquet della Luna Nuova.<br><br><li><b>Aumenta considerevolmente</b> la durata dello Schianto.</li>",
-        "name": "Tonico di rose ",
+        "name": "Tonico di rose",
         "id": 1010,
         "index": "ROSE_TONIC",
         "owner": "BLIGHT",
@@ -3706,7 +3706,7 @@
     },
     {
         "description": "Un siero fatale per gli esseri umani. Stimola qualità benefiche in chi è... tutt'altro che umano.<br><br><li>Avviare uno Schianto rivela l'aura dei sopravvissuti entro <b>8 metri</b> dal luogo d'urto per <b>3 secondi</b>.</li>",
-        "name": "Composto 21 ",
+        "name": "Composto 21",
         "id": 1011,
         "index": "COMPOUND_TWENTY_ONE",
         "owner": "BLIGHT",
@@ -3714,8 +3714,8 @@
         "image": "iconAddon_compoundTwentyOne"
     },
     {
-        "description": "Un corvo morto che ha subito grottesche mutazioni tramite un siero.<br><br><li><b>Aumenta considerevolmente</b> la velocità dell'Impeto per ciascun Impeto consecutivo.</li> ",
-        "name": "Corvo infettato ",
+        "description": "Un corvo morto che ha subito grottesche mutazioni tramite un siero.<br><br><li><b>Aumenta considerevolmente</b> la velocità dell'Impeto per ciascun Impeto consecutivo.</li>",
+        "name": "Corvo infettato",
         "id": 1012,
         "index": "BLIGHTED_CROW",
         "owner": "BLIGHT",
@@ -3724,7 +3724,7 @@
     },
     {
         "description": "Un ormone prelevato dalla ghiandola surrenale di un soggetto reticente. \nNonostante fornisca una scarica di energia, può far stancare chi lo usa.<br><br><li><b>Riduce enormemente</b> la velocità di rotazione durante l'Impeto.</li><li><b>Aumenta notevolmente</b> la velocità di rigenerazione dei token.</li><li><b>Aumenta</b> la quantità di token Impeto di <b>2.</b></li><li><b>Aumenta enormemente</b> il massimo angolo di visione durante l'Impeto.</li><br><br><span class=\"FlavorText\">\"Ti prego, non farlo...\"</span>\"",
-        "name": "Fiala di adrenalina ",
+        "name": "Fiala di adrenalina",
         "id": 1013,
         "index": "ADRENALINE_VIAL",
         "owner": "BLIGHT",
@@ -3733,7 +3733,7 @@
     },
     {
         "description": "Il diario di un uomo che afferma di aver fatto ritorno dal Vuoto. Le informazioni contenute comprendono applicazioni pratiche.<br><br><li>Ricevi l'effetto <b>Impercettibile</b> durante l'Impeto.</li><br>",
-        "name": "Diario di Vigo ",
+        "name": "Diario di Vigo",
         "flavor": "\"In una discarica di sogni infranti e infinita routine, l'uomo con una via d'uscita è un dio.\" - Talbot Grimes",
         "id": 1014,
         "index": "VIGOS_JOURNAL",
@@ -3743,7 +3743,7 @@
     },
     {
         "description": "Talbot usò questa pietra per incidere sulle mura della fumeria quella che considerava la sua ricerca.<br><br><li>Colpire un sopravvissuto con un Impeto letale invocherà l'Entità per bloccare i bancali entro un raggio di <b>12 metri</b> dalla tua posizione per <b>6 secondi</b>.</li><br>",
-        "name": "Pietra evocativa ",
+        "name": "Pietra evocativa",
         "flavor": "\"La morte è solo l'inizio.\"",
         "id": 1015,
         "index": "SUMMONING_STONE",
@@ -3753,7 +3753,7 @@
     },
     {
         "description": "Una sostanza chimica estratta dalla ghiandola pineale di un sopravvissuto morto di recente.<br><br><li>Durante un Impeto, appena entri nel raggio di <b>16 metri</b> da un sopravvissuto che ripara o cura, attiva un Test Abilità <b>straordinariamente</b> difficile per quel sopravvissuto. Attivabile una sola volta per ciascun sopravvissuto e per ciascun Impeto. Non si attiva per un Impeto avviato entro <b>16 metri</b> dal sopravvissuto.</li><br>",
-        "name": "Elemento chimico dell'anima ",
+        "name": "Elemento chimico dell'anima",
         "flavor": "\"... si sospetta causi alterazioni atipiche nell'attività ritmica neurale.\" - Libro scolastico misterioso senza etichetta",
         "id": 1016,
         "index": "SOUL_CHEMICAL",
@@ -3763,7 +3763,7 @@
     },
     {
         "description": "Un anello regalato ai neolaureati in chimica presso l'Università di Medicina di Londra, come segno della loro irrefrenabile ambizione.<br><br><li>Colpire un sopravvissuto con un Impeto letale ricaricherà immediatamente tutti i token Impeto.</li><br>",
-        "name": "Anello dell'Alchimista ",
+        "name": "Anello dell'Alchimista",
         "flavor": "\"Lo studente è accusato di sottrazione di cadaveri a scopo di ricerca scientifica non autorizzata.\" - Monito accademico di Talbot Grimes, 1838",
         "id": 1017,
         "index": "ALCHEMISTS_RING",
@@ -3783,7 +3783,7 @@
     },
     {
         "description": "Il penultimo tentativo di Talbot di formulare un siero. Non gli rese la fuga più facile, ma ebbe potenti effetti collaterali.<br><br><li>I sopravvissuti entro <b>16 metri</b> da uno Schianto subiranno \nl'effetto <b>Rallentamento</b> per <b>3 secondi</b>.</li><li>Distruggere pallet o muri che si possono rompere li annienterà e stordirà La Piaga per<b>1.5 secondi.</b></li><br><br><span class=\"FlavorText\">\"Il tempo \nstringe. Questa è la volta buona...\" - Talbot Grimes</span>",
-        "name": "Composto 33 ",
+        "name": "Composto 33",
         "id": 1019,
         "index": "COMPOUND_THIRTY_THREE",
         "owner": "BLIGHT",
@@ -3872,7 +3872,7 @@
         "image": "iconAddon_babyTeeth"
     },
     {
-        "description": "Il sonaglio con una rozza incisione che Victor desiderava tanto, finché sua madre non lo rubò per lui. Decisamente troppo pesante per un bambino.<br><br><li>I sopravvissuti che rimuovono Victor subiscono l'effetto <b>Sconforto</b> per <b>20 secondi.</b></li> ",
+        "description": "Il sonaglio con una rozza incisione che Victor desiderava tanto, finché sua madre non lo rubò per lui. Decisamente troppo pesante per un bambino.<br><br><li>I sopravvissuti che rimuovono Victor subiscono l'effetto <b>Sconforto</b> per <b>20 secondi.</b></li>",
         "name": "Sonaglio pesante",
         "id": 1059,
         "index": "WEIGHTY_RATTLE",
@@ -4256,7 +4256,7 @@
         "image": "iconAddon_tyrantGore"
     },
     {
-        "description": "Un campione del virus T sviluppato dalla Umbrella Corporation. Provoca mutazioni estreme e gravi danni cerebrali nei soggetti esposti.<li><b>Aumenta considerevolmente</b> il tasso di mutazione quando annienti gli zombi con la Frustata di tentacolo. ",
+        "description": "Un campione del virus T sviluppato dalla Umbrella Corporation. Provoca mutazioni estreme e gravi danni cerebrali nei soggetti esposti.<li><b>Aumenta considerevolmente</b> il tasso di mutazione quando annienti gli zombi con la Frustata di tentacolo.",
         "name": "Campione di virus T",
         "id": 1160,
         "index": "T_VIRUS_SAMPLE",
@@ -4275,7 +4275,7 @@
     },
     {
         "description": "I resti tutti aggrovigliati di una pianta esposta al virus T, responsabile della morte di uno dei ricercatori a capo del suo stesso sviluppo.<li><b>Aumenta considerevolmente</b> il tempo necessario ai sopravvissuti per aprire le casse di rifornimento.",
-        "name": "Tralci di pianta 43 ",
+        "name": "Tralci di pianta 43",
         "id": 1162,
         "index": "PLANT_43_VINES",
         "owner": "NEMESIS",

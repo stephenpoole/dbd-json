@@ -214,7 +214,7 @@
         "image": "iconPerks_sloppyButcher"
     },
     {
-        "description": "I corvi di tutto il mondo possono comunicare con te. <span class=\"Highlight1\">{0}%</span> delle volte, ricevi un indizio visivo dai corvi gracchianti in un raggio di <span class=\"Highlight2\">{1} metri</span>.<br><i>Spie dalle Tenebre</i> ha un tempo di ricarica di <span class=\"Highlight3\">{2} secondi.</span> ",
+        "description": "I corvi di tutto il mondo possono comunicare con te. <span class=\"Highlight1\">{0}%</span> delle volte, ricevi un indizio visivo dai corvi gracchianti in un raggio di <span class=\"Highlight2\">{1} metri</span>.<br><i>Spie dalle Tenebre</i> ha un tempo di ricarica di <span class=\"Highlight3\">{2} secondi.</span>",
         "name": "Spie dalle Ombre",
         "flavor": "\"Nelle ombre tormentano, sfregiando le nostre menti a ogni grido.\"",
         "id": 9,
@@ -1152,7 +1152,7 @@
         ]
     },
     {
-        "description": "Quando un sopravvissuto salva qualcuno da un gancio a una distanza di almeno <span class=\"Highlight1\">{0} metri</span> da te, si attiva <i>Fa' la tua scelta</i> che fa urlare il sopravvissuto e vi applica l'effetto di <b><i>Vulnerabilità</i></b> per <span class=\"Highlight2\">{1} secondi</span>.<br><i>Fa' la tua scelta</i> ha un tempo di ricarica di <span class=\"Highlight3\">{2} secondi</span>. ",
+        "description": "Quando un sopravvissuto salva qualcuno da un gancio a una distanza di almeno <span class=\"Highlight1\">{0} metri</span> da te, si attiva <i>Fa' la tua scelta</i> che fa urlare il sopravvissuto e vi applica l'effetto di <b><i>Vulnerabilità</i></b> per <span class=\"Highlight2\">{1} secondi</span>.<br><i>Fa' la tua scelta</i> ha un tempo di ricarica di <span class=\"Highlight3\">{2} secondi</span>.",
         "name": "Fa' la tua scelta",
         "flavor": "\"È sorprendente scoprire quali strumenti possano salvare una vita.\" - Amanda Young",
         "id": 44,
@@ -1905,7 +1905,7 @@
         ]
     },
     {
-        "description": "Coloro che vivono una vita intrecciata nelle tenebre sono destinati a soffrire insieme.<br><br>Quando un sopravvissuto ne guarisce un altro per uno stato di salute almeno <span class=\"Highlight1\">{0} metri</span> dal killer, il sopravvissuto che guarisce urlerà, rivelando la propria posizione e attivando <i>Morte certa</i> per i prossimi <span class=\"Highlight2\">{1} secondi</span>. In questo lasso di tempo, il sopravvissuto subirà l'effetto di <b>Ignaro</b> quando si allontana di oltre <span class=\"Highlight3\">{2} metri</span> dal sopravvissuto guarito. ",
+        "description": "Coloro che vivono una vita intrecciata nelle tenebre sono destinati a soffrire insieme.<br><br>Quando un sopravvissuto ne guarisce un altro per uno stato di salute almeno <span class=\"Highlight1\">{0} metri</span> dal killer, il sopravvissuto che guarisce urlerà, rivelando la propria posizione e attivando <i>Morte certa</i> per i prossimi <span class=\"Highlight2\">{1} secondi</span>. In questo lasso di tempo, il sopravvissuto subirà l'effetto di <b>Ignaro</b> quando si allontana di oltre <span class=\"Highlight3\">{2} metri</span> dal sopravvissuto guarito.",
         "name": "Morte certa",
         "id": 72,
         "index": "DEATHBOUND",

@@ -46,7 +46,7 @@
     },
     {
         "description": "Réclame un <b>clair de lune très obscur</b> à l’Entité.",
-        "name": "Bouquet de nouvelle lune ",
+        "name": "Bouquet de nouvelle lune",
         "flavor": "« Vous feriez mieux de retourner vous coucher, il n’y a pas de lune ce soir. »",
         "id": 6,
         "index": "NEW_MOON_BOUQUET",
@@ -361,7 +361,7 @@
     },
     {
         "description": "<b>Augmente énormément</b> les chances d’être envoyé au laboratoire national d’Hawkins en cas de brûlure.",
-        "name": "Carte d’identification du laboratoire national d’Hawkins ",
+        "name": "Carte d’identification du laboratoire national d’Hawkins",
         "flavor": "« Une carte d’identification tachée de sang avec un numéro de série. »",
         "id": 42,
         "index": "HAWKINS_NATIONAL_LABORATORY_ID",

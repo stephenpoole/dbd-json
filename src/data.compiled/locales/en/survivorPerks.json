@@ -1348,7 +1348,7 @@
         ]
     },
     {
-        "description": "When performing a fast vault or leaving a locker in a sprint, you leave no scratch marks for <span class=\"Highlight1\">{0} seconds</span>.<br><i>Dance With Me</i> has a cooldown of <span class=\"Highlight4\">{1} seconds</span>. ",
+        "description": "When performing a fast vault or leaving a locker in a sprint, you leave no scratch marks for <span class=\"Highlight1\">{0} seconds</span>.<br><i>Dance With Me</i> has a cooldown of <span class=\"Highlight4\">{1} seconds</span>.",
         "name": "Dance With Me",
         "flavor": "“Another show’s off and runnin’, <br>Dance with me, cuz there’s a storm a comin’, <br>Follow my boots, try to keep up,<br>Dance with me, until sun up.”<br>-Kate Denson's \"Dance With Me\"",
         "id": 150,
@@ -1376,7 +1376,7 @@
         ]
     },
     {
-        "description": "Unlocks potential in one's aura reading ability. Auras of pallets, breakable walls, and vault locations are revealed to you when within a <span class=\"Highlight1\">{0} meter</span> range. <br><i>Windows of Opportunity</i> has a cooldown of <span class=\"Highlight1\">{1} seconds</span> when vaulting or dropping a pallet during a chase. ",
+        "description": "Unlocks potential in one's aura reading ability. Auras of pallets, breakable walls, and vault locations are revealed to you when within a <span class=\"Highlight1\">{0} meter</span> range. <br><i>Windows of Opportunity</i> has a cooldown of <span class=\"Highlight1\">{1} seconds</span> when vaulting or dropping a pallet during a chase.",
         "name": "Windows of Opportunity",
         "flavor": "“Rise and shine, work hard, carve out your name, <br>Take aim, pull the trigger, hit the bulls eye for fame, <br>Know the value of faith, an’ family, and don’t you complain,<br>Open wide, your windows of opportunity.”<br>-Kate Denson's \"Windows of Opportunity\"",
         "id": 151,
@@ -1917,7 +1917,7 @@
     {
         "description": "You’ve had your share of scrapes and bruises, but luck’s always on your side.<br><br><i>Lucky Break</i> activates any time you are injured. While <i>Lucky Break</i> is active, you won’t leave trails of blood or scratch marks for a total of <span class=\"Highlight1\">{0} seconds</span>.<br><br><i>Lucky Break</i> is permanently deactivated for the remainder of the Trial once the total duration has elapsed.<br>",
         "name": "Lucky Break",
-        "flavor": "“That’s not enough to beat me. Not even close.” -Yui Kimura ",
+        "flavor": "“That’s not enough to beat me. Not even close.” -Yui Kimura",
         "id": 171,
         "index": "LUCKY_BREAK",
         "rarity": [
@@ -1942,7 +1942,7 @@
     {
         "description": "You stand up for yourself, using whatever’s on hand to gain an advantage.<br><br>Press and hold the <i>Active Ability button</i> for <span class=\"Highlight1\">{0} seconds</span> while standing beside a dropped pallet to reset it to its upright position.<br><br><i>Any Means Necessary</i> has a cooldown of <span class=\"Highlight2\">{1} seconds</span>.<br>",
         "name": "Any Means Necessary",
-        "flavor": "“I’ll hit you with everything I’ve got. Then I’ll do it again.” -Yui Kimura ",
+        "flavor": "“I’ll hit you with everything I’ve got. Then I’ll do it again.” -Yui Kimura",
         "id": 172,
         "index": "ANY_MEANS_NECESSARY",
         "rarity": [
@@ -1970,7 +1970,7 @@
     {
         "description": "You kick into high gear when someone’s in trouble, inspiring them to overcome any obstacle.<br><br>When within <span class=\"Highlight1\">{0} meters</span> of a carried Survivor, you gain the <span class=\"Highlight2\">Haste</span> status effect, moving at <span class=\"Highlight3\">{1}%</span> increased speed. The carried Survivor’s wiggle speed is increased by <span class=\"Highlight4\">{2}%</span>.<br>",
         "name": "Breakout",
-        "flavor": "“Come, we’re going to rip our way out of this.” -Yui Kimura ",
+        "flavor": "“Come, we’re going to rip our way out of this.” -Yui Kimura",
         "id": 173,
         "index": "BREAKOUT",
         "rarity": [
@@ -2129,7 +2129,7 @@
     },
     {
         "description": "You’re accustomed to being hunted by malicious forces, and you’ve begun using it to your advantage.<br><br><i>Repressed Alliance</i> activates after repairing generators for a total of <span class=\"Highlight1\">{0} seconds.</span><br><br>When repairing a generator while the perk is active, press the <i>Active Ability button</i> to call upon The Entity to block the generator for <span class=\"Highlight2\">{1} seconds.</span> The perk deactivates.<br><br>Affected generators will be revealed by a white aura to all Survivors.",
-        "name": "Repressed Alliance ",
+        "name": "Repressed Alliance",
         "id": 179,
         "index": "REPRESSED_ALLIANCE",
         "rarity": [

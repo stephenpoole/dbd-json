@@ -46,7 +46,7 @@
     },
     {
         "description": "Prosi Byt o <b>najciemniejszą noc</b>.",
-        "name": "Bukiet nowiu księżyca ",
+        "name": "Bukiet nowiu księżyca",
         "flavor": "„Śpij dalej, księżyc nie ukaże się tej nocy”.",
         "id": 6,
         "index": "NEW_MOON_BOUQUET",
@@ -361,7 +361,7 @@
     },
     {
         "description": "<b>Ogromnie zwiększa</b> szansę wysłania do Hawkins National Laboratory w razie spalenia.",
-        "name": "Karta Hawkins National Laboratory ",
+        "name": "Karta Hawkins National Laboratory",
         "flavor": "„Przemoczona i zakrwawiona karta identyfikacyjna z numerem”.",
         "id": 42,
         "index": "HAWKINS_NATIONAL_LABORATORY_ID",

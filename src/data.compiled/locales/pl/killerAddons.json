@@ -172,7 +172,7 @@
         "image": "iconAddon_sootTheGhost"
     },
     {
-        "description": " Reprezentujący świat grozy symbol Kunwulju został narysowany na dzwonie palcem zanurzonym w sadzy.<br><li>Zasięg terroru Widma <b>nie jest stłumiony</b>, gdy znajdujesz się w trybie niewidzialności.</li><li>Zapewnia 100% premii do Punktów Krwi za prześladowanie i niespodziewane ataki.</li>",
+        "description": "Reprezentujący świat grozy symbol Kunwulju został narysowany na dzwonie palcem zanurzonym w sadzy.<br><li>Zasięg terroru Widma <b>nie jest stłumiony</b>, gdy znajdujesz się w trybie niewidzialności.</li><li>Zapewnia 100% premii do Punktów Krwi za prześladowanie i niespodziewane ataki.</li>",
         "name": "„Bestia” – Sadza",
         "id": 53,
         "index": "THE_BEAST_SOOT",
@@ -1088,7 +1088,7 @@
         "image": "iconAddon_calmClassI"
     },
     {
-        "description": " Kaseta magnetofonowa używana podczas projektu \"Przebudzenie\" zawierająca głównie biały szum.  Wyzwala umysł Doktora i pozwala mu stosować alternatywne sposoby leczenia.\n<br><br><li><b>Terapia Szokowa</b> <i> zmienia się ze stożka w wiązkę pojawiającą się <b>8 m</b> przed <b>Doktorem</b>, z zasięgiem <b>4.2 m</b> i szerokością <b>3 m</b>.</li>",
+        "description": "Kaseta magnetofonowa używana podczas projektu \"Przebudzenie\" zawierająca głównie biały szum.  Wyzwala umysł Doktora i pozwala mu stosować alternatywne sposoby leczenia.\n<br><br><li><b>Terapia Szokowa</b> <i> zmienia się ze stożka w wiązkę pojawiającą się <b>8 m</b> przed <b>Doktorem</b>, z zasięgiem <b>4.2 m</b> i szerokością <b>3 m</b>.</li>",
         "name": "Zniszczona kaseta",
         "id": 304,
         "index": "SCRAPPED_TAPE",
@@ -1978,7 +1978,7 @@
         "image": "iconAddon_robinFeather"
     },
     {
-        "description": "Część klasycznego stroju Klauna. Ucięte palce pozwalają wykonywać zręczne ruchy.\n<li>Zmienia łuk rzutu butelki.</li>\n",
+        "description": "Część klasycznego stroju Klauna. Ucięte palce pozwalają wykonywać zręczne ruchy.\n<li>Zmienia łuk rzutu butelki.</li>",
         "name": "Rękawiczki Bez Palców",
         "id": 552,
         "index": "FINGERLESS_PARADE_GLOVES",
@@ -2755,7 +2755,7 @@
     },
     {
         "description": "Czarne pasy, który utrzymują wszystko na miejscu podczas skradania się.<br><li><b>Nieznacznie zwiększa</b> prędkość ruchu podczas kucania.</li>",
-        "name": "Paski zatrzaskowe ",
+        "name": "Paski zatrzaskowe",
         "id": 758,
         "index": "CINCH_STRAPS",
         "owner": "GHOST",
@@ -3238,7 +3238,7 @@
     },
     {
         "description": "Brudny kawałek juty. Ślina wystarczyła do wytarcia kuszy w trakcie strzelaniny. <li><b>Nieznacznie skraca</b> czas odnawiania Kuszy po nietrafionych strzałach.</li>",
-        "name": "Opluta ścierka ",
+        "name": "Opluta ścierka",
         "id": 900,
         "index": "SPIT_POLISH_RAG",
         "owner": "DEATHSLINGER",
@@ -3247,7 +3247,7 @@
     },
     {
         "description": "Mieszanka olejków i wyciągów kupiona od obwoźnego sprzedawcy. Rzekomo leczy wszystkie dolegliwości. <li><b>Nieznacznie zwiększa</b> szybkość naciągania Kuszy.</li>",
-        "name": "Wężowy olej ",
+        "name": "Wężowy olej",
         "id": 901,
         "index": "SNAKE_OIL",
         "owner": "DEATHSLINGER",
@@ -3265,7 +3265,7 @@
     },
     {
         "description": "Stary pas na amunicję, który Caleb dostosował do swojego specjalistycznego arsenału. Wciąż widać na nim drobny czerwony kurz z pustyni w Terytorium Arizony. <li><b>Nieznacznie zwiększa</b> szybkość przeładowania Kuszy.</li>",
-        "name": "Zmodyfikowany pas na amunicję ",
+        "name": "Zmodyfikowany pas na amunicję",
         "id": 903,
         "index": "MODIFIED_AMMO_BELT",
         "owner": "DEATHSLINGER",
@@ -3274,7 +3274,7 @@
     },
     {
         "description": "Gwóźdź kolejowy, który Caleb przymocował z przodu Kuszy w przypływie chorobliwej ciekawości. Tępy koniec uniemożliwia mu czyste przebicie celu. <li>Trafienie ocalałego przebitego włócznią nakłada nań efekt <b>Zmasakrowany</b>.</li>",
-        "name": "Zardzewiały gwóźdź ",
+        "name": "Zardzewiały gwóźdź",
         "id": 904,
         "index": "RUSTED_SPIKE",
         "owner": "DEATHSLINGER",
@@ -3292,7 +3292,7 @@
     },
     {
         "description": "Srebrna odznaka zdjęta w Terytorium Arizony z ciała stróża prawa, który przeszkodził w łowach gangu z Hellshire. <li><b>Nieznacznie zmniejsza</b> zasięg terroru podczas patrzenia przez celownik Kuszy. </li><li><b>Nieznacznie zmniejsza</b> szybkość ruchu podczas patrzenia przez celownik Kuszy. </li><span class=\"FlavorText\">„Lepiej się pomódl. Zawiśniesz do południa”. – Caleb Quinn</span>",
-        "name": "Odznaka policjanta ",
+        "name": "Odznaka policjanta",
         "id": 906,
         "index": "MARSHALS_BADGE",
         "owner": "DEATHSLINGER",
@@ -3301,7 +3301,7 @@
     },
     {
         "description": "Pocisk, który przebił się przez szczękę Caleba podczas szaleńczej strzelaniny. Pobudza palącą chęć zemsty. <li><b>Nieznacznie zwiększa</b> szybkość ruchu podczas patrzenia przez celownik Kuszy. </li><span class=\"FlavorText\">„Wyrządzając mi krzywdę, ściągnąłeś na siebie śmierć”. – Caleb Quinn</span>",
-        "name": "Łamacz szczęk ",
+        "name": "Łamacz szczęk",
         "id": 907,
         "index": "JAW_SMASHER",
         "owner": "DEATHSLINGER",
@@ -3319,7 +3319,7 @@
     },
     {
         "description": "Stłumione dzwonienie kluczy obudziło w Calebie wściekłe wspomnienie. <li><b>Umiarkowanie zwiększa</b> szybkość przeładowania Kuszy.</li>",
-        "name": "Klucze strażnika ",
+        "name": "Klucze strażnika",
         "id": 909,
         "index": "WARDENS_KEYS",
         "owner": "DEATHSLINGER",
@@ -3328,7 +3328,7 @@
     },
     {
         "description": "Pożółkłe resztki plakatu z poszukiwanym Masonem Kellym. Pozwalał Calebowi skupić się na polowaniu. <li><b>Umiarkowanie zwiększa</b> szybkość ruchu podczas patrzenia przez celownik Kuszy. </li><span class=\"FlavorText\">„Surowo się z tobą policzę, przysięgam na grób matki”. – Caleb Quinn</span>",
-        "name": "Plakat z poszukiwanym ",
+        "name": "Plakat z poszukiwanym",
         "id": 910,
         "index": "WANTED_POSTER",
         "owner": "DEATHSLINGER",
@@ -3337,7 +3337,7 @@
     },
     {
         "description": "Puszka z niewielką ilością oleju zmniejszającego tarcie maszyn. Wczesne modele Kuszy stale się zacinały i wszędzie trzeba było nosić ze sobą smar. <li><b>Umiarkowanie skraca</b> czas odnawiania Kuszy po nietrafionych strzałach.</li>",
-        "name": "Puszka ze smarem ",
+        "name": "Puszka ze smarem",
         "id": 911,
         "index": "TIN_OIL_CAN",
         "owner": "DEATHSLINGER",
@@ -3346,7 +3346,7 @@
     },
     {
         "description": "Rozwścieczony przez ofiarę, która uciekła mu dwukrotnie, Caleb nawinął kolczaste gałęzie na włócznię i wypuścił ją. <li>Ocalali, którzy wyrwą się z przygwożdżenia przez Kuszę, otrzymują efekt <b>Zmasakrowany</b>.</li>",
-        "name": "Kolczaste krzewy ",
+        "name": "Kolczaste krzewy",
         "id": 912,
         "index": "HONEY_LOCUST_THORNS",
         "owner": "DEATHSLINGER",
@@ -3418,7 +3418,7 @@
     },
     {
         "description": "Znaleziony w lodówce. Wygrawerowano na nim odrażającą, rozdętą twarz.<li><b>Nieznacznie wydłuża</b> czas pozostawania ścieżki <b>Rytuału sądu</b> na mapie.</li>",
-        "name": "Ołowiany pierścień ",
+        "name": "Ołowiany pierścień",
         "id": 950,
         "index": "LEAD_RING",
         "owner": "EXECUTIONER",
@@ -3427,7 +3427,7 @@
     },
     {
         "description": "Motyl znaleziony na łóżku w Wood Side. Jest bardzo delikatny i niemal rozpada się po dotknięciu.<li><b>Nieznacznie zwiększa</b> prędkość odnawiania <b>Rytuału sądu</b>.</li>",
-        "name": "Martwy motyl ",
+        "name": "Martwy motyl",
         "id": 951,
         "index": "DEAD_BUTTERFLY",
         "owner": "EXECUTIONER",
@@ -3436,7 +3436,7 @@
     },
     {
         "description": "Znalezisko ze szpitala w Brookhaven. Ozdobiony wygrawerowanym pająkiem.<li><b>Nieznacznie wydłuża</b> czas możliwości wykonania <b>Rytuału sądu</b>.</li>",
-        "name": "Miedziany pierścień ",
+        "name": "Miedziany pierścień",
         "flavor": "„Byłam zamknięta w najgłębszej piwnicy. Była bardzo mała i ciemna, a ja strasznie się bałam. Zgubiłam swój cenny pierścionek, ale już nigdy, przenigdy tam nie wrócę”.",
         "id": 952,
         "index": "COPPER_RING",
@@ -3446,7 +3446,7 @@
     },
     {
         "description": "Nylonowy pasek, który posłużył do przywiązania ofiary do metalowego stelaża. Barwa utrudnia dostrzeżenie wsiąkniętej w niego krwi.<li><b>Nieznacznie zwiększa</b> zasięg <b>Kary dla potępionych</b>.</li>",
-        "name": "Czarny pasek ",
+        "name": "Czarny pasek",
         "id": 953,
         "index": "BLACK_STRAP",
         "owner": "EXECUTIONER",
@@ -3455,7 +3455,7 @@
     },
     {
         "description": "Lalka ręcznie wykonana z wosku przez więźnia na moment przed sądem.<li><b>Umiarkowanie zwiększa</b> zasięg <b>Kary dla potępionych</b>.</li>",
-        "name": "Lalka z wosku ",
+        "name": "Lalka z wosku",
         "id": 954,
         "index": "WAX_DOLL",
         "owner": "EXECUTIONER",
@@ -3464,7 +3464,7 @@
     },
     {
         "description": "Ostra i zardzewiała końcówka włóczni. Jest pokryta krwią ostatniej ofiary.<li><b>Umiarkowanie wydłuża</b> łączny czas na wykonanie <b>Rytuału sądu</b>.</li>",
-        "name": "Grot włóczni ",
+        "name": "Grot włóczni",
         "id": 955,
         "index": "SPEARHEAD",
         "owner": "EXECUTIONER",
@@ -3473,7 +3473,7 @@
     },
     {
         "description": "Fragment różowej tkaniny w panterkę. Trudno powiedzieć, do czego była używana.<li><b>Nieznacznie wydłuża</b> czas trwania <i>Instynktu zabójcy</i> uruchomionego przez <b>Rytuał sądu</b>.</li>",
-        "name": "Tkanina w panterkę  ",
+        "name": "Tkanina w panterkę",
         "flavor": "„Nieważne, kim jestem. Jestem tu dla ciebie, James”. – Maria",
         "id": 956,
         "index": "LEOPARD_PRINT_FABRIC",
@@ -3483,7 +3483,7 @@
     },
     {
         "description": "Taśma zakochanej pary na wakacjach w Silent Hill. Mimo sentymentalnej wartości pozostawiono ją w hotelu Lakeview.<li><b>Umiarkowanie zwiększa</b> prędkość odnawiania <b>Rytuału sądu</b>.</li>",
-        "name": "Zapomniana kaseta ",
+        "name": "Zapomniana kaseta",
         "id": 957,
         "index": "FORGOTTEN_VIDEOTAPE",
         "owner": "EXECUTIONER",
@@ -3492,7 +3492,7 @@
     },
     {
         "description": "Pozytywka z figurką z bajki o Kopciuszku. Znaleziona w walizce pokrytej naklejkami z różnych miejscowości.<li><b>Umiarkowanie wydłuża</b> czas pozostawania ścieżki <b>Rytuału sądu</b> na mapie.</li>",
-        "name": "Pozytywka z Kopciuszkiem ",
+        "name": "Pozytywka z Kopciuszkiem",
         "id": 958,
         "index": "CINDERELLA_MUSIC_BOX",
         "owner": "EXECUTIONER",
@@ -3501,7 +3501,7 @@
     },
     {
         "description": "Zdjęcie dwóch postaci w czerwonych kapturach podpisane „Bankiet szkarłatu i bieli dla bogów”.<li><b>Znacznie zwiększa</b> prędkość odnawiania <b>Rytuału sądu</b>.</li>",
-        "name": "Zdjęcie sekty Valtiela ",
+        "name": "Zdjęcie sekty Valtiela",
         "id": 959,
         "index": "VALTIEL_SECT_PHOTOGRAPH",
         "owner": "EXECUTIONER",
@@ -3510,7 +3510,7 @@
     },
     {
         "description": "Metalowa tablica z azteckimi symbolami.<li><b>Znacznie wydłuża</b> łączny czas na wykonanie <b>Rytuału sądu</b>.</li>",
-        "name": "Tabliczka ciemiężcy ",
+        "name": "Tabliczka ciemiężcy",
         "id": 960,
         "index": "TABLET_OF_THE_OPPRESSOR",
         "owner": "EXECUTIONER",
@@ -3519,7 +3519,7 @@
     },
     {
         "description": "Malunek okazałej postaci ze stalową piramidą na głowie. W tle widać ofiary w klatkach.<li><b>Umiarkowanie wydłuża</b> czas trwania <i>Instynktu zabójcy</i> uruchomionego przez <b>Rytuał sądu</b>.</li>",
-        "name": "Mglisty dzień, resztki sądu ",
+        "name": "Mglisty dzień, resztki sądu",
         "flavor": "„To on…”",
         "id": 961,
         "index": "MISTY_DAY_REMAINS_OF_JUDGMENT",
@@ -3529,7 +3529,7 @@
     },
     {
         "description": "Gładka szara stopa manekina, brutalnie oderwana od nogi.<li><b>Znacznie wydłuża</b> czas pozostawania ścieżki <b>Rytuału sądu</b> na mapie.</li>",
-        "name": "Stopa manekina ",
+        "name": "Stopa manekina",
         "id": 962,
         "index": "MANNEQUIN_FOOT",
         "owner": "EXECUTIONER",
@@ -3538,7 +3538,7 @@
     },
     {
         "description": "Schemat hotelu Lakeview. Na tym miejscu winy namalowano czerwone płomienie.<li><b>Znacznie zwiększa</b> zasięg Kary dla potępionych.</li>",
-        "name": "Rysunek płonącego człowieka ",
+        "name": "Rysunek płonącego człowieka",
         "id": 963,
         "index": "BURNING_MAN_PAINTING",
         "owner": "EXECUTIONER",
@@ -3547,7 +3547,7 @@
     },
     {
         "description": "Świeże jajko o uderzająco czerwonym kolorze. Wielkości przepiórczego jaja.<li><b>Znacznie wydłuża</b> czas trwania <i>Instynktu zabójcy</i> uruchomionego przez <b>Rytuał sądu</b>.</li>",
-        "name": "Szkarłatne jajo ",
+        "name": "Szkarłatne jajo",
         "flavor": "„Nigdy w życiu się tak nie bałam! W ogóle się mną nie przejmujesz… Prawda?” – Maria",
         "id": 964,
         "index": "SCARLET_EGG",
@@ -3557,7 +3557,7 @@
     },
     {
         "description": "Jajko o starym wyglądzie, w czerwonawopomarańczowym kolorze. Wielkości przepiórczego jaja.<li>Ocalali dotknięci <b>Rytuałem sądu</b> otrzymują efekt <b>Oślepienie</b> na <b>60 sekund</b>.</li>",
-        "name": "Rdzawe jajo ",
+        "name": "Rdzawe jajo",
         "flavor": "„James… Uszczęśliwiłeś mnie”. – Mary",
         "id": 965,
         "index": "RUST_COLORED_EGG",
@@ -3567,7 +3567,7 @@
     },
     {
         "description": "Książka o historii i legendach Silent Hill oraz obszaru otaczającego miasto.<li>Ocalali dotknięci <b>Rytuałem sądu</b> otrzymują efekt <b>Nieświadomy</b> na <b>15 sekund</b>.</li><span class=\"FlavorText\">„Nazywali to miejsce «obszarem cichych duchów»”.</span>",
-        "name": "Książka „Utracone wspomnienia” ",
+        "name": "Książka „Utracone wspomnienia”",
         "id": 966,
         "index": "LOST_MEMORIES_BOOK",
         "owner": "EXECUTIONER",
@@ -3576,7 +3576,7 @@
     },
     {
         "description": "Książka o pradawnym bogu. Autor nieznany.<li>Ranni ocalali dotknięci <i>Udręką</i> otrzymują efekt <b>Krwotok</b>.</li>",
-        "name": "Książka „Szkarłatna ceremonia” ",
+        "name": "Książka „Szkarłatna ceremonia”",
         "flavor": "„Mów. Jestem Szkarłatem. Kłamstwa i mgła to nie oni – to ja”.",
         "id": 967,
         "index": "CRIMSON_CEREMONY_COOK",
@@ -3586,7 +3586,7 @@
     },
     {
         "description": "Kielich o starożytnym wyglądzie wykonany z czystego obsydianu.<li><b>Kat</b> zyskuje efekt <b>Niewykrywalny</b>, gdy stoi na ścieżce <b>Rytuału sądu</b>.</li>",
-        "name": "Obsydianowy kielich ",
+        "name": "Obsydianowy kielich",
         "flavor": "„Wybacz, że cię budzę, ale nie mogę iść dalej bez ciebie”. – James Sunderland",
         "id": 968,
         "index": "OBSIDIAN_GOBLET",
@@ -3596,7 +3596,7 @@
     },
     {
         "description": "Talizman z dziwną inskrypcją. Zdaje się, że zmienił ją wpływ Bytu.<li>Po wysłaniu ocalałego do <b>klatki odkupienia</b> aury wszystkich ocalałych dotkniętych <i>Udręką</i> zostają ujawnione na <b>6 sekund</b>.</li>",
-        "name": "Opalizująca pieczęć Metatrona ",
+        "name": "Opalizująca pieczęć Metatrona",
         "flavor": "„Ta magiczna płytka o silnych właściwościach ochronnych jest nazywana herbem Virun VII lub pieczęcią Metatrona”.",
         "id": 969,
         "index": "IRIDESCENT_SEAL_OF_METATRON",
@@ -3606,7 +3606,7 @@
     },
     {
         "description": "Zupełnie nieskuteczna tabletka. Ale czy na pewno?<br><br><li><b>Umiarkowanie zmniejsza</b> prędkość ruchu podczas Pędu.</li><li>Zyskaj <b>100%</b> więcej Punktów Krwi podczas punktowanego Pędu.</li>",
-        "name": "Placebo ",
+        "name": "Placebo",
         "id": 1000,
         "index": "PLACEBO_TABLET",
         "owner": "BLIGHT",
@@ -3614,8 +3614,8 @@
         "image": "iconAddon_placeboTablet"
     },
     {
-        "description": "Trująca roślina, dzięki której Talbot zainteresował się chemią. Przywołuje dawno wyparte wspomnienia.<br><br><li><b>Nieznacznie zwiększa</b> tempo regeneracji po Pędzie.</li> ",
-        "name": "Naparstnica purpurowa ",
+        "description": "Trująca roślina, dzięki której Talbot zainteresował się chemią. Przywołuje dawno wyparte wspomnienia.<br><br><li><b>Nieznacznie zwiększa</b> tempo regeneracji po Pędzie.</li>",
+        "name": "Naparstnica purpurowa",
         "id": 1001,
         "index": "FOXGLOVE",
         "owner": "BLIGHT",
@@ -3624,7 +3624,7 @@
     },
     {
         "description": "Ta wczesna próbka nie przyniosła pożądanych rezultatów, ale i tak wykazała zaskakujące efekty.<br><br><li>Automatycznie odwraca się w stronę ocalałego po Uderzeniu.</li>",
-        "name": "Mikstura nr 7 ",
+        "name": "Mikstura nr 7",
         "id": 1002,
         "index": "COMPOUND_SEVEN",
         "owner": "BLIGHT",
@@ -3641,8 +3641,8 @@
         "image": "iconAddon_chippedMonocle"
     },
     {
-        "description": "Pozostałości po notatkach Talbota. Wciąż zawierają cenne informacje.br><li><b>Zmniejsza</b> ilość dostępnych żetonów Pędu o <b>1.</b></li><li><b>Umiarkowanie zwiększają</b> prędkość regeneracji żetonów.</li> ",
-        "name": "Porwane notatki ",
+        "description": "Pozostałości po notatkach Talbota. Wciąż zawierają cenne informacje.br><li><b>Zmniejsza</b> ilość dostępnych żetonów Pędu o <b>1.</b></li><li><b>Umiarkowanie zwiększają</b> prędkość regeneracji żetonów.</li>",
+        "name": "Porwane notatki",
         "id": 1004,
         "index": "SHREDDED_NOTES",
         "owner": "BLIGHT",
@@ -3651,7 +3651,7 @@
     },
     {
         "description": "Suszone płatki krostorośli zmielone na drobny pył.<br><br><li><b>Umiarkowanie zwiększają</b> czas trwania uderzenia.</li>",
-        "name": "Pył z krostorośli ",
+        "name": "Pył z krostorośli",
         "id": 1005,
         "index": "PUSTULA_DUST",
         "owner": "BLIGHT",
@@ -3659,7 +3659,7 @@
         "image": "iconAddon_pustulaDust"
     },
     {
-        "description": "Próbka żółci Plagi, destylowana i potraktowana mieszaniną chemikaliów.<br><br><li><b>Nieznacznie zwiększa</b> prędkość obrotów podczas Pędu.</li> ",
+        "description": "Próbka żółci Plagi, destylowana i potraktowana mieszaniną chemikaliów.<br><br><li><b>Nieznacznie zwiększa</b> prędkość obrotów podczas Pędu.</li>",
         "name": "Żółć Plagi",
         "id": 1006,
         "index": "PLAGUE_BILE",
@@ -3668,7 +3668,7 @@
         "image": "iconAddon_plagueBile"
     },
     {
-        "description": "Pokaźnych rozmiarów cierń odcięty z przerośla. Wydziela łagodną toksynę.<br><br><li><b>Umiarkowanie zwiększa</b> tempo regeneracji po Pędzie.</li> ",
+        "description": "Pokaźnych rozmiarów cierń odcięty z przerośla. Wydziela łagodną toksynę.<br><br><li><b>Umiarkowanie zwiększa</b> tempo regeneracji po Pędzie.</li>",
         "name": "Cierń przerośla",
         "id": 1007,
         "index": "CANKER_THORN",
@@ -3677,8 +3677,8 @@
         "image": "iconAddon_cankerThorn"
     },
     {
-        "description": "Szczur, który na krótko powrócił do życia po wstrzyknięciu serum. Wywołało ono u niego niekontrolowaną agresję.<br><br><li><b>Umiarkowanie zwiększa</b> prędkość każdego kolejnego Pędu.</li> ",
-        "name": "Zarażony szczur ",
+        "description": "Szczur, który na krótko powrócił do życia po wstrzyknięciu serum. Wywołało ono u niego niekontrolowaną agresję.<br><br><li><b>Umiarkowanie zwiększa</b> prędkość każdego kolejnego Pędu.</li>",
+        "name": "Zarażony szczur",
         "id": 1008,
         "index": "BLIGHTED_RAT",
         "owner": "BLIGHT",
@@ -3686,8 +3686,8 @@
         "image": "iconAddon_blightedRat"
     },
     {
-        "description": "Zwykła sól morska, która na chwilę znalazła się w świecie duchów, co zmieniło jej właściwości.<br><br><li><b>Umiarkowanie zwiększa</b> prędkość obrotów podczas Pędu.</li> ",
-        "name": "Sól z Półmroku ",
+        "description": "Zwykła sól morska, która na chwilę znalazła się w świecie duchów, co zmieniło jej właściwości.<br><br><li><b>Umiarkowanie zwiększa</b> prędkość obrotów podczas Pędu.</li>",
+        "name": "Sól z Półmroku",
         "id": 1009,
         "index": "UMBRA_SALTS",
         "owner": "BLIGHT",
@@ -3695,8 +3695,8 @@
         "image": "iconAddon_umbraSalts"
     },
     {
-        "description": "Mikstura z suszonych róż z nadzwyczaj rzadkiego Bukietu Nowiu Księżyca.<br><br><li><b>Znacząco wydłuża</b> czas trwania Uderzenia.</li> ",
-        "name": "Woda różana ",
+        "description": "Mikstura z suszonych róż z nadzwyczaj rzadkiego Bukietu Nowiu Księżyca.<br><br><li><b>Znacząco wydłuża</b> czas trwania Uderzenia.</li>",
+        "name": "Woda różana",
         "id": 1010,
         "index": "ROSE_TONIC",
         "owner": "BLIGHT",
@@ -3705,7 +3705,7 @@
     },
     {
         "description": "Serum. Śmiertelnie trujące dla ludzi, ale wywołuje pomyślne skutki u tych, którzy są… czymś więcej.<br><br><li>Rozpoczynając Uderzenie, odkrywasz aury ocalałych w promieniu <b>8 metrów</b> od miejsca zderzenia na <b>3 sekundy</b>.</li>",
-        "name": "Mikstura nr 21 ",
+        "name": "Mikstura nr 21",
         "id": 1011,
         "index": "COMPOUND_TWENTY_ONE",
         "owner": "BLIGHT",
@@ -3713,8 +3713,8 @@
         "image": "iconAddon_compoundTwentyOne"
     },
     {
-        "description": "Martwy kruk, groteskowo zmutowany przez serum zarazy.<br><br><li><b>Znacząco wydłuża</b> prędkość każdego kolejnego Pędu.</li> ",
-        "name": "Zarażony kruk ",
+        "description": "Martwy kruk, groteskowo zmutowany przez serum zarazy.<br><br><li><b>Znacząco wydłuża</b> prędkość każdego kolejnego Pędu.</li>",
+        "name": "Zarażony kruk",
         "id": 1012,
         "index": "BLIGHTED_CROW",
         "owner": "BLIGHT",
@@ -3723,7 +3723,7 @@
     },
     {
         "description": "Hormon z nadnerczy nieskłonnego do współpracy obiektu badań. Chociaż zapewnia nagły skok energii, jej użycie może zmęczyć.<br><br><li><b>Ogromnie zmniejsza</b> prędkość obrotów podczas Pędu.</li><li><b>Ogromnie zwiększa</b> prędkość regeneracji żetonów.</li><li><b>Zwiększa</b> dostępną liczbę żetonów Pędu o<b>2.</b></li><li><b>Znacząco zwiększa</b> maksymalne pole widzenia podczas Pędu.</li><br>",
-        "name": "Ampułka z adrenaliną ",
+        "name": "Ampułka z adrenaliną",
         "flavor": "\\„Proszę, nie rób tego…”",
         "id": 1013,
         "index": "ADRENALINE_VIAL",
@@ -3733,7 +3733,7 @@
     },
     {
         "description": "Dziennik mężczyzny, który twierdził, że powrócił z Pustki. Wiedza w nim zawarta ma praktyczne zastosowanie.<br><br><li>Zyskujesz efekt <b>Niewykrywalny</b> podczas Pędu.</li><br>",
-        "name": "Dziennik Viga ",
+        "name": "Dziennik Viga",
         "flavor": "„Człowiek, który znajdzie wyjście z pustkowi zapomnianych marzeń i niekończącej się rutyny, staje się Bogiem”. – Talbot Grimes",
         "id": 1014,
         "index": "VIGOS_JOURNAL",
@@ -3743,7 +3743,7 @@
     },
     {
         "description": "Talbot używał tego kamienia, aby wyryć na ścianach swej nory to, co uważał za wyniki swoich badań.<br><br><li>Trafienie ocalałego Śmiertelnym Pędem przywołuje Byt, który blokuje palety w promieniu <b>12 metrów</b> od ciebie przez <b>6 sekund</b>.</li><br>",
-        "name": "Kamień przywołań ",
+        "name": "Kamień przywołań",
         "flavor": "„Śmierć to dopiero początek”.",
         "id": 1015,
         "index": "SUMMONING_STONE",
@@ -3753,7 +3753,7 @@
     },
     {
         "description": "Płyn pobierany z szyszynki zmarłego niedawno ocalałego.<br><br><li>Podczas pędu wejście w promień <b>16 metrów</b> od naprawiającego lub leczącego ocalałego uruchamia dla niego <b>ogromnie</b> trudny test umiejętności. Można uruchomić jeden raz na pęd na ocalałego. Nie uruchamia się dla pędu rozpoczętego w promieniu <b>16 metrów</b> od ocalałego.</li><br>",
-        "name": "Substancja duszy ",
+        "name": "Substancja duszy",
         "flavor": "„Podejrzewa się, że wywołuje nietypowe zmiany w rytmach fal mózgowych”. – Nieoznakowany tekst szkoły mistyków",
         "id": 1016,
         "index": "SOUL_CHEMICAL",
@@ -3763,7 +3763,7 @@
     },
     {
         "description": "Pierścień, który otrzymują chemicy w dniu ukończenia studiów na London School of Medicine. Ma przypominać o niepowstrzymanej ambicji.<br><br><li><b>Trafienie ocalałego Śmiertelnym pędem  natychmiastowo odnowi wszystkie żetony Pędu.</li><br>",
-        "name": "Pierścień alchemika ",
+        "name": "Pierścień alchemika",
         "flavor": "„Student został oskarżony o okradanie grobów z zamiarem przeprowadzania nielegalnych badań na zwłokach”. – Nagana dla studenta Talbota Grimesa, 1838 r.",
         "id": 1017,
         "index": "ALCHEMISTS_RING",
@@ -3783,7 +3783,7 @@
     },
     {
         "description": "Przedostatni wysiłek Talbota, by stworzyć serum. Chociaż nie umożliwiło mu ucieczki, miało potężne efekty uboczne.<br><br><li>Ocalali w promieniu <b>16 metrów</b> od Uderzenia otrzymują efekt <b>Skrępowany</b>, utrzymujący się przez <b>3 sekundy</b>.</li><li>Uderzenie w palety lub ściany zniszczu je i ogłuszy Zarazę na <b>1.5 sekund.</b></li><br>",
-        "name": "Mikstura nr 33 ",
+        "name": "Mikstura nr 33",
         "flavor": "\\„Zostało mało czasu. Oby to było to…” – Talbot Grimes",
         "id": 1019,
         "index": "COMPOUND_THIRTY_THREE",
@@ -3873,7 +3873,7 @@
         "image": "iconAddon_babyTeeth"
     },
     {
-        "description": "Tandetnie wyrzeźbiona grzechotka, za którą Victor płakał, dopóki matka jej dla niego nie ukradła. Jest zdecydowanie zbyt ciężka, żeby powierzyć ją dziecku.<br><br><li>Ocalali, którzy zrzucą Victora, otrzymują efekt <b>Okaleczony</b> na <b>20 sekund.</b></li> ",
+        "description": "Tandetnie wyrzeźbiona grzechotka, za którą Victor płakał, dopóki matka jej dla niego nie ukradła. Jest zdecydowanie zbyt ciężka, żeby powierzyć ją dziecku.<br><br><li>Ocalali, którzy zrzucą Victora, otrzymują efekt <b>Okaleczony</b> na <b>20 sekund.</b></li>",
         "name": "Ciężka grzechotka",
         "id": 1059,
         "index": "WEIGHTY_RATTLE",
@@ -4257,7 +4257,7 @@
         "image": "iconAddon_tyrantGore"
     },
     {
-        "description": "Próbka wirusa T stworzonego przez Umbrella Corporation. Wywołuje skrajne mutacje i uszkodzenia mózgu,<li><b>Znacznie zwiększa</b> prędkość mutacji po zniszczeniu zombie Uderzeniem Macki. ",
+        "description": "Próbka wirusa T stworzonego przez Umbrella Corporation. Wywołuje skrajne mutacje i uszkodzenia mózgu,<li><b>Znacznie zwiększa</b> prędkość mutacji po zniszczeniu zombie Uderzeniem Macki.",
         "name": "Próbka wirusa T",
         "id": 1160,
         "index": "T_VIRUS_SAMPLE",
@@ -4276,7 +4276,7 @@
     },
     {
         "description": "Poplątane pozostałości rośliny zarażonej wirusem T. Zabiła jednego z badaczy, którzy ją stworzyli.<li><b>Znacznie wydłuża</b> czas potrzebny ocalałym na otwieranie skrzyń z zapasami.",
-        "name": "Pnącza sadzonki 43 ",
+        "name": "Pnącza sadzonki 43",
         "id": 1162,
         "index": "PLANT_43_VINES",
         "owner": "NEMESIS",

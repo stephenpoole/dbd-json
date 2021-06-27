@@ -54,7 +54,7 @@
         ]
     },
     {
-        "description": "당신이 내뿜는 공포는 초자연적일 정도로 먼 거리에서도 느껴진다. 공포 범위가 <span class=\"Highlight1\">{0}%</span> 증가한다. '기만' 항목의 블러드포인트를 <span class=\"Highlight2\">{1}%</span> 더 획득한다. ",
+        "description": "당신이 내뿜는 공포는 초자연적일 정도로 먼 거리에서도 느껴진다. 공포 범위가 <span class=\"Highlight1\">{0}%</span> 증가한다. '기만' 항목의 블러드포인트를 <span class=\"Highlight2\">{1}%</span> 더 획득한다.",
         "name": "비참함",
         "flavor": "\"그들이 너를 두려워함을 즐겨라.\"",
         "id": 3,
@@ -213,7 +213,7 @@
         "image": "iconPerks_sloppyButcher"
     },
     {
-        "description": "이 세계의 까마귀들은 살인마와 직접 소통할 수 있다. <span class=\"Highlight2\">{1}미터</span> 내에 존재하는 까마귀가 울음소리를 내며 날아오를 때, <span class=\"Highlight1\">{0}%</span>의 확률로 시각적 알림을 받을 수 있다.<br><i>어둠 속의 첩자</i>는 <span class=\"Highlight3\">{2}초</span>의 재사용 대기시간을 가진다. ",
+        "description": "이 세계의 까마귀들은 살인마와 직접 소통할 수 있다. <span class=\"Highlight2\">{1}미터</span> 내에 존재하는 까마귀가 울음소리를 내며 날아오를 때, <span class=\"Highlight1\">{0}%</span>의 확률로 시각적 알림을 받을 수 있다.<br><i>어둠 속의 첩자</i>는 <span class=\"Highlight3\">{2}초</span>의 재사용 대기시간을 가진다.",
         "name": "어둠 속의 첩자",
         "flavor": "\"어둠 속에서 그것들이 내는 울음소리 하나하나가 정신을 갉아먹는다.\"",
         "id": 9,
@@ -1150,7 +1150,7 @@
         ]
     },
     {
-        "description": "생존자가 당신으로부터 <span class=\"Highlight1\">{0}미터</span> 떨어진 갈고리에서 다른 생존자를 구출했을 때, <i>선택하라</i>가 발동되면, 구출된 생존자는 비명을 지르며 <span class=\"Highlight2\">{1}초</span>동안 <b><i>약점 노출</i></b> 상태이상에 걸리게 된다.<br><i>선택하라</i>는 <span class=\"Highlight3\">{2}초</span>의 재사용 대기 시간이 있다. ",
+        "description": "생존자가 당신으로부터 <span class=\"Highlight1\">{0}미터</span> 떨어진 갈고리에서 다른 생존자를 구출했을 때, <i>선택하라</i>가 발동되면, 구출된 생존자는 비명을 지르며 <span class=\"Highlight2\">{1}초</span>동안 <b><i>약점 노출</i></b> 상태이상에 걸리게 된다.<br><i>선택하라</i>는 <span class=\"Highlight3\">{2}초</span>의 재사용 대기 시간이 있다.",
         "name": "선택하라",
         "flavor": "\"어떤 도구가 목숨을 구할 수 있는지 알면 아마 놀랄 거야.\" -아만다 영",
         "id": 44,
@@ -1903,7 +1903,7 @@
         ]
     },
     {
-        "description": "어둠 속에서 서로의 삶이 얽혀진 사람들은 함께 고통받을 운명이다.<br><br>생존자가 살인마로부터 최소 <span class=\"Highlight1\">{0}미터</span> 떨어져 있는 또 다른 생존자의 건강 상태를 한 단계 회복시키면, 치료 행동을 하는 생존자가 비명을 지른다. 이 비명으로 인해 생존자들의 위치가 드러나게 되며, <i>죽음 결속</i>이 다음 <span class=\"Highlight2\">{1}초</span> 동안 활성화된다. 해당 효과가 활성화되는 동안 만약 생존자가 치료받은 생존자에게서 <span class=\"Highlight3\">{2}미터</span> 이상 떨어지면 <b>인지 불가능</b> 상태 효과로 고통을 받게 된다. ",
+        "description": "어둠 속에서 서로의 삶이 얽혀진 사람들은 함께 고통받을 운명이다.<br><br>생존자가 살인마로부터 최소 <span class=\"Highlight1\">{0}미터</span> 떨어져 있는 또 다른 생존자의 건강 상태를 한 단계 회복시키면, 치료 행동을 하는 생존자가 비명을 지른다. 이 비명으로 인해 생존자들의 위치가 드러나게 되며, <i>죽음 결속</i>이 다음 <span class=\"Highlight2\">{1}초</span> 동안 활성화된다. 해당 효과가 활성화되는 동안 만약 생존자가 치료받은 생존자에게서 <span class=\"Highlight3\">{2}미터</span> 이상 떨어지면 <b>인지 불가능</b> 상태 효과로 고통을 받게 된다.",
         "name": "죽음 결속",
         "id": 72,
         "index": "DEATHBOUND",

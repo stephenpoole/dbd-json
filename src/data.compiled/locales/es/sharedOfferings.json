@@ -46,7 +46,7 @@
     },
     {
         "description": "Invoca al Ente para crear una <b>luz de luna mucho más oscura</b>.",
-        "name": "Ramillete de luna nueva ",
+        "name": "Ramillete de luna nueva",
         "flavor": "\"Mejor vuélvete a dormir, no hay luna esta noche\".",
         "id": 6,
         "index": "NEW_MOON_BOUQUET",
@@ -361,7 +361,7 @@
     },
     {
         "description": "<b>Aumenta tremendamente</b> la probabilidad de que se te envíe al Laboratorio Nacional de Hawkins.",
-        "name": "Tarjeta de identificación del Laboratorio Nacional de Hawkins ",
+        "name": "Tarjeta de identificación del Laboratorio Nacional de Hawkins",
         "flavor": "\"Una tarjeta de identificación ensangrentada y húmeda con un número de serie\".",
         "id": 42,
         "index": "HAWKINS_NATIONAL_LABORATORY_ID",

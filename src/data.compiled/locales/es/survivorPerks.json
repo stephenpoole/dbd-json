@@ -1917,7 +1917,7 @@
     {
         "description": "Te has llevado unos buenos rasguños y moretones, pero la suerte siempre está de tu lado.<br><br><i>Golpe de suerte</i> se activa en cuanto te hieren. Mientras <i>Golpe de suerte</i> está activa, no dejas rastros de sangre ni marcas de arañazos durante <span class=\"Highlight1\">{0} segundos</span>.<br><br><i>Golpe de suerte</i> queda desactivada de forma permanente para el resto de la partida una vez transcurrido ese tiempo.<br>",
         "name": "Golpe de suerte",
-        "flavor": "\"Eso no basta para vencerme. Ni por asomo\". (Yui Kimura) ",
+        "flavor": "\"Eso no basta para vencerme. Ni por asomo\". (Yui Kimura)",
         "id": 171,
         "index": "LUCKY_BREAK",
         "rarity": [
@@ -1942,7 +1942,7 @@
     {
         "description": "Te defiendes usando cualquier cosa que tengas a mano para sacar ventaja.<br><br>Mantén pulsado el <i>botón de la habilidad activa</i> durante <span class=\"Highlight1\">{0} segundos</span> mientras estás junto a un palé derribado para volver a dejarlo en su posición original.<br><br><i>Cueste lo que cueste</i> tiene un tiempo de recarga de <span class=\"Highlight2\">{1} segundos</span>.<br>",
         "name": "Cueste lo que cueste",
-        "flavor": "\"Te golpearé con todas mis fuerzas, y luego volveré a hacerlo\". (Yui Kimura) ",
+        "flavor": "\"Te golpearé con todas mis fuerzas, y luego volveré a hacerlo\". (Yui Kimura)",
         "id": 172,
         "index": "ANY_MEANS_NECESSARY",
         "rarity": [
@@ -1970,7 +1970,7 @@
     {
         "description": "Cuando alguien tiene problemas, te vienes arriba y lo animas a superar cualquier obstáculo.<br><br>Cuando estás a menos de <span class=\"Highlight1\">{0} metros</span> de un superviviente con el que esté cargando el asesino, se te aplica afecta el efecto de estado <span class=\"Highlight2\">Celeridad</span>, que aumenta un <span class=\"Highlight3\">{1} %</span> tu velocidad de movimiento. El superviviente forcejea un <span class=\"Highlight4\">{2} %</span> más rápido.<br>",
         "name": "Fuga",
-        "flavor": "\"Venga, vamos a salir de esta\". (Yui Kimura) ",
+        "flavor": "\"Venga, vamos a salir de esta\". (Yui Kimura)",
         "id": 173,
         "index": "BREAKOUT",
         "rarity": [
@@ -2129,7 +2129,7 @@
     },
     {
         "description": "Te has acostumbrado a que te persigan las fuerzas malignas y has empezado a usarlo a tu favor.<br><br><i>Supresión de alianza</i> se activa tras reparar generadores durante un total de <span class=\"Highlight1\">{0} segundos.</span><br><br>Al reparar un generador mientras la habilidad está activa, pulsa el <i>botón de la habilidad activa</i> para invocar al Ente y bloquear el generador durante <span class=\"Highlight2\">{1} segundos.</span> La habilidad se desactiva.<br><br>Los generadores afectados brillarán con un aura blanca que se mostrará a todos los supervivientes.",
-        "name": "Supresión de alianza ",
+        "name": "Supresión de alianza",
         "id": 179,
         "index": "REPRESSED_ALLIANCE",
         "rarity": [

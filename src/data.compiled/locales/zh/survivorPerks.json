@@ -2129,7 +2129,7 @@
     },
     {
         "description": "你已经习惯了被恶意力量追捕，并且开始将其转为自己的优势。<br><br><i>压抑同盟</i>在修理发电机总计超过<span class=\"Highlight1\">{0}秒</span>后就会激活。<br><br>在技能激活期间修理发电机时，按下<i>主动能力键</i>即可召唤恶灵，屏蔽发电机<span class=\"Highlight2\">{1}秒</span>。此技能随即失效。<br><br>受影响的发电机将对所有逃生者显示白色气场。",
-        "name": "压抑同盟 ",
+        "name": "压抑同盟",
         "id": 179,
         "index": "REPRESSED_ALLIANCE",
         "rarity": [

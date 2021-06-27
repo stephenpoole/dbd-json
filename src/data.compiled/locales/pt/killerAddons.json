@@ -1978,7 +1978,7 @@
         "image": "iconAddon_robinFeather"
     },
     {
-        "description": "Parte do traje-padrão do Palhaço. Os dedos cortados proporcionam manipulações habilidosas.\n<li>Muda a trajetória da garrafa arremessada.</li>\n",
+        "description": "Parte do traje-padrão do Palhaço. Os dedos cortados proporcionam manipulações habilidosas.\n<li>Muda a trajetória da garrafa arremessada.</li>",
         "name": "Luvas de Desfile sem Dedos",
         "id": 552,
         "index": "FINGERLESS_PARADE_GLOVES",
@@ -2755,7 +2755,7 @@
     },
     {
         "description": "Tiras de tecido preto que mantêm tudo no lugar durante sua abordagem.<br><li><b>Aumenta ligeiramente</b> a velocidade de movimento enquanto agachado.</li>",
-        "name": "Tiras Afiveláveis ",
+        "name": "Tiras Afiveláveis",
         "id": 758,
         "index": "CINCH_STRAPS",
         "owner": "GHOST",
@@ -3063,7 +3063,7 @@
     {
         "description": "Se a corda fosse mais forte, provavelmente teria segurado Kazan. Mas ele escapou e massacrou seus captores.<li><b>Aumenta ligeiramente</b> a distância de detecção das auras das Esferas de Sangue.</li>",
         "name": "Corda Apodrecida",
-        "flavor": "\"Embora a Morte seja focada, ela também pisca.\" — A Doutrina de Renjiro 14:5 ",
+        "flavor": "\"Embora a Morte seja focada, ela também pisca.\" — A Doutrina de Renjiro 14:5",
         "id": 851,
         "index": "ROTTING_ROPE",
         "owner": "ONI",
@@ -3239,7 +3239,7 @@
     },
     {
         "description": "Um pano de juta encardido. Um pouco de cuspe e uma esfregada do cotovelo bastavam para limpar o Arbalete no calor de um tiroteio.<li><b>Diminui ligeiramente</b> o tempo de recarga do Arbalete após errar um tiro.</li>",
-        "name": "Trapo de Polimento com Cuspe ",
+        "name": "Trapo de Polimento com Cuspe",
         "id": 900,
         "index": "SPIT_POLISH_RAG",
         "owner": "DEATHSLINGER",
@@ -3248,7 +3248,7 @@
     },
     {
         "description": "Uma tintura de óleos e extratos comprada de um caixeiro-viajante. Dizem que cura qualquer enfermidade.<li><b>Aumenta ligeiramente</b> a velocidade da carretilha do Arbalete.</li>",
-        "name": "Óleo de Cobra ",
+        "name": "Óleo de Cobra",
         "id": 901,
         "index": "SNAKE_OIL",
         "owner": "DEATHSLINGER",
@@ -3266,7 +3266,7 @@
     },
     {
         "description": "Um antigo cinturão de munição, personalizado para o arsenal especial de Caleb. Ainda sujo com a terra vermelha do deserto do Território do Arizona.<li><b>Aumenta ligeiramente</b> a velocidade de recarga do Arbalete.</li>",
-        "name": "Cinturão de Munição Modificado ",
+        "name": "Cinturão de Munição Modificado",
         "id": 903,
         "index": "MODIFIED_AMMO_BELT",
         "owner": "DEATHSLINGER",
@@ -3275,7 +3275,7 @@
     },
     {
         "description": "Um prego de trilho ferroviário que Caleb amarrou à ponta do Arbalete num momento de curiosidade mórbida. A ponta cega impede que ele perfure facilmente o alvo.<li>Acertar um Sobrevivente atravessado com o Arbalete inflige o efeito do estado <b>Dilacerado</b>.</li>",
-        "name": "Prego Enferrujado ",
+        "name": "Prego Enferrujado",
         "id": 904,
         "index": "RUSTED_SPIKE",
         "owner": "DEATHSLINGER",
@@ -3293,7 +3293,7 @@
     },
     {
         "description": "Um distintivo prateado tirado do cadáver de um agente da lei que interferiu com as recompensas da Gangue de Hellshire no Território do Arizona.<li><b>Diminui ligeiramente</b> o raio de terror ao mirar com o Arbalete.</li><li><b>Diminui ligeiramente</b> a velocidade de movimento ao mirar com o Arbalete.</li><span class=\"FlavorText\">\"Pode começar a rezar. Você vai estar com o pescoço na corda lá pelo meio-dia.\" — Caleb Quinn</span>",
-        "name": "Distintivo do Xerife ",
+        "name": "Distintivo do Xerife",
         "id": 906,
         "index": "MARSHALS_BADGE",
         "owner": "DEATHSLINGER",
@@ -3302,7 +3302,7 @@
     },
     {
         "description": "A bala que atravessou a mandíbula de Caleb em uma troca de tiros violenta. Desperta um desejo ardente de vingança.<li><b>Aumenta ligeiramente</b> a velocidade de movimento ao mirar com o Arbalete.</li><span class=\"FlavorText\">\"Você entregou a alma pro diabo assim que vacilou comigo.\" — Caleb Quinn</span>",
-        "name": "Esmaga-Queixo ",
+        "name": "Esmaga-Queixo",
         "id": 907,
         "index": "JAW_SMASHER",
         "owner": "DEATHSLINGER",
@@ -3320,7 +3320,7 @@
     },
     {
         "description": "O tilintar enfadonho das chaves evoca uma memória furiosa em Caleb.<li><b>Aumenta moderadamente</b> a velocidade de recarga do Arbalete.</li>",
-        "name": "Chaves do Carcereiro ",
+        "name": "Chaves do Carcereiro",
         "id": 909,
         "index": "WARDENS_KEYS",
         "owner": "DEATHSLINGER",
@@ -3329,7 +3329,7 @@
     },
     {
         "description": "Os restos amarelados de um cartaz de \"Procura-se\" de Mason Kelly. Ajudava Caleb a se concentrar na caçada.<li><b>Aumenta moderadamente</b> a velocidade de movimento ao mirar com o Arbalete.</li><span class=\"FlavorText\">\"Você vai ver só, eu juro pela minha falecida mãe.\" — Caleb Quinn</span>",
-        "name": "Cartaz de Procura-se ",
+        "name": "Cartaz de Procura-se",
         "id": 910,
         "index": "WANTED_POSTER",
         "owner": "DEATHSLINGER",
@@ -3338,7 +3338,7 @@
     },
     {
         "description": "Uma lata contendo um pouco de óleo para lubrificar maquinário. Modelos anteriores do Arbalete costumavam emperrar com facilidade, exigindo o uso constante de óleo.<li><b>Diminui moderadamente</b> o tempo de recarga do Arbalete após errar um tiro.</li>",
-        "name": "Lata de Óleo ",
+        "name": "Lata de Óleo",
         "id": 911,
         "index": "TIN_OIL_CAN",
         "owner": "DEATHSLINGER",
@@ -3347,7 +3347,7 @@
     },
     {
         "description": "Irritado com um foragido que já havia escapado duas vezes, Caleb improvisou uma lança retorcendo galhos com espinhos e disparou.<li>Os Sobreviventes que conseguirem se soltar do Arbalete sofrerão o efeito do estado <b>Dilacerado</b>.</li>",
-        "name": "Galhos de Espinheira-da-Virgínia ",
+        "name": "Galhos de Espinheira-da-Virgínia",
         "id": 912,
         "index": "HONEY_LOCUST_THORNS",
         "owner": "DEATHSLINGER",
@@ -3419,7 +3419,7 @@
     },
     {
         "description": "Encontrado em uma geladeira, cinzelado com um rosto inchado e repulsivo.<li><b>Aumenta ligeiramente</b> a duração dos rastros dos <b>Ritos de Julgamento</b> no cenário.</li>",
-        "name": "Anel de Chumbo ",
+        "name": "Anel de Chumbo",
         "id": 950,
         "index": "LEAD_RING",
         "owner": "EXECUTIONER",
@@ -3428,7 +3428,7 @@
     },
     {
         "description": "Borboleta encontrada numa cama no Edifício Wood Side. Ela é frágil, quase se desfaz ao toque.<li><b>Aumenta ligeiramente</b> a velocidade de recarga dos <b>Ritos de Julgamento</b>.</li>",
-        "name": "Borboleta Morta ",
+        "name": "Borboleta Morta",
         "id": 951,
         "index": "DEAD_BUTTERFLY",
         "owner": "EXECUTIONER",
@@ -3437,7 +3437,7 @@
     },
     {
         "description": "Encontrado no porão do Hospital Brookhaven. Adornado com a imagem de uma aranha.<li><b>Aumenta ligeiramente</b> o tempo total de uso dos <b>Ritos de Julgamento</b>.</li>",
-        "name": "Anel de Cobre ",
+        "name": "Anel de Cobre",
         "flavor": "\"Eu fiquei trancado no porão do porão. Era tão escuro e apertado... fiquei com muito medo. Deixei cair o meu precioso anel. Mas nunca, nunca mesmo, vou voltar pra lá.\"",
         "id": 952,
         "index": "COPPER_RING",
@@ -3447,7 +3447,7 @@
     },
     {
         "description": "Tira de nylon usada para amarrar uma vítima a uma armação de metal. A cor dificulta ver que está encharcada de sangue.<li><b>Aumenta ligeiramente</b> o alcance da <b>Punição dos Condenados</b>.</li>",
-        "name": "Tira Preta ",
+        "name": "Tira Preta",
         "id": 953,
         "index": "BLACK_STRAP",
         "owner": "EXECUTIONER",
@@ -3456,7 +3456,7 @@
     },
     {
         "description": "Boneca de cera esculpida por um prisioneiro prestes a encarar a sentença.<li><b>Aumenta moderadamente</b> o alcance da <b>Punição dos Condenados</b>.</li>",
-        "name": "Boneca de Cera ",
+        "name": "Boneca de Cera",
         "id": 954,
         "index": "WAX_DOLL",
         "owner": "EXECUTIONER",
@@ -3465,7 +3465,7 @@
     },
     {
         "description": "A ponta afiada e enferrujada de uma lança. Tem restos do sangue da última vítima.<li><b>Aumenta moderadamente</b> a duração total dos <b>Ritos de Julgamento</b>.</li>",
-        "name": "Cabeça de Lança ",
+        "name": "Cabeça de Lança",
         "id": 955,
         "index": "SPEARHEAD",
         "owner": "EXECUTIONER",
@@ -3474,7 +3474,7 @@
     },
     {
         "description": "Tira de tecido cor-de-rosa com estampa de onça. Não tem como saber para que servia.<li><b>Aumenta ligeiramente</b> a duração do <i>Instinto Assassino</i> quando ativado pelos <b>Ritos de Julgamento</b>.</li>",
-        "name": "Tecido de Onça  ",
+        "name": "Tecido de Onça",
         "flavor": "\"Quem eu sou não importa. Eu estou aqui por você, James.\" – Maria",
         "id": 956,
         "index": "LEOPARD_PRINT_FABRIC",
@@ -3484,7 +3484,7 @@
     },
     {
         "description": "Fita de vídeo retratando um casal de amantes de férias em Silent Hill. Apesar do valor sentimental, foi deixada no Hotel Lakeview.<li><b>Aumenta moderadamente</b> a velocidade de recarga dos <b>Ritos de Julgamento</b>.</li>",
-        "name": "Fita Esquecida ",
+        "name": "Fita Esquecida",
         "id": 957,
         "index": "FORGOTTEN_VIDEOTAPE",
         "owner": "EXECUTIONER",
@@ -3493,7 +3493,7 @@
     },
     {
         "description": "Caixa de música com uma boneca da Cinderela. Encontrada dentro de uma maleta repleta de adesivos atestando sua passagem por várias cidades.<li><b>Aumenta moderadamente</b> a duração dos rastros dos <b>Ritos de Julgamento</b> no cenário.</li>",
-        "name": "Caixa de Música da Cinderela ",
+        "name": "Caixa de Música da Cinderela",
         "id": 958,
         "index": "CINDERELLA_MUSIC_BOX",
         "owner": "EXECUTIONER",
@@ -3502,7 +3502,7 @@
     },
     {
         "description": "Fotografia retratando duas figuras encapuzadas de vermelho. Intitulada \"Banquete Branco e Carmesim para os Deuses\".<li><b>Aumenta consideravelmente</b> a velocidade de recarga dos <b>Ritos de Julgamento</b>.</li>",
-        "name": "Fotografia da Seita de Valtiel ",
+        "name": "Fotografia da Seita de Valtiel",
         "id": 959,
         "index": "VALTIEL_SECT_PHOTOGRAPH",
         "owner": "EXECUTIONER",
@@ -3511,7 +3511,7 @@
     },
     {
         "description": "Chapa de metal com gravação de desenhos astecas.<li><b>Aumenta consideravelmente</b> a duração total dos <b>Ritos de Julgamento</b>.</li>",
-        "name": "Chapa do Opressor ",
+        "name": "Chapa do Opressor",
         "id": 960,
         "index": "TABLET_OF_THE_OPPRESSOR",
         "owner": "EXECUTIONER",
@@ -3520,7 +3520,7 @@
     },
     {
         "description": "Retrato de uma figura imponente com uma pirâmide de aço na cabeça. No fundo, vítimas enjauladas.<li><b>Aumenta moderadamente</b> a duração do <i>Instinto Assassino</i> quando ativado pelos <b>Ritos de Julgamento</b>.</li>",
-        "name": "Dia de Neblina, Restos de Julgamento ",
+        "name": "Dia de Neblina, Restos de Julgamento",
         "flavor": "\"É ele...\"",
         "id": 961,
         "index": "MISTY_DAY_REMAINS_OF_JUDGMENT",
@@ -3530,7 +3530,7 @@
     },
     {
         "description": "O pé de um manequim, liso e cinza, arrancado brutalmente da perna.<li><b>Aumenta consideravelmente</b> a duração dos rastros dos <b>Ritos de Julgamento</b> no cenário.</li>",
-        "name": "Pé de Manequim ",
+        "name": "Pé de Manequim",
         "id": 962,
         "index": "MANNEQUIN_FOOT",
         "owner": "EXECUTIONER",
@@ -3539,7 +3539,7 @@
     },
     {
         "description": "Diagrama do Hotel Lakeview. Chamas pretas cobrem este local repleto de culpa.<li><b>Aumenta consideravelmente</b> a distância da Punição dos Condenados.</li>",
-        "name": "Pintura do Homem em Chamas ",
+        "name": "Pintura do Homem em Chamas",
         "id": 963,
         "index": "BURNING_MAN_PAINTING",
         "owner": "EXECUTIONER",
@@ -3548,7 +3548,7 @@
     },
     {
         "description": "Ovo fresco de coloração bem vermelha. Tem o tamanho de um ovo de codorna.<li><b>Aumenta consideravelmente</b> a duração do <i>Instinto Assassino</i> quando ativado pelos <b>Ritos de Julgamento</b>.</li>",
-        "name": "Ovo Escarlate ",
+        "name": "Ovo Escarlate",
         "flavor": "\"Eu nunca fiquei tão assustada na vida! Você não dá a mínima pra mim... né?\" — Maria",
         "id": 964,
         "index": "SCARLET_EGG",
@@ -3558,7 +3558,7 @@
     },
     {
         "description": "Ovo velho de coloração laranja avermelhada. Tem o tamanho de um ovo de codorna.<li>Sobreviventes afligidos pelos <b>Ritos de Julgamento</b> sofrem o efeito do estado <b>Cegueira</b> por <b>60 s</b>.</li>",
-        "name": "Ovo Cor de Ferrugem ",
+        "name": "Ovo Cor de Ferrugem",
         "flavor": "\"James... Eu fui feliz com você.\" — Mary",
         "id": 965,
         "index": "RUST_COLORED_EGG",
@@ -3568,7 +3568,7 @@
     },
     {
         "description": "Livro que conta a história e as lendas de Silent Hill e arredores.<li>Sobreviventes afligidos pelos <b>Ritos de Julgamento</b> sofrem o efeito do estado <b>Alheio</b> por <b>15 s</b>.</li><span class=\"FlavorText\">\"Chamavam isso aqui de 'Lugar dos Espíritos Silenciosos'.\"</span>",
-        "name": "Livro das Memórias Perdidas ",
+        "name": "Livro das Memórias Perdidas",
         "id": 966,
         "index": "LOST_MEMORIES_BOOK",
         "owner": "EXECUTIONER",
@@ -3577,7 +3577,7 @@
     },
     {
         "description": "Livro a respeito de um deus muito antigo. De um autor desconhecido.<li>Sobreviventes feridos afligidos por <i>Tormento</i> sofrem do efeito do estado <b>Hemorragia</b>.</li>",
-        "name": "Livro Cerimonial Carmesim ",
+        "name": "Livro Cerimonial Carmesim",
         "flavor": "\"Fale. Eu sou o Carmesim. As mentiras e a névoa não são eles, e sim eu.\"",
         "id": 967,
         "index": "CRIMSON_CEREMONY_COOK",
@@ -3587,7 +3587,7 @@
     },
     {
         "description": "Cálice de aparência antiga, esculpido de pura obsidiana.<li><b>O Carrasco</b> ganha o efeito do estado <b>Indetectável</b> ao ficar sobre um rastro dos <b>Ritos de Julgamento</b>.</li>",
-        "name": "Cálice de Obsidiana ",
+        "name": "Cálice de Obsidiana",
         "flavor": "\"Desculpe por te acordar. Mas eu não tenho como prosseguir sem você.\" — James Sunderland",
         "id": 968,
         "index": "OBSIDIAN_GOBLET",
@@ -3597,7 +3597,7 @@
     },
     {
         "description": "Talismã com a gravação de um desenho peculiar. A influência da Entidade parece tê-lo alterado.<li>Ao mandar um Sobrevivente para uma <b>Jaula de Expiação</b>, as auras de todos os Sobreviventes afligidos por <i>Tormento</i> aparecem por <b>6 s</b>.</li>",
-        "name": "Selo Iridescente de Metatron ",
+        "name": "Selo Iridescente de Metatron",
         "flavor": "\"Este quadrado mágico, repleto de propriedades protetoras e neutralizadoras, se chama 'Brasão de Virun VII' ou 'Selo de Metatron'.\"",
         "id": 969,
         "index": "IRIDESCENT_SEAL_OF_METATRON",
@@ -3607,7 +3607,7 @@
     },
     {
         "description": "Um comprimido sem qualquer eficácia... ou será que tem?<br><br><li><b>Diminui moderadamente</b> a velocidade de movimento enquanto estiver Arremetendo.</li><li>Ganha <b>100%</b> de bônus de Pontos de Sangue em pontuações de Arremetida.</li>",
-        "name": "Comprimido de Placebo ",
+        "name": "Comprimido de Placebo",
         "id": 1000,
         "index": "PLACEBO_TABLET",
         "owner": "BLIGHT",
@@ -3615,8 +3615,8 @@
         "image": "iconAddon_placeboTablet"
     },
     {
-        "description": "Uma planta venenosa que despertou o interesse de Talbot em química. Reativa memórias profundamente enterradas.<br><br><li><b>Aumenta ligeiramente</b> a velocidade de recuperação após uma Arremetida.</li> ",
-        "name": "Dedaleira ",
+        "description": "Uma planta venenosa que despertou o interesse de Talbot em química. Reativa memórias profundamente enterradas.<br><br><li><b>Aumenta ligeiramente</b> a velocidade de recuperação após uma Arremetida.</li>",
+        "name": "Dedaleira",
         "id": 1001,
         "index": "FOXGLOVE",
         "owner": "BLIGHT",
@@ -3625,7 +3625,7 @@
     },
     {
         "description": "Essa amostra inicial não alcançou os resultados desejados, mas demonstrou efeitos surpreendentes mesmo assim.<br><br><li>Automaticamente encontra o Sobrevivente que estiver mais próximo em um raio de <b>16 m</b> após uma Pancada.</li>",
-        "name": "Composto Sete ",
+        "name": "Composto Sete",
         "id": 1002,
         "index": "COMPOUND_SEVEN",
         "owner": "BLIGHT",
@@ -3642,8 +3642,8 @@
         "image": "iconAddon_chippedMonocle"
     },
     {
-        "description": "Os restos das anotações de Talbot. Ainda contêm informações valiosas.<br><br><li><b>Diminui</b>a quantidade de fichas de Arremetida disponíveis em <b>1.</b></li><li><b>Aumenta moderadamente</b> a taxa de regeração de fichas.</li> ",
-        "name": "Notas Rasgadas ",
+        "description": "Os restos das anotações de Talbot. Ainda contêm informações valiosas.<br><br><li><b>Diminui</b>a quantidade de fichas de Arremetida disponíveis em <b>1.</b></li><li><b>Aumenta moderadamente</b> a taxa de regeração de fichas.</li>",
+        "name": "Notas Rasgadas",
         "id": 1004,
         "index": "SHREDDED_NOTES",
         "owner": "BLIGHT",
@@ -3652,7 +3652,7 @@
     },
     {
         "description": "Pétalas de pústula secas moídas em um fino pó.<br><br><li><b>Aumenta moderadamente</b> a duração da Pancada.</li>",
-        "name": "Pó de Pústula ",
+        "name": "Pó de Pústula",
         "id": 1005,
         "index": "PUSTULA_DUST",
         "owner": "BLIGHT",
@@ -3669,7 +3669,7 @@
         "image": "iconAddon_plagueBile"
     },
     {
-        "description": "Um espinho considerável removido de um cancro visceral. Segrega uma leve toxina.<br><br><li><b>Aumenta moderadamente</b> a velocidade de recuperação após uma Arremetida.</li> ",
+        "description": "Um espinho considerável removido de um cancro visceral. Segrega uma leve toxina.<br><br><li><b>Aumenta moderadamente</b> a velocidade de recuperação após uma Arremetida.</li>",
         "name": "Espinho de Cancro",
         "id": 1007,
         "index": "CANKER_THORN",
@@ -3679,7 +3679,7 @@
     },
     {
         "description": "Um rato que voltou à vida brevemente após receber uma injeção do soro, ficando agressivo e descontrolado.<br><br><li><b>Aumenta moderadamente</b> a velocidade de recuperação da Arremetida para cada Arremetida consecutiva.</li>",
-        "name": "Rato Podre ",
+        "name": "Rato Podre",
         "id": 1008,
         "index": "BLIGHTED_RAT",
         "owner": "BLIGHT",
@@ -3688,7 +3688,7 @@
     },
     {
         "description": "Sal marinho comum que passou pelo mundo espiritual, alterando suas propriedades no processo.<br><br><li><b>Aumenta moderadamente</b> a taxa de giro durante a Arremetida.</li>",
-        "name": "Sais do Umbral ",
+        "name": "Sais do Umbral",
         "id": 1009,
         "index": "UMBRA_SALTS",
         "owner": "BLIGHT",
@@ -3697,7 +3697,7 @@
     },
     {
         "description": "Uma mistura feita com rosas secas do raríssimo Buquê da Lua Nova.<br><br><li><b>Aumenta consideravelmente</b> a duração da Pancada.</li>",
-        "name": "Tônico de Rosa ",
+        "name": "Tônico de Rosa",
         "id": 1010,
         "index": "ROSE_TONIC",
         "owner": "BLIGHT",
@@ -3706,7 +3706,7 @@
     },
     {
         "description": "Um soro fatal para seres humanos. Evoca qualidades benéficas naqueles que são... algo mais.<br><br><li>Ao iniciar uma pancada, revela a aura de Sobreviventes a até <b>8 m</b> do local da colisão por <b>3 s</b>.</li>",
-        "name": "Composto Vinte e Um ",
+        "name": "Composto Vinte e Um",
         "id": 1011,
         "index": "COMPOUND_TWENTY_ONE",
         "owner": "BLIGHT",
@@ -3714,8 +3714,8 @@
         "image": "iconAddon_compoundTwentyOne"
     },
     {
-        "description": "Um corvo morto que sofreu mutações grotescas devido ao soro do Flagelo.<br><br><li><b>Aumenta consideravelmente</b> a velocidade de recuperação da Arremetida para cada Arremetida consecutiva.</li> ",
-        "name": "Corvo Podre ",
+        "description": "Um corvo morto que sofreu mutações grotescas devido ao soro do Flagelo.<br><br><li><b>Aumenta consideravelmente</b> a velocidade de recuperação da Arremetida para cada Arremetida consecutiva.</li>",
+        "name": "Corvo Podre",
         "id": 1012,
         "index": "BLIGHTED_CROW",
         "owner": "BLIGHT",
@@ -3724,7 +3724,7 @@
     },
     {
         "description": "Um hormônio removido da glândula adrenal de uma cobaia relutante. Oferece um pico de energia, mas deixa o usuário fatigado.<br><br><li><b>Reduz incrivelvelmente</b> a taxa de giro enquanto estiver Arrementendo.</li><li><b>Aumenta incrivelmente</b> a taxa de regeneração de fichas.</li><li><b>Aumenta</b> a quantidade de fichas de Arremetida disponíveis em <b>2.</b></li><li><b>Aumenta consideravelmente</b>o ângulo máximo de visão enquanto estiver Arrementendo</li><br>",
-        "name": "Frasco de Adrenalina ",
+        "name": "Frasco de Adrenalina",
         "flavor": "\"Por favor, não faça isso...\"",
         "id": 1013,
         "index": "ADRENALINE_VIAL",
@@ -3734,7 +3734,7 @@
     },
     {
         "description": "O diário de um homem que alegava ter retornado do Vácuo. Suas observações têm aplicação prática.<br><br><li>Durante uma Arremetida, obtém o efeito do estado <b>Indetectável</b>.</li><br>",
-        "name": "Diário de Vigo ",
+        "name": "Diário de Vigo",
         "flavor": "\"Em um deserto de sonhos esquecidos e rotina infindável, o homem com uma saída é Deus.\" — Talbot Grimes",
         "id": 1014,
         "index": "VIGOS_JOURNAL",
@@ -3744,7 +3744,7 @@
     },
     {
         "description": "Talbot usou essa pedra para gravar o que acreditava ser sua pesquisa nas paredes do antro de ópio.<br><br><li>Golpeie um Sobrevivente com uma Arremetida Letal e a Entidade bloqueará barricadas em um raio de <b>12 m</b> da sua localização por <b>6 s</b>.</li><br>",
-        "name": "Pedra de Invocação ",
+        "name": "Pedra de Invocação",
         "flavor": "\"A morte é apenas o começo.\"",
         "id": 1015,
         "index": "SUMMONING_STONE",
@@ -3754,7 +3754,7 @@
     },
     {
         "description": "Produto químico espremido da glândula pineal de um Sobrevivente recém-falecido.<br><br><li>Durante uma Disparada, no momento em que você entra em um raio de alcance de <b>16 m</b> de um Sobrevivente que esteja reparando ou curando, aciona um Teste de Perícia <b>incrivelmente</b> difícil para o Sobrevivente. Aciona apenas uma vez por Sobrevivente a cada Disparada; não aciona nas Disparadas iniciadas a até <b>16 m</b> do Sobrevivente.</li><br>",
-        "name": "Produto Químico da Alma ",
+        "name": "Produto Químico da Alma",
         "flavor": "\"[...] Suspeita-se que provoque alterações atípicas na atividade rítmica neural.\" — Texto didático misterioso e sem título",
         "id": 1016,
         "index": "SOUL_CHEMICAL",
@@ -3764,7 +3764,7 @@
     },
     {
         "description": "Anel dado aos químicos formados pela London School of Medicine. É um lembrete de sua ambição irrefreada.<br><br><li>Acertar um Sobrevivente com uma Arremetida Letal recarrega instantaneamente todas as fichas de Arremetida.</li><br>",
-        "name": "Anel do Alquimista ",
+        "name": "Anel do Alquimista",
         "flavor": "\"O aluno foi acusado de roubar túmulos com a intenção de realizar testes científicos não autorizados.\" — Repreensão de Talbot Grimes, 1838",
         "id": 1017,
         "index": "ALCHEMISTS_RING",
@@ -3784,7 +3784,7 @@
     },
     {
         "description": "A penúltima tentativa de Talbot de desenvolver um soro. Embora não tenha facilitado sua fuga, resultou em poderosos efeitos colaterais.<br><br><li>Qualquer Sobrevivente em um raio de <b>16 m</b> de uma Pancada sofrerá o efeito do status <b>Lentidão</b> por <b>3 s</b>.</li><li>Dar uma Pancada em barricadas ou objetos quebráveis irá destruí-los e atordoar o Flagelo por <b>1.5 s.</b></li><br>",
-        "name": "Composto Trinta e Três ",
+        "name": "Composto Trinta e Três",
         "flavor": "\"O tempo é curto. Que este seja o certo...\" — Talbot Grimes",
         "id": 1019,
         "index": "COMPOUND_THIRTY_THREE",
@@ -3874,7 +3874,7 @@
         "image": "iconAddon_babyTeeth"
     },
     {
-        "description": "Chocalho de confecção tosca, pelo qual Victor vivia chorando, até que sua mãe o roubou para lhe dar. É pesado demais para deixar com uma criança.<br><br><li>Sobreviventes que removerem Victor sofrerão do efeito do estado <b>Quebrado</b> por <b>20 s.</b></li> ",
+        "description": "Chocalho de confecção tosca, pelo qual Victor vivia chorando, até que sua mãe o roubou para lhe dar. É pesado demais para deixar com uma criança.<br><br><li>Sobreviventes que removerem Victor sofrerão do efeito do estado <b>Quebrado</b> por <b>20 s.</b></li>",
         "name": "Chocalho Pesado",
         "id": 1059,
         "index": "WEIGHTY_RATTLE",
@@ -4258,7 +4258,7 @@
         "image": "iconAddon_tyrantGore"
     },
     {
-        "description": "Amostra do Vírus T, desenvolvido pela Umbrella Corporation. Causa mutações extremas e danos cerebrais nos infectados.<li><b>Aumenta consideravelmente</b> a Taxa de Mutação ao destruir zumbis com o Golpe do Tentáculo. ",
+        "description": "Amostra do Vírus T, desenvolvido pela Umbrella Corporation. Causa mutações extremas e danos cerebrais nos infectados.<li><b>Aumenta consideravelmente</b> a Taxa de Mutação ao destruir zumbis com o Golpe do Tentáculo.",
         "name": "Amostra de Vírus T",
         "id": 1160,
         "index": "T_VIRUS_SAMPLE",
@@ -4277,7 +4277,7 @@
     },
     {
         "description": "Restos emaranhados de uma planta infectada pelo Vírus T que matou um dos pesquisadores envolvidos no seu desenvolvimento.<li><b>Aumenta consideravelmente</b> o tempo que leva para os Sobreviventes abrirem Caixas de Suprimentos.",
-        "name": "Vinhas da Planta 43 ",
+        "name": "Vinhas da Planta 43",
         "id": 1162,
         "index": "PLANT_43_VINES",
         "owner": "NEMESIS",

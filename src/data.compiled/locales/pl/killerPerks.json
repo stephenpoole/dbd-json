@@ -214,7 +214,7 @@
         "image": "iconPerks_sloppyButcher"
     },
     {
-        "description": "Zamieszkujące ten świat kruki potrafią się z tobą bezpośrednio komunikować. Istnieje <span class=\"Highlight1\">{0}%</span> szans na to, że otrzymasz wskazówkę wizualną, kiedy kruki w promieniu <span class=\"Highlight2\">{1} m</span> od ciebie wzbiją się w powietrze.<br><i>Szpiedzy z Cienia</i> odnawiają się przez <span class=\"Highlight3\">{2} s</span>. ",
+        "description": "Zamieszkujące ten świat kruki potrafią się z tobą bezpośrednio komunikować. Istnieje <span class=\"Highlight1\">{0}%</span> szans na to, że otrzymasz wskazówkę wizualną, kiedy kruki w promieniu <span class=\"Highlight2\">{1} m</span> od ciebie wzbiją się w powietrze.<br><i>Szpiedzy z Cienia</i> odnawiają się przez <span class=\"Highlight3\">{2} s</span>.",
         "name": "Szpiedzy z Cienia",
         "flavor": "„Dręczą nas w cieniu, naznaczając nasze umysły z każdym krzykiem”.",
         "id": 9,
@@ -1151,7 +1151,7 @@
         ]
     },
     {
-        "description": "Kiedy ocalały ratuje sojusznika z haka w odległości co najmniej <span class=\"Highlight1\">{0} m</span> od ciebie, <i>Dokonaj wyboru</i> zmusza ratującego do krzyku i nakłada na niego efekt <b><i>Narażenia</i></b>. Efekt trwa przez <span class=\"Highlight2\">{1} s</span>.<br><i>Dokonaj wyboru</i> odnawia się przez <span class=\"Highlight3\">{2} s</span>. ",
+        "description": "Kiedy ocalały ratuje sojusznika z haka w odległości co najmniej <span class=\"Highlight1\">{0} m</span> od ciebie, <i>Dokonaj wyboru</i> zmusza ratującego do krzyku i nakłada na niego efekt <b><i>Narażenia</i></b>. Efekt trwa przez <span class=\"Highlight2\">{1} s</span>.<br><i>Dokonaj wyboru</i> odnawia się przez <span class=\"Highlight3\">{2} s</span>.",
         "name": "Dokonaj Wyboru",
         "flavor": "„Zdziwiłbyś się, jakie narzędzia mogą uratować życie”. – Amanda Young",
         "id": 44,
@@ -1904,7 +1904,7 @@
         ]
     },
     {
-        "description": "Przeznaczeniem osób, których życia są splecione w ciemności, jest wspólne cierpienie.<br><br>Ocalały leczący jeden stan zdrowia innego ocalałego w odległości co najmniej <span class=\"Highlight1\">{0} m</span> od zabójcy krzyknie i ujawni swoją lokalizację, a także aktywuje efekt <i>Skazany na śmierć</i> na <span class=\"Highlight2\">{1} s.</span> W tym czasie ocalały otrzyma też efekt <b>Nieświadomy</b>, jeśli znajdzie się dalej niż <span class=\"Highlight3\">{2} m</span> od leczonego ocalałego. ",
+        "description": "Przeznaczeniem osób, których życia są splecione w ciemności, jest wspólne cierpienie.<br><br>Ocalały leczący jeden stan zdrowia innego ocalałego w odległości co najmniej <span class=\"Highlight1\">{0} m</span> od zabójcy krzyknie i ujawni swoją lokalizację, a także aktywuje efekt <i>Skazany na śmierć</i> na <span class=\"Highlight2\">{1} s.</span> W tym czasie ocalały otrzyma też efekt <b>Nieświadomy</b>, jeśli znajdzie się dalej niż <span class=\"Highlight3\">{2} m</span> od leczonego ocalałego.",
         "name": "Skazany na śmierć",
         "id": 72,
         "index": "DEATHBOUND",
