@@ -60,7 +60,7 @@ export class Helpers {
     }
 
     static isNotLocaleId(done, value) {
-        const passed = !(typeof value === "string" && value.length === 32);
+        const passed = !(typeof value === "string" && value.length === 32 && !value.includes(" "));
         this.resolve(done, passed);
         return passed;
     }
