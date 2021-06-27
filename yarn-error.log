@@ -2,7 +2,7 @@ Arguments:
   C:\Program Files (x86)\nodejs\node.exe C:\Users\stephen\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js publish
 
 PATH: 
-  C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Python39\Scripts\;C:\Python39\;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\ProgramData\chocolatey\bin;C:\Program Files\Memurai\;C:\Program Files (x86)\nodejs\;C:\Program Files\Go\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\dotnet\;C:\Users\stephen\AppData\Local\Microsoft\WindowsApps;C:\Users\stephen\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\stephen\AppData\Local\GitHubDesktop\bin;C:\Users\stephen\AppData\Local\Keybase\;C:\Users\stephen\AppData\Roaming\npm;C:\Program Files (x86)\nodejs;C:\Users\stephen\go\bin;C:\Program Files\OpenSSL-Win64\bin;
+  C:\Users\stephen\AppData\Local\Temp\yarn--1624780057101-0.7200505889518951;H:\http\htdocs\deadbydaylight\node_modules\.bin;C:\Users\stephen\AppData\Local\Yarn\Data\link\node_modules\.bin;C:\Users\stephen\AppData\Local\Yarn\bin;C:\Program Files (x86)\libexec\lib\node_modules\npm\bin\node-gyp-bin;C:\Program Files (x86)\lib\node_modules\npm\bin\node-gyp-bin;C:\Program Files (x86)\nodejs\node_modules\npm\bin\node-gyp-bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Python39\Scripts\;C:\Python39\;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\ProgramData\chocolatey\bin;C:\Program Files\Memurai\;C:\Program Files (x86)\nodejs\;C:\Program Files\Go\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\dotnet\;C:\Users\stephen\AppData\Local\Microsoft\WindowsApps;C:\Users\stephen\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\stephen\AppData\Local\GitHubDesktop\bin;C:\Users\stephen\AppData\Local\Keybase\;C:\Users\stephen\AppData\Roaming\npm;C:\Program Files (x86)\nodejs;C:\Users\stephen\go\bin;C:\Program Files\OpenSSL-Win64\bin;
 
 Yarn version: 
   1.22.10
@@ -29,7 +29,7 @@ Trace:
 npm manifest: 
   {
       "name": "@stephenpoole/deadbydaylight",
-      "version": "5.0.16",
+      "version": "5.0.112",
       "description": "A complete Dead by Daylight dataset.",
       "main": "en/deadbydaylight.js",
       "types": "en/index.d.ts",
@@ -88,7 +88,7 @@ npm manifest:
           "docs": "typedoc --excludeExternals --exclude \"**/node_modules/**\"  --name \"Dead By Daylight Database\" --out \"docs\" \"src\"",
           "coverage": "nyc --reporter=lcov yarn test",
           "snyk": "snyk protect",
-          "deploy": "yarn start && yarn start:node && yarn test && yarn publish"
+          "deploy": "yarn snyk && yarn start && yarn start:node && yarn test && yarn publish"
       },
       "repository": {
           "type": "git",

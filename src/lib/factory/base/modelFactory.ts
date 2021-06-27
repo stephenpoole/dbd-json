@@ -66,7 +66,9 @@ class ModelFactory<
     getRandomModel(): C {
         const data = this.random();
         // eslint-disable-next-line new-cap
-        return new this.model(this.factories, data);
+        const instance = new this.model(this.factories, data);
+        instance.initialize();
+        return instance;
     }
 
     getModels(keys: string[]): C[] {
