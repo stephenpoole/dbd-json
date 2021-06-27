@@ -73,7 +73,7 @@ Refer to the [deadbydaylight.node repository](https://github.com/stephenpoole/de
 ## Documentation
 
 You'll find the type documentation here:
-[Documentation](https://stephenpoole.github.io/deadbydaylight)
+[Documentation](https://stephenpoole.github.io/deadbydaylight/modules.html)
 
 ## Images
 
