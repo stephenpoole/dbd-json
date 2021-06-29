@@ -2482,7 +2482,7 @@
         ]
     },
     {
-        "description": "Odczuwasz ból tak samo jak wszyscy, ale wolisz, żeby inni o tym nie wiedzieli.<br><br>Nie wydajesz żadnych dźwięków, w tym jęków bólu, podczas leczenia. Nieudane testy umiejętności w trakcie leczenia nie powodują powiadomienia dźwiękowego, a leczenie cofa się jedynie o <span class=\"Highlight1\">{0}%.</span><br><br><span class= \"FlavorText\">„Dam radę”. – Leon S. Kennedy</span>",
+        "description": "Odczuwasz ból tak samo jak wszyscy, ale wolisz, żeby inni o tym nie wiedzieli.<br><br>Podczas leczenia nie wydajesz żadnych dźwięków, w tym jęków bólu (tak samo ocalały, którego leczysz). Nieudane testy umiejętności w trakcie leczenia nie powodują powiadomienia dźwiękowego, a leczenie cofa się jedynie o <span class=\"Highlight1\">{0}%.</span><br><br><span class= \"FlavorText\">„Dam radę”. – Leon S. Kennedy</span>",
         "name": "Zaciśnięte Zęby",
         "id": 192,
         "index": "BITE_THE_BULLET",

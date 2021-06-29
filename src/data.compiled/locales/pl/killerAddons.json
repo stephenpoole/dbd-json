@@ -3021,7 +3021,7 @@
         "image": "iconAddon_unknownEgg"
     },
     {
-        "description": "Zardzewiały metalowy gwizdek, który niegdyś zaprowadzał porządek na publicznym basenie w Hawkins.<li>Ocalali w pobliżu aktywnych portali są wskazywani przez Instynkt Zabójcy bez potrzeby ładowania umiejętności <b>Z Otchłani</b>.</li>",
+        "description": "Zardzewiały metalowy gwizdek, który niegdyś zaprowadzał porządek na publicznym basenie w Hawkins.<li>Ocalali w pobliżu aktywnych portali są wskazywani przez instynkt zabójcy bez potrzeby ładowania umiejętności <b>Z Otchłani</b>.</li><li><b>Nieco</b> zmniejsza promień wykrycia.</li>",
         "name": "Gwizdek ratownika",
         "flavor": "„Emituje silne pole elektromagnetyczne: musiał mieć styczność z Drugą Stroną”. – Hawkins National Laboratory",
         "id": 817,

@@ -2482,7 +2482,7 @@
         ]
     },
     {
-        "description": "Senin de diğer insanlar gibi canın acıyor fakat onların bunu bilmesini istemiyorsun.<br><br>İyileşirken sızlanma naraları da dahil olmak üzere hiç ses çıkarmazsın. Başarısız iyileştirme beceri denemeleri ses bildirimi oluşturmaz ve iyileştirme yalnızca <span class=\"Highlight1\">%{0}</span> azalır.<br><br><span class= \"FlavorText\">\"Bunu başarabilirim!\" —Leon S. Kennedy</span>",
+        "description": "Senin de diğer insanlar gibi canın acıyor fakat onların bunu bilmesini istemiyorsun.<br><br>İyileştirme sırasında, sen ve iyileştirdiğin Kurban sızlanma naraları da dahil olmak üzere hiç ses çıkarmazsınız. Başarısız iyileştirme beceri denemeleri ses bildirimi oluşturmaz ve iyileştirme yalnızca <span class=\"Highlight1\">%{0}</span> azalır.<br><br><span class= \"FlavorText\">\"Bunu başarabilirim!\" -Leon S. Kennedy</span>",
         "name": "Sık Dişini",
         "id": 192,
         "index": "BITE_THE_BULLET",

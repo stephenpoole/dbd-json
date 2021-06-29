@@ -3022,7 +3022,7 @@
         "image": "iconAddon_unknownEgg"
     },
     {
-        "description": "Un sifflet en métal rouillé qui donnait autrefois le ton à l’école publique d’Hawkins.<li>Les survivants près de portails activés sont signalés par Instinct de tueur sans avoir à charger <b>Né de l’abîme</b>.</li>",
+        "description": "Un sifflet en métal rouillé qui donnait autrefois le ton à l’école publique d’Hawkins.<li>Les survivants près de portails activés sont signalés par Instinct de tueur sans avoir à charger <b>Né de l’abîme</b>.</li><li>Réduit <b>légèrement</b> le rayon de détection.</li>",
         "name": "Sifflet de maître-nageur",
         "flavor": "« Émet un puissant champ électromagnétique : cela doit avoir été en contact avec le monde à l’envers. » - Laboratoire national d’Hawkins",
         "id": 817,

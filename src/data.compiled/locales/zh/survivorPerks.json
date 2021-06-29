@@ -2482,7 +2482,7 @@
         ]
     },
     {
-        "description": "你和别人一样受伤也会疼，但你不会让别人知道。<br><br>你在治疗时不会发出包括痛苦呻吟在内的任何噪声。治疗技能检验失败时不会有噪音提示，治疗进度也只会回退<span class=\"Highlight1\">{0}%。</span><br><br><span class= \"FlavorText\">“我可以的。”——里昂·S·肯尼迪</span>",
+        "description": "你和别人一样受伤也会疼，但你不会让别人知道。<br><br>治疗时，你和被你治疗的逃生者不会发出包括痛苦呻吟在内的任何噪声。治疗技能检验失败时不会有噪音提示，治疗进度也只会回退<span class=\"Highlight1\">{0}%。</span><br><br><span class= \"FlavorText\">“我可以的。”——里昂·S·肯尼迪</span>",
         "name": "咬紧牙关",
         "id": 192,
         "index": "BITE_THE_BULLET",

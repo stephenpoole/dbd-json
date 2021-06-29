@@ -3022,7 +3022,7 @@
         "image": "iconAddon_unknownEgg"
     },
     {
-        "description": "Un fischietto bianco arrugginito della piscina pubblica di Hawkins.<li>I sopravvissuti vicini a un portale attivo verranno evidenziati dall'Istinto del killer senza dover caricare <b>Degli Abissi</b>.</li>",
+        "description": "Un fischietto bianco arrugginito della piscina pubblica di Hawkins.<li>I sopravvissuti vicini a un portale attivo verranno evidenziati dall'Istinto del killer senza dover caricare <b>Degli Abissi</b>.</li><li><b>Riduce leggermente</b> il raggio di rilevamento.</li>",
         "name": "Fischietto da bagnino",
         "flavor": "\"Emette un forte campo elettromagnetico. Dev'essere venuto in contatto con il Sottosopra.\" - Laboratorio Nazionale di Hawkins",
         "id": 817,

@@ -2206,7 +2206,7 @@
         ]
     },
     {
-        "description": "Vous savez comment maltraiter un membre d’une équipe pour provoquer la panique.<br><br>Lorsque vous blessez un survivant en bonne santé avec une attaque de base, tous les survivants blessés souffrent de l’effet de statut <b>Inconscient</b> pendant <span class=\"Highlight1\">{0} secondes</span>.<br><I>Hystérie</i> peut uniquement être déclenchée toutes les <span class=\"Highlight2\">{1} secondes.</span><br><br><span class= \"FlavorText\">« Désolé d’être un peu nerveux. Je ne savais pas trop à quoi m’attendre. » — Robert Kendo",
+        "description": "Vous savez comment maltraiter un membre d’une équipe pour provoquer la panique.<br><br>Lorsqu’un survivant est blessé par n’importe quel moyen, tous les survivants blessés souffrent de l’effet de statut <b>Inconscient</b> pendant <span class=\"Highlight1\">{0} secondes</span>.<br><I>Hystérie</i> peut uniquement être déclenchée toutes les <span class=\"Highlight2\">{1} secondes.</span><br><br><span class= \"FlavorText\">« Désolé d’être un peu nerveux. Je ne savais pas trop à quoi m’attendre. » — Robert Kendo",
         "name": "Hystérie",
         "id": 83,
         "index": "HYSTERIA",
@@ -2233,7 +2233,7 @@
         ]
     },
     {
-        "description": "Le parasite NE-α vous confère l’intelligence et la conscience nécessaire pour poser un piège.<br><br>Après avoir frappé un générateur, son aura apparaît en jaune. Lorsque vous plongez un survivant en état critique à l’aide d’une attaque de base, tous les générateurs affectés explosent, perdant <span class=\"Highlight1\">{0} %</span> de leur progression et entraînant la disparition de leur aura.<br>Tout survivant qui répare un générateur quand il explose, se met à crier et souffre de l’effet de statut Immobilisé pendant <span class=\"Highlight2\">{1} secondes</span>.<br><i>Éruption</i> a un temps de récupération de <span class=\"Highlight3\">{2} secondes.</span><br><br><span class= \"FlavorText\">« Il peut utiliser des armes ? » — Jill Valentine",
+        "description": "Le parasite NE-α vous confère l’intelligence et la conscience nécessaire pour poser un piège.<br><br>Après avoir frappé un générateur, son aura apparaît en jaune.<br><li>Lorsqu’un survivant plonge en état critique, tous les générateurs affectés explosent, perdant <span class=\"Highlight1\">{0} %</span> de leur progression et ils commencent à régresser.</li><li>Tout survivant qui répare un générateur quand il explose, se met à crier et souffre de l’effet de statut <b>Immobilisé</b> pendant <span class=\"Highlight2\">{1} secondes</span>.</li><br><i>Éruption</i> a un temps de récupération de <span class=\"Highlight3\">{2} secondes.</span><br><br><span class= \"FlavorText\">« Il peut utiliser des armes ? » — Jill Valentine",
         "name": "Éruption",
         "id": 84,
         "index": "ERUPTION",

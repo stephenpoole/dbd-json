@@ -2482,7 +2482,7 @@
         ]
     },
     {
-        "description": "Du fühlst Schmerz wie alle anderen, aber du bevorzugst es, das nicht zu zeigen.<br><br>Du machst keine Geräusche, auch keine Schmerzenslaute beim Heilen. Es gibt keine Benachrichtigung über ein Geräusch bei fehlgeschlagenem Heilungs-Fähigkeitscheck und die Heilung wird nur um <span class=\"Highlight1\">{0} %</span> zurückgesetzt.<br><br><span class= \"FlavorText\">„Ich schaffe das.“ – Leon S. Kennedy</span>",
+        "description": "Du fühlst Schmerz wie alle anderen, aber du bevorzugst es, das nicht zu zeigen.<br><br>Beim Heilen machen du und der Überlebende, den du heilst, keine Geräusche, auch keine Schmerzenslaute. Es gibt keine Benachrichtigung über ein Geräusch bei fehlgeschlagenem Heilungs-Fähigkeitscheck und die Heilung wird nur um <span class=\"Highlight1\">{0} %</span> zurückgesetzt.<br><br><span class= \"FlavorText\">„Ich schaffe das.“ – Leon S. Kennedy</span>",
         "name": "Zähne zusammenbeißen",
         "id": 192,
         "index": "BITE_THE_BULLET",

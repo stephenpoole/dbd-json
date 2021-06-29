@@ -2208,7 +2208,7 @@
         ]
     },
     {
-        "description": "Sabes cómo agredir al miembro de un equipo para desatar el pánico.<br><br>Cuando provocas una herida a un superviviente ileso con un ataque básico, todos los supervivientes heridos sufren el efecto de estado <b>Inconsciencia</b> durante <span class=\"Highlight1\">{0} segundos.</span><br><I>Histeria</i> solo se puede activar una vez cada <span class=\"Highlight2\">{1} segundos.</span><br><br><span class= \"FlavorText\">\"Perdona, me he puesto un poco nervioso. No sabía qué esperarme\". (Robert Kendo)",
+        "description": "Sabes cómo agredir al miembro de un equipo para desatar el pánico.<br><br>Cuando provocas una herida a un superviviente ileso del modo que sea, todos los supervivientes heridos sufren el efecto de estado <b>Inconsciencia</b> durante <span class=\"Highlight1\">{0} segundos.</span><br><I>Histeria</i> solo se puede activar una vez cada <span class=\"Highlight2\">{1} segundos.</span><br><br><span class= \"FlavorText\">\"Perdona, me he puesto un poco nervioso. No sabía qué esperarme\". (Robert Kendo)",
         "name": "Histeria",
         "id": 83,
         "index": "HYSTERIA",
@@ -2235,7 +2235,7 @@
         ]
     },
     {
-        "description": "El parásito NE-α te proporciona la inteligencia y consciencia necesarias para poner una trampa.<br><br>Tras patear un generador, su aura se iluminará de color amarillo. Cuando dejas a un superviviente en estado agonizante con un ataque básico, explotarán todos los generadores afectados, revirtiendo su progreso un <span class=\"Highlight1\">{0} %</span> y haciendo que su aura desaparezca.<br>Cualquier superviviente que esté reparando un generador cuando explote, gritará y sufrirá el efecto de estado Incapacitación durante <span class=\"Highlight2\">{1} segundos</span><br><i>Erupción</i> tiene un tiempo de recarga de <span class=\"Highlight3\">{2} segundos.</span><br><br><span class= \"FlavorText\">\"¿Sabe utilizar armas?\". (Jill Valentine)",
+        "description": "El parásito NE-α te proporciona la inteligencia y consciencia necesarias para poner una trampa.<br><br>Tras patear un generador, su aura se iluminará de color amarillo.<br><li>Cuando un superviviente entra en estado agonizante, explotarán todos los generadores afectados, perdiendo un <span class=\"Highlight1\">{0} %</span> de progreso y empezarán a revertirse.</li><li>Cualquier superviviente que esté reparando un generador cuando explote, gritará y sufrirá el efecto de estado <b>Incapacitación</b> durante <span class=\"Highlight2\">{1} segundos</span>.</li><br><i>Erupción</i> tiene un tiempo de recarga de <span class=\"Highlight3\">{2} segundos.</span><br><br><span class= \"FlavorText\">\"¿Sabe utilizar armas?\". (Jill Valentine)",
         "name": "Erupción",
         "id": 84,
         "index": "ERUPTION",

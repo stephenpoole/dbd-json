@@ -2207,7 +2207,7 @@
         ]
     },
     {
-        "description": "Wiesz, jak skrzywdzić jednego członka drużyny, by wywołać panikę.<br><br>Gdy wprowadzisz zdrowego ocalałego w stan krytyczny podstawowym atakiem, wszyscy ranni ocalali otrzymają efekt <b>Nieświadomy</b> na <span class=\"Highlight1\">{0} s</span>.<br><I>Histeria</i> jest dostępna tylko raz na <span class=\"Highlight2\">{1} s.</span><br><br><span class= \"FlavorText\">„Wybaczcie, trochę mnie poniosło. Nie wiedziałem, czego się spodziewać”. – Robert Kendo",
+        "description": "Wiesz, jak skrzywdzić jednego członka drużyny, by wywołać panikę.<br><br>Zawsze gdy zdrowy ocalały otrzyma ranę w dowolny sposób, wszyscy ranni ocalali otrzymają efekt <b>Nieświadomy</b> na <span class=\"Highlight1\">{0} s</span>.<br><I>Histeria</i> jest dostępna tylko raz na <span class=\"Highlight2\">{1} s.</span><br><br><span class= \"FlavorText\">„Wybaczcie, trochę mnie poniosło. Nie wiedziałem, czego się spodziewać”. – Robert Kendo",
         "name": "Histeria",
         "id": 83,
         "index": "HYSTERIA",
@@ -2234,7 +2234,7 @@
         ]
     },
     {
-        "description": "Pasożyt NE-α zapewnia ci inteligencję i świadomość potrzebne do zastawienia pułapki.<br><br>Po kopnięciu generatora jego aura podświetla się na żółto. Gdy wprowadzisz ocalałego w stan agonii podstawowym atakiem, każdy kopnięty generator wybucha, a postęp jego naprawy cofa się o <span class=\"Highlight1\">{0}%</span>. Aury tych generatorów znikają.<br>Ocalały naprawiający generator w momencie wybuchu krzyknie i otrzyma efekt Unieruchomiony na <span class=\"Highlight2\">{1} s</span>.<br>Czas odnawiania <i>Erupcji</i> wynosi <span class=\"Highlight3\">{2} s.</span><br><br><span class= \"FlavorText\">„Potrafi używać broni?” – Jill Valentine",
+        "description": "Pasożyt NE-α zapewnia ci inteligencję i świadomość potrzebne do zastawienia pułapki.<br><br>Po kopnięciu generatora jego aura podświetla się na żółto.<br><li>Zawsze gdy wprowadzisz ocalałego w stan agonii, każdy naruszony generator wybucha, a postęp jego naprawy traci <span class=\"Highlight1\">{0}%</span> i zaczyna się cofać.</li><li>Ocalały naprawiający generator w momencie wybuchu krzyknie i otrzyma efekt <b>Unieruchomiony</b> na <span class=\"Highlight2\">{1} s</span>.</li><br>Czas odnawiania <i>Erupcji</i> wynosi <span class=\"Highlight3\">{2} s.</span><br><br><span class= \"FlavorText\">„Potrafi używać broni?” – Jill Valentine",
         "name": "Erupcja",
         "id": 84,
         "index": "ERUPTION",

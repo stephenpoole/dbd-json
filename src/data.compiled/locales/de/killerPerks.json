@@ -2208,7 +2208,7 @@
         ]
     },
     {
-        "description": "Du weißt, wie du ein Teammitglied brutal zurichten kannst, um für Panik zu sorgen.<br><br>Immer, wenn du einen gesunden Überlebenden mit einem Grundangriff in den verletzten Zustand versetzt, erleiden alle verletzten Überlebenden den Statuseffekt <b>Ahnungslos</b> für <span class=\"Highlight1\">{0} Sekunden</span>.<br><I>Hysterie</i> kann nur einmal alle <span class=\"Highlight2\">{1} Sekunden</span> ausgelöst werden.<br><br><span class= \"FlavorText\">„Tut mir leid, ich bin ein bisschen nervös geworden. Ich wusste nicht, was ich zu erwarten hatte.“ – Robert Kendo",
+        "description": "Du weißt, wie du ein Teammitglied brutal zurichten kannst, um für Panik zu sorgen.<br><br>Immer, wenn ein gesunder Überlebender auf irgendeine Weise verletzt wird, erleiden alle verletzten Überlebenden den Statuseffekt <b>Ahnungslos</b> für <span class=\"Highlight1\">{0} Sekunden</span>.<br><I>Hysterie</i> kann nur einmal alle <span class=\"Highlight2\">{1} Sekunden</span> ausgelöst werden.<br><br><span class= \"FlavorText\">„Tut mir leid, ich bin ein bisschen nervös geworden. Ich wusste nicht, was ich zu erwarten hatte.“ – Robert Kendo",
         "name": "Hysterie",
         "id": 83,
         "index": "HYSTERIA",
@@ -2235,7 +2235,7 @@
         ]
     },
     {
-        "description": "Der Ne-α-Parasit schenkt dir die Intelligenz und das Bewusstsein, die benötigt werden, um eine Falle zu stellen.<br><br>Wenn du einen Generator trittst, erscheint seine Aura gelb. Wenn du einen Überlebenden mit einem Grundangriff in den Todesstatus versetzt, explodiert jeder betroffene Generator. Der Fortschritt jedes Generators wird dabei um <span class=\"Highlight1\">{0} %</span> zurückgesetzt und die Auren verschwinden.<br>Jeder Überlebende, der einen Generator repariert, wenn dieser explodiert, schreit und erleidet den Statuseffekt „Bewegungsunfähig“ für <span class=\"Highlight2\">{1} Sekunden</span>.<br><i>Ausbruch</i> hat eine Abklingzeit von <span class=\"Highlight3\">{2} Sekunden</span>.<br><br><span class= \"FlavorText\">„Er kann Waffen verwenden?“ – Jill Valentine",
+        "description": "Der Ne-α-Parasit schenkt dir die Intelligenz und das Bewusstsein, die benötigt werden, um eine Falle zu stellen.<br><br>Wenn du einen Generator trittst, erscheint seine Aura gelb.<br><li>Wenn ein Überlebender in den Todesstatus gerät, explodiert jeder betroffene Generator. Der Fortschritt wird dabei um <span class=\"Highlight1\">{0} %</span> zurückgesetzt und nimmt dann weiter ab.</li><li>Jeder Überlebende, der einen betroffenen Generator repariert, wenn dieser explodiert, schreit und erleidet den Statuseffekt <b>Bewegungsunfähig</b> für <span class=\"Highlight2\">{1} Sekunden</span>.</li><br><i>Ausbruch</i> hat eine Abklingzeit von <span class=\"Highlight3\">{2} Sekunden</span>.<br><br><span class= \"FlavorText\">„Er kann Waffen verwenden?“ – Jill Valentine",
         "name": "Ausbruch",
         "id": 84,
         "index": "ERUPTION",

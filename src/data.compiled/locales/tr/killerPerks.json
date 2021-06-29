@@ -2218,7 +2218,7 @@
         ]
     },
     {
-        "description": "Ekibin bir üyesini panik yaratacak şekilde yaralamayı biliyorsun.<br><br>Sağlıklı bir Kurban'ı normal saldırıyla yaralı hale getirdiğinde tüm yaralı Kurbanlar <span class=\"Highlight1\">{0} saniyeliğine</span> <b>Bihaber</b> durum etkisi altına girer.<br><I>Histeri</i> yalnızca her <span class=\"Highlight2\">{1} saniyede</span> bir tetiklenebilir.<br><br><span class= \"FlavorText\">\"Pardon, biraz korktum. Ne çıkacağından emin değildim.\" —Robert Kendo",
+        "description": "Ekibin bir üyesini panik yaratacak şekilde yaralamayı biliyorsun.<br><br>Sağlıklı bir Kurban, herhangi bir şekilde yaralı hale geldiğinde tüm yaralı Kurbanlar <span class=\"Highlight1\">{0} saniyeliğine </span><b>Bihaber</b> durum etkisi altına girer.<br><I>Histeri</i> yalnızca <span class=\"Highlight2\">{1} saniyede</span> bir tetiklenebilir.<br><br><span class= \"FlavorText\">\"Pardon, biraz korktum. Ne çıkacağından emin değildim.\" -Robert Kendo",
         "name": "Histeri",
         "id": 83,
         "index": "HYSTERIA",
@@ -2245,7 +2245,7 @@
         ]
     },
     {
-        "description": "NE-α paraziti sana tuzak kurmaya yetecek kadar zekâ ve farkındalık sağlıyor.<br><br>Bir jeneratöre tekme attıktan sonra haresi sarı görünür. Bir Kurban'ı normal saldırıyla can çekişme durumuna sokmak, etkilenen tüm jeneratörlerin patlayarak ilerlemelerini <span class=\"Highlight1\">%{0}</span> kaybetmelerine ve harelerinin yok olmasına sebep olur.<br>Patladığı esnada jeneratörü tamir eden Kurbanlar çığlık atar ve <span class=\"Highlight2\">{1} saniye</span> boyunca Aciz durum etkisi altına girer.<br><i>İnfilak</i> <span class=\"Highlight3\">{2} saniye</span> bekleme süresine sahiptir.<br><br><span class= \"FlavorText\">\"Silah da mı kullanabiliyor?\" —Jill Valentine",
+        "description": "NE-α paraziti sana tuzak kurmaya yetecek kadar zekâ ve farkındalık sağlıyor.<br><br>Bir jeneratöre tekme attıktan sonra haresi sarı görünür.<br><li>Bir Kurban can çekişme durumuna girdiğinde etkilenen tüm jeneratörler patlayarak ilerlemelerini <span class=\"Highlight1\">%{0}</span> kaybeder ve gerilemeye başlar.</li><li>Patladığı esnada jeneratörü tamir eden Kurbanlar çığlık atar ve <span class=\"Highlight2\">{1} saniye</span> boyunca <b>Aciz</b> durum etkisi altına girer.</li><br><i>İnfilak</i> <span class=\"Highlight3\">{2} saniye</span> bekleme süresine sahiptir.<br><br><span class= \"FlavorText\">\"Silah da mı kullanabiliyor?\" -Jill Valentine",
         "name": "İnfilak",
         "id": 84,
         "index": "ERUPTION",

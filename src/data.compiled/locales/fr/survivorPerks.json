@@ -2482,7 +2482,7 @@
         ]
     },
     {
-        "description": "Vous souffrez autant que n’importe qui, mais vous préférez que les autres ne le sachent pas.<br><br>Vous ne faites pas de bruit, pas même de grognements de douleur, pendant vos soins. Il n’y a pas de notification sonore lors de tests d’habileté de soins ratés et la guérison recule uniquement de <span class=\"Highlight1\">{0} %.</span><br><br><span class= \"FlavorText\">« Je peux le faire. » — Leon S. Kennedy</span>",
+        "description": "Vous souffrez autant que n’importe qui, mais vous préférez que les autres ne le sachent pas.<br><br>Pendant les soins, ni vous, ni le survivant que vous soignez ne faites de bruit, pas même de grognements de douleur. Il n’y a pas de notification sonore lors de tests d’habileté de soins ratés et la guérison recule uniquement de <span class=\"Highlight1\">{0} %.</span><br><br><span class= \"FlavorText\">« Je peux le faire. » — Leon S. Kennedy</span>",
         "name": "Serrer les dents",
         "id": 192,
         "index": "BITE_THE_BULLET",

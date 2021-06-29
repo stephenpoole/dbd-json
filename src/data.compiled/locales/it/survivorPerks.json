@@ -2482,7 +2482,7 @@
         ]
     },
     {
-        "description": "Provi dolore come tutti, ma preferisci che la cosa non si sappia in giro.<br><br>Non fai rumore e non emetti lamenti di dolore quando ti curi. Non partono notifiche sonore dopo i Test Abilità di guarigione falliti e la guarigione regredisce solo di un <span class=\"Highlight1\">{0}%</span><br><br><span class= \"FlavorText\">\"Posso farcela.\" - Leon S. Kennedy</span>",
+        "description": "Provi dolore come tutti, ma preferisci che la cosa non si sappia in giro.<br><br>Quando guarisci qualcuno, né tu né il sopravvissuto che guarisci fate rumore e non emettete lamenti di dolore. Non partono notifiche sonore dopo i Test Abilità di guarigione falliti e la guarigione regredisce solo di un <span class=\"Highlight1\">{0}%</span><br><br><span class= \"FlavorText\">\"Posso farcela.\" - Leon S. Kennedy</span>",
         "name": "Stringi i denti",
         "id": 192,
         "index": "BITE_THE_BULLET",

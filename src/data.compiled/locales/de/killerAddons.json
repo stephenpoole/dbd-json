@@ -3022,7 +3022,7 @@
         "image": "iconAddon_unknownEgg"
     },
     {
-        "description": "Eine rostige Metallpfeife, die einst im öffentlichen Schwimmbad von Hawkins für Ordnung sorgte.<li>Überlebende in der Nähe von aktivierten Portalen werden vom Killerinstinkt angezeigt, ohne dass <b>Aus dem Abgrund</b> aufgeladen werden muss.</li>",
+        "description": "Eine rostige Metallpfeife, die einst im öffentlichen Schwimmbad von Hawkins für Ordnung sorgte.<li>Überlebende in der Nähe von aktivierten Portalen werden vom Killerinstinkt angezeigt, ohne dass <b>Aus dem Abgrund</b> aufgeladen werden muss.</li><li>Verringert <b>leicht</b> den Entdeckungsradius.</li>",
         "name": "Bademeisterpfeife",
         "flavor": "„Sie erzeugt ein starkes, elektromagnetisches Feld. Sie muss mit der anderen Seite in Kontakt gekommen sein.“ –Hawkins National Laboratory",
         "id": 817,

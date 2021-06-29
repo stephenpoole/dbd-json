@@ -3022,7 +3022,7 @@
         "image": "iconAddon_unknownEgg"
     },
     {
-        "description": "Un silbato de metal oxidado que en su día se usaba para vigilar la piscina pública de Hawkins.<li>Los supervivientes que estén cerca de portales activados aparecerán con Instinto asesino sin tener que cargar <b>Desde el abismo</b>.</li>",
+        "description": "Un silbato de metal oxidado que en su día se usaba para vigilar la piscina pública de Hawkins.<li>Los supervivientes que estén cerca de portales activados aparecerán con Instinto asesino sin tener que cargar <b>Desde el abismo</b>.</li><li>Reduce <b>ligeramente</b> el radio de detección.</li>",
         "name": "Silbato de socorrista",
         "flavor": "\"Emite un fuerte campo electromagnético. Debe de haber estado en contacto con el Mundo Del Revés\". (Laboratorio Nacional de Hawkins)",
         "id": 817,

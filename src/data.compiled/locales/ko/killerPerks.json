@@ -2206,7 +2206,7 @@
         ]
     },
     {
-        "description": "당신은 팀원 한 명을 잔인하게 다루어 극심한 공포를 일으키는 방법을 알고 있다.<br><br>기본 공격으로 생존자를 부상 상태에 빠지게 만들 때마다, 부상 상태에 빠진 모든 생존자를 <span class=\"Highlight1\">{0}초</span> 동안 <b>인지 불가능</b> 상태 효과에 빠지게 만든다.<br><I>히스테리</i>는 <span class=\"Highlight2\">{1}초</span>마다 사용 가능하다.<br><br><span class= \"FlavorText\">\"미안하네, 내가 좀 흥분했어. 뭘 어떻게 해야할지 몰랐네.\" —로버트 켄도",
+        "description": "당신은 팀원 한 명을 잔인하게 다루어 극심한 공포를 일으키는 방법을 알고 있다.<br><br>어떤 방식으로든 생존자가 부상 상태에 빠지게 만들 때마다, 부상을 당하면 모든 생존자는 <span class=\"Highlight1\">{0}초</span> 동안 <b>인지 불가능</b> 상태 효과에 빠진다.<br><I>히스테리</i>는 <span class=\"Highlight2\">{1}초</span>마다 사용 가능하다.<br><br><span class= \"FlavorText\">\"미안하네, 내가 좀 흥분했어. 뭘 어떻게 해야할지 몰랐네.\" —로버트 켄도",
         "name": "히스테리",
         "id": 83,
         "index": "HYSTERIA",
@@ -2233,7 +2233,7 @@
         ]
     },
     {
-        "description": "Ne-알파 기생체는 함정을 만드는 데 필요한 정보와 의식을 제공한다.<br><br>발전기를 발로 차면, 발전기의 오라가 노랗게 표시된다. 기본 공격으로 생존자를 빈사 상태에 빠뜨리면, 영향을 받은 모든 발전기가 폭발하며 진행 상항이 <span class=\"Highlight1\">{0}%</span> 퇴보되며 이는 발전기의 오라가 사라진다.<br>발전기가 폭발할 때 발전기를 수리했던 모든 생존자는 비명을 지르며 <span class=\"Highlight2\">{1}초</span> 동안 불구화 상태 효과에 빠진다<br>.<i>폭발</i>은 <span class=\"Highlight3\">{2}초</span>의 재사용 대기 시간을 가진다.<br><br><span class= \"FlavorText\">\"무기를 사용할 수 있다고?\" —질 발렌타인",
+        "description": "Ne-알파 기생체는 함정을 만드는 데 필요한 정보와 의식을 제공한다.<br><br>발전기를 발로 차면, 발전기의 오라가 노랗게 표시된다.<br><li>생존자가 빈사 상태에 빠질 때마다, 영향을 받은 모든 발전기가 폭발하며 진행 상항이 <span class=\"Highlight1\">{0}%</span> 퇴보되어 손상되기 시작한다.</li><li>발전기가 폭발할 때 발전기를 수리했던 모든 생존자는 비명을 지르며 <span class=\"Highlight2\">{1}초</span> 동안 <b>불구화</b> 상태 효과에 빠진다.</li><br><i>폭발</i>은 <span class=\"Highlight3\">{2}초</span>의 재사용 대기 시간을 가진다.<br><br><span class= \"FlavorText\">\"무기를 사용할 수 있다고?\" —질 발렌타인",
         "name": "폭발",
         "id": 84,
         "index": "ERUPTION",

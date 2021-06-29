@@ -2482,7 +2482,7 @@
         ]
     },
     {
-        "description": "Você sente dor igual a todo mundo, mas prefere que ninguém fique sabendo.<br><br>Você não faz barulho e não geme de dor ao se curar. Não haverá sinal sonoro nos testes de perícia de cura fracassados, e a cura só regredirá em <span class=\"Highlight1\">{0}%.</span><br><br><span class= \"FlavorText\">\"Eu aguento.\" — Leon S. Kennedy</span>",
+        "description": "Você sente dor igual a todo mundo, mas prefere que ninguém fique sabendo.<br><br>Ao curar, você e o Sobrevivente que está sendo curado não fazem barulho nem gemem de dor. Não haverá sinal sonoro nos testes de perícia de cura fracassados, e a cura só regredirá em <span class=\"Highlight1\">{0}%.</span><br><br><span class= \"FlavorText\">\"Eu aguento.\" — Leon S. Kennedy</span>",
         "name": "Matar no Peito",
         "id": 192,
         "index": "BITE_THE_BULLET",

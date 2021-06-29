@@ -2208,7 +2208,7 @@
         ]
     },
     {
-        "description": "Você sabe como brutalizar um membro da equipe para causar pânico.<br><br>Sempre que você colocar um Sobrevivente saudável no estado Ferido com um ataque básico, todos os Sobreviventes feridos sofrerão do efeito do estado <b>Alheio</b> por <span class=\"Highlight1\">{0} s.</span><br><I>Histeria</i> só ocorre uma vez a cada <span class=\"Highlight2\">{1} s.</span><br><br><span class= \"FlavorText\">\"Foi mal por ter ficado agitado ali. É que eu não sabia bem o que esperar.\" — Robert Kendo",
+        "description": "Você sabe como brutalizar um membro da equipe para causar pânico.<br><br>Sempre que um Sobrevivente saudável ficar ferido por qualquer meio, todos os Sobreviventes feridos sofrerão do efeito do estado <b>Alheio</b> por <span class=\"Highlight1\">{0} s.</span><br><I>Histeria</i> só ocorre uma vez a cada <span class=\"Highlight2\">{1} s.</span><br><br><span class= \"FlavorText\">\"Foi mal por ter ficado agitado ali. É que eu não sabia bem o que esperar.\" — Robert Kendo",
         "name": "Histeria",
         "id": 83,
         "index": "HYSTERIA",
@@ -2235,7 +2235,7 @@
         ]
     },
     {
-        "description": "O Parasita NE-α lhe confere a inteligência e a percepção necessárias para bolar armadilhas.<br><br>Após chutar um gerador, a aura dele ficará destacada em amarelo. Ao deixar um Sobrevivente no estado Morrendo com um ataque básico, todos os geradores afetados explodirão, regredindo o progresso deles em <span class=\"Highlight1\">{0}%</span> e fazendo com que suas auras desapareçam.<br>Os Sobreviventes que estiverem reparando algum gerador que venha a explodir gritarão e sofrerão do efeito do estado Incapacitado por <span class=\"Highlight2\">{1} s</span>.<br><i>Erupção</i> tem um tempo de recarga de <span class=\"Highlight3\">{2} s.</span><br><br><span class= \"FlavorText\">\"Ele sabe usar armas?\" — Jill Valentine",
+        "description": "O Parasita NE-α lhe conferiu a inteligência e a percepção necessárias para montar armadilhas.<br><br>Após chutar um gerador, a aura dele ficará destacada em amarelo.<br><li>Sempre que um Sobrevivente fica no estado Morrendo, todos os geradores afetados explodem, o que faz com que percam <span class=\"Highlight1\">{0}%</span> de progresso e comecem a regredir.</li><li>Os Sobreviventes que estiverem reparando um gerador no momento da explosão vão gritar e sofrer do efeito do estado <b>Incapacitado</b> por <span class=\"Highlight2\">{1} s</span>></li><br><i>Erupção</i> tem um tempo de recarga de <span class=\"Highlight3\">{2} s.</span><br><br><span class= \"FlavorText\">\"Ele sabe usar armas?\" — Jill Valentine",
         "name": "Erupção",
         "id": 84,
         "index": "ERUPTION",

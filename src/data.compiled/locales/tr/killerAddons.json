@@ -3022,7 +3022,7 @@
         "image": "iconAddon_unknownEgg"
     },
     {
-        "description": "Bir zamanlar Hawkins'in halka açık yüzme havuzuna hükmeden paslı metal düdük.<li>Katil İçgüdüsü, etkinleştirilmiş geçitlerin yakınındaki Kurbanları, <b>Hiçlik Yaratığı</b>'yla güç toplamaya gerek duymadan açığa çıkarır.</li>",
+        "description": "Bir zamanlar Hawkins'in halka açık yüzme havuzuna hükmeden paslı metal düdük.<li>Katil İçgüdüsü, etkinleştirilmiş geçitlerin yakınındaki Kurbanları, <b>Hiçlik Yaratığı</b>'yla güç toplamaya gerek duymadan açığa çıkarır.</li><li>Algılama menzilini <b>biraz</b> azaltır.</li>",
         "name": "Cankurtaran Düdüğü",
         "flavor": "\"Güçlü bir elektromanyetik alan yayıyor. Baş Aşağı Dünya'yla temasa geçmiş olmalı.\" -Hawkins Ulusal Laboratuvarı",
         "id": 817,

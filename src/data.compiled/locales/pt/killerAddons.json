@@ -3022,7 +3022,7 @@
         "image": "iconAddon_unknownEgg"
     },
     {
-        "description": "Apito de metal enferrujado que já comandou a escola pública de Hawkins.<li>Sobreviventes próximos a Portais ativados são indicados por Instinto Assassino sem a necessidade de carregar <b>Do Abismo</b>.</li>",
+        "description": "Apito de metal enferrujado que já comandou a escola pública de Hawkins.<li>Sobreviventes próximos a Portais ativados são indicados por Instinto Assassino sem a necessidade de carregar <b>Do Abismo</b>.</li><li><b>Diminui ligeiramente</b> o raio de detecção.</li>",
         "name": "Apito de Salva-Vidas",
         "flavor": "\"Emite um forte campo eletromagnético: deve ter entrado em contato com o Mundo Invertido.\" — Laboratório Nacional de Hawkins",
         "id": 817,

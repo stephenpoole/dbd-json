@@ -2206,7 +2206,7 @@
         ]
     },
     {
-        "description": "你知道如何虐杀小队成员以引起恐慌。<br><br>每当你用普通攻击使一名健康的逃生者陷入受伤状态时，所有受伤的逃生者都会受到<b>浑然不觉</b>状态影响，持续<span class=\"Highlight1\">{0}秒</span>。<br><I>歇斯底里</i>每<span class=\"Highlight2\">{1}秒只能触发一次。</span><br><br><span class= \"FlavorText\">“抱歉我有点一惊一乍了。我也不知道自己会遇到什么。”——罗伯特·肯多",
+        "description": "你知道如何虐杀小队成员以引起恐慌。<br><br>每当你用任何方式使一名健康的逃生者陷入受伤状态时，所有受伤的逃生者都会受到<b>浑然不觉</b>状态影响，持续<span class=\"Highlight1\">{0}秒</span>。<br><I>歇斯底里</i>每<span class=\"Highlight2\">{1}秒只能触发一次。</span><br><br><span class= \"FlavorText\">“抱歉我有点一惊一乍了。我也不知道自己会遇到什么。”——罗伯特·肯多",
         "name": "歇斯底里",
         "id": 83,
         "index": "HYSTERIA",
@@ -2233,7 +2233,7 @@
         ]
     },
     {
-        "description": "Ne-Alpha 寄生虫提升了你的智力与感知力，使你能够铺设陷阱。<br><br>踢过某处发电机后，其气场将以黄色高亮显示。每当你用普通攻击或特殊攻击使一名健康的逃生者陷入濒死状态时，所有受影响的发电机都会爆炸，其进度回退<span class=\"Highlight1\">{0}%</span>随后气场消失。<br>如果有逃生者正在修理爆炸的发电机，其将会发出尖叫并受到无法行动状态影响，持续<span class=\"Highlight2\">{1}秒</span>。<br><i>爆发</i>的冷却时间为<span class=\"Highlight3\">{2}秒。</span><br><br><span class= \"FlavorText\">“它还会用武器？”——吉儿·瓦伦丁",
+        "description": "Ne-Alpha 寄生虫提升了你的智力与感知力，使你能够铺设陷阱。<br><br>踢过某处发电机后，其气场将以黄色高亮显示。<br><li>每当有逃生者陷入濒死状态时，所有受影响的发电机都会爆炸，其进度回退<span class=\"Highlight1\">{0}%</span>。</li><li>发电机爆炸时如果有正在修理的逃生者，其将会发出尖叫并受到<b>无法行动</b>状态影响，持续<span class=\"Highlight2\">{1}秒</span>。</li><br><i>爆发</i>的冷却时间为<span class=\"Highlight3\">{2}秒。</span><br><br><span class= \"FlavorText\">“它还会用武器？”——吉儿·瓦伦丁",
         "name": "爆发",
         "id": 84,
         "index": "ERUPTION",

@@ -2482,7 +2482,7 @@
         ]
     },
     {
-        "description": "Sientes el dolor igual que el resto, pero no quieres que nadie se entere.<br><br>No emites ningún sonido cuando te estés curando, ni un gruñido. No habrá una notificación de ruido en las pruebas de habilidad de curación fallidas ni en las curaciones revertidas en solo un <span class=\"Highlight1\">{0} %.</span><br><br><span class= \"FlavorText\">\"Puedo hacerlo\". (Leon S. Kennedy)</span>",
+        "description": "Sientes el dolor igual que el resto, pero no quieres que nadie se entere.<br><br>Ni el superviviente al que estés curando ni tú emitís ningún sonido, ni un gruñido. No habrá una notificación de ruido en las pruebas de habilidad de curación fallidas ni en las curaciones revertidas en solo un <span class=\"Highlight1\">{0} %.</span><br><br><span class= \"FlavorText\">\"Puedo hacerlo\". (Leon S. Kennedy)</span>",
         "name": "De tripas corazón",
         "id": 192,
         "index": "BITE_THE_BULLET",

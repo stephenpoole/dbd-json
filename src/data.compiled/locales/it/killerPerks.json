@@ -2208,7 +2208,7 @@
         ]
     },
     {
-        "description": "Sai come brutalizzare un membro della squadra per seminare il panico.<br><br>Ogni volta che un sopravvissuto sano diventa ferito per un tuo attacco base, tutti i sopravvissuti feriti subiscono l'effetto <b>Ignaro</b> per <span class=\"Highlight1\">{0} secondi.</span><br><I>Isteria</i> si può attivare solo una volta ogni <span class=\"Highlight2\">{1} secondi.</span><br><br><span class= \"FlavorText\">\"Scusa, non volevo spaventarti. Non so più cosa aspettarmi, ormai.\" - Robert Kendo",
+        "description": "Sai come brutalizzare un membro della squadra per seminare il panico.<br><br>Ogni volta che un sopravvissuto sano diventa ferito per un motivo qualsiasi, tutti i sopravvissuti feriti subiscono l'effetto <b>Ignaro</b> per <span class=\"Highlight1\">{0} secondi.</span><br><I>Isteria</i> si può attivare solo una volta ogni <span class=\"Highlight2\">{1} secondi.</span><br><br><span class= \"FlavorText\">\"Scusa, non volevo spaventarti. Non so più cosa aspettarmi, ormai.\" - Robert Kendo",
         "name": "Isteria",
         "id": 83,
         "index": "HYSTERIA",
@@ -2235,7 +2235,7 @@
         ]
     },
     {
-        "description": "Il parassita NE-α ti fornisce l'intelligenza e la coscienza necessarie per piazzare una trappola.<br><br>Dopo aver preso a calci un generatore, la sua aura verrà evidenziata in giallo. Quando riduci un sopravvissuto in fin di vita con un attacco base, tutti i generatori interessati esploderanno, causandone una regressione di un <span class=\"Highlight1\">{0}%</span> e facendone sparire l'aura.<br>Se un generatore esplode, il sopravvissuto che lo sta riparando urlerà e subirà l'effetto Immobilizzato per <span class=\"Highlight2\">{1} secondi</span>.<br><i>Eruzione</i> ha un tempo di ricarica di <span class=\"Highlight3\">{2} secondi.</span><br><br><span class= \"FlavorText\">\"Sa anche usare le armi?!\" - Jill Valentine",
+        "description": "Il parassita NE-α ti fornisce l'intelligenza e la coscienza necessarie per piazzare una trappola.<br><br>Dopo aver preso a calci un generatore, la sua aura verrà evidenziata in giallo.<br><li>Quando un sopravvissuto finisce in fin di vita, tutti i generatori interessati esploderanno, perdendo un <span class=\"Highlight1\">{0}%</span> di progressi e iniziando a regredire.</li><li>Se un generatore esplode, il sopravvissuto che lo sta riparando urlerà e subirà l'effetto <b>Immobilizzato</b> per <span class=\"Highlight2\">{1} secondi</span>.</li><br><i>Eruzione</i> ha un tempo di ricarica di <span class=\"Highlight3\">{2} secondi.</span><br><br><span class= \"FlavorText\">\"Sa anche usare le armi?!\" - Jill Valentine",
         "name": "Eruzione",
         "id": 84,
         "index": "ERUPTION",
