@@ -191,7 +191,7 @@
     },
     {
         "description": "Das Kratin-Symbol, das für schnelles Passieren steht, wurde mit lehmigen Fingern auf den Glockenkörper gemalt.<br><li><b>Verringert deutlich</b> die Zeit, die der Geist benötigt, um zu verschwinden.</li>",
-        "name": "„Flimmer“ – Schlamm",
+        "name": "„Flimmer“ – Schlamm",
         "id": 55,
         "index": "BLINK_MUD",
         "owner": "WRAITH",
@@ -200,7 +200,7 @@
     },
     {
         "description": "Das Ohuwe-Onmnea-Symbol, das für einen gewaltigen Sturm steht, wurde mit lehmigen Fingern auf den Glockenkörper gemalt.<li><b>Erhöht moderat</b> die Bewegungsgeschwindigkeit des Geists, während er verhüllt ist.</li>",
-        "name": "„Windsturm“ – Schlamm",
+        "name": "„Windsturm“ – Schlamm",
         "id": 56,
         "index": "WINDSTORM_MUD",
         "owner": "WRAITH",
@@ -227,7 +227,7 @@
     },
     {
         "description": "Das Ohuwe-Onmnea-Symbol, das für einen gewaltigen Sturm steht, wurde mit weißer Tinte mit Fingern auf den Glockenkörper gemalt.<li><b>Erhöht deutlich</b> die Bewegungsgeschwindigkeit des Geists, während er verhüllt ist.</li>",
-        "name": "„Windsturm“ – Weiß",
+        "name": "„Windsturm“ – Weiß",
         "id": 59,
         "index": "WINDSTORM_WHITE",
         "owner": "WRAITH",
@@ -245,7 +245,7 @@
     },
     {
         "description": "Das Yiwarick-Symbol, das für dunkle Synergie steht, wurde mit weißer Tinte mit Fingern auf den Glockenkörper gezeichnet.<br><li><b>Verkürzt deutlich</b> die Zeit, die in verhülltem Zustand benötigt wird, um durch Fenster zu springen, Schließschränke zu öffnen, Paletten und zerstörbare Objekte zu zerstören oder Generatoren zu beschädigen.</li>",
-        "name": "„Schattentanz“ – Weiß",
+        "name": "„Schattentanz“ – Weiß",
         "id": 61,
         "index": "SHADOW_DANCE_WHITE",
         "owner": "WRAITH",
@@ -254,7 +254,7 @@
     },
     {
         "description": "Das Kratin-Symbol, das für schnelles Passieren steht, wurde mit weißer Tinte mit Fingern auf den Glockenkörper gemalt.<br><li><b>Verringert enorm</b> die Zeit, die der Geist benötigt, um zu verschwinden.</li>",
-        "name": "„Flimmer“ – Weiß",
+        "name": "„Flimmer“ – Weiß",
         "id": 62,
         "index": "BLINK_WHITE",
         "owner": "WRAITH",
@@ -272,7 +272,7 @@
     },
     {
         "description": "Das Ohuwe-Onmnea-Symbol, das für einen gewaltigen Sturm steht, wurde mit Blut auf den Glockenkörper gestempelt.<br><li><b>Erhöht enorm</b> die Bewegungsgeschwindigkeit des Geistes, während er verhüllt ist.</li>",
-        "name": "„Windsturm“ – Blut",
+        "name": "„Windsturm“ – Blut",
         "id": 64,
         "index": "WINDSTORM_BLOOD",
         "owner": "WRAITH",
@@ -290,7 +290,7 @@
     },
     {
         "description": "Das Yiwarick-Symbol, das für dunkle Synergie steht, wurde mit Blut auf den Glockenkörper gestempelt.<br><li><b>Verkürzt enorm</b> die Zeit, die in verhülltem Zustand benötigt wird, um durch Fenster zu springen, Schließschränke zu öffnen, Paletten und zerstörbare Objekte zu zerstören oder Generatoren zu beschädigen.</li>",
-        "name": "„Schattentanz“ – Blut",
+        "name": "„Schattentanz“ – Blut",
         "id": 66,
         "index": "SHADOW_DANCE_BLOOD",
         "owner": "WRAITH",
@@ -299,7 +299,7 @@
     },
     {
         "description": "Das Kra-Frabai-Symbol, das für den uns überwachenden Entitus steht, wurde mit Blut auf die Glockenkrone gestempelt.<br><li>Entfesselt das versteckte Potenzial der Aurawahrnehmungsfähigkeit. Im verhüllten Zustand werden dir die Auren der Überlebenden im Umkreis von <b>12 Metern</b> angezeigt.</li>",
-        "name": "„Allsehend“ – Blut",
+        "name": "„Allsehend“ – Blut",
         "id": 67,
         "index": "ALL_SEEING_BLOOD",
         "owner": "WRAITH",
@@ -317,7 +317,7 @@
     },
     {
         "description": "Das Kra-Frabai-Symbol, das für den uns überwachenden Entitus steht, glüht ominös auf der Glockenkrone.<br><li>Entfesselt unglaubliches Potenzial der Aurawahrnehmungsfähigkeit. Im verhüllten Zustand kann der <b>Reparaturfortschritt von Generatoren</b> an der <b>Intensität ihrer Auren</b></li> abgelesen werden.",
-        "name": "„Allsehend“ – Gespenst",
+        "name": "„Allsehend“ – Gespenst",
         "id": 69,
         "index": "ALL_SEEING_SPIRIT",
         "owner": "WRAITH",
@@ -1071,7 +1071,7 @@
     },
     {
         "description": "Ein konventionelles EKT-Verfahren. Es ist Teil des täglichen Ablaufs eines Patienten in Lérys Gedenkinstitut. Kann beim Patienten leichte Verwirrung hervorrufen.<br><li><b>Verkürzt leicht</b> die Abklingzeit von <b>statisches Feld</b>.</li><br>Überlebende mit dem Statuseffekt <b>Wahnsinn</b> leiden unter dem <i>Symptom der Ordnung</i>.<li>Zerstörte Paletten können durch <i>Trugbilder von Paletten</i> ersetzt werden, die bestehen bleiben, bis man sich ihnen nähert.</li><li>Ein neues <i>Trugbild einer Palette</i> wird alle <b>20 Sekunden</b> an der Position einer willkürlich ausgewählten zerstörten Palette erzeugt.</li><li><b>Der Doktor</b> sieht die Auren der <i>Paletten-Trugbilder</i>.</li>",
-        "name": "„Ordnung“ – Klasse I",
+        "name": "„Ordnung“ – Klasse I",
         "id": 302,
         "index": "ORDER_CLASS_I",
         "owner": "DOCTOR",
@@ -1080,7 +1080,7 @@
     },
     {
         "description": "Ein riskantes EKT-Verfahren, basierend auf einer tiefen Wellenlänge, die diverse geistige Beschwerden lindert. Da Carters Funke als Quelle genutzt wird, kann die Prozedur beim Patienten milde Angstgefühle hervorrufen.<br><li><b>Vergrößert leicht</b> deinen Terrorradius, während <b>statisches Feld</b> bereit ist.</li><li><b>Verkleinert leicht</b> deinen Terrorradius, während <b>statisches Feld</b> sich in der Abklingzeit befindet.</li><br>Überlebende mit dem Statuseffekt <b>Wahnsinn</b> leiden am <i>Symptom der Ruhe</i>.<li><b>Wahnsinn II</b>: Bewirkt <b>zeitweise</b>, dass Überlebende in der Ferne eine <i>Illusion des Terrorradius</i> hören.</li><li><b>Wahnsinn III</b>: Bewirkt <b>dauerhaft</b>, dass Überlebende in der Ferne eine <i>Illusion des Terrorradius</i> hören.</li>",
-        "name": "„Ruhe“ – Klasse I",
+        "name": "„Ruhe“ – Klasse I",
         "id": 303,
         "index": "CALM_CLASS_I",
         "owner": "DOCTOR",
@@ -1116,7 +1116,7 @@
     },
     {
         "description": "Ein im Nebel entwickeltes, experimentelles EKT-Verfahren. Verwendet eine starke Wellenlänge, die das Bewusstsein des Patienten mit dem des Doktors verbindet. Diese Prozedur ist bekannt dafür, milde Halluzinationen beim Patienten hervorzurufen.<br><li>Auren von Überlebenden werden <b>1 Sekunde</b> lang angezeigt, wenn ihre <b>Wahnsinnsstufe</b> zunimmt.</li><br>Überlebende mit dem Statuseffekt <b>Wahnsinn</b> leiden am <i>Symptom des Zwangs</i>.</li><li><b>Erhöht moderat</b> die Dauer der Erscheinung von <i>Trugbildern des Doktors</i>.</li><li><b>Der Doktor</b> sieht die Auren der <i>Trugbilder des Doktors</i>.</li>",
-        "name": "„Zwang“ – Klasse II",
+        "name": "„Zwang“ – Klasse II",
         "id": 307,
         "index": "RESTRAINT_CLASS_II",
         "owner": "DOCTOR",
@@ -1125,7 +1125,7 @@
     },
     {
         "description": "Ein EKT-Verfahren mit sehr starker Reizwirkung. Es ist Teil des täglichen Ablaufs eines Patienten in Lérys Gedenkinstitut. Kann beim Patienten moderate Verwirrung hervorrufen.<br><li><b>Verkürzt moderat</b> die Abklingzeit von <b>statisches Feld</b>.</li><br>Überlebende mit dem Statuseffekt <b>Wahnsinn</b> leiden unter dem <i>Symptom der Ordnung</i>.<li>Zerstörte Paletten können durch <i>Trugbilder von Paletten</i> ersetzt werden, die bestehen bleiben, bis man sich ihnen nähert.</li><li>Ein neues <i>Trugbild einer Palette</i> wird alle <b>20 Sekunden</b> an der Position einer willkürlich ausgewählten zerstörten Palette erzeugt.</li><li><b>Der Doktor</b> sieht die Auren der <i>Paletten-Trugbilder</i>.</li><span class=\"FlavorText\">„Nebenwirkungen sind sehr selten.“ – Lérys Gedenkinstitut</span>",
-        "name": "„Ordnung“ – Klasse II",
+        "name": "„Ordnung“ – Klasse II",
         "id": 308,
         "index": "ORDER_CLASS_II",
         "owner": "DOCTOR",
@@ -1134,7 +1134,7 @@
     },
     {
         "description": "EKT-Verfahren des Erweckungsprojekts zur disziplinarischen Maßregelung, das eine fixe Menge an hoher Spannung einsetzt. Kann beim Patienten moderate Paranoia auslösen.<br><li><b>Verkürzt leicht</b> die Zündungsverzögerung von <b>Schocktherapie</b>.</li><br>Überlebende mit dem Statuseffekt <b>Wahnsinn</b> leiden am <i>Symptom der Disziplin</i>.<li><b>Wahnsinn II</b>: Während der Jagd sehen Überlebende das <i>Trugbild eines roten Flecks</i> und den <i>Terrorradius</i>, als wäre <b>der Doktor</b> direkt hinter ihnen. Dieser Effekt hält noch <b>6 Sekunden</b> lang an, nachdem die Jagd zu Ende ist.</li><li><b>Wahnsinn III</b>: Das <i>Trugbild des roten Flecks</i> und der <i>Terrorradius</i> sind dauerhaft aktiv.</li><li><b>Der Doktor</b> sieht das <i>Trugbild des roten Flecks</i>.</li><span class=\"FlavorText\">„Unsere Patienten genießen die sorgfältigsten Umerziehungsmethoden.“ – Lérys Gedenkinstitut</span>",
-        "name": "„Disziplin“ – Klasse II",
+        "name": "„Disziplin“ – Klasse II",
         "id": 309,
         "index": "DISCIPLINE_CLASS_II",
         "owner": "DOCTOR",
@@ -1143,7 +1143,7 @@
     },
     {
         "description": "Ein riskantes EKT-Verfahren, basierend auf einer tiefen Wellenlänge, die diverse geistige Beschwerden lindert. Da Carters Funke als Quelle genutzt wird, kann die Prozedur beim Patienten moderate Angstgefühle hervorrufen.<br><li><b>Vergrößert moderat</b> deinen Terrorradius, während <b>statisches Feld</b> bereit ist.</li><li><b>Verkleinert moderat</b> deinen Terrorradius, während <b>statisches Feld</b> sich in der Abklingzeit befindet.</li><br>Überlebende mit dem Statuseffekt <b>Wahnsinn</b> leiden am <i>Symptom der Ruhe</i>.<li><b>Wahnsinn II</b>: Bewirkt <b>zeitweise</b>, dass Überlebende in der Ferne eine <i>Illusion des Terrorradius</i> hören.</li><li><b>Wahnsinn III</b>: Bewirkt <b>dauerhaft</b>, dass Überlebende in der Ferne eine <i>Illusion des Terrorradius</i> hören.</li><span class=\"FlavorText\">„Die Elektrokrampftherapie ist eine der sichersten medizinischen Methoden.“ – Lérys Gedenkinstitut</span>",
-        "name": "„Ruhe“ – Klasse II",
+        "name": "„Ruhe“ – Klasse II",
         "id": 310,
         "index": "CALM_CLASS_II",
         "owner": "DOCTOR",
@@ -1161,7 +1161,7 @@
     },
     {
         "description": "Ein im Nebel entwickeltes, experimentelles EKT-Verfahren. Verwendet eine starke Reizwellenlänge, um das Bewusstsein des Patienten mit dem des Doktors zu verbinden. Diese Prozedur ist bekannt dafür, äußerst starke Halluzinationen beim Patienten hervorzurufen.<br><li>Auren von Überlebenden werden <b>2 Sekunden</b> lang angezeigt, wenn ihre <b>Wahnsinnsstufe</b> zunimmt.</li><br>Überlebende mit dem Statuseffekt <b>Wahnsinn</b> leiden am <i>Symptom des Zwangs</i>.<li><b>Erhöht moderat</b> die Dauer der Erscheinung von <i>Trugbildern des Doktors</i>.</li><li><b>Der Doktor</b> sieht die Auren der <i>Trugbilder des Doktors</i>.</li>",
-        "name": "„Zwang“ – Klasse III",
+        "name": "„Zwang“ – Klasse III",
         "id": 312,
         "index": "RESTRAINT_CLASS_III",
         "owner": "DOCTOR",
@@ -1170,7 +1170,7 @@
     },
     {
         "description": "EKT-Verfahren des Erweckungsprojekts zur disziplinarischen Maßregelung, das eine fixe Menge an sehr hoher Spannung einsetzt. Kann beim Patienten schwere Paranoia auslösen.<br><li><b>Verkürzt moderat</b> die Zündungsverzögerung von <b>Schocktherapie</b>.</li><br>Überlebende mit dem Statuseffekt <b>Wahnsinn</b> leiden am <i>Symptom der Disziplin</i>.<li><b>Wahnsinn II</b>: Während der Jagd sehen Überlebende das <i>Trugbild eines roten Flecks</i> und den <i>Terrorradius</i>, als wäre <b>der Doktor</b> direkt hinter ihnen. Dieser Effekt hält noch <b>6 Sekunden</b> lang an, nachdem die Jagd zu Ende ist.</li><li><b>Wahnsinn III</b>: Das <i>Trugbild des roten Flecks</i> und der <i>Terrorradius</i> sind dauerhaft aktiv.</li><li><b>Der Doktor</b> sieht das <i>Trugbild des roten Flecks</i>.</li><span class=\"FlavorText\">„Respekt gegenüber unseren Patienten zählt zu unseren Grundprinzipien.“ – Lérys Gedenkinstitut</span>",
-        "name": "„Disziplin“ – Klasse III",
+        "name": "„Disziplin“ – Klasse III",
         "id": 313,
         "index": "DISCIPLINE_CLASS_III",
         "owner": "DOCTOR",
@@ -1179,7 +1179,7 @@
     },
     {
         "description": "Ein im Nebel entwickeltes, experimentelles EKT-Verfahren mit hastig geschriebenen Anmerkungen. Verwendet eine unerträgliche Reizwellenlänge, um das Bewusstsein des Patienten mit dem des Doktors zu verbinden. Diese Prozedur ist bekannt dafür, starke Halluzinationen beim Patienten hervorzurufen.<br><li>Auren von Überlebenden werden <b>3 Sekunden</b> lang angezeigt, wenn ihre <b>Wahnsinnsstufe</b> zunimmt.</li><br>Überlebende mit dem Statuseffekt <b>Wahnsinn</b> leiden am <i>Symptom des Zwangs</i>.<br><li><b>Erhöht moderat</b> die Dauer der Erscheinung von <i>Trugbildern des Doktors</i>.</li><li><b>Der Doktor</b> sieht die Auren der <i>Trugbilder des Doktors</i>.</li><span class=\"FlavorText\">„ICH KANN IHRE <u>ABSCHEULICHEN</u> KRANKHEITEN SEHEN.“ – Notizen eines unbekannten Verfassers</span>",
-        "name": "„Zwang“ – Carters Notizen",
+        "name": "„Zwang“ – Carters Notizen",
         "id": 314,
         "index": "RESTRAINT_CARTERS_NOTES",
         "owner": "DOCTOR",
@@ -1188,7 +1188,7 @@
     },
     {
         "description": "Eine experimentelle Version des EKT-Verfahrens mit Kommentaren von Doktor Herman Carter höchstpersönlich. Der lange, fortdauernde Stimulus versetzt den Patienten in den Zustand schwerer Verwirrung.<br><li><b>Verkürzt deutlich</b> die Abklingzeit von <b>statisches Feld</b>.</li><br>Überlebende mit dem Statuseffekt <b>Wahnsinn</b> leiden unter dem <i>Symptom der Ordnung</i>.<li>Zerstörte Paletten können durch <i>Trugbilder von Paletten</i> ersetzt werden, die bestehen bleiben, bis man sich ihnen nähert.</li><li>Ein neues <i>Trugbild einer Palette</i> wird alle <b>20 Sekunden</b> an der Position einer willkürlich ausgewählten zerstörten Palette erzeugt.</li><li><b>Der Doktor</b> sieht die Auren der <i>Paletten-Trugbilder</i>.</li><span class=\"FlavorText\">„Der Stimulus muss auf einer <u>Krämpfe verursachenden</u> Stufe gehalten werden.“ – H. Carter</span>",
-        "name": "„Ordnung“ – Carters Notizen",
+        "name": "„Ordnung“ – Carters Notizen",
         "id": 315,
         "index": "ORDER_CARTERS_NOTES",
         "owner": "DOCTOR",
@@ -1197,7 +1197,7 @@
     },
     {
         "description": "EKT-Verfahren des Erweckungsprojekts zur disziplinarischen Maßregelung mit Kommentaren von Doktor Herman Carter höchstpersönlich. Die unerträglich hohe Spannung versetzt den Patienten in einen Zustand schwerer Paranoia.<br><li><b>Verkürzt deutlich</b> die Zündungsverzögerung von <b>Schocktherapie</b>.</li><br>Überlebende mit dem Statuseffekt <b>Wahnsinn</b> leiden am <i>Symptom der Disziplin</i>.<li><b>Wahnsinn II</b>: Während der Jagd sehen Überlebende das <i>Trugbild eines roten Flecks</i> und den <i>Terrorradius</i>, als wäre <b>der Doktor</b> direkt hinter ihnen. Dieser Effekt hält noch <b>6 Sekunden</b> lang an, nachdem die Jagd zu Ende ist.</li><li><b>Wahnsinn III</b>: Das <i>Trugbild des roten Flecks</i> und der <i>Terrorradius</i> sind dauerhaft aktiv.</li><li><b>Der Doktor</b> sieht das <i>Trugbild des roten Flecks</i>.</li><span class=\"FlavorText\">„Um zu verhindern, dass unsere beharrlicheren Subjekte einen Rückfall erleiden, ist der Einsatz maximaler Stufen für Disziplinarstrafen genehmigt.“ – H. Carter</span>",
-        "name": "„Disziplin“ – Carters Notizen",
+        "name": "„Disziplin“ – Carters Notizen",
         "id": 317,
         "index": "DISCIPLINE_CARTERS_NOTES",
         "owner": "DOCTOR",
@@ -1206,7 +1206,7 @@
     },
     {
         "description": "Eine experimentelle Version des EKT-Verfahrens mit Kommentaren von Doktor Herman Carter höchstpersönlich. Nutzt eine große Wellenlänge, die diverse geistige Beschwerden lindert. Da Carters Funke als Quelle genutzt wird, kann die Prozedur beim Patienten unbeherrschbare Angstgefühle hervorrufen.<br><li><b>Vergrößert deutlich</b> deinen Terrorradius, während <b>statisches Feld</b> bereit ist.</li><li><b>Verkleinert deutlich</b> deinen Terrorradius, während <b>statisches Feld</b> sich in der Abklingzeit befindet.</li><br>Überlebende mit dem Statuseffekt <b>Wahnsinn</b> leiden am <i>Symptom der Ruhe</i>.<li><b>Wahnsinn II</b>: Bewirkt <b>zeitweise</b>, dass Überlebende in der Ferne eine <i>Illusion des Terrorradius</i> hören.</li><li><b>Wahnsinn III</b>: Bewirkt <b>dauerhaft</b>, dass Überlebende in der Ferne eine <i>Illusion des Terrorradius</i> hören.</li><span class=\"FlavorText\">„Schwerere Anfälle führen zu Katatonie. Aber wenigstens habe ich währenddessen meine <u>Ruhe</u>.“ – H. Carter</span>",
-        "name": "„Ruhe“ – Carters Notizen",
+        "name": "„Ruhe“ – Carters Notizen",
         "id": 318,
         "index": "CALM_CARTERS_NOTES",
         "owner": "DOCTOR",
@@ -4127,7 +4127,7 @@
     {
         "description": "Manschettenknöpfe, die in die Augen eines obsessiven Fans gedrückt wurden, der den Fehler gemacht hatte, Ji-Woon zu verfolgen. Wenn man das Blut abwischt, kann man so viel in den glitzernden Stücken erkennen.<br><li>Wenn die Schnittwunden-Anzeige eines Überlebenden einen Klingentreffer vom Maximum entfernt ist, wird seine Aura für <b>6 Sekunden</b> angezeigt.</li>",
         "name": "Diamantmanschettenknöpfe",
-        "flavor": "„Schhh ... Du musst dein Blut nicht mehr sehen.“ – Ji-Woon Hak",
+        "flavor": "„Schhh ... Du musst dein Blut nicht mehr sehen.“ – Ji-Woon Hak",
         "id": 1116,
         "index": "DIAMOND_CUFFLINKS",
         "owner": "TRICKSTER",

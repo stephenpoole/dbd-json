@@ -342,7 +342,7 @@
         "image": "iconFavors_wardSacrificial"
     },
     {
-        "description": "<b>Tremendously increases</b> the chance to be sent to Midwich Elementary School when burnt.",
+        "description": "<b>Tremendously increases</b> the chance to be sent to Midwich Elementary School when burnt.",
         "name": "Mary’s Letter",
         "flavor": "\"In my restless dreams, I see that town.\"",
         "id": 40,
@@ -360,7 +360,7 @@
         "image": "iconFavors_jigsawPiece"
     },
     {
-        "description": "<b>Tremendously increases</b> the chance to be sent to Hawkins National Laboratory when burnt.",
+        "description": "<b>Tremendously increases</b> the chance to be sent to Hawkins National Laboratory when burnt.",
         "name": "Hawkins National Laboratory I.D.",
         "flavor": "\"A soggy, bloodstained identification card with a serial number.\"",
         "id": 42,
@@ -369,7 +369,7 @@
         "image": "iconFavors_hawkinsNationalLaboratoryID"
     },
     {
-        "description": "<b>Tremendously increases</b> the chance to be sent to Grave of Glenvale when burnt.",
+        "description": "<b>Tremendously increases</b> the chance to be sent to Grave of Glenvale when burnt.",
         "name": "Dusty Noose",
         "flavor": "“Ask anyone trying to survive on this dust-choked land and they’ll tell you what a noose really is—a damn mercy.”",
         "id": 43,

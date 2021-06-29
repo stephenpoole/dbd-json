@@ -353,7 +353,7 @@
     {
         "description": "Se bruciato, <b>aumenta straordinariamente</b> le probabilità di essere inviati al Mattatoio di Gideon.",
         "name": "Frammento dell'Enigmista",
-        "flavor": "\"﻿Congratulazioni. Sei ancora in vita. Tante persone sono così ingrate di essere vive. Ma tu no. Non più.﻿\"",
+        "flavor": "\" Congratulazioni. Sei ancora in vita. Tante persone sono così ingrate di essere vive. Ma tu no. Non più.﻿\"",
         "id": 41,
         "index": "JIGSAW_PIECE",
         "rarity": 2,

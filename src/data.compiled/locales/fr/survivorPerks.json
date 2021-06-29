@@ -2,7 +2,7 @@
     {
         "description": "Débloque le potentiel de repérage d’aura d’une personne. Chaque fois qu’un générateur est réparé, l’aura du tueur vous est révélée pendant <span class=\"Highlight1\">{0} secondes</span>.<br>Lorsque le dernier générateur est mis sous tension, l’aura du tueur vous est révélée pendant <span class=\"Highlight2\">{1} secondes</span>.",
         "name": "Sentiment obscur",
-        "flavor": "« Écoutez donc les conseils d’un ancien : allez-y doucement, ne vous précipitez surtout pas et essayez de ne pas trop vous tracasser ! La meilleure façon de le battre, c’est de savoir comment il pense. » - Enregistrements perdus : Murf",
+        "flavor": "« Écoutez donc les conseils d’un ancien : allez-y doucement, ne vous précipitez surtout pas et essayez de ne pas trop vous tracasser ! La meilleure façon de le battre, c’est de savoir comment il pense. » - Enregistrements perdus : Murf",
         "id": 100,
         "index": "DARK_SENSE",
         "rarity": [
@@ -57,7 +57,7 @@
     {
         "description": "Les perspectives d'évasion réussie vous comblent d'espoir et vous donnent des ailes. Dès que le courant électrique des portes de sortie est rétabli, vous recevez un effet de statut <b><i>Rapidité</i></b> de <span class=\"Highlight1\">{0} %</span> pendant <span class=\"Highlight3\">{1} secondes</span>.<br>",
         "name": "Espoir",
-        "flavor": "« Accrochez-vous, les tarés ! On décolle d'ici ! » - Enregistrements perdus : Nikki",
+        "flavor": "« Accrochez-vous, les tarés ! On décolle d'ici ! » - Enregistrements perdus : Nikki",
         "id": 102,
         "index": "HOPE",
         "rarity": [
@@ -85,7 +85,7 @@
     {
         "description": "Débloque le potentiel de repérage d’aura. Quand vous êtes sur le crochet, toutes les auras de survivants sont révélées aux autres survivants. Si le tueur se trouve dans un rayon de <span class=\"Highlight1\">{0} mètre</span>, son aura est révélée à tous les survivants.<br><br>Quand un survivant autre que vous est suspendu au crochet, vous voyez l’aura de tous les autres survivants. Si le tueur se trouve dans un rayon de <span class=\"Highlight1\">{0} mètre(s)</span> du survivant suspendu, vous voyez l’aura du tueur.",
         "name": "Parenté",
-        "flavor": "« Soyez solidaires. On est tous dans le même bateau. » - Enregistrements perdus : Sujan",
+        "flavor": "« Soyez solidaires. On est tous dans le même bateau. » - Enregistrements perdus : Sujan",
         "id": 103,
         "index": "KINDRED",
         "rarity": [
@@ -113,7 +113,7 @@
     {
         "description": "Votre foulée souple et légère rend vos traces difficiles à pister. Les empreintes restent visibles <span class=\"Highlight1\">{0} secondes</span> de moins que la normale.",
         "name": "Poids plume",
-        "flavor": "« Prends ton temps, il sait où tu étais... Comme je l'ai toujours dit : vis lentement et vis longtemps. » - Enregistrements perdus : Dylan",
+        "flavor": "« Prends ton temps, il sait où tu étais... Comme je l'ai toujours dit : vis lentement et vis longtemps. » - Enregistrements perdus : Dylan",
         "id": 104,
         "index": "LIGHTWEIGHT",
         "rarity": [
@@ -138,7 +138,7 @@
     {
         "description": "Il est impensable d’abandonner quelqu’un. Quand l’une des portes de sortie s’ouvre, vous bénéficiez des effets suivants :<br><li><span class=\"Highlight1\">{0} %</span> de points de sang supplémentaires pour avoir soigné ou décroché d’autres survivants.</li><li>Bonus de <span class=\"Highlight2\">{1} %</span> à la vitesse d’action pour soigner ou décrocher d’autres survivants.</li><li>Vous voyez l’aura de tous les autres survivants.</li>",
         "name": "On n'abandonne personne",
-        "flavor": "« ... ouais, sans rire. Mais je crois qu’on peut se montrer plus malins que lui et le coiffer au poteau si on bosse ensemble. Soyez imprévisibles et évitez d’être égoïstes ! » - Enregistrements perdus : Clyde",
+        "flavor": "« ... ouais, sans rire. Mais je crois qu’on peut se montrer plus malins que lui et le coiffer au poteau si on bosse ensemble. Soyez imprévisibles et évitez d’être égoïstes ! » - Enregistrements perdus : Clyde",
         "id": 105,
         "index": "NO_ONE_LEFT_BEHIND",
         "rarity": [
@@ -166,7 +166,7 @@
     {
         "description": "Débloque le potentiel de repérage d’aura. L’aura des coffres fermés et des objets de l’environnement vous est révélée quand ils se trouvent dans un rayon de <span class=\"Highlight1\">{0} mètres</span>. Augmente <b>considérablement</b> les chances de trouver un article de grande rareté dans les coffres.",
         "name": "Instinct de Pillard",
-        "flavor": "« Les pionniers avaient l’habitude de fouiller ces boîtes pendant des heures. » - Enregistrements perdus : Aizeyu",
+        "flavor": "« Les pionniers avaient l’habitude de fouiller ces boîtes pendant des heures. » - Enregistrements perdus : Aizeyu",
         "id": 106,
         "index": "PLUNDERERS_INSTINCT",
         "rarity": [
@@ -191,7 +191,7 @@
     {
         "description": "Vous avez un indéniable talent pour sentir le danger. Recevez un avertissement sonore quand vous regardez dans la direction du tueur dans un cône de <span class=\"Highlight1\">45 degrés</span> et dans un rayon de <span class=\"Highlight2\">{0} mètres</span>. Prémonition a un temps de recharge de <span class=\"Highlight3\">{1} secondes</span> à chaque activation.",
         "name": "Prémonition",
-        "flavor": "« J’ai un mauvais pressentiment ! »",
+        "flavor": "« J’ai un mauvais pressentiment ! »",
         "id": 107,
         "index": "PREMONITION",
         "rarity": [
@@ -219,7 +219,7 @@
     {
         "description": "Vous êtes proactif dans les situations d'urgence. Alloue <span class=\"Highlight1\">{0} %</span> de vitesse supplémentaire aux réparations, sabotages, soins, décrochages, sauts d'obstacles, purifications, ouvertures des portes de sortie et déverrouillages quand vous êtes blessé.",
         "name": "Résistance",
-        "flavor": "« Restez concentré, même dans les pires moments. »",
+        "flavor": "« Restez concentré, même dans les pires moments. »",
         "id": 108,
         "index": "RESILIENCE",
         "rarity": [
@@ -271,7 +271,7 @@
     {
         "description": "Vous avez un indéniable talent pour sentir le danger. Recevez un avertissement sonore quand vous regardez dans la direction de totems dans un cône de <span class=\"Highlight1\">45 degrés</span> et dans un rayon de <span class=\"Highlight2\">{0} mètres</span>. Petit Gibier a un temps de rechargement de <span class=\"Highlight3\">{1} secondes</span> à chaque activation. Pour chaque totem passif et totem ensorcelé purifié par un joueur, vous gagnez un jeton. Le cône de détection de Petit gibier est réduit de <span class=\"Highlight4\">5 degrés</span> par jeton.",
         "name": "Petit gibier",
-        "flavor": "« Oh non non non. » -Enregistrements perdus : Andy",
+        "flavor": "« Oh non non non. » -Enregistrements perdus : Andy",
         "id": 110,
         "index": "SMALL_GAME",
         "rarity": [
@@ -299,7 +299,7 @@
     {
         "description": "Un frisson surnaturel vous avertit d'un danger imminent. Vous êtes informé quand le tueur regarde directement dans votre direction et qu'il se trouve à moins de <span class=\"Highlight1\">{0} mètre(s)</span> de vous. Tant que Frisson est actif, vous avez <span class=\"Highlight2\">{1} %</span> de chances supplémentaires de générer un test d’habileté avec des zones de succès réduites de <span class=\"Highlight3\">{2} %</span>. Tant que Frisson est actif, vos vitesses de réparation, de sabotage, de soins, de décrochage, de saut d'obstacles, de purification, d'ouverture de porte de sortie et de déverrouillage augmentent de <span class=\"Highlight4\">{3} %</span>.",
         "name": "Frisson",
-        "flavor": "« Il existe une voix qui se passe de mots. Écoute. » - Enregistrements perdus : Sassy",
+        "flavor": "« Il existe une voix qui se passe de mots. Écoute. » - Enregistrements perdus : Sassy",
         "id": 111,
         "index": "SPINE_CHILL",
         "rarity": [
@@ -385,7 +385,7 @@
     {
         "description": "Débloque une capacité de repérage d'auras. L'aura des alliés vous est révélée quand ils se trouvent dans un rayon de <span class=\"Highlight1\">{0} mètres</span>.",
         "name": "Lien",
-        "flavor": "« Nous devons travailler en équipe. Vous devez survivre pour que je puisse moi aussi le faire ! » - Dwight",
+        "flavor": "« Nous devons travailler en équipe. Vous devez survivre pour que je puisse moi aussi le faire ! » - Dwight",
         "id": 114,
         "index": "BOND",
         "rarity": [
@@ -410,7 +410,7 @@
     {
         "description": "Augmente la vitesse de réparation de <span class=\"Highlight1\">{0} %</span> par survivant supplémentaire travaillant sur un générateur dans un rayon de <span class=\"Highlight2\">{1} mètres</span>. Ce bonus s'applique également à tous les autres survivants à portée.<br>Rapporte <span class=\"Highlight3\">{2} %</span> de points de sang supplémentaires lors des actions en coop.<br>Les survivants ne peuvent pas avoir plus d'un effet « Montrez ce que vous savez faire » en même temps.",
         "name": "Montrez ce que vous savez faire",
-        "flavor": "« Montre-moi ce que tu sais faire ! » - Dwight",
+        "flavor": "« Montre-moi ce que tu sais faire ! » - Dwight",
         "id": 115,
         "index": "PROVE_THYSELF",
         "rarity": [
@@ -706,7 +706,7 @@
     {
         "description": "Votre agilité est incomparable.<br><br>Lorsque vous tombez de haut, vos réflexes de chat réduisent la durée des étourdissements consécutifs aux chutes de <span class=\"Highlight1\">{0} %</span> et le volume des grognements en tombant de <span class=\"Highlight1\">100%</span>. Vous courez à <span class=\"Highlight2\">{1} %</span> de votre vitesse normale pendant un maximum de <span class=\"Highlight3\">{2} secondes</span>.<br><br>Provoque l’effet de statut <b>Épuisement</b> pendant <span class=\"Highlight4\">{3} secondes</span>.<br><br>Impossible d’utiliser <i>Atterrissage équilibré</i> sous l’effet de statut <b>Épuisement</b>.<br><br>Vous ne vous rétablissez pas de l’effet de statut <b>Épuisement</b> tant que vous courez.<br>",
         "name": "Atterrissage équilibré",
-        "flavor": "« J’ai sauté d’endroits plus hauts que ça. » - Nea",
+        "flavor": "« J’ai sauté d’endroits plus hauts que ça. » - Nea",
         "id": 126,
         "index": "BALANCED_LANDING",
         "rarity": [
@@ -740,7 +740,7 @@
     {
         "description": "Des années passées à éviter la police vous ont appris pas mal de trucs en matière de furtivité. Votre vitesse de mouvement en position accroupie augmente de <span class=\"Highlight1\">{0} %</span>.",
         "name": "Évasion Urbaine",
-        "flavor": "« La peinture est encore fraîche, mais je suis partie depuis longtemps. » - Nea",
+        "flavor": "« La peinture est encore fraîche, mais je suis partie depuis longtemps. » - Nea",
         "id": 127,
         "index": "URBAN_EVASION",
         "rarity": [
@@ -765,7 +765,7 @@
     {
         "description": "De longues nuits solitaires vous ont appris à faire beaucoup avec peu de moyens. Réduit la consommation de charge d'un objet de <span class=\"Highlight1\">{0} %</span> pour vous et vos alliés se trouvant dans un rayon de <span class=\"Highlight2\">{1} mètres</span>. Une fois hors de portée, cette effet dure pendant <span class=\"Highlight4\">{2} secondes.</span>",
         "name": "Ad Augusta Per Angusta",
-        "flavor": "« Tu t'y prends mal ! Laisse-moi te montrer comment ça marche. » -Nea",
+        "flavor": "« Tu t'y prends mal ! Laisse-moi te montrer comment ça marche. » -Nea",
         "id": 128,
         "index": "STREETWISE",
         "rarity": [
@@ -796,7 +796,7 @@
     {
         "description": "Débloque le potentiel de repérage d’aura d’une personne.<br>Si vous êtes le dernier survivant lors de la partie, vous pouvez voir l’aura de la trappe jusqu’à <span class=\"Highlight1\">{0}</span> mètres.",
         "name": "Laissé pour mort",
-        "flavor": "« Ça suffit les âneries. Je vais faire ça tout seul ! » -Bill",
+        "flavor": "« Ça suffit les âneries. Je vais faire ça tout seul ! » -Bill",
         "id": 129,
         "index": "LEFT_BEHIND",
         "rarity": [
@@ -821,7 +821,7 @@
     {
         "description": "Une énergie insoupçonnée vous remplit en sauvant un allié d’un crochet.<br>Les survivants décrochés bénéficient de l’effet de statut <b>Endurance</b> pendant <span class=\"Highlight1\">{0} secondes</span>.<br>",
         "name": "Sur la réserve",
-        "flavor": "« Ça fait un mal de chien, mais ça vous tuera pas. Sus à l’ennemi, soldat. Il est temps de se bouger ! » - Bill Overbeck",
+        "flavor": "« Ça fait un mal de chien, mais ça vous tuera pas. Sus à l’ennemi, soldat. Il est temps de se bouger ! » - Bill Overbeck",
         "id": 130,
         "index": "BORROWED_TIME",
         "rarity": [
@@ -846,7 +846,7 @@
     {
         "description": "Votre expérience du combat vous a appris quelques précieuses leçons sur comment survivre. <br><b>Une fois par partie</b>, vous avez la capacité de vous rétablir entièrement de l'état critique. Augmente la vitesse de récupération depuis l'état critique de <span class=\"Highlight1\">{0} %</span>.",
         "name": "Indéfectible",
-        "flavor": "« Bon sang ! Je suis vraiment FURIBARD ! » -Bill",
+        "flavor": "« Bon sang ! Je suis vraiment FURIBARD ! » -Bill",
         "id": 131,
         "index": "UNBREAKABLE",
         "rarity": [
@@ -871,7 +871,7 @@
     {
         "description": "Le peu d'amis que vous avez méritent la meilleure protection possible.<br>Lorsque vous soignez un autre survivant en état critique, votre vitesse de soins est augmentée de <span class=\"Highlight1\">100 %.</span><br>Gagnez un jeton en effectuant l'une des actions suivantes :<li>Effectuer un décrochage sécuritaire</li><li>Encaisser un coup pour protéger un survivant</li><li>Secourir un survivant en étourdissant le tueur avec une palette</li><li>Secourir un survivant en aveuglant tueur avec une lampe de poche</li>Gagnez <span class=\"Highlight2\">25 %</span> de bonus cumulable par jeton sur tous vos gains de points de sang jusqu'à un maximum de <span class=\"Highlight3\">{1} %</span>. Vous ne recevrez les points de sang qu'après la partie.",
         "name": "Nous vivrons éternellement",
-        "flavor": "« Allez, qu'on en finisse ! J'en ai rien à carrer, moi. » - David King",
+        "flavor": "« Allez, qu'on en finisse ! J'en ai rien à carrer, moi. » - David King",
         "id": 132,
         "index": "WERE_GONNA_LIVE_FOREVER",
         "rarity": [
@@ -896,7 +896,7 @@
     {
         "description": "Compétence active.<br>Vous êtes plus solide que vous ne le pensez. Lorsque vous êtes blessé, vous puisez dans vos réserves d’adrénaline pour vous élancer vers l’avant et éviter les dégâts.<br><li>Appuyez sur le bouton de <i>Capacité active</i> en courant pour sprinter vers l’avant.</li><li>Durant le sprint, vous évitez les dégâts.</li><li>Inflige l'effet de statut <i>Épuisement</i> pendant <span class=\"Highlight4\">{0} secondes</span>.<br>Vous ne récupérez pas de l’effet de statut <i>Épuisement</i> en courant.</li>",
         "name": "Drôlement dur",
-        "flavor": "« On marchait dans la ruelle une nuit quand une bouteille de bière a volé, pis une autre et pis une autre encore. Je m’suis dit, « On va s’en payer une tranche les mecs, allons-y ! » Ç’a été une belle baston, juré, craché ! » - David King",
+        "flavor": "« On marchait dans la ruelle une nuit quand une bouteille de bière a volé, pis une autre et pis une autre encore. Je m’suis dit, « On va s’en payer une tranche les mecs, allons-y ! » Ç’a été une belle baston, juré, craché ! » - David King",
         "id": 133,
         "index": "DEAD_HARD",
         "rarity": [
@@ -921,7 +921,7 @@
     {
         "description": "Vous êtes affecté par l’effet de statut <span class=\"Highlight1\">Brisé</span> pendant toute la durée de la partie.<br>Votre sang épais coagule presque instantanément. <li>Vous ne laissez pas de flaques de sang.</li><li>Les gémissements de douleur dus aux blessures sont toujours réduits de <span class=\"Highlight2\">{0} %</span>.</li><li>Vous accorde la possibilité de récupérer pleinement d’un état critique.</li>",
         "name": "Pas envie",
-        "flavor": "« J’ai perdu la boule. Je lui en ai juste assené un. Ils sont venus et ils m’ont banni. Après j’ai été au pub, j’ai bu quelques bières et j’ai tourné la page. Je n’avais de toute façon pas envie de me prendre la tête avec tout ça, tu vois ce que je veux dire ? Ça me gonflait. » - David King",
+        "flavor": "« J’ai perdu la boule. Je lui en ai juste assené un. Ils sont venus et ils m’ont banni. Après j’ai été au pub, j’ai bu quelques bières et j’ai tourné la page. Je n’avais de toute façon pas envie de me prendre la tête avec tout ça, tu vois ce que je veux dire ? Ça me gonflait. » - David King",
         "id": 134,
         "index": "NO_MITHER",
         "rarity": [
@@ -946,7 +946,7 @@
     {
         "description": "Tandis que vos compagnons succombent au tueur les uns après les autres, vous vous isolez de plus en plus, ce qui vous dissimule et perturbe les <b>capacités de repérage d’aura</b> du tueur.<br>Chaque fois qu’un survivant est tué ou sacrifié, vous gagnez un jeton. Pour chaque jeton, votre aura est invisible pour le tueur dans un rayon maximal de <span class=\"Highlight1\">{0} mètres</span> par survivant <b>tué</b> ou <b>sacrifié</b>.<br><li><i>Augmente vos chances d’être la cible de l’obsession du tueur.</i></li><li><i>Le tueur ne peut être <b>obsédé</b> que par un seul survivant à la fois.</i></li>",
         "name": "Dernier survivant",
-        "flavor": "« C’était le croquemitaine. » - Laurie Strode",
+        "flavor": "« C’était le croquemitaine. » - Laurie Strode",
         "id": 135,
         "index": "SOLE_SURVIVOR",
         "rarity": [
@@ -971,7 +971,7 @@
     {
         "description": "Un lien surnaturel vous unit au tueur.<br><br>Quand votre aura lui est révélée, vous voyez la sienne en retour et vous gagnez un bonus de <span class=\"Highlight1\">{0} %</span> à la vitesse de guérison, de réparation et de purification.<br>Si vous êtes l’obsession, votre aura est révélée au tueur pendant <span class=\"Highlight2\">3 secondes</span> toutes les <span class=\"Highlight3\">30 secondes</span>.<br>Augmente vos chances de devenir l’obsession.<br>",
         "name": "Objet d'obsession",
-        "flavor": "« Il m’observait ! » - Laurie Strode",
+        "flavor": "« Il m’observait ! » - Laurie Strode",
         "id": 136,
         "index": "OBJECT_OF_OBSESSION",
         "rarity": [
@@ -1020,7 +1020,7 @@
     {
         "description": "Renforce vos capacités de repérage d’auras et celles de votre équipe.<br><li>Augmente la portée du repérage d’auras de <span class=\"Highlight1\">{0} mètres</span>.</li><li>Les survivants peuvent uniquement être affectés par un effet <i>Le cœur sur la main</i> à la fois.</li>",
         "name": "Le cœur sur la main",
-        "flavor": "« C’est en étant attentif que j’ai pu rester en vie toutes ces années. Enfin, ça et aussi grâce à mon physique de tombeur. » - Ace",
+        "flavor": "« C’est en étant attentif que j’ai pu rester en vie toutes ces années. Enfin, ça et aussi grâce à mon physique de tombeur. » - Ace",
         "id": 138,
         "index": "OPEN_HANDED",
         "rarity": [
@@ -1045,7 +1045,7 @@
     {
         "description": "Tout se terminera bien, vous le sentez. Votre confiance en vous ravive l'espoir de ceux qui se trouvent autour de vous. Confère <span class=\"Highlight1\">{0} %</span> de bonus de chance à tous les survivants, pour chaque survivant encore en vie.",
         "name": "Augmenter la mise",
-        "flavor": "« Quoi vous dire ? Je suis juste un type incroyablement chanceux... Un peu de ma bonne fortune devrait déteindre sur vous. » - Ace",
+        "flavor": "« Quoi vous dire ? Je suis juste un type incroyablement chanceux... Un peu de ma bonne fortune devrait déteindre sur vous. » - Ace",
         "id": 139,
         "index": "UP_THE_ANTE",
         "rarity": [
@@ -1070,7 +1070,7 @@
     {
         "description": "Dame Fortune semble vous choyer en permanence.<br>Quand vous trouvez un objet dans un coffre, il y a <span class=\"Highlight1\">{0} %</span> de chances qu’un accessoire <span class=\"Highlight2\">très rare</span> ou inférieur y soit attaché.<br><span class=\"Highlight3\">{1} %</span> de chances de trouver un accessoire <span class=\"Highlight4\">peu commun</span> ou inférieur.<br>En vous échappant, conservez tous les accessoires de votre objet.",
         "name": "Un Ace dans la manche",
-        "flavor": "« Tout ce qui brille n’est pas or. Mais l’or ne vaut pas un kopeck dans cet enfer, alors ceci pourrait s’avérer utile. » - Ace",
+        "flavor": "« Tout ce qui brille n’est pas or. Mais l’or ne vaut pas un kopeck dans cet enfer, alors ceci pourrait s’avérer utile. » - Ace",
         "id": 140,
         "index": "ACE_IN_THE_HOLE",
         "rarity": [
@@ -1098,7 +1098,7 @@
     {
         "description": "Vous êtes capable de manier des machines avec la plus grande précision et attention.<br>Le bruit occasionné par vos réparations et la distance à laquelle ils peuvent être perçus sont réduits de <span class=\"Highlight2\">{0} mètres</span>. Si le test d'habileté pour la réparation échoue, il y a <span class=\"Highlight1\">{1} %</span> de chances que l'explosion du générateur soit évitée.",
         "name": "Technicien",
-        "flavor": "« Sur ce coup là, je vais faire preuve de discrétion. » - Feng Min",
+        "flavor": "« Sur ce coup là, je vais faire preuve de discrétion. » - Feng Min",
         "id": 141,
         "index": "TECHNICIAN",
         "rarity": [
@@ -1126,7 +1126,7 @@
     {
         "description": "Après un saut <b>précipité</b>, vous courez à <span class=\"Highlight1\">{0} %</span> de votre vitesse normale pendant un maximum de <span class=\"Highlight2\">{1} secondes</span>. <br>Provoque <i>Épuisement</i> pendant <span class=\"Highlight4\">{2} secondes</span>.<br><i>Souple</i> ne peut pas être utilisé pendant <i>Épuisement</i>.<br>Vous ne récupérez pas de l'effet <i>Épuisement</i> tant que vous courez.",
         "name": "Souple",
-        "flavor": "« Ça ne va pas ? » - Feng Min",
+        "flavor": "« Ça ne va pas ? » - Feng Min",
         "id": 142,
         "index": "LITHE",
         "rarity": [
@@ -1157,7 +1157,7 @@
     {
         "description": "Vos sens aiguisés sont en alerte.<br>Lorsque le tueur casse quelque chose, il vous est révélé pendant <span class=\"Highlight1\">{0} secondes</span>.",
         "name": "Vigilant",
-        "flavor": "« Ma vision est sans pareille. » -Feng Min",
+        "flavor": "« Ma vision est sans pareille. » -Feng Min",
         "id": 143,
         "index": "ALERT",
         "rarity": [
@@ -1181,7 +1181,7 @@
     },
     {
         "description": "Débloque le potentiel de repérer les auras. Une fois que tous les générateurs ont été activés, les portes de sortie vous sont révélées à une portée de <span class=\"Highlight1\">{0} mètres</span>. Votre aura est révélée aux autres survivants jusqu'à <span class=\"Highlight2\">{1} mètres</span> lorsque vous ouvrez les portes de sortie.<br>Lorsque <i>Debout !</i> est actif, vous ouvrez les portes de sortie <span class=\"Highlight3\">{2} %</span> plus rapidement.",
-        "name": "Debout !",
+        "name": "Debout !",
         "id": 144,
         "index": "WAKE_UP",
         "rarity": [
@@ -1269,7 +1269,7 @@
     {
         "description": "Rien ne vous arrête. Votre incroyable ténacité dans les situations difficiles vous permet de ramper <span class=\"Highlight1\">{0} %</span> plus vite tout en récupérant.",
         "name": "Ténacité",
-        "flavor": "« Qu'est-ce que c'est que ça ? Je vais coffrer ce fumier ! » -Inspecteur David Tapp",
+        "flavor": "« Qu'est-ce que c'est que ça ? Je vais coffrer ce fumier ! » -Inspecteur David Tapp",
         "id": 147,
         "index": "TENACITY",
         "rarity": [
@@ -1294,7 +1294,7 @@
     {
         "description": "Débloque le potentiel de repérage d'aura. Quand un générateur est terminé, l'aura des générateurs, des coffres et des totems dans un rayon de <span class=\"Highlight1\">{0} mètres</span> vous est révélée pendant <span class=\"Highlight2\">{1} secondes</span>.<br>Si vous détenez une carte qui peut suivre les objectifs, les générateurs, les coffres et les totems révélés par <i>Intuition de l'inspecteur</i> y sont ajoutés.",
         "name": "Intuition de l'inspecteur",
-        "flavor": "« Pouvez-vous nous dire où vous étiez la nuit dernière ? » - Inspecteur David Tapp",
+        "flavor": "« Pouvez-vous nous dire où vous étiez la nuit dernière ? » - Inspecteur David Tapp",
         "id": 148,
         "index": "DETECTIVES_HUNCH",
         "rarity": [
@@ -1322,7 +1322,7 @@
     {
         "description": "Votre détermination augmente quand vous vous rapprochez du tueur. À chaque fois que vous passez <span class=\"Highlight1\">{0} secondes</span> dans le rayon de terreur du tueur sans être poursuivi, vous gagnez un jeton (jusqu'à <span class=\"Highlight2\">{1} jetons</span> maximum).<br>Quand <i>En planque</i> bénéficie d'au moins <b>1 jeton</b>, les Bons tests d'habileté sont considérés comme d'Excellents tests d'habileté, ils consomment <b>1 jeton</b> et octroient un bonus supplémentaire d'<span class=\"Highlight3\">1 %</span> à la progression de réparation du générateur.",
         "name": "En planque",
-        "flavor": "« Je vous tenais. Vous étiez à ma merci. Vous avez la trouille parce qu'on a failli vous coffrer. Nous allons résoudre cette enquête ! » - Inspecteur David Tapp",
+        "flavor": "« Je vous tenais. Vous étiez à ma merci. Vous avez la trouille parce qu'on a failli vous coffrer. Nous allons résoudre cette enquête ! » - Inspecteur David Tapp",
         "id": 149,
         "index": "STAKE_OUT",
         "rarity": [
@@ -1350,7 +1350,7 @@
     {
         "description": "Lors d'un saut d'obstacle rapide ou si vous quittez un casier en vitesse, vous ne laissez pas de marques d'éraflure pendant <span class=\"Highlight1\">{0} secondes</span>.<br><i>Danse avec moi</i> a un temps de récupération de <span class=\"Highlight4\">{1} secondes</span>.",
         "name": "Danse avec moi",
-        "flavor": "« Un autre spectacle est monté, <br>Danse avec moi car la tempête va éclater, <br>Suis mes pas, essaie de m'imiter,<br>Danse avec moi jusqu'à l'aurore tant espérée. »<br> - « Danse avec moi » de Kate Denson",
+        "flavor": "« Un autre spectacle est monté, <br>Danse avec moi car la tempête va éclater, <br>Suis mes pas, essaie de m'imiter,<br>Danse avec moi jusqu'à l'aurore tant espérée. »<br> - « Danse avec moi » de Kate Denson",
         "id": 150,
         "index": "DANCE_WITH_ME",
         "rarity": [
@@ -1378,7 +1378,7 @@
     {
         "description": "Débloque le potentiel de repérage d'aura. L'aura des palettes, des murs destructibles et des sauts d'obstacles vous est révélée dans un rayon de <span class=\"Highlight1\">{0} mètres</span>. <br><i>Parfaite occasion</i> a un temps de récupération de <span class=\"Highlight1\">{1} secondes</span> lorsque vous faites tomber une palette ou lors d'un saut d'obstacles pendant une poursuite.",
         "name": "Parfaite occasion",
-        "flavor": "« Haut les cœurs, travaillez dur, faites-vous un nom, <br>Visez, tirez, le centre de la cible fera votre renom, <br>Sachez la valeur de la foi, de la famille et interdit d'être grognon, <br>Ouvrez grand, voici venue votre parfaite occasion. »<br> - « Fenêtre d'opportunité » de Kate Denson",
+        "flavor": "« Haut les cœurs, travaillez dur, faites-vous un nom, <br>Visez, tirez, le centre de la cible fera votre renom, <br>Sachez la valeur de la foi, de la famille et interdit d'être grognon, <br>Ouvrez grand, voici venue votre parfaite occasion. »<br> - « Fenêtre d'opportunité » de Kate Denson",
         "id": 151,
         "index": "WINDOWS_OF_OPPORTUNITY",
         "rarity": [
@@ -1406,7 +1406,7 @@
     {
         "description": "Vous êtes un battant et faites votre possible pour vous sortir des griffes du tueur. Vos effets de lutte contre le tueur sont augmentés de <span class=\"Highlight1\">{0} %</span>. <br>Vous obscurcissez la capacité du tueur à voir l'aura des crochets sur <span class=\"Highlight1\">{1} mètres</span>.",
         "name": "Effusion",
-        "flavor": "« Tête brûlée,<br> Besoin de liberté, <br>Tes mains ne me garderont pas piégée. »<br> - « Effusion » de Kate Denson",
+        "flavor": "« Tête brûlée,<br> Besoin de liberté, <br>Tes mains ne me garderont pas piégée. »<br> - « Effusion » de Kate Denson",
         "id": 152,
         "index": "BOIL_OVER",
         "rarity": [
@@ -1434,7 +1434,7 @@
     {
         "description": "Compétence pouvant être activée.<br>Se trouver dans le rayon de terreur du tueur lorsqu’il n’y a pas de poursuite pendant <span class=\"Highlight1\">{0} secondes</span> active <i>Diversion</i>.<br><li>Une fois <i>Diversion</i> activée, appuyez sur le bouton de <i>capacité active</i> en étant accroupi et immobile afin de jeter un caillou à une distance de <span class=\"Highlight2\">20 mètres</span>, qui crée une distraction pour le tueur.</li><br><li>Le chrono de la compétence est réinitialisé après l’activation de la capacité.</li><br>Détail de la distraction :<br><li>alerte par un fort bruit</li> et des <li>marques d’éraflure</li>",
         "name": "Diversion",
-        "flavor": "« Il y a ce qui est facile, et il y a ce qui est juste. Si vous confondez les deux, impossible de dire ce que vous deviendrez. » - Adam Francis",
+        "flavor": "« Il y a ce qui est facile, et il y a ce qui est juste. Si vous confondez les deux, impossible de dire ce que vous deviendrez. » - Adam Francis",
         "id": 153,
         "index": "DIVERSION",
         "rarity": [
@@ -1459,7 +1459,7 @@
     {
         "description": "Après avoir réalisé le décrochage sécuritaire d’un autre survivant, <i>Libération</i> s’active. <br>Vous avez désormais <span class=\"Highlight1\">100 %</span> de chances de vous décrocher vous-même lors d’une tentative d’évasion.<br>Une <i>Libération</i> du crochet réussie déclenche l’effet de statut <span class=\"Highlight2\">Brisé</span> pendant <span class=\"Highlight3\">{0} secondes</span>.",
         "name": "Libération",
-        "flavor": "« J’ai été élevé par un homme strict qui m’a appris comment tirer le meilleur parti d’une mauvaise situation. » -Adam Francis",
+        "flavor": "« J’ai été élevé par un homme strict qui m’a appris comment tirer le meilleur parti d’une mauvaise situation. » -Adam Francis",
         "id": 154,
         "index": "DELIVERANCE",
         "rarity": [
@@ -1484,7 +1484,7 @@
     {
         "description": "Vous commencez la partie avec <span class=\"Highlight1\">-{1} %</span> de malus de progression pour les tests d’habileté de guérison des survivants.<br>Chaque fois que vous réussissez un test d’habileté en soignant un survivant, vous recevez un jeton, jusqu’à un maximum de <span class=\"Highlight2\">{0} jetons</span>.<br>Chaque jeton vous confère <span class=\"Highlight1\">+{2} %</span> de progression bonus.<br>Les tests d’habileté excellents ne peuvent pas être réalisés lorsque vous utilisez <i>Autodidacte</i>.<li><i>Autodidacte</i> n’est pas actif lorsque vous utilisez une trousse de soins.</li>",
         "name": "Autodidacte",
-        "flavor": "« Il n’y a pas de limites à ce que vous pouvez accomplir, tant que vous y parvenez avec un travail rigoureux. » -Adam Francis",
+        "flavor": "« Il n’y a pas de limites à ce que vous pouvez accomplir, tant que vous y parvenez avec un travail rigoureux. » -Adam Francis",
         "id": 155,
         "index": "AUTODIDACT",
         "rarity": [
@@ -1515,7 +1515,7 @@
     {
         "description": "Chaque fois que vous êtes libéré d’un crochet (en vous échappant ou en étant secouru), ce dernier se brise et vous pouvez voir l’aura du tueur pendant <span class=\"Highlight1\">{0} secondes</span>. Un crochet brisé par cette compétence met <span class=\"Highlight2\">180 secondes</span> à réapparaître.<br>",
         "name": "Dépression",
-        "flavor": "« Charge dans le ventre de la bête »<br>Croquis peint réalisé sur un bout de bois trouvé au bord de la route. J’avais la sensation qu’il avait une histoire à raconter, et il ne m’a pas déçu. – Jeff, lavis à l’encre et à l’huile sur un morceau de bois, 30x40",
+        "flavor": "« Charge dans le ventre de la bête »<br>Croquis peint réalisé sur un bout de bois trouvé au bord de la route. J’avais la sensation qu’il avait une histoire à raconter, et il ne m’a pas déçu. – Jeff, lavis à l’encre et à l’huile sur un morceau de bois, 30x40",
         "id": 156,
         "index": "BREAKDOWN",
         "rarity": [
@@ -1540,7 +1540,7 @@
     {
         "description": "Débloque la capacité à voir les auras.<br><br>Vous voyez l'aura de tout survivant :<br><li>que vous sauvez ou qui vous sauvent d'un crochet.</li><li>que vous soignez ou qui vous soignent.</li><br>Le survivant voit lui aussi votre aura.<br><br>Vous pouvez faire cela avec un maximum de <span class=\"Highlight1\">{0} survivant(s)</span>. Tous les effets de cette compétence sont réinitialisés quand le tueur vous suspend à un crochet.<br>",
         "name": "Convalescence",
-        "flavor": "« Clémence déchirant la tempête »<br>Peinture à l'huile en l'honneur de mes meilleurs amis, qui sont également les meilleurs musiciens que je connais. Leur premier album reste mon préféré. Il m'a beaucoup aidé pendant une période difficile de ma vie. – Jeff, peinture à l'huile sur toile, 40x40",
+        "flavor": "« Clémence déchirant la tempête »<br>Peinture à l'huile en l'honneur de mes meilleurs amis, qui sont également les meilleurs musiciens que je connais. Leur premier album reste mon préféré. Il m'a beaucoup aidé pendant une période difficile de ma vie. – Jeff, peinture à l'huile sur toile, 40x40",
         "id": 157,
         "index": "AFTERCARE",
         "rarity": [
@@ -1565,7 +1565,7 @@
     {
         "description": "Vous commencez la partie avec <span class=\"Highlight1\">{0} jetons</span>.<br><br>Quand votre aura devrait être visible par le tueur, <i>Distorsion</i> s’active et un jeton est consommé.<br><br>Durant les <span class=\"Highlight1\">{1} prochaines secondes</span>, tant que <i>Distorsion</i> est activée, vous ne laissez pas de marques d’éraflures et votre aura n’est pas détectée par le tueur.<br><li><i>Distorsion</i> ne peut être activée lorsque vous êtes dans un état critique ou pris dans un piège.</li><br>",
         "name": "Distorsion",
-        "flavor": "« La mort bernée par la cape en plumes de faucon »<br>Croquis réalisé au cours de plusieurs nuits d’insomnie en plein hiver. Exploration de la mythologie scandinave : le courage permet de cacher ses faiblesses, même quand on est vulnérable. – Jeff, crayonné sur papier, 30x30",
+        "flavor": "« La mort bernée par la cape en plumes de faucon »<br>Croquis réalisé au cours de plusieurs nuits d’insomnie en plein hiver. Exploration de la mythologie scandinave : le courage permet de cacher ses faiblesses, même quand on est vulnérable. – Jeff, crayonné sur papier, 30x30",
         "id": 158,
         "index": "DISTORTION",
         "rarity": [
@@ -1593,7 +1593,7 @@
     {
         "description": "Partager des expériences douloureuses a un pouvoir curatif.<br>Quand vous êtes blessé, soigner un survivant sans trousse de soins vous soigne également à un taux de conversion de <span class=\"Highlight1\">{0} %</span>.",
         "name": "Solidarité",
-        "flavor": "« C’est en étant présent quand ça va mal, en restant à l’écoute des problèmes des autres et en soutenant ceux dans le besoin qu’on devient plus fort et qu’on grandit. » - Jane Romero",
+        "flavor": "« C’est en étant présent quand ça va mal, en restant à l’écoute des problèmes des autres et en soutenant ceux dans le besoin qu’on devient plus fort et qu’on grandit. » - Jane Romero",
         "id": 159,
         "index": "SOLIDARITY",
         "rarity": [
@@ -1618,7 +1618,7 @@
     {
         "description": "Atteindre des objectifs renforce votre confiance.<br>Quand un générateur est réparé, vous ne laissez aucune marque d'éraflures pendant <span class=\"Highlight1\">{0} secondes</span>.",
         "name": "Assurance",
-        "flavor": "« OK, reste calme. Ne réfléchis pas trop et continue d'avancer. Tu vas y arriver. » - Jane Romero",
+        "flavor": "« OK, reste calme. Ne réfléchis pas trop et continue d'avancer. Tu vas y arriver. » - Jane Romero",
         "id": 160,
         "index": "POISED",
         "rarity": [
@@ -1643,7 +1643,7 @@
     {
         "description": "Quand vous avez décidé de faire quelque chose, mieux vaut ne pas se mettre en travers de votre route.<br><br>Après <span class=\"Highlight1\">{0} secondes</span> à l’intérieur d’un casier, <i>Détermination</i> s’active.<br>Tant que <i>Détermination</i> est active, effectuez une action précipitée en sortant du casier pour utiliser <i>Détermination</i>. Si le tueur se tient dans la portée d’effet de <i>Détermination</i>, il est étourdi pendant <span class=\"Highlight1\">{1} secondes</span>.<br>Provoque l’effet de statut <span class=\"Highlight3\">Épuisement</span> pendant <span class=\"Highlight1\">{2} secondes</span>. <br>Détermination ne peut pas être utilisé quand vous êtes épuisé.<br>Vous ne récupérez pas de l’effet de statut <span class=\"Highlight3\">Épuisement</span> pendant que vous courez. <br><i>Détermination</i> ne peut pas être utilisé si votre arrêt prolongé a attiré des corbeaux.<br>",
         "name": "De front",
-        "flavor": "« On se souvient des gens grâce aux épreuves qu’ils surmontent. Vous pouvez fuir et oublier ce dont vous êtes capable, ou vous pouvez affronter vos peurs et rappeler au monde qui vous êtes. » - Jane Romero",
+        "flavor": "« On se souvient des gens grâce aux épreuves qu’ils surmontent. Vous pouvez fuir et oublier ce dont vous êtes capable, ou vous pouvez affronter vos peurs et rappeler au monde qui vous êtes. » - Jane Romero",
         "id": 161,
         "index": "HEAD_ON",
         "rarity": [
@@ -1730,7 +1730,7 @@
     {
         "description": "Le mal parvient toujours à vous trouver.<br><br><i>Force de caractère</i> s’active après avoir effectué Coup de protection <span class=\"Highlight1\">{0} fois</span> lors d'un événement à score.<br><br>Une fois la compétence activée, la prochaine attaque qui devrait vous faire passer d’un <b>état blessé</b> à un <b>état critique</b> est ignorée.<br><br>La prochaine fois que vous récupérerez 100 % de votre santé, votre aura sera détectée par le tueur si vous êtes à plus de <span class=\"Highlight2\">{1} mètres</span> de lui.<br><br><i>Force de caractère</i> sera désactivée la prochaine fois que vous serez en état critique.<br><i><li>Augmente vos chances de devenir l’obsession du tueur.</li><li>Le tueur ne peut être <b>obsédé</b> que par un survivant à la fois.</li></i><br>",
         "name": "Force de caractère",
-        "flavor": "« Le mal a placardé une cible dans mon dos et elle fait la taille d’un stade de foot. » - Ash Williams",
+        "flavor": "« Le mal a placardé une cible dans mon dos et elle fait la taille d’un stade de foot. » - Ash Williams",
         "id": 164,
         "index": "METTLE_OF_MAN",
         "rarity": [
@@ -1758,7 +1758,7 @@
     {
         "description": "Vous cherchez la justice et la vérité sans tenir compte des obstacles.<br><br>L’aura du générateur que vous êtes en train de réparer apparaît à tous les autres survivants situés à moins de <span class=\"Highlight1\">{0} mètres</span>.<br><br>Si le tueur met à terre un survivant pendant que vous réparez un générateur, vous voyez l’aura de tous les autres survivants pendant <span class=\"Highlight2\">{1} secondes</span>.<br>",
         "name": "Mieux ensemble",
-        "flavor": "« Brûlons ce laboratoire jusqu’aux fondations. » - Nancy Wheeler",
+        "flavor": "« Brûlons ce laboratoire jusqu’aux fondations. » - Nancy Wheeler",
         "id": 165,
         "index": "BETTER_TOGETHER",
         "rarity": [
@@ -1786,7 +1786,7 @@
     {
         "description": "Quand vous avez un objectif en tête, vous n’y renoncez pas : mieux vaut demander pardon que la permission. <br><br>Vous pouvez voir vos propres marques d’éraflure en permanence.<br><br>Vous marchez <span class=\"Highlight1\">{0} %</span> plus vite.<br>",
         "name": "Obnubilé",
-        "flavor": "« Je veux finir ce que j’ai commencé. Je veux le tuer. » - Nancy Wheeler",
+        "flavor": "« Je veux finir ce que j’ai commencé. Je veux le tuer. » - Nancy Wheeler",
         "id": 166,
         "index": "FIXATED",
         "rarity": [
@@ -1811,7 +1811,7 @@
     {
         "description": "Vous vous concentrez sur vous-même et faites confiance à votre instinct quand vous vous sentez seul et perdu.<br><br>Chaque fois que vous purifiez un totem, <i>Force intérieure</i> s’active. Si vous avez déjà l’<b>effet de statut Brisé</b>, <i>Force intérieure</i> ne s’active pas.<br><br>Tant que <i>Force intérieure</i> est activée, se cacher dans un casier pendant <span class=\"Highlight1\">{0} secondes</span> en étant blessé vous soignera automatiquement de blessé à en forme.<br><br><i>Force intérieure</i> se désactive dès cela fait.<br>",
         "name": "Force intérieure",
-        "flavor": "« Pendant tout ce temps, j’ai essayé de prétendre que tout allait bien, mais ce n’est pas le cas. » - Nancy Wheeler",
+        "flavor": "« Pendant tout ce temps, j’ai essayé de prétendre que tout allait bien, mais ce n’est pas le cas. » - Nancy Wheeler",
         "id": 167,
         "index": "INNER_STRENGTH",
         "rarity": [
@@ -1836,7 +1836,7 @@
     {
         "description": "Bien que vous ayez la réputation d’être égocentrique, vous risquez tout pour aider ceux dans le besoin.<br><br>Lorsque vous libérez un survivant d’un crochet, il ne laisse pas de marques d’éraflure ni de traînée de sang pendant <span class=\"Highlight1\">{0} secondes</span>. Vous voyez l’aura du tueur et il voit la vôtre pendant <span class=\"Highlight2\">{1} secondes</span>.<br>",
         "name": "Baby-sitter",
-        "flavor": "« J’ai promis de tous vous protéger, et je vais le faire. » - Steve Harrington",
+        "flavor": "« J’ai promis de tous vous protéger, et je vais le faire. » - Steve Harrington",
         "id": 168,
         "index": "BABYSITTER",
         "rarity": [
@@ -1864,7 +1864,7 @@
     {
         "description": "La vie vous a appris l’importance de l’amitié ce qui vous a rendu plus fort.<br><br>Tant que vous êtes sur le crochet pendant la phase de lutte, <i>Camaraderie</i> s’active.<br><br>Si un autre survivant se tient à <span class=\"Highlight1\">{0} mètres</span> de vous pendant que <i>Camaraderie</i> est activée, le chronomètre de crochet est mis en pause pendant <span class=\"Highlight2\">{1} secondes</span>.<br>",
         "name": "Camaraderie",
-        "flavor": "« Alors, n’oublie pas… quand tu entres, fais comme si tu t’en fichais. C’est ça, tu apprends mon ami. Tu apprends. » - Steve Harrington",
+        "flavor": "« Alors, n’oublie pas… quand tu entres, fais comme si tu t’en fichais. C’est ça, tu apprends mon ami. Tu apprends. » - Steve Harrington",
         "id": 169,
         "index": "CAMARADERIE",
         "rarity": [
@@ -1892,7 +1892,7 @@
     {
         "description": "Après avoir soigné l’équivalent d’un état de santé chez les autres survivants, <i>Second souffle</i> s’active. Si vous êtes déjà sous l’effet de statut <span class=\"Highlight1\">Brisé</span>, <i>Second souffle</i> ne s’active pas.<br><br>Tant que <i>Second souffle</i> est activé, votre libération suivante d’un crochet, avec ou sans aide, vous place sous l’effet de statut <span class=\"Highlight1\">Brisé</span>. Après une durée totale de <span class=\"Highlight2\">{0} secondes</span>, <i>Second souffle</i> vous soigne automatiquement de blessé à en forme.<br><br><i>Second souffle</i> se désactive dès que vous êtes en forme ou si vous tombez en état critique avant que <i>Second souffle</i> termine avec succès son activation. Vous perdez l’effet de statut <span class=\"Highlight1\">Brisé</span>.<br>",
         "name": "Second souffle",
-        "flavor": "« Ouais, mais non. » - Steve Harrington",
+        "flavor": "« Ouais, mais non. » - Steve Harrington",
         "id": 170,
         "index": "SECOND_WIND",
         "rarity": [
@@ -1917,7 +1917,7 @@
     {
         "description": "Vous avez encaissé votre lot de coups et de bleus, mais la chance a toujours été de votre côté.<br><br><i>Coup de chance</i> s’active quand vous êtes blessé. Tant que <i>Coup de chance</i> est actif, vous ne laissez pas de traces de sang ni de marques d’éraflures pendant un total de <span class=\"Highlight1\">{0} secondes</span>.<br><br>Une fois cette durée écoulée, <i>Coup de chance</i> est désactivé de manière permanente pour le reste de la partie.<br>",
         "name": "Coup de chance",
-        "flavor": "« Ça ne suffit pas pour me vaincre. Loin de là. » - Yui Kimura",
+        "flavor": "« Ça ne suffit pas pour me vaincre. Loin de là. » - Yui Kimura",
         "id": 171,
         "index": "LUCKY_BREAK",
         "rarity": [
@@ -1942,7 +1942,7 @@
     {
         "description": "Vous vous battez pour vous-même, utilisant tout ce qui vous passe par la main pour avoir l’avantage.<br><br>Appuyez et maintenez le <i>bouton de capacité active</i> pendant <span class=\"Highlight1\">{0} secondes</span> à côté d’une palette lâchée pour la réinitialiser en position verticale.<br><br><i>Par tous les moyens</i> a un temps de recharge de <span class=\"Highlight2\">{1} secondes</span>.<br>",
         "name": "Par tous les moyens",
-        "flavor": "« Je vais te frapper de toutes mes forces. Et après, je vais recommencer. » - Yui Kimura",
+        "flavor": "« Je vais te frapper de toutes mes forces. Et après, je vais recommencer. » - Yui Kimura",
         "id": 172,
         "index": "ANY_MEANS_NECESSARY",
         "rarity": [
@@ -1970,7 +1970,7 @@
     {
         "description": "Quand quelqu’un a des problèmes, vous vous donnez à fond et vous poussez les autres à surmonter les obstacles.<br><br>À <span class=\"Highlight1\">{0} mètres</span> maximum d’un survivant transporté, vous bénéficiez de l’effet de statut <span class=\"Highlight2\">Rapidité</span>, votre vitesse de mouvement augmente de <span class=\"Highlight3\">{1} %</span> et la vitesse de gigotement du survivant transporté augmente de <span class=\"Highlight4\">{2} %</span>.<br>",
         "name": "Fugue",
-        "flavor": "« Allez, on va se tailler une sortie. » - Yui Kimura",
+        "flavor": "« Allez, on va se tailler une sortie. » - Yui Kimura",
         "id": 173,
         "index": "BREAKOUT",
         "rarity": [
@@ -2001,7 +2001,7 @@
     {
         "description": "Vous avez appris qu’une approche discrète est parfois la meilleure option. <br><br>Quand on vous libère d’un crochet ou que vous vous en échappez, <i>Confidentiel</i> s’active pendant <span class=\"Highlight1\">{0} secondes</span>. <br><br>Tant que <i>Confidentiel</i> est activé, le tueur ne voit pas votre aura et les grognements de douleur provoqués par les blessures sont réduits de <span class=\"Highlight2\">{1} %</span>.<br>",
         "name": "Confidentiel",
-        "flavor": "« Crois-moi, j’enquête discrètement et de fond en comble. » - Zarina Kassir",
+        "flavor": "« Crois-moi, j’enquête discrètement et de fond en comble. » - Zarina Kassir",
         "id": 174,
         "index": "OFF_THE_RECORD",
         "rarity": [
@@ -2029,7 +2029,7 @@
     {
         "description": "Vous avez remarqué que les gens font attention à ce qui fait le plus de bruit.<br><br>Après avoir réparé un générateur pendant au moins <span class=\"Highlight1\">{0} secondes</span>, il sera entouré d’une aura jaune que personne d’autre que vous ne pourra voir. Le générateur reste signalé jusqu’à ce que vous le répariez complètement, que vous répariez un autre générateur, ou que vous entriez dans un casier. <br><br>Entrer dans un casier déclenche un fort signal sonore du générateur que seul le tueur peut voir. <br><li><i>Leurre</i> ne peut être activé qu’une fois toutes les <span class=\"Highlight2\">{1} secondes</span>.</li><br>",
         "name": "Leurre",
-        "flavor": "« Les informations coupent ce qui est complexe et pesant... en somme, la vérité. » - Zarina Kassir",
+        "flavor": "« Les informations coupent ce qui est complexe et pesant... en somme, la vérité. » - Zarina Kassir",
         "id": 175,
         "index": "RED_HERRING",
         "rarity": [
@@ -2057,7 +2057,7 @@
     {
         "description": "Vous risquez votre vie et de vous blesser pour les autres.<br><br><i>Pour le peuple</i> est uniquement actif quand votre santé est pleine.<br><br>Appuyez sur le <i>bouton de capacité active</i> lorsque vous soignez un autre survivant sans trousse de soins pour immédiatement le soigner de l’état critique à blessé, ou de blessé à en bonne santé.<br><br>Vous êtes blessé et recevez l’effet de statut <b>Brisé</b> pendant <span class=\"Highlight1\">{0} secondes</span>.<br><br>Vous devenez l’Obsession.<br><br>Équiper cette compétence <b>réduit</b> vos chances de devenir l’obsession du tueur au début d’une partie.<br>",
         "name": "Pour le peuple",
-        "flavor": "« Nous pouvons écrire notre propre histoire et décider comment elle s’achève. » - Zarina Kassir",
+        "flavor": "« Nous pouvons écrire notre propre histoire et décider comment elle s’achève. » - Zarina Kassir",
         "id": 176,
         "index": "FOR_THE_PEOPLE",
         "rarity": [
@@ -2184,7 +2184,7 @@
     {
         "description": "Même dans vos pires moments, vous refusez d’échouer.<br><br>Pour chaque survivant blessé, suspendu à un crochet ou en état critique, la vitesse de vos soins et de vos décrochages augmente de <span class=\"Highlight1\">{0} %</span>.<br>",
         "name": "Mesures désespérées",
-        "flavor": "« S’ils utilisent un boulet de démolition, construisez des murs plus solides. » - Felix Richter",
+        "flavor": "« S’ils utilisent un boulet de démolition, construisez des murs plus solides. » - Felix Richter",
         "id": 181,
         "index": "DESPERATE_MEASURES",
         "rarity": [
@@ -2209,7 +2209,7 @@
     {
         "description": "Vous savez comment tirer le meilleur de vos outils.<br><br>Une fois par partie, un objet vidé de ses charges en récupérera <span class=\"Highlight1\">{0} %</span> au bout de <span class=\"Highlight2\">{1} secondes</span>.<br>",
         "name": "Conçu pour durer",
-        "flavor": "« L’architecture est l’âme de la civilisation. » - Felix Richter",
+        "flavor": "« L’architecture est l’âme de la civilisation. » - Felix Richter",
         "id": 182,
         "index": "BUILT_TO_LAST",
         "rarity": [
@@ -2291,7 +2291,7 @@
     {
         "description": "Vous n’avez jamais abandonné et vous ne comptez pas commencer aujourd’hui.<br><br>Quand le tueur vous transporte, débattez-vous jusqu’à <span class=\"Highlight1\">{0} %</span> de la barre de progression pour activer <i>Bras de fer</i>. Tant que <i>Bras de fer</i> est activé, vous pouvez faire tomber une palette debout à proximité pour étourdir le tueur.<br>",
         "name": "Bras de fer",
-        "flavor": "« Je n’ai compté sur les autres pour me protéger qu’une seule fois et j’ai tout perdu. Plus jamais ça. » — Élodie Rakoto",
+        "flavor": "« Je n’ai compté sur les autres pour me protéger qu’une seule fois et j’ai tout perdu. Plus jamais ça. » — Élodie Rakoto",
         "id": 185,
         "index": "POWER_STRUGGLE",
         "rarity": [
@@ -2316,7 +2316,7 @@
     {
         "description": "Parfois, pour passer en tête, il faut sacrifier les autres.<br><br>Chaque fois qu’un survivant est suspendu à un crochet, vous gagnez <span class=\"Highlight1\">{0} jetons.</span>Vous consommez tous vos jetons après un excellent test d’habileté sur un générateur. Chaque jeton consommé accorde <span class=\"Highlight2\">{1} %</span> de progression bonus pour les tests d’habileté excellents lors de la réparation de générateurs.<br>",
         "name": "Voie rapide",
-        "flavor": "« Les faibles sont sacrifiés en premier. C’est la nature, ce sont les affaires... c’est une vérité que la plupart refusent d’entendre. » — Yun-Jin",
+        "flavor": "« Les faibles sont sacrifiés en premier. C’est la nature, ce sont les affaires... c’est une vérité que la plupart refusent d’entendre. » — Yun-Jin",
         "id": 186,
         "index": "FAST_TRACK",
         "rarity": [
@@ -2344,7 +2344,7 @@
     {
         "description": "Quand votre rival fait une erreur, vous saisissez votre chance.<br><br>Après avoir étourdi le tueur avec une palette, sprintez à <span class=\"Highlight1\">{0} %</span> de votre vitesse normale pendant <span class=\"Highlight2\">{1} secondes.</span><br>Déclenche l’effet de statut <b>Épuisement</b> pendant <span class=\"Highlight3\">{2} secondes.</span><br>Cette compétence ne peut être utilisée pendant <b>Épuisement</b>.<br>",
         "name": "Coup écrasant",
-        "flavor": "« J’ai déjà eu affaire à des psychopathes en costume. Tu es juste plus moche et plus mal fagoté. » —Yun-Jin",
+        "flavor": "« J’ai déjà eu affaire à des psychopathes en costume. Tu es juste plus moche et plus mal fagoté. » —Yun-Jin",
         "id": 187,
         "index": "SMASH_HIT",
         "rarity": [
@@ -2375,7 +2375,7 @@
     {
         "description": "La vie ne pardonne rien. Parfois, il vaut mieux se préoccuper de soi-même.<br><br>Chaque fois qu’un autre survivant à <span class=\"Highlight1\">{0} mètres</span> de vous est frappé par une attaque de base ou une attaque spéciale, <i>Instinct de survie</i> s’active.<br>Vos marques d’éraflures, vos flaques de sang et vos gémissements de douleur sont invisibles pendant <span class=\"Highlight2\">{1} secondes.</span><br>",
         "name": "Instinct de survie",
-        "flavor": "« J’ai appris une chose dans ce métier : quand les haches volent, baissez la tête. » — Yun-Jin",
+        "flavor": "« J’ai appris une chose dans ce métier : quand les haches volent, baissez la tête. » — Yun-Jin",
         "id": 188,
         "index": "SELF_PRESERVATION",
         "rarity": [

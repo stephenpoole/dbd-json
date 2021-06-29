@@ -3577,7 +3577,7 @@
     },
     {
         "description": "Livro a respeito de um deus muito antigo. De um autor desconhecido.<li>Sobreviventes feridos afligidos por <i>Tormento</i> sofrem do efeito do estado <b>Hemorragia</b>.</li>",
-        "name": "Livro Cerimonial Carmesim",
+        "name": "Livro Cerimonial Carmesim",
         "flavor": "\"Fale. Eu sou o Carmesim. As mentiras e a névoa não são eles, e sim eu.\"",
         "id": 967,
         "index": "CRIMSON_CEREMONY_COOK",

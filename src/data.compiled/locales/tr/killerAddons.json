@@ -3419,7 +3419,7 @@
     },
     {
         "description": "Bir buzdolabında bulunmuş. Üzerine şiş, iğrenç bir surat oyulmuş.<li><b>Azap Yolu</b>'nun bıraktığı izlerin ortamda kalma süresini <b>biraz arttırır</b>.</li>",
-        "name": "Kurşun Yüzük",
+        "name": "Kurşun Yüzük",
         "id": 950,
         "index": "LEAD_RING",
         "owner": "EXECUTIONER",
@@ -3502,7 +3502,7 @@
     },
     {
         "description": "Kırmızı kukuletalı iki siluetin fotoğrafı. İsmi Tanrılar İçin Kızıl ve Beyaz Şölen.<li><b>Azap Yolu</b>'nun yenilenme hızını <b>önemli ölçüde arttırır</b>.</li>",
-        "name": "Valtiel Tarikatı Fotoğrafı",
+        "name": "Valtiel Tarikatı Fotoğrafı",
         "id": 959,
         "index": "VALTIEL_SECT_PHOTOGRAPH",
         "owner": "EXECUTIONER",
@@ -3576,8 +3576,8 @@
         "image": "iconAddon_lostMemoriesBook"
     },
     {
-        "description": "Kadim bir tanrı hakkında bir kitap. Yazarı bilinmiyor.<li><i>Azap</i> durum etkisi altındaki yaralı Kurbanlar <b>Kan Kaybı</b> durum etkisi altına girer.</li>",
-        "name": "Kızıl Tören Kitabı",
+        "description": "Kadim bir tanrı hakkında bir kitap. Yazarı bilinmiyor.<li><i>Azap</i> durum etkisi altındaki yaralı Kurbanlar <b>Kan Kaybı</b> durum etkisi altına girer.</li>",
+        "name": "Kızıl Tören Kitabı",
         "flavor": "\"Konuş. Ben Kızıl Kişi'yim. Yalanlar ve sis onlar değil, benim.\"",
         "id": 967,
         "index": "CRIMSON_CEREMONY_COOK",

@@ -146,7 +146,7 @@
     },
     {
         "description": "Le symbole d'Oas-Nek, qui représente la ruse, est tracé à la suie sur le corps de la cloche.<br><li>Le Spectre <b>se dévoilera complètement</b> en brisant des palettes ou en endommageant des générateurs pendant l'invisibilité.</li>",
-        "name": "« Le Serpent » - Suie",
+        "name": "« Le Serpent » - Suie",
         "id": 50,
         "index": "THE_SERPENT_SOOT",
         "owner": "WRAITH",
@@ -155,7 +155,7 @@
     },
     {
         "description": "Le symbole de Ghud-Boiye, qui représente un traqueur hors pair, est tracé à la suie sur le corps de la cloche.<br><li>Les traces de sang frais sont <b>considérablement</b> plus visibles.</li>",
-        "name": "« Le Molosse » - Suie",
+        "name": "« Le Molosse » - Suie",
         "id": 51,
         "index": "THE_HOUND_SOOT",
         "owner": "WRAITH",
@@ -164,7 +164,7 @@
     },
     {
         "description": "Le symbole Khugwemuu, qui représente le monde des esprits, est tracé à la suie sur le corps de la cloche.<br><li>Après l'état d'invisibilité, la trace rouge et le rayon de terreur du Spectre resteront supprimés pendant <b>6</b> secondes.</li>",
-        "name": "« Ghost Face » - Suie",
+        "name": "« Ghost Face » - Suie",
         "id": 52,
         "index": "THE_GHOST_SOOT",
         "owner": "WRAITH",
@@ -173,7 +173,7 @@
     },
     {
         "description": "Le symbole de Kunwulju, qui représente le royaume de terreur, est tracé à la suie sur le corps de la cloche.<br><li>Le rayon de terreur du Spectre <b>n'est plus supprimé</b> pendant l'invisibilité.</li><li>Les points de sang accordés pour la traque et les attaques-surprises sont augmentés de 100 %.</li>",
-        "name": "« La Bête » - Suie",
+        "name": "« La Bête » - Suie",
         "id": 53,
         "index": "THE_BEAST_SOOT",
         "owner": "WRAITH",
@@ -191,7 +191,7 @@
     },
     {
         "description": "Le symbole de Kratin, qui représente une mort rapide, est tracé sur le corps de la cloche avec de la boue.<br><li><b>Réduit considérablement</b> le délai de disparition du Spectre.</li>",
-        "name": "« Évanouissement » - Boue",
+        "name": "« Évanouissement » - Boue",
         "id": 55,
         "index": "BLINK_MUD",
         "owner": "WRAITH",
@@ -200,7 +200,7 @@
     },
     {
         "description": "Le symbole d’Ohuwe-Onmnea, qui représente une tempête violente, est tracé sur le corps de la cloche avec de la boue.<li><b>Augmente modérément</b> la vitesse de mouvement du Spectre pendant l’invisibilité.</li>",
-        "name": "« Tempête » - Boue",
+        "name": "« Tempête » - Boue",
         "id": 56,
         "index": "WINDSTORM_MUD",
         "owner": "WRAITH",
@@ -209,7 +209,7 @@
     },
     {
         "description": "Le symbole de Kuntin-Takkho, qui représente l’attaque rapide d’une proie, est tracé sur le corps de la cloche avec de la boue.<br><li><b>Réduit légèrement</b> le délai de réapparition du Spectre.</li>",
-        "name": "« Chasse preste » - Boue",
+        "name": "« Chasse preste » - Boue",
         "id": 57,
         "index": "SWIFT_HUNT_MUD",
         "owner": "WRAITH",
@@ -218,7 +218,7 @@
     },
     {
         "description": "Le symbole de Baikra-Kaeug, qui représente la férocité, est tracé sur le corps de la cloche avec de la boue.<br><li>Les <b>attaques surprise</b> infligent aux survivants un <b>aveuglement d'aura</b> pendant <b>60 secondes</b>.</li>",
-        "name": "« Guerrier aveugle » - Boue",
+        "name": "« Guerrier aveugle » - Boue",
         "id": 58,
         "index": "BLIND_WARRIOR_MUD",
         "owner": "WRAITH",
@@ -227,7 +227,7 @@
     },
     {
         "description": "Le symbole d’Ohuwe-Onmnea, qui représente une tempête violente, est dessiné à l’encre blanche sur le corps de la cloche.<li><b>Augmente considérablement</b> la vitesse de mouvement du Spectre pendant l’invisibilité.</li>",
-        "name": "« Tempête » - Blanc",
+        "name": "« Tempête » - Blanc",
         "id": 59,
         "index": "WINDSTORM_WHITE",
         "owner": "WRAITH",
@@ -236,7 +236,7 @@
     },
     {
         "description": "Le symbole de Kuntin-Takkho, qui représente l’attaque rapide d’une proie, est dessiné à l’encre blanche sur le corps de la cloche.<br><li><b>Réduit modérément</b> le délai de réapparition du Spectre.</li>",
-        "name": "« Chasse preste » - Blanc",
+        "name": "« Chasse preste » - Blanc",
         "id": 60,
         "index": "SWIFT_HUNT_WHITE",
         "owner": "WRAITH",
@@ -245,7 +245,7 @@
     },
     {
         "description": "Le symbole de Yiwarick, qui représente la synergie, est dessiné à l’encre blanche sur le corps de la cloche.<br><li><b>Réduit considérablement</b> le temps nécessaire pour passer par une fenêtre, ouvrir les casiers, briser les palettes et les objets qui peuvent l’être, ou pour endommager les générateurs pendant l’invisibilité.</li>",
-        "name": "« Danse de l'Ombre » - Blanc",
+        "name": "« Danse de l'Ombre » - Blanc",
         "id": 61,
         "index": "SHADOW_DANCE_WHITE",
         "owner": "WRAITH",
@@ -254,7 +254,7 @@
     },
     {
         "description": "Le symbole de Kratin, qui représente une mort rapide, est dessiné à l’encre blanche sur le corps de la cloche.<br><li><b>Réduit énormément</b> le délai de disparition du Spectre.</li>",
-        "name": "« Évanouissement » - Blanc",
+        "name": "« Évanouissement » - Blanc",
         "id": 62,
         "index": "BLINK_WHITE",
         "owner": "WRAITH",
@@ -263,7 +263,7 @@
     },
     {
         "description": "Le symbole de Baikra-Kaeug, qui représente la férocité, est dessiné à l’encre blanche sur la robe de la cloche.<br><li>Les attaques surprise infligent aux survivants les effets de statut <b>Estropiement</b> et <b>Hémorragie</b> jusqu’à ce qu’ils soient complètement guéris.</li>",
-        "name": "« Guerrier aveugle » - Blanc",
+        "name": "« Guerrier aveugle » - Blanc",
         "id": 63,
         "index": "BLIND_WARRIOR_WHITE",
         "owner": "WRAITH",
@@ -272,7 +272,7 @@
     },
     {
         "description": "Le symbole d’Ohuwe-Onmnea, qui représente une tempête violente, est estampillé avec du sang sur le haut de la cloche.<br><li><b>Augmente énormément</b> la vitesse de mouvement du Spectre pendant l’invisibilité.</li>",
-        "name": "« Tempête » - Sang",
+        "name": "« Tempête » - Sang",
         "id": 64,
         "index": "WINDSTORM_BLOOD",
         "owner": "WRAITH",
@@ -281,7 +281,7 @@
     },
     {
         "description": "Le symbole de Kuntin-Takkho, qui représente l’attaque rapide d’une proie, est estampillé sur le haut de la cloche avec du sang.<br><li><b>Réduit considérablement</b> le délai de réapparition du Spectre.</li>",
-        "name": "« Chasse preste » - Sang",
+        "name": "« Chasse preste » - Sang",
         "id": 65,
         "index": "SWIFT_HUNT_BLOOD",
         "owner": "WRAITH",
@@ -290,7 +290,7 @@
     },
     {
         "description": "Le symbole de Yiwarick, qui représente la synergie, est estampillé sur le haut de la cloche avec du sang.<br><li><b>Réduit énormément</b> le temps nécessaire pour passer par une fenêtre, ouvrir les casiers, briser les palettes et les objets qui peuvent l’être, ou pour endommager les générateurs pendant l’invisibilité.</li>",
-        "name": "« Danse de l'Ombre » - Sang",
+        "name": "« Danse de l'Ombre » - Sang",
         "id": 66,
         "index": "SHADOW_DANCE_BLOOD",
         "owner": "WRAITH",
@@ -299,7 +299,7 @@
     },
     {
         "description": "Le symbole Kra-Frabai, qui représente l'Entité qui nous surveille, est estampillé sur le haut de la cloche avec du sang.<br><li>Débloque la capacité de repérage d'auras. Les auras des survivants invisibles dans un rayon de <b>12 mètres</b> vous sont révélées.</li>",
-        "name": "« Clairvoyant » - Sang",
+        "name": "« Clairvoyant » - Sang",
         "id": 67,
         "index": "ALL_SEEING_BLOOD",
         "owner": "WRAITH",
@@ -317,7 +317,7 @@
     },
     {
         "description": "Le symbole Kra-Frabai, qui représente l'Entité qui nous surveille, luit de façon menaçante sur le haut de la cloche.<br><li>Débloque un potentiel insoupçonné dans la capacité de repérage d'auras de son porteur. Pendant l'invisibilité, l'<b>état de réparation d'un générateur</b> peut être lu par l'<b>intensité de son aura.</b></li>",
-        "name": "« Clairvoyant » - Esprit",
+        "name": "« Clairvoyant » - Esprit",
         "id": 69,
         "index": "ALL_SEEING_SPIRIT",
         "owner": "WRAITH",
@@ -408,7 +408,7 @@
     {
         "description": "Une petite quantité de pilules de caféine trouvées dans le sac à main d’Evelyn Thompson. Parmi les effets secondaires on trouve la nervosité et l’irritabilité.<br><br><li><b>Réduit légèrement</b> le temps de charge de la tronçonneuse pendant 30 secondes après un étourdissement à l’aide d’une palette.</li><br>",
         "name": "Remède à maman",
-        "flavor": "« Docteur, donnez-m’en plus s’il vous plaît. » — Evelyn Thompson",
+        "flavor": "« Docteur, donnez-m’en plus s’il vous plaît. » — Evelyn Thompson",
         "id": 112,
         "index": "MOTHERS_HELPERS",
         "owner": "HILLBILLY",
@@ -472,7 +472,7 @@
     {
         "description": "Des gants à l’odeur rance, salis de substances inconnues. Malgré tous leurs défauts, leur tissu est vraiment épais.<br><br><li><b>Réduit modérément</b> la chaleur subie lorsque la tronçonneuse fonctionne.</li><br>",
         "name": "Gants de porcherie",
-        "flavor": "« Rien ne peut souiller l’âme d’un brave travailleur. » — Max Thompson Sr.",
+        "flavor": "« Rien ne peut souiller l’âme d’un brave travailleur. » — Max Thompson Sr.",
         "id": 120,
         "index": "PIGHOUSE_GLOVES",
         "owner": "HILLBILLY",
@@ -491,7 +491,7 @@
     {
         "description": "Représentant autrefois le confinement de Max Jr, c’est la première brique qui est tombée quand la barricade de sa chambre s’est effondrée.<br><br><li>Après avoir maintenu une Attaque ruée pendant 2 secondes, vous gagnez l’effet de statut Indétectable jusqu’à ce que vous arrêtiez de sprinter.</li><br>",
         "name": "Brique irisée",
-        "flavor": "« C’est quoi ce bordel que t’es en train de me monter, merdeux ? » — Max Thompson Sr.",
+        "flavor": "« C’est quoi ce bordel que t’es en train de me monter, merdeux ? » — Max Thompson Sr.",
         "id": 122,
         "index": "IRIDESCENT_BRICK",
         "owner": "HILLBILLY",
@@ -699,7 +699,7 @@
     {
         "description": "Une note supposée être « romantique », plutôt glauque, écrite pour attirer l'attention d'une petite amie.<br><li><b>Augmente légèrement</b> l'attaque chargée de <b>Mal intérieur I</b>.</li>",
         "name": "Note du petit ami",
-        "flavor": "« La note est signée : D. »",
+        "flavor": "« La note est signée : D. »",
         "id": 201,
         "index": "BOYFRIENDS_MEMO",
         "owner": "SHAPE",
@@ -853,7 +853,7 @@
     {
         "description": "Une grande pierre tombale en granite volée dans le cimetière du Mont Sinclair, appartenant à Judith Myers.<br><li>Débloque la capacité de <b>tuer des survivants en bonne santé ou blessés</b> avec <b>Mal intérieur III</b>.</li><li><b>Désactive</b> la capacité de traquer avec <b>Mal intérieur III</b>.</li><li><b>Augmente énormément</b> la quantité de mal requise pour atteindre <b>Mal intérieur III</b> la première fois.</li><li><b>Réduit modérément</b> la vitesse de mouvement.</li>",
         "name": "Pierre tombale de Judith",
-        "flavor": "« Ici repose notre fille bien-aimée. »",
+        "flavor": "« Ici repose notre fille bien-aimée. »",
         "id": 218,
         "index": "JUDITHS_TOMBSTONE",
         "owner": "SHAPE",
@@ -998,7 +998,7 @@
     {
         "description": "La main tranchée du boucher du village de cannibales. L'essence de vie qui y est enfermée libère tout le potentiel du pouvoir de la Harpie.<br><li>Une collision est ajoutée au fantôme de boue.</li><li>Retire la capacité de la Harpie à se téléporter jusqu'aux pièges.</li><li>Confère <b>300 %</b> de points de sang dans la catégorie Sournoiserie.</li><li>Prime sur tous les autres accessoires.</li>",
         "name": "Main balafrée",
-        "flavor": "« … » - Le Boucher",
+        "flavor": "« … » - Le Boucher",
         "id": 264,
         "index": "SCARRED_HAND",
         "owner": "HAG",
@@ -1017,7 +1017,7 @@
     {
         "description": "Le cœur froid de la matriarche du village de cannibales. L’essence de vie qui y est enfermée libère tout le potentiel du pouvoir de la Harpie.<br><li>Le rythme cardiaque de la Harpie descend à <b>0</b> quand un survivant déclenche un piège fantôme.</li><li>Augmente le rayon du rythme cardiaque des fantômes de boue de <b>16 mètres</b>.</li>",
         "name": "Cœur de Grand-mère",
-        "flavor": "« Apportez-moi une autre tranche de la fille. » - Grand-mère",
+        "flavor": "« Apportez-moi une autre tranche de la fille. » - Grand-mère",
         "id": 266,
         "index": "GRANMAS_HEART",
         "owner": "HAG",
@@ -1071,7 +1071,7 @@
     },
     {
         "description": "Procédure d’électrochocs conventionnelle qui fait partie du traitement quotidien des patients à l’Institut de la mémoire de Léry. Peut créer un état de confusion léger chez le patient.<br><li><b>Réduit légèrement</b> le temps de recharge d’<b>Explosion électrique</b>.</li><br>Les survivants avec l’effet de statut <b>Folie</b> souffrent de l’<i>affliction Ordre</i> :<li>les palettes brisées peuvent être remplacées par des <i>palettes chimériques</i> qui persistent jusqu’à ce qu’on s’en approche.</li><li><i>Les palettes chimériques</i> sont générées aléatoirement toutes les <b>20 secondes</b> à l’emplacement d’une palette brisée.</li><li><b>Le Docteur</b> peut voir l’aura des <i>palettes chimériques</i>.</li>",
-        "name": "« Ordre » - Cours I",
+        "name": "« Ordre » - Cours I",
         "id": 302,
         "index": "ORDER_CLASS_I",
         "owner": "DOCTOR",
@@ -1080,7 +1080,7 @@
     },
     {
         "description": "Une procédure d’électrochocs qui envoie une puissante longueur d’onde pour apaiser certaines maladies mentales. Avec l’Étincelle de Carter comme source, cette procédure peut créer une légère anxiété chez le patient.<br><li><b>Augmente légèrement</b> votre rayon de terreur quand <b>Explosion électrique</b> est prête.</li><li><b>Réduit légèrement</b> votre rayon de terreur pendant la récupération d’<b>Explosion électrique</b>.</li><br>Les survivants avec l’effet de statut <b>Folie</b> sont victimes de l’<i>affliction Calme</i>.<li><b>Folie II</b> : les survivants entendent <b>par intermittence</b> un <i>rayon de terreur fictif</i> au loin.</li><li><b>Folie III</b> : les survivants entendent <b>en permanence</b> un <i>rayon de terreur fictif</i> au loin.</li>",
-        "name": "« Calme » - Cours I",
+        "name": "« Calme » - Cours I",
         "id": 303,
         "index": "CALM_CLASS_I",
         "owner": "DOCTOR",
@@ -1116,7 +1116,7 @@
     },
     {
         "description": "Une procédure d'électrochocs expérimentale développée dans la brume. Ce traitement envoie une longueur d'onde qui lie les esprits du patient et du Docteur. Ce procédé est connu pour générer des cas d'hallucinations légères chez le patient.<br><li>Les auras des survivants sont affichées pendant <b>1 seconde</b> lorsque leur niveau de <b>folie</b> augmente.</li><br>Les survivants avec l'effet de statut <b>Folie</b> sont victimes de l'<i>affliction Contrainte</i> :</li><li><b>augmente modérément</b> la durée des <i>docteurs fictifs</i>.</li><li><b>Le Docteur</b> peut voir les auras des <i>docteurs fictifs</i>.</li>",
-        "name": "« Contrainte » - Cours II",
+        "name": "« Contrainte » - Cours II",
         "id": 307,
         "index": "RESTRAINT_CLASS_II",
         "owner": "DOCTOR",
@@ -1125,7 +1125,7 @@
     },
     {
         "description": "Procédure d’électrochocs intense qui fait partie du traitement quotidien des patients à l’Institut de la mémoire de Léry. Peut créer un état de confusion modéré chez le patient.<br><li><b>Réduit modérément</b> le temps de recharge d’<b>Explosion électrique</b>.</li><br>Les survivants avec l’effet de statut <b>Folie</b> souffrent de l’<i>affliction Ordre</i> :<li>les palettes brisées peuvent être remplacées par des <i>palettes chimériques</i> qui persistent jusqu’à ce qu’on s’en approche.</li><li><i>Les palettes chimériques</i> sont générées aléatoirement toutes les <b>20 secondes</b> à l’emplacement d’une palette brisée.</li><li><b>Le Docteur</b> peut voir l’aura des <i>palettes chimériques</i>.</li><span class=\"FlavorText\">« Les effets secondaires sont très rares. » - Institut de la mémoire de Léry</span>",
-        "name": "« Ordre » - Cours II",
+        "name": "« Ordre » - Cours II",
         "id": 308,
         "index": "ORDER_CLASS_II",
         "owner": "DOCTOR",
@@ -1134,7 +1134,7 @@
     },
     {
         "description": "Procédure d’électrochocs du Projet Réveil utilisée comme mesure disciplinaire qui administre une dose fixe et un voltage très élevé. Peut créer une état de paranoïa modéré chez le patient.<br><li><b>Réduit légèrement</b> le délai de déflagration d’<b>Électrochocs</b>.</li><br>Les survivants avec l’effet de statut <b>Folie</b> sont victimes de l’<i>affliction Discipline</i>.<li><b>Folie II</b> : durant une poursuite, ils perçoivent la <i>tache rouge fictive</i> et le <i>rayon de terreur</i>, comme si <b>le Docteur</b> était juste derrière eux. Cet effet persiste <b>6 secondes</b> après la fin de la poursuite.</li><li><b>Folie III</b> : la <i>tache rouge fictive</i> et le <i>rayon de terreur</i> sont tout le temps actifs.</li><li><b>Le Docteur</b> voit aussi la <i>tache rouge fictive</i>.</li><span class=\"FlavorText\">« Nous rééduquons nos patients avec le plus grand soin. » - Institut de la mémoire de Léry</span>",
-        "name": "« Discipline » - Cours II",
+        "name": "« Discipline » - Cours II",
         "id": 309,
         "index": "DISCIPLINE_CLASS_II",
         "owner": "DOCTOR",
@@ -1143,7 +1143,7 @@
     },
     {
         "description": "Une procédure d’électrochocs risquée qui envoie une puissante longueur d’onde pour apaiser certains problèmes mentaux. Avec l’Étincelle de Carter comme source, cette procédure peut créer une certaine anxiété chez le patient.<br><li><b>Augmente modérément</b> votre rayon de terreur quand <b>Explosion électrique</b> est prête.</li><li><b>Réduit modérément</b> votre rayon de terreur pendant la récupération d’<b>Explosion électrique</b>.</li><br>Les survivants avec l’effet de statut <b>Folie</b> sont victimes de l’<i>affliction Calme</i>.<li><b>Folie II</b> : les survivants entendent <b>par intermittence</b> un <i>rayon de terreur fictif</i> au loin.</li><li><b>Folie III</b> : les survivants entendent <b>en permanence</b> un <i>rayon de terreur fictif</i> au loin.</li><span class=\"FlavorText\">« La thérapie par électrochocs est l’une des procédures médicales les plus sûres. » - Institut de la mémoire de Léry.</span>",
-        "name": "« Calme » - Cours II",
+        "name": "« Calme » - Cours II",
         "id": 310,
         "index": "CALM_CLASS_II",
         "owner": "DOCTOR",
@@ -1161,7 +1161,7 @@
     },
     {
         "description": "Une procédure d’électrochocs expérimentale développée dans la brume. Ce traitement envoie une longueur d’onde hautement stimulante qui lie les esprits du patient et du Docteur. Ce procédé est connu pour créer des hallucinations sévères chez le patient.<br><li>Les auras des survivants sont affichées pendant <b>2 secondes</b> lorsque leur niveau de <b>folie</b> augmente.</li><br>Les survivants avec l’effet de statut <b>Folie</b> sont victimes de l’<i>affliction Contrainte</i> :<li><b>Augmente modérément</b> la durée des <i>docteurs fictifs</i>.</li><li><b>Le Docteur</b> peut voir les auras des <i>docteurs fictifs</i>.</li>",
-        "name": "« Contrainte » - Cours III",
+        "name": "« Contrainte » - Cours III",
         "id": 312,
         "index": "RESTRAINT_CLASS_III",
         "owner": "DOCTOR",
@@ -1170,7 +1170,7 @@
     },
     {
         "description": "Procédure d’électrochocs du Projet Réveil utilisée comme mesure disciplinaire qui administre une dose fixe et un voltage très élevé. Peut créer un état de paranoïa profond chez le patient.<br><li><b>Réduit modérément</b> le délai de déflagration d’<b>Électrochocs</b>.</li><br>Les survivants avec l’effet de statut <b>Folie</b> sont victimes de l’<i>affliction Discipline</i>.<li><b>Folie II</b> : durant une poursuite, ils perçoivent la <i>tache rouge fictive</i> et le <i>rayon de terreur</i>, comme si <b>le Docteur</b> était juste derrière eux. Cet effet persiste <b>6 secondes</b> après la fin de la poursuite.</li><li><b>Folie III</b> : la <i>tache rouge fictive</i> et le <i>rayon de terreur</i> sont tout le temps actifs.</li><li><b>Le Docteur</b> voit aussi la <i>tache rouge fictive</i>.</li><span class=\"FlavorText\">« Le respect de nos patients est à la base même de nos principes. » - Institut de la mémoire de Léry</span>",
-        "name": "« Discipline » - Cours III",
+        "name": "« Discipline » - Cours III",
         "id": 313,
         "index": "DISCIPLINE_CLASS_III",
         "owner": "DOCTOR",
@@ -1179,7 +1179,7 @@
     },
     {
         "description": "Une procédure d’électrochocs expérimentale développée dans la brume et raturée de nombreuses annotations. Ce traitement envoie un stimulus insupportable qui lie les esprits du patient et du Docteur. Ce procédé est connu pour créer des hallucinations sévères chez le patient.<br><li>Les auras des survivants sont affichées pendant <b>3 secondes</b> lorsque leur niveau de <b>folie</b> augmente.</li><br>Les survivants avec l’effet de statut <b>Folie</b> sont victimes de l’<i>affliction Contrainte</i> :<br><li><b>Augmente modérément</b> la <i>durée des docteurs fictifs</i>.</li><li><b>Le Docteur</b> peut voir les auras des <i>docteurs fictifs</i>.</li><span class=\"FlavorText\">« JE VOIS TOUTES LEURS <u>RÉPUGNANTES</u> MALADIES. » - Notes non signées</span>",
-        "name": "« Contrainte » - Notes de Carter",
+        "name": "« Contrainte » - Notes de Carter",
         "id": 314,
         "index": "RESTRAINT_CARTERS_NOTES",
         "owner": "DOCTOR",
@@ -1188,7 +1188,7 @@
     },
     {
         "description": "Version expérimentale de la procédure d’électrochocs, annotée de la main même du Docteur Herman Carter. La longue durée de la stimulation peut laisser le patient dans un état de confusion sévère.<br><li><b>Réduit considérablement</b> le temps de recharge d’<b>Explosion électrique</b>.</li><br>Les survivants avec l’effet de statut <b>Folie</b> souffrent de l’<i>affliction Ordre</i> :<li>les palettes brisées peuvent être remplacées par des <i>palettes chimériques</i> qui persistent jusqu’à ce qu’on s’en approche.</li><li><i>Les palettes chimériques</i> sont générées aléatoirement toutes les <b>20 secondes</b> à l’emplacement d’une palette brisée.</li><li><b>Le Docteur</b> peut voir l’aura des <i>palettes chimériques</i>.</li><span class=\"FlavorText\">« La stimulation doit être ininterrompue de sorte à maintenir les <u>convulsions</u>. » - H. Carter</span>",
-        "name": "« Ordre » - Notes de Carter",
+        "name": "« Ordre » - Notes de Carter",
         "id": 315,
         "index": "ORDER_CARTERS_NOTES",
         "owner": "DOCTOR",
@@ -1197,7 +1197,7 @@
     },
     {
         "description": "Procédure d’électrochocs du Projet Réveil utilisée comme mesure disciplinaire, annotée par le docteur Herman Carter lui-même. Le voltage très élevé laisse le patient dans un état de paranoïa sévère.<br><li><b>Réduit considérablement</b> le délai de déflagration d’<b>Électrochocs</b>.</li><br>Les survivants avec l’effet de statut <b>Folie</b> sont victimes de l’<i>affliction Discipline</i>.<li><b>Folie II</b> : durant une poursuite, ils perçoivent la <i>tache rouge fictive</i> et le <i>rayon de terreur</i>, comme si <b>le Docteur</b> était juste derrière eux. Cet effet persiste <b>6 secondes</b> après la fin de la poursuite.</li><li><b>Folie III</b> : la <i>tache rouge fictive</i> et le <i>rayon de terreur</i> sont tout le temps actifs.</li><li><b>Le Docteur</b> voit aussi la <i>tache rouge fictive</i>.</li><span class=\"FlavorText\">« Pour éviter les rechutes de nos cas les plus complexes, utilisez le niveau maximum lors des mesures disciplinaires. » - H. Carter</span>",
-        "name": "« Discipline » - Notes de Carter",
+        "name": "« Discipline » - Notes de Carter",
         "id": 317,
         "index": "DISCIPLINE_CARTERS_NOTES",
         "owner": "DOCTOR",
@@ -1206,7 +1206,7 @@
     },
     {
         "description": "Une procédure d’électrochocs expérimentale annotée par le docteur Herman Carter lui-même. Ce traitement envoie une puissante longueur d’onde qui apaise certaines maladies mentales. Avec l’Étincelle de Carter comme source, cette procédure crée une peur et une anxiété incontrôlables chez le patient.<br><li><b>Augmente considérablement</b> votre rayon de terreur quand <b>Explosion électrique</b> est prête.</li><li><b>Réduit considérablement</b> votre rayon de terreur pendant la récupération d’<b>Explosion électrique</b>.</li><br>Les survivants avec l’effet de statut <b>Folie</b> sont victimes de l’<i>affliction Calme</i>.<li><b>Folie II</b> : les survivants entendent <b>par intermittence</b> un <i>rayon de terreur fictif</i> au loin.</li><li><b>Folie III</b> : les survivants entendent <b>en permanence</b> un <i>rayon de terreur fictif</i> au loin.</li><span class=\"FlavorText\">« Des crises de haute qualité déclenchent une catatonie. Au moins, j’ai la <u>paix</u> tant que ça dure. » - H. Carter</span>",
-        "name": "« Calme » - Notes de Carter",
+        "name": "« Calme » - Notes de Carter",
         "id": 318,
         "index": "CALM_CARTERS_NOTES",
         "owner": "DOCTOR",
@@ -1216,7 +1216,7 @@
     {
         "description": "Une pièce d’échecs à l’effigie du roi, ressemblant à du verre et moulée à partir de la Brume elle-même. La trace de l’Entité qui résonne en elle peut briser les esprits les plus puissants.<br><br>Les survivants avec l’effet de statut <b>Folie</b> souffrent des <i>afflictions suivantes : Calme, Discipline, Ordre,</i> et <i>Contrainte</i>.<li>Ils entendent <b>par intermittence</b> un <i>rayon de terreur fictif</i> au loin.</li><li>Durant une poursuite, ils perçoivent la <i>tache rouge fictive</i> et le <i>rayon de terreur</i>, comme si <b>le Docteur</b> était juste derrière eux. Cet effet persiste <b>6 secondes</b> après la fin de la poursuite en cas de <b>Folie II</b> et est actif tout le temps en cas de <b>Folie III</b>.</li><li>Les palettes brisées peuvent être remplacées par des <i>palettes chimériques</i> qui persistent jusqu’à ce qu’on s’en approche. Les <i>palettes chimériques</i> sont générées toutes les <b>20 secondes</b> à l’emplacement d’une palette brisée.</li><li><b>Augmente modérément</b> la durée des <i>docteurs fictifs</i>.</li><li><b>Le Docteur</b> voit aussi les <i>taches rouges fictives</i> ainsi que les auras des <i>docteurs fictifs et des palettes chimériques</i>.</li>",
         "name": "Roi iridescent",
-        "flavor": "« Plonger son regard dans le verre iridescent revient à sombrer dans la folie. »",
+        "flavor": "« Plonger son regard dans le verre iridescent revient à sombrer dans la folie. »",
         "id": 319,
         "index": "IRIDESCENT_KING",
         "owner": "DOCTOR",
@@ -1226,7 +1226,7 @@
     {
         "description": "Une pièce d’échec à l’effigie de la reine, ressemblant à du verre et moulée à partir de la Brume elle-même. Le moindre contact inflige une décharge électrique considérable.<br><li>Tous les survivants frappés par les <i>capacités spéciales</i> <b>Électrochocs</b> ou <b>Explosion électrique</b> reçoivent une <b>Charge électrique</b> durable. Les survivants conservent la <b>Charge électrique</b> jusqu’à ce qu’elle soit <i>évacuée</i>.</li><li>Plusieurs survivants frappés par la même <i>capacité spéciale</i> <b>Électrochocs</b> ou <b>Explosion électrique</b> à moins de <b>4 mètres</b> les uns des autres n’obtiennent pas de <b>Charge électrique</b>.</li><li>Dès qu’un survivant est à moins de <b>4 mètres</b> d’un autre survivant avec une <b>Charge électrique</b>, le survivant subit une électrocution avec les mêmes effets que la <i>capacité spéciale</i> <b>Électrochocs</b> et la <b>Charge électrique</b> est immédiatement <i>évacuée</i>.</li>",
         "name": "Reine iridescente",
-        "flavor": "« Dès que nous aurons établi un traitement efficace, nous pourrons étudier les méthodes d’administration les plus efficaces. » -H. Carter",
+        "flavor": "« Dès que nous aurons établi un traitement efficace, nous pourrons étudier les méthodes d’administration les plus efficaces. » -H. Carter",
         "id": 320,
         "index": "IRIDESCENT_QUEEN",
         "owner": "DOCTOR",
@@ -1398,7 +1398,7 @@
     {
         "description": "Une tête de hachette semblable à du verre, moulée dans la Brume elle-même. Cette lame est chaude d’une énergie qui émane de l’Entité.<br><li>Les coups de hachette réussis plongent immédiatement les survivants en bonne santé en état critique.</li><li>Règle le nombre maximum de hachettes transportées à <b>1</b>.</li>",
         "name": "Tête iridescente",
-        "flavor": "« Le verre iridescent tranche aussi bien la chair que l’âme. »",
+        "flavor": "« Le verre iridescent tranche aussi bien la chair que l’âme. »",
         "id": 369,
         "index": "IRIDESCENT_HEAD",
         "owner": "HUNTRESS",
@@ -1489,7 +1489,7 @@
     {
         "description": "Un grand bol de chili pour rester en forme et conserver votre énergie.<br><br><li><b>Augmente légèrement</b> la durée de sprint quand un jeton est consommé.</li><li><b>Augmente légèrement</b> la fenêtre d’utilisation supplémentaire de Balayage à la tronçonneuse.</li><br>",
         "name": "Chili",
-        "flavor": "« J’ai un bon barbecue juste ici ! » - Drayton Sawyer",
+        "flavor": "« J’ai un bon barbecue juste ici ! » - Drayton Sawyer",
         "id": 411,
         "index": "CHILI",
         "owner": "CANNIBAL",
@@ -1571,7 +1571,7 @@
     {
         "description": "Un grand bol de chili épicé rendu célèbre par sa viande de première qualité.<br><br><li><b>Augmente modérément</b> la durée de sprint quand un jeton est consommé.</li><li><b>Augmente modérément</b> la fenêtre d’utilisation supplémentaire de la tronçonneuse.</li><br>",
         "name": "Chili primé",
-        "flavor": "« Le secret est dans la viande. » - Drayton Sawyer",
+        "flavor": "« Le secret est dans la viande. » - Drayton Sawyer",
         "id": 422,
         "index": "AWARD_WINNING_CHILI",
         "owner": "CANNIBAL",
@@ -1581,7 +1581,7 @@
     {
         "description": "Une fine tranche de chair jeune et bien lisse. Les veines scintillent d’un éclat luminescent, comme si la vie circulait encore à l’intérieur.<br><br><li>Frapper un survivant avec la tronçonneuse remplit ses charges.</li><li>Limite la durée maximale de la crise à 8 secondes.</li><br>",
         "name": "Chair iridescente",
-        "flavor": "« Il y a des moments où l’on a du mal à croire que ce qu’il se passe est bien réel. Pincez-vous et vous verrez que si. » — Pam Jones",
+        "flavor": "« Il y a des moments où l’on a du mal à croire que ce qu’il se passe est bien réel. Pincez-vous et vous verrez que si. » — Pam Jones",
         "id": 423,
         "index": "IRIDESCENT_FLESH",
         "owner": "CANNIBAL",
@@ -1942,7 +1942,7 @@
     {
         "description": "Chaque jeu a ses règles.<br><li><b>Désactive</b> la capacité des survivants à voir les auras des boîtes puzzles jusqu'à l'activation de leur piège.</li>",
         "name": "Ensemble de règles n° 2",
-        "flavor": "« Écoutez, il y a des règles. » -Jigsaw",
+        "flavor": "« Écoutez, il y a des règles. » -Jigsaw",
         "id": 518,
         "index": "RULES_SET_NO_2",
         "owner": "PIG",
@@ -1952,7 +1952,7 @@
     {
         "description": "Lettre de chantage à l’attention d’Amanda. Sa lecture insuffle rage et concentration à son lecteur.<br><li>Les silhouettes des survivants à 12 mètres de distance sont visibles en étant accroupi.</li><li><b>Supprime</b> <b>3</b> pièges à ours inversés disponibles.</li><li><b>Supprime</b> <b>2</b> boîtes puzzles disponibles.</li>",
         "name": "Lettre à Amanda",
-        "flavor": "« Amanda, tu étais avec Cecil la nuit où Jill a perdu Gideon. Tu as tué leur enfant. Nous le savons tous les deux. » -Lettre à Amanda",
+        "flavor": "« Amanda, tu étais avec Cecil la nuit où Jill a perdu Gideon. Tu as tué leur enfant. Nous le savons tous les deux. » -Lettre à Amanda",
         "id": 519,
         "index": "AMANDAS_LETTER",
         "owner": "PIG",
@@ -2484,7 +2484,7 @@
     {
         "description": "Un badge en simili-verre, moulé à partir de la Brume pour ressembler à la Légion. Sa surface est chaude et vibre de la puissance de l'Entité.<br><br>Quand l'effet de statut Blessure profonde a été appliqué durant Frénésie animale :<br><li>votre rayon de terreur affecte <b>toute la carte.</b></li><li>toutes les palettes par-dessus lesquelles vous sautez sont <b>immédiatement brisées.</b></li><br>Cet effet dure jusqu'à ce que la jauge de pouvoir soit vidée.<br>",
         "name": "Badge irisé",
-        "flavor": "« La jeunesse consumée par le verre irisé amplifie et étend la portée de l'Entité. »",
+        "flavor": "« La jeunesse consumée par le verre irisé amplifie et étend la portée de l'Entité. »",
         "id": 668,
         "index": "IRIDESCENT_BUTTON",
         "owner": "LEGION",
@@ -2682,8 +2682,8 @@
     },
     {
         "description": "Caméra volée à une victime d’Olsen à Philadelphie, où il travaillait auparavant. La bobine présente sa dernière nuit dans cette ville.<br><li><b>Augmente légèrement</b> la vitesse de marquage d’un survivant quand vous ne vous inclinez pas depuis une cachette.</li>",
-        "name": "« Philly »",
-        "flavor": "« Qu’est-ce que je peux aimer Philly... Elle m’a tout donné et je ne veux rien en oublier. » – Ghost Face",
+        "name": "« Philly »",
+        "flavor": "« Qu’est-ce que je peux aimer Philly... Elle m’a tout donné et je ne veux rien en oublier. » – Ghost Face",
         "id": 750,
         "index": "PHILLY",
         "owner": "GHOST",
@@ -2837,7 +2837,7 @@
     {
         "description": "Un permis de conduire dévoilant la véritable identité d’Olsen : Danny Johnson.<br><li><b>Réduit considérablement</b> la portée à laquelle un survivant détecte le tueur quand <i>Linceul nocturne</i> est actif.</li>",
         "name": "Permis de conduire",
-        "flavor": "« Tous voudront savoir qui est Ghost Face, mais la vraie question est de savoir qui sera le suivant. » - Ghost Face",
+        "flavor": "« Tous voudront savoir qui est Ghost Face, mais la vraie question est de savoir qui sera le suivant. » - Ghost Face",
         "id": 767,
         "index": "DRIVERS_LICENSE",
         "owner": "GHOST",
@@ -2846,8 +2846,8 @@
     },
     {
         "description": "Cassette obtenue par Olsen pour écrire un article qui a terrorisé Roseville.<br><li><b>Augmente énormément</b> la vitesse de marquage d’un survivant quand vous vous inclinez depuis votre cachette.</li><li><b>Réduit énormément</b> la vitesse de marquage d’un survivant quand vous ne vous inclinez pas depuis une cachette.</li>",
-        "name": "« Ghost Face surpris en direct »",
-        "flavor": "« Dans ce film, on peut apercevoir une silhouette sombre entrer en pleine nuit dans une maison au nord de Roseville, en Floride. La police a reçu un appel le lendemain matin, l'informant d’un meurtre dans la zone. Verrouillez vos portes, un meurtrier rôde dans le voisinage, au cœur de la nuit. » – La Gazette de Roseville",
+        "name": "« Ghost Face surpris en direct »",
+        "flavor": "« Dans ce film, on peut apercevoir une silhouette sombre entrer en pleine nuit dans une maison au nord de Roseville, en Floride. La police a reçu un appel le lendemain matin, l'informant d’un meurtre dans la zone. Verrouillez vos portes, un meurtrier rôde dans le voisinage, au cœur de la nuit. » – La Gazette de Roseville",
         "id": 768,
         "index": "CAUGHT_ON_TAPE",
         "owner": "GHOST",
@@ -2857,7 +2857,7 @@
     {
         "description": "Une petite caméra de surveillance qui a saisi l'effraction de Ghost Face dans une maison de Belleview Road au nord de Roseville. La caméra était parfaitement installée pour capturer un aperçu de Ghost Face sans fournir de preuves réelles à la police.<br><li>L'aura de tous les survivants en dehors de votre rayon de terreur est révélée pendant 4 secondes quand un survivant marqué entre en état critique.</li>",
         "name": "Caméra de sécurité extérieure",
-        "flavor": "« Une image vaut mille mots. » – Ghost Face",
+        "flavor": "« Une image vaut mille mots. » – Ghost Face",
         "id": 769,
         "index": "OUTDOOR_SECURITY_CAMERA",
         "owner": "GHOST",
@@ -2984,7 +2984,7 @@
     {
         "description": "Un briquet utilisé pour faire des bêtises.<li>Les survivants sous l’effet d’un portail souffrent de l’effet de statut <b>Aveuglement</b>. Cet effet persiste pendant <b>60 secondes</b> après avoir perdu contact avec le portail.</li>",
         "name": "Briquet en cuivre",
-        "flavor": "« Émet un puissant champ électromagnétique : cela doit avoir été en contact avec le monde à l’envers. » - Laboratoire national d’Hawkins",
+        "flavor": "« Émet un puissant champ électromagnétique : cela doit avoir été en contact avec le monde à l’envers. » - Laboratoire national d’Hawkins",
         "id": 813,
         "index": "BRASS_CASE_LIGHTER",
         "owner": "DEMOGORGON",
@@ -2994,7 +2994,7 @@
     {
         "description": "Un champignon vénéneux rouge vif du monde à l’envers.<li><b>Augmente modérément</b> la durée de l’effet de statut <b>Indétectable</b> appliqué au Démogorgon quand il sort d’un portail.</li>",
         "name": "Petit bonnet vermillon",
-        "flavor": "« Nous poursuivons l’étude de ce spécimen. Jusqu’à présent nos résultats sont incohérents. » - Laboratoire national d’Hawkins",
+        "flavor": "« Nous poursuivons l’étude de ce spécimen. Jusqu’à présent nos résultats sont incohérents. » - Laboratoire national d’Hawkins",
         "id": 814,
         "index": "VERMILLION_WEBCAP",
         "owner": "DEMOGORGON",
@@ -3004,7 +3004,7 @@
     {
         "description": "De la sève gluante inflammable qui renforce le portail vers les tunnels inter-dimensionnels.<li><b>Augmente modérément</b> le temps pris par les survivants pour sceller un portail.</li>",
         "name": "Résine sens dessus dessous",
-        "flavor": "« Un échantillon pris sur l’arbre dissimulant un portail vers une autre dimension. Les études sur ses effets ne sont pas concluantes. » - Laboratoire national d’Hawkins",
+        "flavor": "« Un échantillon pris sur l’arbre dissimulant un portail vers une autre dimension. Les études sur ses effets ne sont pas concluantes. » - Laboratoire national d’Hawkins",
         "id": 815,
         "index": "UPSIDE_DOWN_RESIN",
         "owner": "DEMOGORGON",
@@ -3014,7 +3014,7 @@
     {
         "description": "Un gros œuf chaud recouvert d’une sorte de toile répugnante.<li><b>Augmente considérablement</b>la vitesse de récupération de pouvoir de traversée du monde à l’envers.</li>",
         "name": "Œuf inconnu",
-        "flavor": "« Un gros œuf a été aperçu dans le monde à l’envers, mais aucun échantillon n’a survécu au voyage de retour jusqu’au laboratoire pour être examiné. » - Laboratoire national d’Hawkins",
+        "flavor": "« Un gros œuf a été aperçu dans le monde à l’envers, mais aucun échantillon n’a survécu au voyage de retour jusqu’au laboratoire pour être examiné. » - Laboratoire national d’Hawkins",
         "id": 816,
         "index": "UNKNOWN_EGG",
         "owner": "DEMOGORGON",
@@ -3024,7 +3024,7 @@
     {
         "description": "Un sifflet en métal rouillé qui donnait autrefois le ton à l’école publique d’Hawkins.<li>Les survivants près de portails activés sont signalés par Instinct de tueur sans avoir à charger <b>Né de l’abîme</b>.</li>",
         "name": "Sifflet de maître-nageur",
-        "flavor": "« Émet un puissant champ électromagnétique : cela doit avoir été en contact avec le monde à l’envers. » - Laboratoire national d’Hawkins",
+        "flavor": "« Émet un puissant champ électromagnétique : cela doit avoir été en contact avec le monde à l’envers. » - Laboratoire national d’Hawkins",
         "id": 817,
         "index": "LIFEGUARD_WHISTLE",
         "owner": "DEMOGORGON",
@@ -3034,7 +3034,7 @@
     {
         "description": "Une mousse psychédélique qui pousse sur l’écorce des arbres du monde à l’envers.<li>Pendant la traversée du monde à l’envers, le Démogorgon sort du portail cible en silence, mais plus lentement.</li><li><b>Augmente énormément</b> la durée de l’effet de statut <b>Indétectable</b> appliqué au Démogorgon quand il sort d’un portail.</li>",
         "name": "Mousse rouge",
-        "flavor": "« Consommer ses feuilles amplifie les capacités athlétiques et provoque un effet euphorisant. » - Laboratoire national d’Hawkins",
+        "flavor": "« Consommer ses feuilles amplifie les capacités athlétiques et provoque un effet euphorisant. » - Laboratoire national d’Hawkins",
         "id": 818,
         "index": "RED_MOSS",
         "owner": "DEMOGORGON",
@@ -3044,7 +3044,7 @@
     {
         "description": "Un puissant lichen qui pousse comme du chiendent dans le monde à l’envers.<li><b>Révèle les auras</b> de tous les survivants pendant la traversée du monde à l’envers, et durant <b>3 secondes</b> après être sorti d’un portail.</li>",
         "name": "Lichen lépreux",
-        "flavor": "« Une faible dose peut provoquer de violentes hallucinations. » - Laboratoire national d’Hawkins",
+        "flavor": "« Une faible dose peut provoquer de violentes hallucinations. » - Laboratoire national d’Hawkins",
         "id": 819,
         "index": "LEPROSE_LICHEN",
         "owner": "DEMOGORGON",
@@ -3063,7 +3063,7 @@
     {
         "description": "Si la corde avait été plus solide, elle aurait pu contenir Kazan. Malheureusement, il est parvenu à s’échapper avant de massacrer ses ravisseurs.<li><b>Augmente légèrement</b> la distance de détection de l’aura des orbes de sang.</li>",
         "name": "Corde en décomposition",
-        "flavor": "« Bien que la mort soit nette, il est du genre à sourciller. » - Doctrine de Renjiro 14:5",
+        "flavor": "« Bien que la mort soit nette, il est du genre à sourciller. » - Doctrine de Renjiro 14:5",
         "id": 851,
         "index": "ROTTING_ROPE",
         "owner": "ONI",
@@ -3082,7 +3082,7 @@
     {
         "description": "Chute à l’occasion d’une des centaines de randonnées hivernales au temple de Kazan. Malgré son pèlerinage, la jambe d’Akito n’a jamais guéri.<li><b>Augmente légèrement</b> la vitesse de mouvement en absorbant des orbes de sang.</li>",
         "name": "Ongle de pied noirci",
-        "flavor": "« Si un père ne se sacrifie pas pour ses enfants, de qui est-il donc le père ? » - Doctrine de Renjiro 11:12",
+        "flavor": "« Si un père ne se sacrifie pas pour ses enfants, de qui est-il donc le père ? » - Doctrine de Renjiro 11:12",
         "id": 853,
         "index": "BLACKENED_TOENAIL",
         "owner": "ONI",
@@ -3146,7 +3146,7 @@
     {
         "description": "Un masque acheté par le jeune Kazan pour fêter Setsubun. Son horrible gueule remplie de crocs commença à envahir ses cauchemars.<li><b>Augmente légèrement</b> la quantité d’orbes de sang lâchés par les survivants.</li>",
         "name": "Masque d’Oni en bois",
-        "flavor": "« Ce n’est pas une coïncidence si cet homme s’y connaît autant en démons. » - Doctrine de Renjiro 3:8",
+        "flavor": "« Ce n’est pas une coïncidence si cet homme s’y connaît autant en démons. » - Doctrine de Renjiro 3:8",
         "id": 860,
         "index": "WOODEN_ONI_MASK",
         "owner": "ONI",
@@ -3192,7 +3192,7 @@
     {
         "description": "L’épave du navire qui transportait Renjiro Yamaoka. Contre toute attente, le samouraï légendaire semble avoir survécu.<li><b>Augmente modérément</b> la quantité d’orbes de sang lâchés par les survivants.</li>",
         "name": "Coque éventrée",
-        "flavor": "« Pour préparer un subterfuge, n’écoutez que vous. » - Doctrine de Renjiro 7:9",
+        "flavor": "« Pour préparer un subterfuge, n’écoutez que vous. » - Doctrine de Renjiro 7:9",
         "id": 865,
         "index": "SPLINTERED_HULL",
         "owner": "ONI",
@@ -3220,7 +3220,7 @@
     {
         "description": "Le gant que Renjiro maintenait sur son sternum après avoir été frappé par son fils.<li>Tous les survivants peuvent voir les orbes de sang.</li><li>Quand un survivant entre en contact avec un orbe de sang, il l’absorbe et le tueur peut alors voir son aura pendant <b>2 secondes</b>.</li><li>Cet effet est cumulable pour chaque orbe de sang absorbé.</li>",
         "name": "Gant sanglant de Renjiro",
-        "flavor": "« Quand tout le reste échoue, accrochez-vous à votre honneur. » - Doctrine de Renjiro 14:12",
+        "flavor": "« Quand tout le reste échoue, accrochez-vous à votre honneur. » - Doctrine de Renjiro 14:12",
         "id": 868,
         "index": "RENJIROS_BLOODY_GLOVE",
         "owner": "ONI",
@@ -3230,7 +3230,7 @@
     {
         "description": "Un blason qui indique que son porteur appartient à la famille Yamaoka.<br><li>Tant que <i>Fureur sanglante</i> est active, rater un <i>Coup démoniaque</i> fera crier tous les survivants dans un <b>rayon de 12 mètres</b> et vous révèlera leur position actuelle.</li>",
         "name": "Blason de famille irisé",
-        "flavor": "« Apprenez à vous connaître pour protéger votre cœur » - Doctrine de Renjiro 11:2",
+        "flavor": "« Apprenez à vous connaître pour protéger votre cœur » - Doctrine de Renjiro 11:2",
         "id": 869,
         "index": "IRIDESCENT_FAMILY_CREST",
         "owner": "ONI",
@@ -3438,7 +3438,7 @@
     {
         "description": "Trouvée dans la cave de l’hôpital Brookhaven, un dessin d’araignée est gravé dessus.<li><b>Augmente légèrement</b> le nombre de fois total où les <b>Rites du jugement</b> peuvent être effectués.</li>",
         "name": "Anneau de cuivre",
-        "flavor": "« J’étais enfermée dans le sous-sol du sous-sol. J’y étais tellement à l’étroit et il y faisait si sombre... j’avais si peur. J’ai perdu ma bague chérie. Mais je n’y retournerai jamais plus. »",
+        "flavor": "« J’étais enfermée dans le sous-sol du sous-sol. J’y étais tellement à l’étroit et il y faisait si sombre... j’avais si peur. J’ai perdu ma bague chérie. Mais je n’y retournerai jamais plus. »",
         "id": 952,
         "index": "COPPER_RING",
         "owner": "EXECUTIONER",
@@ -3475,7 +3475,7 @@
     {
         "description": "Un morceau de tissu rose à imprimé léopard. Difficile de savoir ce à quoi il a pu servir.<li><b>Augmente légèrement</b> la durée d’<i>Instinct de tueur</i> suite à une activation par <b>Rites du jugement</b>.</li>",
         "name": "Tissu à imprimé léopard",
-        "flavor": "« Peu importe qui je suis, je suis là pour toi, James. » - Maria",
+        "flavor": "« Peu importe qui je suis, je suis là pour toi, James. » - Maria",
         "id": 956,
         "index": "LEOPARD_PRINT_FABRIC",
         "owner": "EXECUTIONER",
@@ -3521,7 +3521,7 @@
     {
         "description": "La peinture d’une silhouette imposante qui porte une pyramide d’acier sur la tête. En arrière-plan, des victimes sont enfermées dans des cages.<li><b>Augmente modérément</b> la durée d’<i>Instinct de tueur</i> suite à une activation par <b>Rites du jugement</b>.</li>",
         "name": "Jour de brume, restes du Jugement",
-        "flavor": "« C’est lui... »",
+        "flavor": "« C’est lui... »",
         "id": 961,
         "index": "MISTY_DAY_REMAINS_OF_JUDGMENT",
         "owner": "EXECUTIONER",
@@ -3549,7 +3549,7 @@
     {
         "description": "Un œuf frais rouge de la taille approximative d’un œuf de caille.<li><b>Augmente considérablement</b> la durée d’<i>Instinct de tueur</i> suite à une activation par <b>Rites du jugement</b>.</li>",
         "name": "Œuf écarlate",
-        "flavor": "« Je n’ai jamais eu aussi peur de toute ma vie ! Tu te fichais complètement de moi... n’est-ce pas ? » - Maria",
+        "flavor": "« Je n’ai jamais eu aussi peur de toute ma vie ! Tu te fichais complètement de moi... n’est-ce pas ? » - Maria",
         "id": 964,
         "index": "SCARLET_EGG",
         "owner": "EXECUTIONER",
@@ -3559,7 +3559,7 @@
     {
         "description": "De couleur orange rougeâtre, cet œuf de la taille approximative d’un œuf de caille semble vieux.<li>Les survivants affectés par <b>Rites du jugement</b> souffrent de l’effet de statut <b>Aveuglement</b> pendant <b>60 secondes</b>.</li>",
         "name": "Œuf couleur rouille",
-        "flavor": "« James... Tu m’as rendue heureuse. » - Mary",
+        "flavor": "« James... Tu m’as rendue heureuse. » - Mary",
         "id": 965,
         "index": "RUST_COLORED_EGG",
         "owner": "EXECUTIONER",
@@ -3588,7 +3588,7 @@
     {
         "description": "Une coupe d’aspect ancien, en obsidienne pure.<li><b>Le Bourreau</b> gagne l’effet de statut <b>Indétectable</b> quand il se trouve sur une piste des <b>Rites du jugement</b>.</li>",
         "name": "Coupe en obsidienne",
-        "flavor": "« Pardon de t’avoir réveillé. Mais sans toi, je n’ai plus envie de vivre. » - James Sunderland",
+        "flavor": "« Pardon de t’avoir réveillé. Mais sans toi, je n’ai plus envie de vivre. » - James Sunderland",
         "id": 968,
         "index": "OBSIDIAN_GOBLET",
         "owner": "EXECUTIONER",
@@ -3735,7 +3735,7 @@
     {
         "description": "Le journal d’un homme qui affirmait être revenu du Néant. Les informations qu’il contient ont des applications pratiques.<br><br><li>Gagnez l’effet de statut <b>Indétectable</b> pendant une Ruée.</li><br>",
         "name": "Journal de Vigo",
-        "flavor": "« Au milieu d’un désert de rêves oubliés et de routine perpétuelle, l’homme avec une échappatoire est un dieu. » - Talbot Grimes",
+        "flavor": "« Au milieu d’un désert de rêves oubliés et de routine perpétuelle, l’homme avec une échappatoire est un dieu. » - Talbot Grimes",
         "id": 1014,
         "index": "VIGOS_JOURNAL",
         "owner": "BLIGHT",
@@ -3755,7 +3755,7 @@
     {
         "description": "Une substance chimique tirée de la glande pinéale d’un survivant récemment décédé.<br><br><li>Pendant une Ruée, quand vous entrez dans le rayon de <b>16 mètres</b> d’un survivant en train de réparer ou soigner, vous déclenchez pour ce dernier un test d’habileté d’une difficulté <b>énorme</b>. Peut être activé une fois par survivant par Ruée. Ne se déclenche pas suite à une Ruée qui commence à moins de <b>16 mètres</b> du survivant.</li><br>",
         "name": "Substance d’âme",
-        "flavor": "« ... soupçonné de provoquer des altérations atypiques de l’activité rythmique neuronale. » - Mystérieux travail d’études non attribué",
+        "flavor": "« ... soupçonné de provoquer des altérations atypiques de l’activité rythmique neuronale. » - Mystérieux travail d’études non attribué",
         "id": 1016,
         "index": "SOUL_CHEMICAL",
         "owner": "BLIGHT",
@@ -3912,7 +3912,7 @@
     {
         "description": "Un vêtement porté par Madeleine peu avant sa mort. Les Jumeaux l’ont conservé en souvenir.<br><br><li><b>Augmente légèrement</b> la vitesse de Victor.</li><br>",
         "name": "Écharpe de Madeleine",
-        "flavor": "« ... doit donc par la présente être considéré comme un service rendu à l’intérêt général et pour l’extermination du mal. » — Enquête sur la mort de Madeleine Deshayes",
+        "flavor": "« ... doit donc par la présente être considéré comme un service rendu à l’intérêt général et pour l’extermination du mal. » — Enquête sur la mort de Madeleine Deshayes",
         "id": 1063,
         "index": "MADELEINES_SCARF",
         "owner": "TWINS",
@@ -3922,7 +3922,7 @@
     {
         "description": "Un soldat, jouet auquel Victor s’accrochait quand il avait peur. Pour une raison qu’elle ignore, Charlotte éprouvait de la jalousie quand elle le voyait.<br><br><li>Si un survivant écrase Victor quand il est inoccupé, son aura est révélée pendant <b>6 secondes.</b></li><br>",
         "name": "Petit soldat de Victor",
-        "flavor": "« Tu... tu... er... méc... cha... » — Victor Deshayes",
+        "flavor": "« Tu... tu... er... méc... cha... » — Victor Deshayes",
         "id": 1064,
         "index": "VICTORS_SOLDIER",
         "owner": "TWINS",
@@ -3932,7 +3932,7 @@
     {
         "description": "Une toupie en bois appartenant aux Jumeaux, mais Victor l’a toujours voulue rien que pour lui. Il a découvert qu’il pouvait avoir tout ce qu’il voulait s’il s’y accrochait suffisamment en criant.<br><br><li>Les survivants lâchent les objets qu’ils transportent lorsque Victor leur saute dessus.</li><br>",
         "name": "Toupie",
-        "flavor": "« Chut... chut... c’est pour toi. » — Charlotte Deshayes",
+        "flavor": "« Chut... chut... c’est pour toi. » — Charlotte Deshayes",
         "id": 1065,
         "index": "SPINNING_TOP",
         "owner": "TWINS",
@@ -3942,7 +3942,7 @@
     {
         "description": "Un potage de légumes sauvages assortis à de la mousse et de l’écorce pour simuler une sensation d’abondance.<br><br><li><b>Augmente modérément</b> la vitesse de Victor.</li><br>",
         "name": "Potage des bois",
-        "flavor": "« Mange... mange, mon enfant. Tu te sentiras mieux après avoir avalé. » — Madeleine Deshayes",
+        "flavor": "« Mange... mange, mon enfant. Tu te sentiras mieux après avoir avalé. » — Madeleine Deshayes",
         "id": 1066,
         "index": "FOREST_STEW",
         "owner": "TWINS",
@@ -3952,7 +3952,7 @@
     {
         "description": "L’un des rares luxes que Madeleine a réussi à emporter dans sa fuite. Son parfum est agréable et désarmant.<br><br><li>Les survivants dans le rayon des cris de Victor souffrent de l’effet de statut <b>Inconscient</b>.</li><br>",
         "name": "Goutte de parfum",
-        "flavor": "« Méfiez-vous des perfides sorcières, qui abusent de la bonté du cœur des hommes. » — Histoire des sorcières et des démons (1602)",
+        "flavor": "« Méfiez-vous des perfides sorcières, qui abusent de la bonté du cœur des hommes. » — Histoire des sorcières et des démons (1602)",
         "id": 1067,
         "index": "DROP_OF_PERFUME",
         "owner": "TWINS",
@@ -3962,7 +3962,7 @@
     {
         "description": "Un bout de tissu rêche que Charlotte se mettait dans la bouche quand elle avait cinq ans. Pratique pour l’empêcher de crier quand les chasseurs de sorcières étaient proches.<br><br><li>Charlotte bénéficie de l’effet de statut <b>Indétectable</b> pendant <b>20 secondes</b> après s’être réveillée de son état d’inoccupation.</li><br>",
         "name": "Bâillon",
-        "flavor": "« Ce jeu ne me plaît plus, maman... » — Charlotte Deshayes",
+        "flavor": "« Ce jeu ne me plaît plus, maman... » — Charlotte Deshayes",
         "id": 1068,
         "index": "SILENCING_CLOTH",
         "owner": "TWINS",
@@ -3972,7 +3972,7 @@
     {
         "description": "Un pendentif ressemblant à du verre modelé à partir de la brume. Il arbore un portrait pour le moins perturbant de Madeleine Deshayes.<br><br><li>Si un survivant écrase Victor quand il est inoccupé, il souffre de l’effet de statut <b>À découvert</b> pendant <b>30 secondes.</b></li><br>",
         "name": "Pendentif irisé",
-        "flavor": "« Votre lien n’est pas une malédiction, mes amours. C’est une force dans laquelle vous devez puiser. » — Madeleine Deshayes",
+        "flavor": "« Votre lien n’est pas une malédiction, mes amours. C’est une force dans laquelle vous devez puiser. » — Madeleine Deshayes",
         "id": 1069,
         "index": "IRIDESCENT_PENDANT",
         "owner": "TWINS",
@@ -4118,7 +4118,7 @@
     {
         "description": "Le premier album du Farceur. Le ton âpre et cruel a reçu un accueil des fans en demi-teinte, en dépit des louanges de la critique.<br><li>Les lames se brisent en heurtant l'environnement, infligeant <b>50 % de Lacération</b> aux survivants à proximité.</li>",
         "name": "Album Edge of Revival",
-        "flavor": "« Your whisper on me<br>Warm as can be<br>Burning each breath<br>Till I can’t breathe »<br>— « Whispers of Warmth » du Farceur",
+        "flavor": "« Your whisper on me<br>Warm as can be<br>Burning each breath<br>Till I can’t breathe »<br>— « Whispers of Warmth » du Farceur",
         "id": 1115,
         "index": "EDGE_OF_REVIVAL_ALBUM",
         "owner": "TRICKSTER",
@@ -4128,7 +4128,7 @@
     {
         "description": "Boutons de manchette enfoncés dans les orbites d'un fan sasaeng qui a commis l'erreur de harceler Ji-Woon. Si l'on en essuie le sang, leur scintillement en révèle beaucoup.<br><li>Quand la jauge de Lacération d'un survivant est à un coup de lame de son maximum, son aura est révélée pendant <b>6 secondes</b>.</li>",
         "name": "Boutons de manchette en diamant",
-        "flavor": "« Chuuut... Comme ça, tu ne vois plus ton sang. » —Ji-Woon Hak",
+        "flavor": "« Chuuut... Comme ça, tu ne vois plus ton sang. » —Ji-Woon Hak",
         "id": 1116,
         "index": "DIAMOND_CUFFLINKS",
         "owner": "TRICKSTER",
@@ -4138,7 +4138,7 @@
     {
         "description": "Le premier single des NO SPIN après que Ji-Woon a rejoint leurs rangs. Il a fait un tabac au hit-parade coréen.<br><li>Les lames transpercent les survivants.</li><li>Les survivants suivants touchés par la même lame subissent <b>50 % de lacération</b>.</li>",
         "name": "Single Cut Thru U",
-        "flavor": "« Can't stop this love<br>That's tearing your heart<br>Wherever you go<br>I will cut you apart »<br>— « Cut Thru U » des NO SPIN",
+        "flavor": "« Can't stop this love<br>That's tearing your heart<br>Wherever you go<br>I will cut you apart »<br>— « Cut Thru U » des NO SPIN",
         "id": 1117,
         "index": "CUT_THRU_U_SINGLE",
         "owner": "TRICKSTER",
@@ -4148,7 +4148,7 @@
     {
         "description": "Une photo, ressemblant à du verre et moulée à partir de la Brume elle-même. Les yeux de Ji-Woon brillent d’un effet holographique sur son visage grimaçant.<br><li>Quand la jauge de Lacération est à un coup de lame de son maximum, le survivant subit l’effet de statut <b>À découvert</b>.</li>",
         "name": "Photo irisée",
-        "flavor": "« Vas-y, hurle mon nom. Que je perçoive tout ce que la douleur éveille... » — Ji-Woon Hak",
+        "flavor": "« Vas-y, hurle mon nom. Que je perçoive tout ce que la douleur éveille... » — Ji-Woon Hak",
         "id": 1118,
         "index": "IRIDESCENT_PHOTOCARD",
         "owner": "TRICKSTER",
@@ -4204,7 +4204,7 @@
     {
         "description": "Le cœur d’un zombie éviscéré. Considéré comme un déchet toxique car il regorge de virus.<li><b>Augmente modérément</b> le taux de mutation en détruisant des zombies avec Coup de tentacule.</li><br>",
         "name": "Cœur de zombie",
-        "flavor": "« Ça ne sert à rien de discuter avec cette chose. » — Leon S. Kennedy",
+        "flavor": "« Ça ne sert à rien de discuter avec cette chose. » — Leon S. Kennedy",
         "id": 1154,
         "index": "ZOMBIE_HEART",
         "owner": "NEMESIS",
@@ -4223,7 +4223,7 @@
     {
         "description": "Le sang contaminé d’un agent de police de Raccoon City.<li><b>Augmente modérément</b> le taux de mutation en frappant des survivants avec Coup de tentacule.</li><br>",
         "name": "Sang de Marvin",
-        "flavor": "« Tout ce que vous devez savoir, c’est que ce lieu vous dévorera vivant, si vous ne faites pas attention. » — Marvin Branagh",
+        "flavor": "« Tout ce que vous devez savoir, c’est que ce lieu vous dévorera vivant, si vous ne faites pas attention. » — Marvin Branagh",
         "id": 1156,
         "index": "MARVINS_BLOOD",
         "owner": "NEMESIS",
@@ -4287,7 +4287,7 @@
     {
         "description": "Une langue gluante préhensile qui attrape facilement tout ce qu’elle touche.<li><b>Augmente modérément</b> le temps d’<b>Entrave</b> des survivants après leur contamination.</li><br>",
         "name": "Langue de Licker",
-        "flavor": "« C’est comme un cauchemar... » — Claire Redfield",
+        "flavor": "« C’est comme un cauchemar... » — Claire Redfield",
         "id": 1163,
         "index": "LICKER_TONGUE",
         "owner": "NEMESIS",
@@ -4315,7 +4315,7 @@
     {
         "description": "Qui va les sauver à présent ? Ce ruban d’encre sec a quelque chose qui stimule les zombies.<li><b>Réduit considérablement</b> le temps de réapparition des zombies.</li><li>Augmente modérément la vitesse de mouvement des zombies.</li><li>Quand <b>5</b> générateurs sont réparés, tout zombie détruit réapparaît à une zone de sortie.</li><br>",
         "name": "Ruban d’encre vide",
-        "flavor": "« Je vais être aussi claire que possible... c’est la dernière fois. » — Jill Valentine",
+        "flavor": "« Je vais être aussi claire que possible... c’est la dernière fois. » — Jill Valentine",
         "id": 1166,
         "index": "DEPLETED_INK_RIBBON",
         "owner": "NEMESIS",
@@ -4325,7 +4325,7 @@
     {
         "description": "Une pièce qui représente un oiseau, entouré d’une couronne de laurier. Elle est brisée en deux.<li>Supprime <b>1</b> caisse de ravitaillement de la partie.</li><br>",
         "name": "Pièce de récupération brisée",
-        "flavor": "« Ce n’est pas comme ça que j’imaginais mon premier jour... » — Leon S. Kennedy",
+        "flavor": "« Ce n’est pas comme ça que j’imaginais mon premier jour... » — Leon S. Kennedy",
         "id": 1167,
         "index": "BROKEN_RECOVERY_COIN",
         "owner": "NEMESIS",
@@ -4335,7 +4335,7 @@
     {
         "description": "Un symbole d’espoir pour la ville de Raccoon City, complètement détruit.<li><b>Augmente énormément</b> la vitesse de mouvement des zombies pendant <b>30 secondes</b> après la réparation d’un générateur.</li><br>",
         "name": "Insigne brisé du S.T.A.R.S.",
-        "flavor": "« S.T.A.R.S... » — Nemesis",
+        "flavor": "« S.T.A.R.S... » — Nemesis",
         "id": 1168,
         "index": "SHATTERED_STARS_BADGE",
         "owner": "NEMESIS",
@@ -4345,7 +4345,7 @@
     {
         "description": "Un insigne ressemblant à du verre et moulé à partir de la Brume elle-même. Il représente une corporation qui a dépassé les limites éthiques de la science.<li>Les survivants souffrent de l’effet de statut <b>À découvert</b> pendant <b>12 secondes</b> en utilisant un vaccin.</li><br>",
         "name": "Insigne irisé d’Umbrella",
-        "flavor": "« L’engagement, l’honnêteté et l’intégrité sont les valeurs fondamentales à la base d’Umbrella Corp. » — Dr. Matt Gorkis",
+        "flavor": "« L’engagement, l’honnêteté et l’intégrité sont les valeurs fondamentales à la base d’Umbrella Corp. » — Dr. Matt Gorkis",
         "id": 1169,
         "index": "IRIDESCENT_UMBRELLA_BADGE",
         "owner": "NEMESIS",

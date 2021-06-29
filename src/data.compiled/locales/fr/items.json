@@ -11,7 +11,7 @@
     {
         "description": "Une lampe de poche standard. Peut être utilisée pour vous éclairer dans l'obscurité.<br><li><b>8 secondes</b> d'utilisation</li>",
         "name": "Lampe de poche",
-        "flavor": "« La pile a été presque entièrement utilisée par le précédent propriétaire. »",
+        "flavor": "« La pile a été presque entièrement utilisée par le précédent propriétaire. »",
         "id": 2,
         "index": "FLASHLIGHT",
         "type": 1,
@@ -21,7 +21,7 @@
     {
         "description": "Lampe de poche munie d'un filtre spécial qui rend sa lumière orange et projette un petit fantôme. <br><li><b>8 secondes</b> d'utilisation.</li><li><b>Augmente considérablement</b> la présence du gentil fantôme dans votre vie.</li>",
         "name": "Feu follet",
-        "flavor": "« Bonne chasse aux bonbons ! »",
+        "flavor": "« Bonne chasse aux bonbons ! »",
         "id": 3,
         "index": "WILL_O_WISP",
         "type": 1,
@@ -85,7 +85,7 @@
     {
         "description": "Un morceau de parchemin en peau étrangement fraîche. Le sang sur les bords n'est pas encore sec. Il est roulé et maintenu serré par de nombreuses ficelles de couleurs variées. Tenir et orienter la carte débloque un grand potentiel de capacité de repérage d'auras, qui consume lentement la carte. Les objets pourvus d'aura que vous avez déjà découverts vous seront révélés aussi longtemps qu'il restera des charges pour la carte. <br><li><b>20 secondes d'utilisation</b>.</li><li>Commence avec <b>3 objets</b> suivis automatiquement.</li><li>Débloque la capacité de <b>localiser des objectifs</b> dans un rayon de <b>8 mètres</b>.</li><li>Débloque la capacité de <b>localiser des serrures noires</b> dans un rayon de <b>8 mètres</b>.</li><li>Débloque la capacité de <b>localiser les biens du tueur</b> dans un rayon de <b>8 mètres</b>.</li><li>Débloque la capacité de <b>localiser les portes de sortie</b> dans un rayon de <b>8 mètres</b>.</li>",
         "name": "Carte arc-en-ciel",
-        "flavor": "« Ça me met le moral à plat. Tout ce savoir, tous ces efforts éreintants et pourtant, toujours rien de concret, rien d'utile pour sortir de ce cauchemar. » - Journal de Vigo",
+        "flavor": "« Ça me met le moral à plat. Tout ce savoir, tous ces efforts éreintants et pourtant, toujours rien de concret, rien d'utile pour sortir de ce cauchemar. » - Journal de Vigo",
         "id": 10,
         "index": "RAINBOW_MAP",
         "type": 3,
@@ -95,7 +95,7 @@
     {
         "description": "Une trousse de soins rudimentaire qui peut sauver des vies même si elle est incomplète.<br><li><b>16 charges</b>.</li><li><b>Augmente modérément</b> la vitesse à laquelle vous soignez les autres.</li><li>Débloque l’action d’<b>auto-soins</b>.</li>",
         "name": "Trousse de soins de camping",
-        "flavor": "« À peine de quoi réaliser un pansement décent. »",
+        "flavor": "« À peine de quoi réaliser un pansement décent. »",
         "id": 11,
         "index": "CAMPING_AID_KIT",
         "type": 4,
@@ -105,7 +105,7 @@
     {
         "description": "Boîte à déjeuner en plastique ornée d'autocollants Halloween phosphorescents et contenant du matériel médical de secours.<br><li><b>24 charges.</b></li><li><b>Augmente considérablement</b> la vitesse à laquelle vous soignez les autres.</li><li>Débloque l'action d'<b>auto-soins</b>.</li><li>Vous rend <b>beaucoup plus visible</b>.</li>",
         "name": "Boîte à déjeuner Halloween",
-        "flavor": "« La sécurité avant tout ! Assurez-vous que tout le monde vous voie pendant la chasse aux bonbons. »",
+        "flavor": "« La sécurité avant tout ! Assurez-vous que tout le monde vous voie pendant la chasse aux bonbons. »",
         "id": 12,
         "index": "ALL_HALLOWS_EVE_LUNCHBOX",
         "type": 4,
@@ -124,7 +124,7 @@
     {
         "description": "Une trousse de soins résistante et bien rangée, composée des meilleures fournitures médicales.<br><li><b>16 charges</b>.</li><li><b>Augmente énormément</b> la vitesse à laquelle vous soignez les autres.</li><li><b>Augmente énormément</b> la vitesse à laquelle vous vous soignez.</li><li>Débloque l’action d’<b>auto-soins</b>.</li>",
         "name": "Trousse de soins d’urgence",
-        "flavor": "« À tout mal correspond un remède. Enfin, presque... »",
+        "flavor": "« À tout mal correspond un remède. Enfin, presque... »",
         "id": 14,
         "index": "EMERGENCY_MED_KIT",
         "type": 4,
@@ -134,7 +134,7 @@
     {
         "description": "Une grande boîte en métal contenant des fournitures médicales destinées à des sauvetages en terrain difficile.<br><li><b>32 charges</b>.</li><li><b>Augmente énormément</b> la vitesse à laquelle vous soignez les autres.</li><li><b>Augmente modérément</b> les zones de succès des tests d’habileté.</li><li><b>Augmente modérément</b> les zones bonus des tests d’habileté.</li><li>Débloque l’action d’<b>auto-soins</b>.</li>",
         "name": "Trousse de soins de garde forestier",
-        "flavor": "« Une petite étiquette imprimée est collée sous le couvercle : VK.ID-3994723 »",
+        "flavor": "« Une petite étiquette imprimée est collée sous le couvercle : VK.ID-3994723 »",
         "id": 15,
         "index": "RANGER_MED_KIT",
         "type": 4,
@@ -144,7 +144,7 @@
     {
         "description": "Boîte en métal contenant des outils fort abîmés qui peuvent casser à tout moment. Même sans entraînement, elle peut être utilisée pour réparer ou casser de nombreux composants mécaniques.<br><li><b>16 charges</b>.</li><li><b>Augmente modérément</b> la vitesse de réparation.</li><li><b>Réduit légèrement</b> les zones de succès des tests d'habileté.</li><li>Débloque l'action de <b>sabotage</b>.</li>",
         "name": "Outils usés",
-        "flavor": "« Et vous appelez ça des outils ? Sérieusement ?! »",
+        "flavor": "« Et vous appelez ça des outils ? Sérieusement ?! »",
         "id": 16,
         "index": "WORN_OUT_TOOLS",
         "type": 5,
@@ -154,7 +154,7 @@
     {
         "description": "Boîte en métal contenant un ensemble d'outils de base. Même sans entraînement, elle peut être utilisée pour réparer ou casser de nombreux composants mécaniques.<br><li><b>20 charges</b>.</li><li><b>Augmente modérément</b> la vitesse de réparation.</li><li>Débloque l'action de <b>sabotage</b>.</li><li><b>Augmente légèrement</b> la vitesse de sabotage.</li>",
         "name": "Boîte à outils",
-        "flavor": "« On ignore d'où viennent ces outils. Ont-ils été apportés par l'un d'entre nous ou appartenaient-ils à un de ces monstres ? »",
+        "flavor": "« On ignore d'où viennent ces outils. Ont-ils été apportés par l'un d'entre nous ou appartenaient-ils à un de ces monstres ? »",
         "id": 17,
         "index": "TOOLBOX",
         "type": 5,
@@ -182,7 +182,7 @@
     {
         "description": "Boîte en métal contenant des outils très spécialisés de technicien. La plupart des outils peuvent toutefois être utilisés par des débutants pour réparer ou casser de nombreux composants mécaniques.<br><li><b>16 charges</b>.</li><li><b>Augmente énormément</b> la vitesse de réparation.</li><li>Débloque l'action de <b>sabotage</b>.</li><li><b>Réduit modérément</b> la vitesse de sabotage.</li>",
         "name": "Boîte à outils de technicien",
-        "flavor": "« J'ai créé des outils inestimables et je suis resté pétrifié de terreur quand ils me les ont volés. Ceux-ci ne sont que de pâles copies recrachées par la brume. » - Journal de Vigo",
+        "flavor": "« J'ai créé des outils inestimables et je suis resté pétrifié de terreur quand ils me les ont volés. Ceux-ci ne sont que de pâles copies recrachées par la brume. » - Journal de Vigo",
         "id": 20,
         "index": "ENGINEERS_TOOLBOX",
         "type": 5,
@@ -192,7 +192,7 @@
     {
         "description": "Une boîte en métal contenant principalement des scies et des étaux de tailles différentes, mais aussi d'autres outils. Même si le contenu de cette boîte à outils est clairement destiné à des actes de destruction, il peut aussi être utilisé pour réparer de nombreux composants mécaniques.<br><li><b>24 charges</b>.</li><li><b>Augmente légèrement</b> la vitesse de réparation.</li><li>Débloque l'action de <b>sabotage</b>.</li><li><b>Augmente considérablement</b> la vitesse de sabotage.</li>",
         "name": "Boîte à outils d'Alex",
-        "flavor": "« La plupart des outils portent la mention \"propriété d'Alex\". »",
+        "flavor": "« La plupart des outils portent la mention \"propriété d'Alex\". »",
         "id": 21,
         "index": "ALEXS_TOOLBOX",
         "type": 5,
@@ -211,7 +211,7 @@
     {
         "description": "Une petite décoration de table fortement explosive. Explose avec un boum retentissant, un éclair de lumière intense et un tas de confettis. Peut s’utiliser pour créer une diversion, pour éblouir ou pour fêter nos trois ans ensemble.<br><li><b>1 charge.</b></li>",
         "name": "Cadeau de 3e anniversaire",
-        "flavor": "« Joyeux anniversaire ! Pour ces trois années à vos côtés ! »<br>– L’équipe de Dead by Daylight",
+        "flavor": "« Joyeux anniversaire ! Pour ces trois années à vos côtés ! »<br>– L’équipe de Dead by Daylight",
         "id": 23,
         "index": "THIRD_YEAR_PARTY_STARTER",
         "type": 6,
@@ -221,7 +221,7 @@
     {
         "description": "Une trousse de soins festive qui explose en confettis en soignant complètement un survivant. Surprise !<br><li><b>24 charges</b>.</li><li><b>Augmente considérablement</b> la vitesse à laquelle vous soignez les autres.</li><li>Débloque l’action d’<b>auto-soins</b>.</li>",
         "name": "Trousse de soins d'anniversaire",
-        "flavor": "« Joyeux anniversaire ! Pourvu que ça dure ! »<br>- L’équipe de Dead by Daylight",
+        "flavor": "« Joyeux anniversaire ! Pourvu que ça dure ! »<br>- L’équipe de Dead by Daylight",
         "id": 24,
         "index": "ANNIVERSARY_MED_KIT",
         "type": 4,
@@ -231,7 +231,7 @@
     {
         "description": "Une lampe de poche festive qui explose en confettis en aveuglant un tueur. Surprise !<br><li><b>8 secondes</b> d’utilisation</li>",
         "name": "Lampe de poche d'anniversaire",
-        "flavor": "« Joyeux anniversaire ! Pourvu que ça dure ! »<br>- L’équipe de Dead by Daylight",
+        "flavor": "« Joyeux anniversaire ! Pourvu que ça dure ! »<br>- L’équipe de Dead by Daylight",
         "id": 25,
         "index": "ANNIVERSARY_FLASHLIGHT",
         "type": 1,

@@ -1978,7 +1978,7 @@
         "image": "iconAddon_robinFeather"
     },
     {
-        "description": "小丑标志性服装的一部分，半指手套能使佩戴者操作更灵活。\n<li>改变投掷酒瓶的抛物线。</li>",
+        "description": "小丑标志性服装的一部分，半指手套能使佩戴者操作更灵活。 <li>改变投掷酒瓶的抛物线。</li>",
         "name": "半指游行手套",
         "id": 552,
         "index": "FINGERLESS_PARADE_GLOVES",
@@ -2546,7 +2546,7 @@
         "image": "iconAddon_prophylacticAmulet"
     },
     {
-        "description": "一种起泡，浑浊的液体，使空气中弥漫草药和酒精的香气。直接涂在水泡上。\n<li><b>中幅缩短</b>肮脏倾泻的冷却时间。</li>",
+        "description": "一种起泡，浑浊的液体，使空气中弥漫草药和酒精的香气。直接涂在水泡上。 <li><b>中幅缩短</b>肮脏倾泻的冷却时间。</li>",
         "name": "强效酊剂",
         "id": 705,
         "index": "POTENT_TINCTURE",
@@ -2808,7 +2808,7 @@
         "image": "iconAddon_chewedPen"
     },
     {
-        "description": "这张被撕下的纸页上写着奥尔森在罗斯威尔镇首个受害者的每周行程。对受害者的习惯进行分析使你能够预知其行动。\n<br><li><b>中幅提升</b>杀手被发现时的杀手本能可见时间。</li><li><b>中幅缩小</b>夜幕激活时杀手被发现所需的侦测距离。</li><br><span class=\"FlavorText\">“我关注你有一阵子了。这一次我要它独一无二；成为人们永远无法忘怀的头条新闻。”——鬼面</span>",
+        "description": "这张被撕下的纸页上写着奥尔森在罗斯威尔镇首个受害者的每周行程。对受害者的习惯进行分析使你能够预知其行动。 <br><li><b>中幅提升</b>杀手被发现时的杀手本能可见时间。</li><li><b>中幅缩小</b>夜幕激活时杀手被发现所需的侦测距离。</li><br><span class=\"FlavorText\">“我关注你有一阵子了。这一次我要它独一无二；成为人们永远无法忘怀的头条新闻。”——鬼面</span>",
         "name": "受害者的详细行程",
         "id": 764,
         "index": "VICTIMS_DETAILED_ROUTINE",
@@ -3364,7 +3364,7 @@
         "image": "iconAddon_bayshoresGoldTooth"
     },
     {
-        "description": "又粗又重的铁链，曾经一头拴着一个钢球，另一头拴在凯勒布的脚踝上。 现在得到了改装，栓在了矛弹上。<li><b>大幅提高</b>逃生者从矛弹上挣脱所需的代价。</li><span class=\"FlavorText\">“在监狱大院外工作的囚犯必须拴上至少16斤重的钢球。”——地狱郡监狱守卫手册</span>",
+        "description": "又粗又重的铁链，曾经一头拴着一个钢球，另一头拴在凯勒布的脚踝上。 现在得到了改装，栓在了矛弹上。<li><b>大幅提高</b>逃生者从矛弹上挣脱所需的代价。</li><span class=\"FlavorText\">“在监狱大院外工作的囚犯必须拴上至少16斤重的钢球。”——地狱郡监狱守卫手册</span>",
         "name": "监狱铁链",
         "id": 914,
         "index": "PRISON_CHAIN",
@@ -3705,7 +3705,7 @@
         "image": "iconAddon_roseTonic"
     },
     {
-        "description": "对人类有致命效果的血清。 想要激发它的增益效果，首先你得……超乎凡人。<br><br><li>发动直撞时，显示碰撞地点<b>8米</b>内逃生者的气场，持续<b>3秒</b>。</li>",
+        "description": "对人类有致命效果的血清。 想要激发它的增益效果，首先你得……超乎凡人。<br><br><li>发动直撞时，显示碰撞地点<b>8米</b>内逃生者的气场，持续<b>3秒</b>。</li>",
         "name": "21号化合物",
         "id": 1011,
         "index": "COMPOUND_TWENTY_ONE",
@@ -3733,7 +3733,7 @@
         "image": "iconAddon_adrenalineVial"
     },
     {
-        "description": "一个自称从虚空中回来的男人的日记。 其中的知识具有实际应用价值。<br><br><li>横冲时获得<b>无法侦测</b>状态。</li><br>",
+        "description": "一个自称从虚空中回来的男人的日记。 其中的知识具有实际应用价值。<br><br><li>横冲时获得<b>无法侦测</b>状态。</li><br>",
         "name": "威戈的日志",
         "flavor": "“在一片满是遗忘梦境与无尽循环的废土中，有办法出去的人就是神。”——塔尔伯特·格莱姆斯",
         "id": 1014,

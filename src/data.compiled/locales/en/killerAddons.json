@@ -3014,7 +3014,7 @@
     {
         "description": "A large, warm egg coated in gruesome webbing.<li><b>Considerably increases</b> the power recovery speed of traversing the Upside Down.</li>",
         "name": "Unknown Egg",
-        "flavor": "“A large egg was sighted in the Upside Down, but no sample survived the trip to the lab for proper examination.” - Hawkins National Laboratory",
+        "flavor": "“A large egg was sighted in the Upside Down, but no sample survived the trip to the lab for proper examination.” - Hawkins National Laboratory",
         "id": 816,
         "index": "UNKNOWN_EGG",
         "owner": "DEMOGORGON",
@@ -3409,8 +3409,8 @@
         "image": "iconAddon_iridescentCoin"
     },
     {
-        "description": "The Hellshire Gang’s branding iron. Despite folklore, it never made its mark on new initiates, instead having been used to brand particularly quarrelsome bounties.<li>For as long as a Survivor remains speared, the auras of all Survivors within your Terror Radius are revealed.</li><span class=\"FlavorText\">“Hellshire Gang: Justice Seekers or Outlaws?” -Glenvale Gazette headline</span>",
-        "name": "Hellshire Iron",
+        "description": "The Hellshire Gang’s branding iron. Despite folklore, it never made its mark on new initiates, instead having been used to brand particularly quarrelsome bounties.<li>For as long as a Survivor remains speared, the auras of all Survivors within your Terror Radius are revealed.</li><span class=\"FlavorText\">“Hellshire Gang: Justice Seekers or Outlaws?” -Glenvale Gazette headline</span>",
+        "name": "Hellshire Iron",
         "id": 919,
         "index": "HELLSHIRE_IRON",
         "owner": "DEATHSLINGER",
@@ -3419,7 +3419,7 @@
     },
     {
         "description": "Found in a refrigerator. It’s engraved with a disgusting, bloated face.<li><b>Slightly increases</b> the duration <b>Rites of Judgment</b> trails remain in the environment.</li>",
-        "name": "Lead Ring",
+        "name": "Lead Ring",
         "id": 950,
         "index": "LEAD_RING",
         "owner": "EXECUTIONER",
@@ -3474,7 +3474,7 @@
     },
     {
         "description": "A shred of pink, leopard print fabric. It’s difficult to tell what it was used for.<li><b>Slightly increases</b> the duration of <i>Killer Instinct</i> when triggered by <b>Rites of Judgment</b>.</li>",
-        "name": "Leopard-Print Fabric",
+        "name": "Leopard-Print Fabric",
         "flavor": "“It doesn’t matter who I am. I’m here for you, James.” -Maria",
         "id": 956,
         "index": "LEOPARD_PRINT_FABRIC",
@@ -3502,7 +3502,7 @@
     },
     {
         "description": "A photograph of two figures in red hoods. Entitled Crimson and White Banquet for the Gods.<li><b>Considerably increases</b> the recharge rate of <b>Rites of Judgment</b>.</li>",
-        "name": "Valtiel Sect Photograph",
+        "name": "Valtiel Sect Photograph",
         "id": 959,
         "index": "VALTIEL_SECT_PHOTOGRAPH",
         "owner": "EXECUTIONER",
@@ -3651,7 +3651,7 @@
         "image": "iconAddon_shreddedNotes"
     },
     {
-        "description": "Dried pustula petals ground into a fine dust.<br><br><li><b>Moderately increases</b> Slam duration.</li>",
+        "description": "Dried pustula petals ground into a fine dust.<br><br><li><b>Moderately increases</b> Slam duration.</li>",
         "name": "Pustula Dust",
         "id": 1005,
         "index": "PUSTULA_DUST",
@@ -3669,7 +3669,7 @@
         "image": "iconAddon_plagueBile"
     },
     {
-        "description": "A sizable thorn snipped from a visceral canker. It secretes a mild toxin.<br><br><li><b>Moderately increases</b> recovery speed after a Rush.</li>",
+        "description": "A sizable thorn snipped from a visceral canker. It secretes a mild toxin.<br><br><li><b>Moderately increases</b> recovery speed after a Rush.</li>",
         "name": "Canker Thorn",
         "id": 1007,
         "index": "CANKER_THORN",
@@ -3783,7 +3783,7 @@
         "image": "iconAddon_iridescentBlightTag"
     },
     {
-        "description": "Talbot’s penultimate attempt at a serum. Though it did not facilitate his escape, it did have powerful side effects.<br><br><li>Any Survivor within <b>16 meters</b> of a Slam will suffer from the <b>Hindered</b> status effect for <b>3 seconds</b>.</li><li>Slamming pallets or breakable walls will destroy them and stun The Blight for <b>1.5 seconds.</b></li><br>",
+        "description": "Talbot’s penultimate attempt at a serum. Though it did not facilitate his escape, it did have powerful side effects.<br><br><li>Any Survivor within <b>16 meters</b> of a Slam will suffer from the <b>Hindered</b> status effect for <b>3 seconds</b>.</li><li>Slamming pallets or breakable walls will destroy them and stun The Blight for <b>1.5 seconds.</b></li><br>",
         "name": "Compound Thirty-Three",
         "flavor": "\"Time is scarce. Let this be the one...\" —Talbot Grimes",
         "id": 1019,

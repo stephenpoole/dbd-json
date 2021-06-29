@@ -2,7 +2,7 @@
     {
         "description": "Confère <b>50 %</b> de points de sang bonus dans la catégorie Objectif.<br><li>Personnel.</li><li>Cumulable.</li>",
         "name": "Sachet de kalmia pâle",
-        "flavor": "« Un sachet cousu à la main de la taille d'une paume, contenant des feuilles séchées. Une faible odeur de thé s'en dégage. »",
+        "flavor": "« Un sachet cousu à la main de la taille d'une paume, contenant des feuilles séchées. Une faible odeur de thé s'en dégage. »",
         "id": 50,
         "index": "BOG_LAUREL_SACHET",
         "rarity": 0,
@@ -11,7 +11,7 @@
     {
         "description": "Confère <b>75 %</b> de points de sang bonus dans la catégorie Objectif.<br><li>Personnel.</li><li>Cumulable.</li>",
         "name": "Kalmia pâle frais",
-        "flavor": "« Une magnifique fleur mauve qui pousse au milieu des marais. Une odeur de thé s'en dégage. »",
+        "flavor": "« Une magnifique fleur mauve qui pousse au milieu des marais. Une odeur de thé s'en dégage. »",
         "id": 51,
         "index": "FRESH_BOG_LAUREL",
         "rarity": 1,
@@ -20,7 +20,7 @@
     {
         "description": "Confère <b>100 %</b> de points de sang bonus dans la catégorie Objectif.<br><li>Personnel.</li><li>Cumulable.</li>",
         "name": "Kalmia pâle parfumé",
-        "flavor": "« Une magnifique fleur mauve qui pousse au milieu des marais. Une forte odeur de thé s'en dégage. »",
+        "flavor": "« Une magnifique fleur mauve qui pousse au milieu des marais. Une forte odeur de thé s'en dégage. »",
         "id": 52,
         "index": "FRAGRANT_BOG_LAUREL",
         "rarity": 2,
@@ -29,7 +29,7 @@
     {
         "description": "Confère <b>50 %</b> de points de sang bonus dans la catégorie Survie.<br><li>Personnel.</li><li>Cumulable.</li>",
         "name": "Sachet de feuilles d'amarante",
-        "flavor": "« Un sachet cousu à la main de la taille d'une paume, contenant des sortes de perles. On dit que l'amarante est éternelle. »",
+        "flavor": "« Un sachet cousu à la main de la taille d'une paume, contenant des sortes de perles. On dit que l'amarante est éternelle. »",
         "id": 53,
         "index": "CRISPLEAF_AMARANTH_SACHET",
         "rarity": 0,
@@ -38,7 +38,7 @@
     {
         "description": "Confère <b>75 %</b> de points de sang bonus dans la catégorie Survie.<br><li>Personnel.</li><li>Cumulable.</li>",
         "name": "Feuille d'amarante fraîche",
-        "flavor": "« Les feuilles vert pâle sont rehaussées de nervures pourpres. On dit que l'amarante est éternelle. »",
+        "flavor": "« Les feuilles vert pâle sont rehaussées de nervures pourpres. On dit que l'amarante est éternelle. »",
         "id": 54,
         "index": "FRESH_CRISPLEAF_AMARANTH",
         "rarity": 1,
@@ -47,7 +47,7 @@
     {
         "description": "Confère <b>100 %</b> de points de sang bonus dans la catégorie Survie.<br><li>Personnel.</li><li>Cumulable.</li>",
         "name": "Feuille d'Amarante Parfumée",
-        "flavor": "« Les feuilles vert pâle sont rehaussées de nervures pourpres. Une forte odeur de radis s'en dégage. »",
+        "flavor": "« Les feuilles vert pâle sont rehaussées de nervures pourpres. Une forte odeur de radis s'en dégage. »",
         "id": 55,
         "index": "FRAGRANT_CRISPLEAF_AMARANTH",
         "rarity": 2,
@@ -56,7 +56,7 @@
     {
         "description": "Confère <b>50 %</b> de points de sang bonus dans la catégorie Altruisme.<br><li>Personnel.</li><li>Cumulable.</li>",
         "name": "Sachet de fleurs de primevères",
-        "flavor": "« Un sachet cousu à la main de la taille d'une paume, contenant 4 pétales d'or. La primevère s'ouvre au tout dernier moment du jour, juste avant que le soleil ne fasse place à la nuit. »",
+        "flavor": "« Un sachet cousu à la main de la taille d'une paume, contenant 4 pétales d'or. La primevère s'ouvre au tout dernier moment du jour, juste avant que le soleil ne fasse place à la nuit. »",
         "id": 56,
         "index": "PRIMROSE_BLOSSOM_SACHET",
         "rarity": 0,
@@ -65,7 +65,7 @@
     {
         "description": "Confère <b>75 %</b> de points de sang bonus dans la catégorie Altruisme.<br><li>Personnel.</li><li>Cumulable.</li>",
         "name": "Primevère en fleurs fraîche",
-        "flavor": "« Des fleurs dorées cueillies à leur apogée. La primevère s'ouvre au tout dernier moment du jour, juste avant que le soleil ne fasse place à la nuit. »",
+        "flavor": "« Des fleurs dorées cueillies à leur apogée. La primevère s'ouvre au tout dernier moment du jour, juste avant que le soleil ne fasse place à la nuit. »",
         "id": 57,
         "index": "FRESH_PRIMROSE_BLOSSOM",
         "rarity": 1,
@@ -74,7 +74,7 @@
     {
         "description": "Confère <b>100 %</b> de points de sang bonus dans la catégorie Altruisme.<br><li>Personnel.</li><li>Cumulable.</li>",
         "name": "Primevère en fleurs parfumée",
-        "flavor": "« Des fleurs dorées cueillies à leur apogée. Un fort arôme de terre réconfortant s'en dégage. »",
+        "flavor": "« Des fleurs dorées cueillies à leur apogée. Un fort arôme de terre réconfortant s'en dégage. »",
         "id": 58,
         "index": "FRAGRANT_PRIMROSE_BLOSSOM",
         "rarity": 2,
@@ -83,7 +83,7 @@
     {
         "description": "Confère <b>50 %</b> de points de sang bonus dans la catégorie Audace.<br><li>Personnel.</li><li>Cumulable.</li>",
         "name": "Sachet d'œillets de Poète",
-        "flavor": "« Un sachet cousu à la main de la taille d'une paume, contenant un mélange de pétales pâles et de feuilles bleuâtres glauques. Une odeur forte qui rappelle le clou de girofle s'en dégage. »",
+        "flavor": "« Un sachet cousu à la main de la taille d'une paume, contenant un mélange de pétales pâles et de feuilles bleuâtres glauques. Une odeur forte qui rappelle le clou de girofle s'en dégage. »",
         "id": 59,
         "index": "SWEET_WILLIAM_SACHET",
         "rarity": 0,
@@ -92,7 +92,7 @@
     {
         "description": "Confère <b>75 %</b> de points de sang bonus dans la catégorie Audace.<br><li>Personnel.</li><li>Cumulable.</li>",
         "name": "Œillet de poète frais",
-        "flavor": "« Des fleurs aux pétales roses et aux pistils rouge sang. Une odeur de clou de girofle s'en dégage. »",
+        "flavor": "« Des fleurs aux pétales roses et aux pistils rouge sang. Une odeur de clou de girofle s'en dégage. »",
         "id": 60,
         "index": "FRESH_SWEET_WILLIAM",
         "rarity": 1,
@@ -101,7 +101,7 @@
     {
         "description": "Confère <b>100 %</b> de points de sang bonus dans la catégorie Audace.<br><li>Personnel.</li><li>Cumulable.</li>",
         "name": "Œillet de poète parfumé",
-        "flavor": "« Des fleurs aux pétales roses et aux pistils rouge sang. Une forte odeur épicée de clou de girofle s'en dégage. »",
+        "flavor": "« Des fleurs aux pétales roses et aux pistils rouge sang. Une forte odeur épicée de clou de girofle s'en dégage. »",
         "id": 61,
         "index": "FRAGRANT_SWEET_WILLIAM",
         "rarity": 2,
@@ -110,7 +110,7 @@
     {
         "description": "Confère <b>25 %</b> de points de sang bonus dans <b>toutes</b> les catégories pour tous les survivants.<br><li>Cumulable.</li>",
         "name": "Enveloppe attachée",
-        "flavor": "« Une enveloppe ouverte qui a été scellée à nouveau puis attachée avec 4 rubans colorés. »",
+        "flavor": "« Une enveloppe ouverte qui a été scellée à nouveau puis attachée avec 4 rubans colorés. »",
         "id": 62,
         "index": "BOUND_ENVELOPE",
         "rarity": 2,
@@ -119,7 +119,7 @@
     {
         "description": "Confère <b>25 %</b> de points de sang bonus dans toutes les catégories.<br><li>Personnel.</li><li>Cumulable.</li>",
         "name": "Enveloppe fermée",
-        "flavor": "« Une enveloppe scellée sans destinataire, jaunie par le temps. Son message ne sera jamais révélé. »",
+        "flavor": "« Une enveloppe scellée sans destinataire, jaunie par le temps. Son message ne sera jamais révélé. »",
         "id": 63,
         "index": "SEALED_ENVELOPE",
         "rarity": 1,
@@ -128,7 +128,7 @@
     {
         "description": "Accorde <b>100 %</b> de points de sang bonus dans toutes les catégories.<br><li>Personnel.</li><li>Cumulable.</li>",
         "name": "Gâteau de fuite",
-        "flavor": "« Cette photo d'un gâteau est bien réelle. »",
+        "flavor": "« Cette photo d'un gâteau est bien réelle. »",
         "id": 64,
         "index": "ESCAPE_CAKE",
         "rarity": 1,
@@ -137,7 +137,7 @@
     {
         "description": "<b>Augmente légèrement</b> la chance.<br><li>Personnel.</li><li>Cumulable.</li>",
         "name": "Pochette de craie",
-        "flavor": "« Un petit sac en coton rempli d'une poudre blanche et crayeuse d'origine inconnue. Certains pensent qu'elle porte chance. »",
+        "flavor": "« Un petit sac en coton rempli d'une poudre blanche et crayeuse d'origine inconnue. Certains pensent qu'elle porte chance. »",
         "id": 65,
         "index": "CHALK_POUCH",
         "rarity": 0,
@@ -146,7 +146,7 @@
     {
         "description": "<b>Augmente modérément</b> la chance de <b>tous</b> les survivants.<br><li>Cumulable.</li>",
         "name": "Pochette de craie crème",
-        "flavor": "« Une statuette miniature friable faite de sel noir représentant une femme agenouillée offrant un cadeau. Certains pensent qu'elle porte chance. »",
+        "flavor": "« Une statuette miniature friable faite de sel noir représentant une femme agenouillée offrant un cadeau. Certains pensent qu'elle porte chance. »",
         "id": 66,
         "index": "CREAM_CHALK_POUCH",
         "rarity": 1,
@@ -155,7 +155,7 @@
     {
         "description": "<b>Augmente considérablement</b> la chance.<br><li>Personnel.</li><li>Cumulable.</li>",
         "name": "Pochette de Craie Ivoire",
-        "flavor": "« Un petit sac de cuir orné d'une ligne blanche cousue à la main sur l'un de ses côtés. Le sac est rempli d'une poudre crayeuse ivoire qui brille sous le clair de lune. Certains pensent qu'elle porte chance. »",
+        "flavor": "« Un petit sac de cuir orné d'une ligne blanche cousue à la main sur l'un de ses côtés. Le sac est rempli d'une poudre crayeuse ivoire qui brille sous le clair de lune. Certains pensent qu'elle porte chance. »",
         "id": 67,
         "index": "IVORY_CHALK_POUCH",
         "rarity": 2,
@@ -164,7 +164,7 @@
     {
         "description": "<b>Augmente légèrement</b> la chance de <b>tous</b> les survivants.<br><li>Cumulable.</li>",
         "name": "Pochette de sel",
-        "flavor": "« Un petit sac en coton rempli de cristaux de sel noirs. Certains pensent qu'ils portent chance. Il faut faire attention de ne pas les renverser. »",
+        "flavor": "« Un petit sac en coton rempli de cristaux de sel noirs. Certains pensent qu'ils portent chance. Il faut faire attention de ne pas les renverser. »",
         "id": 68,
         "index": "SALT_POUCH",
         "rarity": 1,
@@ -173,7 +173,7 @@
     {
         "description": "<b>Augmente considérablement</b> la chance de <b>tous</b> les survivants.<br><li>Cumulable.</li>",
         "name": "Jarre de lèvres salées de Vigo",
-        "flavor": "« Une jarre de verre scellée avec précaution contenant des lèvres humaines lacérées qui flottent dans une saumure trouble. Certains pensent qu'elle porte chance. »",
+        "flavor": "« Une jarre de verre scellée avec précaution contenant des lèvres humaines lacérées qui flottent dans une saumure trouble. Certains pensent qu'elle porte chance. »",
         "id": 69,
         "index": "VIGOS_JAR_OF_SALTY_LIPS",
         "rarity": 3,
@@ -182,7 +182,7 @@
     {
         "description": "Fait appel à l'Entité pour créer <b>1</b> coffre supplémentaire.<br><li>Cumulable.</li>",
         "name": "Pièce de monnaie usée",
-        "flavor": "« Une pièce de métal circulaire qui a perdu son lustre. »",
+        "flavor": "« Une pièce de métal circulaire qui a perdu son lustre. »",
         "id": 70,
         "index": "TARNISHED_COIN",
         "rarity": 1,
@@ -191,7 +191,7 @@
     {
         "description": "Fait appel à l'Entité pour créer <b>2</b> coffres supplémentaires.<br><li>Cumulable.</li>",
         "name": "Pièce de monnaie brillante",
-        "flavor": "« Une pièce en or propre et polie. »",
+        "flavor": "« Une pièce en or propre et polie. »",
         "id": 71,
         "index": "SHINY_COIN",
         "rarity": 3,
@@ -200,7 +200,7 @@
     {
         "description": "Calme l'Entité et <b>augmente légèrement</b> la <b>distance</b> entre des crochets sacrificiels apparaissant dans le monde de jeu.<br><li>Cumulable.</li>",
         "name": "Chêne pétrifié",
-        "flavor": "« Vieux morceau de bois pétrifié en décomposition. »",
+        "flavor": "« Vieux morceau de bois pétrifié en décomposition. »",
         "id": 72,
         "index": "PETRIFIED_OAK",
         "rarity": 3,
@@ -209,7 +209,7 @@
     {
         "description": "Vous commencez la partie avec quelqu'un d'autre.<br><li>Secret.</li>",
         "name": "Linceul d'union",
-        "flavor": "« Un morceau de tricot. »",
+        "flavor": "« Un morceau de tricot. »",
         "id": 73,
         "index": "SHROUD_OF_UNION",
         "rarity": 1,
@@ -218,7 +218,7 @@
     {
         "description": "Tous les survivants commencent la partie ensemble.<br><li>Secret.</li>",
         "name": "Linceul d'entrave",
-        "flavor": "« Un carré de tissu délavé avec de petits nœuds aux extrémités. »",
+        "flavor": "« Un carré de tissu délavé avec de petits nœuds aux extrémités. »",
         "id": 74,
         "index": "SHROUD_OF_BINDING",
         "rarity": 3,
@@ -227,7 +227,7 @@
     {
         "description": "Vous commencez la partie aussi loin que possible du tueur.<br><li>Secret.</li>",
         "name": "Linceul de Vigo",
-        "flavor": "« Au fil des ans, j'ai trouvé de nombreuses merveilles dans la brume, mais je comprends seulement maintenant comment enfreindre les règles irréfragables de la brume. » - Journal de Vigo",
+        "flavor": "« Au fil des ans, j'ai trouvé de nombreuses merveilles dans la brume, mais je comprends seulement maintenant comment enfreindre les règles irréfragables de la brume. » - Journal de Vigo",
         "id": 75,
         "index": "VIGOS_SHROUD",
         "rarity": 1,

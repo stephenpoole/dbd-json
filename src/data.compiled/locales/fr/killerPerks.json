@@ -56,7 +56,7 @@
     {
         "description": "Votre épouvantable odeur porte incroyablement loin. Votre rayon de terreur augmente de <span class=\"Highlight1\">{0} %</span>. Obtenez <span class=\"Highlight2\">{1} %</span> de points de sang supplémentaires pour les actions de la catégorie Sournoiserie.",
         "name": "Inquiétant",
-        "flavor": "« Savourez leur peur. »",
+        "flavor": "« Savourez leur peur. »",
         "id": 3,
         "index": "DISTRESSING",
         "owner": "NOONE",
@@ -107,8 +107,8 @@
     },
     {
         "description": "Un sort qui puise sa force dans l'espoir. La puissance de votre totem ensorcelé vous anime alors que les survivants sont sur le point de s'échapper.<br>Une fois les portes de sortie alimentées, si un totem passif est encore présent sur la carte, ce sort s'y applique.</br><br>Tant que le sort est actif,<li>les survivants subissent l'effet de statut <b><i>À découvert</i></b>.</li><li>Votre vitesse de mouvement est augmentée de <span class=\"Highlight1\">{0} %.</span></li><br>L'effet du sort persiste tant que le totem est présent.<br>",
-        "name": "Sort : Personne n'échappe à la mort",
-        "flavor": "« Et la bête devint plus rapide et plus féroce, comme si des coups de fouet invisibles de l'Entité lui lacéraient le dos. »",
+        "name": "Sort : Personne n'échappe à la mort",
+        "flavor": "« Et la bête devint plus rapide et plus féroce, comme si des coups de fouet invisibles de l'Entité lui lacéraient le dos. »",
         "id": 5,
         "index": "HEX_NO_ONE_ESCAPES_DEATH",
         "owner": "NOONE",
@@ -132,7 +132,7 @@
     },
     {
         "description": "Un sort qui puise sa force dans l'espoir. Les faux espoirs des survivants vous excitent et renforcent vos totems. Vous gagnez un jeton pour chaque totem ensorcelé ou passif restant sur la carte. <br><li>Remportez <span class=\"Highlight1\">{0} %</span> de points de sang en plus par jeton pour les actions de la catégorie Chasseur.</li><li>La vitesse de purification de totem par les survivants est réduite de <span class=\"Highlight2\">{1} %</span> pour chaque jeton.</li><li>Vous recevez une alerte quand quelqu'un commence à s'attaquer à un totem ensorcelé.</li><br><i>Les effets du sort persistent tant que le totem ensorcelé concerné est debout.</i>",
-        "name": "Sort : Euphorie de la chasse",
+        "name": "Sort : Euphorie de la chasse",
         "id": 6,
         "index": "HEX_THRILL_OF_THE_HUNT",
         "owner": "NOONE",
@@ -160,7 +160,7 @@
     {
         "description": "La fervente attention que vous accordez aux crochets du sous-sol a suscité l'intérêt de l'Entité. Les crochets du sous-sol confèrent les bonus suivants : <br><li><span class=\"Highlight1\">{0} %</span> de progression plus rapide de l'Entité.</li><li><span class=\"Highlight2\">{1} %</span> d'augmentation de la difficulté des tentatives d'évasion.</li><li><span class=\"Highlight3\">{2} %</span> d'augmentation des pénalités d'échec de libération.</li>",
         "name": "Sanctuaire monstrueux",
-        "flavor": "« Et là, vous saurez qu'il n'y a plus d'issue. Pendu dans les profondeurs, vous ferez face à l'être obscur. »",
+        "flavor": "« Et là, vous saurez qu'il n'y a plus d'issue. Pendu dans les profondeurs, vous ferez face à l'être obscur. »",
         "id": 7,
         "index": "MONSTROUS_SHRINE",
         "owner": "NOONE",
@@ -215,7 +215,7 @@
     {
         "description": "Les corbeaux peuvent communiquer directement avec vous. Dans <span class=\"Highlight1\">{0} %</span> des cas, les corbeaux vous donnent un signal visuel quand vous vous trouvez dans un rayon de <span class=\"Highlight2\">{1} mètres</span>.<br><i>Espions de l'ombre</i> a un temps de recharge de <span class=\"Highlight3\">{2} secondes.</span>.",
         "name": "Espions de l'ombre",
-        "flavor": "« Depuis les ombres ils nous tourmentent, marquant nos esprits à chaque hurlement. »",
+        "flavor": "« Depuis les ombres ils nous tourmentent, marquant nos esprits à chaque hurlement. »",
         "id": 9,
         "index": "SPIES_FROM_THE_SHADOWS",
         "owner": "NOONE",
@@ -270,7 +270,7 @@
     {
         "description": "Vous comprenez la voix de l'Entité de façon rudimentaire. Entendez sporadiquement le murmure de l'Entité lorsqu'un survivant se trouve dans un rayon de <span class=\"Highlight1\">{0} mètres</span>.",
         "name": "Murmures",
-        "flavor": "« On en sait peu sur la brume, mais il est indéniable qu'elle est souvent du côté de la bête. » - Carnet de notes",
+        "flavor": "« On en sait peu sur la brume, mais il est indéniable qu'elle est souvent du côté de la bête. » - Carnet de notes",
         "id": 11,
         "index": "WHISPERS",
         "owner": "NOONE",
@@ -295,7 +295,7 @@
     {
         "description": "Vous êtes extrêmement sensible à la respiration de votre proie. La respiration des survivants en difficulté est <span class=\"Highlight1\">{0} %</span> plus forte et la respiration normale est <span class=\"Highlight2\">{1} %</span> plus forte.",
         "name": "Stridor",
-        "flavor": "« Si vous ne vous arrêtez pas pour reprendre votre souffle... elle le reprendra pour vous. »",
+        "flavor": "« Si vous ne vous arrêtez pas pour reprendre votre souffle... elle le reprendra pour vous. »",
         "id": 12,
         "index": "STRIDOR",
         "owner": "NURSE",
@@ -323,7 +323,7 @@
     {
         "description": "Leur courage s'évanouit face à un trépas inéluctable.<br>Pour chaque survivant blessé, en état critique ou suspendu à un crochet, tous les survivants reçoivent une pénalité de <span class=\"Highlight1\">{0} %</span>, jusqu’à un maximum de <span class=\"Highlight1\">{1} %</span> aux temps de réparation, de sabotage et de purification de totem.",
         "name": "Thanatophobie",
-        "flavor": "« Elle joue avec nous et se délecte de notre douleur. »",
+        "flavor": "« Elle joue avec nous et se délecte de notre douleur. »",
         "id": 13,
         "index": "THANATOPHOBIA",
         "rarity": [
@@ -351,7 +351,7 @@
     {
         "description": "Débloque une capacité de repérage d'auras. Les auras des survivants qui donnent des soins ou en reçoivent vous sont révélées dans un rayon de <span class=\"Highlight1\">{0} mètres</span>.",
         "name": "Vocation de l'Infirmière",
-        "flavor": "« Toujours attachée à des fragments de sa vie passée, elle est attirée par ceux qui ont besoin d'aide. »",
+        "flavor": "« Toujours attachée à des fragments de sa vie passée, elle est attirée par ceux qui ont besoin d'aide. »",
         "id": 14,
         "index": "A_NURSES_CALLING",
         "rarity": [
@@ -376,7 +376,7 @@
     {
         "description": "Votre seule présence inspire la peur. Les survivants qui se trouvent dans votre rayon de terreur ont <span class=\"Highlight1\">{0} %</span> de chances supplémentaires d'activer des tests d'habileté lors des réparations ou des soins. Les zones de succès sont réduites de <span class=\"Highlight2\">{1} %</span>.",
         "name": "Présence perturbante",
-        "flavor": "« Nous sentons sa présence. »",
+        "flavor": "« Nous sentons sa présence. »",
         "id": 15,
         "index": "UNNERVING_PRESENCE",
         "rarity": [
@@ -404,7 +404,7 @@
     {
         "description": "Votre force immense vous permet de réduire en lambeaux les défenses de vos proies. Détruisez les <b>palettes lâchées, les murs qui peuvent l'être et les générateurs</b> <span class=\"Highlight1\">{0} %</span> plus vite.",
         "name": "Force brute",
-        "flavor": "« Il n'y a pas que les muscles. Une sombre puissance motive la bête. »",
+        "flavor": "« Il n'y a pas que les muscles. Une sombre puissance motive la bête. »",
         "id": 16,
         "index": "BRUTAL_STRENGTH",
         "rarity": [
@@ -429,7 +429,7 @@
     {
         "description": "Vous êtes tout excité à l'idée de suspendre votre proie. Augmente votre vitesse quand vous transportez un corps de <span class=\"Highlight1\">{0} %</span>. Pendant le transport du corps, votre rayon de terreur augmente de <span class=\"Highlight2\">{1} mètres</span>.",
         "name": "Agitation",
-        "flavor": "« À un moment, l'excitation à l'idée de nous accrocher prend le pas sur le désir de nous tuer. »",
+        "flavor": "« À un moment, l'excitation à l'idée de nous accrocher prend le pas sur le désir de nous tuer. »",
         "id": 17,
         "index": "AGITATION",
         "rarity": [
@@ -481,7 +481,7 @@
     {
         "description": "Tel un chien de chasse, vous flairez les traces de sang à grande distance. Les traces de sang frais sont <span class=\"Highlight1\">considérablement</span> plus visibles et peuvent être suivies pendant <span class=\"Highlight2\">{0} secondes</span> de plus que la normale.",
         "name": "Chien de Sang",
-        "flavor": "« Des cailloux scintillent au clair de lune ; ma vie s'écoule en une piste facile à suivre. »",
+        "flavor": "« Des cailloux scintillent au clair de lune ; ma vie s'écoule en une piste facile à suivre. »",
         "id": 19,
         "index": "BLOODHOUND",
         "rarity": [
@@ -556,7 +556,7 @@
     {
         "description": "Contrairement aux autres créatures de la brume, vous n’êtes plus aussi sensible à la lumière. Vous êtes immunisé à l’aveuglement provoqué par les lampes de poche, les pétards, les grenades aveuglantes et les mines explosives. L’aura des survivants qui tentent de vous aveugler est révélée pendant <span class=\"Highlight1\">{0} secondes.</span>",
         "name": "Résistance à la lumière",
-        "flavor": "« Ces monstres... Ils s’adaptent ! Ils développent d’étranges capacités. » - Journal de Vigo",
+        "flavor": "« Ces monstres... Ils s’adaptent ! Ils développent d’étranges capacités. » - Journal de Vigo",
         "id": 22,
         "index": "LIGHTBORN",
         "rarity": [
@@ -581,7 +581,7 @@
     {
         "description": "Lorsqu’un générateur est réparé à <span class=\"Highlight1\">{0} %</span>, un fort avertissement sonore est déclenché et vous bénéficiez de l’effet de statut <b>Indétectable</b> pendant <span class=\"Highlight2\">{2} secondes</span>.",
         "name": "Réparateur",
-        "flavor": "« Le Montagnard crée des outils impressionnants à partir de ferraille... des outils destinés à nous mutiler de façon créative. » - Carnet de notes",
+        "flavor": "« Le Montagnard crée des outils impressionnants à partir de ferraille... des outils destinés à nous mutiler de façon créative. » - Carnet de notes",
         "id": 23,
         "index": "TINKERER",
         "rarity": [
@@ -609,7 +609,7 @@
     {
         "description": "Vous devenez <b>obsédé</b> par un survivant.<br>Vous obtenez un jeton pour chaque <i>attaque de base</i> portée qui n’est pas infligée à votre obsession. <br>Chaque jeton octroie une réduction cumulable de <span class=\"Highlight1\">{0} %</span> sur la récupération des <i>attaques de base</i> réussies et vous pouvez engranger jusqu’à <span class=\"Highlight2\">{1}</span> jetons.<br>Frapper votre obsession avec une <i>attaque de base</i> vous fera perdre <span class=\"Highlight3\">{2}</span> jetons. <br>Vous ne pouvez plus gagner de jetons si votre obsession est sacrifiée ou tuée.<br><li><i>Le tueur ne peut être <b>obsédé</b> que par un survivant à la fois.</i></li>",
         "name": "Gardons le meilleur pour la fin",
-        "flavor": "« La mort arrive en ville, shérif. » - Dr Sam Loomis",
+        "flavor": "« La mort arrive en ville, shérif. » - Dr Sam Loomis",
         "id": 24,
         "index": "SAVE_THE_BEST_FOR_LAST",
         "rarity": [
@@ -640,7 +640,7 @@
     {
         "description": "Vous devenez <b>obsédé</b> par un survivant.<br>Chaque fois que vous chassez la cible de votre obsession et que vous la laissez s’échapper, vous recevez un jeton jusqu’à un maximum de {0} jetons.<br>Chaque jeton augmente votre vitesse de mouvement de <span class=\"Highlight1\">{1} %</span>.<br>Effectuer une <i>attaque de base</i> ou une <i>attaque spéciale</i> consomme un jeton.<br><li><i>Le tueur ne peut être <b>obsédé</b> que par un survivant à la fois.</i></li>",
         "name": "Jouer avec la nourriture",
-        "flavor": "« Tu les a tous eus, n’est-ce pas Michael ? Mais pas moi. » - Dr. Sam Loomis",
+        "flavor": "« Tu les a tous eus, n’est-ce pas Michael ? Mais pas moi. » - Dr. Sam Loomis",
         "id": 25,
         "index": "PLAY_WITH_YOUR_FOOD",
         "rarity": [
@@ -695,8 +695,8 @@
     },
     {
         "description": "Un sort qui entrave la capacité de repérage d’auras. Frapper un survivant avec une <i>attaque de base</i> pendant que le totem ensorcelé est actif applique l’effet de statut <b>Aveuglement</b>. Cet effet s’applique aux <span class=\"Highlight1\">{0}</span> derniers survivants frappés.<br><i>Les effets du sort persistent tant que le totem ensorcelé est en place.</i>",
-        "name": "Sort : Le troisième sceau",
-        "flavor": "« Elle a touché votre peau, vous portez la marque de la sorcière ! »",
+        "name": "Sort : Le troisième sceau",
+        "flavor": "« Elle a touché votre peau, vous portez la marque de la sorcière ! »",
         "id": 27,
         "index": "HEX_THE_THIRD_SEAL",
         "rarity": [
@@ -720,8 +720,8 @@
     },
     {
         "description": "Un sort qui affecte la progression des réparations des générateurs de tous les survivants. Tous les générateurs sont affectés par le <i>sort : Ruine</i>. Si un générateur n'est pas en train d'être réparé par un survivant, la progression de sa réparation régresse immédiatement et automatiquement à <span class=\"Highlight1\">{0} %</span> de la vitesse de régression normale.<br><br><i>Les effets du sort persistent tant que le totem ensorcelé est en place.</i><br>",
-        "name": "Sort : Ruine",
-        "flavor": "« Une malédiction est sur vous, elle causera votre perte. »",
+        "name": "Sort : Ruine",
+        "flavor": "« Une malédiction est sur vous, elle causera votre perte. »",
         "id": 28,
         "index": "HEX_RUIN",
         "rarity": [
@@ -745,8 +745,8 @@
     },
     {
         "description": "Un sort qui puise sa force dans l'espoir. Les faux espoirs des survivants aiguisent votre faim. Quand un survivant est sauvé d'un crochet qui se trouve au moins à <span class=\"Highlight1\">24 mètres</span>, Mangeur d'espoir reçoit un jeton.<br><li><span class=\"Highlight3\">2 jetons</span> : obtenez <span class=\"Highlight2\">{0} %</span> à l'effet de statut <b><i>Rapidité</i></b>, <span class=\"Highlight3\">10 secondes</span> après avoir suspendu un survivant et pendant <span class=\"Highlight3\">10 secondes</span>.</li><li><span class=\"Highlight3\">3 jetons</span> : les survivants souffrent du statut <b><i>À découvert</i></b>.</li><li><span class=\"Highlight2\">5 jetons</span> : confère la possibilité de tuer les survivants de vos propres mains.</li><br><i>Les effets du sort persistent tant que le totem ensorcelé est en place.</i><br>",
-        "name": "Sort : Mangeur d'espoir",
-        "flavor": "« Si vous ne faites rien, vous avez leur mort sur la conscience. Si vous les sauvez, vous attisez sa faim. »",
+        "name": "Sort : Mangeur d'espoir",
+        "flavor": "« Si vous ne faites rien, vous avez leur mort sur la conscience. Si vous les sauvez, vous attisez sa faim. »",
         "id": 29,
         "index": "HEX_DEVOUR_HOPE",
         "rarity": [
@@ -771,7 +771,7 @@
     {
         "description": "Votre seule présence inspire une véritable peur. Les survivants dans votre rayon de terreur souffrent d'inefficacité.<br>Le taux de consommation d'objets des survivants affectés est augmenté de <span class=\"Highlight1\">{0} %</span>.",
         "name": "Présence écrasante",
-        "flavor": "« Merde ! J'ai fait tomber la gaze ! »",
+        "flavor": "« Merde ! J'ai fait tomber la gaze ! »",
         "id": 30,
         "index": "OVERWHELMING_PRESENCE",
         "rarity": [
@@ -796,7 +796,7 @@
     {
         "description": "Méticuleux dans votre approche, terrifiant dans son application.<br>Tandis que vous pourchassez un survivant, votre rayon de terreur augmente de <span class=\"Highlight1\">{0} mètres</span>. Dans le cas contraire, il est réduit de <span class=\"Highlight2\">{0} mètres</span> et votre champ de vision s'élargit de <span class=\"Highlight3\">{1} degrés</span>.<br><i>Les améliorations du champ de vision ne sont pas cumulables.</i>",
         "name": "Surveillance et maltraitance",
-        "flavor": "« C'est l'heure de votre traitement ! » - Le Docteur",
+        "flavor": "« C'est l'heure de votre traitement ! » - Le Docteur",
         "id": 31,
         "index": "MONITOR_AND_ABUSE",
         "rarity": [
@@ -827,7 +827,7 @@
     {
         "description": "La haine du progrès vous anime.<br>Surchargez un générateur en effectuant l'action <b>Endommager le générateur</b>. Le prochain survivant à interagir avec ce générateur doit faire face à un test d'habileté d'une difficulté <span class=\"Highlight1\">énorme</span>. Échouer au test d'habileté génère une perte de progression supplémentaire de <span class=\"Highlight2\">{0} %</span>.<br>Réussir le test d'habileté ne génère aucune progression, mais empêche l'explosion du générateur.",
         "name": "Surcharge",
-        "flavor": "« C'est un piège. Mais un piège dans lequel on doit tomber... » - Le Docteur",
+        "flavor": "« C'est un piège. Mais un piège dans lequel on doit tomber... » - Le Docteur",
         "id": 32,
         "index": "OVERCHARGE",
         "rarity": [
@@ -852,7 +852,7 @@
     {
         "description": "Votre désir de tuer est si intense que vous perdez momentanément votre connexion avec l’Entité, ce qui vous rend totalement imprévisible.<br><br>Octroie l’effet de statut <b>Indétectable</b> après l’obtention de Soif de sang palier 1. L’effet de statut est supprimé dès que vous perdez Soif de sang.<br><br><li>Vous gagnez <span class=\"Highlight1\">{0} %</span> de points de sang supplémentaires en exécutant des actions de la catégorie Chasseur.</li>",
         "name": "Prédateur",
-        "flavor": "« Où est-elle passée ? »",
+        "flavor": "« Où est-elle passée ? »",
         "id": 33,
         "index": "BEAST_OF_PREY",
         "rarity": [
@@ -906,7 +906,7 @@
     },
     {
         "description": "Un sort qui puise sa force dans le désespoir. Votre traque devient une chanson entêtante qui trouble l’attention de vos proies. Les survivants subissent un malus de régression de <span class=\"Highlight1\">{0} %</span> quand ils ratent un test d’habileté en soignant ou en réparant.<br>Chaque fois qu’un survivant est suspendu à un crochet, la Berceuse de la Chasseuse gagne en puissance et affecte les avertissements de tests d’habileté de soins et de réparations.<br><li><b>1 à 4 jetons :</b> le délai entre le son d’avertissement du test d’habileté et ce dernier se raccourcit.</li><li><b>5 jetons :</b> aucun avertissement de test d’habileté.</li><br><i>Les effets du sort persistent tant que le totem ensorcelé est debout.</i>",
-        "name": "Sort : Berceuse de la Chasseuse",
+        "name": "Sort : Berceuse de la Chasseuse",
         "id": 35,
         "index": "HEX_HUNTRESS_LULLABY",
         "rarity": [
@@ -931,7 +931,7 @@
     {
         "description": "Le traumatisme causé par vos attaques brutales rend difficile le simple fait de crier à l’aide.<br>L’aura des survivants, auxquels vous infligez l’état critique avec vos attaques de base, n’est pas révélée aux autres survivants s’ils se tiennent à plus de <span class=\"Highlight1\">{2} mètres</span>.<br>Les survivants auxquels vous infligez l’état critique avec vos attaques de base rampent <span class=\"Highlight2\">{1} % plus lentement</span> pendant <span class=\"Highlight3\">{0} secondes</span>.<br>Pendant ce temps, les survivants sont affectés par l’effet de statut <b>Aveuglement</b>.",
         "name": "K.O.",
-        "flavor": "« Oh, cette arme à feu ne sert à rien. Faisons ça à l’ancienne... avec une masse ! Ils meurent mieux ainsi. » - Nubbins Sawyer",
+        "flavor": "« Oh, cette arme à feu ne sert à rien. Faisons ça à l’ancienne... avec une masse ! Ils meurent mieux ainsi. » - Nubbins Sawyer",
         "id": 36,
         "index": "KNOCK_OUT",
         "rarity": [
@@ -996,7 +996,7 @@
     {
         "description": "Votre cruelle attaque force les survivants à lâcher leur objet à l’impact. L’objet perdu sera consommé par l’Entité au bout de <span class=\"Highlight1\">{0} secondes</span> s’il n’est pas ramassé.<br>Dévoile les objets au sol à moins de <span class=\"Highlight2\">{1} mètres</span> à l’aide d’une aura blanche. L’aura des objets au sol passe au rouge jusqu’à ce qu’ils soient consommés par l’Entité.",
         "name": "Chute de Franklin",
-        "flavor": "« Sally, j’entends quelque chose. Stop ! Stop ! » - Franklin",
+        "flavor": "« Sally, j’entends quelque chose. Stop ! Stop ! » - Franklin",
         "id": 38,
         "index": "FRANKLINS_DEMISE",
         "rarity": [
@@ -1099,7 +1099,7 @@
     {
         "description": "Les modifications astucieuses que vous avez apportées aux crochets vous préviennent si on y touche.<br><li>Vous recevez une alerte quand un survivant commence à saboter un crochet.</li><li>Lorsque vous portez un survivant, vous voyez l’aura du moindre survivant à <span class=\"Highlight1\">{0} mètres</span> d’un crochet.</li>",
         "name": "Coup du pendu",
-        "flavor": "« Pas d’excuses, pas d’hésitation... Et pas de larmes. » - Amanda Young",
+        "flavor": "« Pas d’excuses, pas d’hésitation... Et pas de larmes. » - Amanda Young",
         "id": 42,
         "index": "HANGMANS_TRICK",
         "rarity": [
@@ -1124,7 +1124,7 @@
     {
         "description": "Renforce la capacité de repérage d'auras. Tous les générateurs inversés sont entourés d'une aura blanche. Si l'inversion est interrompue, le générateur se retrouve entouré d'une aura jaune pendant <span class=\"Highlight1\">{0} secondes</span>.<br>Les bruits causés par la réparation d'un générateur sont audibles à <span class=\"Highlight2\">{1} mètres</span> de plus.",
         "name": "Surveillance",
-        "flavor": "« Vous allez être sage ? » - Amanda Young",
+        "flavor": "« Vous allez être sage ? » - Amanda Young",
         "id": 43,
         "index": "SURVEILLANCE",
         "rarity": [
@@ -1152,7 +1152,7 @@
     {
         "description": "Quand un survivant en libère un autre d’un crochet, à au moins <span class=\"Highlight1\">{0} mètres</span> de vous, <i>Prise de décision</i> force le survivant à crier et lui applique l’effet de statut <b><i>À découvert</i></b> pendant <span class=\"Highlight2\">{1} secondes</span>.<br><i>Prise de décision</i> a un temps de récupération de <span class=\"Highlight3\">{2} secondes</span>.",
         "name": "Prise de décision",
-        "flavor": "« Vous seriez surpris de savoir quel genre d’outils peuvent vous sauver la vie » -Amanda Young",
+        "flavor": "« Vous seriez surpris de savoir quel genre d’outils peuvent vous sauver la vie » -Amanda Young",
         "id": 44,
         "index": "MAKE_YOUR_CHOICE",
         "rarity": [
@@ -1288,7 +1288,7 @@
     {
         "description": "Chaque palette que vous détruisez amplifie la rage de l'Entité.<br>Après avoir détruit <span class=\"Highlight1\">{0} palettes</span>, la prochaine fois que vous serez étourdi par une palette, l'Entité détruira instantanément celle-ci.<br>Vous souffrirez tout de même de la pénalité de l'effet Étourdi.",
         "name": "Fureur de l'esprit",
-        "flavor": "« Elle a la fureur dans le sang. »",
+        "flavor": "« Elle a la fureur dans le sang. »",
         "id": 49,
         "index": "SPIRIT_FURY",
         "rarity": [
@@ -1312,7 +1312,7 @@
     },
     {
         "description": "Deux totems ensorcelés piégés apparaissent durant la partie.<br>Lorsque l'un des deux totems ensorcelés piégés est purifié par un Survivant, tous les Survivants souffrent de l'<span class=\"Highlight3\">effet de statut À découvert</span> pendant <span class=\"Highlight1\">{0} secondes</span>. <br>Le totem ensorcelé piégé restant devient immédiatement un totem passif.",
-        "name": "Sort : Terrain hanté",
+        "name": "Sort : Terrain hanté",
         "flavor": "\"Sa maison a été profanée.\"",
         "id": 50,
         "index": "HEX_HAUNTED_GROUND",
@@ -1365,7 +1365,7 @@
     {
         "description": "Tout générateur à une distance de <span class=\"Highlight1\">{0} mètres</span> en cours de réparation par au moins deux survivants est signalé par une aura jaune. Quand le générateur est illuminé pour la première fois, Discorde déclenche un fort avertissement sonore sur le générateur. Lorsque le générateur n’est plus à portée ou n’est plus en cours de réparation par au moins deux survivants, l’aura subsiste pendant <span class=\"Highlight2\">4 secondes</span>.<br>",
         "name": "Discorde",
-        "flavor": "« Les petits malins finissent toujours par se faire tuer. Comptez sur nous pour nous en assurer. » - La Légion",
+        "flavor": "« Les petits malins finissent toujours par se faire tuer. Comptez sur nous pour nous en assurer. » - La Légion",
         "id": 52,
         "index": "DISCORDANCE",
         "rarity": [
@@ -1390,7 +1390,7 @@
     {
         "description": "Quand vous portez un survivant, vous ne subissez pas de temps de récupération pour les <i>attaques de base</i> manquées, et toucher un autre survivant avec une <i>attaque de base</i> interrompt le chronomètre durant lequel le survivant porté peut se débattre pendant <span class=\"Highlight1\">{0}</span> secondes.<br>",
         "name": "Cran dément",
-        "flavor": "« Vous ne vous en tirerez pas. On est bien trop forts pour vous. » - La Légion",
+        "flavor": "« Vous ne vous en tirerez pas. On est bien trop forts pour vous. » - La Légion",
         "id": 53,
         "index": "MAD_GRIT",
         "rarity": [
@@ -1415,7 +1415,7 @@
     {
         "description": "Vous ouvrez les casiers <span class=\"Highlight1\">{0} %</span> plus vite.<br><br>Quand un survivant sort d’un casier, il souffre de l’effet de statut À découvert pendant <span class=\"Highlight1\">{2} secondes</span> et crie, ce qui révèle et sa position pendant <span class=\"Highlight1\">{1} secondes</span>.<br>",
         "name": "Vierge de fer",
-        "flavor": "« Ce n’est pas un endroit pour les lâches. » - La Légion",
+        "flavor": "« Ce n’est pas un endroit pour les lâches. » - La Légion",
         "id": 54,
         "index": "IRON_MAIDEN",
         "rarity": [
@@ -1446,7 +1446,7 @@
     {
         "description": "Vos prières invoquent une puissance maléfique qui compromet les chances des survivants de s’en sortir. Les <span class=\"Highlight1\">{0} générateurs</span> les plus éloignés de vous sont bloqués par l’Entité pendant <span class=\"Highlight1\">{1} secondes</span> au début de la partie.<br>Pendant ce laps de temps, les survivants ne peuvent pas les réparer. Les générateurs affectés sont entourés d’une aura blanche.<br>",
         "name": "Intervention maléfique",
-        "flavor": "« Que tous en ces terres sachent que les dieux punissent les infidèles. » (La Tablette d’Adiris, 3.7.)",
+        "flavor": "« Que tous en ces terres sachent que les dieux punissent les infidèles. » (La Tablette d’Adiris, 3.7.)",
         "id": 55,
         "index": "CORRUPT_INTERVENTION",
         "rarity": [
@@ -1474,7 +1474,7 @@
     {
         "description": "Les cris des infidèles font bondir votre cœur.<br>Les survivants présents dans votre rayon de terreur pendant qu’un autre survivant entre en état critique hurleront, vous révélant leur position pendant <span class=\"Highlight1\">{0} secondes</span>.",
         "name": "Peur contagieuse",
-        "flavor": "« L’horreur emplit le cœur des infidèles qui pleurent aux pieds de la victime. » (Cantique, 11.4)",
+        "flavor": "« L’horreur emplit le cœur des infidèles qui pleurent aux pieds de la victime. » (Cantique, 11.4)",
         "id": 56,
         "index": "INFECTIOUS_FRIGHT",
         "rarity": [
@@ -1499,7 +1499,7 @@
     {
         "description": "La démonstration de vos pouvoirs provoque un vent de panique qui gagne toute la région.<br><br>Vous devenez obsédé par un survivant. Si vous parvenez à toucher votre obsession avec une <i>attaque de base</i>, vous lui transférez votre rayon de terreur pendant <span class=\"Highlight2\">{1} secondes</span> avec un rayon de <span class=\"Highlight1\">{0} mètres</span>. Vous bénéficiez de l’effet de statut <b>Indétectable</b> pendant toute cette durée.<br><br>Le survivant avec le rayon de terreur transféré est également considéré comme étant « à l’intérieur du rayon de terreur » à toutes fins utiles.<br><br><li><i>Le tueur ne peut être <b>obsédé</b> que par un seul survivant à la fois.</i></li><br>",
         "name": "Sombre dévotion",
-        "flavor": "« Et la terreur s’abattra sur un mécréant qui annoncera à tort ma venue. » (La Tablette d’Adiris, 48.9)",
+        "flavor": "« Et la terreur s’abattra sur un mécréant qui annoncera à tort ma venue. » (La Tablette d’Adiris, 48.9)",
         "id": 57,
         "index": "DARK_DEVOTION",
         "rarity": [
@@ -1527,7 +1527,7 @@
     {
         "description": "Vos sens sont aiguisés dans le sombre royaume de l’Entité.<br><br>Débloque le potentiel de repérage d’aura d’une personne. L’aura de tout survivant effectuant une action précipitée à moins de <span class=\"Highlight1\">48 mètres</span> de votre emplacement est révélée pendant <span class=\"Highlight2\">{0} secondes</span>.<br><br><i>Je vous écoute</i> ne peut être déclenché qu’une fois toutes les <span class=\"Highlight3\">{1} secondes</span>.<br>",
         "name": "Je vous écoute",
-        "flavor": "« Ne vous en faites pas. Je m’y prépare depuis toujours. » – Ghost Face",
+        "flavor": "« Ne vous en faites pas. Je m’y prépare depuis toujours. » – Ghost Face",
         "id": 58,
         "index": "IM_ALL_EARS",
         "rarity": [
@@ -1555,7 +1555,7 @@
     {
         "description": "Vos sombres projets et votre ruse suscitent l'intérêt de l'Entité.<br><br>Après avoir ramassé un survivant, tous les générateurs non réparés pas les survivants sont bloqués par l'Entité et ne peuvent pas être réparés pendant les <span class=\"Highlight1\">{0} prochaines secondes</span>. Les générateurs affectés sont entourés d'une aura blanche.<br><br><i>Frissons palpitants</i> ne peut être activé qu'une fois toutes les <span class=\"Highlight2\">{1} secondes</span>.<br>",
         "name": "Frissons palpitants",
-        "flavor": "« Sans fin, la nuit est toujours là pour m'assister. » – Ghost Face",
+        "flavor": "« Sans fin, la nuit est toujours là pour m'assister. » – Ghost Face",
         "id": 59,
         "index": "THRILLING_TREMORS",
         "rarity": [
@@ -1583,7 +1583,7 @@
     {
         "description": "Vous devenez <b>obsédé</b> par un survivant. Vous guettez dans l’ombre, éliminant vos victimes les unes après les autres. Quand votre obsession est suspendue à un crochet, <i>Poursuite furtive</i> reçoit un jeton, pour un maximum de <span class=\"Highlight1\">{0} jetons</span>.<br><br>Chaque jeton réduit votre rayon de terreur de <span class=\"Highlight2\">{1} mètres</span> pendant une poursuite.<br><br>Quand un survivant sauve l’obsession d’un crochet, le sauveteur devient l’obsession. Vous perdez tous vos jetons si l’obsession est sacrifiée ou tuée.<br><br><li><i>Le tueur ne peut être <b>obsédé</b> que par un survivant à la fois.</i></li><br>",
         "name": "Poursuite furtive",
-        "flavor": "« Vous n’avez pas idée de ce que j’ai en réserve. La presse en parlera pendant des semaines... J’y veillerai. » – Ghost Face",
+        "flavor": "« Vous n’avez pas idée de ce que j’ai en réserve. La presse en parlera pendant des semaines... J’y veillerai. » – Ghost Face",
         "id": 60,
         "index": "FURTIVE_CHASE",
         "rarity": [
@@ -1611,7 +1611,7 @@
     {
         "description": "Votre présence inquiétante électrifie l’air et interfère avec la technologie.<br><br>Plonger un survivant en état critique avec une <i>attaque de base</i> provoque l’explosion immédiate et le recul de tous les générateurs dans un rayon de <span class=\"Highlight1\">{0} mètres</span>. Les générateurs affectés par Surtension perdent immédiatement <span class=\"Highlight2\">{1} %</span> de leur progression.<li><i>Surtension</i> peut uniquement être déclenchée une fois toutes les <span class=\"Highlight3\">{2} secondes</span>.</li><br>",
         "name": "Surtension",
-        "flavor": "« La créature semble avoir une influence inconnue sur l’électricité et les appareils électroniques proches. » - Laboratoire national d’Hawkins",
+        "flavor": "« La créature semble avoir une influence inconnue sur l’électricité et les appareils électroniques proches. » - Laboratoire national d’Hawkins",
         "id": 61,
         "index": "SURGE",
         "rarity": [
@@ -1642,7 +1642,7 @@
     {
         "description": "Votre présence éprouvante fatigue et affaiblit votre proie.<br><br>Quand ils réparent les générateurs, les survivants souffrent de l’effet de statut <b>Épuisement</b>.<br><br>Tout chronomètre d’effet de statut <b>Épuisement</b> existant est mis en pause pendant que le survivant répare un générateur. Après avoir terminé la réparation, le survivant souffre de l’effet de statut <b>Épuisement</b> pendant <span class=\"Highlight2\">{1} seconde(s)</span>.<br>",
         "name": "Briseur d’esprit",
-        "flavor": "« Les capacités télépathiques du spécimen peuvent faire naître des sentiments d’effroi et de fatigue chez les individus proches. » - Laboratoire national d’Hawkins",
+        "flavor": "« Les capacités télépathiques du spécimen peuvent faire naître des sentiments d’effroi et de fatigue chez les individus proches. » - Laboratoire national d’Hawkins",
         "id": 62,
         "index": "MINDBREAKER",
         "rarity": [
@@ -1667,7 +1667,7 @@
     {
         "description": "Vos liens avec l’autre monde se manifestent quand votre proie tente de s’échapper.<br><br>Chaque fois qu’un générateur est réparé, dans un rayon de <span class=\"Highlight1\">{0} mètres</span> autour de celui-ci, les fenêtres et les sauts d’obstacles sont bloqués pour tous les survivants pendant <span class=\"Highlight2\">{1} secondes</span>. <br><br>Vous voyez l’aura des sauts d’obstacles bloqués par <i>Limites cruelles</i> pendant toute sa durée.<br>",
         "name": "Limites cruelles",
-        "flavor": "« Le spécimen semble capable d’affecter les objets proches comme s’ils existaient sous une autre forme dans une dimension différente de la nôtre. » -Laboratoire national d’Hawkins",
+        "flavor": "« Le spécimen semble capable d’affecter les objets proches comme s’ils existaient sous une autre forme dans une dimension différente de la nôtre. » -Laboratoire national d’Hawkins",
         "id": 63,
         "index": "CRUEL_LIMITS",
         "rarity": [
@@ -1695,7 +1695,7 @@
     {
         "description": "Débloque le potentiel de repérage d'aura. Vous faites preuve de vigilance et restez attentif aux zones clés du champ de bataille.<br><br>Vous voyez l’aura de l’ensemble des palettes, murs destructibles et emplacements de saut d’obstacles dans un rayon de <span class=\"Highlight1\">{0} mètres</span>.<br>",
         "name": "Tactiques de Zanshin",
-        "flavor": "« La faiblesse de votre ennemi réside dans sa force. » - Doctrine de Renjiro 12:5",
+        "flavor": "« La faiblesse de votre ennemi réside dans sa force. » - Doctrine de Renjiro 12:5",
         "id": 64,
         "index": "ZANSHIN_TACTICS",
         "rarity": [
@@ -1720,7 +1720,7 @@
     {
         "description": "L’agonie d’un survivant est infligée aux autres.<br><br>Lorsque vous suspendez un survivant, tous les survivants blessés souffrent des effets de statut <span class=\"Highlight1\">Hémorragie</span> et <span class=\"Highlight1\">Épuisement</span> pendant <span class=\"Highlight2\">{0} secondes</span>.<br><br><i>Écho sanguin</i> a un temps de rechargement de <span class=\"Highlight3\">{1} secondes.</span><br>",
         "name": "Écho sanguin",
-        "flavor": "« Attaquez un ennemi avec précision et ses alliés le sentiront. » - Doctrine de Renjiro 6:3",
+        "flavor": "« Attaquez un ennemi avec précision et ses alliés le sentiront. » - Doctrine de Renjiro 6:3",
         "id": 65,
         "index": "BLOOD_ECHO",
         "rarity": [
@@ -1748,7 +1748,7 @@
     {
         "description": "Vous cherchez à vous venger de ceux qui vous ont fait du tort. Un survivant qui parvient à vous aveugler ou à vous étourdir avec une palette ou un casier devient votre obsession.<br><br>Dès qu’un nouveau survivant devient l’obsession, il est affecté par l’effet de statut <span class=\"Highlight1\">Inconscient</span> pendant <span class=\"Highlight2\">{0} secondes</span> et vous voyez son aura pendant <span class=\"Highlight3\">{1} secondes</span>.<br><br><li><i>Le tueur ne peut être <b>obsédé</b> que par un seul survivant à la fois.</i></li><br>",
         "name": "Ennemi juré",
-        "flavor": "« Seul un idiot peut cracher au visage d’un démon et croire en avoir triomphé. » - Doctrine de Renjiro 4:9",
+        "flavor": "« Seul un idiot peut cracher au visage d’un démon et croire en avoir triomphé. » - Doctrine de Renjiro 4:9",
         "id": 66,
         "index": "NEMESIS",
         "rarity": [
@@ -1776,7 +1776,7 @@
     {
         "description": "Vous avez l'œil pour du matériel en bon état.<br><br>Après avoir frappé un survivant <span class=\"Highlight1\">{0}</span> fois avec votre <i>attaque de base</i>, <i>Bricolo</i> s'active pendant <span class=\"Highlight2\">{1} secondes</span>.<br><br>Quand <i>Bricolo</i> est actif, chaque fois qu'un survivant effectue un bon test d'habileté pendant une réparation, le générateur est signalé par une aura jaune tant qu'il est en cours de réparation.<br>",
         "name": "Bricolo",
-        "flavor": "« Parfois, un homme finit dans la tombe à cause de son chef-d'œuvre. » - Directeur de la prison",
+        "flavor": "« Parfois, un homme finit dans la tombe à cause de son chef-d'œuvre. » - Directeur de la prison",
         "id": 67,
         "index": "GEARHEAD",
         "rarity": [
@@ -1804,7 +1804,7 @@
     {
         "description": "Un survivant devient votre <b>obsession</b>.<br><br>Après avoir suspendu l’obsession, <i>Dispositif de l’homme mort</i> s’active pendant <span class=\"Highlight1\">{0} secondes</span>. <br><br>Une fois activé, tout survivant qui s’arrête avant d’avoir entièrement réparé le générateur fait que l’Entité bloque ce dernier jusqu’à la fin de l’effet de <i>Dispositif de l’homme mort</i>. <br><br>Les générateurs affectés sont entourés d’une aura blanche.<br><br><i>Le tueur ne peut être <b>obsédé</b> que par un survivant à la fois.</i><br>",
         "name": "Dispositif de l’homme mort",
-        "flavor": "« J’ai vu le regard d’un homme au moment où il réalise qu’il est sur le point de mourir. » - Caleb Quinn",
+        "flavor": "« J’ai vu le regard d’un homme au moment où il réalise qu’il est sur le point de mourir. » - Caleb Quinn",
         "id": 68,
         "index": "DEAD_MANS_SWITCH",
         "rarity": [
@@ -1828,8 +1828,8 @@
     },
     {
         "description": "Un sort qui se déclenche au moment de sa destruction. Ceux qui vous contrarient seront punis.<br><br>Tout survivant qui purifie un totem passif subira l’effet de statut <b>Inconscient</b> pendant <span class=\"Highlight1\">{0} secondes</span>.<br><br>Si un totem ensorcelé est purifié, y compris celui-ci, l’aura de tous les survivants est révélée pendant <span class=\"Highlight2\">{1} secondes</span>.<br>",
-        "name": "Sort : Châtiment",
-        "flavor": "« Sombre idiot, tu l’as activé toi-même. » - Caleb Quinn",
+        "name": "Sort : Châtiment",
+        "flavor": "« Sombre idiot, tu l’as activé toi-même. » - Caleb Quinn",
         "id": 69,
         "index": "HEX_RETRIBUTION",
         "rarity": [
@@ -1935,7 +1935,7 @@
     {
         "description": "Après avoir frappé un générateur, le premier survivant qui interagit avec dans les <span class=\"Highlight1\">{0} prochaines secondes</span> se met à crier, dévoilant sa position pendant <span class=\"Highlight2\">{1} secondes</span>, et il souffre de l’effet de statut <b>À découvert</b> pendant <span class=\"Highlight3\">{2} secondes</span>.<br><br><i>Prise du dragon</i> a un temps de recharge de <span class=\"Highlight4\">{3} secondes</span>.<br>",
         "name": "Prise du dragon",
-        "flavor": "« Ce composé a un tel potentiel... même une dose minime a des effets anormaux. » - Journal de Talbot Grimes",
+        "flavor": "« Ce composé a un tel potentiel... même une dose minime a des effets anormaux. » - Journal de Talbot Grimes",
         "id": 73,
         "index": "DRAGONS_GRIP",
         "rarity": [
@@ -1968,8 +1968,8 @@
     },
     {
         "description": "Un sort qui gagne les faveurs de l’Entité en faisant couler du sang.<br><br>Quand un survivant est frappé avec une <i>attaque de base</i>, les palettes à moins de <span class=\"Highlight1\">{0} mètres</span> de votre position sont maintenues en place par l’Entité pendant <span class=\"Highlight2\">{1} secondes</span>. Impossible de les faire tomber.<br><br><i>Sort : Faveur de sang</i> a un temps de recharge de <span class=\"Highlight3\">{2} secondes</span>.<br>",
-        "name": "Sort : Faveur de sang",
-        "flavor": "« Il n’est pas difficile d’imaginer que les épreuves sont une sorte de réponse biologique. » - Journal de Talbot Grimes",
+        "name": "Sort : Faveur de sang",
+        "flavor": "« Il n’est pas difficile d’imaginer que les épreuves sont une sorte de réponse biologique. » - Journal de Talbot Grimes",
         "id": 74,
         "index": "HEX_BLOOD_FAVOR",
         "rarity": [
@@ -1999,7 +1999,7 @@
     },
     {
         "description": "Pendant que le <i>Sort : Immortel</i> est actif, l’aura des survivants à moins de <span class=\"Highlight1\">{0} mètres</span> d’un totem passif est révélée.<br><br>Quand un autre totem ensorcelé est purifié, le sort de ce totem est transféré au totem Sort : Immortel, désactivant ce sort. Tous les jetons du sort transféré le sont également.",
-        "name": "Sort : Immortel",
+        "name": "Sort : Immortel",
         "id": 75,
         "index": "HEX_UNDYING",
         "rarity": [
@@ -2051,7 +2051,7 @@
     {
         "description": "La vie n’a pas été tendre avec vous, et vous le rendez bien aux autres.<br><br>Lorsque vous endommagez un générateur, un maximum de <span class=\"Highlight1\">{0}</span> autres générateurs aléatoires régressent également.<br><br>Si les générateurs affectés sont en cours de réparation, tout survivant en train de les réparer doit effectuer un test d’habileté difficile.<br><br><i>Oppression</i> a un temps de recharge de <span class=\"Highlight2\">{1}</span> secondes. <br>",
         "name": "Oppression",
-        "flavor": "« Condamnes-les comme ils nous ont eux-mêmes condamnés. » — Charlotte Deshayes",
+        "flavor": "« Condamnes-les comme ils nous ont eux-mêmes condamnés. » — Charlotte Deshayes",
         "id": 77,
         "index": "OPPRESSION",
         "rarity": [
@@ -2103,7 +2103,7 @@
     {
         "description": "Votre sens inégalé de la mise en scène éblouit tout le monde.<br><br>Quand vous portez un survivant, tout autre survivant dans votre rayon de terreur subit l’effet de statut <b>À découvert</b>.<br>L’effet persiste pendant <span class=\"Highlight1\">{0} secondes</span> sur les survivants qui quittent votre rayon de terreur, et sur ceux dans le rayon lorsque vous suspendez ou relâchez le survivant porté.<br><i>Intimidé</i> a un temps de recharge de <span class=\"Highlight2\">{1} secondes</span> une fois que vous ne portez plus le survivant.<br>",
         "name": "Intimidé",
-        "flavor": "« Profitez de cet instant, rares sont ceux qui m’approchent d’aussi près. » — Ji-Woon Hak",
+        "flavor": "« Profitez de cet instant, rares sont ceux qui m’approchent d’aussi près. » — Ji-Woon Hak",
         "id": 79,
         "index": "STARSTRUCK",
         "rarity": [
@@ -2130,8 +2130,8 @@
     },
     {
         "description": "Un sort qui fait en sorte que ceux qui vous sont inférieurs soient correctement guidés.<br><br>L’Entité bloque une fenêtre pendant<span class=\"Highlight1\"> {0} secondes</span> après qu’un survivant a fait un saut <b>précipité</b> au travers.<br><br><i>Les effets du sort persistent tant que le Totem ensorcelé est debout.</i><br>",
-        "name": "Sort : Contrôle des foules",
-        "flavor": "« Vous ne contrôlez rien. Comme il se doit pour les gens de votre sorte. » — Ji-Woon Hak",
+        "name": "Sort : Contrôle des foules",
+        "flavor": "« Vous ne contrôlez rien. Comme il se doit pour les gens de votre sorte. » — Ji-Woon Hak",
         "id": 80,
         "index": "HEX_CROWD_CONTROL",
         "rarity": [
@@ -2156,7 +2156,7 @@
     {
         "description": "Vous n’allez pas laisser n’importe qui accéder au carré VIP.<br><br>Après avoir suspendu un survivant à un crochet pour la première fois, <i>Aucune issue</i> gagne un jeton.<br>Quand le dernier générateur est réparé, l’Entité bloque les deux interrupteurs de la porte de sortie pendant <span class=\"Highlight1\">{0} secondes</span>, plus <span class=\"Highlight2\">{1} secondes</span> supplémentaires pour chaque jeton en votre possession.<br>",
         "name": "Aucune issue",
-        "flavor": "« Ce son, quand vous saignez... je veux l’entendre à nouveau. » — Ji-Woon Hak",
+        "flavor": "« Ce son, quand vous saignez... je veux l’entendre à nouveau. » — Ji-Woon Hak",
         "id": 81,
         "index": "NO_WAY_OUT",
         "rarity": [

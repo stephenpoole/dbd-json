@@ -11,7 +11,7 @@
     {
         "description": "Une petite ampoule de lampe de poche à la puissance plus élevée qui garantit un faisceau plus lumineux.<br><li><b>Réduit légèrement</b> le rayon du faisceau de la lampe de poche.</li><li><b>Augmente légèrement</b> l’éclat du faisceau.</li><li><b>Augmente légèrement</b> la durée de l’Aveuglement.</li>",
         "name": "Ampoule électrique",
-        "flavor": "« Même la lampe la plus puissante ne peut percer la noirceur de la brume noire. »",
+        "flavor": "« Même la lampe la plus puissante ne peut percer la noirceur de la brume noire. »",
         "id": 2,
         "index": "POWER_BULB",
         "type": 1,
@@ -21,7 +21,7 @@
     {
         "description": "Une bande de cuir enroulée autour de la lampe de poche pour améliorer la prise en main.<br><li><b>Augmente légèrement</b> la précision de la lampe de poche.</li>",
         "name": "Poignée en cuir",
-        "flavor": "« Beaucoup ont péri car ils transpiraient des mains. »",
+        "flavor": "« Beaucoup ont péri car ils transpiraient des mains. »",
         "id": 3,
         "index": "LEATHER_GRIP",
         "type": 1,
@@ -31,7 +31,7 @@
     {
         "description": "Une pile standard de marque inconnue.<br><li>Ajoute <b>2 secondes</b> d’utilisation à la lampe de poche classique.</li>",
         "name": "Pile",
-        "flavor": "« Encore une pile presque à plat. »",
+        "flavor": "« Encore une pile presque à plat. »",
         "id": 4,
         "index": "BATTERY",
         "type": 1,
@@ -41,7 +41,7 @@
     {
         "description": "Assemblage d’une lentille et d’un réflecteur qui agrandit le faisceau de la lampe de poche.<br><li><b>Augmente modérément</b> l’éclat du faisceau.</li><li><b>Augmente modérément</b> la durée de l’Aveuglement.</li>",
         "name": "Optique à réflexion totale",
-        "flavor": "« Laissez la lumière dévoiler leur linceul noir. »",
+        "flavor": "« Laissez la lumière dévoiler leur linceul noir. »",
         "id": 5,
         "index": "TIR_OPTIC",
         "type": 1,
@@ -69,7 +69,7 @@
     {
         "description": "Une pile portant la mention « puissance industrielle. »<br><li>Ajoute <b>4 secondes</b> d’utilisation à la lampe de poche classique.</li>",
         "name": "Pile haute performance",
-        "flavor": "« Une pile conçue pour durer 8 heures ne dure que quelques secondes dans la brume noire. »",
+        "flavor": "« Une pile conçue pour durer 8 heures ne dure que quelques secondes dans la brume noire. »",
         "id": 8,
         "index": "HEAVY_DUTY_BATTERY",
         "type": 1,
@@ -124,7 +124,7 @@
     {
         "description": "Corde finement tressée utilisée dans les rituels. Peut être attachée à la clé.<br><li>Ajoute <b>10 secondes</b> d’utilisation à la clé.</li>",
         "name": "Corde de prière",
-        "flavor": "« Priez tant que vous voulez, vos mots se perdent ici dans le brouillard. »",
+        "flavor": "« Priez tant que vous voulez, vos mots se perdent ici dans le brouillard. »",
         "id": 14,
         "index": "PRAYER_ROPE",
         "type": 2,

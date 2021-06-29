@@ -932,7 +932,7 @@
     },
     {
         "description": "Das Trauma, das deine brutalen Angriffe verursachen, macht Hilfeschreie qualvoll und schwierig.<br>Überlebende, die durch deine Grundangriffe in den Todesstatus versetzt werden, sind für die anderen Überlebenden nicht zu sehen, wenn sie außerhalb einer Reichweite von <span class=\"Highlight1\">{2} Metern</span> sind.<br>Überlebende, die durch deine Grundangriffe in den Todesstatus versetzt werden, kriechen <span class=\"Highlight2\">{1} %</span> langsamer, und zwar für <span class=\"Highlight3\">{0} Sekunden</span>.<br>In dieser Zeit sind die Überlebenden vom Statuseffekt <b>Erblindung</b> betroffen.",
-        "name": "K. o.",
+        "name": "K. o.",
         "flavor": "\"Ach, diese Waffe ist nicht gut. Auf gute alte Weise ... mit einem Vorschlaghammer! Du wirst sehen, das ist viel besser. Auf diese Weise sterben sie besser.\" – Nubbins Sawyer",
         "id": 36,
         "index": "KNOCK_OUT",

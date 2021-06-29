@@ -136,7 +136,7 @@
     },
     {
         "description": "<b>Erhöht leicht</b> die Wahrscheinlichkeit, zur Coldwind Farm geschickt zu werden, wenn sie verbrannt wird.<br><li>Kombinierbar.</li>",
-        "name": "Rindermarke 28",
+        "name": "Rindermarke 28",
         "flavor": "„Eine blutverschmierte Rindermarke mit der Nummer 28.“",
         "id": 16,
         "index": "CATTLE_TAG_TWENTY_EIGHT",
@@ -145,7 +145,7 @@
     },
     {
         "description": "<b>Erhöht deutlich</b> die Wahrscheinlichkeit, zur Coldwind Farm geschickt zu werden, wenn sie verbrannt wird.<br><li>Kombinierbar.</li>",
-        "name": "Coldwind-Rindermarke 81",
+        "name": "Coldwind-Rindermarke 81",
         "flavor": "„Eine blutverschmierte Rindermarke, gekennzeichnet mit ‚Coldwind Farm‘ und der Nummer 81.“",
         "id": 17,
         "index": "CATTLE_TAG_EIGHTY_ONE",
