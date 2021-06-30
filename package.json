@@ -41,6 +41,7 @@
         "dev": "webpack --mode=development && webpack --mode=development --config=webpack.node.config.js && yarn types:browser && yarn types:node && yarn copy-version",
         "copy-version": "node ./scripts/version.js",
         "build": "node ./scripts/build.js",
+        "update": "node ./scripts/update.js",
         "types:browser": "yarn types:en && yarn types:es && yarn types:de && yarn types:fr && yarn types:it && yarn types:jp && yarn types:ko && yarn types:pl && yarn types:ru && yarn types:th && yarn types:tr && yarn types:zh",
         "types:en": "tsc -d --outDir \".\" -p \"./src/en\" --emitDeclarationOnly",
         "types:es": "tsc -d --outDir \".\" -p \"./src/es\" --emitDeclarationOnly",
