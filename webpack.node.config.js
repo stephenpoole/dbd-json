@@ -34,7 +34,7 @@ const config = argv => ({
 });
 
 const nodeConfig = {
-    entry: "./src/node/index.ts",
+    entry: "./src/all/index.ts",
     target: "node",
     externals: [nodeExternals()],
     output: {

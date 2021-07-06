@@ -56,6 +56,16 @@ const browserConfig = {
 module.exports = (env, argv) => {
     const base = config(argv);
 
+    const all = {
+        ...base,
+        ...browserConfig,
+        plugins: base.plugins.concat(browserConfig.plugins),
+        output: {
+            ...browserConfig.output,
+            path: path.resolve(__dirname, "./all"),
+        },
+        entry: "./src/all/index.ts",
+    };
     const en = {
         ...base,
         ...browserConfig,
@@ -155,5 +165,5 @@ module.exports = (env, argv) => {
         },
     };
 
-    return [en, es, de, fr, it, jp, ko, pl, ru, th, tr, zh];
+    return [all, en, es, de, fr, it, jp, ko, pl, ru, th, tr, zh];
 };

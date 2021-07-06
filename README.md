@@ -113,6 +113,32 @@ In a Node environment:
 
 Refer to the [deadbydaylight.node repository](https://github.com/stephenpoole/deadbydaylight.node) for instructions regarding Node.
 
+If your environment does not care about filesize, you can instead load all locales at once.
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/@stephenpoole/deadbydaylight/all/deadbydaylight.js"></script>
+```
+
+or
+
+```javascript
+import Dbd from "@stephenpoole/deadbydaylight/all";
+```
+
+You can then specify the default locale when instantiating, or as a second parameter when calling any method.
+
+```javascript
+(async () => {
+    const { Language, Killer } = DeadByDaylight;
+    const dbd = DeadByDaylight.Client(Language.French);
+    const nurse = dbd.killer(Killer.Nurse);
+    console.log(nurse); // french
+
+    const doctor = dbd.killer(Killer.Doctor, Language.Korean);
+    console.log(nurse); // korean
+})();
+```
+
 ## Data
 
 ### Killers

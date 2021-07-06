@@ -11,7 +11,7 @@ fs.stat(path.resolve(__dirname, lastVersionPath), (error, stat) => {
     }
     const version = fs.readFileSync(filePath).toString();
     if (lastVersion !== version) {
-        console.log(before, "=>", after);
+        console.log(lastVersion, "=>", version);
     } else {
         console.log("no updates");
     }
